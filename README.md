@@ -50,11 +50,11 @@ Chapter 1 provides an introduction to game design: what the designer needs to do
 
 Chapter 2 is about game concepts: where the idea for a game comes from and how to refine it. The audience and the target hardware (the machine the game will run on) both have a strong influence on the direction the game will take.
 
-[第二章](chapter-2.-game-concepts-di-er-zhang-you-xi-gai-nian.md)是关于游戏概念：游戏创意的来源以及如何完善创意。受众和目标硬件（游戏运行的机器）都会对游戏的方向产生很大影响。
+[第二章](chapter-2.md)是关于游戏概念：游戏创意的来源以及如何完善创意。受众和目标硬件（游戏运行的机器）都会对游戏的方向产生很大影响。
 
 Chapter 3 is about the game's setting and world: the place where the gameplay happens, and the way things work there. As the designer, you're the god of your world, and it's up to you to define its concepts of time and space, mechanics, and natural laws, as well as many other things: its logic, emotions, culture, and values.
 
-[第三章](chapter-3.-game-settings-and-worlds-di-san-zhang-you-xi-chang-jing-yu-shi-jie.md)是关于游戏的背景和世界：游戏发生的地方，以及游戏的运行方式。作为设计者，你就是你的世界之神，你要定义这个世界的时间和空间概念、运作方式和自然法则，以及许多其他东西：它的逻辑、情感、文化和价值观。
+[第三章](chapter-3.md)是关于游戏的背景和世界：游戏发生的地方，以及游戏的运行方式。作为设计者，你就是你的世界之神，你要定义这个世界的时间和空间概念、运作方式和自然法则，以及许多其他东西：它的逻辑、情感、文化和价值观。
 
 Chapter 4 delves into the problems of storytelling and narrative: how to create a compelling storyline, and how to balance the inevitable tension between your desire for control as a designer, and the player's desire for freedom as an actor in your world.
 
