@@ -2,7 +2,7 @@
 
 This chapter addresses the earliest stage of game design: getting and refining an idea for a game. Your goal at this point should be to write the high-concept document that we described in Chapter 1, “What Is Game Design?.” To do this, you don't have to have all the details worked out yet. But you do need a clear understanding of what your game is about, and you must answer certain essential questions. When you've answered those questions to your satisfaction and have written down the answers, you have turned your idea into a game concept. At the end of this chapter, we've included a worksheet to help you out.
 
-本章讲述游戏设计的最初阶段：获得并完善游戏概念。此时，你的目标应该是写出我们在第一章，“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的想法变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
+本章讲述游戏设计的最初阶段：获得并完善游戏创意。此时，你的目标应该是写出我们在第一章，“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的创意变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
 
 ## Getting an Idea 获取创意
 
@@ -483,28 +483,17 @@ In designing an entertaining game, every element and every feature are tested ag
 >
 > 要把你的游戏创意变成一个成熟的游戏概念，你需要思考并回答以下问题。你不必回答得很精确或详细，但应该对所有问题都有一个大致的答案。
 >
-> 1. What is the nature of the gameplay? That is, what challenges will the player face? What actions will the player take to overcome them?
->    游戏的本质是什么？即，玩家将面临什么挑战？玩家将采取什么行动来克服这些挑战？
-> 2. What is the victory condition for the game, if any? What is the player trying to achieve?
->    游戏的胜利条件是什么？玩家要实现什么目标？
-> 3. What is the player's role? Is the player pretending to be someone or something, and if so, what? How does the player's role help to define the gameplay?
->    玩家的角色是什么？玩家是否在扮演某人或某物？玩家的角色如何帮助定义游戏玩法？
-> 4. What is the game's setting? Where does it take place?
->    游戏的背景是什么？游戏发生在哪里？
-> 5. What is the player's interaction model? Omnipresent? Through an avatar? Something else? Some combination?
->    玩家的互动模式是什么？无所不在？通过化身？其他方式？某种组合？
-> 6. What is the game's primary perspective? How will the player view the game's world on the screen? Will there be more than one perspective?
->    游戏的主要视角是什么？玩家如何在屏幕上观看游戏世界？是否会有多个视角？
-> 7. What is the general structure of the game? What is going on in each mode, and what function does each mode fulfill?
->    游戏的总体结构是什么？每种模式下会发生什么，每种模式有什么功能？
-> 8. Is the game competitive, cooperative, team-based, or single-player? If multiple players are allowed, are they using the same machine with separate controls or different machines over a network?
->    游戏是竞技型、合作型、团队型还是单人型？如果允许多人参与，他们是使用同一台机器进行分开控制，还是通过网络使用不同的机器？
-> 9. Does the game have a narrative or story as it goes along? Summarize the plot in a sentence or two.
->    游戏过程中是否有叙事或故事？用一两句话概括剧情。
-> 10. Does the game fall into an existing genre? If so, which one?
->     游戏是否属于现有类型？如果是，属于哪一种？
-> 11. Why would anyone want to play this game? What sort of people would be attracted to this game?
->     为什么会有人想玩这款游戏？什么样的人会被这款游戏吸引？
+> 1. What is the nature of the gameplay? That is, what challenges will the player face? What actions will the player take to overcome them? 游戏的本质是什么？即，玩家将面临什么挑战？玩家将采取什么行动来克服这些挑战？
+> 2. What is the victory condition for the game, if any? What is the player trying to achieve? 游戏的胜利条件是什么？玩家要实现什么目标？
+> 3. What is the player's role? Is the player pretending to be someone or something, and if so, what? How does the player's role help to define the gameplay? 玩家的角色是什么？玩家是否在扮演某人或某物？玩家的角色如何帮助定义游戏玩法？
+> 4. What is the game's setting? Where does it take place? 游戏的背景是什么？游戏发生在哪里？
+> 5. What is the player's interaction model? Omnipresent? Through an avatar? Something else? Some combination? 玩家的互动模式是什么？无所不在？通过化身？其他方式？某种组合？
+> 6. What is the game's primary perspective? How will the player view the game's world on the screen? Will there be more than one perspective? 游戏的主要视角是什么？玩家如何在屏幕上观看游戏世界？是否会有多个视角？
+> 7. What is the general structure of the game? What is going on in each mode, and what function does each mode fulfill? 游戏的总体结构是什么？每种模式下会发生什么，每种模式有什么功能？
+> 8. Is the game competitive, cooperative, team-based, or single-player? If multiple players are allowed, are they using the same machine with separate controls or different machines over a network? 游戏是竞技型、合作型、团队型还是单人型？如果允许多人参与，他们是使用同一台机器进行分开控制，还是通过网络使用不同的机器？
+> 9. Does the game have a narrative or story as it goes along? Summarize the plot in a sentence or two. 游戏过程中是否有叙事或故事？用一两句话概括剧情。
+> 10. Does the game fall into an existing genre? If so, which one? 游戏是否属于现有类型？如果是，属于哪一种？
+> 11. Why would anyone want to play this game? What sort of people would be attracted to this game? 为什么会有人想玩这款游戏？什么样的人会被这款游戏吸引？
 
 ## Putting It Together 小结
 
