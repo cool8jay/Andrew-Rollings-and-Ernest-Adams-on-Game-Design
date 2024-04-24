@@ -223,20 +223,14 @@ As we said before, a key part of game design is transmitting the design to other
 正如我们之前所说，游戏设计的一个关键部分是将设计传递给团队的其他成员。在实践中，很多交流都不是通过文档本身进行的，而是通过团队会议、闲聊和午餐谈话进行的。但这并不意味着编写设计文档就没有意义了。这些文档记录了以口头方式做出的决定和达成的共识；它们创建了一个书面记录。更重要的是，撰写文档是一个将模糊、不成型的想法转化为明确计划的过程。即使根本没有人读过它，但写下的想法就是做出的决定、得出的结论。如果游戏的某项功能没有以书面形式描述出来，那么很有可能会被忽视，有人不得不临时编造，或者更糟糕的是，团队中的每个人都会朝着不同的目标努力。在编写代码或制作美术作品之前纠正设计错误要容易得多，成本也低得多。根据游戏规模的大小，明智的开发者会在开始开发前为纯粹的设计工作预留一到六个月的时间，通常还会结合一些一次性的原型来测试游戏的玩法。
 
 > **Idea Versus Design Decision** 创意与设计决策
->
->
->
+> 
 > Here's an idea: “Basilisks should protect their eggs.”
->
+> 
 > 这是一个想法："蛇怪应该保护它们的蛋。"
->
->
 >
 > Here's a design decision: “Whenever they have eggs in their nests, female basilisks will not move beyond visual range from the nest. If an enemy approaches within 50 meters of the nest, the basilisk will abandon any other activity and return to the nest to defend the eggs. She will not leave as long as a living enemy threatens the eggs, and will even defend the eggs to her own death.”
 >
 > 这是一个设计决定： “只要巢中有卵，雌性蛇怪就不会离开巢的可视范围。如果有敌人接近巢穴 50 米范围内，蛇怪就会放弃任何其他活动，返回巢穴保护蛋。只要有活着的敌人威胁到鸟蛋，它就不会离开，甚至会拼死保护鸟蛋。”
->
->
 >
 > See the difference? This is what creating design documents is about.
 >
