@@ -511,6 +511,3 @@ In designing an entertaining game, every element and every feature are tested ag
 Now your idea is no longer just an idea. You've devised the essential elements of a game, and you know the answers to the vital questions that a publisher will ask. You have a game concept down on paper, and you're ready to show it to someone else for an opinion. The skeleton is assembled. Now it's time to put meat on the bones.
 
 现在，你的想法不再只是一个想法。你已经设计出游戏的基本要素，也知道发行商会问的重要问题的答案。你已经把游戏概念写在纸上，准备好向别人展示，征求意见。骨架已经搭好。现在是往骨头上加肉的时候了。
-
-
-
