@@ -30,7 +30,7 @@ This process of abstraction—ignoring the game's setting—occurs only at a hig
 
 然而，这种抽象化过程——忽视游戏背景——只有在高水平的游戏中才会出现。对于第一次玩游戏的人来说，游戏的背景对于激发和维持他的兴趣至关重要。实际上，游戏背景的基本功能之一首先是推销游戏。让顾客在商店里拿起一盒游戏的不是游戏的机制，而是它提供的幻想：如果你玩了这款游戏，你会成为谁，你会在哪里，你会在那里做什么。
 
-The “Graphics Versus Gameplay” Debate “图形与游戏性”之争
+## The “Graphics Versus Gameplay” Debate “图形与游戏性”之争
 
 The relationship between the setting and the mechanics is the subject of considerable debate in the game industry, although it's usually characterized as “graphics versus gameplay.” The graphics create the setting; the core mechanics, along with the user interface, create the gameplay—the challenges the player faces and the actions he may take to overcome them. In the early days of video gaming, graphics were seriously restricted by the weakness of the display hardware. The gameplay, as implemented by the programmers, was the source of most of the game's appeal. With the growth of modern display technology, the graphics have taken on much greater importance, and creating them consumes a large proportion of a game's development budget. Some designers and programmers, especially those who've been around since the early days, have become rather annoyed at the dominant role that graphics now play. They insist that graphics must be subordinate to gameplay in game design, and as proof they point to examples of games with great graphics and very little gameplay that offer poor value for the money.
 
