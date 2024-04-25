@@ -506,7 +506,7 @@ In designing an entertaining game, every element and every feature are tested ag
 > 11. Why would anyone want to play this game? What sort of people would be attracted to this game?\
 >     为什么会有人想玩这款游戏？什么样的人会被这款游戏吸引？
 
-## Putting It Together 小结
+# Putting It Together 小结
 
 Now your idea is no longer just an idea. You've devised the essential elements of a game, and you know the answers to the vital questions that a publisher will ask. You have a game concept down on paper, and you're ready to show it to someone else for an opinion. The skeleton is assembled. Now it's time to put meat on the bones.
 

@@ -130,7 +130,7 @@ It's possible to have more than three spatial dimensions, but, in general, we do
 
 空间维度可以超过三维，但一般来说，我们不建议这样做。计算机可以在显示器屏幕的二维空间中显示扭曲的四维空间近似物，就像它可以在二维空间中显示三维空间的近似物一样。然而，由于人类不习惯与四维空间打交道，我们中的大多数人都很难在四维空间中游刃有余。如果出于某种原因想要加入四维空间，可以考虑将其作为“现实的另一个位面”，而不是真正的四维空间。换句话说，两个三维空间看起来很相似，但又有一些不同之处。例如，游戏《凯恩的遗产：夺魂之镰》包含两个三维空间：幽灵界和物质界。这两个空间的景观是一样的，但幽灵界的灯光是蓝色的，而物质界的灯光是白色的；玩家在幽灵界和物质界可以采取的行动也是不同的。虽然它们都是通过相同的三维模型在软件中实现的，但它们在功能上是不同的，受不同的法则支配。在电影版《魔戒》中，弗罗多戴着魔戒时所处的世界也可以看作是现实世界的另一个位面，它与现实世界重叠，但在外观和行为上有所不同。
 
-### Scale 规模
+### Scale 比例
 
 By scale, we mean both the total size of the physical space represented and the relative sizes of objects in the game. If a game is purely abstract and doesn't correspond to anything in the real world, the sizes of objects in its game world don't really matter. You can adjust them to suit the game's needs any way you like. But if you are designing a game that is at least somewhat representational of the real world, you'll have to address the question of how big everything should be to both look real and play well. Some distortion is often necessary for the sake of gameplay; the trick is to do it without harming the player's suspension of disbelief too much.
 
@@ -183,20 +183,16 @@ A common solution to the edge-of-the-world problem is to allow the flat world to
 解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边————它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏《上帝也疯狂：开天辟地》中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
 
 > **Questions to Ask Yourself About the Physical Dimension 关于物理维度的自问自答** 
->
 > * Does my game require a physical dimension? What is it used for? Is it an essential part of gameplay or merely cosmetic?\
 > 我的游戏需要物理维度吗？它的用途是什么？它是游戏的重要组成部分还是仅仅是装饰性的？
->
 > * Leaving aside issues of implementation or display, how many imaginary spatial dimensions does my game require? If there are three or more, can objects move continuously through the third and higher dimensions, or are these dimensions partitioned into discrete “layers” or zones?\
 > 抛开实现或显示问题不谈，我的游戏需要多少个想象的空间维度？如果有三个或更多维度，物体能否在第三维度和更高维度中连续移动，还是这些维度被分割为离散的“层”或区域？
 > * How big is my game world, in light-years or inches? Is accuracy of scale critical, as in a football game, or not, as in a cartoonlike action game?\
 > 我的游戏世界有多大，是以光年为单位还是以英寸为单位？比例精确的重要性，是像足球游戏那样，还是像卡通动作游戏那样？
 > * Will my game need more than one scale, for indoor versus outdoor areas, for example? How many will it actually require?\
 > 我的游戏是否需要多种比例，例如室内和室外的比例？精确需要多少个比例？
->
 > * How am I going to handle the relative sizes of objects and people? What about their relative speeds of movement?\
 > 我将如何处理物体和人的相对大小？它们的相对移动速度如何？
-> 
 > * How is my world bounded? Am I going to make an effort to disguise the “edge of the world,” and if so, with what? What happens if the player tries to go beyond it?\
 > 我的世界是如何边界化的？我是否要努力掩饰“世界的边缘”，如果需要，怎么做？如果玩家试图超越它，会发生什么？
 
@@ -391,3 +387,191 @@ Television goes through its own distinct phases, and because it's even more fash
 > 我的游戏的风格和氛围是什么？我将如何用美术、声音和音乐来营造它们？
 > * How much detail can I afford in my game? Will it be rich and varied or sparse and uncluttered? How does this affect the way the game is played?\
 > 我的游戏能有多少细节？是丰富多样，还是稀少简洁？这对游戏的玩法有什么影响？
+
+## The Emotional Dimension 情感纬度
+
+The emotional dimension of a game world defines not only the emotions of the people in the world, but, more important, the emotions that you, as a designer, hope to arouse in the player. Action and strategy games usually involve a narrow emotional dimension, but other games that rely more heavily on story and characters can offer rich emotional content that affects the player deeply.
+
+游戏世界的情感维度不仅决定了世界中人们的情感，更重要的是，决定了作为设计者希望唤起玩家的情感。动作和策略游戏通常涉及的情感维度较窄，但其他更依赖于故事和角色的游戏可以提供丰富的情感内容，深深地影响玩家。
+
+The idea of manipulating the player's emotions might seem a little strange. Most computer games are pretty lighthearted and don't take themselves or their subject matter too seriously. For much of their history, games have been seen only as light entertainment, a way to while away a few hours in a fantasy world. But just because that's all they have been doesn't mean that's all they can be. In terms of the richness of their emotional content, games are now just about where the movies were when they moved from the nickelodeon to the screen. They're no longer just a few minutes' amusement; they are now capable of engaging their audience, and that means an emotional involvement as well as an intellectual one.
+
+操纵玩家情感的想法似乎有点奇怪。大多数电脑游戏都很轻松，不会过分严肃地对待游戏本身或游戏题材。在游戏历史的大部分时间里，游戏一直被视为一种轻松的娱乐，一种在幻想世界中消磨几个小时的方式。但这并不意味着游戏只能如此。就情感内容的丰富性而言，游戏现在的地位与电影从镍币影院搬上银幕时的地位差不多。它们不再仅仅是几分钟的娱乐；它们现在能够吸引观众，这意味着情感参与和智力参与。
+
+To affect a player's emotions, you have to make him care about something or someone, and then threaten that person or thing in a way that holds the player's interest. This is the essence of dramatic tension, whether we're watching Greek tragedy or reading Harry Potter. Something important must be at stake. The danger need not necessarily be physical; it can also be a social, emotional, or economic risk. Most of the young women in Jane Austen's novels were not in imminent peril of death or starvation, but it was essential to their family's social standing and financial future for them to make a good marriage. The conflict between their personal desires and their family obligations provides the tension in the novels.
+
+要想影响玩家的情绪，就必须让他关心某件事或某个人，然后以一种能让玩家感兴趣的方式来威胁这个人或这件事。这就是戏剧张力的精髓所在，无论是观看希腊悲剧还是阅读《哈利·波特》都是如此。必须有重要的东西处于危险之中。危险不一定是身体上的，也可以是社会、情感或经济上的风险。在简·奥斯汀的小说中，大多数年轻女性并没有迫在眉睫的死亡或饥饿危险，但缔结一桩美满婚姻对她们家庭的社会地位和经济前景至关重要。她们的个人欲望与家庭义务之间的冲突为小说增添了紧张气氛。
+
+A good many games set the danger at hyperbolic levels, with extreme claims like “The fate of the universe rests in your hands!”. This appeals to young people, who often feel powerless and have fantasies about being powerful. To adults, it just sounds a bit silly. At the end of Casablanca, Rick said, “The problems of three little people don't amount to a hill of beans in this crazy world,” but he was wrong. The whole movie, a movie still popular over a half century after its first release, is about the problems of three little people. For the duration of the film, these problems hold us entranced. It isn't necessary that the fate of the world be at stake; it is the fates of Rick, Ilsa, and Victor that tug at our hearts.
+
+许多游戏将危险设置得过于夸张，极端地宣称“宇宙的命运掌握在你的手中！”。这对年轻人很有吸引力，因为他们常常感到无能为力，并幻想自己变得强大。对成年人来说，这听起来有点傻。在《卡萨布兰卡》的结尾，里克说：“在这个疯狂的世界上，三个小人物的问题不值一提。”但他错了。整部电影，一部在上映半个多世纪后仍然大受欢迎的电影，讲的就是三个小人物的问题。在影片的整个过程中，这些问题让我们如痴如醉。世界的命运并不一定要岌岌可危，里克、伊尔莎和维克多的命运才是牵动我们心弦的关键。
+
+### The Limitations of Fun 乐趣的局限性
+
+Most people think that the purpose of playing games is to have fun, but fun is a rather limiting term. It tends to suggest excitement and pleasure, either a physical pleasure such as riding a roller coaster, a social pleasure such as joking around with friends, or an intellectual pleasure such as playing cards or a board game. The problem with striving for fun is that it tends to limit the emotional range of games. Suspense, excitement, exhilaration, surprise, and various forms of pleasure fall within the definition of fun, but not pity, jealousy, anger, sorrow, guilt, outrage, or despair.
+
+大多数人认为玩游戏的目的是为了找乐子，但“乐子”是一个相当有局限性的词。它往往意味着兴奋和快乐，或是身体上的快乐，如坐过山车；或是社交上的快乐，如与朋友开玩笑；或是智力上的快乐，如玩牌或棋盘游戏。追求乐趣的问题在于，它往往会限制游戏的情感范围。悬念、兴奋、激动、惊喜以及各种形式的快乐都属于乐趣的范畴，但怜悯、嫉妒、愤怒、悲伤、内疚、愤怒或绝望则不属于。
+
+You might think that nobody in their right mind would want to explore these emotions, but other forms of entertainment—books, movies, television—do it all the time. And, in fact, that's the key: Those media don't provide only fun; they provide entertainment. People can be entertained in all sorts of ways. Movies with sad endings aren't “fun,” but they're still entertaining. Although we say that we make “games,” in fact, what we make is interactive entertainment. The potential of our medium to explore emotions and the human condition is much greater than the term fun game allows for.
+
+你可能会认为，正常人都不会想去探索这些情感，但其他娱乐形式————书籍、电影、电视————却一直在这样做。事实上，这才是关键所在：这些媒体不仅提供乐趣，还提供娱乐。人们可以通过各种方式获得娱乐。结局悲惨的电影并不“有趣”，但它们仍然具有娱乐性。虽然我们说我们制作的是“游戏”，但事实上，我们制作的是互动娱乐。作为一种媒介，它能探索情感和人类状况的潜力，远大于“有趣的游戏”一词所概括。 
+
+All that said, however, bear in mind that most publishers and players want “fun.” Too many inexperienced designers are actually more interested in showing how clever they are than in making sure the player has a good time; they place their own creative agenda before the player's enjoyment. As a designer, you must master the ability to create fun—light enjoyment—before you move on to more complex emotional issues. Unpleasant or painful emotions are a greater aesthetic challenge to address successfully, and they are commercially risky besides. For more on this topic, we recommend that you take a look at the book Creating Emotion in Games, by David Freeman (New Riders, 2003).
+
+尽管如此，请记住，大多数发行商和玩家想要的是“乐趣”。太多缺乏经验的设计师其实更想展示自己的聪明才智，而不是确保玩家玩得开心；他们把自己的创意议程置于玩家的乐趣之前。作为一名设计师，你必须先掌握创造乐趣的能力————轻度享受，然后再去解决更复杂的情感问题。表现令人不快或痛苦的情绪在美学上更具挑战性，而且在商业上也有风险。如需了解更多相关信息，我推荐你阅读大卫·弗里曼所著的《在游戏中创造情感》（New Riders, 2003）一书。
+
+> **Questions to Ask Yourself About the Emotional Dimension 关于情感维度的自问自答**
+> * Does my game have a significant emotional dimension? What emotions will my game world include?\
+> 我的游戏有重要的情感维度吗？我的游戏世界将包含哪些情感？
+> * How does emotion serve the entertainment value of my game? Is it a key element of the plot? Does it motivate characters in the game or the player himself?\
+> 情感如何为游戏的娱乐价值服务？它是情节的关键因素吗？它是否会激励游戏中的角色或玩家本身？
+> * What emotions will I try to inspire in the player? How will I do this? What will be at stake?\
+> 我将尝试激发玩家的哪些情感？如何激发？有什么弊病？
+
+### The Ethical Dimension 伦理纬度
+
+The ethical dimension of a game world defines what right and wrong mean within the context of that world. At first glance, this might seem kind of silly—it's only a game, so there's no need to talk about ethics. But most games that have a setting, a fantasy component, also have an ethical system that defines how the player is supposed to behave. As designers, we are the gods of the game's world, and we define its morality. When we tell a player that he must perform certain actions to win the game, we are defining those actions as good or desirable. Likewise, when we say that the player must avoid certain actions, we are defining them as bad or undesirable. The players who come into the world must adopt our standards, or they will lose the game.
+
+游戏世界的伦理维度定义了该世界背景下的是非对错。乍一看，这可能有点傻————这只是个游戏，没必要谈伦理。但大多数游戏都有一个设定，一个幻想元素，同时也有一个伦理系统来定义玩家应该如何行为。作为设计者，我们是游戏世界的神，我们定义了游戏世界的道德。当我们告诉玩家必须做出某些行为才能赢得游戏时，我们就把这些行为定义为好的或是可取的。同样，当我们告诉玩家必须避免某些行为时，我们就把它们定义为不好或不可取的。来到这个世界的玩家必须采用我们的标准，否则他们就会输掉游戏。
+
+In some respects, the ethical dimension of a game world is part of its culture, but we've broken it out for separate discussion because it poses special design problems. The ethical space of most game worlds is rather disjoint from ethics in the real world. Games allow, even require, you to do things that you can't do in the real world. The range of actions that the game world permits is typically narrower than in the real world (you can fly your F-15 fighter jet all you want, but you can't get out of the plane), but often the permitted actions are quite extreme: killing people, blowing things up, and so on.
+
+在某些方面，游戏世界的伦理维度是其文化的一部分，但我们将其分离出来单独讨论，是因为它带来了特殊的设计问题。大多数游戏世界的伦理空间都与现实世界的伦理空间脱节。游戏允许，甚至要求你做一些在现实世界中做不到的事情。游戏世界允许的行为范围通常比现实世界狭窄（你可以尽情驾驶你的 F-15 战斗机，但你不能离开飞机），但允许的行为往往相当极端：杀人、炸毁东西等等。
+
+On the whole, most games have simple ethics: clobber the bad guys, protect the good guys. It's not subtle but perfectly functional; that's how you play checkers. Not many games explore the ethical dimension in any depth. A few include explicit moral choices, but, unfortunately, they tend to be namby-pamby, consistently rewarding “nice” behavior and punishing “bad” behavior. Such preachy material turns off even children, not to mention adults. But you can build a richer, more involving game by giving the player tough moral choices to make. Ethical ambiguity and difficult decisions are at the heart of many great stories and, indeed, much of life. Should you send a platoon of soldiers to certain death to save a battalion of others? How would you feel if you were in the platoon?
+
+总的来说，大多数游戏的道德规范都很简单：打倒坏人，保护好人。这并不精妙，但非常有用；这就是你玩跳棋的方式。深入探讨道德层面的游戏并不多。少数游戏包含明确的道德选择，但不幸的是，这些选择有些做作，一味奖励“好”行为，惩罚“坏”行为。这种说教式的内容连孩子都会反感，更不用说成年人了。但是，通过让玩家做出艰难的道德选择，你可以制作出更丰富、更吸引人的游戏。道德模棱两可和艰难抉择是许多伟大故事的核心，实际上也是生活的核心。你是否应该让一排士兵冒着必死的危险去拯救一营士兵？如果你是其中一员，你会作何感想？
+
+Black and White was a game that included a certain amount of moral decision making. So are some role-playing games—you can choose to play as an evil character who steals and kills indiscriminately, but the game becomes more difficult to win that way because other characters will refuse to cooperate with you and might even attack you on sight. Rather than impose a rule that says, “Immoral behavior is forbidden,” the game implements a rule that says, “You are free to make your own moral choices—but be prepared to live with the consequences!”. This is a more adult approach to the issue.
+
+《黑与白》是一款包含一定道德决策的游戏。有些角色扮演游戏也是如此————你可以选择扮演一个肆意偷盗和杀戮的邪恶角色，但这样游戏就更难获胜了，因为其他角色会拒绝与你合作，甚至会当场攻击你。游戏中的规则不是“禁止不道德行为”，而是“你可以自由做出道德选择，但要做好承担后果的准备！”。这是更成人化的处理方式。
+
+All that said, we strongly discourage creating games that reward or even allow the player to do truly hateful things. One of the most repugnant games ever created was a cartridge for the Atari 2600 console called Custer's Revenge, in which the player's avatar, a cowboy, was supposed to try to rape a Native American woman who was tied to a pole. (The cartridge was independently published and was not supported or endorsed by Atari in any way.) This kind of thing is beyond bad taste; it's pathological. Games that expect a player to participate in sexual assault, torture, or child abuse will never sell well. They serve only to gratify their designers' sick fantasies while tarnishing the reputation of the rest of us. Although no one would condemn all cinema on the basis of one offensive movie, interactive entertainment is still a young-enough medium that it happens to us. Like it or not, what we each do individually affects us all collectively. The best way to avoid censorship is to exercise some judgment in the first place.
+
+综上所述，我们强烈反对制作奖励甚至允许玩家做出真正令人憎恶的事情的游戏。有史以来最令人厌恶的游戏之一是雅达利 2600 游戏机上的一款名为《卡斯特的复仇》的卡带游戏，在这款游戏中，玩家的化身是一个牛仔，他要强奸一个被绑在柱子上的美国原住民妇女。（这个卡带是独立发行的，雅达利公司没有以任何方式支持或认可它）。这种事情已经超出了低级趣味的范畴，而是一种病态。希望玩家参与性攻击、折磨或虐待儿童的游戏永远不会畅销。它们只会满足设计者变态的幻想，同时玷污我们其他人的名声。虽然没有人会因为一部令人反感的电影而谴责所有的电影，但互动娱乐仍然是一种足够年轻的媒体，这种谴责就发生在我们身边。不管你喜不喜欢，我们每个人的所作所为都会影响到我们所有人。避免审查的最好办法就是先做出一些判断。
+
+You must be sure to explain the ethical dimension of your game clearly in the manual, in introductory material, or in mission briefings. For example, some games that have hostage-rescue scenarios make the death of a hostage a loss condition: If a hostage dies, the player loses. This means that the player has to be extra careful not to kill any hostages, even at the risk of his own avatar's life. In other games, the only loss condition is the avatar's death. In this case, many players will shoot with complete abandon, killing hostages and their captors indiscriminately. In real life, of course, the truth is somewhere in between. Police officers who accidentally shoot a hostage are seldom prosecuted unless they've been grossly negligent, but it doesn't do their career any good. You can emulate this by penalizing the player somehow. To be fair to the player, however, you need to make this clear at the outset.
+
+你必须确保在游戏手册、介绍材料或任务简报中清楚地解释游戏的伦理维度。例如，一些有人质营救情节的游戏会把人质死亡作为损失条件：如果人质死亡，玩家就输了。这意味着玩家必须格外小心，即使冒着自己的化身丧命的危险，也不能杀死任何人质。在其他游戏中，唯一的失败条件只是化身死亡。在这种情况下，许多玩家会肆无忌惮地开枪，滥杀人质和绑架者。当然，现实生活中的情况介于两者之间。意外射杀人质的警察很少被起诉，除非他们有重大过失，但这对他们的职业生涯没有任何好处。你可以通过某种方式惩罚玩家来仿效这种做法。不过，为了对玩家公平，你需要在一开始就明确这一点。
+
+The ethical dimensions of multi-player games, whether online or local, are an enormous and separate problem. We discuss this at length in Chapter 17, “Online Games.”
+
+多人游戏（无论是联网游戏还是本地游戏）的伦理层面是一个庞大而独立的问题。我们将在第十七章，“网络游戏”中详细讨论这个问题。
+
+### A Word About Game Violence 关于游戏暴力
+
+It's not part of our mission in this book to debate, much less offer an answer for, the problem of whether violent video games cause violent behavior in children or adults. This is a psychological question that will be resolved only after prolonged and careful study. Unfortunately, a good many people on both sides of the issue seem to have made up their minds already, and arguments continue to rage in the halls of Congress and elsewhere, supported for the most part by very few facts.
+
+关于暴力电子游戏是否会导致儿童或成人的暴力行为，这不是我们在本书中要讨论的问题，更不用说给出答案了。这是一个心理学问题，只有经过长期细致的研究才能解决。遗憾的是，这个问题的正反两方面似乎都有很多人已经下定了决心，国会大厅和其他地方的争论仍在继续，而支持这些争论的事实大多寥寥无几。
+
+To you, as a designer, however, we do have a few suggestions. The essence of most games is conflict, and conflict is often represented as violence in varying degrees of realism. Chess is a war game in which pieces are killed—removed from the board—but nobody objects to the “violence” of chess; it's entirely abstract. American football is a violent contact sport in which real people get injured all the time, but there are no serious efforts to ban football, either. The only way to remove violence from gameplay would be to prohibit most of the games in the world because most contain violence in some more-or-less abstract form. The issue is not violence, per se, but how violence is portrayed and the circumstances under which it is acceptable.
+
+不过，作为设计者，我们还是有一些建议。大多数游戏的本质都是冲突，而冲突往往在不同程度上以暴力的形式表现出来。国际象棋是一种战争游戏，在这种游戏中，棋子会被杀死————从棋盘上被移走————但没有人反对国际象棋的“暴力”；它完全是抽象的。美式橄榄球是一项暴力接触运动，经常有真人受伤，但也没有人认真努力地禁止橄榄球。要想从游戏中消除暴力，唯一的办法就是禁止世界上大多数游戏，因为大多数游戏都以某种或多或少的抽象形式包含暴力。问题不在于暴力本身，而在于如何描绘暴力以及在何种情况下可以接受暴力。
+
+Games get into political trouble when they have a close visual similarity to the real world but an ethical dimension that is strongly divergent from the real world. Kingpin was a game in which the player was encouraged to beat prostitutes to death with a crowbar, with bloodily realistic graphics. Not surprisingly, it earned a lot of criticism. On the other hand, Space Invaders involved shooting hundreds of aliens, but it was so visually abstract that nobody minded. In other words, the more a game resembles reality visually, the more its ethical dimension should resemble reality as well, or it's likely to make people upset. If you want to make a game in which the player is encouraged to shoot anything that moves, you're most likely to stay out of trouble if those targets are nonhuman and just quietly disappear rather than breaking apart into bloody chunks. Tie your ethical realism to your visual realism.
+
+当游戏在视觉上与现实世界十分相似，但在道德层面却与现实世界大相径庭时，游戏就会陷入政治麻烦。《Kingpin》是一款鼓励玩家用撬棍打死妓女的游戏，画面血腥逼真。毫不奇怪，这款游戏遭到很多批评。另一方面，《太空入侵者》涉及射击数百个外星人，但它的画面非常抽象，因此没有人在意。换句话说，一款游戏在视觉上与现实越相似，它的伦理维度就越应该与现实相似，否则很可能会令人反感。如果你想制作一款游戏，鼓励玩家射杀任何会动的东西，为了最大程度避免惹来麻烦，这些目标最好是非人类的，而且击中以后静静地消失，而不是碎成血块。将伦理现实主义与视觉现实主义结合起来。
+
+Computer games are about bringing fantasies to life, enabling people to do things in make-believe that they couldn't possibly do in the real world. But make-believe is a dangerous game if it is played by people for whom the line between fantasy and reality is not clear. Young children (those under about age eight) don't know much about the real world; they don't know what is possible and what isn't, what is fantasy and what is reality. An important part of raising them is teaching them this difference. But until they've learned it, it's best to make sure that any violence in young children's games is suitably proportionate to their age. The problem with showing violence to children is not the violence, per se, but the notion that there's no price to pay for it. For a detailed and insightful discussion of how children “process” violence, read Killing Monsters: Why Children Need Fantasy, Super Heroes, and Make-Believe Violence by Gerard Jones.
+
+电脑游戏就是要把幻想变为现实，让人们在虚构中做一些在现实世界中不可能做的事情。但是，如果幻想与现实之间的界限不明确，那么虚构就是一种危险的游戏。幼儿（大约八岁以下）对现实世界了解不多，他们不知道什么是可能的，什么是不可能的，什么是幻想，什么是现实。教育他们的一个重要部分就是教会他们这种区别。但在他们学会之前，最好确保幼儿游戏中的任何暴力行为都与他们的年龄相称。向儿童展示暴力的问题不在于暴力本身，而在于“不需要为此付出代价”的观念。关于儿童如何“处理”暴力的详细而深刻的讨论，请阅读杰拉德·琼斯所著的《杀死怪物：为什么儿童需要幻想、超级英雄和虚构的暴力》一书。
+
+Ultimately, the violence in a game should serve the gameplay. If it doesn't, then it's just gratuitous and you should consider doing without it. A few designers, mostly young and male, seem to think that deliberately including gratuitous violence in their games is a gesture of rebellion against the antiviolence crusaders. We encourage these gentlemen to grow up and to remember who the game is for. Our customers don't buy games to see rebellious gestures; they buy them to be entertained.
+
+归根结底，游戏中的暴力应该为游戏性服务。如果不是这样，那它就是无谓的，你应该考虑去掉它。一些设计师，大多是年轻人和男性，似乎认为故意在游戏中加入无端暴力是对反暴力斗士的反抗。我们鼓励这些先生们成熟起来，记住游戏是为谁而做的。我们的客户买游戏不是为了看叛逆的姿态，而是为了娱乐。
+
+> **Questions to Ask Yourself About the Ethical Dimension 关于道德维度的自问自答**
+> * What constitutes right and wrong in my game? What player actions do I reward and what do I punish?\
+> 在我的游戏中，什么是对，什么是错？我要奖励和惩罚玩家的哪些行为？
+> * How will I explain the ethical dimensions of the world to the player? What tells him how to behave and what is expected of him?\
+> 我将如何向玩家解释这个世界的道德标准？用什么告诉他如何行为以及对他的期望是什么？
+> * If my game world includes conflict or competition, is that represented as violence or as something else (racing to a finish, winning an economic competition, outmaneuvering the other side)?\
+> 如果我的游戏世界包含冲突或竞争，那么冲突或竞争是表现为暴力，还是其他形式（抢先到达终点线、赢得经济竞争、智取对方）？
+> * What range of choices am I offering my player? Are there both violent and nonviolent ways to accomplish something? Is the player rewarded in any way for minimizing casualties, or is he punished for ignoring them?\
+> 我为玩家提供了哪些选择？是否有暴力和非暴力两种完成任务的方式？玩家是否会因为尽量减少伤亡而得到奖励，或者会因为忽视伤亡而受到惩罚？
+> * In many games, the end—winning the game—justifies any means that the game allows. Do I want to define the victory conditions in such a way that not all means are acceptable?\
+> 在许多游戏中，游戏的最终目的————赢得游戏————证明游戏所允许的任何手段都是正确的。我是否想以并非所有手段都可接受的方式来定义胜利条件？
+> * Are any other ethical questions present in my game world? Can my player lie, cheat, steal, break promises, or double-cross anyone? Can he abuse, torture, or enslave anyone? Are there positive or negative consequences for these actions?\
+> 我的游戏世界中是否还存在其他道德问题？我的玩家可以撒谎、欺骗、偷窃、违背承诺或出卖他人吗？他可以虐待、折磨或奴役他人吗？这些行为会产生积极或消极的后果吗？
+> * Does my world contain any ethical ambiguities or moral dilemmas? How does making one choice over another affect the player, the plot, and the gameplay?\
+> 我的世界中是否存在伦理模糊或道德困境？做出一种选择比做出另一种选择对玩家、剧情和游戏有什么影响？
+> * How realistic is my portrayal of violence? Does the realism appropriately serve the entertainment value of the game?\
+> 我对暴力的描述有多真实？这种真实感是否恰当地服务于游戏的娱乐价值？
+
+# Realism and Abstraction 现实和抽象
+
+As we said in Chapter 2, games can be divided very roughly into two categories, realistic and abstract. Realistic games make an effort to model the real world, and when playing them you can rely on real-world common sense. Abstract games bear little resemblance to the real world and have arbitrary rules that you have to learn somehow. However, it isn't really that simple. Realism is not a dichotomy, but a continuum. All games, no matter how realistic, represent an abstraction and simplification of the real world. Even the multimillion-dollar flight simulators used for training commercial pilots are incapable of turning the cockpit completely upside down. This event is (we hope) so rare in passenger aircraft that it's not worth the extra money it would take to simulate it.
+
+Players and game reviewers often talk about realism as a quality of an entire game, but, in fact, it is a quality that differs in individual areas. Many games have highly realistic graphics but unrealistic physics, or realistic economic models but unrealistic user interfaces. For example, a good many first-person shooters accurately model the performance characteristics of a variety of weapons—their rate of fire, size of ammunition clips, accuracy, and so on—but enable the player to carry about 10 of them at once with no reduction in speed or mobility. Therefore, realism is not a single dimension of a game world, but a multivariate quality that applies to all parts of the game and everything in it. (If you're mathematically inclined, think of realism as a vector over every aspect of the game, with values ranging from 0, entirely abstract, to 1, entirely realistic. However, no value will ever equal 1 because nothing about a game is ever entirely realistic—if it were, it would be life, not a game.)
+
+The realistic/abstract dichotomy is mostly useful as a starting point when thinking about what kind of a game you want to create. If you're designing a cartoony action game such as Banjo-Kazooie, you know that it's going to be mostly abstract. As you design elements of the game, you'll need to ask yourself how much realism you want to include. Can your avatar be hurt when he falls long distances? Is there a limit to how much he can carry at once? Do Newtonian physics apply to him, or can he change directions in midair?
+
+On the other hand, if you're designing a game with a presumption of realism—a vehicle or sports simulation, for example—then you need to think about it from the other direction. What aspects of the real world are you going to abstract? Most modern fighter aircraft have literally hundreds of controls; that's why only a special group of people can be fighter pilots. To make a fighter simulation accessible to the general public, you'll have to remove or simplify a lot of those controls. Similarly, a fighter jet's engine is so powerful that certain maneuvers can knock the pilot unconscious or even rip the plane apart. Are you going to simulate these limitations accurately, or make the game a little more abstract by not requiring the player to think about them?
+
+As we have said, every design decision you make must serve the entertainment value of the game. In addition, every design decision must serve your goals for the game's overall degree of realism. Some genres demand more realism than others. It's up to you to establish how much realism you want and in what areas. During the design process, you must continually monitor your decisions to see if they are meeting your goals.
+
+# The Save-Game Issue
+
+Saving a game takes a snapshot of a game world and all its particulars at a given instant in time and stores them away somewhere. The player can then load the snapshot, return to that instant in the game world, and replay the game from that point. This might seem like a fairly straightforward thing to offer the player, but, in fact, it has consequences both for the player's experience of the game—the story he's creating as he plays—and for the way the player actually plays. Saving and restoring a game is technologically easy, and it's an essential tool for testing and debugging, so it's often slapped in as a feature without much thought about its effect on gameplay. As designers, though, it's our job to think about anything that affects gameplay or the player's experience of the game, and that includes the save-game feature.
+
+Saving a game stores not only the player's location in the game, but also any customizations he might have made along the way. In Michelle Kwan's Figure Skating Championship, for example, the player could customize the body type, skin tone, hair color and style, and costume of the skater. The player could even load in a picture of her own face. The more freedom the player has to customize the avatar, the more data must be saved. Until recently, this has placed a limit on the richness of games for console machines. Games for personal computers could almost always be saved because PCs had disk drives available, but the feature came more slowly to console games. The oldest console machines, which simply emulated arcade machines, often had no way of saving games because they had no storage medium. If the player wanted to leave a game and come back to it later, he could only pause it and leave the console turned on. As a result, most of the games for these machines tended to feel a lot like arcade games as well. They were not designed to be played for a little while and then returned to a day or two later; they had to be played through in one sitting or abandoned.
+
+Now that the Microsoft Xbox includes a hard disk drive, console machines can finally save games just as complex as personal computer games. This doesn't necessarily mean that Xbox games will be just like PC games—there are still important differences between consoles and PCs—but one significant barrier to rich gaming on consoles has been removed.
+
+Reasons for Saving a Game
+
+Three reasons exist for saving a player's game or allowing him to save it:
+
+Allowing the player to leave the game and return to it later. This is the most important reason for saving the game. In a large game, it's an essential feature. It's not realistic and not fair to the player to expect him to dedicate the computer or console machine to a 40-hour game until it's finished.
+
+Letting the player recover from disastrous mistakes. In practice, this usually means getting the avatar killed somehow. Arcade games, which have no save-game feature, traditionally give the player a fixed number of "lives" and chances to earn more along the way. Console action games have tended to follow the same scheme. Richer games, such as role-playing or adventure games, usually give the player only one life but allow him to reload a saved game if his avatar dies or he loses any possibility of winning the game.
+
+Encouraging the player to explore alternate strategies. Saving the game is a useful feature in turn-based strategic games because it lets the player learn the game by trying alternative approaches. If one doesn't seem to work, he can go back to the point at which he committed himself to one plan and try another approach.
+
+Consequences for Immersion and Storytelling
+
+Saving a computer game is not part of its gameplay. The act of saving a game takes place outside the game world, even if it changes the way the player plays inside the game world. It destroys the suspension of disbelief. If a game is immersive and tries to create the illusion that the player inhabits a fantasy world, the act of saving a copy of the fantasy world destroys the illusion. One of the most significant characteristics of real life is that you cannot return to the past to correct errors you have made. The moment you allow a player to do this, you acknowledge that the fantasy world is only a game.
+
+The essence of a story is dramatic tension, and dramatic tension requires that something be at stake. Saving a game in a game with a branching storyline profoundly affects the player's experience of the story. In the real world, decisions are irrevocable. Some can be changed later, their consequences modified at some point in the future, but the original decision itself cannot be unmade. But when a player follows first one branch of a branching storyline and then goes back in time and follows another branch, he experiences a very unnatural, unreal phenomenon. Dramatic tension is reduced because if the future can be altered by returning to the past at any moment and changing it, then nothing is really at stake.
+
+Ways of Saving a Game
+
+Over the years, designers have devised a variety of different ways of saving a game, each with their own consequences for immersion and gameplay.
+
+Save to a File or "Save Slot"
+
+The most common way of saving a game is to allow the player to interrupt the play and save it either into a file on the hard drive that the player can name, or, more commonly, to allow the player to save it into one of a series of named "slots" that the game program keeps track of. When the player wants to replay the saved game, he tells the program to load it from the directory of files or slots. This mechanism is useful because it allows the player to keep several different copies, saved at different points, and to name them so that he can remember which one is which.
+
+Unfortunately, it's also the method most harmful to the game's immersiveness. The user interface for managing the files or save slots necessarily looks like an operating system's file-management tool, not like a part of the fantasy world that the game depicts. You can make it prettier with appropriate graphics, but it almost always takes the player out of the world and destroys his suspension of disbelief. Some games improve this a little by calling it the player's "journal" and making it look as if the saved games are being kept in a book.
+
+Quick-Save
+
+Fast-moving games in which the player's avatar is in more or less constant danger (such as first-person shooters) frequently offer a quick-save feature. The player presses a single button to save the game instantly at any time, without ever leaving the game world. The screen displays the words "Quick saved" for a moment, but other than that, the player's concentration and immersion in the world are not broken. The player can reload the game just as swiftly by pressing a quick-load button. The game returns immediately to the place where the last quick-save was done, without going out of the game world to a file-management screen.
+
+The disadvantage of quick-save is that it usually offers only one slot, although some games let the player designate a numbered slot by pressing the quick-save button and then a number key. He has to remember which slot is which by himself when quick-loading. Quick-save sacrifices flexibility to gain immersiveness and speed. It doesn't let the player name or manage multiple saved games, but it does allow him to save and load with minimal disruption to his suspension of disbelief.
+
+Automatic Save
+
+A few games automatically save the state of the game as it progresses, so the player can leave and return at any time without explicitly having to save it. Sometimes they save continuously, but more often they save intermittently at checkpoints, which may or may not be revealed to the player when they occur. This is even less disruptive than quick-saving because the player never has to do anything. However, if this is the only method provided, the player can't choose to save at certain points along the way. If the player wants to restart at an earlier point, he's out of luck; and if the checkpoints are a long way apart, he might lose a great deal of progress in the event of a disaster. Continuous-save prevents the player from going back and undoing disasters. On the other hand, he can play the game confident that he can interrupt and resume it at any point.
+
+To Save or Not to Save
+
+Here we look at the arguments for and against saving, and we present our own perspective on the matter.
+
+The Argument Against
+
+A few designers don't allow players to save their games at certain points, or even at all. If the player can save and reload constantly, he can solve puzzles or overcome other obstacles by trial and error rather than by skill or brains. If the designer wants him to solve them in an uninterrupted sequence, saving and reloading defeats that challenge. Some games (The Legend of Zelda: Ocarina of Time, for example) avoid this by saving a game only at checkpoints or particular locations, forcing the player to play the game again from that point when he reloads. Saving and reloading also enables players to avoid undesirable random events. If the event occurs, the player can simply reload the game repeatedly until it doesn't occur.
+
+When you can save and reload at any point, nothing is at stake. Your avatar might die, lose money, or suffer some other disaster, but it can all be remedied simply by reloading the game. This takes away some of the challenge.
+
+The Argument For
+
+We believe that these arguments against saving are spurious and are the sign of a lazy designer. Making a game harder simply by preventing the player from saving the game is a cheap way of creating a challenge out of nothing. For example, you could set up a situation in which the player has no way of knowing which of several options to choose (for example, selecting one of three identical corridors to walk down). If two contain deadly traps and one does not, and the player is not allowed to save before walking down them, you've guaranteed that two times in three he will have to go back and start the game over, no matter how good he is otherwise. This isn't fun or even a fair challenge. If you really want to make the game harder, devise harder challenges. Forcing the player to replay an entire level because he made a mistake near the end wastes his time and condemns him to frustration and boredom. As a designer, it should be your goal to avoid those feelings, not create them.
+
+If a player continuously reloads a game to avoid a random event or to solve some problem by trial and error rather than skill or intelligence, he is, in effect, cheating at solitaire. As the game's designer, you might not like it, but we don't feel that that is sufficient reason for denying the player the chance to save the game—he might need to save it for perfectly legitimate reasons. After all, cheating at solitaire says more about the player's character than anything else; if he wants to ruin the gameplay for himself, that's his business. Most games now recognize that players want—and even need—to cheat sometimes by offering cheat codes anyway.
+
+The bottom line is that it's the player's machine. It's not fair to penalize him just because he has to go to the bathroom or because it's now his little brother's turn to play. Whether you implement save slots, quick-save, checkpoints, or continuous-save is up to you; there are advantages and disadvantages to each. But we strongly believe that players have a fundamental right to be able to stop playing when and where they want, without losing all that they have accomplished.
+
+# Putting It Together 小结
+
+At this point, you should know when and where your game takes place. You will have answered a huge number of questions about what your world looks like, what it sounds like, who lives there, and how they behave. If you've done it thoroughly, your game world will be one that a player can immerse himself in, an integrated harmonious fantasy that he can believe in and enjoy being part of. The next step is to figure out what's going to happen there. That's covered in Chapter 4, "Storytelling and Narrative."
