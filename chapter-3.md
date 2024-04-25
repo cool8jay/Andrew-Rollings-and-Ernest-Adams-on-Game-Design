@@ -44,21 +44,23 @@ We believe the "graphics versus gameplay" debate is no longer a meaningful one. 
 
 我们认为，“图形与游戏性”的争论已不再有意义。事实是，画面和游戏性必须相互配合，才能产生全面的游戏体验。画面创造了环境，既推销了游戏，又让玩家参与到游戏的幻想中。游戏玩法则为玩家提供了挑战和活动。两者对于玩家享受游戏都至关重要。画面吸引玩家，而游戏玩法则让玩家留在游戏中。
 
-## Immersiveness and Suspension of Disbelief 沉浸感和悬念
+## Immersiveness and Suspension of Disbelief 沉浸感和信任感
 
 A key part of the experience of reading a novel or watching a movie is suspension of disbelief. Suspension of disbelief is a mental state in which you choose, for a period of time, to believe that this pack of lies, this fiction, is reality. This applies to games as well. When you go inside the game world and temporarily make it your reality, you suspend your disbelief. The better a game supports the illusion, the more thoroughly engrossed you become, and then the more immersive we say the game is. Immersiveness is one of the holy grails of game design.
 
-阅读小说或观看电影的一个重要体验就是终止怀疑。终止怀疑是一种心理状态，在这种状态下，你会在一段时间内选择相信这一切谎言、虚构是真实的。这也适用于游戏。当你进入游戏世界，并暂时把它当作现实时，你就暂缓了你的怀疑。游戏对这种幻觉的支持越好，你就会越彻底地沉迷其中，然后我们就会说这款游戏沉浸感越强。沉浸感是游戏设计的圣杯之一。
+阅读小说或观看电影的一个重要体验就是信任感。信任感是一种心理状态，在这种状态下，你会在一段时间内选择相信这一切谎言、虚构是真实的。这也适用于游戏。当你进入游戏世界，并暂时把它当作现实时，你就暂缓了你的怀疑。游戏对这种幻觉的支持越好，你就会越彻底地沉迷其中，然后我们就会说这款游戏沉浸感越强。沉浸感是游戏设计的圣杯之一。
+
+> 译者注：suspension of disbelief，直译是终止怀疑，由萨缪尔·泰勒·柯勒律治（Samuel Taylor Coleridge）提出,指读者或观众在面对虚构作品时，尽管明知故事情节是假的，却主动选择暂时相信这个虚假现实，以浸入其中。可以简化为“信任感”。
 
 Movies and novels try to create the impression that what they depict is real, though fantasy and science fiction novels rather test our patience in this regard. Few movies and novels specifically allude to the fact that they are fiction; they try to preserve the suspension of disbelief. Some deliberately play with the idea. Both the book and the movie The French Lieutenant's Woman specifically alluded to the fact that they were works of fiction, wrenching the audience out of the work's Victorian setting to encourage comparisons with today's world. The movie The Stunt Man similarly kept the viewer—and the movie's hero—off balance, unable to tell whether what we were seeing was supposed to be reality or merely a movie being filmed.
 
-电影和小说试图给人一种印象，即它们所描绘的都是真实的，尽管奇幻和科幻小说在这方面相当考验我们的耐心。很少有电影和小说明确暗示它们是虚构的；它们试图保持终止怀疑。有些电影和小说则故意玩弄这一概念。小说和电影《法国中尉的女人》和电影都特别暗示了它们是虚构作品的事实，将观众从作品的维多利亚时代背景中拉出来，鼓励他们与当今世界进行比较。电影《特技演员》同样让观众和电影主人公失去平衡，分不清我们看到的是现实还是正在拍摄中的电影。
+电影和小说试图给人一种印象，即它们所描绘的都是真实的，尽管奇幻和科幻小说在这方面相当考验我们的耐心。很少有电影和小说明确暗示它们是虚构的；它们试图保持信任感。有些电影和小说则故意玩弄这一概念。小说和电影《法国中尉的女人》和电影都特别暗示了它们是虚构作品的事实，将观众从作品的维多利亚时代背景中拉出来，鼓励他们与当今世界进行比较。电影《特技演员》同样让观众和电影主人公失去平衡，分不清我们看到的是现实还是正在拍摄中的电影。
 
 More often, however, suspension of disbelief is broken by poor design. This might occur if one of the people in the story does something that is wildly out of character, or if something highly improbable happens—a deus ex machina—and we are expected to accept it as normal. Another thing that frequently destroys a player's suspension of disbelief or prevents it from ever forming is a lack of harmony, which we discuss next.
 
-然而，更常见的情况是，终止怀疑被拙劣的设计所打破。如果故事中的某个人做出了与角色大相径庭的事情，或者发生了非常不可能发生的事情——一个天神显灵——而我们却要把它当作正常的事情来接受，就会出现这种情况。另一个经常破坏玩家终止怀疑或者阻碍其形成的原因是缺乏和谐，我们将在下文中讨论。
+然而，更常见的情况是，信任感被拙劣的设计所打破。如果故事中的某个人做出了与角色大相径庭的事情，或者发生了非常不可能发生的事情——一个天神显灵——而我们却要把它当作正常的事情来接受，就会出现这种情况。另一个经常破坏玩家终止怀疑或者阻碍其形成的原因是缺乏和谐，我们将在下文中讨论。
 
-> 译者注：deus ex machina，直译是机械神，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖掉下去，突然出现一个飞行机器人接住他，那就是机械神。
+> 译者注：deus ex machina，直译是机械降神，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖掉下去，突然出现一个飞行机器人接住他，那就是机械神。
 
 ## The Importance of Harmony 和谐的重要性
 
@@ -76,7 +78,7 @@ Well, I'm here to tell you that it doesn't come from design committees. It doesn
 
 You know, the suspension of disbelief is fragile. It's hard to achieve it, and hard to maintain. One bit of unnecessary gore, one hip colloquialism, one reference to anything outside the imaginary world you've created is enough to destroy that world. These cheap effects are the most common indicators of a lack of vision or confidence. People who put this stuff into their games are not working hard enough.
 
-要知道，终止怀疑是很脆弱的。很难做到，也很难维持。一点不必要的血腥场面，一句时髦的口语，一次对你所创造的想象世界之外的任何事物的提及，都足以摧毁这个世界。这些糟糕的结果是缺乏远见或信心的最常见表现。往游戏里加入这些东西的人并没有足够努力。
+要知道，信任感是很脆弱的。很难做到，也很难维持。一点不必要的血腥场面，一句时髦的口语，一次对你所创造的想象世界之外的任何事物的提及，都足以摧毁这个世界。这些糟糕的结果是缺乏远见或信心的最常见表现。往游戏里加入这些东西的人并没有足够努力。
 
 Harmony is essential for a good game world. With every design decision you make, you should ask yourself whether the result is in harmony with your overall vision. Too many games have elements that seem bolted on, last-minute ideas that somebody thought would be “cool” to include. Although every game design requires compromises, as we said in [Chapter 1](chapter-1.md), “What Is Game Design?,” an important part of your job as a designer is to minimize the false notes or off-key elements that compromises tend to create. Try to find a way to make everything fit together into a coherent, integrated whole.
 
@@ -122,4 +124,178 @@ Nowadays, a great many computer game settings have a three-dimensional space, ev
 
 When first thinking about the dimensionality of your game space, it's tempting to immediately assume that you want it to be three-dimensional because that offers the greatest flexibility or seems more real. But as with everything else, the dimensionality of your physical space must serve the entertainment value of the game. Make sure all the dimensions will contribute meaningfully. Lemmings was a hit 2D game, but Lemmings 3D was nowhere near as successful because it was much more difficult to play. The addition of a third dimension detracted from the player's enjoyment rather than adding to it.
 
-在最初考虑游戏空间的维度时，很容易立即假定游戏空间是三维的，因为三维空间具有最大的灵活性，或者看起来更真实。但与其他任何事情一样，物理空间的维度必须服务于游戏的娱乐价值。确保所有的维度都能做出有意义的贡献。《旅鼠》是一款大受欢迎的 2D 游戏，但《旅鼠 3D》却远没有那么成功，因为它难玩得多。增加第三个维度不但没有增加玩家的乐趣，反而减少了玩家的乐趣。
+在最初考虑游戏空间的维度时，很容易立即假定游戏空间是三维的，因为三维空间具有最大的灵活性，或者看起来更真实。但与其他任何事情一样，物理空间的维度必须服务于游戏的娱乐价值。确保所有的维度都能做出有意义的贡献。《旅鼠》是一款大受欢迎的 2D 游戏，但《旅鼠 3D》却远没有那么成功，因为它难玩得多。增加第三个维度非但没有增加玩家的乐趣，反而减少了玩家的乐趣。
+
+It's possible to have more than three spatial dimensions, but, in general, we don't recommend it. A computer can display a distorted approximation of four-dimensional space in the two dimensions of the monitor screen, just as it can display an approximation of three-dimensional space in two dimensions. However, because humans are not used to dealing with 4D spaces, most of us have a hard time navigating through them. If you want to include a fourth dimension for some reason, you might consider doing it as an “alternate plane of reality” rather than an actual four-dimensional space. In other words, you have two three-dimensional spaces that look similar, but there is something different about them. For example, the game Legacy of Kain: Soul Reaver contained two three-dimensional spaces, the spectral realm and the material realm. The landscape was the same in each, but the spectral realm was lit by a blue light while the material realm was lit by white light; the actions available to the player were different in the spectral real from the material realm. Although they were both implemented in software by the same 3D models, they were functionally different places governed by different laws. In the movie version of The Lord of the Rings, the world that Frodo inhabits while he is wearing the Ring can be thought of as an alternate plane of reality as well, overlapping the real world but appearing and behaving differently.
+
+空间维度可以超过三维，但一般来说，我们不建议这样做。计算机可以在显示器屏幕的二维空间中显示扭曲的四维空间近似物，就像它可以在二维空间中显示三维空间的近似物一样。然而，由于人类不习惯与四维空间打交道，我们中的大多数人都很难在四维空间中游刃有余。如果出于某种原因想要加入四维空间，可以考虑将其作为“现实的另一个位面”，而不是真正的四维空间。换句话说，两个三维空间看起来很相似，但又有一些不同之处。例如，游戏《凯恩的遗产：夺魂之镰》包含两个三维空间：幽灵界和物质界。这两个空间的景观是一样的，但幽灵界的灯光是蓝色的，而物质界的灯光是白色的；玩家在幽灵界和物质界可以采取的行动也是不同的。虽然它们都是通过相同的三维模型在软件中实现的，但它们在功能上是不同的，受不同的法则支配。在电影版《魔戒》中，弗罗多戴着魔戒时所处的世界也可以看作是现实世界的另一个位面，它与现实世界重叠，但在外观和行为上有所不同。
+
+### Scale 规模
+
+By scale, we mean both the total size of the physical space represented and the relative sizes of objects in the game. If a game is purely abstract and doesn't correspond to anything in the real world, the sizes of objects in its game world don't really matter. You can adjust them to suit the game's needs any way you like. But if you are designing a game that is at least somewhat representational of the real world, you'll have to address the question of how big everything should be to both look real and play well. Some distortion is often necessary for the sake of gameplay; the trick is to do it without harming the player's suspension of disbelief too much.
+
+我们所说的规模，既指游戏所表现的物理空间的总大小，也指游戏中物体的相对大小。如果一款游戏纯粹是抽象的，与现实世界中的任何事物都不对应，那么游戏世界中物体的大小其实并不重要。你可以根据游戏的需要随意调整。但是，如果你设计的游戏至少在某种程度上代表了现实世界，那么你就必须解决这样一个问题，即所有东西都应该有多大，才能看起来既真实又好玩。为了保证游戏的可玩性，一定的失真往往是必要的；诀窍在于如何在不损害玩家信任感的前提下做到这一点。
+
+With a sports game, a driving game, a flight simulator, or any other kind of game in which the player will expect a high degree of verisimilitude, you have little choice but to scale things to their actual sizes. In old sports games, it was not uncommon for the athletes to be depicted as 12 feet tall to make them more visible, but nowadays players wouldn't tolerate a game taking such liberties with reality. Serious simulations need an accurate representation of the physical world.
+
+在体育游戏、驾驶游戏、飞行模拟器或其他任何玩家期望高度逼真的游戏中，你别无选择，只能按照实际尺寸缩放物体。在以前的体育游戏中，运动员被描绘成 12 英尺（ 365 厘米）高并不罕见，这样做是为了让他们更显眼，但现在的玩家不会容忍游戏如此脱离现实。严肃的模拟游戏需要准确地再现物理世界。
+
+Similarly, you should scale most of the objects in first-person games accurately. Fortunately, almost all first-person games are set indoors or within very limited areas that are seldom larger than a few hundred feet in any dimension, so this doesn't create implementation problems. Because the player's perspective is that of a person walking through the space, objects need to look right for their surrounding area. You might want to slightly exaggerate the size of critical objects such as keys, weapons, or ammunition to make them more visible, but most things, such as doors and furniture, should be scaled normally. As screen resolutions continue to improve, we'll no longer need to exaggerate objects for visual clarity, unless we want to do so for a comic or cartoonlike effect.
+
+同样，第一人称游戏中的大部分物体都应该精确缩放。幸运的是，几乎所有第一人称游戏的场景都设置在室内或非常有限的区域内，这些区域在任何维度上都很少超过几百英尺，因此这并不会造成实施上的问题。由于玩家的视角是一个人在空间中行走，因此物体需要看起来与周围环境相符。对于钥匙、武器或弹药等关键物品，您可能需要稍微夸大其尺寸，使其更加显眼，但大多数物品（如门和家具）都应按正常比例缩放。随着屏幕分辨率的不断提高，我们将不再需要为了视觉清晰度而夸大物体的尺寸，除非我们想做成漫画或卡通效果。
+
+If you're designing a game with an aerial or isometric perspective, you might need to fudge the scale of things somewhat. The real world is so much larger and more detailed than a game world that it's impossible to represent objects in their true scale in such a perspective. For example, in modern mechanized warfare, ground battles can easily take place over a 20-mile front, with weapons that can fire that far or farther. If you were to map an area this size onto a computer screen, an individual soldier or even a tank would be smaller than a single pixel, completely invisible. Although the player will normally be zoomed in on one small area of the whole map, the scale of objects will have to be somewhat exaggerated so that they're clearly identifiable on the screen.
+
+如果你在设计一款采用空中或等距视角的游戏，你可能需要在比例上做一些调整。现实世界要比游戏世界大得多，也细致得多，在这种视角下不可能表现出物体的真实比例。例如，在现代机械化战争中，地面战很容易发生在 20 英里的战线上，而武器的射程可以达到或超过 20 英里。如果把这么大的区域映射到电脑屏幕上，单个士兵甚至坦克都会比一个像素还小，完全看不到。虽然玩家通常会放大整个地图中的一小块区域，但物体的比例必须有所夸张，以便在屏幕上清晰可辨。
+
+One of the most common distortions games make is in the relative heights of people and the buildings or hills in their environment. The buildings are often only a little taller than the people who walk past them. To be able to see the roofs of all the buildings or the tops of all the hills, the camera must be positioned above the highest point on the ground; but if the camera is too high, the people would hardly be visible at all. To solve this problem, the game simply does not include tall buildings or hills and exaggerates the height of the people. Because the vertical dimension is seldom critical to the gameplay in things such as war games and role-playing games, it doesn't matter if it's not accurate, as long as it's not so inaccurate that it interferes with suspension of disbelief.
+
+游戏中最常见的失真现象之一是人与环境中建筑物或山丘的相对高度。建筑物往往只比走过的人高一点点。要想看到所有建筑物的屋顶或所有山丘的顶端，摄像机的位置必须高于地面的最高点；但如果摄像机的位置太高，人就几乎看不到了。为了解决这个问题，游戏干脆不包含高大的建筑物或山丘，并夸大了人物的高度。因为在战争游戏和角色扮演游戏等游戏中，纵向维度很少对游戏性起关键作用，所以只要不是不精确到影响信任感的程度，纵向维度不精确也没有关系。
+
+Designers often make another scale distortion between indoor and outdoor locations. When a character is walking through a town, simply going from one place to another, the player will want the character to get there reasonably quickly. The scale of the town should be small enough that the character takes only a few minutes to get from one end to another, unless the point of the game is to explore a richly detailed urban environment. When the character steps inside a building, however, and needs to negotiate doors and furniture, you should expand the scale to show these additional details. If you use the same animation for a character walking indoors and outdoors, this will give the impression that the character walks much faster outdoors than indoors. However, this seldom bothers players—they'd much rather have the game proceed quickly than have their avatar take hours to get anywhere, even if that would be more accurate.
+
+设计师经常会在室内和室外地点之间进行另一种缩放失真。当角色在城镇中穿行，只是从一个地方走到另一个地方时，玩家会希望角色能比较快速到达目的地。除非游戏的目的是探索一个细节丰富的城市环境，否则城镇的规模应该足够小，角色从一端走到另一端只需要几分钟的时间。但是，当角色走进一栋建筑，需要与门和家具打交道时，就应该扩大比例，以显示这些额外的细节。如果角色在室内和室外行走时使用相同的动画，会让人觉得角色在室外行走的速度比室内快得多。不过，这很少会让玩家感到困扰————他们更希望游戏能快速进行，而不是让他们的化身走几个小时后到达目的地，即使这样才更准确。
+
+This brings up one final distortion, which is also affected by the game's notion of time (see the section, “The Temporal Dimension”), and that is the relative speeds of moving objects. In the real world, a supersonic jet fighter can fly more than a hundred times faster than an infantry soldier can walk on the ground. If you're designing a game that includes both infantry soldiers and jet fighters, you're going to have a problem. If the scale of the battlefield is suitable for jets, it will take infantry weeks to walk across; if it's suitable for infantry, a jet could pass over it in the blink of an eye. One solution to this is to do what the real military does and implement transport vehicles for ground troops. Another is simply to fudge it and pretend that jets fly only four or five times as fast as people walk. As long as the jet is the fastest thing in the game, it doesn't really matter how much faster it is; the “strike and retreat” tactic that jets are good at will still work. Setting these values is all part of balancing the game, as discussed in more detail in Chapter 7, “Gameplay.”
+
+这就带来了最后一种失真曲，它也受到游戏时间概念的影响（见“时间维度”部分），那就是移动物体的相对速度。在现实世界中，一架超音速喷气式战斗机的飞行速度是一名步兵在地面上行走速度的 100 多倍。如果你要设计一款同时包含步兵和喷气式战斗机的游戏，你就会遇到问题。如果战场的规模适合喷气式战斗机，那么步兵需要花费数周的时间才能走过去；如果战场的规模适合步兵，那么喷气式战斗机眨眼间就能从上面飞过。解决这个问题的办法之一是效仿真正的军队，为地面部队配备运输车辆。另一个办法是干脆弄虚作假，假装喷气式飞机的飞行速度只有人类步行速度的四五倍。只要喷气式飞机是游戏中速度最快的东西，那么快多少并不重要；喷气式飞机擅长的“攻击和撤退”战术仍然有效。设置这些值都是平衡游戏的一部分，第七章“游戏性”中将详细讨论。
+
+### Boundaries 边界
+
+In board games, the edge of the board constitutes the edge of the game world. Because computers have a finite size, the physical dimension of a computer game world must have a finite size also. However, computer games are usually more immersive than board games, and they often try to disguise or explain away the fact that the world is limited, to maintain the player's suspension of disbelief.
+
+在棋盘游戏中，棋盘的边缘就是游戏世界的边缘。因为计算机的尺寸是有限的，所以计算机游戏世界的物理尺寸也必须是有限的。不过，电脑游戏通常比棋盘游戏更能让玩家身临其境，而且电脑游戏通常会试图掩盖或解释世界是有限的这一事实，以保持玩家的信任感。
+
+In some cases, the boundaries of a game world arise naturally, and we don't have to disguise or explain them. Sports games take place only in a stadium or an arena, and no one expects or wants them to include the larger world. In most driving games, the car is restricted to a track or a road, and this, too, is reasonable enough.
+
+在某些情况下，游戏世界的边界是自然形成的，我们无需加以掩饰或解释。体育游戏只在体育馆或竞技场内进行，没有人期望或想要它们包括更大的世界。在大多数驾驶游戏中，汽车只能在赛道或道路上行驶，这也是很合理的。
+
+Setting a game underground or indoors helps to create natural boundaries for the game world. Everyone expects indoor regions to be of a limited size, with walls defining the edges. The problem occurs when games move outdoors, where people expect large, open spaces without sharply defined edges. A common solution in this case is to set the game on an island surrounded by water or by some other kind of impassable terrain: mountains, swamps, or deserts. These establish both a credible and a visually distinctive “edge of the world.”
+
+将游戏设置在地下或室内有助于为游戏世界创造自然的边界。每个人都希望室内区域的大小有限，边缘由墙壁界定。当游戏转移到室外时，问题就出现了，因为人们希望室外有广阔、开阔的空间，而没有清晰界定的边缘。在这种情况下，一种常见的解决方案是将游戏设置在一个四面环水的小岛上，或设置在其他一些无法通行的地形上：高山、沼泽或沙漠。这些地形建立了让人信服和视觉上形成了独特的“世界边缘”。
+
+In flight simulators, the boundaries of the world are even more problematic. Most flight simulators restrict the player to a particular area of the real world. Because there are no walls in the air, there's nothing to stop the plane from flying up to the edge of the game world, and the player can clearly see when he has arrived there that there's nothing beyond. In some games, the plane just stops there, hovering in midair, and won't go any farther. In Battlefield 1942, the game tells the player that he has left the scene of the action and forcibly returns him to the runway.
+
+在飞行模拟器中，世界的边界问题更大。大多数飞行模拟器将玩家限制在真实世界的特定区域内。因为空中没有墙壁，所以没有任何东西可以阻止飞机飞到游戏世界的边缘，而当玩家到达那里时，可以清楚地看到外面什么也没有。在有些游戏中，飞机就停在那里，悬停在半空中，不会再往前飞了。在《战地 1942》中，游戏会告诉玩家他已经离开了行动场地，并强行将他送回跑道。
+
+A common solution to the edge-of-the-world problem is to allow the flat world to “wrap” at the top, bottom, and sides. Although the world is implemented as a rectangular space in the software, objects that cross one edge appear at the opposite edge—they wrap around the world. If the object remains centered on the screen and the world appears to move beneath it, you can create the impression that the world is spherical. This was used to excellent effect in Bullfrog Productions' game Magic Carpet. In another Bullfrog game, Populous: The Beginning, the world was actually displayed graphically as a sphere on the screen, not just a wrapping rectangle.
+
+解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边————它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏《上帝也疯狂：开天辟地》中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
+
+> **Questions to Ask Yourself About the Physical Dimension 关于物理维度的自问自答** 
+>
+> * Does my game require a physical dimension? What is it used for? Is it an essential part of gameplay or merely cosmetic?\
+> 我的游戏需要物理维度吗？它的用途是什么？它是游戏的重要组成部分还是仅仅是装饰性的？
+>
+> * Leaving aside issues of implementation or display, how many imaginary spatial dimensions does my game require? If there are three or more, can objects move continuously through the third and higher dimensions, or are these dimensions partitioned into discrete “layers” or zones?\
+> 抛开实现或显示问题不谈，我的游戏需要多少个想象的空间维度？如果有三个或更多维度，物体能否在第三维度和更高维度中连续移动，还是这些维度被分割为离散的“层”或区域？
+> * How big is my game world, in light-years or inches? Is accuracy of scale critical, as in a football game, or not, as in a cartoonlike action game?\
+> 我的游戏世界有多大，是以光年为单位还是以英寸为单位？比例精确的重要性，是像足球游戏那样，还是像卡通动作游戏那样？
+> * Will my game need more than one scale, for indoor versus outdoor areas, for example? How many will it actually require?\
+> 我的游戏是否需要多种比例，例如室内和室外的比例？精确需要多少个比例？
+>
+> * How am I going to handle the relative sizes of objects and people? What about their relative speeds of movement?\
+> 我将如何处理物体和人的相对大小？它们的相对移动速度如何？
+> 
+> * How is my world bounded? Am I going to make an effort to disguise the “edge of the world,” and if so, with what? What happens if the player tries to go beyond it?\
+> 我的世界是如何边界化的？我是否要努力掩饰“世界的边缘”，如果需要，怎么做？如果玩家试图超越它，会发生什么？
+
+### The Temporal Dimension 时间维度
+
+The temporal dimension of a game world defines the way that time is treated in that world and the ways in which it differs from time in the real world.
+
+游戏世界的时间维度定义了在该世界中处理时间的方式，以及时间与现实世界中时间的不同之处。
+
+In many turn-based games and action games, the world doesn't include a concept of time passing, days and nights, or seasons and years. Everything in the world idles or runs in a continuous loop until the player interacts with it in some way. Occasionally, the player is put under pressure by being given a limited amount of real-world time to accomplish something, but this is usually just a single challenge, not part of a larger notion of time in the game.
+
+在许多回合制游戏和动作游戏中，世界并不包含时间流逝、日夜、季节和年份的概念。世界上的一切都在空转或连续循环运行，直到玩家以某种方式与之互动。偶尔，玩家会在现实世界有限的时间内完成某项任务，从而承受压力，但这通常只是一次挑战，而不是游戏中更大时间概念的一部分。
+
+In some games, time is implemented as part of the setting but not part of the gameplay. Here time creates atmosphere and gives the game some variety, but it doesn't change the way you play the game. This usually feels rather artificial. If the player can do exactly the same things at night that she can during the daytime, and no one ever seems to sleep, then there's little point in making the distinction. For time to serve the fantasy, it must affect it in meaningful ways.
+
+在有些游戏中，时间是作为游戏设置的一部分来实现的，但却不是游戏玩法的一部分。在这些游戏中，时间营造了游戏氛围，使游戏变得丰富多彩，但它并不会改变你玩游戏的方式。这通常会给人一种相当矫揉造作的感觉。如果玩家晚上能做的事情和白天完全一样，而且似乎没有人会睡觉，那么区分时间就没有什么意义了。要让时间为幻想服务，它就必须以有意义的方式发挥作用。
+
+Baldur's Gate is a good example of a game in which time is meaningful. Baldur's Gate is a very large role-playing game implemented according to the Advanced Dungeons & Dragons rules. At night, shops are closed and the characters in the game run an increased risk of being attacked by wandering monsters. It's also darker and hard to see. Taverns are open all day and all night, which is reasonable enough, but the customers don't ever seem to leave and the bartender never goes off shift. In this way, the game's use of time is a little inconsistent, but the discrepancy serves the gameplay well because you can always trade with the bartender and pick up gossip no matter what time it is. The characters do need rest if they've been on the march for a long while, and this makes them vulnerable while they're sleeping. In the underground portions of the game, day and night have less meaning, as you would expect.
+
+游戏《博德之门》是让时间有意义的一个很好的例子。《博德之门》是一款按照《龙与地下城》高级版规则制作的大型角色扮演游戏。到了晚上，商店都关门了，游戏中的角色被游荡的怪物袭击的风险也增加了。此外，夜色也会更暗，视线也会变得模糊。酒馆整日整夜营业，这很合理，但顾客似乎永远不会离开，酒保也永远不会下班。这样一来，游戏对时间的利用就有点不一致了，但这种不一致却很好地满足了游戏的需求，因为无论什么时候，你都可以与酒保交易，打听小道消息。如果游戏中的角色长时间处于行军状态，他们确实需要休息，这就使得他们在睡觉时很容易受到伤害。在游戏的地下部分，你可能已经猜到了，白天和黑夜的差别并不大。
+
+### Variable Time 可变时间
+
+In games that do implement time as a significant element of the gameplay, as in books and movies, time in the game world usually runs much faster than in reality and often jumps, skipping periods when nothing interesting is happening. Most war games, for example, don't bother to implement nighttime or require that soldiers get any rest. In reality, soldier fatigue is a critical consideration in warfare, but because sleeping soldiers don't make exciting viewing and certainly aren't very interactive, most games just skip it. Allowing soldiers to fight continuously without a pause permits the player to play continuously without a pause also.
+
+在那些将时间作为重要游戏元素的游戏中，就像在书籍和电影中一样，游戏世界中的时间运行得通常比现实中快很多，而且经常是跳跃式的，跳过了没有任何有趣事情发生的时间段。例如，大多数战争游戏都懒得设置夜间时间，也不要求士兵休息。在现实中，士兵的疲劳是战争中的一个重要考虑因素，但由于熟睡的士兵并不令人激动，当然也没有什么互动性，因此大多数游戏都直接跳过这一点。让士兵连续作战而不休息，也就可以让玩家连续游戏而不暂停。
+
+The Sims, a game about people living in a house, handles this problem a different way. The simulated characters require rest and sleep for their health, so The Sims depicts day and night accurately. However, when all the characters go to sleep, the game speeds up considerably, letting hours go by in a few seconds. As soon as anyone wakes up, it slows back down again.
+
+《模拟人生》是一款关于人们在房子里生活的游戏，它以不同的方式处理了这个问题。《模拟人生》中的模拟人物需要休息和睡眠来保持健康，因此《模拟人生》准确地描述了白天和黑夜。不过，当所有角色都进入梦乡时，游戏速度会大大加快，几秒钟就能过去几个小时。一旦有人醒来，游戏速度又会变慢。
+
+The Sims is a rather unusual game in that it's chiefly about time management. You are under constant pressure to have your characters accomplish all their chores and get time for sleep, relaxation, and personal development as well. The game runs at something like 48 times as fast as real life, so you can play through the 16 hours of daytime in about 20 minutes. However, the characters don't move 48 times as fast. Their actions look pretty normal, about like real time. As a result, it takes them 15 minutes on the game's clock just to go out and pick up the newspaper. This contributes to the sense of time pressure. Because the characters do everything slowly (in game terms), they often don't get a chance to water the flowers, which consequently die.
+
+《模拟人生》是一款相当特别的游戏，因为它的主要内容是时间管理。你面临着持续的压力，要让你的角色完成所有的家务，同时也要保证睡眠、放松和个人发展。游戏的运行速度大约是现实生活中的 48 倍，因此你可以在 20 分钟内玩完白天的 16 个小时。不过，人物的移动速度并没有 48 倍快。他们的动作看起来很正常，和现实时间差不多。因此，按游戏时间计算，他们出门取报纸需要 15 分钟。这就造成了时间压力感。由于角色做任何事情都很慢（在游戏中），他们往往没有机会给花浇水，结果花就死了。
+
+### Anomalous Time 反常时间
+
+In The Settlers III, a complex economic simulation, a tree can grow from a sapling to full size in about the same length of time that it takes for an iron foundry to smelt four or five bars of iron. This is a good example of anomalous time: time that seems to move at different speeds in different parts of the game. Blue Byte, the developer of The Settlers, tuned the length of time it takes to do each of the many tasks in the game to make sure that it would run smoothly. As a result, The Settlers is very well balanced at some cost to realism. However, it's doesn't disrupt the fantasy because The Settlers doesn't actually give the player a clock in the game world. There's no way to compare game time to real time, so in effect, the game world has no obvious timescale.
+
+在《工人物语 3》这款复杂的经济模拟游戏中，一棵树从幼苗长成参天大树所需的时间，与一个炼铁厂冶炼四五块铁所需的时间差不多。这就是反常时间的一个很好的例子：在游戏的不同部分，时间似乎以不同的速度运行。《工人物语》的开发商 Blue Byte 调整了游戏中每一项任务所需的时间长度，以确保游戏运行流畅。因此，《工人物语》的平衡性非常好，但也付出了一定的现实感代价。不过，这并没有破坏幻想，因为《工人物语》实际上并没有给玩家提供游戏世界中的时钟。玩家无法将游戏时间与现实时间进行比较，因此实际上游戏世界没有明显的时间刻度。
+
+Another example of anomalous time appears in Age of Empires, in which tasks that should take less than a day in real time (gathering berries from a bush, for example) seem to take years in game time according to the game clock. Age of Empires does have a timescale, visible on the game clock, but not everything in the world makes sense on that timescale. The players simply have to accept these actions as symbolic rather than real. As designers, we have to make them work in the context of the game world without disrupting the fantasy. As long as the symbolic actions (gathering berries or growing trees) don't have to be coordinated with real-time actions (warfare), but remain essentially independent processes, it doesn't matter if they operate on an anomalous time scale.
+
+另一个时间反常的例子出现在《帝国时代》中，根据游戏时钟的显示，在现实时间中理应不到一天就能完成的任务（例如从灌木丛中采集浆果），在游戏时间中似乎要花上好几年。《帝国时代》确实有一个时间刻度，可以在游戏时钟上看到，但并非世界上的所有事情都能在这个时间刻度上合理。玩家只需接受这些行为是象征性的，而不是真实的。作为设计者，我们必须在不破坏幻想的前提下，让它们在游戏世界中发挥作用。只要象征性行动（采集浆果或种植树木）不必与实时行动（战争）协调，而是保持本质上的独立过程，那么它们在异常的时间尺度上运行也没有关系。
+
+### Letting the Player Adjust Time 让玩家调整时间
+
+In sports games and vehicle simulations, game time usually runs at the same speed as real time. An American football game is, by definition, an hour long, but because the clock In sports games and vehicle simulations, game time usually runs at the same speed as real time. An American football game is, by definition, an hour long, but because the clock stops all the time, the actual elapsed time of a football game is closer to three hours. All serious computerized football games simulate this accurately. Verisimilitude is a key requirement of most sports games; if a game does not accurately simulate the real sport, it might not be approved by the league, and its competitors are bound to point it out as a flaw. However, most such games also allow the players to shorten the game by playing 5- or 10-minute quarters instead of 15-minute ones because most people don't want to devote a full three hours to playing a simulated football game. This is also a useful feature in testing; it would take far too long to test the product if you had to play a full-length game every time.
+
+在体育游戏和车辆模拟中，游戏时间通常与真实时间以相同的速度运行。根据定义，美式足球比赛的时间为一小时，但由于在体育游戏和车辆模拟中，游戏时间通常与真实时间以相同的速度运行。根据定义，美式足球比赛的时间为一小时，但由于时钟会一直停止，因此足球比赛的实际时间接近三小时。所有严肃的电脑足球游戏都能准确模拟这一点。真实性是大多数体育游戏的关键要求；如果一款游戏不能准确模拟真实的体育运动，它就可能得不到联盟的批准，其竞争对手也必然会指出它的缺陷。不过，大多数此类游戏还允许玩家缩短比赛时间，将每节比赛的时间从 15 分钟缩短到 5 分钟或 10 分钟，因为大多数人并不想花整整三个小时来玩一场模拟足球比赛。这在测试中也是一个有用的功能；如果每次都要玩一整场比赛，测试产品的时间就太长了。
+
+Flight simulators also usually run in real time. But there are often long periods of flying straight and level during which nothing of interest is going on; the plane is simply traveling from one place to another. To shorten these periods, many games offer a way to “speed up time” by two, four, or eight times—in effect, making everything in the game world go faster than real time. When the plane approaches its destination, the player can return the game to normal speed and play in real time.
+
+飞行模拟器通常也是实时运行的。但是，通常会有很长一段时间是平直飞行的，在此期间不会发生任何有趣的事情；飞机只是从一个地方飞到另一个地方。为了缩短这些时间，许多游戏都提供了一种方法，可以将时间“加速”两倍、四倍或八倍————实际上就是让游戏世界中的一切都比真实时间快。当飞机接近目的地时，玩家可以将游戏速度恢复到正常速度，并进行实时游戏。
+
+> **Questions to Ask Yourself About the Temporal Dimension 关于时间维度的自问自答**
+> * Is time a meaningful element of my game? Does the passage of time change anything in the game world even if the player does nothing, or does the world simply sit still and wait for the player to do something?\
+> 时间是我的游戏中一个有意义的元素吗？即使玩家什么都不做，时间的流逝是否也会改变游戏世界的任何事情，还是游戏世界只是静静地等待玩家做什么？
+>
+> If time does change the world, what effects does it have? Does food decay, and do light bulbs burn out?\
+> 如果时间确实改变了世界，它会产生什么影响？食物会腐烂吗？灯泡会烧坏吗？
+>
+> * How does time affect the player's avatar? Does he get hungry or tired?\
+> 时间会如何影响玩家的化身？他会饿还是累？
+>
+> * What is the actual purpose of including time in my game? Is it only a part of the atmosphere, or is it an essential part of the gameplay?\
+> 在我的游戏中加入时间的真正目的是什么？它只是游戏氛围的一部分，还是游戏玩法的重要组成部分？
+>
+> * Is there a timescale for my game? Do I need to have measurable quantities of time, such as hours, days, and years, or can I just let time go by without bothering to measure it? Does the player need a clock to keep track of time?\
+> 我的游戏有时间刻度吗？我是否需要可测量的时间量，如小时、天和年，还是可以任由时间流逝而不必费心测量？玩家是否需要一个时钟来记录时间？
+>
+> * Are there periods of time that I'm going to skip or do without? Is this going to be visible to the player, or will it happen seamlessly?\
+> 是否有一些时间段我可以跳过或省略？玩家是否能看到这些时间段，或者这些时间段是无缝衔接的？
+>
+> * Do I need to implement day and night? If I do, what will make night different from day? Will it merely look different, or will it have other effects as well? What about seasons?\
+> 我需要设置白天和黑夜吗？如果需要，黑夜与白天有何不同？是仅仅看起来不同，还是还会有其他效果？那么季节呢？
+>
+> * Will any of the time in my game need to be anomalous? If so, why? Will that bother the player? Do I need to explain it away, and if so, how?\
+> 游戏中的时间是否需要反常？如果需要，为什么？这会让玩家感到困扰吗？我是否需要解释清楚，如果需要，如何解释？
+>
+> * Should the player be allowed to adjust time in any way? Why, how, and when?\
+> 是否应该允许玩家以任何方式调整时间？为什么？如何调整？什么时候进行调整？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
