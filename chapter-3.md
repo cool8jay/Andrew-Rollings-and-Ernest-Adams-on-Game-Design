@@ -85,3 +85,41 @@ Harmony is essential for a good game world. With every design decision you make,
 A good way to identify games with harmony is to look for those that have lasted far longer in the marketplace than their designers ever expected. This means that something about the game is striking a resonant chord with its players, a chord that continues to echo. For example, people continue to make modifications to Half-Life that are actually more popular than new games because Half-Life is such an elegant, harmonious game. Tetris is another case in point. Action games come and go, but Tetris has stood the test of time and might outlive us all.
 
 识别和谐游戏的一个好方法是寻找那些在市场上持续时间远远超过设计者预期的游戏。这意味着游戏中的某些东西引起了玩家的共鸣，而且这种共鸣还在持续回荡。例如，人们不断对《半条命》进行修改，而这些修改实际上比新游戏更受欢迎，因为《半条命》是一款如此优雅、和谐的游戏。俄罗斯方块是另一个例子。动作游戏来来去去，但俄罗斯方块却经受住了时间的考验，可能会比我们所有人都长寿。
+
+# The Dimensions of a Game World 游戏世界的维度
+
+A game's setting and world are defined by many different variables, each of which describes one dimension of the world, one of the aspects of the game's look and feel. To fully define your world and its setting, you need to consider each of these dimensions and answer certain questions about them.
+
+游戏的背景和世界由许多不同的变量定义，每个变量都描述了世界的一个维度，即游戏外观和感觉的一个方面。要全面定义你的世界及其背景，你需要考虑其中的每一个维度，并回答有关它们的某些问题。
+
+## The Physical Dimension 物理维度
+
+Game settings are almost always implemented as some sort of physical space. The player moves his avatar in and around this space, or moves other pieces, characters, or units in it. The physical characteristics of this space determine a great deal about the gameplay.
+
+游戏设置几乎总是作为某种物理空间来实现的。玩家可以在这个空间中移动自己的化身，也可以在这个空间中移动其他棋子、角色或单位。这个空间的物理特性在很大程度上决定了游戏玩法。
+
+Even text adventures include a physical dimension. The player moves from one abstract “room” or other discrete location to another. Back when more people played text adventures, the boxes used to carry proud boasts about the number of rooms in the game. Gamers could take this as a very rough measure of the size of the world they could explore in the game and, therefore, the amount of gameplay that the game offered.
+
+即使是文字冒险也包含物理维度。玩家从一个抽象的“房间”或其他不相关地点移动到另一个位置。当越来越多的人开始玩文字冒险游戏时，游戏包装盒上会自豪地标注游戏中房间的数量。游戏玩家可以用它粗略衡量他们在游戏中可以探索的世界的大小，从而衡量游戏所提供的游戏性。
+
+The physical dimension of a game is itself characterized by several different elements: dimensionality, scale, and boundaries.
+
+游戏的物理维度本身由几个不同的元素构成：空间维度、规模和边界。
+
+### Dimensionality 空间维度
+
+One of the first questions you have to ask yourself is how many dimensions your physical space is going to have. A few years ago, the vast majority of games had only two dimensions. This was especially noticeable in side-scrolling games such as Super Mario Brothers. Mario could run left and right and jump up and down, but he could not move toward the player (“out” of the screen) or away from him (“into” the screen).
+
+你首先要问自己的一个问题是，你的物理空间将有多少维度。几年前，绝大多数游戏只有两个维度。这在《超级马里奥兄弟》等卷轴游戏中尤为明显。马里奥可以左右奔跑、上下跳跃，但他不能向玩家移动（“离开”屏幕），也不能离开玩家（“进入”屏幕）。
+
+It is essential to understand that the dimensionality of the game's physical space is not the same as how the game will display that space or how it will implement the space in software. Ultimately, all spaces must be displayed on the two-dimensional surface of the monitor screen, but that's a problem for a programmer, not a designer. How to implement and display the space are separate but related questions. The former has to do with technical design, and the latter has to do with user interface design.
+
+我们必须明白，游戏物理空间的维度并不等同于游戏将如何显示该空间或如何在软件中实现该空间。归根结底，所有空间都必须显示在显示器屏幕的二维表面上，但这是程序员的问题，而不是设计师的问题。如何实现和显示空间是两个不同但相关的问题。前者与技术设计有关，后者与用户界面设计有关。
+
+Nowadays, a great many computer game settings have a three-dimensional space, even though the game might implement it in various ways. Starcraft, a war game, shows you plateaus and lowlands, as well as aircraft that pass over obstacles and ground units. Starcraft's setting is clearly three-dimensional, but the space is actually implemented in a series of two-dimensional planes or layers, one above another. Objects can be placed and moved within a plane with a fine degree of precision, but vertically, an object must be in one plane; there is no “in between.” Flying objects can't move up and down in the air; they're always at the same altitude—in the “air layer”.
+
+如今，许多电脑游戏都有三维空间的背景，尽管游戏可能会以不同的方式来实现它。《星际争霸》是一款战争游戏，它向你展示了高原和低地，以及越过障碍物的飞机和地面部队。《星际争霸》的背景显然是三维的，但空间实际上是以一系列二维平面或层叠的方式实现的。物体可以在一个平面内精确地放置和移动，但在垂直方向上，物体必须在一个平面内，没有“中间”。飞行物体无法在空中上下移动，它们始终处于同一高度的“空气层”中。
+
+When first thinking about the dimensionality of your game space, it's tempting to immediately assume that you want it to be three-dimensional because that offers the greatest flexibility or seems more real. But as with everything else, the dimensionality of your physical space must serve the entertainment value of the game. Make sure all the dimensions will contribute meaningfully. Lemmings was a hit 2D game, but Lemmings 3D was nowhere near as successful because it was much more difficult to play. The addition of a third dimension detracted from the player's enjoyment rather than adding to it.
+
+在最初考虑游戏空间的维度时，很容易立即假定游戏空间是三维的，因为三维空间具有最大的灵活性，或者看起来更真实。但与其他任何事情一样，物理空间的维度必须服务于游戏的娱乐价值。确保所有的维度都能做出有意义的贡献。《旅鼠》是一款大受欢迎的 2D 游戏，但《旅鼠 3D》却远没有那么成功，因为它难玩得多。增加第三个维度不但没有增加玩家的乐趣，反而减少了玩家的乐趣。
