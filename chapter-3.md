@@ -58,7 +58,7 @@ More often, however, suspension of disbelief is broken by poor design. This migh
 
 然而，更常见的情况是，终止怀疑被拙劣的设计所打破。如果故事中的某个人做出了与角色大相径庭的事情，或者发生了非常不可能发生的事情——一个天神显灵——而我们却要把它当作正常的事情来接受，就会出现这种情况。另一个经常破坏玩家终止怀疑或者阻碍其形成的原因是缺乏和谐，我们将在下文中讨论。
 
-> 译者注：deus ex machina，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖跳下去，但被一阵风吹到树上而幸存。
+> 译者注：deus ex machina，直译是机械神，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖掉下去，突然出现一个飞行机器人接住他，那就是机械神。
 
 ## The Importance of Harmony 和谐的重要性
 
@@ -78,9 +78,9 @@ You know, the suspension of disbelief is fragile. It's hard to achieve it, and h
 
 要知道，终止怀疑是很脆弱的。很难做到，也很难维持。一点不必要的血腥场面，一句时髦的口语，一次对你所创造的想象世界之外的任何事物的提及，都足以摧毁这个世界。这些糟糕的结果是缺乏远见或信心的最常见表现。往游戏里加入这些东西的人并没有足够努力。
 
-Harmony is essential for a good game world. With every design decision you make, you should ask yourself whether the result is in harmony with your overall vision. Too many games have elements that seem bolted on, last-minute ideas that somebody thought would be “cool” to include. Although every game design requires compromises, as we said in Chapter 1, “What Is Game Design?,” an important part of your job as a designer is to minimize the false notes or off-key elements that compromises tend to create. Try to find a way to make everything fit together into a coherent, integrated whole.
+Harmony is essential for a good game world. With every design decision you make, you should ask yourself whether the result is in harmony with your overall vision. Too many games have elements that seem bolted on, last-minute ideas that somebody thought would be “cool” to include. Although every game design requires compromises, as we said in [Chapter 1](chapter-1.md), “What Is Game Design?,” an important part of your job as a designer is to minimize the false notes or off-key elements that compromises tend to create. Try to find a way to make everything fit together into a coherent, integrated whole.
 
-好的游戏世界离不开和谐。在做每一个设计决定时，你都应该问问自己，结果是否与你的整体愿景和谐一致。太多游戏中的元素似乎是临时拼凑的，是某些人认为“很酷”的想法。尽管正如我们在第一章“什么是游戏设计？”中所说的那样，每个游戏设计都需要妥协，但作为设计师，你工作的一个重要任务就是尽量减少妥协带来的假音或跑调元素。努力找到一种方法，让所有东西都能融为一体，成为一个连贯的整体。
+好的游戏世界离不开和谐。在做每一个设计决定时，你都应该问问自己，结果是否与你的整体愿景和谐一致。太多游戏中的元素似乎是临时拼凑的，是某些人认为“很酷”的想法。尽管正如我们在[第一章](chapter-1.md)，“什么是游戏设计？”中所说的那样，每个游戏设计都需要妥协，但作为设计师，你工作的一个重要任务就是尽量减少妥协带来的假音或跑调元素。努力找到一种方法，让所有东西都能融为一体，成为一个连贯的整体。
 
 A good way to identify games with harmony is to look for those that have lasted far longer in the marketplace than their designers ever expected. This means that something about the game is striking a resonant chord with its players, a chord that continues to echo. For example, people continue to make modifications to Half-Life that are actually more popular than new games because Half-Life is such an elegant, harmonious game. Tetris is another case in point. Action games come and go, but Tetris has stood the test of time and might outlive us all.
 
