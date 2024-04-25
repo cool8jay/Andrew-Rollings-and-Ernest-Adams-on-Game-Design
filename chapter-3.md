@@ -256,7 +256,7 @@ Flight simulators also usually run in real time. But there are often long period
 > * Is time a meaningful element of my game? Does the passage of time change anything in the game world even if the player does nothing, or does the world simply sit still and wait for the player to do something?\
 > 时间是我的游戏中一个有意义的元素吗？即使玩家什么都不做，时间的流逝是否也会改变游戏世界的任何事情，还是游戏世界只是静静地等待玩家做什么？
 >
-> If time does change the world, what effects does it have? Does food decay, and do light bulbs burn out?\
+> * If time does change the world, what effects does it have? Does food decay, and do light bulbs burn out?\
 > 如果时间确实改变了世界，它会产生什么影响？食物会腐烂吗？灯泡会烧坏吗？
 >
 > * How does time affect the player's avatar? Does he get hungry or tired?\
