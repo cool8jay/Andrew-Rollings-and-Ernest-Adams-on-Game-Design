@@ -80,7 +80,7 @@ There is a downside to deriving game ideas from other games. It tends to result 
 
 A dream or an idea alone is only a start; it is not enough to make a game. A dream is a fantasy that you have by yourself. You can make computer games purely for yourself if you like, but most of us don't have the money to do that. A computer game is something that you make for someone else. You'll also discover after you've built a few games that playing a game that you worked on is a very different experience from playing a game that someone else has created. When you know what's on the inside and how it works, some of the fantasy is lost. Just as actors often don't watch their own movies, some game developers don't play their own games. For one thing, of course, if it's a single-player game, they already know how to beat it. But the experience, the dream, isn't quite the same when it's a game you built yourself. In your heart, you know it's an artificial simulation.
 
-仅仅有梦想或想法只是一个开始，还不足以制作一款游戏。梦想是你自己的幻想。如果你愿意，可以纯粹为自己制作电脑游戏，但我们大多数人都没钱这么做。电脑游戏是你为别人制作的东西。当你制作了几款游戏后，你还会发现，玩自己制作的游戏和玩别人制作的游戏是截然不同的体验。当你知道游戏的内部结构和工作原理时，就会失去一些幻想。就像演员通常不看自己的电影一样，一些游戏开发者也不玩自己的游戏。首先，当然，如果是单人游戏，他们已经知道如何通关。但如果是自己制作的游戏，体验和梦想就不一样了。在你的内心深处，你知道这是一个人工模拟的游戏。
+仅仅有梦想或创意只是一个开始，还不足以制作一款游戏。梦想是你自己的幻想。如果你愿意，可以纯粹为自己制作电脑游戏，但我们大多数人都没钱这么做。电脑游戏是你为别人制作的东西。当你制作了几款游戏后，你还会发现，玩自己制作的游戏和玩别人制作的游戏是截然不同的体验。当你知道游戏的内部结构和工作原理时，就会失去一些幻想。就像演员通常不看自己的电影一样，一些游戏开发者也不玩自己的游戏。首先，当然，如果是单人游戏，他们已经知道如何通关。但如果是自己制作的游戏，体验和梦想就不一样了。在你的内心深处，你知道这是一个人工模拟的游戏。
 
 The chief purpose of a computer game is to entertain someone else. This means that you and your development team are the performers, the people who create the entertainment. An essential part of your job is communication, transmitting your dream to your audience, the players. If the game is in a well-known genre and setting (for example, a World War II flight simulator), you can be pretty certain that a number of people already share your dream. But if your game is in a new setting (a futuristic city of your imagination, for example)—and especially if it's in a new genre—you have to be very careful and thorough in communicating your dream to others. Some of the very first questions a publishing executive is going to ask you are “Why would anyone want to play this game?” and “What's going to make someone buy this game instead of another?”.
 
@@ -510,4 +510,4 @@ In designing an entertaining game, every element and every feature are tested ag
 
 Now your idea is no longer just an idea. You've devised the essential elements of a game, and you know the answers to the vital questions that a publisher will ask. You have a game concept down on paper, and you're ready to show it to someone else for an opinion. The skeleton is assembled. Now it's time to put meat on the bones.
 
-现在，你的想法不再只是一个想法。你已经设计出游戏的基本要素，也知道发行商会问的重要问题的答案。你已经把游戏概念写在纸上，准备好向别人展示，征求意见。骨架已经搭好。现在是往骨头上加肉的时候了。
+现在，你的创意不再只是一个创意。你已经设计出游戏的基本要素，也知道发行商会问的重要问题的答案。你已经把游戏概念写在纸上，准备好向别人展示，征求意见。骨架已经搭好。现在是往骨头上加肉的时候了。
