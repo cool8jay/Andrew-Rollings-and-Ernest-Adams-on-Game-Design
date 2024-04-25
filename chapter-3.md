@@ -370,5 +370,24 @@ It's tempting to borrow from our closest visual neighbor, the movies, because in
 
 Television goes through its own distinct phases, and because it's even more fashion-driven than the movies, it is ripe for parody. The comedies of the 1950s and 1960s and the nighttime soaps of the 1970s and 1980s all had characteristic looks that seem laughable today but that are immediately familiar to most adult Americans. That is one potential problem, however: If you make explicit references to American popular culture, non-Americans and children might not get it. If your gameplay is good enough, though, it won't matter.
 
-电视也经历着自己独特的阶段，由于它比电影更受时尚的驱动，因此模仿的时机已经成熟。上世纪五六十年代的喜剧片和七八十年代的夜间肥皂剧都有自己的特色造型，这些造型在今天看来滑稽可笑，但对于大多数成年美国人来说却是再熟悉不过了。不过，这也是一个潜在的问题：如果你直接引用美国流行文化，那么非美国人和儿童可能理解不了。不过，如果你的游戏做得足够好，这并不重要。
+电视也经历着自己独特的阶段，由于它比电影更受时尚的驱动，因此模仿的时机已经成熟。上世纪五六十年代的喜剧片和七八十年代的夜间肥皂剧都有自己的特色造型，这些造型在今天看来滑稽可笑，但对于大多数成年美国人来说却是再熟悉不过了。不过，这也是一个潜在的问题：如果你直接引用美国流行文化，那么非美国人和儿童可能理解不了。不过，如果你的游戏做得足够好，这不是问题。
 
+> **Questions to Ask Yourself About the Environmental Dimension 关于环境纬度的自问自答**
+> * Is my game world set in a particular historical period or geographic location? When and where? Is it an alternate reality, and if so, what makes it different from ours?\
+> 我的游戏世界是否设定在特定的历史时期或地理位置？时间和地点？它是另一个现实吗？如果是，它与我们的现实有什么不同？
+> * Are there any people in my game world? What are they like? Do they have a complex, highly organized society or a simple, tribal one? How do they govern themselves? How is this social structure reflected in their physical surroundings? Are there different classes of people, guilds, or specialized occupations?\
+> 我的游戏世界中有人吗？他们是什么样的人？他们是一个复杂、高度组织化的社会，还是一个简单的部落社会？他们如何管理自己？这种社会结构如何反映在他们的自然环境中？是否存在不同的阶级、行会或专门职业？
+> * What do my people value? Trade, martial prowess, imperialism, peace? What kinds of lives do they lead in pursuit of these ends? Are they hunters, nomadic, agrarian, industrialized, even postindustrial? How does this affect their buildings and clothing?\
+> 我的人民重视什么？贸易、武功、帝国主义、和平？为了实现这些目标，他们过着怎样的生活？他们是猎人、游牧民族、农业民族、工业化民族，甚至是后工业化民族？这对他们的建筑和服饰有何影响？
+> * Are my people superstitious or religious? Do they have institutions or religious practices that will be visible in the game? Are there religious buildings? Do the people carry charms or display spiritual emblems?\
+> 我的人民是迷信还是信教？他们是否有在游戏中可见的机构或宗教活动？有宗教建筑吗？人们是否携带符咒或展示精神徽章？
+> * What are my people's aesthetics like? Are they flamboyant or reserved, chaotic or orderly, bright or subtle? What colors do they like? Do they prefer straight lines or curves?\
+> 我的人民有怎样的审美观？他们张扬还是保守，混乱还是有序，乐观还是含蓄？他们喜欢什么颜色？他们喜欢直线还是曲线？
+> * If there aren't any people in the game, what are there instead, and what do they look like and how do they behave?\
+> 如果游戏中没有任何人，那么会有其他什么，他们看起来是什么样子以及他们的行为如何？
+> * Does my game take place indoors or outdoors, or both? If indoors, what are the furnishings and interior decor like?\
+> 我的游戏是在室内还是室外进行的，或者两者皆有？如果在室内，家具和室内装饰是什么样的？
+> * What is the style and mood of my game? How am I going to create them with art, sound, and music?\
+> 我的游戏的风格和氛围是什么？我将如何用美术、声音和音乐来营造它们？
+> * How much detail can I afford in my game? Will it be rich and varied or sparse and uncluttered? How does this affect the way the game is played?\
+> 我的游戏能有多少细节？是丰富多样，还是稀少简洁？这对游戏的玩法有什么影响？
