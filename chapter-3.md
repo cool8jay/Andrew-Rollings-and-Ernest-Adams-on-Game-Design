@@ -524,57 +524,66 @@ As we have said, every design decision you make must serve the entertainment val
 
 Saving a game takes a snapshot of a game world and all its particulars at a given instant in time and stores them away somewhere. The player can then load the snapshot, return to that instant in the game world, and replay the game from that point. This might seem like a fairly straightforward thing to offer the player, but, in fact, it has consequences both for the player's experience of the game—the story he's creating as he plays—and for the way the player actually plays. Saving and restoring a game is technologically easy, and it's an essential tool for testing and debugging, so it's often slapped in as a feature without much thought about its effect on gameplay. As designers, though, it's our job to think about anything that affects gameplay or the player's experience of the game, and that includes the save-game feature.
 
+保存游戏是将游戏世界及其所有细节在某一特定时刻的快照保存到某个地方。然后，玩家就可以加载快照，回到游戏世界中的那个瞬间，并从那时起重新玩游戏。这看起来似乎是为玩家提供了一件相当简单的事情，但事实上，它对玩家的游戏体验————玩家在游戏过程中创造的故事————以及玩家实际玩游戏的方式都有影响。保存和还原游戏在技术上非常容易，而且是测试和调试的必备工具，因此它经常被当作一项功能来使用，而不会过多考虑其对游戏性的影响。但作为设计者，我们的职责是考虑任何会影响游戏性或玩家游戏体验的因素，这其中也包括保存游戏功能。
+
 Saving a game stores not only the player's location in the game, but also any customizations he might have made along the way. In Michelle Kwan's Figure Skating Championship, for example, the player could customize the body type, skin tone, hair color and style, and costume of the skater. The player could even load in a picture of her own face. The more freedom the player has to customize the avatar, the more data must be saved. Until recently, this has placed a limit on the richness of games for console machines. Games for personal computers could almost always be saved because PCs had disk drives available, but the feature came more slowly to console games. The oldest console machines, which simply emulated arcade machines, often had no way of saving games because they had no storage medium. If the player wanted to leave a game and come back to it later, he could only pause it and leave the console turned on. As a result, most of the games for these machines tended to feel a lot like arcade games as well. They were not designed to be played for a little while and then returned to a day or two later; they had to be played through in one sitting or abandoned.
+
+保存游戏不仅可以保存玩家在游戏中的位置，还可以保存玩家在游戏过程中进行的任何自定义设定。例如，在关颖珊的《花样滑冰锦标赛》中，玩家可以自定义滑冰运动员的体型、肤色、发色和发型以及服装。玩家甚至可以载入自己的脸部照片。玩家定制化身的自由度越大，必须保存的数据就越多。一直以来，这限制了主机游戏内容的丰富性。个人电脑的游戏几乎总是可以保存的，因为个人电脑有磁盘驱动器，但主机游戏的这一功能出现得比较慢。最古老的主机只是模拟街机，由于没有存储介质，往往无法保存游戏。如果玩家想离开游戏稍后再回来玩，他只能暂停游戏并让主机一直保持开机。因此，主机上的大多数游戏给人的感觉也很像街机游戏。这些游戏并不是为了让玩家玩上一小会儿，然后过一两天再回来玩的，而是必须一口气玩完或直接放弃。
 
 Now that the Microsoft Xbox includes a hard disk drive, console machines can finally save games just as complex as personal computer games. This doesn't necessarily mean that Xbox games will be just like PC games—there are still important differences between consoles and PCs—but one significant barrier to rich gaming on consoles has been removed.
 
-Reasons for Saving a Game
+现在，微软 Xbox 配备了硬盘驱动器，游戏机终于可以像个人电脑游戏一样复杂地保存游戏了。这并不一定意味着 Xbox 游戏将与个人电脑游戏一样————游戏机与个人电脑之间仍然存在重要差异，但游戏机上丰富游戏的一个重要障碍已经消除。
+
+## Reasons for Saving a Game 保存游戏的原因
 
 Three reasons exist for saving a player's game or allowing him to save it:
 
-Allowing the player to leave the game and return to it later. This is the most important reason for saving the game. In a large game, it's an essential feature. It's not realistic and not fair to the player to expect him to dedicate the computer or console machine to a 40-hour game until it's finished.
+保存玩家的游戏或允许玩家保存游戏有三个原因：
 
-Letting the player recover from disastrous mistakes. In practice, this usually means getting the avatar killed somehow. Arcade games, which have no save-game feature, traditionally give the player a fixed number of "lives" and chances to earn more along the way. Console action games have tended to follow the same scheme. Richer games, such as role-playing or adventure games, usually give the player only one life but allow him to reload a saved game if his avatar dies or he loses any possibility of winning the game.
+* Allowing the player to leave the game and return to it later. This is the most important reason for saving the game. In a large game, it's an essential feature. It's not realistic and not fair to the player to expect him to dedicate the computer or console machine to a 40-hour game until it's finished.\
+允许玩家离开游戏并在稍后返回。这是保存游戏的最重要原因。在大型游戏中，这是一项必不可少的功能。如果期望玩家在电脑或游戏机上投入到一个长达 40 小时的游戏中，直到游戏结束，这是不现实的，也是对玩家不公平的。
+* Letting the player recover from disastrous mistakes. In practice, this usually means getting the avatar killed somehow. Arcade games, which have no save-game feature, traditionally give the player a fixed number of "lives" and chances to earn more along the way. Console action games have tended to follow the same scheme. Richer games, such as role-playing or adventure games, usually give the player only one life but allow him to reload a saved game if his avatar dies or he loses any possibility of winning the game.\
+让玩家从灾难性的错误中恢复过来。在实践中，这通常意味着玩家的化身会被杀死。街机游戏没有保存游戏的功能，传统上会给玩家固定的“生命”数量，并在游戏过程中有机会获得更多的生命。主机上的动作游戏也往往遵循同样的方案。更丰富的游戏，如角色扮演或冒险游戏，通常只给玩家一条生命，但如果他的化身死了或他失去了赢得游戏的任何可能性，则允许他重新加载已保存的游戏。
+* Encouraging the player to explore alternate strategies. Saving the game is a useful feature in turn-based strategic games because it lets the player learn the game by trying alternative approaches. If one doesn't seem to work, he can go back to the point at which he committed himself to one plan and try another approach.\
+鼓励玩家探索其他策略。在回合制策略游戏中，保存游戏是一项非常有用的功能，因为它可以让玩家通过尝试其他方法来学习游戏。如果其中一种方法似乎行不通，他可以返回到他选择一种计划前的位置，尝试另一种方法。
 
-Encouraging the player to explore alternate strategies. Saving the game is a useful feature in turn-based strategic games because it lets the player learn the game by trying alternative approaches. If one doesn't seem to work, he can go back to the point at which he committed himself to one plan and try another approach.
-
-Consequences for Immersion and Storytelling
+## Consequences for Immersion and Storytelling
 
 Saving a computer game is not part of its gameplay. The act of saving a game takes place outside the game world, even if it changes the way the player plays inside the game world. It destroys the suspension of disbelief. If a game is immersive and tries to create the illusion that the player inhabits a fantasy world, the act of saving a copy of the fantasy world destroys the illusion. One of the most significant characteristics of real life is that you cannot return to the past to correct errors you have made. The moment you allow a player to do this, you acknowledge that the fantasy world is only a game.
 
 The essence of a story is dramatic tension, and dramatic tension requires that something be at stake. Saving a game in a game with a branching storyline profoundly affects the player's experience of the story. In the real world, decisions are irrevocable. Some can be changed later, their consequences modified at some point in the future, but the original decision itself cannot be unmade. But when a player follows first one branch of a branching storyline and then goes back in time and follows another branch, he experiences a very unnatural, unreal phenomenon. Dramatic tension is reduced because if the future can be altered by returning to the past at any moment and changing it, then nothing is really at stake.
 
-Ways of Saving a Game
+## Ways of Saving a Game
 
 Over the years, designers have devised a variety of different ways of saving a game, each with their own consequences for immersion and gameplay.
 
-Save to a File or "Save Slot"
+### Save to a File or "Save Slot"
 
 The most common way of saving a game is to allow the player to interrupt the play and save it either into a file on the hard drive that the player can name, or, more commonly, to allow the player to save it into one of a series of named "slots" that the game program keeps track of. When the player wants to replay the saved game, he tells the program to load it from the directory of files or slots. This mechanism is useful because it allows the player to keep several different copies, saved at different points, and to name them so that he can remember which one is which.
 
 Unfortunately, it's also the method most harmful to the game's immersiveness. The user interface for managing the files or save slots necessarily looks like an operating system's file-management tool, not like a part of the fantasy world that the game depicts. You can make it prettier with appropriate graphics, but it almost always takes the player out of the world and destroys his suspension of disbelief. Some games improve this a little by calling it the player's "journal" and making it look as if the saved games are being kept in a book.
 
-Quick-Save
+### Quick-Save
 
 Fast-moving games in which the player's avatar is in more or less constant danger (such as first-person shooters) frequently offer a quick-save feature. The player presses a single button to save the game instantly at any time, without ever leaving the game world. The screen displays the words "Quick saved" for a moment, but other than that, the player's concentration and immersion in the world are not broken. The player can reload the game just as swiftly by pressing a quick-load button. The game returns immediately to the place where the last quick-save was done, without going out of the game world to a file-management screen.
 
 The disadvantage of quick-save is that it usually offers only one slot, although some games let the player designate a numbered slot by pressing the quick-save button and then a number key. He has to remember which slot is which by himself when quick-loading. Quick-save sacrifices flexibility to gain immersiveness and speed. It doesn't let the player name or manage multiple saved games, but it does allow him to save and load with minimal disruption to his suspension of disbelief.
 
-Automatic Save
+### Automatic Save
 
 A few games automatically save the state of the game as it progresses, so the player can leave and return at any time without explicitly having to save it. Sometimes they save continuously, but more often they save intermittently at checkpoints, which may or may not be revealed to the player when they occur. This is even less disruptive than quick-saving because the player never has to do anything. However, if this is the only method provided, the player can't choose to save at certain points along the way. If the player wants to restart at an earlier point, he's out of luck; and if the checkpoints are a long way apart, he might lose a great deal of progress in the event of a disaster. Continuous-save prevents the player from going back and undoing disasters. On the other hand, he can play the game confident that he can interrupt and resume it at any point.
 
-To Save or Not to Save
+## To Save or Not to Save
 
 Here we look at the arguments for and against saving, and we present our own perspective on the matter.
 
-The Argument Against
+### The Argument Against
 
 A few designers don't allow players to save their games at certain points, or even at all. If the player can save and reload constantly, he can solve puzzles or overcome other obstacles by trial and error rather than by skill or brains. If the designer wants him to solve them in an uninterrupted sequence, saving and reloading defeats that challenge. Some games (The Legend of Zelda: Ocarina of Time, for example) avoid this by saving a game only at checkpoints or particular locations, forcing the player to play the game again from that point when he reloads. Saving and reloading also enables players to avoid undesirable random events. If the event occurs, the player can simply reload the game repeatedly until it doesn't occur.
 
 When you can save and reload at any point, nothing is at stake. Your avatar might die, lose money, or suffer some other disaster, but it can all be remedied simply by reloading the game. This takes away some of the challenge.
 
-The Argument For
+### The Argument For
 
 We believe that these arguments against saving are spurious and are the sign of a lazy designer. Making a game harder simply by preventing the player from saving the game is a cheap way of creating a challenge out of nothing. For example, you could set up a situation in which the player has no way of knowing which of several options to choose (for example, selecting one of three identical corridors to walk down). If two contain deadly traps and one does not, and the player is not allowed to save before walking down them, you've guaranteed that two times in three he will have to go back and start the game over, no matter how good he is otherwise. This isn't fun or even a fair challenge. If you really want to make the game harder, devise harder challenges. Forcing the player to replay an entire level because he made a mistake near the end wastes his time and condemns him to frustration and boredom. As a designer, it should be your goal to avoid those feelings, not create them.
 
