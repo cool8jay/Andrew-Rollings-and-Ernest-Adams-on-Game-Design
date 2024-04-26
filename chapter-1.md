@@ -138,7 +138,7 @@ This is the heart and soul of the game—if the core mechanics aren't sound, you
 
 Of these three, we can help with only the first and the third. Designer ignorance is what this book is intended to address. The second, marketing pressure, is beyond our control, much to our despair on a number of occasions in the past. We will also address the third, technology versus gameplay, in this book, although it's also partly brought on by market conditions. The technology race is analogous to the Cold War arms race: Technology produces eye candy, eye candy grabs customers' attention, and, in the viciously competitive arena of the software store and magazine page, attention is the most valuable commodity. Games have limited development budgets, and the money tends to go toward areas that will produce the most visible results. If technology sells products, then products will focus on technology. The core mechanics are often given short shrift in consequence.
 
-在这三点中，我们只能帮助解决第一点和第三点。设计者的无知正是本书要解决的问题。第二点是市场压力，这是我们无法控制的，过去我们曾多次为此感到绝望。我们还将在本书中讨论第三点，即技术与游戏的竞争，尽管它也有一部分是由市场条件造成的。技术竞赛类似于冷战时期的军备竞赛： 技术能吸引眼球，眼球能吸引顾客的注意力，而在竞争激烈的软件商店和杂志版面上，注意力是最有价值的东西。游戏的开发预算有限，资金往往会流向能产生最直观效果的领域。如果技术能卖出产品，那么产品就会把重点放在技术上。因此，核心机制往往被忽视。
+在这三点中，我们只能帮助解决第一点和第三点。设计者的无知正是本书要解决的问题。第二点是市场压力，这是我们无法控制的，过去我们曾多次为此感到绝望。我们还将在本书中讨论第三点，即技术与游戏的竞争，尽管它也有一部分是由市场条件造成的。技术竞赛类似于冷战时期的军备竞赛：技术能吸引眼球，眼球能吸引顾客的注意力，而在竞争激烈的软件商店和杂志版面上，注意力是最有价值的东西。游戏的开发预算有限，资金往往会流向能产生最直观效果的领域。如果技术能卖出产品，那么产品就会把重点放在技术上。因此，核心机制往往被忽视。
 
 ## Storytelling and Narrative 讲故事和叙事
 
@@ -230,7 +230,7 @@ As we said before, a key part of game design is transmitting the design to other
 >
 > Here's a design decision: “Whenever they have eggs in their nests, female basilisks will not move beyond visual range from the nest. If an enemy approaches within 50 meters of the nest, the basilisk will abandon any other activity and return to the nest to defend the eggs. She will not leave as long as a living enemy threatens the eggs, and will even defend the eggs to her own death.”
 >
-> 这是一个设计决定： “只要巢中有卵，雌性蛇怪就不会离开巢的可视范围。如果有敌人接近巢穴 50 米范围内，蛇怪就会放弃任何其他活动，返回巢穴保护蛋。只要有活着的敌人威胁到鸟蛋，它就不会离开，甚至会拼死保护鸟蛋。”
+> 这是一个设计决定：“只要巢中有卵，雌性蛇怪就不会离开巢的可视范围。如果有敌人接近巢穴 50 米范围内，蛇怪就会放弃任何其他活动，返回巢穴保护蛋。只要有活着的敌人威胁到鸟蛋，它就不会离开，甚至会拼死保护鸟蛋。”
 >
 > See the difference? This is what creating design documents is about.
 >
@@ -458,7 +458,7 @@ Make sure you watch a lot of movies and documentaries (The History Channel and T
 
 Let's take an example: Most people's idea of pirates comes from swashbuckling Errol Flynn movies, J.M. Barrie's (or even Disney's) Peter Pan, and the Muppets' Treasure Island.
 
-让我们举个例子： 大多数人对海盗的印象来自埃洛尔·弗林的传奇冒险电影，詹姆斯·马修·巴利（或者是迪士尼）的《彼得·潘》，以及芝麻街的《金银岛》。
+让我们举个例子：大多数人对海盗的印象来自埃洛尔·弗林的传奇冒险电影，詹姆斯·马修·巴利（或者是迪士尼）的《彼得·潘》，以及芝麻街的《金银岛》。
 
 If you're designing a game based on piracy on the high seas, then exact historical detail isn't going to be what they expect—a game based on venereal disease, scurvy, maggot-infested food that has to be eaten in the dark so the crew can't see what they're eating, starvation, brutality, and the “consequences” of dark and lonely nights on a female-free boat won't make a particularly interesting (or even tasteful) game.
 

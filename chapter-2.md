@@ -100,7 +100,7 @@ In this section, we give a formal definition of a game and describe the elements
 
 A game is a form of participatory, or interactive, entertainment. Watching television, reading, and going to the theater are all forms of passive entertainment. In those media, the entertainment is presented to you, and you're not expected to participate. In some plays, the audience itself has a role, but even then the actors are in control. The content of the entertainment is the drama, and the way you perceive it is by watching it. This mode is fundamentally passive: They act, you watch.
 
-游戏是一种参与式或互动式娱乐形式。看电视、阅读和看电影都是被动娱乐的形式。在这些媒体中，娱乐是呈现给你的，你无需参与。在某些戏剧中，观众本身也扮演了一个角色，但即便如此，演员还是掌控着全局。娱乐的内容就是戏剧表演，而你感知戏剧的方式就是观看。这种模式从根本上说是被动的： 他们演，你看。
+游戏是一种参与式或互动式娱乐形式。看电视、阅读和看电影都是被动娱乐的形式。在这些媒体中，娱乐是呈现给你的，你无需参与。在某些戏剧中，观众本身也扮演了一个角色，但即便如此，演员还是掌控着全局。娱乐的内容就是戏剧表演，而你感知戏剧的方式就是观看。这种模式从根本上说是被动的：他们演，你看。
 
 A game is a much more complicated thing. When people play a game, they are being entertained by actively participating. Although we use the term interactive entertainment to refer to computer and video games, any game is interactive if you're taking part in it, whether it's softball or postal chess. Active forms of entertainment are slowly gaining ground over passive forms; people are starting to play online role-playing games instead of watching TV. People love the feeling of involvement and empowerment that gaming gives.
 
@@ -252,7 +252,7 @@ By comparison, casual gamers play for the sheer enjoyment of playing the game. I
 
 In reality, of course, there are as many types of gamer as there are gamers; everyone has their own reasons for playing computer games. But the casual/core distinction is a very powerful one. If you design a game specifically for one group, you almost certainly won't have a lot of sales to the other group. A few very well-designed games manage to appeal to both: Goldeneye, for example, could be played happily by both core and casual gamers. Core gamers could set the game at the highest difficulty level and drive themselves crazy trying to cut 15 seconds off the last time it took to play a mission. Casual gamers could set the game at the easiest level and blast away, enjoying the game's smooth controls and visual detail.
 
-当然，在现实生活中，玩家的类型和游戏玩家的数量一样多；每个人都有自己玩电脑游戏的理由。不过，休闲游戏和核心游戏的区别还是很明显的。如果你专门为一个群体设计游戏，那么几乎可以肯定的是，另一个群体的游戏销量不会很大。少数设计精良的游戏却能同时吸引这两类玩家： 例如，《黄金眼》既能让核心玩家玩得开心，也能让休闲玩家玩得开心。核心玩家可以把游戏设置为最高难度，并尝试在上一次完成任务的时间上再削减 15 秒，这可能会让他们疯狂。休闲玩家可以将游戏设置为最简单的难度，然后尽情享受游戏的流畅操控和视觉细节。
+当然，在现实生活中，玩家的类型和游戏玩家的数量一样多；每个人都有自己玩电脑游戏的理由。不过，休闲游戏和核心游戏的区别还是很明显的。如果你专门为一个群体设计游戏，那么几乎可以肯定的是，另一个群体的游戏销量不会很大。少数设计精良的游戏却能同时吸引这两类玩家：例如，《黄金眼》既能让核心玩家玩得开心，也能让休闲玩家玩得开心。核心玩家可以把游戏设置为最高难度，并尝试在上一次完成任务的时间上再削减 15 秒，这可能会让他们疯狂。休闲玩家可以将游戏设置为最简单的难度，然后尽情享受游戏的流畅操控和视觉细节。
 
 Even at the concept level, you must have some understanding of who will play your game and what they will enjoy about it. A game concept is not complete without a statement describing its intended audience.
 
@@ -477,7 +477,7 @@ As we have shown, when a particular factor drives the development of a game, the
 
 In designing an entertaining game, every element and every feature are tested against the standard: Does this contribute to the player's enjoyment? Does it entertain him? If so, it stays; if not, it should be looked at closely. There are reasons for including features that don't directly entertain: They might be necessary to make other parts of the game work or might be required by the licensor. But you should regard them with great suspicion and do your best to minimize their impact on the player.
 
-在设计娱乐游戏时，每个元素和每个功能都要按照上述标准进行测试： 这是否有助于玩家享受游戏？能给玩家带来乐趣吗？如果是，就继续保留；如果不是，就应该仔细研究。加入非直接娱乐的功能是有原因的： 它们可能是游戏其他部分运行所必需的，也可能是许可人所要求的。但你应该对它们抱有极大的怀疑，并尽最大努力减少它们对玩家的影响。
+在设计娱乐游戏时，每个元素和每个功能都要按照上述标准进行测试：这是否有助于玩家享受游戏？能给玩家带来乐趣吗？如果是，就继续保留；如果不是，就应该仔细研究。加入非直接娱乐的功能是有原因的：它们可能是游戏其他部分运行所必需的，也可能是许可人所要求的。但你应该对它们抱有极大的怀疑，并尽最大努力减少它们对玩家的影响。
 
 > **Game Concept Worksheet 游戏概念清单**
 >
