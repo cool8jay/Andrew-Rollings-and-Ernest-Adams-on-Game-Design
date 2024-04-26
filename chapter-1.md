@@ -120,6 +120,8 @@ For the purposes of this book, we have broken down game design into three specif
 
 Figure 1.2. Core mechanics, interactivity, and storytelling. 图 1.2. 核心机制、互动性和故事性。
 
+![](.gitbook/assets/core_mechanics_interactivity_and_storytelling.png)
+
 在本书中，我们将游戏设计分为三个具体领域：核心机制、故事讲述和互动性。如图 1.2 所示，每一个领域都是游戏中独特而互补的元素，并且每一个领域都是更大整体的一部分。
 
 ### Core Mechanics 核心机制
