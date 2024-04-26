@@ -458,7 +458,7 @@ Make sure you watch a lot of movies and documentaries (The History Channel and T
 
 Let's take an example: Most people's idea of pirates comes from swashbuckling Errol Flynn movies, J.M. Barrie's (or even Disney's) Peter Pan, and the Muppets' Treasure Island.
 
-让我们举个例子： 大多数人对海盗的印象来自埃洛尔·弗林的传奇冒险电影，詹姆斯·马修·巴利（或者是迪斯尼）的《彼得·潘》，以及芝麻街的《金银岛》。
+让我们举个例子： 大多数人对海盗的印象来自埃洛尔·弗林的传奇冒险电影，詹姆斯·马修·巴利（或者是迪士尼）的《彼得·潘》，以及芝麻街的《金银岛》。
 
 If you're designing a game based on piracy on the high seas, then exact historical detail isn't going to be what they expect—a game based on venereal disease, scurvy, maggot-infested food that has to be eaten in the dark so the crew can't see what they're eating, starvation, brutality, and the “consequences” of dark and lonely nights on a female-free boat won't make a particularly interesting (or even tasteful) game.
 
