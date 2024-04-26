@@ -498,19 +498,29 @@ Ultimately, the violence in a game should serve the gameplay. If it doesn't, the
 > * How realistic is my portrayal of violence? Does the realism appropriately serve the entertainment value of the game?\
 > 我对暴力的描述有多真实？这种真实感是否恰当地服务于游戏的娱乐价值？
 
-# Realism and Abstraction 现实和抽象
+# Realism and Abstraction 真实和抽象
 
 As we said in Chapter 2, games can be divided very roughly into two categories, realistic and abstract. Realistic games make an effort to model the real world, and when playing them you can rely on real-world common sense. Abstract games bear little resemblance to the real world and have arbitrary rules that you have to learn somehow. However, it isn't really that simple. Realism is not a dichotomy, but a continuum. All games, no matter how realistic, represent an abstraction and simplification of the real world. Even the multimillion-dollar flight simulators used for training commercial pilots are incapable of turning the cockpit completely upside down. This event is (we hope) so rare in passenger aircraft that it's not worth the extra money it would take to simulate it.
 
+正如我们在[第二章](chapter-2.md)中所说，游戏大致可分为两类：现实游戏和抽象游戏。现实游戏努力模拟现实世界，玩游戏时你可以依靠现实世界的常识。而抽象游戏与现实世界几乎没有任何相似之处，游戏规则也是随意制定的，你必须通过某种方式来学习。然而，事实并非如此简单。现实主义不是二分法，而是一个连续体。所有游戏，无论多么逼真，都是对现实世界的抽象和简化。即使是用于培训商业飞行员的价值数百万美元的飞行模拟器，也无法将驾驶舱完全颠倒过来。这种情况（我们希望）在客机上非常罕见，因此不值得花额外的钱去模拟它。
+
 Players and game reviewers often talk about realism as a quality of an entire game, but, in fact, it is a quality that differs in individual areas. Many games have highly realistic graphics but unrealistic physics, or realistic economic models but unrealistic user interfaces. For example, a good many first-person shooters accurately model the performance characteristics of a variety of weapons—their rate of fire, size of ammunition clips, accuracy, and so on—but enable the player to carry about 10 of them at once with no reduction in speed or mobility. Therefore, realism is not a single dimension of a game world, but a multivariate quality that applies to all parts of the game and everything in it. (If you're mathematically inclined, think of realism as a vector over every aspect of the game, with values ranging from 0, entirely abstract, to 1, entirely realistic. However, no value will ever equal 1 because nothing about a game is ever entirely realistic—if it were, it would be life, not a game.)
+
+玩家和游戏评论员经常把逼真度作为整个游戏的品质来谈论，但事实上，真实感是一种在个别领域存在差异的品质。许多游戏的画面非常逼真，但物理效果却不真实，或者经济模型逼真，但用户界面却不真实。例如，许多第一人称射击游戏都精确地模拟了各种武器的性能特征————它们的射速、弹夹大小、精确度等等，但玩家却可以同时携带大约 10 种武器，而速度和机动性却丝毫不减。因此，真实感并不是游戏世界的一个单一维度，而是一种适用于游戏所有部分和所有事物的多元质量。(如果用数学语言描述，可以将真实感视为游戏各方面的一个向量，其值从 0（完全抽象）到 1（完全真实）不等。但是，没有一个值能等于 1，因为游戏中没有任何一个方面是完全真实的————如果是这样，那就不是游戏，而是生活了）。
 
 The realistic/abstract dichotomy is mostly useful as a starting point when thinking about what kind of a game you want to create. If you're designing a cartoony action game such as Banjo-Kazooie, you know that it's going to be mostly abstract. As you design elements of the game, you'll need to ask yourself how much realism you want to include. Can your avatar be hurt when he falls long distances? Is there a limit to how much he can carry at once? Do Newtonian physics apply to him, or can he change directions in midair?
 
+现实与抽象的二分法主要是作为一个起点，用来思考你想要制作什么样的游戏。如果你正在设计一款卡通动作游戏，如《班卓熊大冒险》，你就会知道这款游戏大部分都会是抽象的。当你设计游戏元素时，你需要问自己想要加入多少真实感。你的化身从很高的地方摔下来会受伤吗？他一次可以携带的物品数量有限制吗？牛顿物理学是否适用于他，或者他能否在半空中改变方向？
+
 On the other hand, if you're designing a game with a presumption of realism—a vehicle or sports simulation, for example—then you need to think about it from the other direction. What aspects of the real world are you going to abstract? Most modern fighter aircraft have literally hundreds of controls; that's why only a special group of people can be fighter pilots. To make a fighter simulation accessible to the general public, you'll have to remove or simplify a lot of those controls. Similarly, a fighter jet's engine is so powerful that certain maneuvers can knock the pilot unconscious or even rip the plane apart. Are you going to simulate these limitations accurately, or make the game a little more abstract by not requiring the player to think about them?
+
+另一方面，如果你在设计一款以现实主义为前提的游戏————例如汽车或体育模拟游戏————那么你就需要从另一个方向来考虑。你要抽象现实世界的哪些方面？大多数现代战斗机都有数以百计的控制器；这就是为什么只有特殊人群才能成为战斗机飞行员。要想让普通大众也能模拟战斗机，就必须移除或简化其中的许多控制装置。同样，战斗机的发动机功率非常大，某些机动动作会将飞行员击昏，甚至将飞机撕裂。你是要准确模拟这些限制，还是让游戏变得抽象一些，不需要玩家考虑这些限制？
 
 As we have said, every design decision you make must serve the entertainment value of the game. In addition, every design decision must serve your goals for the game's overall degree of realism. Some genres demand more realism than others. It's up to you to establish how much realism you want and in what areas. During the design process, you must continually monitor your decisions to see if they are meeting your goals.
 
-# The Save-Game Issue
+正如我们所说，你所做的每一个设计决定都必须服务于游戏的娱乐价值。此外，每一个设计决定都必须服务于你对游戏整体真实感程度的目标。有些类型的游戏比其他类型的游戏需要更多的真实感。你需要确定在哪些方面需要多少真实感。在设计过程中，你必须不断检查你的决策，看它们是否达到了你的目标。
+
+# The Save-Game Issue 保存游戏问题
 
 Saving a game takes a snapshot of a game world and all its particulars at a given instant in time and stores them away somewhere. The player can then load the snapshot, return to that instant in the game world, and replay the game from that point. This might seem like a fairly straightforward thing to offer the player, but, in fact, it has consequences both for the player's experience of the game—the story he's creating as he plays—and for the way the player actually plays. Saving and restoring a game is technologically easy, and it's an essential tool for testing and debugging, so it's often slapped in as a feature without much thought about its effect on gameplay. As designers, though, it's our job to think about anything that affects gameplay or the player's experience of the game, and that includes the save-game feature.
 
