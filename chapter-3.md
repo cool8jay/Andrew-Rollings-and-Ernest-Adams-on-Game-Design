@@ -540,57 +540,87 @@ Three reasons exist for saving a player's game or allowing him to save it:
 
 保存玩家的游戏或允许玩家保存游戏有三个原因：
 
-* Allowing the player to leave the game and return to it later. This is the most important reason for saving the game. In a large game, it's an essential feature. It's not realistic and not fair to the player to expect him to dedicate the computer or console machine to a 40-hour game until it's finished.\
-允许玩家离开游戏并在稍后返回。这是保存游戏的最重要原因。在大型游戏中，这是一项必不可少的功能。如果期望玩家在电脑或游戏机上投入到一个长达 40 小时的游戏中，直到游戏结束，这是不现实的，也是对玩家不公平的。
-* Letting the player recover from disastrous mistakes. In practice, this usually means getting the avatar killed somehow. Arcade games, which have no save-game feature, traditionally give the player a fixed number of "lives" and chances to earn more along the way. Console action games have tended to follow the same scheme. Richer games, such as role-playing or adventure games, usually give the player only one life but allow him to reload a saved game if his avatar dies or he loses any possibility of winning the game.\
-让玩家从灾难性的错误中恢复过来。在实践中，这通常意味着玩家的化身会被杀死。街机游戏没有保存游戏的功能，传统上会给玩家固定的“生命”数量，并在游戏过程中有机会获得更多的生命。主机上的动作游戏也往往遵循同样的方案。更丰富的游戏，如角色扮演或冒险游戏，通常只给玩家一条生命，但如果他的化身死了或他失去了赢得游戏的任何可能性，则允许他重新加载已保存的游戏。
-* Encouraging the player to explore alternate strategies. Saving the game is a useful feature in turn-based strategic games because it lets the player learn the game by trying alternative approaches. If one doesn't seem to work, he can go back to the point at which he committed himself to one plan and try another approach.\
-鼓励玩家探索其他策略。在回合制策略游戏中，保存游戏是一项非常有用的功能，因为它可以让玩家通过尝试其他方法来学习游戏。如果其中一种方法似乎行不通，他可以返回到他选择一种计划前的位置，尝试另一种方法。
+* **Allowing the player to leave the game and return to it later.** This is the most important reason for saving the game. In a large game, it's an essential feature. It's not realistic and not fair to the player to expect him to dedicate the computer or console machine to a 40-hour game until it's finished.\
+ **允许玩家离开游戏并在稍后返回。** 这是保存游戏的最重要原因。在大型游戏中，这是一项必不可少的功能。如果期望玩家在电脑或游戏机上投入到一个长达 40 小时的游戏中，直到游戏结束，这是不现实的，也是对玩家不公平的。
+* **Letting the player recover from disastrous mistakes.** In practice, this usually means getting the avatar killed somehow. Arcade games, which have no save-game feature, traditionally give the player a fixed number of "lives" and chances to earn more along the way. Console action games have tended to follow the same scheme. Richer games, such as role-playing or adventure games, usually give the player only one life but allow him to reload a saved game if his avatar dies or he loses any possibility of winning the game.\
+**让玩家从灾难性的错误中恢复过来。** 在实践中，这通常意味着玩家的化身会被杀死。街机游戏没有保存游戏的功能，传统上会给玩家固定的“生命”数量，并在游戏过程中有机会获得更多的生命。主机上的动作游戏也往往遵循同样的方案。更丰富的游戏，如角色扮演或冒险游戏，通常只给玩家一条生命，但如果他的化身死了或他失去了赢得游戏的任何可能性，则允许他重新加载已保存的游戏。
+* **Encouraging the player to explore alternate strategies.** Saving the game is a useful feature in turn-based strategic games because it lets the player learn the game by trying alternative approaches. If one doesn't seem to work, he can go back to the point at which he committed himself to one plan and try another approach.\
+**鼓励玩家探索其他策略。** 在回合制策略游戏中，保存游戏是一项非常有用的功能，因为它可以让玩家通过尝试其他方法来学习游戏。如果其中一种方法似乎行不通，他可以返回到他选择一种计划前的位置，尝试另一种方法。
 
-## Consequences for Immersion and Storytelling
+## Consequences for Immersion and Storytelling 沉浸和讲故事的后果
 
 Saving a computer game is not part of its gameplay. The act of saving a game takes place outside the game world, even if it changes the way the player plays inside the game world. It destroys the suspension of disbelief. If a game is immersive and tries to create the illusion that the player inhabits a fantasy world, the act of saving a copy of the fantasy world destroys the illusion. One of the most significant characteristics of real life is that you cannot return to the past to correct errors you have made. The moment you allow a player to do this, you acknowledge that the fantasy world is only a game.
 
+保存电脑游戏并不是游戏玩法的一部分。拯救游戏的行为发生在游戏世界之外，即使它改变了玩家在游戏世界中的游戏方式。这破坏了玩家的信任感。如果一款游戏让玩家身临其境，试图让玩家产生身在幻想世界的错觉，那么保存幻想世界副本的行为就会破坏这种感觉。现实生活中最重要的特征之一就是，你无法回到过去纠正你所犯的错误。一旦你允许玩家这样做，你就承认幻想世界只是一个游戏。
+
 The essence of a story is dramatic tension, and dramatic tension requires that something be at stake. Saving a game in a game with a branching storyline profoundly affects the player's experience of the story. In the real world, decisions are irrevocable. Some can be changed later, their consequences modified at some point in the future, but the original decision itself cannot be unmade. But when a player follows first one branch of a branching storyline and then goes back in time and follows another branch, he experiences a very unnatural, unreal phenomenon. Dramatic tension is reduced because if the future can be altered by returning to the past at any moment and changing it, then nothing is really at stake.
 
-## Ways of Saving a Game
+故事的精髓在于戏剧张力，而戏剧张力要求有危机。在有分支故事情节的游戏中保存游戏会深刻影响玩家对故事的体验。在现实世界中，决定是不可更改的。有些决定可以在以后改变，其后果可以在未来的某个时刻修改，但最初的决定本身是无法取消的。但是，当玩家先跟随故事情节分支中的一个分支，然后回到过去再跟随另一个分支时，他就会体验到一种非常不自然、不真实的现象。戏剧张力会减弱，因为如果可以通过随时回到过去并改变未来，那么就没有什么真正的危险。
+
+## Ways of Saving a Game 保存游戏的方式
 
 Over the years, designers have devised a variety of different ways of saving a game, each with their own consequences for immersion and gameplay.
 
-### Save to a File or "Save Slot"
+多年来，设计师们设计了多种不同的保存游戏的方法，每种方法都会对沉浸感和游戏性产生影响。
+
+### Save to a File or "Save Slot" 保存到文件或“存档槽”
 
 The most common way of saving a game is to allow the player to interrupt the play and save it either into a file on the hard drive that the player can name, or, more commonly, to allow the player to save it into one of a series of named "slots" that the game program keeps track of. When the player wants to replay the saved game, he tells the program to load it from the directory of files or slots. This mechanism is useful because it allows the player to keep several different copies, saved at different points, and to name them so that he can remember which one is which.
 
+最常见的游戏保存方式是让玩家中断游戏并将其保存到硬盘上一个玩家可以命名的文件中，或者更常见的是让玩家将其保存到游戏程序记录的一系列命名“插槽”中的一个。当玩家想重玩已保存的游戏时，他就会告诉程序从文件目录或“槽”中加载游戏。这种机制非常有用，因为它允许玩家保存几个不同的副本，分别保存在不同的时间点，并为它们命名，这样玩家就能记住哪个是哪个。
+
 Unfortunately, it's also the method most harmful to the game's immersiveness. The user interface for managing the files or save slots necessarily looks like an operating system's file-management tool, not like a part of the fantasy world that the game depicts. You can make it prettier with appropriate graphics, but it almost always takes the player out of the world and destroys his suspension of disbelief. Some games improve this a little by calling it the player's "journal" and making it look as if the saved games are being kept in a book.
 
-### Quick-Save
+遗憾的是，这也是最有损游戏沉浸感的方式。用于管理文件或存档槽的用户界面必须看起来像操作系统的文件管理工具，而不是游戏所描绘的奇幻世界的一部分。你可以用适当的图形把它做得更漂亮，但这几乎总是会把玩家带出这个世界，破坏他的信任感。有些游戏将其称为玩家的“日志”，并使其看起来像是将保存的游戏记录在一本书中，从而稍稍改善了这一问题。
+
+### Quick-Save 快速保存
 
 Fast-moving games in which the player's avatar is in more or less constant danger (such as first-person shooters) frequently offer a quick-save feature. The player presses a single button to save the game instantly at any time, without ever leaving the game world. The screen displays the words "Quick saved" for a moment, but other than that, the player's concentration and immersion in the world are not broken. The player can reload the game just as swiftly by pressing a quick-load button. The game returns immediately to the place where the last quick-save was done, without going out of the game world to a file-management screen.
 
+在快速移动的游戏（如第一人称射击游戏）中，玩家的化身大概一直处于危险之中，因此游戏经常提供快速保存功能。玩家只需按下一个按钮，就可以随时快速保存游戏，而无需离开游戏世界。屏幕上会暂时显示 "快速保存 "的字样，但除此之外，玩家的注意力和对游戏世界的沉浸感不会受到影响。按下快速加载按钮，玩家可以同样迅速地重新加载游戏。游戏会立即返回到上次快速保存的地方，而不会离开游戏世界进入文件管理界面。
+
 The disadvantage of quick-save is that it usually offers only one slot, although some games let the player designate a numbered slot by pressing the quick-save button and then a number key. He has to remember which slot is which by himself when quick-loading. Quick-save sacrifices flexibility to gain immersiveness and speed. It doesn't let the player name or manage multiple saved games, but it does allow him to save and load with minimal disruption to his suspension of disbelief.
 
-### Automatic Save
+快速保存的缺点是通常只提供一个槽位，不过有些游戏允许玩家通过按下快速保存按钮然后按下数字键来指定一个有编号的槽位。在快速加载时，玩家必须自己记住哪个是哪个槽。快速保存牺牲了灵活性，却获得了沉浸感和速度。它不能让玩家命名或管理多个已保存的游戏，但却能让玩家在保存和加载游戏时，尽量减少对其信任感的干扰。
+
+### Automatic Save 自动保存
 
 A few games automatically save the state of the game as it progresses, so the player can leave and return at any time without explicitly having to save it. Sometimes they save continuously, but more often they save intermittently at checkpoints, which may or may not be revealed to the player when they occur. This is even less disruptive than quick-saving because the player never has to do anything. However, if this is the only method provided, the player can't choose to save at certain points along the way. If the player wants to restart at an earlier point, he's out of luck; and if the checkpoints are a long way apart, he might lose a great deal of progress in the event of a disaster. Continuous-save prevents the player from going back and undoing disasters. On the other hand, he can play the game confident that he can interrupt and resume it at any point.
 
-## To Save or Not to Save
+有的款游戏会在游戏进行过程中自动保存游戏状态，这样玩家就可以随时离开并返回游戏，而无需明确保存。有时它们会连续保存，但更常见的是在检查点间歇性保存，检查点出现时可能会也可能不会显示给玩家。这种方法比快速保存的干扰更小，因为玩家无需做任何事情。不过，如果这是唯一的方法，玩家就不能选择在沿途的某些点保存。如果玩家想在更早的时间点重新开始，那就没戏了；如果检查点之间相隔很远，那么在发生失败时，玩家可能会损失大量的进度。连续保存功能可以防止玩家返回原点纠正失败。另一方面，玩家可以放心地进行游戏，因为他可以在任何时候中断并继续游戏。
+
+## To Save or Not to Save 存还是不存
 
 Here we look at the arguments for and against saving, and we present our own perspective on the matter.
 
-### The Argument Against
+在此，我们将探讨赞成和反对保存的论点，并提出我们自己对此事的看法。
+
+### The Argument Against 反对的观点
 
 A few designers don't allow players to save their games at certain points, or even at all. If the player can save and reload constantly, he can solve puzzles or overcome other obstacles by trial and error rather than by skill or brains. If the designer wants him to solve them in an uninterrupted sequence, saving and reloading defeats that challenge. Some games (The Legend of Zelda: Ocarina of Time, for example) avoid this by saving a game only at checkpoints or particular locations, forcing the player to play the game again from that point when he reloads. Saving and reloading also enables players to avoid undesirable random events. If the event occurs, the player can simply reload the game repeatedly until it doesn't occur.
 
+一些设计者不允许玩家在某些时候保存游戏，甚至完全不允许。如果玩家可以不断地保存和重新加载，他就可以通过反复试验而不是靠技巧或头脑来解决谜题或克服障碍。如果设计者想让玩家以不间断的顺序来解决这些问题，那么保存和重新加载就会使这一挑战落空。有些游戏（如《塞尔达传说：时之笛》）为了避免这种情况，只在检查点或特定地点保存游戏，迫使玩家在重新加载时从该点重新开始游戏。保存和重新加载还能让玩家避免不想要的随机事件。如果这种事件发生，玩家只需反复重新加载游戏，直到事件不再发生。
+
 When you can save and reload at any point, nothing is at stake. Your avatar might die, lose money, or suffer some other disaster, but it can all be remedied simply by reloading the game. This takes away some of the challenge.
 
-### The Argument For
+当你可以在任何时候保存并重新加载游戏时，就不会有任何危险。你的化身可能会死亡、损失金钱或遭遇其他灾难，但只要重新加载游戏就能补救。这就失去了一些挑战性。
+
+### The Argument For 支持的观点
 
 We believe that these arguments against saving are spurious and are the sign of a lazy designer. Making a game harder simply by preventing the player from saving the game is a cheap way of creating a challenge out of nothing. For example, you could set up a situation in which the player has no way of knowing which of several options to choose (for example, selecting one of three identical corridors to walk down). If two contain deadly traps and one does not, and the player is not allowed to save before walking down them, you've guaranteed that two times in three he will have to go back and start the game over, no matter how good he is otherwise. This isn't fun or even a fair challenge. If you really want to make the game harder, devise harder challenges. Forcing the player to replay an entire level because he made a mistake near the end wastes his time and condemns him to frustration and boredom. As a designer, it should be your goal to avoid those feelings, not create them.
 
+我们认为，这些反对保存游戏的理由都是站不住脚的，是设计者懒惰的表现。仅仅通过阻止玩家保存游戏来增加游戏难度是一种无中生有的低级方法。例如，你可以设置一种情况，让玩家无法知道从几个选项中选择哪一个（例如，从三条相同的走廊中选择一条走下去）。如果其中两条有致命陷阱，一条没有，而玩家在走下去之前又不允许保存，那么无论他在其他方面有多优秀，你都可以保证他三次游戏中有两次必须返回并重新开始。这并不好玩，甚至不是一个公平的挑战。如果你真的想让游戏变得更难，那就设计更难的挑战。因为玩家在游戏快结束时犯了一个错误，就强迫他重玩整个关卡，这不仅浪费玩家的时间，还会让他感到沮丧和厌倦。作为设计师，你的目标应该是避免而不是制造这些感觉。
+
 If a player continuously reloads a game to avoid a random event or to solve some problem by trial and error rather than skill or intelligence, he is, in effect, cheating at solitaire. As the game's designer, you might not like it, but we don't feel that that is sufficient reason for denying the player the chance to save the game—he might need to save it for perfectly legitimate reasons. After all, cheating at solitaire says more about the player's character than anything else; if he wants to ruin the gameplay for himself, that's his business. Most games now recognize that players want—and even need—to cheat sometimes by offering cheat codes anyway.
+
+如果玩家不断重新加载游戏以避免随机事件，或通过反复试错而非技巧或智慧来解决某些问题，那么他就像是在纸牌游戏中作弊。作为游戏的设计者，你可能不喜欢这样，但我们认为这不足以成为拒绝玩家保存游戏的理由————他可能出于完全正当的理由需要保存游戏。毕竟，在纸牌游戏中作弊更能说明玩家的性格；如果他想毁掉游戏，那是他的事。现在，大多数游戏都认识到玩家有时想要甚至需要作弊，因此都会提供作弊码。
 
 The bottom line is that it's the player's machine. It's not fair to penalize him just because he has to go to the bathroom or because it's now his little brother's turn to play. Whether you implement save slots, quick-save, checkpoints, or continuous-save is up to you; there are advantages and disadvantages to each. But we strongly believe that players have a fundamental right to be able to stop playing when and where they want, without losing all that they have accomplished.
 
-# Putting It Together 小结
+底线是，这是玩家的机器。因为他要上厕所或因为现在轮到他的小弟弟玩游戏而惩罚他是不公平的。至于是使用保存槽、快速保存、检查点还是连续保存，这取决于你；每种方法都各有利弊。但我们坚信，玩家有一项基本权利，那就是可以随时随地停止游戏，而不会失去他们已经取得的所有成就。
 
-At this point, you should know when and where your game takes place. You will have answered a huge number of questions about what your world looks like, what it sounds like, who lives there, and how they behave. If you've done it thoroughly, your game world will be one that a player can immerse himself in, an integrated harmonious fantasy that he can believe in and enjoy being part of. The next step is to figure out what's going to happen there. That's covered in Chapter 4, "Storytelling and Narrative."
+# Putting It Together 总结
+
+At this point, you should know when and where your game takes place. You will have answered a huge number of questions about what your world looks like, what it sounds like, who lives there, and how they behave. If you've done it thoroughly, your game world will be one that a player can immerse himself in, an integrated harmonious fantasy that he can believe in and enjoy being part of. The next step is to figure out what's going to happen there. That's covered in [Chapter 4](chapter-4.md), "Storytelling and Narrative."
+
+此时，你应该知道游戏在何时何地进行。你已经回答了大量的问题，包括你的世界看起来像什么、听起来像什么、谁生活在那里以及他们的行为方式。如果你做得很彻底，你的游戏世界就会让玩家沉浸其中，成为一个完整和谐的幻想世界，让玩家相信并乐于成为其中的一部分。下一步就是要弄清楚那里会发生什么。这将在[第四章](chapter-4.md)“讲故事和叙事”中讲述。

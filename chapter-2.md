@@ -4,7 +4,7 @@ This chapter addresses the earliest stage of game design: getting and refining a
 
 本章讲述游戏设计的最初阶段：获得并完善游戏创意。此时，你的目标应该是写出我们在第一章，“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的创意变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
 
-## Getting an Idea 获取创意
+# Getting an Idea 获取创意
 
 Game ideas come from almost anywhere, but they don't walk up and introduce themselves. You can't sit around and wait for inspiration to strike. Creativity is an active, not a passive, process. You have to put yourself in an inquisitive frame of mind and then go out and look for game ideas. Look everywhere. Some of the most mundane things could be hiding a game idea. Even delivering newspapers provided the basis for a successful arcade game, Paperboy, though developers spiced up the job by letting the player break windows with the newspapers and making him dodge cars on his bicycle.
 
@@ -14,7 +14,7 @@ One idea isn't enough. It's a common misconception that a brilliant game idea wi
 
 只有一个创意是不够的。一个绝妙的游戏创意会让你赚得盆满钵满，这是一个常见的误解。事实上，这种情况极少发生。你可能认为自己有了一个百年不遇的绝佳游戏创意，但只专注于这个创意而懒得去想其他游戏创意，就有点像把所有希望都寄托在一张彩票上，而懒得起床工作，等着看你的号码是否出现。与彩票不同，创意是免费的，所以要不断思考新创意。把它们记下来，然后继续。如果你觉得其中一个特别有前景，那么你就可以开始扩展和完善它，但不要因此而放弃对其他游戏的思考。在思考游戏创意时，多多益善。
 
-### Dreaming the Dream 梦想
+## Dreaming the Dream 梦想
 
 Many game ideas begin as dreams. Not real dreams, but daydreams, things you think about when you're staring out the window or watching the clouds on a summer afternoon—these are the thoughts that you have when you let your mind roam free.
 
@@ -32,7 +32,7 @@ Perhaps it's a dream of exploring a dungeon infested with monsters. Perhaps it's
 
 也许是探索怪兽出没的地牢的梦想。也许是执教一支足球队的梦想。也许是当一名时装设计师的梦想。但在你做其他任何事情之前，你必须先梦想这个梦想。理解它。感受它。了解其他人的梦想和原因。
 
-### Game Ideas from Other Media 来自其他媒体的游戏创意
+## Game Ideas from Other Media 来自其他媒体的游戏创意
 
 Books, movies, television, and other entertainment media are a great source of inspiration for game ideas. The game Interstate '76 (see Figure 2.1) was inspired by 1970s cop shows. Movies such as the James Bond series often inspire games. Any story containing an exciting action with something important at stake can form the kernel of a game. Think over the books you've read and the movies you've seen, and ask yourself whether any of the scenes in them could serve as the basis for a game.
 
@@ -50,7 +50,7 @@ Game ideas can crop up in all sorts of unlikely places. Just as great scientists
 
 游戏创意可能出现在各种不可能的地方。就像伟大的科学家会观察世界上最普通的事物，并询问它们是如何工作的一样，伟大的游戏设计师也总是在观察世界，并思考是否可以将其制作成游戏。诀窍在于培养游戏设计师的直觉，在听起来根本不像游戏的事物中寻找乐趣和挑战。
 
-### Game Ideas from Other Games 来自其他游戏的游戏创意
+## Game Ideas from Other Games 来自其他游戏的游戏创意
 
 A great many people who play computer games want to design them as well. Something about playing games stirs up people's creative juices. When you play a lot of games, you develop a sense of how they work and what their good and bad points are. Playing games is a valuable experience for a game designer. It gives insight and lets you compare and contrast the features of different games.
 
@@ -76,7 +76,7 @@ There is a downside to deriving game ideas from other games. It tends to result 
 
 从其他游戏中汲取游戏创意也有弊端。它往往会导致游戏的外观或运行方式相似。这是一种进化而非革命的方法。从其他游戏中汲取游戏创意是了解游戏和游戏玩法的绝佳方式，但如果一味追求，就会产生雷同，最终导致平庸。最伟大的游戏都有新的突破。它们不同于之前在商店货架上看到的任何游戏。要做到这一点，就必须有梦想。
 
-### From Dream to Game 从梦想到游戏
+## From Dream to Game 从梦想到游戏
 
 A dream or an idea alone is only a start; it is not enough to make a game. A dream is a fantasy that you have by yourself. You can make computer games purely for yourself if you like, but most of us don't have the money to do that. A computer game is something that you make for someone else. You'll also discover after you've built a few games that playing a game that you worked on is a very different experience from playing a game that someone else has created. When you know what's on the inside and how it works, some of the fantasy is lost. Just as actors often don't watch their own movies, some game developers don't play their own games. For one thing, of course, if it's a single-player game, they already know how to beat it. But the experience, the dream, isn't quite the same when it's a game you built yourself. In your heart, you know it's an artificial simulation.
 
@@ -90,13 +90,13 @@ But what does it mean to entertain someone? Many people think entertainment is s
 
 但娱乐他人是什么意思呢？很多人认为娱乐就是找乐子，但这并不完全直截了当。人们有各种各样的娱乐方式。其中有些方式涉及非常艰苦的工作，比如园艺或建造新露台。有的则会遇到挫折，比如解谜。有些方式甚至会带来痛苦，比如体育比赛。一个人的娱乐就是另一个人难以忍受的无聊。在制作一款娱乐性电脑游戏时，了解它的娱乐方式非常重要。而要做到这一点，就必须知道游戏到底是什么。
 
-## The Elements of a Game 游戏的要素
+# The Elements of a Game 游戏的要素
 
 In this section, we give a formal definition of a game and describe the elements that comprise one. Remember that we're talking about any kind of game, computerized or not. We continue to use these terms throughout the book.
 
 在本节中，我们将给出游戏的正式定义，并描述构成游戏的要素。请记住，我们谈论的是任何类型的游戏，不管是不是电脑游戏。我们将在本书中继续使用这些术语。
 
-### Games, Toys, and Puzzles 游戏、玩具和拼图
+## Games, Toys, and Puzzles 游戏、玩具和拼图
 
 A game is a form of participatory, or interactive, entertainment. Watching television, reading, and going to the theater are all forms of passive entertainment. In those media, the entertainment is presented to you, and you're not expected to participate. In some plays, the audience itself has a role, but even then the actors are in control. The content of the entertainment is the drama, and the way you perceive it is by watching it. This mode is fundamentally passive: They act, you watch.
 
@@ -122,7 +122,7 @@ Unlike a toy, a puzzle does have one definite rule: It has a correct solution th
 
 与玩具不同的是，拼图有一个明确的规则：它有一个正确的解法，你要努力找到它。拼图通常由一个人完成。通常情况下，拼图游戏需要解决问题的技巧和超前思考的能力，但它们不涉及任何角色扮演，也不设定在人工宇宙中。
 
-### Challenges, Gameplay, and the Victory Condition 挑战、游戏玩法和胜利条件
+## Challenges, Gameplay, and the Victory Condition 挑战、游戏玩法和胜利条件
 
 The rules also define the obstacles, or challenges, that the players must overcome to win the game. The challenges, together with the actions the players can take to meet them, make up the gameplay. Defining and tuning the gameplay is the largest and most difficult task in designing a game; this is discussed extensively in Chapter 7, “Gameplay.”
 
@@ -144,7 +144,7 @@ Many single-player arcade games, such as Tetris, are peculiar in that they have 
 
 许多单人街机游戏（如俄罗斯方块）都很特别，因为它们没有胜利条件。它们实际上是赢不了的；游戏会变得越来越难，直到最后你必须输掉。不过，你会根据自己的能力得到一个分数，你的目标是跻身顶尖玩家行列。实际上，胜利的条件是比其他玩游戏的人玩得更好，但你永远不可能真正赢得游戏本身。
 
-### Setting, Interaction Model, and Perspective 场景、互动模式和视角
+## Setting, Interaction Model, and Perspective 场景、互动模式和视角
 
 A game also takes place in a setting or world. A sport such as football, for example, takes place on a field with defined boundaries. A board game takes place on and around the board. Even simple games with cards, dice, or dominoes take place on a tabletop, and the players implicitly agree that the table is the only legitimate playing surface. Because a computer screen has the capacity to display anything, a computer game can take place in any setting imaginable. We talk more about game settings and worlds in Chapter 3, “Game Settings and Worlds.” For now, it's enough to know that a game's setting is part of its concept.
 
@@ -170,7 +170,7 @@ You're probably familiar with many common perspectives: first person, in which y
 
 你可能对许多常见的视角并不陌生：第一人称视角，即通过你的化身的眼睛来观察（最常见于第一人称射击游戏，如《半条命》）；第三人称视角，即在三维世界中跟在你的化身后面（《古墓丽影》是最著名的例子之一）；以及卷轴视角，常见于老式视频游戏，如《刺猬索尼克》。随着 3D 显示引擎的引入，游戏可以使用任意数量的视角，而无需额外的美术开发成本。
 
-### The Player's Role 玩家的角色
+## The Player's Role 玩家的角色
 
 When you're playing a game, especially board games and computer games, you're often playing a role of some sort. In Monopoly, you're playing a real estate tycoon. In Goldeneye, you're playing James Bond. Defining the player's role in the game world is a key part of defining your game's concept. If the player's role is difficult to describe, it might be difficult for the player to grasp as well, and it might indicate that there is a conceptual problem with the game. This doesn't mean that the role always has to be simple. In Madden NFL Football, for example, the player can be either a football player, a coach, or both. As the coach, he calls the plays that his team will run and makes player substitutions. As a player, he takes the snap, passes the ball, and runs with it. In fact, he's not controlling any single player; he's controlling whichever one happens to be in possession of the ball. On defense, he can switch from player to player to control whichever one has the best chance of tackling the ball carrier.
 
@@ -184,7 +184,7 @@ The player's role also helps the player to understand what he's trying to achiev
 
 玩家的角色还能帮助玩家了解他要达到的目的和遵守的规则。例如，在 Sierra Online 的《警察任务》系列中，玩家扮演的是一名真正的警察。真正的警察不能随便射击任何会动的东西，他们必须严格遵守使用枪支的时间和方式规定。《彩虹六号》和《反恐精英》等战术战斗模拟游戏也实行此类规则，让玩家扮演真正的特种部队士兵。通过告诉玩家他将扮演的角色，玩家知道他的行动必须比一般的狂热射击游戏更加谨慎。
 
-### Modes and Structure 模式和结构
+## Modes and Structure 模式和结构
 
 Some games, such as checkers, work the same way from beginning to end. The player is always trying to accomplish the same thing in the same way. Other games have distinct modes, in which the nature of the gameplay changes significantly from one mode to the next. War games, for example, might have a strategic mode in which you plan which battles you intend to fight and a tactical mode in which you actually fight the battles. Many things often change when the game switches modes: the interaction model, the perspective, the player's role, and some of the challenges.
 
@@ -198,6 +198,8 @@ The relationships between the modes and the rules determining when and why the g
 
 模式之间的关系以及决定游戏何时以及为何在模式之间切换的规则共同构成了游戏的结构。记录游戏结构的最佳方式是使用流程图，即一系列代表模式的方框，以及从一个模式到下一个模式的箭头，以显示转换是如何发生的。在概念设计阶段，流程图不一定要很详细，但如果你要设计一款有多种模式的游戏，你至少应该大致了解你需要哪些模式以及为什么需要。
 
+## Realism 现实
+
 When a game depicts a world, even an imaginary one, in such a way that the principles of real-world logic and common sense apply, we say that the game is realistic. Microsoft Flight Simulator, which tries to model accurately the behavior of real aircraft, is a good example. On the other hand, when a game has quite arbitrary rules and you cannot count on real-world common sense, as in Pac-Man, for example, we say that the game is abstract. We discuss realism in more detail in Chapter 3.
 
 当一款游戏描绘的世界，哪怕是想象中的世界，符合现实世界的逻辑原则和常识时，我们就可以说这款游戏是现实的。微软的《飞行模拟器》就是一个很好的例子，它试图准确模拟真实飞机的行为。另一方面，当一个游戏的规则非常随意，你无法依赖现实世界的常识时，比如在《吃豆人》中，我们就说这个游戏是抽象的。我们将在第三章详细讨论现实主义。
@@ -206,7 +208,7 @@ At the concept stage, you don't have to decide exactly how realistic your game i
 
 在概念阶段，你不必确定游戏的逼真程度。例如，在设计一款战争游戏时，你可以推迟决定是否允许友军误伤自己的部队。在现实生活中，军队会不遗余力地防止友军误伤事件的发生，但不幸的是，这类事件还是时有发生。在战争游戏中，玩家很少能精确控制每种武器的瞄准方式，这可能会让玩家在处理友军误伤问题上负担过重。另一方面，这也可能是你需要关注的问题。游戏测试可以告诉你这个问题是否可以解决，但经验丰富的设计师通常可以在游戏进行到这一步之前就预测到游戏问题。在概念阶段，知道你的模拟是否会包括友军误击的影响并不那么重要。不过，大致了解游戏是抽象的还是现实的还是很有用的。
 
-### A Word About Story 关于故事
+## A Word About Story 关于故事
 
 Computer games lie in a peculiar middle ground between the purely passive, narrative media such as film and television and active, non-narrative games such as poker or dominoes. Some computer games, such as Tetris, have no narrative; others, such as the Gabriel Knight series, have a great deal. Some games tell linear, noninteractive stories interspersed with interactive episodes, others implement storylines that branch as the player makes decisions, and still others put their players in a setting where storylike adventures can take place and let them have at it. The relationship between the game and the story has been debated many times in the game industry.
 
@@ -220,11 +222,11 @@ A common error made by beginning game designers is to concern themselves with th
 
 初出茅庐的游戏设计师常犯的一个错误是在设计过程中过早地关注故事情节。设计师首先要考虑的不是“我要向玩家展示或讲述什么？”而是“玩家要做什么？”。在构思游戏时，您不必确切知道游戏中要包含哪些叙事内容。如果你现在就在做，那你就把注意力放在了错误的地方。您只需知道是否需要一个故事，如果需要，故事的总体方向是什么。你应该能够用一两句话来概括，例如：“杰克·琼斯是美国缉毒署秘密特遣部队的队长，他将对毒枭展开一系列突袭行动，最后在哥伦比亚的可卡因田里展开一场末日之战。一路上，他遇到的一些人并不像他们看起来的那样”。请记住，故事情节中的错误比游戏玩法中的错误更容易纠正，玩家也更容易原谅。首先确保你熟习你的游戏，然后在游戏中构建你的故事。
 
-We discuss storytelling and narrative at length in Chapter 4, “Storytelling and Narrative.”
+We discuss storytelling and narrative at length in [Chapter 4](chapter-4.md), “Storytelling and Narrative.”
 
-我们将在第四章“讲故事和叙事”中详细讨论讲故事和叙事的问题。
+我们将在[第四章](chapter-4.md)“讲故事和叙事”中详细讨论讲故事和叙事的问题。
 
-## Understanding Your Audience 了解受众
+# Understanding Your Audience 了解受众
 
 In the previous section, we defined the elements of a game. But games don't exist in a vacuum; they're intended to be played by people. A common misconception among game designers is that all players enjoy the same things that the designer enjoys, so the designer only has to examine his own experience to know how to make a game entertaining. This is dangerous hubris. The reason for making a computer game is to entertain an audience. You have to think about who those people are and what they like.
 
@@ -234,7 +236,7 @@ Generalities are always risky, and misguided assumptions about players can resul
 
 一概而论总是有风险的，对玩家的错误假设可能导致游戏无人问津。不过，除非你设计的游戏是受某个人委托制作的，否则你是在为某一类人制作游戏，而不是为某个人制作游戏，而这一类人将由共同的特征来定义。发行商会问你的另一个重要问题是“谁会购买这款游戏？”。请仔细思考答案。他们有哪些共同点？哪些事情让他们与其他游戏玩家不同？他们喜欢哪些挑战？更重要的是，他们不喜欢哪些挑战？他们对什么感兴趣、厌烦、沮丧、兴奋、害怕或反感？回答这些问题，并在设计游戏时将答案放在手边。
 
-### Core Versus Casual 核心玩家与休闲玩家
+## Core Versus Casual 核心玩家与休闲玩家
 
 In our opinion, the most significant distinction among player types is not between console-game players and computer-game players, not between men and women, and not even between children and adults. The most significant distinction is between core gamers and casual gamers.
 
@@ -256,39 +258,39 @@ Even at the concept level, you must have some understanding of who will play you
 
 即使是在概念层面，你也必须了解谁会玩你的游戏，他们会喜欢什么。没有对游戏目标受众的描述，游戏概念是不完整的。
 
-## The Genres of Interactive Entertainment 游戏的类型
+# The Genres of Interactive Entertainment 游戏的类型
 
 As we said in the introduction, each genre of interactive entertainment displays a common pattern of challenges. In later chapters, we'll look at these genres in detail, examining each to see what can be learned from it:
 
 正如我们在序言中所说，每一类游戏都展现出一套挑战模式。在后面的章节中，我们将详细介绍这些类型，研究每一种类型，看看从中可以学到什么：
 
-Action games normally include physical challenges, puzzles, races, and a variety of conflict challenges, mostly at the personal level. They can also contain simple economic challenges, usually involving collecting objects. They seldom include strategic or conceptual challenges.
+* Action games normally include physical challenges, puzzles, races, and a variety of conflict challenges, mostly at the personal level. They can also contain simple economic challenges, usually involving collecting objects. They seldom include strategic or conceptual challenges.
 
-动作游戏通常包括体力挑战、解谜、竞速和各种冲突挑战，主要是个人层面的挑战。它们也可能包含简单的经济挑战，通常涉及收集物品。它们很少包含战略或概念挑战。
+    动作游戏通常包括体力挑战、解谜、竞速和各种冲突挑战，主要是个人层面的挑战。它们也可能包含简单的经济挑战，通常涉及收集物品。它们很少包含战略或概念挑战。
 
-Strategy games tend to include strategic (naturally), tactical, and logistical challenges, in addition to the occasional economic ones. Once in a while, they have a personal conflict challenge thrown in for spice, but this often annoys strategically minded players.
+* Strategy games tend to include strategic (naturally), tactical, and logistical challenges, in addition to the occasional economic ones. Once in a while, they have a personal conflict challenge thrown in for spice, but this often annoys strategically minded players.
 
-战略游戏往往包括战略（显然地）、战术和后勤挑战，偶尔也有经济挑战。偶尔也会加入个人冲突挑战作为调味剂，但这往往会惹恼具有战略头脑的玩家。
+    战略游戏往往包括战略（显然地）、战术和后勤挑战，偶尔也有经济挑战。偶尔也会加入个人冲突挑战作为调味剂，但这往往会惹恼具有战略头脑的玩家。
 
-Most role-playing games involve tactical, logistical, and exploration challenges. They also include economic challenges because the games usually involve collecting loot and trading it in for better weapons. They sometimes include puzzles and conceptual challenges, but rarely physical ones.
+* Most role-playing games involve tactical, logistical, and exploration challenges. They also include economic challenges because the games usually involve collecting loot and trading it in for better weapons. They sometimes include puzzles and conceptual challenges, but rarely physical ones.
 
-大多数角色扮演游戏都涉及战术、后勤和探索方面的挑战。它们还包括经济挑战，因为游戏通常涉及收集战利品并用它们交易换取更好的武器。它们有时也包括解谜和概念挑战，但很少包括体力挑战。
+    大多数角色扮演游戏都涉及战术、后勤和探索方面的挑战。它们还包括经济挑战，因为游戏通常涉及收集战利品并用它们交易换取更好的武器。它们有时也包括解谜和概念挑战，但很少包括体力挑战。
 
-Real-world simulations include sports games and vehicle simulations, including military vehicles. They involve mostly physical and tactical challenges, but not exploration, economic, or conceptual ones.
+* Real-world simulations include sports games and vehicle simulations, including military vehicles. They involve mostly physical and tactical challenges, but not exploration, economic, or conceptual ones.
 
-真实世界模拟包括体育游戏和赛车模拟，包括军用车辆。它们主要涉及体力和战术挑战，但不包括探索、经济或概念挑战。
+    真实世界模拟包括体育游戏和赛车模拟，包括军用车辆。它们主要涉及体力和战术挑战，但不包括探索、经济或概念挑战。
 
-Construction and management games such as Roller Coaster Tycoon are primarily about economic and conceptual challenges. Only rarely do they involve conflict or exploration, and they almost never include physical challenges.
+* Construction and management games such as Roller Coaster Tycoon are primarily about economic and conceptual challenges. Only rarely do they involve conflict or exploration, and they almost never include physical challenges.
 
-《过山车大亨》等建筑和管理类游戏主要涉及经济和概念挑战。它们很少涉及冲突或探索，而且几乎从不包括体力挑战。
+    《过山车大亨》等建筑和管理类游戏主要涉及经济和概念挑战。它们很少涉及冲突或探索，而且几乎从不包括体力挑战。
 
-Adventure games are chiefly about exploration and puzzle-solving. They sometimes contain conceptual challenges as well. These may include a physical challenge also, but only rarely.
+* Adventure games are chiefly about exploration and puzzle-solving. They sometimes contain conceptual challenges as well. These may include a physical challenge also, but only rarely.
 
-冒险游戏主要是探索和解谜。它们有时也包含概念挑战。这些游戏也可能包括体力挑战，但只是在极少数情况下。
+    冒险游戏主要是探索和解谜。它们有时也包含概念挑战。这些游戏也可能包括体力挑战，但只是在极少数情况下。
 
-Puzzle games tend to be variations on a theme of some kind. Sokoban is about moving blocks around in a constricted space; The Incredible Machine is about building Rube Goldberg contraptions to accomplish particular tasks. The challenges are almost entirely logical, although occasionally there's time pressure or an action element.
+* Puzzle games tend to be variations on a theme of some kind. Sokoban is about moving blocks around in a constricted space; The Incredible Machine is about building Rube Goldberg contraptions to accomplish particular tasks. The challenges are almost entirely logical, although occasionally there's time pressure or an action element.
 
-益智游戏往往是某种主题的变体。《推箱子》是关于在有限空间内移动积木的游戏；《不可思议的机器》是关于建造鲁布·戈德堡装置来完成特定任务的游戏。虽然偶尔会有时间压力或动作元素，但这些挑战几乎完全逻辑性的。
+    益智游戏往往是某种主题的变体。《推箱子》是关于在有限空间内移动积木的游戏；《不可思议的机器》是关于建造鲁布·戈德堡装置来完成特定任务的游戏。虽然偶尔会有时间压力或动作元素，但这些挑战几乎完全逻辑性的。
 
 Some games cross genres for some reason, combining elements that are not typically found together. The adventure game Heart of China, for example, included a small 3D tank simulator at one point. This is occasionally a design compromise between two people on the team who want the game to go in different directions. It's also sometimes an effort to appeal to a larger audience by including elements that both will like.
 
@@ -302,13 +304,13 @@ However, you should not allow these genre descriptions to circumscribe your crea
 
 但是，你不应该让这些类型描述限制你的创造力——尤其是在概念阶段。如果你有一个全新的、前所未见的游戏类型，那就按照你的愿景去设计它；不要为了迎合某个类型而削足适履。游戏需要忠于自身。但也不要为了标新立异而单纯混合类型。只有在玩法真正需要的情况下，游戏才应该跨越类型。如果一款飞行模拟器为了与其他飞行模拟器不同而在中间加入逻辑谜题，只会让飞行模拟器迷感到厌烦。
 
-## The Types of Game Machines 游戏机的类型
+# The Types of Game Machines 游戏机的类型
 
 Most game concepts should be fairly independent of the target platform. If you start thinking too early about the machine and its capabilities, you run the risk of designing a “technology-driven game,” a notion that is discussed a little later in the chapter. Still, some genres of game are better suited to one kind of machine than another. It's valuable to know the strengths and weaknesses of the different types of machines and, even more important, how they are used by their owners.
 
 大多数游戏概念应该与目标平台无关。如果过早地考虑游戏机及其功能，就有可能设计出“技术驱动型游戏”，本章稍后将讨论这一概念。尽管如此，某些类型的游戏还是更适合某种类型的机器。了解不同类型游戏机的优缺点是很有价值的，更重要的是了解它们的使用者是如何使用它们的。
 
-### Home Game Consoles 家用游戏机
+## Home Game Consoles 家用游戏机
 
 A home game console is usually set up in the living room or a child's bedroom. The player sits on a couch holding a dedicated controller in both hands, 3 to 6 feet away from a relatively low-resolution display, the television. This means that games designed for the home console machine cannot be as intricate as the typical PC game. The graphics have to be simpler and bolder, and the control method and user interface must be manageable with the provided controller. The kind of precision pointing that's possible with a mouse is much more difficult with most controllers, even those with analog joysticks. However, you are guaranteed that every machine will ship with a standardized controller; you don't have to cope with the huge variety of controllers and joysticks that are available for the PC.
 
@@ -322,7 +324,7 @@ Home consoles tend to have very powerful graphics-display chips but slower centr
 
 家用游戏机往往拥有非常强大的图形显示芯片，但比起个人电脑，它的中央处理器更慢，内存更少。由于家用游戏机的售价在 200 美元到 300 美元之间，因此制造商必须在硬件设计上精益求精，以降低成本。这意味着，作为计算设备，它们的功能不如个人电脑强大，编程也更加困难。另一方面，低廉的价格意味着它们的数量更多，游戏市场更大。
 
-### Personal Computers 个人电脑
+## Personal Computers 个人电脑
 
 A personal computer is usually set up away from the communal living space, on a computer desk. In this case, the player has a keyboard, a mouse, possibly a joystick, and (more rarely) a dedicated game controller like those on console machines. The player sits 12 to 18 inches away from a relatively small (compared to the television) high-resolution display. The high resolution means that the game can have subtle, detailed graphics. The mouse allows precision pointing and a more complex user interface. The keyboard enables the player to enter text conveniently and send messages to other players over a network, something that is nearly impossible with console machines.
 
@@ -340,7 +342,7 @@ The great bane of PC development is that no two machines are alike; because they
 
 个人电脑开发的最大弊端是没有两台机器是相同的；因为它们是可定制的，所以有数百万种可能的配置。在游戏行业的早期，这对程序员来说简直就是一场噩梦。幸运的是，Windows 和 Macintosh 操作系统将程序与硬件隔离开来，解决了许多问题。尽管如此，游戏对机器的“推动”往往比其他应用程序要大得多，配置冲突仍然时有发生。
 
-### Handheld Game Machines 掌上游戏机
+## Handheld Game Machines 掌上游戏机
 
 Handheld game machines are a hugely popular and very inexpensive form of entertainment, mainly used by children. A given model is absolutely standard; there's no room for customization at all. These machines normally have a very limited number of controls and a very small LCD screen. They have little or no capacity to store data between games. Their CPUs are weak and slow by modern standards.
 
@@ -354,7 +356,7 @@ The handheld game market is very lucrative, but creating a game for one will sev
 
 掌上游戏市场利润丰厚，但为掌上游戏制作游戏将对设计师的技能提出严峻考验。由于没有空间制作花哨的图形或电影，你必须依靠纯粹的游戏性来提供娱乐。
 
-### Other Devices 其他设备
+## Other Devices 其他设备
 
 Games are showing up on all sorts of other devices these days. The more specialized the device is, the more important it is to have a clear understanding of its technical limitations and its audience. Text-based messaging on cellular telephones might breathe new life into a niche genre, the text MUD (multiuser dungeon or domain). Airlines are starting to build video games into their seats. Personal digital assistants (PDAs) are a great new platform for small, simple games. Video gambling machines are an entire industry unto themselves, one in which the random-number algorithms you use are closely monitored by state regulators. And, of course, there are arcade machines. Arcade games are subject to strange design limitations not seen on other devices. They have to maximize what the operators call “coin drop”—the amount of money that people put in through the front. Arcade operators care little for richness, depth, and the aesthetic qualities of a game as long as it makes a lot of money for them. This requires some fine balancing. If a game is too hard, people will abandon it in disgust, but if it is too easy, they will be able to play for a long time without putting any more money in.
 
@@ -364,13 +366,13 @@ Because these devices occupy niche markets with peculiar restrictions, we won't 
 
 由于这些设备占据着具有特殊限制的小众市场，我们将不对其进行详细论述。这是一本关于一般游戏设计的书，因此我们将重点放在通用游戏机的游戏上：家用游戏机和个人电脑。
 
-## Motivations That Influence Design 影响设计的动机
+# Motivations That Influence Design 影响设计的动机
 
 Why build a computer game? The answer probably seems obvious: because it's a fun thing to do, to sell the game for money, or both. That's why most people get into the game industry—and probably why you are reading this book. But, in fact, there are a variety of reasons for building a game, and motivation has a powerful effect on the way a game is designed. Sometimes a game is built for several different reasons at once, and they're not always compatible with one another. Different motivations tend to pull the design of the game in different directions, which requires someone (usually the designer or the producer) to make a decision about which reason is most important.
 
 为什么要制作电脑游戏？答案似乎显而易见：因为这是件有趣的事情，可以把游戏卖掉赚钱，或者两者兼而有之。这就是大多数人进入游戏行业的原因，也可能是你阅读本书的原因。但事实上，制作游戏的原因多种多样，动机对游戏的设计方式有很大的影响。有时，设计一款游戏会同时出于几个不同的原因，而这些原因并不总是相互融洽的。不同的动机往往会将游戏的设计引向不同的方向，这就需要某个人（通常是设计师或制作人）来决定哪个原因最重要。
 
-### Market-Driven Games 市场驱动型游戏
+## Market-Driven Games 市场驱动型游戏
 
 Most of the computer games in the world are built for sale. The publishing company wants to sell as many copies as it can. However, no one knows exactly what makes a game a hit, and unexpected hits such as The Sims continue to prove a lot of the conventional wisdom dead wrong. Still, certain genres and elements of games are generally thought to be popular with particular markets. Scantily clad women, big guns, and spectacular explosions, for example, are considered popular with teenage boys. Games with interesting characters, rich plots, and clever puzzles are thought to be popular with girls and women. These are, of course, stereotypes, but they are commonly held in the game industry. When a company chooses to build a game specifically for a particular market and to include certain elements in its design specifically to increase sales within that market, that game is said to be market-driven.
 
@@ -392,7 +394,7 @@ As a designer, you will, of course, make decisions with your players in mind. Yo
 
 当然，作为设计师，你在做决定时会考虑到玩家的感受。你会尽量加入玩家喜欢的元素，避免玩家不喜欢的元素。这是完全恰当的，一般来说，这也是发行商希望你做的。但这些元素必须与你自己对游戏的设想相一致。如果你纯粹是为了提高销量而加入了一些与你的游戏无关紧要的元素，那么最终会是弊大于利。
 
-### Designer-Driven Games 设计师驱动型游戏
+## Designer-Driven Games 设计师驱动型游戏
 
 The opposite of a market-driven game is a designer-driven game. In designer-driven games, the designer retains all creative control and takes a personal role in every creative decision, no matter how small. Usually he does this because he's absolutely certain that his own creative instincts are the only right ones for the game and that his vision must rule supreme.
 
@@ -410,7 +412,7 @@ A very small number of game designers—Will Wright and Sid Meier among them—h
 
 极少数游戏设计师——威尔·赖特和席德·梅尔就是其中之一——拥有多年的经验和良好的业绩记录，仅凭名字就能卖出游戏。即使市场营销部门不喜欢或不理解他们的创意，他们也能频频推出大作。但即使是他们，通常也善于授权。微操控制狂很少能成为出色的设计师。他们忙于培育一棵树，而森林的其他树却在他们身边枯死。
 
-### License Exploitation 许可证开发
+## License Exploitation 许可证开发
 
 Another reason that people make games is to exploit a particular intellectual property, a license. These games, often tie-ins with movies or books that have a highly recognizable brand name, can be enormously lucrative. Which do you think will sell better, a game about a suave, well-dressed British spy, or a game about James Bond? A game about a brilliant young star pilot, or a game about Luke Skywalker?
 
@@ -436,7 +438,7 @@ In short, designing a game with a license is a somewhat different experience fro
 
 简而言之，使用授权设计游戏与从头开始设计游戏的体验有些不同。知识产权的原始所有者和你自己的市场部门都会密切关注你的工作。你的发行商可能会在开发过程中投入大量资金，在花费大量资金获得授权后，他们会希望确保游戏足够优秀，以赚回这些投资。当然，这也意味着风险更大。如果你做得好，而且这个品牌很受欢迎，那么你的公司就会赚得盆满钵满。如果你做得不好，推出了一款糟糕的游戏，许可证的所有者可能会拒绝续约，转而把许可证给其他开发商。你将使你的公司失去数百万的潜在未来收入，而这些钱却落入了竞争对手的口袋。
 
-### Technology-Driven Games 技术驱动型游戏
+## Technology-Driven Games 技术驱动型游戏
 
 A technology-driven game is one that is designed to show off a particular technological achievement, most often something to do with graphics. The original Quake was a technology-driven game. There wasn't much game there, but it helped to sell the Quake game engine to other developers. Sometimes the achievement is a piece of hardware instead of an algorithm. Console manufacturers often write technology-driven games when they release a new platform, to show everyone the features of their hardware.
 
@@ -450,13 +452,13 @@ The main risk in designing a technology-driven game is that you'll spend too muc
 
 设计技术驱动型游戏的主要风险在于，你会把太多的时间放在技术上，而没有足够的精力确保你的游戏真正令人愉快。就像热门许可证一样，仅有热门技术并不足以保证一炮而红。如果你是第一个在市场上推出新技术的公司，而且新技术确实非常出色，那么你很可能会在最初几个月内取得流星般的成功。要想持续更长的时间，你的游戏还必须非常有趣。技术的新鲜感过去之后，游戏的可玩性仍将是游戏的卖点。
 
-### Art-Driven Games 艺术驱动型游戏
+## Art-Driven Games 艺术驱动型游戏
 
 Art-driven games are comparatively rare. Just as a technology-driven game exists to show off a technical feature or achievement, an art-driven game exists to show off someone's artwork. These games are often designed by artists who have a strong visual sense but are new to the game industry. Although such games are visually innovative, they're seldom very good because the designer has spent more time thinking about ways to show off his artwork than about the player's experience of the game. If you want to design games to showcase your artwork, you must be aware that you need enjoyable gameplay as well as great visuals. Myst is an example of a game that got this right; it is an art-driven game with strong gameplay.
 
 艺术驱动型游戏相对比较少见。正如技术驱动型游戏的存在是为了炫耀某种技术功能或成就一样，艺术驱动型游戏的存在也是为了炫耀某个人的艺术作品。这类游戏通常是由视觉感很强但刚进入游戏行业的艺术家设计的。虽然这类游戏在视觉上很有创意，但它们很少是很好的游戏，因为设计者把更多的时间花在了如何炫耀自己的艺术作品上，而不是玩家的游戏体验上。如果你想设计游戏来展示你的艺术作品，你就必须意识到，你需要的是令人愉悦的游戏性和出色的视觉效果。《神秘岛》就是一个很好的例子；它是一款艺术驱动型游戏，同时具有很强的游戏性。
 
-### Entertainment and Integration 娱乐与整合
+## Entertainment and Integration 娱乐与整合
 
 As we have shown, when a particular factor drives the development of a game, the result is often a substandard product. A good designer seeks not to optimize one characteristic at the expense of others, but to integrate them all in support of a higher goal: entertainment.
 
@@ -506,7 +508,7 @@ In designing an entertaining game, every element and every feature are tested ag
 > 11. Why would anyone want to play this game? What sort of people would be attracted to this game?\
 >     为什么会有人想玩这款游戏？什么样的人会被这款游戏吸引？
 
-# Putting It Together 小结
+# Putting It Together 总结
 
 Now your idea is no longer just an idea. You've devised the essential elements of a game, and you know the answers to the vital questions that a publisher will ask. You have a game concept down on paper, and you're ready to show it to someone else for an opinion. The skeleton is assembled. Now it's time to put meat on the bones.
 

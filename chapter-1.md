@@ -26,7 +26,7 @@ In spite of the long history of game design, surprisingly little study has been 
 
 尽管游戏设计的历史悠久，但对这一主题的研究却少得令人吃惊。事实上，游戏设计作为一门值得学术界关注的学科受到重视也只是最近几十年的事情。但是，研究需要资金；因此，大多数博弈论研究都集中在经济学原理和军事应用上。这些研究成果很少能应用于消费类游戏，而且大部分研究成果都需要高深的统计学知识才能理解。我们专注于实用游戏设计，而不是正式的博弈论。
 
-## Art, Science, or Craft? 艺术、科学还是手艺？
+# Art, Science, or Craft? 艺术、科学还是手艺？
 
 Many people consider game design to be an art, drawing on a mysterious wellspring of creativity possessed only by a talented few. They think of the “big names” in the game industry—Peter Molyneux, Brian Moriarty, Roberta Williams—as artists, and they admire the vision and originality that such people bring to their games. They imagine that game designers spend their time indulging in flights of imagination, and they ignore or are not even aware of the long and painstaking work that real design requires.
 
@@ -44,13 +44,13 @@ Interactive entertainment is an art form, but like film, television, and theater
 
 互动娱乐是一种艺术形式，而与电影、电视和戏剧一样，它也是一种协作性的艺术形式，没有任何一个人有资格称自己为唯一的艺术家。事实上，大多数设计师根本不认为自己是艺术家。设计游戏是一门手艺，就像好莱坞的电影摄影或服装设计一样。一款游戏既包含艺术元素，也包含功能元素：它必须赏心悦目，但也必须运行良好，玩起来令人愉快。最伟大的游戏将这些特性巧妙地结合在一起，达到了只有“优雅”才能形容的品质。优雅是最高级手艺的标志。
 
-## The Anatomy of Game Design 剖析游戏设计
+# The Anatomy of Game Design 剖析游戏设计
 
 Game design cannot be reduced to a set of discrete instructions and processes. There is no formula that you can follow and produce a perfect game design, ready for your programming team to code into existence. However, you can take advantage of a set of common principles that apply to all successful games, and doing so can save you a fair amount of grunt work. Designing a successful game is not just random chance—although so many other factors besides design influence a game's success that it sometimes seems that way.
 
 游戏设计不能简化为一套离散的指令和流程。没有什么公式可以让你按部就班地设计出一个完美的游戏，再让你的编程团队随时可以编写代码。但是，你可以利用适用于所有成功游戏的一系列共同原则，这样做可以为你节省大量的繁琐工作。设计一款成功的游戏并非偶然——尽管除开设计之外，还有很多其他因素影响着游戏的成功，有时看起来就是这样。
 
-### The Importance of Game Design 游戏设计的重要性
+## The Importance of Game Design 游戏设计的重要性
 
 Game design (at least for the computer and console) is a very young field, and there is still much to be discovered. The movie industry and even the advertising industry know more about invoking atmosphere and mood than any game designer out there—and more important, they know how to apply their techniques effectively.
 
@@ -84,7 +84,7 @@ So what's the upshot of this? Although game design is a creative process requiri
 
 那么，这样做的结果是什么呢？虽然游戏设计是一个创造性的过程，需要梦想和想象奇妙世界的能力，而这些世界里的居民千奇百怪，但我们也可以从中提炼和分析出许多实用的原则。当你彻底理解了游戏设计的技巧之后，你的想象力和智力就可以自由地结合起来，专注于真正重要的事情：出色的游戏性。当然，在理想的世界里，原创和创新的游戏玩法同样重要。遗憾的是，大多数发行商并不想要太有创意的游戏；他们想要的是与近期热门游戏类似的游戏，再加上一些新的变化。
 
-### Seeking the Key Elements of Games 寻找游戏的关键要素
+## Seeking the Key Elements of Games 寻找游戏的关键要素
 
 Our approach in teaching you how to design games centers on the idea that games are made up of certain key elements, and that the games in a given genre tend to have many of those elements in common. These elements include such things as the rules of the game, the player's role (pilot, athlete, general, spy, and so on), the challenges the player will face, and many others that we will introduce as we go along.
 
@@ -106,7 +106,7 @@ Okay, that's far enough. Before we continue, we need to discuss exactly what we 
 
 好了，到此为止。在继续之前，我们需要讨论一下游戏设计的确切含义。毕竟，游戏设计研究中最令人困惑的一点是，整个行业并没有达成一致的官方定义——不同的游戏设计师可能对游戏设计所包含的元素有不同的理解。
 
-### Laying Down the Ground Rules 制定基本规则
+## Laying Down the Ground Rules 制定基本规则
 
 For the purposes of this book, we have broken down game design into three specific areas: core mechanics, storytelling, and interactivity. Each is a distinct, complementary element of a game, and each makes up one part of a larger whole, as shown in Figure 1.2.
 
@@ -114,7 +114,7 @@ Figure 1.2. Core mechanics, interactivity, and storytelling. 图 1.2. 核心机�
 
 在本书中，我们将游戏设计分为三个具体领域：核心机制、故事讲述和互动性。如图 1.2 所示，每一个领域都是游戏中独特而互补的元素，并且每一个领域都是更大整体的一部分。
 
-Core Mechanics 核心机制
+## Core Mechanics 核心机制
 
 The rules that define the operation of the game world make up the core mechanics of the game, or the foundations of gameplay.
 
@@ -140,7 +140,7 @@ Of these three, we can help with only the first and the third. Designer ignoranc
 
 在这三点中，我们只能帮助解决第一点和第三点。设计者的无知正是本书要解决的问题。第二点是市场压力，这是我们无法控制的，过去我们曾多次为此感到绝望。我们还将在本书中讨论第三点，即技术与游戏的竞争，尽管它也有一部分是由市场条件造成的。技术竞赛类似于冷战时期的军备竞赛： 技术能吸引眼球，眼球能吸引顾客的注意力，而在竞争激烈的软件商店和杂志版面上，注意力是最有价值的东西。游戏的开发预算有限，资金往往会流向能产生最直观效果的领域。如果技术能卖出产品，那么产品就会把重点放在技术上。因此，核心机制往往被忽视。
 
-### Storytelling and Narrative 讲故事和叙事
+## Storytelling and Narrative 讲故事和叙事
 
 All games tell a story. The complexity and depth of that story depends on the game. At one extreme, in adventure games such as Grim Fandango, the game is the story. At the other extreme, it's the player who tells the story by the act of playing. Even Tetris has a story—a story created by the player as she plays.
 
@@ -168,7 +168,7 @@ A linear story does not have to be a disadvantage. The Final Fantasy series of g
 
 线性故事并不一定是缺点。《最终幻想》系列游戏的主线故事几乎没有变化的余地——完成游戏的唯一方法就是让故事带着你走，但它们仍然是好游戏。玩家完全无法改变的某些剧本事件推动着故事的发展，而玩家面临的主要挑战就是如何融入这些事件，成为故事的一部分。虽然这让人感觉故事有点不真实，但却足以让玩家着迷。我们还不具备创造引人入胜、完全自洽的非线性故事的技术。也许在我们可以说“早上好，电脑”并期待它理解并回答我们的同时，才能看到真正的通用故事讲述系统！
 
-### Interactivity 交互性
+## Interactivity 交互性
 
 For our purposes, interactivity is the way that the player sees, hears, and acts within the game's world—in short, the way the player plays the game. This covers a lot of diverse topics: graphics, sounds, user interface—everything that comes together to present the gaming experience. As a game designer, you will not create all these items yourself, but you will specify how the interactivity will work. It's up to the specialized members of your team to make it happen.
 
@@ -198,13 +198,13 @@ We've all had the experience of playing an action game really well, getting into
 
 我们都曾有过玩动作游戏非常棒的经历，你的眼睛和双手似乎与机器融为一体，进入某种“入定”状态。最好的用户界面能让你深深地沉浸在游戏中，以至于你根本意识不到用户界面的存在——这就是臭名昭著的俄罗斯方块恍惚。这就是精心设计的互动性对游戏的作用。
 
-## Documenting the Design 记录设计
+# Documenting the Design 记录设计
 
 As part of their job, game designers produce a series of documents to tell others about their game design. Exactly what documents they produce and what the documents are for varies from designer to designer and project to project—but they usually follow a common thread.
 
 游戏设计师的工作之一就是制作一系列文档，向他人介绍自己的游戏设计。不同的设计师和不同的项目会产生不同的文档，但它们通常都遵循一些共同的原则。
 
-### Why Do We Need Documents? 为什么需要文档？
+## Why Do We Need Documents? 为什么需要文档？
 
 Beginning programmers, especially those who want to get into the game industry, often make the mistake of thinking up a game and then diving in and starting to program it right away. Programming is an immensely rewarding activity because you get to see the results of your work within seconds, and those programmers are seeking that reward as soon as possible. They can't wait to see at least some portion of their game up on the screen.
 
@@ -236,7 +236,7 @@ As we said before, a key part of game design is transmitting the design to other
 >
 > 看到区别了吗？这就是创建设计文档的意义所在。
 
-The Types of Design Documents 设计文档的类型
+## The Types of Design Documents 设计文档的类型
 
 This section is a short introduction to the various types of documents a game designer might be asked to create. In chronological order, they are:
 
@@ -247,14 +247,14 @@ This section is a short introduction to the various types of documents a game de
 本节简要介绍游戏设计师可能要创建的各类文档。按照时间顺序，它们是：
 
 * 高概念（2-4 页）
-* 游戏处理（10-20 页）
+* 游戏综述（10-20 页）
 * 游戏脚本（50-200 页）
 
 The following sections briefly discuss these documents. Appendix A, “Sample Design Documents,” contains samples (or pointers to samples) of each one and discusses their contents and formatting in much more detail.
 
 下文将简要讨论这些文档。附录 A“设计文档样本”包含每种文档的样本（或样本指向），并对其内容和格式进行了更详细的讨论。
 
-The High Concept 高概念
+### The High Concept 高概念
 
 Writing the high-concept document is the first step after scribbling down the initial idea. Its aim is to express the fundamental spirit of the game. Just as the purpose of a resumé is to get you a job interview, the purpose of a high-concept document is to get you a hearing from someone, a producer or publishing executive. It puts your key ideas down on paper in a bite-size chunk that he can read in a few minutes. Like a resumé, it should be short—not more than two to four pages long. The high-concept document should take, at most, a week to create, of which four days are spent thinking and one is spent writing.
 
@@ -310,7 +310,7 @@ The initial treatment is still a simple document—almost a brochure that sums u
 
 一个很好的比喻可以帮助你理清该如何撰写综述，那就是想象一下你要做一个网站来帮助销售你的游戏；为了完善内容，加入一些商业和开发细节即可。
 
-The Game Script 游戏脚本
+### The Game Script 游戏脚本
 
 The game script (or “bible”) is the largest and the last in this series. It's not a sales tool; it's much too large and comprehensive for that. It's intended to document design decisions, not to persuade anyone of anything. The game script is the definitive reference for all matters relating to the structure and organization of the game, what the player does and sees—the gameplay. It should also cover the game storyline, characters, user interface, and rules of play. It should answer all possible questions (except for technical ones) about the game.
 
@@ -324,7 +324,7 @@ As a good rule of thumb, the game script should enable you to “play” the gam
 
 一个好的经验法则是，游戏脚本应能让你“玩”游戏。也就是说，游戏脚本应该足够详细地说明游戏规则，使你理论上可以不使用电脑玩游戏——也许是（复杂的）棋盘游戏或桌面角色扮演游戏。这并不意味着你真的要坐下来玩，但从理论上来说，仅凭游戏脚本文档就可以做到这一点。坐下来玩纸质版的游戏创意，是获得游戏设计宝贵反馈的一种非常廉价的方式。对于没有庞大团队和巨额预算的设计者来说，我们衷心鼓励纸质游戏测试。
 
-## Anatomy of a Game Designer 剖析游戏设计师
+# Anatomy of a Game Designer 剖析游戏设计师
 
 Many of the people working in game development aspire to be game designers. It's a highly sought-after position, and for good reason. Of all the jobs on the development team, game design is the one that offers the greatest scope for creative expression. In most cases, it is also the designer who gets the credit for a successful game and who gets the media attention. And if the designer's name becomes well enough known, fame can lead to fortune. Sid Meier, the designer of Civilization and many other titles, is now so famous that his name alone can increase the sales of a game. Sid Meier's Alpha Centauri (Firaxis Software) was actually designed by an ex-employee of Firaxis, Brian Reynolds, yet the publisher put Sid Meier's name in the title.
 
@@ -334,13 +334,13 @@ Like all crafts, game design requires both talent and skill. Talent is innate, b
 
 与所有手艺一样，游戏设计需要天赋和技能。天赋是与生俱来的，而技能则是后天习得的。熟练的工匠对自己的工作要求、工作工具、工作材料和工作成果了如指掌。对于一个高效的游戏设计师来说，需要具备广泛的技能基础。
 
-“One of the most difficult tasks people can perform, however much others may despise it, is the invention of good games….”
-
-"无论别人如何鄙视，人们所能完成的最困难的任务之一，就是发明出好游戏.……"。
-
-—C.G. Jung
-
-——卡尔·古斯塔夫·荣格
+> “One of the most difficult tasks people can perform, however much others may despise it, is the invention of good games….”
+> 
+> "无论别人如何鄙视，人们所能完成的最困难的任务之一，就是发明出好游戏.……"。
+> 
+> —C.G. Jung
+> 
+> ——卡尔·古斯塔夫·荣格
 
 Perhaps because the ideal skill set for an effective game designer is so extensive, diverse, and poorly defined, the requirements for the position of game designer are frequently underestimated. Many development groups treat game design as just one more task for a technical project lead, or as a communal process performed by the entire team. In practice, the skills required for effective game design are much more wide-ranging than you'll find in your average technical lead. This doesn't mean that a programmer can't become a game designer; it just means that you need far more than programming skills to be one.
 
@@ -350,7 +350,7 @@ The following sections discuss some of the skills that are most useful for the p
 
 下文将讨论一些对专业游戏设计师最有用的技能。如果你不具备所有这些技能，也不要气馁。这并不意味着游戏设计不适合你。这是一份愿望清单——我们希望在假想的（但肯定不存在的！）“完美设计师”身上看到的特征。
 
-### Imagination 想象力
+## Imagination 想象力
 
 A game exists in an artificial universe, a make-believe place governed by make-believe rules. Imagination is essential to creating this place. Fortunately, this is not a problem for most people. Even if you feel that your imagination isn't your strongest point, it's possible to develop and improve it. Of course, this isn't a new concept. It's been around for hundreds of years, as can be seen in the following extract:
 
@@ -394,7 +394,7 @@ Nor does imagination consist only of the ability to think of things that are com
 
 想象力也不仅仅指创造全新事物的能力。审视一个旧有观念，赋予其新的诠释，用新颖的方式为其注入活力，这同样弥足珍贵。在游戏行业中，有太多的人看到熟悉的旧事物就不屑一顾。相反，他们应该思考：“如何把它做得更好？如何让它更有趣？”J.K.罗琳在她的《哈利·波特》小说中就巧妙地做到了这一点。她的小说充满了对女巫和巫师这个古老题材的奇思妙想。她保留了让女巫骑着扫帚飞行的设定，但却发明了魁地奇这项骑着扫帚进行的运动。
 
-### Technical Awareness 技术意识
+## Technical Awareness 技术意识
 
 Technical awareness is a general understanding of how computer programs, particularly games, actually work. It isn't necessary to be a software engineer, but it is extremely valuable to have had a little experience programming, even if only in Blitz Basic (www.blitzbasic.com) or some other simple language. A computer game designer's delivery medium is the computer, so it behooves you to know how computers do what they do and also to have a general idea of what they're not good at doing. A designer with entirely unrealistic expectations of what a computer can do isn't going to get very far. For example, computers do not understand English well. If your game design requires that the machine be able to interpret complex sentences typed on the keyboard, your programmers are likely to throw things at you.
 
@@ -404,7 +404,7 @@ You must also have a basic knowledge of the technical capabilities of your targe
 
 你还必须对目标平台的技术性能有基本的了解。至少，你需要知道你是在为家用控制台、台式计算机、手持平台还是其中的多个平台设计产品。你指定的每个功能都必须适用在所有目标平台上。如有疑问，请询问程序员。了解目标平台的限制才能作出可行的设计。
 
-### Analytical Competence 分析能力
+## Analytical Competence 分析能力
 
 No game design is perfect from the start. Game design is a process of iterative refinement, which progresses from a rough draft to the finished meisterwerk. Consequently, you must be able to recognize the good and bad parts of a design for what they are. This requires a keen logical and analytical mind, and the ability to manipulate nebulous concepts with a high level of mental agility and critical analysis.
 
@@ -422,7 +422,7 @@ A specific example of when analytical skills are particularly useful is in detec
 
 分析技能特别有用的一个具体例子是，在设计阶段发现占优势（即无敌或几乎无敌）的策略，并在它们进入代码之前将其剔除，比如臭名昭著的《红色警戒》中的“坦克突袭”。《红色警戒》中的坦克效能严重失衡，有经验的玩家可以把所有的产能都用于生产几辆坦克，然后在敌人建立生产线之前立即攻入对方基地。
 
-### Mathematical Competence 数学能力
+## Mathematical Competence 数学能力
 
 Designers must have basic math skills (particularly statistical math skills) because balancing a game is largely a matter of math and can be a difficult task. In the case of a real-time strategy game or a war game, the apparently simple problem of ensuring that there are no dominant strategies or fighting units to unbalance the game is actually quite math-intensive.
 
@@ -432,7 +432,7 @@ That's not to say that you need a Ph.D. in mathematics—you're not going to be 
 
 这并不是说你需要一个数学博士——你不需要从头开始推导复杂的方程式。在基础数学之上，你唯一需要的就是一些统计方法的知识。即便如此，在某些情况下，数学也可以通过计算来处理。你完全有可能只需熟练使用 Microsoft Excel 等电子表格程序，就能满足数学要求。
 
-### Aesthetic Competence 审美能力
+## Aesthetic Competence 审美能力
 
 Although you need not be an artist, you should have a general aesthetic competence and some sense of style. Far too many games are visual clones of one another, depending on stereotypes and clichés rather than real imagination. It's up to you (along with your lead artist) to set the visual tone of the game and to create a consistent, harmonious look.
 
@@ -446,7 +446,7 @@ We encourage you to expand your aesthetic horizons as much as you can. Learn a l
 
 我们鼓励你们尽可能扩大自己的审美视野。了解一些艺术的基本原理：构图原则、哪种颜色协调、哪种颜色冲突。阅读经典艺术书籍，参观艺术博物馆。了解著名的艺术运动——新艺术运动、超现实主义、印象派——以及它们如何改变了我们看待事物的方式。观看以视觉风格闻名的电影，如《大都会》。然后是更实用的艺术：建筑、室内装饰、工业设计。所有这些都能为你的游戏外观做出贡献。你的审美经验越丰富，就越有可能制作出具有艺术创意的产品。
 
-### General Knowledge 常识
+## General Knowledge 常识
 
 Some of the best game designers tend to be ex-programmers or people with at least some formal scientific training—as long as they have broadened their sphere of knowledge outside of their narrow field of specialist expertise. A base level of general knowledge is valuable for a game designer, as is the ability to research what you might not know. It helps to be well-versed in mathematics, logic, history, literature, art, science, and current affairs. The more source material a game designer can assimilate, the better the final game design will be.
 
@@ -472,7 +472,7 @@ Books aren't the only source of knowledge, of course. A game designer's first re
 
 当然，书籍并不是唯一的知识来源。游戏设计师的第一站往往是互联网，因为互联网上有大量免费信息。只需使用高质量的搜索引擎（如 www.google.com）进行少量搜索，就能发现一些有用的信息。
 
-### Writing Skills 写作技能
+## Writing Skills 写作技能
 
 The professional game designer must have good writing skills. This means being clear, concise, accurate, unambiguous, and, above all, readable. Apart from having to write several detailed documents for each design, you might be expected to produce the story narrative or dialogue—especially if the budget won't stretch to a scriptwriter.
 
@@ -493,13 +493,13 @@ The greatest game design acumen in the world will be useless to you unless you c
 
 除非你能有效地传达你的想法，否则世界上最伟大的游戏设计智慧对你来说都是无用的。作为一名设计师，你通常需要在多个不同层面上宣传你的设计。在专业领域，你首先需要向发行商展示你的设计。之后，你需要获得游戏开发团队的支持。这可以当面进行，也可以书面进行，但结果都是一样的。你需要将自己对游戏的热情传递给开发团队，并详细介绍游戏的细节，让开发团队能够根据你的设想制作出一款游戏。
 
-### Drawing Skills 绘画技能
+## Drawing Skills 绘画技能
 
 Some skill at basic drawing and sketching is highly valuable, although not absolutely required for a designer if you have a concept artist to work with. The saying “A picture is worth a thousand words” is never more true than when you are trying to impart a game idea. The vast majority of computer games rely heavily on visual content, and drawings are essential when pitching a product to a third party. Game-publishing executives will be interested in a hot concept, a hot market, or a hot license, but only pictures get them excited. The images are the hook on which the executives will hang everything else that they hear. Otherwise, you can talk about concepts forever and they won't remember a thing when you leave the room because they don't have a visual hook to hang it on. The images will remain in their memories long after they forget the details.
 
 虽然对于拥有概念美术师合作的游戏设计师来说，基本绘图和素描技巧并非绝对必要，但掌握一些这类技能仍然非常宝贵。俗话说“一图胜千言”，这句话在传达游戏创意时再正确不过了。绝大多数电脑游戏在很大程度上都依赖于视觉内容，在向第三方推销产品时，图画是必不可少的。游戏发行高管们会对热门概念、热门市场或热门授权感兴趣，但只有画面能让他们兴奋。图片就像一个挂钩，发行商会将他们听到的所有其他内容都挂在这个挂钩之上。否则，即便你滔滔不绝地谈论概念，但当你离开房间时，他们什么也记不住，因为他们没有视觉挂钩。在他们忘记细节之后，图像仍会留在他们的记忆中。
 
-### The Ability to Compromise 妥协能力
+## The Ability to Compromise 妥协能力
 
 Probably the most important skill for a professional game designer is the ability to compromise on details and integrate a variety of opinions while preserving a consistent, holistic vision of the game. In an ideal world, we would be able to design whatever suited us and never have to worry about the demands of a publisher or the interests of the customers. Unfortunately, these external needs and interests do have to be considered, and, more often than not, the game designer is constrained by genre or license.
 
@@ -518,7 +518,7 @@ In many cases, you'll be given a brief that limits you to designing a genre clon
 
 在很多情况下，你会接到一份任务书，要求你设计一款克隆游戏或受严格限制的授权游戏。无论你的客户是发行商、许可证持有者还是最终用户，能够在这些限制范围内开展工作并让客户满意都是至关重要的。除非你是仅凭名字就能保证成功的著名游戏设计师，否则你不可能获得完全的自由。你可能设计出了《巨人洞穴》以来最好的文字冒险游戏，但如果这种游戏风格不受公众欢迎，你的游戏可能就无法制作出来，更不用说发行了。
 
-## Putting It Together 小结
+# Putting It Together 总结
 
 This chapter puts forward the view that game design is not an arcane art, but rather a craft, just like any other, that can be learned with application.
 
