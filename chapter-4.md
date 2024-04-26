@@ -16,7 +16,7 @@ Figure 4.1 The story spectrum. 图 4.1 故事光谱。
 
 ![](.gitbook/assets/the_story_spectrum.png)
 
-Figure 4.2 Luigi's Mansion. 图 4.2 路易基洋楼。
+Figure 4.2 Luigi's Mansion. 图 4.2 路易吉洋楼。
 
 ![](.gitbook/assets/luigis_mansion.png)
 
