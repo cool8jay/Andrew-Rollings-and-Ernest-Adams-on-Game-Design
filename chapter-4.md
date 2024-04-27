@@ -451,7 +451,7 @@ Interplay 的《辐射》（如图 4.8 所示）很好地利用了这一特殊�
 
 Figure 4.8. Fallout. 图 4.8. 《辐射》
 
-![](/.gitbook/assets/fallout.png)
+![](/.gitbook/assets/fallout.jpg)
 
 ### The Resurrection 复活
 
