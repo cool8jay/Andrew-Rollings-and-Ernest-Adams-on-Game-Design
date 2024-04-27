@@ -169,9 +169,9 @@ The steps in Vogler's hero's journey are as follows:
 6. 考验、盟友和敌人。
 7. 进入最里面的洞穴。
 8. 磨难。
-9. 奖赏。
+9. 奖励。
 10. 归途。
-11. 复活。
+11. 重生。
 12. 带着奖赏归来。
 
 We discuss these in detail and apply the ideas to game story design in the following sections.
@@ -357,11 +357,11 @@ When the first threshold of adventure is crossed, there is no turning back. The 
 
 当跨过冒险的第一道门槛，就再也无法回头。进入下一阶段，进入特殊世界的冒险才真正开始。
 
-### Tests, Allies, and Enemies 测试、盟友和敌人
+### Tests, Allies, and Enemies 考验、盟友和敌人
 
 The crossing of the threshold is the first test. In this phase, many more similar tests are thrown at the hero. This phase is often the longest phase of a game story and makes up the bulk of a game.
 
-跨过门槛是第一个测试。在这一阶段，主人公将面临许多类似的挑战。这一阶段通常是游戏故事中最长的阶段，也是游戏的主要部分。
+跨过门槛是第一个考验。在这一阶段，主人公将面临许多类似的考验。这一阶段通常是游戏故事中最长的阶段，也是游戏的主要部分。
 
 In this phase, the hero ventures forth into the special world and meets many of the character archetypes on the journey. For the majority of games, the character archetypes that the player meets are either allies, shadows, or tricksters. At the left edge of the story spectrum, you would expect to meet mainly shadows. For example, in Space Invaders, the player is alone against the alien onslaught—a hero surrounded by shadow.
 
@@ -373,70 +373,317 @@ In this phase, the hero ventures forth into the special world and meets many of 
 
 Slightly more complex games often provide allies, such as the fairies at the end of each Pac-Land level. In arcade-style games—those that place more emphasis on the action than the story—these are likely to be the only archetypes present. The player will go through a series of tests with successively more powerful shadows, to be given a brief respite when an ally occasionally shows up to replenish the hero's spirit and resolve. In some cases, the player might even encounter the trickster and shape-shifter archetypes in the form of false allies who turn out to be shadows after all.
 
+稍微复杂一点的游戏通常会提供盟友，比如《吃豆人世界》每个关卡最后的仙女。在街机风格的游戏中————那些更强调动作而非剧情的游戏————这些可能是唯一的原型。玩家将经历一连串的考验，面对的是一个个越来越强大的阴影，偶尔会有一个盟友出现，补充英雄的精神和决心，让玩家得到短暂的喘息。在某些情况下，玩家甚至会遇到骗子和变形怪的原型，他们会假扮成盟友，但最终却变成了阴影。
+
 In a more complex game, where story is the biggest consideration, you would expect to see many more character archetypes during this phase of the game. For example, a role-playing game with a well-developed story line would be expected to use all of the major character archetypes many times over and in varying combinations.
 
+在一个更复杂的游戏中，故事是最大的考虑因素，在游戏的这一阶段，你会看到更多的角色原型。例如，一款故事线发展完善的角色扮演游戏就会多次使用所有主要的角色原型，并以不同的组合形式出现。
+
 The main purpose of this phase in the story is to test and prepare the hero for the grand ordeal that lies ahead. Here, the hero is expected to learn the unfamiliar rules and customs of the special world. During this succession of increasingly difficult tests, the hero forges alliances and makes enemies. Depending on the nature of the game, the opportunities available for the hero to actually make enemies or allies could be limited or predestined, as is the case with most games; the majority of characters the hero meets are already enemies, and allies are few and far between. This is not necessarily a disadvantage—an element can still add flavor to a game, even if it is noninteractive.
+
+故事中这一阶段的主要目的是考验主人公，让他为即将到来的巨大考验做好准备。在这一阶段，英雄要学习陌生的特殊世界的规则和习俗。在这一连串难度越来越大的考验中，英雄会结盟，也会树敌。根据游戏的性质，主人公真正结成敌人或盟友的机会可能很有限，也可能是命中注定的，大多数游戏都是如此；主人公遇到的大多数角色都已经是敌人，而盟友则少之又少。这并不一定是一个缺点————即使是非互动元素，也能为游戏增添风味。
 
 ### The Approach to the Innermost Cave 通往最深处洞穴的道路
 
 After the succession of tests, the hero approaches the innermost cave. This is the core of the story, where the hero will find the reward he seeks. Mostly, this is toward the end of the game, but in some cases, this occurs almost exactly in the middle.
 
+经过一连串的考验后，主人公来到最深处的洞穴。这是故事的核心，主人公将在这里找到他所寻求的奖励。大多数情况下，奖励会出现在游戏的结尾，但也有一些情况下，奖励几乎正好出现在游戏的中间。
+
 The difference between these two alternatives is that the first—where the reward is close to the end of the game—doesn't pay too much attention to the journey back. The retrieval of the reward is the high point of the journey, and the return is assumed. This has its merits. In some cases, you would not want to force the player to retrace his steps back the way he came.
+
+这两种选择的区别在于，第一种选择————奖励接近游戏尾声————并不太关注返回的旅程。取回奖励是整个旅程的高潮，而返回则被认为理所当然。这样做也有其优点。在某些情况下，你不希望强迫玩家按原路返回。
 
 The second situation, in which the reward is close to the middle of the game, pays special attention to the journey back. In this case, retrieving the reward is only half the story. Now the hero actually has to escape with the reward and return to the ordinary world in one piece. For this style of game, the journey back is well integrated into the quest and should be significantly different than the journey that brought the hero to that point.
 
+第二种情况是奖励接近游戏的中间部分，这就要特别注意返回的路程。在这种情况下，找回奖励只是故事的一半。现在，主人公实际上必须带着奖励逃走，并全身而退回到普通世界。对于这种风格的游戏来说，返回的旅程被巧妙地融入到任务中，并应该与来时的旅程有明显的不同。
+
 The traditional use for this story element is to help prepare the hero for the ordeal ahead. This is done by a number of means, including doing reconnaissance, gathering information, checking or purchasing equipment, or mentally preparing and girding loins for the coming tasks.
 
-The Ordeal
+这个故事元素的传统用途是帮助主人公为未来的磨难做好准备。具体做法有很多，包括侦察、收集信息、检查或购买装备，或者为即将到来的任务做好心理准备。
+
+### The Ordeal 磨难
 
 The ordeal is the ultimate test: the fight with the nemesis. This is the culminating battle of the story. Until now, the hero might have dealt with some serious tests, but this is the real thing. The stakes are high, and the final reward is at hand.
 
+这场磨难是终极考验：与宿敌的搏斗。这是故事的巅峰之战。在此之前，主人公可能已经经历过一些严峻的考验，但这才是真正的考验。赌注很高，最终的奖励就在眼前。
+
 Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. Luigi's Mansion, Quake II, Half-Life, R-Type, and Diablo II are some of these. We're sure that you can add hundreds to the list.
+
+许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。《路易吉洋楼》、《雷神之锤二》、《半条命》、《异形战机》和《暗黑破坏神二》都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
 
 During the ordeal, you might try to cement the player's bond with the hero further. This is sometimes achieved by making it appear as if the hero is almost defeated, before fighting back from seemingly impossible odds to defeat the enemy.
 
+在经历磨难的过程中，你可以尝试进一步巩固玩家与主人公之间的联系。有时，可以通过让英雄看起来几乎被打败，然后在看似不可能的情况下奋起反击，打败敌人来达到这一目的。
+
 In the ordeal, the hero faces the ultimate shadow. Defeat means failure, final and absolute. Victory means claiming the reward and the ultimate success. However, sometimes achieving victory is possible in many ways and at many levels, not all of them immediately obvious. For example, in the case of games such as LucasArts' Jedi Knight series, it could mean deciding whether to fight the ultimate nemesis.
 
-The Reward
+在这场磨难中，英雄面对的是终极阴影。战败意味着彻底而绝对的失败，而胜利则意味着夺取奖励并获得最终的成功。然而，有时候取得胜利可以通过多种方式和多个层面实现，并非所有方式都是直白明显。例如，在 LucasArts 的《绝地武士》系列等游戏中，这可能意味着决定是否与终极敌人作战。
+
+### The Reward 奖励
 
 After the ultimate shadow is defeated, the reward can be claimed. The reward can come in many forms—and not all of them are positive. Sometimes the reward can be a negative option, something the hero would rather avoid but cannot, or simply was not, expecting.
 
+战胜终极阴影后，就可以领取奖励。奖励有多种形式，但并非都是正面的。有时，奖励可能是一种消极的选择，是主人公宁愿避免却无法或根本没想到的事情。
+
 More often, however, the reward is positive, even if it might not seem that way to the player. For example, the reward in Planescape: Torment is mortality and the promise of death. Although this might not seem like much of a reward to the player, to the hero—who has endured a long and painful cycle of continual death and rebirth—the ability to finally die and join his lover in the peace of eternal sleep is an ideal boon.
+
+但更常见的情况是，奖励是正面的，即使在玩家看来并非如此。例如，《异域镇魂曲》中的奖励就是死亡和死亡的承诺。虽然这对玩家来说可能算不上什么奖励，但对于经历了漫长而痛苦的不断死亡和重生循环的主人公来说，能够最终死去并与他的爱人在永恒的睡眠中团聚，是一种理想的恩赐。
 
 Many games end at this point. Some of these show the remaining story as a final cut scene. For other games, this is merely the beginning of the final phase.
 
+许多游戏到此就结束了。其中一些游戏用最后的过场动画来展示剩余的故事。对其他游戏来说，这仅仅是最终阶段的开始。
+
 Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In Half-Life, Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of Unreal. After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
 
-Figure 4.7. The ending of Unreal.
+请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在《半条命》中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了————《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
 
-graphics/04fig07.jpg
+Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局
 
-The Road Back
+![](/.gitbook/assets/the_end_of_unreal.jpg)
+
+### The Road Back 归途
 
 With the reward won, the hero now has to prepare for the journey back to the ordinary world. The experience of the adventure will have changed the hero, and it might be difficult (if not impossible) to integrate her successfully back into the ordinary world. As we've said, most games do not go as far as this in their interactive stories—instead, they leave this and the following two story elements to a final cut scene.
 
+获得奖励后，主人公现在要准备返回普通世界的旅程。冒险的经历已经改变了主人公，她可能很难（如果不是不可能）成功融入普通世界。正如我们所说，大多数游戏的互动故事都没有做到这一步————相反，它们会将这一故事元素和下面两个故事元素留到最后的过场动画中。
+
 Interplay's Fallout (shown in Figure 4.8) used this particular element to good effect. In this post-apocalyptic role-playing game, the hero was tasked with finding a replacement chip to the water processor to allow the vault-dwellers to continue living in their underground vault. The hero was sent out into the radioactive wilderness to find this chip and, after many adventures, successfully returned with the reward. Upon his return, he was not permitted to re-enter the vault. The vault elders claimed that he had been so changed by his journey that he was too dangerous to be allowed to live in the vault with the others. Hence, he was turned away from his old ordinary world. His special world became his new ordinary world.
 
-Figure 4.8. Fallout.
+Interplay 的《辐射》（如图 4.8 所示）很好地利用了这一特殊元素。在这款末世角色扮演游戏中，主人公的任务是找到水处理器的替代芯片，让地窖居民继续生活在地下地窖中。主人公被派往放射性荒野寻找芯片，经过多次冒险后，他带着奖励成功返回。回来后，他被禁止再次进入地窖。保险库的长老们声称，他的旅程改变了他，让他和其他人一起住在保险库里太危险了。因此，他被赶出了原来的普通世界。他的特殊世界成了他新的普通世界。
 
-graphics/04fig08.gif
+Figure 4.8. Fallout. 图 4.8. 《辐射》
 
-The Resurrection
+![](/.gitbook/assets/fallout.png)
+
+### The Resurrection 复活
 
 The resurrection is the point in the story at which all outstanding plot threads are resolved. Any problems or consequences from the retrieval of the reward are (for the most part) resolved here. Does the story resolve itself? Are any questions left unanswered? Is this an oversight on the part of the designer, or are they deliberately left open for the sequel?
 
+复活是故事中所有悬而未决的情节线索都得到解决的时刻。取回奖励所带来的任何问题或后果（大部分）都在这里得到解决。故事本身解决了吗？是否有任何问题没有得到解答？这是设计者的疏忽，还是故意为续集留下悬念？
+
 The resurrection is the final set of tests the hero faces before being able to enjoy the hard-earned reward fully. In conventional stories, this is comparable to the last-minute plot twist: Just when you think the story is over and the hero has won, the enemy resurfaces briefly for a final stand before dying.
+
+复活是英雄在充分享受来之不易的奖励之前所面临的最后一系列考验。在传统故事中，这就好比最后一刻的情节转折：当你以为故事已经结束，英雄已经获胜时，敌人却在临死前短暂地复活，做最后的挣扎。
 
 Another purpose of the resurrection is so that the player can see clearly how the hero has evolved throughout the story. Has the hero changed? More important, does the hero have the answer to the question posed by the story?
 
+复活的另一个目的是让玩家能够清楚地看到英雄在整个故事中的演变过程。英雄是否已经改变？更重要的是，英雄是否找到了故事所提出问题的答案？
+
 The resurrection might also be in the form of an internal revelation for the character that the player might not have foreseen—a trick ending: "No, Luke…I am your father."
 
-The Return with the Reward
+复活的形式还可能是玩家可能没有预料到的角色的内心坦白————一个出人意料的结局：“不，卢克……我是你的父亲。”
+
+### The Return with the Reward 带着奖励归来
 
 Now the story is over, and the hero returns to his ordinary world to resume life as normal. The player gets to see the hero enjoy the benefits of the reward, and the story is over. This is the last stage in the circular story form. The story returns completely to its starting point so that comparisons can be drawn between the hero before and after.
 
+现在故事结束了，主人公回到了他的平凡世界，恢复了正常的生活。玩家可以看到主人公享受奖励带来的好处，故事也就结束了。这是循环故事形式的最后一个阶段。故事完全回到起点，这样就可以对主人公的前后进行比较。
+
 However, a neatly tied-up story is not always desirable. Sometimes it is nice to leave a few questions open. One of the most popular forms of ending for a story is the "new beginning." In this type of ending, the story continues in the imagination of the player long after the game is completed. The player is left asking, "What happens next?" and the way is left open for a continuation or a sequel.
+
+然而，一个整齐划一的故事并不总是可取的。有时，留下一些悬念也不错。最受欢迎的故事结局形式之一是“新的开始”。在这种结局中，游戏结束后，故事仍在玩家的想象中继续。玩家会问：“接下来会发生什么？”这就为续集或续篇留下了伏笔。
 
 The most obvious example of this is Half-Life. The story line for this game contains a last-minute plot twist. Just when you think Gordon Freeman is about to escape, he is accosted by a man in black (who has been covertly watching Gordon during the entire game) and is offered two choices. We won't spoil the surprise for those of you who have not played the game to completion; suffice to say that it is certainly an unexpected twist. The reward in this case has mutated from freedom to something else entirely.
 
-## Putting It Together 总结
+最明显的例子就是《半条命》。这款游戏的故事线在最后一刻出现了情节转折。当你以为戈登·弗里曼即将逃脱时，一个黑衣人（在整个游戏过程中一直暗中监视着戈登）向他搭讪，并提供了两个选择。对于那些没有玩完游戏的人，我们就不剧透这个惊喜了；我们只想说，这肯定是一个意想不到的转折。在这种情况下，奖励从自由变成了完全不同的东西。
+
+# The Story Vehicle 故事载体
+
+The most common format for a story is the three-act structure. This is by no means the only structure, but it seems to be the most common structure. For example, some of Shakespeare's plays use different structures, such as five- and seven-act ones. However, most modern stories conform to the more common three-act structure, and that's what we'll concentrate on here.
+
+最常见的故事形式是三幕结构。这绝不是唯一的结构，但似乎是最常见的结构。例如，莎士比亚的一些戏剧采用了不同的结构，如五幕和七幕。不过，大多数现代故事都采用更常见的三幕结构，这也是我们在此要重点讨论的。
+
+The hero's journey is often used in a circular story form split into three acts. This does not mean that all stories return exactly to their starting point and circumstances. Often the manifestation of the circular form means that the hero's special world becomes his new ordinary world. How the hero's journey is related to the circular form is shown in Figure 4.9.
+
+英雄之旅常用于分为三幕的循环故事形式。但这并不意味着所有故事都会完全回到起点和环境。通常情况下，循环形式的表现意味着英雄的特殊世界变成了他新的普通世界。英雄之旅与循环形式的关系如图 4.9 所示。
+
+Figure 4.9. The circular story form. 图 4.9. 循环故事形式
+
+Classically, this story form is used in literature and movies. It also applies directly to story-focused games and can be used as a guideline for games in which stories are present but are not the primary focus. Let's discuss the figure in some more detail.
+
+这种故事形式通常用于文学作品和电影。它也直接适用于以故事为重点的游戏，并可作为游戏的指导原则，在这些游戏中，故事是存在的，但不是主要重点。让我们来详细讨论一下该图。
+
+The first act deals with the introduction of the hero and the ordinary world. The end of the first act is the point at which the hero prepares to cross the first threshold and enter the special world.
+
+第一幕介绍主人公和普通世界。第一幕结束时，主人公准备跨过第一道门槛，进入特殊世界。
+
+Act 2 is the longest act and takes place entirely in the special world. This act is often split into two parts, with the end of the first part coinciding with the ordeal. The second part begins with a change of pace; the story now begins to wind down, and the farthest point in the journey has been reached.
+
+第二幕是最长的一幕，完全发生在特殊世界。这一幕通常分为两部分，第一部分的结尾与磨难相吻合。第二幕开始时，节奏发生了变化；故事开始进入尾声，旅程的最远点已经到达。
+
+Act 2 ends with the road back, and the beginning of the third act heralds the return of the hero to the ordinary world, ending back where the story started in the ordinary world (although not necessarily the same one that the hero left).
+
+第二幕以返回之路结束，而第三幕的开始则预示着主人公回到平凡的世界，回到故事开始的平凡世界（尽管不一定是主人公离开的那个世界）。
+
+The converse of the circular story form is the open-ended form. Here, the story is not tied up nicely as in the circular case. Plot strands are deliberately left open so that there is a sense of unresolved ambiguities and unanswered questions. This form is not often used in stories in Western culture and is often reserved for serials. Two classic movie examples of this form are Robert Zemeckis's Back to the Future, Part II and George Lucas's The Empire Strikes Back. In both of these films, we are left with many unanswered questions, leaving the way wide open for the sequels. Of course, the worst sin of the storyteller is to artificially include a fake plot element simply to force the circle to a close.
+
+与循环故事形式相反的是开放式故事形式。在这种形式下，故事不会像循环故事那样被很好地收尾。故事情节故意留有悬念，给人一种模棱两可、悬而未决的感觉。这种形式在西方文化的故事中并不常用，通常只在连续剧中使用。罗伯特·泽米吉斯的《回到未来，第二部》和乔治·卢卡斯的《帝国反击战》就是这种形式的两个经典影片范例。在这两部电影中，我们都留下了许多未解之谜，为续集留下了广阔的空间。当然，讲故事的人最大的罪过就是人为地加入一个虚假的情节元素，仅仅是为了强行画上一个句号。
+
+## Plot Pacing 情节节奏
+
+We previously mentioned that the plot can be paced in one of two main ways. The position of the crisis in the story makes the difference in the feel of the story: Whether the third act is a quick resolution or a slow wind-down of the story depends on it.
+
+我们之前提到过，情节的节奏主要有两种。危机在故事中的位置决定了故事的感觉：第三幕是快速解决危机，还是缓慢收尾，都取决于此。
+
+Given a conventional three-act structure in which the long second act is usually split into two parts, there are two main points at which the crisis occurs. How these are used is related to the pacing of the plot. The standard approach (shown in Figure 4.10) is to slowly build up to the ordeal at the end of Act 2 and move on fairly swiftly to the final climax. This approach is the more common one, both in games and in the movies. It allows the story to concentrate on the pre-ordeal story line, and after the reward is claimed, it tidies things up quickly.
+
+在传统的三幕结构中，较长的第二幕通常被分为两个部分，危机主要出现在两个点上。如何使用这两个点关系到情节的节奏。标准的方法（如图 4.10 所示）是在第二幕结尾处慢慢铺垫磨难，然后相当迅速地进入最后的高潮。这种方法在游戏和电影中都比较常见。这种方法可以让故事集中在磨难前的故事主线上，而在领到奖励后，又可以迅速收尾。
+
+Figure 4.10. Delayed crisis in a three-act story. 图 4.10. 三幕故事中的延迟危机
+
+![](/.gitbook/assets/delayed_crisis_in_a_three_act_story.png)
+
+That's one approach to plot pacing. The other common one is the central crisis. Here, Act 3 is lengthened so that the ordeal occurs roughly in the middle of the story, giving a symmetrical appearance. This approach allows for the consequences of the ordeal and the claiming of the reward to be expounded upon in more detail. Both halves of the story have equal importance, both pre- and post-ordeal. Often this can be used to give the villain a fighting chance to reclaim the reward and kill the hero, a sort of "just when you thought it was over" approach to the story. This form (shown in Figure 4.11) has not been used much in the games industry so far. This is a shame because it seems a bit naïve to assume that everything turns up rosy after the hero has claimed the reward. As we all know, sometimes that is not the case. For example, E.E. "Doc" Smith used an interesting variant of this in writing his Lensman and Skylark novels.
+
+这是情节节奏的一种方法。另一种常见的方法是中心危机。在这里，第三幕被拉长，使磨难大致发生在故事的中间，给人一种对称的感觉。这种做法可以更详细地阐述磨难的后果和索取奖赏的过程。故事的前后两部分具有同等的重要性。这通常可以用来给反派一个夺回奖赏和杀死英雄的机会，一种 "就在你以为一切都结束的时候 "的故事方式。迄今为止，这种形式（如图 4.11 所示）在游戏行业中使用得并不多。这是一种遗憾，因为假设英雄领取奖励后一切都会变得美好，这似乎有点天真。众所周知，有时情况并非如此。例如，E.E. "Doc" Smith 在创作《Lensman》和《Skylark》小说时，就曾使用过这种有趣的变体。
+
+Figure 4.11. Central crisis in a three-act story. 图 4.11. 三幕故事中的中心危机。
+
+### Gameplay and Narrative 游戏性和叙事性
+
+In this book, we've defined narrative to mean the noninteractive part of a computer game's story, the part in which you as the designer and author tell the player things without letting him do anything. This definition ignores literary theory and all the academic debate that surrounds modern creative writing, but it serves our purpose: to discuss the nature of storytelling in games and the relationship between interactive and noninteractive elements.
+
+在本书中，我们将 "叙事 "定义为电脑游戏故事中的非交互部分，即作为设计者和作者告诉玩家事情而不让他做任何事情的部分。这个定义忽略了文学理论和围绕现代创意写作的所有学术争论，但它符合我们的目的：讨论游戏中讲故事的本质以及互动和非互动元素之间的关系。
+
+From this definition, you can see that a game's story content can be divided into interactive and noninteractive parts: the gameplay and the narrative. These exist in inverse proportion to one another: The more you have of one, the less you have of the other. A novel or a movie has no gameplay; it is entirely narrative. A simple arcade game such as Space Invaders has no narrative; it is entirely gameplay. The majority of home computer and console games lie somewhere in between; they seek to strike a balance between gameplay and narrative. You, as the designer, must decide where that balance lies.
+
+从这个定义中可以看出，游戏的故事内容可以分为互动和非互动两部分：游戏性和叙事性。这两部分的存在是成反比的： 其中一个部分越多，另一个部分就越少。小说或电影没有游戏性，完全是叙事性的。一款简单的街机游戏，如《太空侵略者》，没有叙事性，完全是游戏性。大多数家用电脑和游戏机游戏介于两者之间；它们力求在游戏性和叙事性之间取得平衡。作为设计者，你必须决定平衡点在哪里。
+
+### The Role of Narrative 叙事的作用
+
+To make that determination, you have to ask what function narrative will have in your game. At first glance, it might seem to be pointless. A game is a form of participatory entertainment, and purists would say that any nonparticipatory elements are extraneous. A number of players feel that way, too: As soon as they are given some text to read or see a movie come up, they hit whatever button will skip past it and take them on to the gameplay. These kinds of players tend to be core gamers, motivated primarily by the challenges in the game and the desire to defeat them. To them, beating the game is its own reward, and they need nothing else.
+
+要做出这样的判断，您必须先弄清楚叙事在您的游戏中会起到什么作用。乍一看，这似乎毫无意义。游戏是一种参与性娱乐，纯粹主义者会说任何非参与性元素都是无关紧要的。很多玩家也是这么认为的： 只要有文字要读，或者有电影要看，他们就会点击任何按钮跳过这些内容，进入游戏。这类玩家往往是核心玩家，他们的动力主要来自游戏中的挑战和战胜挑战的欲望。对他们来说，战胜游戏本身就是一种奖励，他们不需要其他任何东西。
+
+Not all players are this eager to dive headfirst into the action, however. Casual gamers, who play for the enjoyment of being in the game's fantasy world, need to have the stage set for them. They need to feel part of something larger, a story that will excite their imaginations. Casual gamers also need rewards for overcoming the game's challenges. For them, it's not sufficient to know that they've defeated a dragon; there must be a reason to do it and a positive consequence for having done it. Both the reason and the consequence are given to them through narrative, expository material that tells them, "The dragon is eating all our herds and soon the peasants will starve" and "The King is greatly pleased with you."
+
+然而，并不是所有玩家都如此渴望一头扎进游戏中。休闲玩家玩游戏是为了享受置身于游戏幻想世界的乐趣，他们需要有一个舞台。他们需要感觉到自己是更宏大故事的一部分，一个能激发他们想象力的故事。休闲游戏玩家也需要通过克服游戏中的挑战来获得奖励。对他们来说，仅仅知道自己打败了一条龙是不够的，还必须有打败它的理由和积极的结果。原因和结果都是通过叙述和说明材料告诉他们的："巨龙正在吃掉我们所有的牲畜，农民很快就会饿死 "和 "国王对你非常满意"。
+
+The sights and sounds in your game, the graphics and audio, create the immediate physical embodiment of your game's setting, but that's not enough to establish a credible game world. Those sights and sounds should be informed by an underlying culture and a history that dictates not only how the world looks, but why it looks that way. If you don't design that culture and history, the game world will feel like a theme park: all false fronts and a thin, gaudy veneer over the game's mechanics. To establish the feeling of richness and depth, you must create a backstory, and some of that backstory must be revealed through narration.
+
+游戏中的景象和声音、图形和音频可以直接体现游戏的背景，但这还不足以建立一个可信的游戏世界。这些景象和声音应该包含潜在的文化和历史，这些文化和历史不仅决定了世界的面貌，还决定了世界为何如此。如果不设计这种文化和历史，游戏世界就会给人一种主题公园的感觉：都是虚假的门面，在游戏机制上披着一层薄薄的、华而不实的外衣。要建立丰富而有深度的感觉，就必须创造一个背景故事，而且必须通过叙述来揭示其中的一些内容。
+
+Action games, sports games, and vehicle simulations seldom include much narrative. They emphasize the activity, or interactivity, of the moment; for the core gamer, that activity is its own reward. Even so, you can attract a larger audience if you offer a story line to maintain the casual player's interest. The casual player wants that story because the action alone doesn't do it for her. Consider two first-person shooter games: In one, you offer 25 different, unrelated levels of varying degrees of difficulty. All the player knows is that she has to kill all the enemies to win. In the other, each level is an episode in a larger story, tied together with narrative material that explains why the player is there and what her exertions are in aid of. The second will undoubtedly cost more to make, but it will also appeal to more people. Those who care nothing for narrative will ignore it, but those who need narrative to motivate them will be rewarded.
+
+动作游戏、体育游戏和车辆模拟游戏很少包含太多的叙事。它们强调的是瞬间的活动或互动性；对于核心玩家来说，活动本身就是一种奖励。即便如此，如果能提供一条故事线来维持休闲玩家的兴趣，就能吸引更多的玩家。休闲玩家需要故事，因为单靠动作本身并不能吸引他们。请看两款第一人称射击游戏： 在其中一款游戏中，你提供了 25 个难度各异、互不相关的关卡。玩家只知道她必须杀死所有敌人才能获胜。而在另一款游戏中，每个关卡都是一个大故事中的一个插曲，用叙事材料串联起来，解释玩家为什么会出现在那里，她的努力是为了什么。毫无疑问，第二种游戏的制作成本会更高，但也会吸引更多的人。那些对叙事毫不在意的人会忽略它，但那些需要叙事来激励自己的人会得到回报。
+
+### Too Much Narrative 太多叙事
+
+If you offer too much narrative and too little gameplay, however, your game will feel as if it is a bad value for the money. A number of games have made this mistake. Players are paying for the opportunity to act out a fantasy. If most of your game's content is noninteractive, they'll feel cheated—they won't get the experience that they paid for.
+
+然而，如果你提供的叙述性内容过多，而游戏性内容过少，你的游戏就会让人觉得物不所值。很多游戏都犯了这个错误。玩家花钱买的是实现幻想的机会。如果游戏的大部分内容都是非交互式的，他们就会觉得被欺骗了--他们无法获得花钱买来的体验。
+
+The other problem with too much narrative is that it tends to make the game feel as if it's on rails. It's very linear, as if the only purpose the player's actions serve is to move the game toward a predestined conclusion. Of course, unless you've written a game with multiple endings, the conclusion is predestined, but the goal is to make the player feel as if he is in a story of his own telling. When you as the designer take over too much of the telling, the player feels as if he's being led by the nose. He doesn't have the freedom to play the game in his own way, to create his own experience for himself.
+
+叙事过多的另一个问题是，它往往会让游戏感觉像是在轨道上运行。它非常线性，就好像玩家的行为唯一的目的就是让游戏走向一个注定的结局。当然，除非你写的游戏有多个结局，否则结局是注定的，但目标是让玩家感觉自己是在讲述自己的故事。如果你作为设计者过多地参与故事的讲述，玩家就会觉得自己被牵着鼻子走。他无法自由地以自己的方式玩游戏，创造属于自己的体验。
+
+### Balancing Narrative and Gameplay 平衡叙事性和游戏性
+
+The raison d'être of all computer gaming is interactivity: giving the player something to do that he cannot do in the real world. The trick, then, is to provide enough narrative to create the game world and motivate the player, but not so much as to inhibit his freedom to meet the game's challenges in his own way. Consider this paraphrase of the words of the wizard Gandalf in The Lord of the Rings: "We cannot choose the times in which we live. All we can decide is what to do with the time that is given us." The player cannot decide the world in which he plays; that is for you, the designer, to determine. But he must be allowed to decide for himself what to do within that world, or there is no point in playing. When you create your game's narrative segments, try to avoid seizing control of the player's avatar. In too many games, the player reaches a certain point and then the narrative takes over and makes the avatar do something that the player might not choose to do. It is fair to change the world around the avatar in response to the player's actions; it is less fair to suddenly take control of the avatar away from the player.
+
+所有电脑游戏存在的理由都是互动性：让玩家做一些他在现实世界中做不到的事情。因此，诀窍在于提供足够的叙事内容来创造游戏世界并激发玩家的兴趣，但又不能过多地限制玩家以自己的方式迎接游戏挑战的自由。请参考《魔戒》中巫师甘道夫的一段话： "我们无法选择所处的时代。我们所能决定的只是如何利用给我们的时间"。玩家无法决定他在其中游戏的世界，这要由设计者来决定。但必须让他自己决定在这个世界里做什么，否则游戏就没有意义了。在设计游戏的叙事片段时，尽量避免夺取玩家化身的控制权。在太多的游戏中，玩家到达某一点后，叙事就会接管，让玩家的化身做一些玩家可能不会选择做的事情。根据玩家的行为改变化身周围的世界是公平的，但突然夺走玩家对化身的控制权就不那么公平了。
+
+### Multi-Part Stories 多部分故事
+
+Not all stories are told in one session. The games industry has expressed much interest in the possibilities provided by episodic delivery. This can mean anything from a simple sequel to a hit game (as in the Final Fantasy series) or a properly episodic game such as the ill-fated Majestic from Electronic Arts.
+
+并不是所有的故事都能一气呵成。游戏业对剧情式游戏的可能性表示了极大的兴趣。这可以是热门游戏的简单续集（如《最终幻想》系列），也可以是适当的情节式游戏，如电子艺界命运多舛的《Majestic》。
+
+There are three main forms for episodic delivery; these are indicated in Figures 4.12, 4.13, and 4.14 and are discussed in the following sections.
+
+情节式交付有三种主要形式，如图 4.12、4.13 和 4.14 所示，下文将对此进行讨论。
+
+Figure 4.12. An example of series structure. 图 4.12. 连续结构的例子
+
+Figure 4.13. An example of serial structure. 图 4.13. 联系结构的例子
+
+Figure 4.14. An example of episodic delivery structure.  图 4.14. 独立剧集交付的例子
+
+## Series 系列
+
+A series is a limited sequence of episodes. Each episode is a self-contained story in which one major plot strand is resolved per episode. Usually, an overriding theme runs from the beginning of the series through to the end, as shown in Figure 4.12.
+
+系列剧是一连串有限的剧集。每一集都是一个自成一体的故事，每集解决一个主要情节。通常，如图 4.12 所示，一个压倒一切的主题会从系列的开头一直贯穿到结尾。
+
+This is the format used in the majority of game series. Each game in the series contains a complete story set against the consistent world. The games in the series are often linked by a grand overarching plot. To get a handle on the concept, imagine a series of films such as Die Hard or The Godfather trilogy. Each film has a self-contained plot, and each can be viewed individually with little disadvantage, even though there is a consistent world and an overarching theme that ties the series together.
+
+大多数系列游戏都采用这种形式。系列游戏中的每个游戏都包含一个完整的故事，故事背景是一个连贯的世界。系列游戏通常由一个宏大的总体情节串联起来。要理解这个概念，可以想象一下《虎胆龙威》或《教父》三部曲等系列电影。每部电影都有自成一体的情节，尽管有一个连贯的世界和一个总的主题将整个系列联系在一起，但每部电影都可以单独观看，几乎没有什么缺点。
+
+## Serials 连续
+
+A serial is a (theoretically) infinite sequence of episodes. Serials are similar in nature to a series, except that the plot threads are not usually neatly resolved by each episode and there is generally no overarching story line—and, hence, no closure. To maintain interest, each episode generally ends halfway through the major plot strand, creating a cliffhanger situation that hopefully creates the "can't wait" feeling for the next episode.
+
+连续剧是一连串（理论上）无限的剧集。连续剧在性质上与系列剧相似，但情节线索通常不会在每集都得到圆满解决，一般没有总的故事线，因此也就没有结局。为了保持观众的兴趣，每集一般都会在主要情节进行到一半时结束，形成一个悬念，让观众对下集产生 "迫不及待 "的感觉。
+
+Serials are designed to run and run. They rely on a large cast of characters, of whom a subset are involved in three or four different (and often quite independent) subplots at any one time. As one subplot ends, another one begins, using a new group of (formerly dormant) characters. Serials lack the grand sense of resolution that the hero's journey provides. Instead, they offer opportunities to observe different characters interacting under a variety of stresses. The cliffhanger at the end of each episode usually involves some shocking revelation that leaves us wondering how a key character will react to the news. One might say that serials are character-driven rather than plot-driven and involve a large number of archetypal characters: the bully, the good-hearted loser, the shrew, the plain but loving girl, the beautiful scheming woman, the ne'er-do-well, and so on. Occasionally, one of these characters will undergo a trauma so extreme that it produces a character transformation—for example, turning the noble young man into an evil schemer, which is, in effect, another plot twist.
+
+连续剧的设计就是要不断地播出。它们依赖于庞大的角色阵容，其中的一部分角色在同一时间内会卷入三到四个不同的（通常相当独立的）支线剧情。当一个分镜头结束时，另一个分镜头又开始了，使用一组新的人物（以前处于休眠状态）。连续剧缺乏英雄之旅那种宏大的解决感。相反，它们提供了观察不同角色在各种压力下互动的机会。每一集结尾的悬念通常都是一些令人震惊的启示，让我们猜测某个关键人物会对这一消息做出怎样的反应。可以说，连续剧是由人物而非情节驱动的，其中涉及大量典型人物：恶霸、心地善良的失败者、泼妇、朴实但有爱心的女孩、漂亮的心计女、不务正业者等等。偶尔，这些角色中的一个会经历极端的创伤，从而产生性格转变--例如，将高尚的年轻人变成邪恶的阴谋家，这实际上是另一种情节的转折。
+
+If the serial comes to an end, it's usually because of the failure of the story, either because of falling ratings or sales or because the story writers ran out of ideas (although judging by some of the soap operas on television, some serials seem to have survived even beyond that particular death blow). The specific grisly fate that a serial comes to can be determined by how it ends. If it ends abruptly, with no attempt at plot resolution, it's a pretty good bet that sales or ratings fell. If some attempt at closure is made, the serial probably came to a natural end. Comparisons for serials are soap operas such as Dallas, or the old Saturday morning serials that most of you are probably too young to remember, such as Rocket Man, Flash Gordon, and The Incredible Hulk.
+
+如果连续剧结束了，通常是因为故事失败了，要么是因为收视率或销量下降，要么是因为故事编剧没有了灵感（不过从电视上的一些肥皂剧来看，有些连续剧似乎甚至在这种致命打击之后仍然存活了下来）。一部连续剧的具体悲惨命运可以由它的结局来决定。如果结束得很突然，没有试图解决情节问题，那么销量或收视率肯定会下降。如果试图做一些收尾工作，那么这部连续剧很可能就自然结束了。与连续剧相对应的是肥皂剧，如《达拉斯》，或者是大多数人可能太年轻而不记得的老式周六早间连续剧，如《火箭侠》、《闪电侠》和《绿巨人》。
+
+You might be wondering why we're going to such lengths describing something that seems to apply only to television. With the advent of games such as Majestic and the continued rumbling of the industry on the subject of episodic (or Webisodic) games, it's a fair bet that we're going to be seeing attempts at providing some sort of interactive serials over the next few years. How successful these will be is open to argument, but being able to charge a monthly fee for new material is a very appealing honey pot. (Witness the success of EverQuest, with roughly 400,000 subscribers each shelling out $10 a month for access.) Figure 4.13 is a depiction of the structure of a serial.
+
+你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着《Majestic》等游戏的出现，以及业界对剧情式（或网络式）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（《EverQuest》的成功就是最好的证明，它拥有大约 400,000 名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
+
+## Episodic Delivery 剧集式交付
+
+An episodic delivery is a cross between the serial and the series. Like the series, the episodic delivery contains a limited number of episodes, with an overall story line that is followed across the entirety. Unlike the series, however, there is often fairly tight integration between episodes and significant overlap of plot threads. This is similar to the serial, in which the plots thread across episodes.
+
+剧集式传播介于连续剧和系列剧之间。与连续剧一样，剧集式传播包含数量有限的剧集，整个故事线贯穿始终。但与连续剧不同的是，剧集之间往往有相当紧密的结合，情节线索有明显的重叠。这与连续剧类似，情节线索贯穿各集。
+
+Unlike the serial, this format doesn't rely so heavily on cliffhangers to end episodes and create interest in the subsequent episodes. Instead, the overall story line provides the driving interest, and the cliffhanger is used only as a secondary means of support (see Figure 4.14).
+
+与连续剧不同的是，这种形式并不严重依赖悬念来结束剧集和引起观众对后续剧集的兴趣。相反，整体故事线提供了驱动兴趣，悬念只是作为辅助手段（见图 4.14）。
+
+An episodic delivery is a cross between the serial and the series. Like the series, the episodic delivery contains a limited number of episodes, with an overall story line that is followed across the entirety. Unlike the series, however, there is often fairly tight integration between episodes and significant overlap of plot threads. This is similar to the serial, in which the plots thread across episodes.
+
+独立剧集交付是连续剧和系列剧之间的一种形式。与系列剧类似，独立剧集交付包含有限数量的剧集，并且整个故事线贯穿始终。然而，与系列剧不同的是，独立剧集交付的剧集之间通常有相当紧密的整合，并且情节线索有显著的重叠。这与连续剧相似，在连续剧中情节线索跨越多个剧集。
+
+Unlike the serial, this format doesn't rely so heavily on cliffhangers to end episodes and create interest in the subsequent episodes. Instead, the overall story line provides the driving interest, and the cliffhanger is used only as a secondary means of support (see Figure 4.14).
+
+与连续剧不同，这种格式不太依赖于悬念来结束剧集并为接下来的剧集创造兴趣。相反，整体故事线提供了主要的兴趣点，而悬念只作为次要的支持手段（见图 4.14）。
+
+Bearing in mind that we already have series-based games, we believe that episodic delivery is the form that most attempts at interactive episode-based entertainment will take, at least initially. If the medium takes off and is financially viable, we gradually might begin to see interactive serials, with no fixed episode count and a constantly evolving story. The only fly in the soup as far as this is concerned is the difficulty of sustained content creation. There will have to be some evolution in the methods used to create the content for such endeavors.
+
+考虑到我们已经有了以系列为基础的游戏，我们认为，至少在最初阶段，以插曲为基础的互动娱乐尝试大多会采用插曲形式。如果这种媒体能够兴起并在经济上可行，我们可能会逐渐开始看到没有固定集数、故事不断发展的互动式连续剧。就这一点而言，唯一的困难是难以持续创作内容。为此类活动创作内容的方法必须有所改变。
+
+> **Storytelling and Narrative Worksheet 讲故事和叙事工作表**
+> 
+> 1. Does the game require a story, or is it entirely abstract? If it is abstract, would a story add to or detract from its appeal?\
+> 游戏需要故事，还是完全抽象？如果是抽象的，故事会增加还是减少它的吸引力？
+> 2. Can the story begin at the beginning of the game, or would the game benefit from a backstory as well?\
+> 故事可以从游戏的开头开始，还是也可以从背景故事中获益？
+> 3. Will the story make use of the monomyth? Which elements? If not, what form will it have?\
+> 故事是否会使用“单一神话”？用了哪些元素？如果不使用，将采用什么形式？
+> 4. Will the story have a three-act structure or something else, and if so, what? Will it be open-ended, leaving some plot threads unresolved?\
+> 故事是采用三幕结构还是其他结构？会不会是开放式的，留下一些未解决的情节线索？
+> 5. How will the plot be paced? Graph out the major points of crisis, climax, rest, and resolution.\
+> 情节节奏如何？绘制出危机、高潮、休止和解决的主要节点。
+> 6. Will the game include narrative (that is, non-interactive) material? What role will it play—an introduction, mission briefing, transitional material, a conclusion, character definition? Is the narrative essential for the player to understand and play the game?\
+> 游戏是否会包含叙事（即非互动）材料？它将扮演什么角色--引言、任务简报、过渡材料、结尾、角色定义？叙述对于玩家理解和玩游戏是否必不可少？
+> 7. Will the narrative material be integrated seamlessly into the gameplay, or will it be a separate screen or interface element? Will the player be able to interrupt or ignore it?\
+> 叙事材料是与游戏无缝整合，还是作为单独的屏幕或界面元素？玩家能否打断或忽略它？
+> 8. What form will the narrative material take? Pages in the manual? Introductory text in the program? Movies? Cut-scenes?\
+> 叙事材料将采取什么形式？手册中的页面？程序中的介绍性文字？电影？场景剪辑？
+> 9. Will the story be multi-part? How will the plotlines be handled: as a series, a serial, or episodically?\
+> 故事是否由多个部分组成？如何处理情节线：系列、连续还是插叙？
+
+# Putting It Together 总结
+
+The importance of story to a game tends to vary according to the complexity of the game. Of course, the importance of a story to a game is usually much less than the importance of a story to a movie. This is because of that magic ingredient, interactivity. Interactivity, at least currently, is at loggerheads with story. The more interactivity is desired, the less we can force the player to follow the story line.
+
+故事对游戏的重要性往往因游戏的复杂程度而异。当然，故事对游戏的重要性通常远远低于故事对电影的重要性。这是因为互动性这一神奇要素。至少在目前，互动性与故事性是对立的。互动性越强，我们就越不能强迫玩家跟着故事线走。
+
+Actually, that's not quite true. Apart from technical limitations, there is no reason why a story cannot be fully interactive and still be satisfying. Star Trek's holodeck often featured realistic characters and story lines, which adapted realistically to the characters. Of course, we're still a long way from that, even at the most basic level. Chris Crawford's Erasmatron (available from [www.erasmatazz.com](www.erasmatazz.com)) makes bold strides in this direction, but there is still a long way to go.
+
+事实上，这并不完全正确。除了技术上的限制外，故事没有理由不能完全互动，而且还能令人满意。星际迷航》中的全息甲板经常出现逼真的人物和故事线，这些人物和故事线都能真实地适应人物。当然，即使在最基本的层面上，我们离这个目标还有很长的路要走。克里斯-克劳福德（Chris Crawford）的《Erasmatron》（可从 [www.erasmatazz.com](www.erasmatazz.com) 上下载）在这方面迈出了大胆的步伐，但还有很长的路要走。
+
+As we've already stated, not all games need a well-developed story—or even a story at all. For those that do, the stories we've seen so far are generally not that strong. Even the best of them would not make good movies. Those games that have crossed over into movies have been (virtually without exception) poor. Consider the screen versions of Final Fantasy, Mortal Kombat, Super Mario Brothers, and Tomb Raider. Granted, the original story lines of the games were not that strong to begin with (with the possible exception of Final Fantasy), but watching the films, it becomes clear that they certainly weren't strong enough to support a film.
+
+我们已经说过，并非所有游戏都需要一个完善的故事，甚至根本不需要故事。对于那些需要故事的游戏，我们迄今为止看到的故事一般都不那么精彩。即使是最好的故事也无法拍成电影。那些被改编成电影的游戏（几乎无一例外）都很糟糕。比如《最终幻想》、《真人快打》、《超级马里奥兄弟》和《古墓丽影》的电影版。诚然，这些游戏的原始故事线本来就不是很强（《最终幻想》可能是个例外），但看了这些电影后，就会发现它们的故事线肯定不足以支撑一部电影。
+
+The techniques presented in this chapter are useful for guiding your story development. Remember, however, that story creation is not a formulaic activity. A fair amount of grunt work and creativity still is required. In the words of Christopher Vogler, the hero's journey is a form, not a formula. That is, it's a pattern (one of many) that can be used to develop your game story.
+
+本章介绍的技巧对指导你的故事发展很有帮助。但请记住，故事创作不是公式化的活动。仍然需要大量的粗活和创造力。用克里斯托弗-沃格勒的话说，英雄之旅是一种形式，而不是公式。也就是说，它是一种模式（众多模式之一），可以用来发展你的游戏故事。
