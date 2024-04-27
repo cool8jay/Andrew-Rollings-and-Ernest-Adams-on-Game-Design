@@ -1,7 +1,3 @@
-# Chapter 1. What Is Game Design? 第一章：什么是游戏设计？
-
-## Chapter 1. What Is Game Design? 第一章：什么是游戏设计？
-
 Humans have been devising and playing games for thousands of years. There is hot debate about which existing game is the oldest; some argue for Go (shown in Figure 1.1) and some for the African stone game Awari, but the first game ever devised is almost certainly lost to us today. The field of game design is as ancient as the human neocortex and is clearly related to our capacity to pretend, for pretending—that is, creating and playing in an artificial world—is at the heart of all games. Some, such as Go and chess, were perfected so long ago that their rules have not changed for centuries. Other games come on the market, enjoy a brief popularity, and fade away again. People are always interested in new games, so there is a constant demand for new game designs.
 
 数千年来，人类一直在设计和玩游戏。关于现存的游戏中哪一款最为古老，人们争论不休；有人认为是围棋（如图 1.1 所示），有人认为是非洲的播棋，但是历史上第一款游戏几乎肯定是失传了。游戏设计领域与人类的大脑皮层一样古老，显然与我们假装的能力有关，因为假装——即创造和玩耍于一个人造世界中——是所有游戏的核心。有些游戏，如围棋和国际象棋，在很久以前就已经完善，其规则几百年来从未改变。而其他游戏则是在问世，风行一时之后逐渐消失。人们总是对新游戏感兴趣，因此对新游戏设计的需求始终如一。

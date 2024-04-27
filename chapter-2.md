@@ -1,5 +1,3 @@
-# Chapter 2. Game Concepts 第二章：游戏概念
-
 This chapter addresses the earliest stage of game design: getting and refining an idea for a game. Your goal at this point should be to write the high-concept document that we described in Chapter 1, “What Is Game Design?.” To do this, you don't have to have all the details worked out yet. But you do need a clear understanding of what your game is about, and you must answer certain essential questions. When you've answered those questions to your satisfaction and have written down the answers, you have turned your idea into a game concept. At the end of this chapter, we've included a worksheet to help you out.
 
 本章讲述游戏设计的最初阶段：获得并完善游戏创意。此时，你的目标应该是写出我们在第一章，“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的创意变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
