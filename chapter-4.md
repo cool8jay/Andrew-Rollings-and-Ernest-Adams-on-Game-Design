@@ -14,11 +14,11 @@ In this chapter, we discuss some guidelines for constructing compelling stories 
 
 在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏————在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括《半条命》和《路易吉洋楼》（如图 4.2 所示）。
 
-Figure 4.1 The story spectrum. 图 4.1 故事光谱。
+Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
 ![](.gitbook/assets/the\_story\_spectrum.png)
 
-Figure 4.2 Luigi's Mansion. 图 4.2 路易吉洋楼。
+Figure 4.2. Luigi's Mansion. 图 4.2. 《路易吉洋楼》。
 
 ![](.gitbook/assets/luigis\_mansion.png)
 
@@ -217,15 +217,15 @@ The "[Ordinary World](chapter-4.md#the-ordinary-world-pu-tong-de-shi-jie)" secti
 
 This is where you introduce the hero to the player. You want to make the player identify with the hero. This is crucial—if you fail to do this, there is no compunction to play the game. There are many ways to do this, but probably the most effective way to get the player to identify with the hero is to play on the player's emotions.
 
-这是向玩家介绍英雄的地方。你要让玩家认同英雄。这一点至关重要--如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同英雄的最有效方法可能就是利用玩家的情感。
+这是向玩家介绍主人公的地方。你要让玩家认同主人公。这一点至关重要————如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同主人公的最有效方法可能就是利用玩家的情感。
 
 We discuss non–story-based methods of creating the bond between the player and the hero in the next chapter. For now, let's consider how you can use the story to accomplish the same task. Often in classical literature, the hero has a flaw or some mental or spiritual wound that the reader can empathize with. This doesn't necessarily mean that the hero needs to be an inmate of a mental asylum (although some games have used just that mechanism—American McGee's Alice, shown in Figure 4.4, was set in the fantasies of a female patient).
 
-我们将在下一章讨论在玩家和英雄之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制--图 4.4 中所示的美国人麦基的作品《爱丽丝》就是以一位女病人的幻想为背景的）。
+我们将在下一章讨论在玩家和主人公之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制————图 4.4 中所示的《爱丽丝梦游魔境》就是以一位女病人的幻想为背景的）。
 
-Figure 4.4. American McGee's Alice.
+Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
-graphics/04fig04.gif
+![](/.gitbook/assets/american_mcgees_alice.jpg)
 
 An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of Half-Life players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
 
