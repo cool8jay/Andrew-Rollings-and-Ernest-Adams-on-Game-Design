@@ -125,67 +125,106 @@ Note that we are not just trying to feed you the line that games are merely inte
 
 One of the chief arguments against patterns—especially when related to design aspects—is that they stifle creativity, producing a lackluster and formulaic output. Of course, if you just take the basic interpretation and apply it, this can be true.
 
+反对模式的一个主要论点是，模式会扼杀创造力，产生缺乏活力和公式化的结果，尤其是在设计方面。当然，如果你只是将基本的解释加以应用，这可能是对的。
+
 However, it should be realized that the monomyth is a form, not a formula. It is a set of guidelines for creating a rewarding and fulfilling story line, not a cookie-cutter template for autogenerating the same tired old story in a slightly different guise. Another important point to bear in mind is that we are using the term hero to refer to either sex. It could just as easily apply to a female hero as it does to a male.
+
+然而，我们应该认识到，“单体故事”只是一种形式，而不是一个公式。 它是一套创造有价值、有成就感的故事线的指南，而不是一个千篇一律的模板，来自动生成换汤不换药的老掉牙故事。另一个需要牢记的要点是，我们使用的英雄一词指代任何性别。无论男女，都可以成为英雄。
+
+{% hint style="info" %}
+译者注：cookie-cutter，一种带有锋利边缘的模具装置，用于将饼干面团切成特定形状。常见的形状有圆形，五角星，梅花，小人，动物，等等。比喻大规模生产或缺乏任何显著特征的东西。
+{% endhint}
 
 With that in mind, let's take a look at this universal story form in more detail. The next few sections describe the stages present in Vogler's interpretation of the hero's journey. We will be careful to use the same terminology and notation as Vogler so that those of you who refer to his book will be able to use the same frame of reference.
 
+有鉴于此，让我们来详细了解一下这种普遍的故事形式。接下来的几节将介绍沃格勒对英雄之旅的诠释中的各个阶段。我们将注意使用与沃格勒相同的术语和符号，以便参考他的书的读者能够使用相同的参照系。
+
 Note that not all games use these structures for their story line. Some use just a few of them and miss out on key features (and, in some cases, their story usually feels somewhat unsatisfactory). For others, some of the steps are inappropriate and would add nothing to the game. For example, many games gloss over the introduction to the ordinary world and the hero's refusal of the call. Sometimes that is ideal—the player actually wants to be a gung-ho hero who is ready for anything, no matter how unrealistic that might be. There is no law, written or unwritten, that says that games have to conform to reality. They just have to be self-consistent.
+
+请注意，并非所有游戏的故事线都采用这些结构。有些游戏只使用了其中的几个步骤，却遗漏了一些关键特征（在某些情况下，它们的故事通常会让人感觉有些不尽人意）。对于其他游戏来说，有些步骤并不合适，对游戏毫无益处。例如，许多游戏对普通世界的介绍和主人公拒绝召唤的过程一笔带过。有时，这是理想的做法————玩家实际上想成为一个勇往直前的英雄，做好一切准备，不管这有多么不现实。没有任何成文或不成文的法律规定游戏必须符合现实。它们只需要自洽即可。
 
 The steps in Vogler's hero's journey are as follows:
 
-The ordinary world.
+1. The ordinary world.
+2. The call to adventure.
+3. The refusal of the call.
+4. The meeting with the mentor.
+5. Crossing the first threshold.
+6. Tests, allies, and enemies.
+7. The approach to the innermost cave.
+8. The ordeal.
+9. The reward.
+10. The road back.
+11. The resurrection.
+12. The return with the reward.
 
-The call to adventure.
+沃格勒英雄之旅的步骤如下：
 
-The refusal of the call.
-
-The meeting with the mentor.
-
-Crossing the first threshold.
-
-Tests, allies, and enemies.
-
-The approach to the innermost cave.
-
-The ordeal.
-
-The reward.
-
-The road back.
-
-The resurrection.
-
-The return with the reward.
+1. 平凡的世界。
+2. 冒险的召唤。
+3. 拒绝召唤。
+4. 与导师的会面。
+5. 跨过第一道门槛。
+6. 考验、盟友和敌人。
+7. 进入最里面的洞穴。
+8. 磨难。
+9. 奖赏。
+10. 归途。
+11. 复活。
+12. 带着奖赏归来。
 
 We discuss these in detail and apply the ideas to game story design in the following sections.
+
+我们将在下面的章节中详细讨论这些内容，并将这些想法应用到游戏故事设计中。
 
 ## The Ordinary World 普通的世界
 
 All stories should start at the beginning (or thereabouts). The ordinary world is where the player first meets the hero and is introduced to her background and normal existence.
 
+所有故事都应从开头（或大约开头）开始。普通世界是玩家第一次见到主人公，了解她的背景和正常生活的地方。
+
 The ordinary world of the hero is used to set up the story, to provide a mundane canvas for the storyteller to contrast with the special world that the hero will be entering in the game. Often the introduction to the ordinary world of the hero is combined with a prologue. The prologue generally takes one of two forms:
 
-Explains the events that have happened to the hero so far, setting up the context for what is about to happen
+主人公的普通世界用来为故事做铺垫，为讲故事的人提供一个世俗的画布，与游戏中主人公将要进入的特殊世界形成对比。英雄的普通世界介绍通常与序幕相结合。序幕一般有两种形式：
 
-Provides a snippet of the special world, either by covering past events in the special world that are about to collide with the hero in the ordinary world or by foreshadowing an event to come
+* Explains the events that have happened to the hero so far, setting up the context for what is about to happen\
+  解释迄今为止发生在主人公身上的事件，为即将发生的事情设定背景
+
+* Provides a snippet of the special world, either by covering past events in the special world that are about to collide with the hero in the ordinary world or by foreshadowing an event to come\
+  提供特殊世界的片段，可以是特殊世界中即将与普通世界中的英雄发生碰撞的过去事件，也可以是预示即将发生的事件
 
 Care must be taken with the backstory and how this story is revealed to the player. Don't just blurt it out in one go. Nothing appears flatter than a straightforward monologue detailing the hero's background and motivations. It's far better to reveal the backstory gracefully. Make the player work a bit to put the pieces together. It's a more rewarding experience, and it makes the player feel as if he has achieved something in uncovering the story.
 
+必须注意背景故事以及如何向玩家揭示这个故事。不要一下子就说出来。没有什么比直接独白主人公的背景和动机更平淡无奇了。优雅地揭示背景故事要好得多。让玩家花点心思去拼凑。这样的体验更有成就感，也会让玩家觉得自己在揭秘故事的过程中有所收获。
+
 Foreshadowing is a powerful technique in storytelling. Consider an example from the introduction to Valve's Half-Life. The noninteractive opening scenes tell the story of Gordon Freeman, who has accepted a research position at the ultrasecretive Black Mesa research laboratory. As Gordon takes the underground monorail to the main security entrance, he gets a glimpse of the ordinary world of the research facility. At certain points throughout the journey, Gordon's attention is drawn to various constructs and facilities that will feature heavily in the special world when the catastrophic accident occurs. Another more explicit example of foreshadowing occurs at the point at which the accident occurs. When the experiment goes awry and the dimensional rift is opened, Gordon is transported to a variety of strange locations and glimpses strange alien landscapes and beings. This (unbeknownst to Gordon) is a taste of things to come.
+
+在讲故事的过程中，预示是一种强大的技巧。请看 Valve 的《半条命》介绍中的一个例子。非交互式的开场场景讲述了戈登·弗里曼的故事，他接受了超神秘的黑梅萨研究实验室的研究职位。当戈登乘坐地下单轨列车前往主要安全入口时，他看到了研究设施的普通世界。在整个旅程中的某些时刻，戈登的注意力被吸引到各种建筑和设施上，这些建筑和设施将在灾难性事故发生时在特殊世界中大显身手。另一个更明确的预示例子发生在事故发生的时刻。当实验出现意外，维度裂缝被打开时，戈登被传送到各种奇怪的地方，并瞥见了奇怪的外星景观和生物。这（戈登并不知道）是对未来事物的预示。
 
 Because foreshadowing is so powerful, it is very commonly used. Often in games that have boss characters, such as shoot 'em-ups, the boss character puts in brief cameo appearances throughout the level before appearing at the end of the level for the big confrontation. The various Star Wars games (an example of which is shown in Figure 4.3) that feature the Death Star often use this technique. The Death Star appears as part of the background graphics a couple of levels before the player is called upon to destroy it. As soon as it appears, ominously hanging in the distance like a small moon, the player knows that sooner or later he will be there.
 
-Figure 4.3. Star Wars: Rogue Squadron II.
+因为预示的作用非常强大，所以它被非常普遍地使用。通常，在有首领角色的游戏（如射击类游戏）中，首领角色会在整个关卡中短暂客串，然后在关卡结束时出现，与玩家展开激烈的正面对抗。以“死星”为特色的各种《星球大战》游戏（如图 4.3 所示）经常使用这种技巧。在玩家被要求摧毁死星之前的几个关卡中，死星会作为背景画面的一部分出现。它一出现，就像一个小月亮一样不祥地悬挂在远处，玩家就知道自己迟早会去那里。
 
-graphics/04fig03.gif
+Figure 4.3. Star Wars: Rogue Squadron II. 图 4.3. 《星球大战：侠盗中队 II》。
+
+![](.gitbook/assets/star_wars_rogue_squadron_II.jpeg)
+
 
 This foreshadowing is so effective because it contrasts the special world against the ordinary world. This confuses the player, and confusion eases the process of mental suggestion. Players who are susceptible to mental suggestion are easier to immerse in the game. The willing suspension of disbelief that the designer is aiming for becomes that little bit easier to achieve.
 
+这种预示之所以如此有效，是因为它将特殊世界与普通世界形成了对比。这种对使得玩家感到困惑，而困惑有助于心理暗示的过程。容易受到心理暗示的玩家更容易沉浸在游戏之中。设计师所追求的“主动信任感”也就变得稍微容易实现。
+
 The "Ordinary World" section is the place to introduce the reasoning and motivation behind the hero's being who she is. Why is she even in this situation? What is the game actually going to be about? Here we discuss the best way to get that information to the player without being blatant and uninteresting.
+
+“普通的世界”部分介绍英雄成为这样的人背后的原因和动机。她为什么会处于这种情况？游戏究竟是关于什么的？在这里，我们将讨论向玩家介绍这些信息的最佳方式，同时又不会显得过于直白和无趣。
 
 This is where you introduce the hero to the player. You want to make the player identify with the hero. This is crucial—if you fail to do this, there is no compunction to play the game. There are many ways to do this, but probably the most effective way to get the player to identify with the hero is to play on the player's emotions.
 
+这是向玩家介绍英雄的地方。你要让玩家认同英雄。这一点至关重要--如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同英雄的最有效方法可能就是利用玩家的情感。
+
 We discuss non–story-based methods of creating the bond between the player and the hero in the next chapter. For now, let's consider how you can use the story to accomplish the same task. Often in classical literature, the hero has a flaw or some mental or spiritual wound that the reader can empathize with. This doesn't necessarily mean that the hero needs to be an inmate of a mental asylum (although some games have used just that mechanism—American McGee's Alice, shown in Figure 4.4, was set in the fantasies of a female patient).
+
+我们将在下一章讨论在玩家和英雄之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制--图 4.4 中所示的美国人麦基的作品《爱丽丝》就是以一位女病人的幻想为背景的）。
 
 Figure 4.4. American McGee's Alice.
 
