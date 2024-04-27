@@ -54,7 +54,7 @@ Not all games require a detailed and rigorous story. Often a couple of short par
 
 If a game doesn't require a detailed backstory, there is nothing to be gained by adding one. Think carefully before you decide this, though; consider the difference that the addition of a story made to Half-Life. (For those of you who don't know, Half-Life was the first decent attempt at a first-person shooter with a strong backstory.)
 
-如果一款游戏不需要详细的背景故事，那么加入背景故事也不会有什么好处。不过，在做出这样的决定之前，请仔细考虑一下添加故事对《半条命》的影响。(对于那些不知道的人来说，《半条命》是第一款具有强大背景故事的第一人称射击游戏。）
+如果一款游戏不需要详细的背景故事，那么加入背景故事也不会有什么好处。不过，在做出这样的决定之前，请仔细考虑一下添加故事对《半条命》的影响。(对于那些不知道的人来说，《半条命》首次成功将故事融入到第一人称射击游戏当中。）
 
 Games such as the Mario series often have simple backstories that are expanded upon during the game. The story line does not affect the gameplay to a restrictive degree, but it does provide direction and increases the interest level. By creating a loose story line that does not impact the gameplay, the designer increases the interest level by using the story line to involve the player in the plight of the characters.
 
@@ -68,15 +68,27 @@ Commonly, the backstory is used to provide a framework for a mission-based game 
 
 It is important for the designer to consider who exactly the storyteller is. Who is the main driving force behind the narrative? Is it the designer or the player? Often a game designer falls victim to "frustrated author syndrome." The designer feels as if she should be writing a great novel and forces a linear and restrictive story line onto the player.
 
+对于设计师来说，重要的是要考虑到底谁在讲故事。谁是叙事背后的主要推动力？是设计师还是玩家？游戏设计师经常会患上“作者挫败综合症”。设计师觉得自己应该写一部伟大的小说，于是把线性的、限制性的故事线强加给玩家。
+
 In other cases, the designer might swamp the player with reams of unnecessary dialogue or narrative. The player then has to fight his way through the excessive text, attempting to sort the wheat from the chaff.
+
+在其他情况下，设计师可能会用大量不必要的对话或叙述淹没玩家。这样，玩家就不得不在过多的文字中挣扎，试图从谷壳里面分拣出小麦。
+
+> 译者注：sort the wheat from the chaff，去芜存菁，沙中淘金，意思是啰嗦文字太多，有用的信息很少。
 
 The main distinguishing factor between games and other forms of entertainment is the level of interactivity. If players just wanted a story, they could watch a movie or read a book. When players are playing a game, they do not want to be force-fed a story that limits the gameplay. Stories generally are not interactive; the amount of branching available in the story tree is limited, so only a few alternative narrative paths are usually available. Hence, the story needs to be handled carefully. It should not be forced on the player, and wherever possible, you should avoid railroading the player down limited story paths because of your own frustrated author syndrome.
 
+游戏与其他娱乐形式的主要区别在于互动程度。如果玩家只想听故事，他们可以看电影或者看书。当玩家在玩游戏时，他们不希望被强行灌输一个限制游戏性的故事。故事一般不具有互动性；故事树的分支数量有限，因此通常只有几条可供选择的叙事路径。因此，需要谨慎处理故事。不应将故事强加给玩家，而且应尽可能避免因自己的“作者挫败综合症”而迫使玩家进入有限的故事路径。
+
 So what is the answer to the question of who the storyteller is? Simple. The players should be the primary storytellers. They are the stars of the show. The time they spend playing the game is their time to shine, not yours. Consequently, the game should be structured so that for the majority of the time, they are telling their own story.
+
+那么，"谁是讲故事的人 "这个问题的答案是什么呢？很简单。玩家应该是主要的故事讲述者。他们才是主角。他们玩游戏的时间就是他们的闪光点，而不是你的。因此，游戏的结构应该让他们在大部分时间里都在讲述自己的故事。
 
 The theme of a story is the philosophical idea that the author is trying to express. You can think of it as the "defining question" of the work. For example, can love triumph? Is murder ever justified? Are dreams real? Is death the end? We've said that the true author of a game narrative is (or should be) the player. Game design can steer the player toward the favored themes of the designer, but it's like leading the proverbial horse to water. You cannot force the players to think your way. Bearing these caveats in mind, let us continue with a discussion of story structure.
 
-## The Monomyth and the Hero's Journey 蒙太奇与英雄之旅
+故事的主题是作者试图表达的哲学思想。您可以将其视为作品的 "决定性问题"。例如，爱情能胜利吗？谋杀是否合理？梦是真实的吗？死亡是终结吗？我们说过，游戏叙事的真正作者是（或应该是）玩家。游戏设计可以把玩家引向设计者喜欢的主题，但这就像牵马到水边。你不能强迫玩家按照你的方式思考。考虑到这些注意事项，让我们继续讨论故事结构。
+
+## The Monomyth and the Hero's Journey 单体故事与英雄之旅
 
 What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
