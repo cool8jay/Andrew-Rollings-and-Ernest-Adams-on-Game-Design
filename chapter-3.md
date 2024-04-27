@@ -56,8 +56,6 @@ A key part of the experience of reading a novel or watching a movie is suspensio
 译者注：suspension of disbelief，直译是终止怀疑，由萨缪尔·泰勒·柯勒律治（Samuel Taylor Coleridge）提出,指读者或观众在面对虚构作品时，尽管明知故事情节是假的，却主动选择暂时相信这个虚假现实，以浸入其中。可以简化为“信任感”。
 {% endhint %}
 
-> 译者注：suspension of disbelief，直译是终止怀疑，由萨缪尔·泰勒·柯勒律治（Samuel Taylor Coleridge）提出,指读者或观众在面对虚构作品时，尽管明知故事情节是假的，却主动选择暂时相信这个虚假现实，以浸入其中。可以简化为“信任感”。
-
 Movies and novels try to create the impression that what they depict is real, though fantasy and science fiction novels rather test our patience in this regard. Few movies and novels specifically allude to the fact that they are fiction; they try to preserve the suspension of disbelief. Some deliberately play with the idea. Both the book and the movie The French Lieutenant's Woman specifically alluded to the fact that they were works of fiction, wrenching the audience out of the work's Victorian setting to encourage comparisons with today's world. The movie The Stunt Man similarly kept the viewer—and the movie's hero—off balance, unable to tell whether what we were seeing was supposed to be reality or merely a movie being filmed.
 
 电影和小说试图给人一种印象，即它们所描绘的都是真实的，尽管奇幻和科幻小说在这方面相当考验我们的耐心。很少有电影和小说明确暗示它们是虚构的；它们试图保持信任感。有些电影和小说则故意玩弄这一概念。小说和电影《法国中尉的女人》和电影都特别暗示了它们是虚构作品的事实，将观众从作品的维多利亚时代背景中拉出来，鼓励他们与当今世界进行比较。电影《特技演员》同样让观众和电影主人公失去平衡，分不清我们看到的是现实还是正在拍摄中的电影。
@@ -66,7 +64,9 @@ More often, however, suspension of disbelief is broken by poor design. This migh
 
 然而，更常见的情况是，信任感被拙劣的设计所打破。如果故事中的某个人做出了与角色大相径庭的事情，或者发生了非常不可能发生的事情——一个天神显灵——而我们却要把它当作正常的事情来接受，就会出现这种情况。另一个经常破坏玩家终止怀疑或者阻碍其形成的原因是缺乏和谐，我们将在下文中讨论。
 
-> 译者注：deus ex machina，直译是机械降神，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖掉下去，突然出现一个飞行机器人接住他，那就是机械神。
+{% hint style="info" %}
+译者注：deus ex machina，直译是机械降神，一种意想不到的力量或事件拯救了看似绝望的局面，尤其是作为戏剧或小说中人为的情节技巧。比如，角色从悬崖掉下去，突然出现一个飞行机器人接住他，那就是机械神。
+{% endhint %}
 
 ### The Importance of Harmony 和谐的重要性
 

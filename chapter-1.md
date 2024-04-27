@@ -166,7 +166,9 @@ Narratives in games are often quite linear, unaffected by the player's actions a
 
 游戏中的叙事通常相当线性，不受玩家行为影响，在每一次游玩过程中都一成不变。许多设计者认为这是一种限制，妨碍了玩家的自由。近年来，关于电脑游戏中的非线性以及非线性带来的改进的讨论不绝于耳。与许多“新颖改进”的游戏特色一样，将非线性融入到非简单的叙事游戏中，需要一些障眼法。自动讲故事是电脑游戏设计的圣杯。《权力平衡》的设计者克里斯·克劳福德通过他的 Erasmatazz 项目（www.erasmatazz.com）在这方面做了一些工作。
 
-> 译者注：圣杯是基督教中非常重要的圣物，也象征着人们对真理和完美的追求。
+{% hint style="info" %}
+译者注：圣杯是基督教中非常重要的圣物，也象征着人们对真理和完美的追求。
+{% endhint %}
 
 There is still a long way to go before we have (or can provide) fully dynamic computer-generated stories. In the meantime, we'll have to continue to use the old-fashioned methods and let humans write the stories. Unfortunately, the effort involved in creating a nonlinear story grows exponentially with the number of story threads and typically weakens the story's impact. Hence, games with strong storylines are usually fairly linear. In fact, some genres suffer from too much scripting. Examples are flight simulators and strategy games that attempt to give the player an illusion of freedom beyond the bounds set by the scripting and consequently fail when the player does something unexpected that breaks the linearity.
 
