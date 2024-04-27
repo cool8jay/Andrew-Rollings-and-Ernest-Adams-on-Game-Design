@@ -539,7 +539,7 @@ That's one approach to plot pacing. The other common one is the central crisis. 
 
 Figure 4.11. Central crisis in a three-act story. 图 4.11. 三幕故事中的中心危机。
 
-### Gameplay and Narrative 游戏性和叙事性
+## Gameplay and Narrative 游戏性和叙事性
 
 In this book, we've defined narrative to mean the noninteractive part of a computer game's story, the part in which you as the designer and author tell the player things without letting him do anything. This definition ignores literary theory and all the academic debate that surrounds modern creative writing, but it serves our purpose: to discuss the nature of storytelling in games and the relationship between interactive and noninteractive elements.
 
@@ -583,7 +583,7 @@ The raison d'être of all computer gaming is interactivity: giving the player so
 
 所有电脑游戏存在的理由都是互动性：让玩家做一些他在现实世界中做不到的事情。因此，诀窍在于提供足够的叙事内容来创造游戏世界并激发玩家的兴趣，但又不能过多地限制玩家以自己的方式迎接游戏挑战的自由。请参考《魔戒》中巫师甘道夫的一段话： "我们无法选择所处的时代。我们所能决定的只是如何利用给我们的时间"。玩家无法决定他在其中游戏的世界，这要由设计者来决定。但必须让他自己决定在这个世界里做什么，否则游戏就没有意义了。在设计游戏的叙事片段时，尽量避免夺取玩家化身的控制权。在太多的游戏中，玩家到达某一点后，叙事就会接管，让玩家的化身做一些玩家可能不会选择做的事情。根据玩家的行为改变化身周围的世界是公平的，但突然夺走玩家对化身的控制权就不那么公平了。
 
-### Multi-Part Stories 多部分故事
+## Multi-Part Stories 多部分故事
 
 Not all stories are told in one session. The games industry has expressed much interest in the possibilities provided by episodic delivery. This can mean anything from a simple sequel to a hit game (as in the Final Fantasy series) or a properly episodic game such as the ill-fated Majestic from Electronic Arts.
 
@@ -599,7 +599,7 @@ Figure 4.13. An example of serial structure. 图 4.13. 联系结构的例子
 
 Figure 4.14. An example of episodic delivery structure.  图 4.14. 独立剧集交付的例子
 
-## Series 系列
+### Series 系列
 
 A series is a limited sequence of episodes. Each episode is a self-contained story in which one major plot strand is resolved per episode. Usually, an overriding theme runs from the beginning of the series through to the end, as shown in Figure 4.12.
 
@@ -609,7 +609,7 @@ This is the format used in the majority of game series. Each game in the series 
 
 大多数系列游戏都采用这种形式。系列游戏中的每个游戏都包含一个完整的故事，故事背景是一个连贯的世界。系列游戏通常由一个宏大的总体情节串联起来。要理解这个概念，可以想象一下《虎胆龙威》或《教父》三部曲等系列电影。每部电影都有自成一体的情节，尽管有一个连贯的世界和一个总的主题将整个系列联系在一起，但每部电影都可以单独观看，几乎没有什么缺点。
 
-## Serials 连续
+### Serials 连续
 
 A serial is a (theoretically) infinite sequence of episodes. Serials are similar in nature to a series, except that the plot threads are not usually neatly resolved by each episode and there is generally no overarching story line—and, hence, no closure. To maintain interest, each episode generally ends halfway through the major plot strand, creating a cliffhanger situation that hopefully creates the "can't wait" feeling for the next episode.
 
@@ -627,7 +627,7 @@ You might be wondering why we're going to such lengths describing something that
 
 你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着《Majestic》等游戏的出现，以及业界对剧情式（或网络式）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（《EverQuest》的成功就是最好的证明，它拥有大约 400,000 名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
 
-## Episodic Delivery 剧集式交付
+### Episodic Delivery 剧集式交付
 
 An episodic delivery is a cross between the serial and the series. Like the series, the episodic delivery contains a limited number of episodes, with an overall story line that is followed across the entirety. Unlike the series, however, there is often fairly tight integration between episodes and significant overlap of plot threads. This is similar to the serial, in which the plots thread across episodes.
 
