@@ -539,6 +539,8 @@ That's one approach to plot pacing. The other common one is the central crisis. 
 
 Figure 4.11. Central crisis in a three-act story. 图 4.11. 三幕故事中的中心危机。
 
+![](/.gitbook/assets/central_crisis_in_a_three_act_story.png)
+
 ## Gameplay and Narrative 游戏性和叙事性
 
 In this book, we've defined narrative to mean the noninteractive part of a computer game's story, the part in which you as the designer and author tell the player things without letting him do anything. This definition ignores literary theory and all the academic debate that surrounds modern creative writing, but it serves our purpose: to discuss the nature of storytelling in games and the relationship between interactive and noninteractive elements.
