@@ -1,5 +1,7 @@
 # Chapter 4. Storytelling and Narrative 讲故事与叙事
 
+## Chapter 4. Storytelling and Narrative 讲故事与叙事
+
 Stories are as old as communication itself. Since the first protohominids daubed their paintings on the rough walls of their caves, stories have been told. Stories and games have been intertwined to varying degrees for almost as long.
 
 故事与交流本身一样古老。自从第一群原始人在粗糙的洞穴墙壁上涂鸦以来，人们就开始讲故事。故事和游戏在不同程度上交织在一起的时间几乎一样长。
@@ -14,17 +16,17 @@ In this chapter, we discuss some guidelines for constructing compelling stories 
 
 Figure 4.1 The story spectrum. 图 4.1 故事光谱。
 
-![](.gitbook/assets/the_story_spectrum.png)
+![](.gitbook/assets/the\_story\_spectrum.png)
 
 Figure 4.2 Luigi's Mansion. 图 4.2 路易吉洋楼。
 
-![](.gitbook/assets/luigis_mansion.png)
+![](.gitbook/assets/luigis\_mansion.png)
 
 In Half-Life, the story is an important part of the flavor of the game, but aside from acting as a mechanism to allow the player to become more immersed in the game world, it bears no relevance to the actual gameplay. (And by this we mean that the gameplay of Half-Life is virtually identical to that of any other first-person shooter; it's just the story and setting that give it the edge.)
 
 在《半条命》中，故事是游戏风情的重要组成部分，但除了作为一种机制让玩家更加沉浸于游戏世界之外，它与实际的游戏玩法毫无关联。(我们的意思是，《半条命》的游戏玩法与其他第一人称射击游戏几乎完全相同，只是故事和场景使其更具优势）。
 
-# Stories in Games 游戏里的故事
+## Stories in Games 游戏里的故事
 
 The use of stories in games is a fundamental part of game design. A game without a story becomes an abstract construct. Of course, for some games, such as Tetris, this is ideal, but the vast majority are much improved by the addition of a story.
 
@@ -46,7 +48,7 @@ Don't worry, though: All the concepts we discuss are equally applicable to the l
 
 不过不用担心：我们讨论的所有概念同样适用于故事光谱上轻松的一端。只是它们对游戏的成功（或失败）没有那么重要罢了。如果一款游戏的背景故事很糟糕，而背景故事对游戏的影响又很小，那么就不会有人在乎。事实上，许多游戏都以其（真实或隐含的）背景故事的荒谬性而自豪。比如世嘉的《超级猴子球》。玩家的化身是一只猴子。关在一个球里。收集香蕉。据我们所知，这就是故事的全部内容，对这款游戏来说也没什么问题。任何进一步充实故事的尝试都是多余的。
 
-## Simple Backstories 简单的背景故事
+### Simple Backstories 简单的背景故事
 
 Not all games require a detailed and rigorous story. Often a couple of short paragraphs just setting the background are required. For example, a game such as R-Type doesn't need much of a story line. An evil galactic empire is invading, and you're the only one who can stop it. Original? No. Good enough for the purpose? Yes.
 
@@ -64,7 +66,7 @@ Commonly, the backstory is used to provide a framework for a mission-based game 
 
 通常，背景故事被用来为基于任务的游戏结构提供一个框架。对于大多数游戏来说，这是理想的方法。随着游戏复杂程度的增加，故事与游戏玩法的相对重要性可以（但不一定）增加。例如，一个简单的街机游戏的故事线对游戏性的重要性要比一个更复杂的游戏（如角色扮演游戏）小得多。如图 4.1 所示。
 
-## Who Is the Storyteller? 谁在讲故事？
+### Who Is the Storyteller? 谁在讲故事？
 
 It is important for the designer to consider who exactly the storyteller is. Who is the main driving force behind the narrative? Is it the designer or the player? Often a game designer falls victim to "frustrated author syndrome." The designer feels as if she should be writing a great novel and forces a linear and restrictive story line onto the player.
 
@@ -94,18 +96,17 @@ The theme of a story is the philosophical idea that the author is trying to expr
 译者注：you can lead a horse to water, but you can't make it drink。谚语，意思是牵马到河易，强马饮水难。
 {% endhint %}
 
-
-## The Monomyth and the Hero's Journey 单体故事与英雄之旅
+### The Monomyth and the Hero's Journey 单体故事与英雄之旅
 
 What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
 什么是我们所说的“单体故事”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单体故事，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型————那些出现在所有文化和时代中的人物————是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
 
-"Whether we listen with aloof amusement to [a] … witch doctor of the Congo, or read with cultivated rapture thin translations from the sonnets of the mystic Lao-tse; now and again crack the hard nutshell of an argument of Aquinas, or catch suddenly the shining meaning of [an] … Eskimo fairy tale: it will always be the one, shape-shifting yet marvelously constant story that we find, together with a challengingly persistent suggestion of more remaining to be experienced than will even be known or told."
+"Whether we listen with aloof amusement to \[a] … witch doctor of the Congo, or read with cultivated rapture thin translations from the sonnets of the mystic Lao-tse; now and again crack the hard nutshell of an argument of Aquinas, or catch suddenly the shining meaning of \[an] … Eskimo fairy tale: it will always be the one, shape-shifting yet marvelously constant story that we find, together with a challengingly persistent suggestion of more remaining to be experienced than will even be known or told."
 
 —Joseph Campbell, The Hero with a Thousand Faces, 1949
 
-“无论我们是带着超然的兴致聆听[一位]……刚果巫医的讲述，还是带着修养的狂喜阅读神秘主义者老子十四行诗的薄薄译文；无论我们是时不时地敲开阿奎那论证的坚硬外壳，还是突然捕捉到[一个]……爱斯基摩童话的闪亮含义：我们发现的永远是一个变幻无穷却又千篇一律的故事，以及一个具有挑战性的持续暗示，那就是还有更多的东西有待我们去体验，而不是去了解或讲述。”
+“无论我们是带着超然的兴致聆听\[一位]……刚果巫医的讲述，还是带着修养的狂喜阅读神秘主义者老子十四行诗的薄薄译文；无论我们是时不时地敲开阿奎那论证的坚硬外壳，还是突然捕捉到\[一个]……爱斯基摩童话的闪亮含义：我们发现的永远是一个变幻无穷却又千篇一律的故事，以及一个具有挑战性的持续暗示，那就是还有更多的东西有待我们去体验，而不是去了解或讲述。”
 
 ————约瑟夫·坎贝尔，《千面英雄》，1949 年
 
@@ -121,7 +122,7 @@ Note that we are not just trying to feed you the line that games are merely inte
 
 请注意，我们并不是在向你灌输游戏只是互动电影的说法。事实显然并非如此。它们是完全不同的媒介。然而，坎贝尔和沃格勒提出的观点具有普遍性。它们超越了电影媒介，至少在某种程度上直接适用于游戏设计领域，尤其是在故事线是设计的主要因素的情况下。
 
-## Too Good to Be True? 好到不真实？
+### Too Good to Be True? 好到不真实？
 
 One of the chief arguments against patterns—especially when related to design aspects—is that they stifle creativity, producing a lackluster and formulaic output. Of course, if you just take the basic interpretation and apply it, this can be true.
 
@@ -131,9 +132,7 @@ However, it should be realized that the monomyth is a form, not a formula. It is
 
 然而，我们应该认识到，“单体故事”只是一种形式，而不是一个公式。 它是一套创造有价值、有成就感的故事线的指南，而不是一个千篇一律的模板，来自动生成换汤不换药的老掉牙故事。另一个需要牢记的要点是，我们使用的英雄一词指代任何性别。无论男女，都可以成为英雄。
 
-{% hint style="info" %}
-译者注：cookie-cutter，一种带有锋利边缘的模具装置，用于将饼干面团切成特定形状。常见的形状有圆形，五角星，梅花，小人，动物，等等。比喻大规模生产或缺乏任何显著特征的东西。
-{% endhint}
+译者注：cookie-cutter，一种带有锋利边缘的模具装置，用于将饼干面团切成特定形状。常见的形状有圆形，五角星，梅花，小人，动物，等等。比喻大规模生产或缺乏任何显著特征的东西。 \{% endhint}
 
 With that in mind, let's take a look at this universal story form in more detail. The next few sections describe the stages present in Vogler's interpretation of the hero's journey. We will be careful to use the same terminology and notation as Vogler so that those of you who refer to his book will be able to use the same frame of reference.
 
@@ -177,7 +176,7 @@ We discuss these in detail and apply the ideas to game story design in the follo
 
 我们将在下面的章节中详细讨论这些内容，并将这些想法应用到游戏故事设计中。
 
-## The Ordinary World 普通的世界
+### The Ordinary World 普通的世界
 
 All stories should start at the beginning (or thereabouts). The ordinary world is where the player first meets the hero and is introduced to her background and normal existence.
 
@@ -189,7 +188,6 @@ The ordinary world of the hero is used to set up the story, to provide a mundane
 
 * Explains the events that have happened to the hero so far, setting up the context for what is about to happen\
   解释迄今为止发生在主人公身上的事件，为即将发生的事情设定背景
-
 * Provides a snippet of the special world, either by covering past events in the special world that are about to collide with the hero in the ordinary world or by foreshadowing an event to come\
   提供特殊世界的片段，可以是特殊世界中即将与普通世界中的英雄发生碰撞的过去事件，也可以是预示即将发生的事件
 
@@ -207,16 +205,15 @@ Because foreshadowing is so powerful, it is very commonly used. Often in games t
 
 Figure 4.3. Star Wars: Rogue Squadron II. 图 4.3. 《星球大战：侠盗中队 II》。
 
-![](.gitbook/assets/star_wars_rogue_squadron_II.jpeg)
-
+![](.gitbook/assets/star\_wars\_rogue\_squadron\_II.jpeg)
 
 This foreshadowing is so effective because it contrasts the special world against the ordinary world. This confuses the player, and confusion eases the process of mental suggestion. Players who are susceptible to mental suggestion are easier to immerse in the game. The willing suspension of disbelief that the designer is aiming for becomes that little bit easier to achieve.
 
 这种预示之所以如此有效，是因为它将特殊世界与普通世界形成了对比。这种对使得玩家感到困惑，而困惑有助于心理暗示的过程。容易受到心理暗示的玩家更容易沉浸在游戏之中。设计师所追求的“主动信任感”也就变得稍微容易实现。
 
-The "Ordinary World" section is the place to introduce the reasoning and motivation behind the hero's being who she is. Why is she even in this situation? What is the game actually going to be about? Here we discuss the best way to get that information to the player without being blatant and uninteresting.
+The "[Ordinary World](chapter-4.md#the-ordinary-world-pu-tong-de-shi-jie)" section is the place to introduce the reasoning and motivation behind the hero's being who she is. Why is she even in this situation? What is the game actually going to be about? Here we discuss the best way to get that information to the player without being blatant and uninteresting.
 
-“普通的世界”部分介绍英雄成为这样的人背后的原因和动机。她为什么会处于这种情况？游戏究竟是关于什么的？在这里，我们将讨论向玩家介绍这些信息的最佳方式，同时又不会显得过于直白和无趣。
+“[普通的世界](chapter-4.md#the-ordinary-world-pu-tong-de-shi-jie)”部分介绍英雄成为这样的人背后的原因和动机。她为什么会处于这种情况？游戏究竟是关于什么的？在这里，我们将讨论向玩家介绍这些信息的最佳方式，同时又不会显得过于直白和无趣。
 
 This is where you introduce the hero to the player. You want to make the player identify with the hero. This is crucial—if you fail to do this, there is no compunction to play the game. There are many ways to do this, but probably the most effective way to get the player to identify with the hero is to play on the player's emotions.
 
@@ -232,7 +229,7 @@ graphics/04fig04.gif
 
 An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of Half-Life players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
 
-## The Call to Adventure 冒险的召唤
+### The Call to Adventure 冒险的召唤
 
 The call to adventure is the first inkling the hero gets that she is going to be leaving the security of the ordinary world to enter the special world of the adventure ahead.
 
@@ -262,7 +259,7 @@ In other situations, the call to adventure isn't an explicit call. It can be the
 
 The call to adventure does not need to be optional. The hero isn't always given a choice (even if the player is: He can choose to play or not to play). In Space Invaders, the call to adventure is the need to destroy all the aliens to prevent the player's own destruction.
 
-## The Refusal of the Call 拒绝召唤
+### The Refusal of the Call 拒绝召唤
 
 In the traditional monomyth form, the next stage after the call is the refusal. This is the representation of the hero rejecting the offer to leave her comfortable ordinary world. It does not have to be portrayed as a grandiose event—often the refusal amounts to little more than a quiet moment of personal doubt or a brief rebellious outburst on the part of the hero.
 
@@ -276,7 +273,7 @@ In the case of conflicting calls—when the hero is given two or more conflictin
 
 In some cases, refusal of the call can be seen as a positive action. The call to adventure can be a negative thing. For example, the hero might be offered a quest that involves partaking in some form of action that would result in unpleasant consequences. In the case of a role-playing game based on the familiar Advanced Dungeons and Dragons rules, a lawful good hero might be asked to perform an activity that would conflict with his alignment, such as killing a household of innocents. If the player sees it as advantageous in the long run to maintain his alignment, it would be wise to refuse this quest.
 
-## The Meeting with the Mentor 遇到导师
+### The Meeting with the Mentor 遇到导师
 
 The character archetype of mentor is discussed at length in the next chapter. You've already seen an example of a mentor in the previous section, when we discussed Black and White. Another example is Morte, the first character that the Nameless One encounters in Planescape: Torment. At the start of the game, Morte's main purpose is to provide the Nameless One with information about his location and situation. As the Nameless One progresses further, Morte provides further tips and helpful suggestions until he is more familiar with his surroundings.
 
@@ -284,7 +281,7 @@ If the call to adventure is seen as the catalyst to the story, creating an impul
 
 Note that the mentor does not have to be a single character. Often the mentor is a clichéd wise old man, but there is no reason why this should be the case. The position of the mentor archetype can be filled by any combination of characters that give the hero information. In fact, the mentor does not even need to be a character. The hero can use past experiences, a library, a television, or any other information source. It's not important what or who fills the role of the mentor, as long as the information the hero needs is provided.
 
-## Crossing the First Threshold 跨过第一道门槛
+### Crossing the First Threshold 跨过第一道门槛
 
 After the hero has decided to leave the ordinary world, accepted the call to adventure, and discovered what needs to be done, she still has to make that first step and commit to the adventure. Vogler refers to this as "crossing the threshold" from the safe and comfortable ordinary world into the dangerous and strange special world of the quest ahead.
 
@@ -300,7 +297,7 @@ graphics/04fig06.gif
 
 When the first threshold of adventure is crossed, there is no turning back. The next phase is entered, and the adventure into the special world truly begins.
 
-## Tests, Allies, and Enemies 测试、盟友和敌人
+### Tests, Allies, and Enemies 测试、盟友和敌人
 
 The crossing of the threshold is the first test. In this phase, many more similar tests are thrown at the hero. This phase is often the longest phase of a game story and makes up the bulk of a game.
 
@@ -312,7 +309,7 @@ In a more complex game, where story is the biggest consideration, you would expe
 
 The main purpose of this phase in the story is to test and prepare the hero for the grand ordeal that lies ahead. Here, the hero is expected to learn the unfamiliar rules and customs of the special world. During this succession of increasingly difficult tests, the hero forges alliances and makes enemies. Depending on the nature of the game, the opportunities available for the hero to actually make enemies or allies could be limited or predestined, as is the case with most games; the majority of characters the hero meets are already enemies, and allies are few and far between. This is not necessarily a disadvantage—an element can still add flavor to a game, even if it is noninteractive.
 
-## The Approach to the Innermost Cave 通往最深处洞穴的道路
+### The Approach to the Innermost Cave 通往最深处洞穴的道路
 
 After the succession of tests, the hero approaches the innermost cave. This is the core of the story, where the hero will find the reward he seeks. Mostly, this is toward the end of the game, but in some cases, this occurs almost exactly in the middle.
 
@@ -374,5 +371,4 @@ However, a neatly tied-up story is not always desirable. Sometimes it is nice to
 
 The most obvious example of this is Half-Life. The story line for this game contains a last-minute plot twist. Just when you think Gordon Freeman is about to escape, he is accosted by a man in black (who has been covertly watching Gordon during the entire game) and is offered two choices. We won't spoil the surprise for those of you who have not played the game to completion; suffice to say that it is certainly an unexpected twist. The reward in this case has mutated from freedom to something else entirely.
 
-# Putting It Together 总结
-
+## Putting It Together 总结
