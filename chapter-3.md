@@ -160,7 +160,7 @@ One of the most common distortions games make is in the relative heights of peop
 
 Designers often make another scale distortion between indoor and outdoor locations. When a character is walking through a town, simply going from one place to another, the player will want the character to get there reasonably quickly. The scale of the town should be small enough that the character takes only a few minutes to get from one end to another, unless the point of the game is to explore a richly detailed urban environment. When the character steps inside a building, however, and needs to negotiate doors and furniture, you should expand the scale to show these additional details. If you use the same animation for a character walking indoors and outdoors, this will give the impression that the character walks much faster outdoors than indoors. However, this seldom bothers players—they'd much rather have the game proceed quickly than have their avatar take hours to get anywhere, even if that would be more accurate.
 
-设计师经常会在室内和室外地点之间进行另一种缩放失真。当角色在城镇中穿行，只是从一个地方走到另一个地方时，玩家会希望角色能比较快速到达目的地。除非游戏的目的是探索一个细节丰富的城市环境，否则城镇的规模应该足够小，角色从一端走到另一端只需要几分钟的时间。但是，当角色走进一栋建筑，需要与门和家具打交道时，就应该扩大比例，以显示这些额外的细节。如果角色在室内和室外行走时使用相同的动画，会让人觉得角色在室外行走的速度比室内快得多。不过，这很少会让玩家感到困扰————他们更希望游戏能快速进行，而不是让他们的化身走几个小时后到达目的地，即使这样才更准确。
+设计师经常会在室内和室外地点之间进行另一种缩放失真。当角色在城镇中穿行，只是从一个地方走到另一个地方时，玩家会希望角色能比较快速到达目的地。除非游戏的目的是探索一个细节丰富的城市环境，否则城镇的规模应该足够小，角色从一端走到另一端只需要几分钟的时间。但是，当角色走进一栋建筑，需要与门和家具打交道时，就应该扩大比例，以显示这些额外的细节。如果角色在室内和室外行走时使用相同的动画，会让人觉得角色在室外行走的速度比室内快得多。不过，这很少会让玩家感到困扰——他们更希望游戏能快速进行，而不是让他们的化身走几个小时后到达目的地，即使这样才更准确。
 
 This brings up one final distortion, which is also affected by the game's notion of time (see the section, “The Temporal Dimension”), and that is the relative speeds of moving objects. In the real world, a supersonic jet fighter can fly more than a hundred times faster than an infantry soldier can walk on the ground. If you're designing a game that includes both infantry soldiers and jet fighters, you're going to have a problem. If the scale of the battlefield is suitable for jets, it will take infantry weeks to walk across; if it's suitable for infantry, a jet could pass over it in the blink of an eye. One solution to this is to do what the real military does and implement transport vehicles for ground troops. Another is simply to fudge it and pretend that jets fly only four or five times as fast as people walk. As long as the jet is the fastest thing in the game, it doesn't really matter how much faster it is; the “strike and retreat” tactic that jets are good at will still work. Setting these values is all part of balancing the game, as discussed in more detail in Chapter 7, “Gameplay.”
 
@@ -186,7 +186,7 @@ In flight simulators, the boundaries of the world are even more problematic. Mos
 
 A common solution to the edge-of-the-world problem is to allow the flat world to “wrap” at the top, bottom, and sides. Although the world is implemented as a rectangular space in the software, objects that cross one edge appear at the opposite edge—they wrap around the world. If the object remains centered on the screen and the world appears to move beneath it, you can create the impression that the world is spherical. This was used to excellent effect in Bullfrog Productions' game Magic Carpet. In another Bullfrog game, Populous: The Beginning, the world was actually displayed graphically as a sphere on the screen, not just a wrapping rectangle.
 
-解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边————它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏《上帝也疯狂：开天辟地》中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
+解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边——它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏《上帝也疯狂：开天辟地》中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
 
 > **Questions to Ask Yourself About the Physical Dimension 关于物理维度的自问自答**
 >
@@ -253,7 +253,7 @@ In sports games and vehicle simulations, game time usually runs at the same spee
 
 Flight simulators also usually run in real time. But there are often long periods of flying straight and level during which nothing of interest is going on; the plane is simply traveling from one place to another. To shorten these periods, many games offer a way to “speed up time” by two, four, or eight times—in effect, making everything in the game world go faster than real time. When the plane approaches its destination, the player can return the game to normal speed and play in real time.
 
-飞行模拟器通常也是实时运行的。但是，通常会有很长一段时间是平直飞行的，在此期间不会发生任何有趣的事情；飞机只是从一个地方飞到另一个地方。为了缩短这些时间，许多游戏都提供了一种方法，可以将时间“加速”两倍、四倍或八倍————实际上就是让游戏世界中的一切都比真实时间快。当飞机接近目的地时，玩家可以将游戏速度恢复到正常速度，并进行实时游戏。
+飞行模拟器通常也是实时运行的。但是，通常会有很长一段时间是平直飞行的，在此期间不会发生任何有趣的事情；飞机只是从一个地方飞到另一个地方。为了缩短这些时间，许多游戏都提供了一种方法，可以将时间“加速”两倍、四倍或八倍——实际上就是让游戏世界中的一切都比真实时间快。当飞机接近目的地时，玩家可以将游戏速度恢复到正常速度，并进行实时游戏。
 
 > **Questions to Ask Yourself About the Temporal Dimension 关于时间维度的自问自答**
 >
@@ -340,7 +340,7 @@ Both decisions will significantly influence the player's experience of the game,
 
 Unless you're the lead artist for your game as well as its designer, you probably shouldn't—or won't be allowed to—do this alone. Your art team will have ideas of its own, and you should listen to those suggestions. The marketing department might insist on having a say as well. It's important, however, that you try to keep the style harmonious and consistent throughout your game. Too many games have been published in which different sections had wildly differing art styles because no one held and enforced a single overall vision.
 
-除非你是游戏的首席美术师兼设计师，否则你可能不应该————或者说不会被允许————独自完成这项工作。你的美术团队会有自己的想法，你应该听取他们的建议。市场营销部门也可能坚持要有发言权。但重要的是，你要尽量保持整个游戏风格的和谐一致。有太多的游戏在发布时，由于没有人坚持和执行统一的整体构想，导致不同部分的艺术风格大相径庭。
+除非你是游戏的首席美术师兼设计师，否则你可能不应该——或者说不会被允许——独自完成这项工作。你的美术团队会有自己的想法，你应该听取他们的建议。市场营销部门也可能坚持要有发言权。但重要的是，你要尽量保持整个游戏风格的和谐一致。有太多的游戏在发布时，由于没有人坚持和执行统一的整体构想，导致不同部分的艺术风格大相径庭。
 
 #### Overused Settings 过度使用的设置
 
@@ -362,7 +362,7 @@ Art and architecture, history and anthropology, literature and religion, clothin
 
 It's tempting to borrow from our closest visual neighbor, the movies, because in the movies someone has already done the visual design work for us. Blade Runner introduced the decaying urban future; Alien gave us disgustingly biological aliens rather than “little green men.” The problem with these looks is that they've already been borrowed from many, many times. You can use them as a quick-and-dirty backdrop if you don't want to put much effort into developing your world, and players will instantly recognize them and know what they're about. But to stand out from the crowd, consider other genres. Film noir, the Marx Brothers, John Wayne westerns, war movies from the World War II era, costume dramas of all periods... From the silliness of One Million Years B.C. to the Victorian elegance of Wilde, they're all grist for the mill.
 
-从我们的视觉近邻————电影中借鉴是很有诱惑力的，因为在电影中，已经有人为我们完成了视觉设计工作。《银翼杀手》引入了衰败的城市未来；《异形》让我们看到了令人作呕的生物外星人，而不是“小绿人”。这些造型的问题在于，它们已经被借鉴了很多很多次。如果你不想花太多精力来开发你自己的世界，你可以把它们作为一个速成的背景，玩家会立刻认出它们，并知道它们是关于什么的。但要想在众多对手中脱颖而出，可以考虑其他类型。黑色电影、马克思兄弟、约翰·韦恩西部片、二战时期的战争片、各时期的历史剧……从《大洪荒》的傻气到王尔德的维多利亚时代的优雅，它们都是有用的东西。
+从我们的视觉近邻——电影中借鉴是很有诱惑力的，因为在电影中，已经有人为我们完成了视觉设计工作。《银翼杀手》引入了衰败的城市未来；《异形》让我们看到了令人作呕的生物外星人，而不是“小绿人”。这些造型的问题在于，它们已经被借鉴了很多很多次。如果你不想花太多精力来开发你自己的世界，你可以把它们作为一个速成的背景，玩家会立刻认出它们，并知道它们是关于什么的。但要想在众多对手中脱颖而出，可以考虑其他类型。黑色电影、马克思兄弟、约翰·韦恩西部片、二战时期的战争片、各时期的历史剧……从《大洪荒》的傻气到王尔德的维多利亚时代的优雅，它们都是有用的东西。
 
 Television goes through its own distinct phases, and because it's even more fashion-driven than the movies, it is ripe for parody. The comedies of the 1950s and 1960s and the nighttime soaps of the 1970s and 1980s all had characteristic looks that seem laughable today but that are immediately familiar to most adult Americans. That is one potential problem, however: If you make explicit references to American popular culture, non-Americans and children might not get it. If your gameplay is good enough, though, it won't matter.
 
@@ -415,11 +415,11 @@ Most people think that the purpose of playing games is to have fun, but fun is a
 
 You might think that nobody in their right mind would want to explore these emotions, but other forms of entertainment—books, movies, television—do it all the time. And, in fact, that's the key: Those media don't provide only fun; they provide entertainment. People can be entertained in all sorts of ways. Movies with sad endings aren't “fun,” but they're still entertaining. Although we say that we make “games,” in fact, what we make is interactive entertainment. The potential of our medium to explore emotions and the human condition is much greater than the term fun game allows for.
 
-你可能会认为，正常人都不会想去探索这些情感，但其他娱乐形式————书籍、电影、电视————却一直在这样做。事实上，这才是关键所在：这些媒体不仅提供乐趣，还提供娱乐。人们可以通过各种方式获得娱乐。结局悲惨的电影并不“有趣”，但它们仍然具有娱乐性。虽然我们说我们制作的是“游戏”，但事实上，我们制作的是互动娱乐。作为一种媒介，它能探索情感和人类状况的潜力，远大于“有趣的游戏”一词所概括。
+你可能会认为，正常人都不会想去探索这些情感，但其他娱乐形式——书籍、电影、电视——却一直在这样做。事实上，这才是关键所在：这些媒体不仅提供乐趣，还提供娱乐。人们可以通过各种方式获得娱乐。结局悲惨的电影并不“有趣”，但它们仍然具有娱乐性。虽然我们说我们制作的是“游戏”，但事实上，我们制作的是互动娱乐。作为一种媒介，它能探索情感和人类状况的潜力，远大于“有趣的游戏”一词所概括。
 
 All that said, however, bear in mind that most publishers and players want “fun.” Too many inexperienced designers are actually more interested in showing how clever they are than in making sure the player has a good time; they place their own creative agenda before the player's enjoyment. As a designer, you must master the ability to create fun—light enjoyment—before you move on to more complex emotional issues. Unpleasant or painful emotions are a greater aesthetic challenge to address successfully, and they are commercially risky besides. For more on this topic, we recommend that you take a look at the book Creating Emotion in Games, by David Freeman (New Riders, 2003).
 
-尽管如此，请记住，大多数发行商和玩家想要的是“乐趣”。太多缺乏经验的设计师其实更想展示自己的聪明才智，而不是确保玩家玩得开心；他们把自己的创意议程置于玩家的乐趣之前。作为一名设计师，你必须先掌握创造乐趣的能力————轻度享受，然后再去解决更复杂的情感问题。表现令人不快或痛苦的情绪在美学上更具挑战性，而且在商业上也有风险。如需了解更多相关信息，我推荐你阅读大卫·弗里曼所著的《在游戏中创造情感》（New Riders, 2003）一书。
+尽管如此，请记住，大多数发行商和玩家想要的是“乐趣”。太多缺乏经验的设计师其实更想展示自己的聪明才智，而不是确保玩家玩得开心；他们把自己的创意议程置于玩家的乐趣之前。作为一名设计师，你必须先掌握创造乐趣的能力——轻度享受，然后再去解决更复杂的情感问题。表现令人不快或痛苦的情绪在美学上更具挑战性，而且在商业上也有风险。如需了解更多相关信息，我推荐你阅读大卫·弗里曼所著的《在游戏中创造情感》（New Riders, 2003）一书。
 
 > **Questions to Ask Yourself About the Emotional Dimension 关于情感维度的自问自答**
 >
@@ -434,7 +434,7 @@ All that said, however, bear in mind that most publishers and players want “fu
 
 The ethical dimension of a game world defines what right and wrong mean within the context of that world. At first glance, this might seem kind of silly—it's only a game, so there's no need to talk about ethics. But most games that have a setting, a fantasy component, also have an ethical system that defines how the player is supposed to behave. As designers, we are the gods of the game's world, and we define its morality. When we tell a player that he must perform certain actions to win the game, we are defining those actions as good or desirable. Likewise, when we say that the player must avoid certain actions, we are defining them as bad or undesirable. The players who come into the world must adopt our standards, or they will lose the game.
 
-游戏世界的伦理维度定义了该世界背景下的是非对错。乍一看，这可能有点傻————这只是个游戏，没必要谈伦理。但大多数游戏都有一个设定，一个幻想元素，同时也有一个伦理系统来定义玩家应该如何行为。作为设计者，我们是游戏世界的神，我们定义了游戏世界的道德。当我们告诉玩家必须做出某些行为才能赢得游戏时，我们就把这些行为定义为好的或是可取的。同样，当我们告诉玩家必须避免某些行为时，我们就把它们定义为不好或不可取的。来到这个世界的玩家必须采用我们的标准，否则他们就会输掉游戏。
+游戏世界的伦理维度定义了该世界背景下的是非对错。乍一看，这可能有点傻——这只是个游戏，没必要谈伦理。但大多数游戏都有一个设定，一个幻想元素，同时也有一个伦理系统来定义玩家应该如何行为。作为设计者，我们是游戏世界的神，我们定义了游戏世界的道德。当我们告诉玩家必须做出某些行为才能赢得游戏时，我们就把这些行为定义为好的或是可取的。同样，当我们告诉玩家必须避免某些行为时，我们就把它们定义为不好或不可取的。来到这个世界的玩家必须采用我们的标准，否则他们就会输掉游戏。
 
 In some respects, the ethical dimension of a game world is part of its culture, but we've broken it out for separate discussion because it poses special design problems. The ethical space of most game worlds is rather disjoint from ethics in the real world. Games allow, even require, you to do things that you can't do in the real world. The range of actions that the game world permits is typically narrower than in the real world (you can fly your F-15 fighter jet all you want, but you can't get out of the plane), but often the permitted actions are quite extreme: killing people, blowing things up, and so on.
 
@@ -446,7 +446,7 @@ On the whole, most games have simple ethics: clobber the bad guys, protect the g
 
 Black and White was a game that included a certain amount of moral decision making. So are some role-playing games—you can choose to play as an evil character who steals and kills indiscriminately, but the game becomes more difficult to win that way because other characters will refuse to cooperate with you and might even attack you on sight. Rather than impose a rule that says, “Immoral behavior is forbidden,” the game implements a rule that says, “You are free to make your own moral choices—but be prepared to live with the consequences!”. This is a more adult approach to the issue.
 
-《黑与白》是一款包含一定道德决策的游戏。有些角色扮演游戏也是如此————你可以选择扮演一个肆意偷盗和杀戮的邪恶角色，但这样游戏就更难获胜了，因为其他角色会拒绝与你合作，甚至会当场攻击你。游戏中的规则不是“禁止不道德行为”，而是“你可以自由做出道德选择，但要做好承担后果的准备！”。这是更成人化的处理方式。
+《黑与白》是一款包含一定道德决策的游戏。有些角色扮演游戏也是如此——你可以选择扮演一个肆意偷盗和杀戮的邪恶角色，但这样游戏就更难获胜了，因为其他角色会拒绝与你合作，甚至会当场攻击你。游戏中的规则不是“禁止不道德行为”，而是“你可以自由做出道德选择，但要做好承担后果的准备！”。这是更成人化的处理方式。
 
 All that said, we strongly discourage creating games that reward or even allow the player to do truly hateful things. One of the most repugnant games ever created was a cartridge for the Atari 2600 console called Custer's Revenge, in which the player's avatar, a cowboy, was supposed to try to rape a Native American woman who was tied to a pole. (The cartridge was independently published and was not supported or endorsed by Atari in any way.) This kind of thing is beyond bad taste; it's pathological. Games that expect a player to participate in sexual assault, torture, or child abuse will never sell well. They serve only to gratify their designers' sick fantasies while tarnishing the reputation of the rest of us. Although no one would condemn all cinema on the basis of one offensive movie, interactive entertainment is still a young-enough medium that it happens to us. Like it or not, what we each do individually affects us all collectively. The best way to avoid censorship is to exercise some judgment in the first place.
 
@@ -468,7 +468,7 @@ It's not part of our mission in this book to debate, much less offer an answer f
 
 To you, as a designer, however, we do have a few suggestions. The essence of most games is conflict, and conflict is often represented as violence in varying degrees of realism. Chess is a war game in which pieces are killed—removed from the board—but nobody objects to the “violence” of chess; it's entirely abstract. American football is a violent contact sport in which real people get injured all the time, but there are no serious efforts to ban football, either. The only way to remove violence from gameplay would be to prohibit most of the games in the world because most contain violence in some more-or-less abstract form. The issue is not violence, per se, but how violence is portrayed and the circumstances under which it is acceptable.
 
-不过，作为设计者，我们还是有一些建议。大多数游戏的本质都是冲突，而冲突往往在不同程度上以暴力的形式表现出来。国际象棋是一种战争游戏，在这种游戏中，棋子会被杀死————从棋盘上被移走————但没有人反对国际象棋的“暴力”；它完全是抽象的。美式橄榄球是一项暴力接触运动，经常有真人受伤，但也没有人认真努力地禁止橄榄球。要想从游戏中消除暴力，唯一的办法就是禁止世界上大多数游戏，因为大多数游戏都以某种或多或少的抽象形式包含暴力。问题不在于暴力本身，而在于如何描绘暴力以及在何种情况下可以接受暴力。
+不过，作为设计者，我们还是有一些建议。大多数游戏的本质都是冲突，而冲突往往在不同程度上以暴力的形式表现出来。国际象棋是一种战争游戏，在这种游戏中，棋子会被杀死——从棋盘上被移走——但没有人反对国际象棋的“暴力”；它完全是抽象的。美式橄榄球是一项暴力接触运动，经常有真人受伤，但也没有人认真努力地禁止橄榄球。要想从游戏中消除暴力，唯一的办法就是禁止世界上大多数游戏，因为大多数游戏都以某种或多或少的抽象形式包含暴力。问题不在于暴力本身，而在于如何描绘暴力以及在何种情况下可以接受暴力。
 
 Games get into political trouble when they have a close visual similarity to the real world but an ethical dimension that is strongly divergent from the real world. Kingpin was a game in which the player was encouraged to beat prostitutes to death with a crowbar, with bloodily realistic graphics. Not surprisingly, it earned a lot of criticism. On the other hand, Space Invaders involved shooting hundreds of aliens, but it was so visually abstract that nobody minded. In other words, the more a game resembles reality visually, the more its ethical dimension should resemble reality as well, or it's likely to make people upset. If you want to make a game in which the player is encouraged to shoot anything that moves, you're most likely to stay out of trouble if those targets are nonhuman and just quietly disappear rather than breaking apart into bloody chunks. Tie your ethical realism to your visual realism.
 
@@ -493,7 +493,7 @@ Ultimately, the violence in a game should serve the gameplay. If it doesn't, the
 > * What range of choices am I offering my player? Are there both violent and nonviolent ways to accomplish something? Is the player rewarded in any way for minimizing casualties, or is he punished for ignoring them?\
 >   我为玩家提供了哪些选择？是否有暴力和非暴力两种完成任务的方式？玩家是否会因为尽量减少伤亡而得到奖励，或者会因为忽视伤亡而受到惩罚？
 > * In many games, the end—winning the game—justifies any means that the game allows. Do I want to define the victory conditions in such a way that not all means are acceptable?\
->   在许多游戏中，游戏的最终目的————赢得游戏————证明游戏所允许的任何手段都是正确的。我是否想以并非所有手段都可接受的方式来定义胜利条件？
+>   在许多游戏中，游戏的最终目的——赢得游戏——证明游戏所允许的任何手段都是正确的。我是否想以并非所有手段都可接受的方式来定义胜利条件？
 > * Are any other ethical questions present in my game world? Can my player lie, cheat, steal, break promises, or double-cross anyone? Can he abuse, torture, or enslave anyone? Are there positive or negative consequences for these actions?\
 >   我的游戏世界中是否还存在其他道德问题？我的玩家可以撒谎、欺骗、偷窃、违背承诺或出卖他人吗？他可以虐待、折磨或奴役他人吗？这些行为会产生积极或消极的后果吗？
 > * Does my world contain any ethical ambiguities or moral dilemmas? How does making one choice over another affect the player, the plot, and the gameplay?\
@@ -509,7 +509,7 @@ As we said in Chapter 2, games can be divided very roughly into two categories, 
 
 Players and game reviewers often talk about realism as a quality of an entire game, but, in fact, it is a quality that differs in individual areas. Many games have highly realistic graphics but unrealistic physics, or realistic economic models but unrealistic user interfaces. For example, a good many first-person shooters accurately model the performance characteristics of a variety of weapons—their rate of fire, size of ammunition clips, accuracy, and so on—but enable the player to carry about 10 of them at once with no reduction in speed or mobility. Therefore, realism is not a single dimension of a game world, but a multivariate quality that applies to all parts of the game and everything in it. (If you're mathematically inclined, think of realism as a vector over every aspect of the game, with values ranging from 0, entirely abstract, to 1, entirely realistic. However, no value will ever equal 1 because nothing about a game is ever entirely realistic—if it were, it would be life, not a game.)
 
-玩家和游戏评论员经常把逼真度作为整个游戏的品质来谈论，但事实上，真实感是一种在个别领域存在差异的品质。许多游戏的画面非常逼真，但物理效果却不真实，或者经济模型逼真，但用户界面却不真实。例如，许多第一人称射击游戏都精确地模拟了各种武器的性能特征————它们的射速、弹夹大小、精确度等等，但玩家却可以同时携带大约 10 种武器，而速度和机动性却丝毫不减。因此，真实感并不是游戏世界的一个单一维度，而是一种适用于游戏所有部分和所有事物的多元质量。(如果用数学语言描述，可以将真实感视为游戏各方面的一个向量，其值从 0（完全抽象）到 1（完全真实）不等。但是，没有一个值能等于 1，因为游戏中没有任何一个方面是完全真实的————如果是这样，那就不是游戏，而是生活了）。
+玩家和游戏评论员经常把逼真度作为整个游戏的品质来谈论，但事实上，真实感是一种在个别领域存在差异的品质。许多游戏的画面非常逼真，但物理效果却不真实，或者经济模型逼真，但用户界面却不真实。例如，许多第一人称射击游戏都精确地模拟了各种武器的性能特征——它们的射速、弹夹大小、精确度等等，但玩家却可以同时携带大约 10 种武器，而速度和机动性却丝毫不减。因此，真实感并不是游戏世界的一个单一维度，而是一种适用于游戏所有部分和所有事物的多元质量。(如果用数学语言描述，可以将真实感视为游戏各方面的一个向量，其值从 0（完全抽象）到 1（完全真实）不等。但是，没有一个值能等于 1，因为游戏中没有任何一个方面是完全真实的——如果是这样，那就不是游戏，而是生活了）。
 
 The realistic/abstract dichotomy is mostly useful as a starting point when thinking about what kind of a game you want to create. If you're designing a cartoony action game such as Banjo-Kazooie, you know that it's going to be mostly abstract. As you design elements of the game, you'll need to ask yourself how much realism you want to include. Can your avatar be hurt when he falls long distances? Is there a limit to how much he can carry at once? Do Newtonian physics apply to him, or can he change directions in midair?
 
@@ -517,7 +517,7 @@ The realistic/abstract dichotomy is mostly useful as a starting point when think
 
 On the other hand, if you're designing a game with a presumption of realism—a vehicle or sports simulation, for example—then you need to think about it from the other direction. What aspects of the real world are you going to abstract? Most modern fighter aircraft have literally hundreds of controls; that's why only a special group of people can be fighter pilots. To make a fighter simulation accessible to the general public, you'll have to remove or simplify a lot of those controls. Similarly, a fighter jet's engine is so powerful that certain maneuvers can knock the pilot unconscious or even rip the plane apart. Are you going to simulate these limitations accurately, or make the game a little more abstract by not requiring the player to think about them?
 
-另一方面，如果你在设计一款以现实主义为前提的游戏————例如汽车或体育模拟游戏————那么你就需要从另一个方向来考虑。你要抽象现实世界的哪些方面？大多数现代战斗机都有数以百计的控制器；这就是为什么只有特殊人群才能成为战斗机飞行员。要想让普通大众也能模拟战斗机，就必须移除或简化其中的许多控制装置。同样，战斗机的发动机功率非常大，某些机动动作会将飞行员击昏，甚至将飞机撕裂。你是要准确模拟这些限制，还是让游戏变得抽象一些，不需要玩家考虑这些限制？
+另一方面，如果你在设计一款以现实主义为前提的游戏——例如汽车或体育模拟游戏——那么你就需要从另一个方向来考虑。你要抽象现实世界的哪些方面？大多数现代战斗机都有数以百计的控制器；这就是为什么只有特殊人群才能成为战斗机飞行员。要想让普通大众也能模拟战斗机，就必须移除或简化其中的许多控制装置。同样，战斗机的发动机功率非常大，某些机动动作会将飞行员击昏，甚至将飞机撕裂。你是要准确模拟这些限制，还是让游戏变得抽象一些，不需要玩家考虑这些限制？
 
 As we have said, every design decision you make must serve the entertainment value of the game. In addition, every design decision must serve your goals for the game's overall degree of realism. Some genres demand more realism than others. It's up to you to establish how much realism you want and in what areas. During the design process, you must continually monitor your decisions to see if they are meeting your goals.
 
@@ -527,7 +527,7 @@ As we have said, every design decision you make must serve the entertainment val
 
 Saving a game takes a snapshot of a game world and all its particulars at a given instant in time and stores them away somewhere. The player can then load the snapshot, return to that instant in the game world, and replay the game from that point. This might seem like a fairly straightforward thing to offer the player, but, in fact, it has consequences both for the player's experience of the game—the story he's creating as he plays—and for the way the player actually plays. Saving and restoring a game is technologically easy, and it's an essential tool for testing and debugging, so it's often slapped in as a feature without much thought about its effect on gameplay. As designers, though, it's our job to think about anything that affects gameplay or the player's experience of the game, and that includes the save-game feature.
 
-保存游戏是将游戏世界及其所有细节在某一特定时刻的快照保存到某个地方。然后，玩家就可以加载快照，回到游戏世界中的那个瞬间，并从那时起重新玩游戏。这看起来似乎是为玩家提供了一件相当简单的事情，但事实上，它对玩家的游戏体验————玩家在游戏过程中创造的故事————以及玩家实际玩游戏的方式都有影响。保存和还原游戏在技术上非常容易，而且是测试和调试的必备工具，因此它经常被当作一项功能来使用，而不会过多考虑其对游戏性的影响。但作为设计者，我们的职责是考虑任何会影响游戏性或玩家游戏体验的因素，这其中也包括保存游戏功能。
+保存游戏是将游戏世界及其所有细节在某一特定时刻的快照保存到某个地方。然后，玩家就可以加载快照，回到游戏世界中的那个瞬间，并从那时起重新玩游戏。这看起来似乎是为玩家提供了一件相当简单的事情，但事实上，它对玩家的游戏体验——玩家在游戏过程中创造的故事——以及玩家实际玩游戏的方式都有影响。保存和还原游戏在技术上非常容易，而且是测试和调试的必备工具，因此它经常被当作一项功能来使用，而不会过多考虑其对游戏性的影响。但作为设计者，我们的职责是考虑任何会影响游戏性或玩家游戏体验的因素，这其中也包括保存游戏功能。
 
 Saving a game stores not only the player's location in the game, but also any customizations he might have made along the way. In Michelle Kwan's Figure Skating Championship, for example, the player could customize the body type, skin tone, hair color and style, and costume of the skater. The player could even load in a picture of her own face. The more freedom the player has to customize the avatar, the more data must be saved. Until recently, this has placed a limit on the richness of games for console machines. Games for personal computers could almost always be saved because PCs had disk drives available, but the feature came more slowly to console games. The oldest console machines, which simply emulated arcade machines, often had no way of saving games because they had no storage medium. If the player wanted to leave a game and come back to it later, he could only pause it and leave the console turned on. As a result, most of the games for these machines tended to feel a lot like arcade games as well. They were not designed to be played for a little while and then returned to a day or two later; they had to be played through in one sitting or abandoned.
 
@@ -535,7 +535,7 @@ Saving a game stores not only the player's location in the game, but also any cu
 
 Now that the Microsoft Xbox includes a hard disk drive, console machines can finally save games just as complex as personal computer games. This doesn't necessarily mean that Xbox games will be just like PC games—there are still important differences between consoles and PCs—but one significant barrier to rich gaming on consoles has been removed.
 
-现在，微软 Xbox 配备了硬盘驱动器，游戏机终于可以像个人电脑游戏一样复杂地保存游戏了。这并不一定意味着 Xbox 游戏将与个人电脑游戏一样————游戏机与个人电脑之间仍然存在重要差异，但游戏机上丰富游戏的一个重要障碍已经消除。
+现在，微软 Xbox 配备了硬盘驱动器，游戏机终于可以像个人电脑游戏一样复杂地保存游戏了。这并不一定意味着 Xbox 游戏将与个人电脑游戏一样——游戏机与个人电脑之间仍然存在重要差异，但游戏机上丰富游戏的一个重要障碍已经消除。
 
 ### Reasons for Saving a Game 保存游戏的原因
 
@@ -616,7 +616,7 @@ We believe that these arguments against saving are spurious and are the sign of 
 
 If a player continuously reloads a game to avoid a random event or to solve some problem by trial and error rather than skill or intelligence, he is, in effect, cheating at solitaire. As the game's designer, you might not like it, but we don't feel that that is sufficient reason for denying the player the chance to save the game—he might need to save it for perfectly legitimate reasons. After all, cheating at solitaire says more about the player's character than anything else; if he wants to ruin the gameplay for himself, that's his business. Most games now recognize that players want—and even need—to cheat sometimes by offering cheat codes anyway.
 
-如果玩家不断重新加载游戏以避免随机事件，或通过反复试错而非技巧或智慧来解决某些问题，那么他就像是在纸牌游戏中作弊。作为游戏的设计者，你可能不喜欢这样，但我们认为这不足以成为拒绝玩家保存游戏的理由————他可能出于完全正当的理由需要保存游戏。毕竟，在纸牌游戏中作弊更能说明玩家的性格；如果他想毁掉游戏，那是他的事。现在，大多数游戏都认识到玩家有时想要甚至需要作弊，因此都会提供作弊码。
+如果玩家不断重新加载游戏以避免随机事件，或通过反复试错而非技巧或智慧来解决某些问题，那么他就像是在纸牌游戏中作弊。作为游戏的设计者，你可能不喜欢这样，但我们认为这不足以成为拒绝玩家保存游戏的理由——他可能出于完全正当的理由需要保存游戏。毕竟，在纸牌游戏中作弊更能说明玩家的性格；如果他想毁掉游戏，那是他的事。现在，大多数游戏都认识到玩家有时想要甚至需要作弊，因此都会提供作弊码。
 
 The bottom line is that it's the player's machine. It's not fair to penalize him just because he has to go to the bathroom or because it's now his little brother's turn to play. Whether you implement save slots, quick-save, checkpoints, or continuous-save is up to you; there are advantages and disadvantages to each. But we strongly believe that players have a fundamental right to be able to stop playing when and where they want, without losing all that they have accomplished.
 

@@ -6,11 +6,11 @@ Stories are as old as communication itself. Since the first protohominids daubed
 
 Computer games generally have some sort of story attached to them as well. Sometimes it is a one-paragraph backstory. In other cases, it's a fully integrated story line—where the game is the story.
 
-电脑游戏一般也会附带一些故事。有时只是一段背景故事。在其他情况下，它是一个完全整合的故事线————游戏就是故事。
+电脑游戏一般也会附带一些故事。有时只是一段背景故事。在其他情况下，它是一个完全整合的故事线——游戏就是故事。
 
 In this chapter, we discuss some guidelines for constructing compelling stories and integrating them into game designs. To some extent, the importance of story integration is dependent on the type of game you are designing: Some games require more integration than others. For example, a simple game such as Space Invaders requires only a one-liner: "Aliens are invading Earth, and only you can stop them." Why? It doesn't matter. The player's imagination takes care of that. At the other end of the spectrum, adventure games such as Grim Fandango and Discworld Noir have a detailed and involving story line, as convoluted and structured as any novel. And, of course, we have the middle range—games in which story is important but is not the overriding gameplay feature. This concept is illustrated in Figure 4.1. As we progress across the story spectrum from left to right, the importance of the story increases. Examples of games such as this include Half-Life and Luigi's Mansion (shown in Figure 4.2).
 
-在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏————在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括《半条命》和《路易吉洋楼》（如图 4.2 所示）。
+在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏——在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括《半条命》和《路易吉洋楼》（如图 4.2 所示）。
 
 Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
@@ -40,7 +40,7 @@ The main focus of story-form research has been based on the concept of the monom
 
 Previously, we mentioned the story spectrum as applied to games. At one end of the spectrum, we have the light backstory—usually a brief sentence or paragraph that sets the theme for a game. This is usually fairly trivial stuff, so we will not concern ourselves with it much. However, toward the other end of the spectrum, the importance of the story increases, culminating in those games in which the story is the game. In these cases, you will find the recurring elements of the monomyth, and it is in these cases that the structure and definition of the story is most important. Hence, it is this area that we will focus on.
 
-之前，我们提到了应用于游戏的故事光谱。在这个光谱的一端，我们有一个简单的背景故事————通常是简短的一句或一段话，为游戏设定主题。这通常是相当微小的东西，所以我们不会过多关注。然而，到了另一个极端，故事的重要性就会增加，在那些故事就是游戏的游戏中达到顶峰。在这种情况下，你会发现单一神话的重复元素，而在这种情况下，故事的结构和定义是最重要的。因此，我们将重点关注这一领域。
+之前，我们提到了应用于游戏的故事光谱。在这个光谱的一端，我们有一个简单的背景故事——通常是简短的一句或一段话，为游戏设定主题。这通常是相当微小的东西，所以我们不会过多关注。然而，到了另一个极端，故事的重要性就会增加，在那些故事就是游戏的游戏中达到顶峰。在这种情况下，你会发现单一神话的重复元素，而在这种情况下，故事的结构和定义是最重要的。因此，我们将重点关注这一领域。
 
 Don't worry, though: All the concepts we discuss are equally applicable to the lighter end of the story spectrum. It's just that they are not as important for the success (or failure) of the game. If a game has a bad backstory, and the backstory has little impact on the game, then no one is really going to care. In fact, a number of games pride themselves on the absurdity of their (either real or implied) backstory. Consider Sega's Super Monkey Ball. The player's avatar is a monkey. In a ball. Collecting bananas. And as far as we can tell, that is the extent of the story, which is fine for that particular game. Any attempt to flesh it out further would be extraneous effort.
 
@@ -98,7 +98,7 @@ The theme of a story is the philosophical idea that the author is trying to expr
 
 What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
-什么是我们所说的“单一神话”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单一神话，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型————那些出现在所有文化和时代中的人物————是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
+什么是我们所说的“单一神话”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单一神话，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型——那些出现在所有文化和时代中的人物——是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
 
 {% hint style="info" %}
 译者注：hero，根据上下文来确定它翻译为“英雄”或是“主人公”，“主角”。如果提到了英勇行为、高尚品质、非凡勇气时，就翻译为英雄。如果是分析小说、电影或游戏情节时，就翻译为“主人公”或者“主角”。
@@ -110,7 +110,7 @@ What is this construct that we are calling the monomyth? In 1949, Joseph Campbel
 
 “无论我们是带着超然的兴致聆听[一位]……刚果巫医的讲述，还是带着修养的热情阅读神秘主义者老子诗篇的薄薄译文；无论我们是时不时地敲开阿奎那论证的坚硬外壳，还是突然捕捉到[一个]……爱斯基摩童话的闪亮含义：我们发现的永远是一个千变万化却又奇迹般恒定的故事，伴随着一个具有挑战性的持续暗示，即还有更多的东西有待我们去体验，远超已知或已被讲述的一切。”
 
-————约瑟夫·坎贝尔，《千面英雄》，1949 年
+——约瑟夫·坎贝尔，《千面英雄》，1949 年
 
 Despite the excellence of Campbell's book, it can be somewhat heavy going, and for all but the most story-intensive games, it could be considered overkill. The Hero with a Thousand Faces is recommended as an essential addition to the game designer's reference library. For the purposes of this chapter, we want to make use of a slightly lighter analysis, one that has been updated with modern considerations and that presents the concepts in a clearer fashion.
 
@@ -142,7 +142,7 @@ With that in mind, let's take a look at this universal story form in more detail
 
 Note that not all games use these structures for their story line. Some use just a few of them and miss out on key features (and, in some cases, their story usually feels somewhat unsatisfactory). For others, some of the steps are inappropriate and would add nothing to the game. For example, many games gloss over the introduction to the ordinary world and the hero's refusal of the call. Sometimes that is ideal—the player actually wants to be a gung-ho hero who is ready for anything, no matter how unrealistic that might be. There is no law, written or unwritten, that says that games have to conform to reality. They just have to be self-consistent.
 
-请注意，并非所有游戏的故事线都采用这些结构。有些游戏只使用了其中的几个步骤，却遗漏了一些关键特征（在某些情况下，它们的故事通常会让人感觉有些不尽人意）。对于其他游戏来说，有些步骤并不合适，对游戏毫无益处。例如，许多游戏对普通世界的介绍和主人公拒绝召唤的过程一笔带过。有时，这是理想的做法————玩家实际上想成为一个勇往直前的英雄，做好一切准备，不管这有多么不现实。没有任何成文或不成文的法律规定游戏必须符合现实。它们只需要自洽即可。
+请注意，并非所有游戏的故事线都采用这些结构。有些游戏只使用了其中的几个步骤，却遗漏了一些关键特征（在某些情况下，它们的故事通常会让人感觉有些不尽人意）。对于其他游戏来说，有些步骤并不合适，对游戏毫无益处。例如，许多游戏对普通世界的介绍和主人公拒绝召唤的过程一笔带过。有时，这是理想的做法——玩家实际上想成为一个勇往直前的英雄，做好一切准备，不管这有多么不现实。没有任何成文或不成文的法律规定游戏必须符合现实。它们只需要自洽即可。
 
 The steps in Vogler's hero's journey are as follows:
 
@@ -219,11 +219,11 @@ The "[Ordinary World](chapter-4.md#the-ordinary-world-pu-tong-de-shi-jie)" secti
 
 This is where you introduce the hero to the player. You want to make the player identify with the hero. This is crucial—if you fail to do this, there is no compunction to play the game. There are many ways to do this, but probably the most effective way to get the player to identify with the hero is to play on the player's emotions.
 
-这是向玩家介绍主人公的地方。你要让玩家认同主人公。这一点至关重要————如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同主人公的最有效方法可能就是利用玩家的情感。
+这是向玩家介绍主人公的地方。你要让玩家认同主人公。这一点至关重要——如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同主人公的最有效方法可能就是利用玩家的情感。
 
 We discuss non–story-based methods of creating the bond between the player and the hero in the next chapter. For now, let's consider how you can use the story to accomplish the same task. Often in classical literature, the hero has a flaw or some mental or spiritual wound that the reader can empathize with. This doesn't necessarily mean that the hero needs to be an inmate of a mental asylum (although some games have used just that mechanism—American McGee's Alice, shown in Figure 4.4, was set in the fantasies of a female patient).
 
-我们将在下一章讨论在玩家和主人公之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制————图 4.4 中所示的《爱丽丝梦游魔境》就是以一位女病人的幻想为背景的）。
+我们将在下一章讨论在玩家和主人公之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制——图 4.4 中所示的《爱丽丝梦游魔境》就是以一位女病人的幻想为背景的）。
 
 Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
@@ -253,7 +253,7 @@ Figure 4.5. Outcast. 图4.5. 《流放者》
 
 The call to adventure is often the catalyst or trigger that initiates the story line. It can take many forms, and we detail some of those here. In a few stories, the hero receives multiple calls. It then becomes the task of the hero to decide how to prioritize these calls—which to answer first or which to reject outright. In some cases, these priorities will already have been decided—or at least hinted at—by the designer.
 
-冒险的召唤往往是故事线的催化剂或触发器。它可以有多种形式，我们将在这里详细介绍其中的一些。在一些故事中，主人公会接到多种召唤。然后，主人公的任务就是决定如何安排这些召唤的优先顺序————先回答哪些召唤，还是直接拒绝哪些召唤。在某些情况下，设计者已经决定了这些优先顺序，或者至少已经暗示了这些优先顺序。
+冒险的召唤往往是故事线的催化剂或触发器。它可以有多种形式，我们将在这里详细介绍其中的一些。在一些故事中，主人公会接到多种召唤。然后，主人公的任务就是决定如何安排这些召唤的优先顺序——先回答哪些召唤，还是直接拒绝哪些召唤。在某些情况下，设计者已经决定了这些优先顺序，或者至少已经暗示了这些优先顺序。
 
 Ultima VII epitomizes this concept. The avatar really leaves his own world through an obelisk into the fictional world of Brittania. In a sense, there are two dimensions to the fiction in the game because the "real world" is the initial setting of a fictional story. This extra dimension adds tremendously to the game experience, by adding yet another level to the suspension of disbelief. When playing Ultima VII, the player is fully engaged in the game world and the character. When players occasionally do think about the "real world," it is often thoughts of the avatar's "real world," not their own. They empathize with the avatar's wish to return home. In other words, they're sympathetic to the plight of a fictional game character!
 
@@ -277,7 +277,7 @@ A far safer and more socially acceptable form of temptation is greed. (You've go
 
 Sometimes the call comes in the form of a message from a herald, a character archetype. The herald does not have to be an ally of the hero. In fact, the character acting as the herald might reappear as another character archetype later in the game, such as the mentor or the shadow. Examples of the use of the herald to deliver the call are present in many games. The specific example we will use here is Lionhead's Black and White. In this game, two mentor characters representing the good and evil sides of the player vie for the player's attention. Both characters call the player to adventure—one on the side of good, and one on the side of evil.
 
-有时，召唤会以预言家（一种人物原型）信息的形式出现。预言者不一定是主人公的盟友。事实上，充当传令者的角色可能会在游戏后期作为另一种角色原型再次出现，例如导师或影子。许多游戏中都有使用传令官传递召唤的例子。我们在此使用的具体例子是 Lionhead 的《黑与白》。在这款游戏中，代表玩家善恶两面的两个导师角色争夺玩家的注意力。两个角色都号召玩家去冒险————一个站在善的一方，一个站在恶的一方。
+有时，召唤会以预言家（一种人物原型）信息的形式出现。预言者不一定是主人公的盟友。事实上，充当传令者的角色可能会在游戏后期作为另一种角色原型再次出现，例如导师或影子。许多游戏中都有使用传令官传递召唤的例子。我们在此使用的具体例子是 Lionhead 的《黑与白》。在这款游戏中，代表玩家善恶两面的两个导师角色争夺玩家的注意力。两个角色都号召玩家去冒险——一个站在善的一方，一个站在恶的一方。
 
 In other situations, the call to adventure isn't an explicit call. It can be the result of a void felt by the hero due to a lack of or a need for something. What that "something" is can be the choice of the game designer. For example, in Planescape: Torment, the call for adventure is lack of knowledge on the part of the hero. The fact that he is referred to as the Nameless One indicates the magnitude of the call.
 
@@ -291,7 +291,7 @@ The call to adventure does not need to be optional. The hero isn't always given 
 
 In the traditional monomyth form, the next stage after the call is the refusal. This is the representation of the hero rejecting the offer to leave her comfortable ordinary world. It does not have to be portrayed as a grandiose event—often the refusal amounts to little more than a quiet moment of personal doubt or a brief rebellious outburst on the part of the hero.
 
-在传统的单一神话结构中，呼唤之后的下一个阶段是拒绝。这个阶段表现了主人公拒绝离开她舒适的平凡世界的提议。这种拒绝并不一定表现为一个宏大的事件————通常，拒绝仅仅表现为主人公内心片刻的疑虑，或者短暂的叛逆情绪爆发。
+在传统的单一神话结构中，呼唤之后的下一个阶段是拒绝。这个阶段表现了主人公拒绝离开她舒适的平凡世界的提议。这种拒绝并不一定表现为一个宏大的事件——通常，拒绝仅仅表现为主人公内心片刻的疑虑，或者短暂的叛逆情绪爆发。
 
 For a computer game, the call is usually not refused—especially if there is only one call. After all, if that were to occur, there would be no game. That is not to say that the refusal is never issued. Usually, however, it forms part of the initial background story, as is the case with Cutter Slade in Outcast. Cutter's response to the plea for assistance from the G-men is to turn away, slug back a shot of whiskey, and growl, "I'm retired." As an example of drama, this is far more involving than if he'd just leapt to attention and replied, "Yes sir, let's go." It's more believable and compelling, leaving the player wondering, "Will he or won't he?" even though we know he will. More important, it sets the stage for conflict. And conflict, as we all know, is interesting.
 
@@ -307,7 +307,7 @@ Any games that offer multiple quests and subquests allow for multiple refusals. 
 
 In the case of conflicting calls—when the hero is given two or more conflicting calls simultaneously—a dynamic tension automatically is created. The player has to decide which (if any) call to follow. The classic case is the choice between good and evil. In Black and White, the player is given the choice to be an evil god or a good god (and anything in between). The player's actions determine which call he has refused.
 
-在冲突召唤的情况下————当主人公同时接到两个或更多冲突任务时————活跃紧张气氛就会自动产生。玩家必须决定听从哪种召唤（如果有的话）。最典型的例子就是在善与恶之间做出选择。在《黑与白》中，玩家可以选择成为邪恶的神或善良的神（以及介于两者之间的任何角色）。玩家的行为决定了他拒绝哪种召唤。
+在冲突召唤的情况下——当主人公同时接到两个或更多冲突任务时——活跃紧张气氛就会自动产生。玩家必须决定听从哪种召唤（如果有的话）。最典型的例子就是在善与恶之间做出选择。在《黑与白》中，玩家可以选择成为邪恶的神或善良的神（以及介于两者之间的任何角色）。玩家的行为决定了他拒绝哪种召唤。
 
 In some cases, refusal of the call can be seen as a positive action. The call to adventure can be a negative thing. For example, the hero might be offered a quest that involves partaking in some form of action that would result in unpleasant consequences. In the case of a role-playing game based on the familiar Advanced Dungeons and Dragons rules, a lawful good hero might be asked to perform an activity that would conflict with his alignment, such as killing a household of innocents. If the player sees it as advantageous in the long run to maintain his alignment, it would be wise to refuse this quest.
 
@@ -342,7 +342,7 @@ To enter the special world, the hero must mentally prepare, garner her courage, 
 为了进入特殊的世界，主人公必须做好心理准备，鼓足勇气，并通过某种象征性的准备工作，来自信地进入陌生而未知的历险。主人公通常会表示出疑虑、担忧和恐惧，但无论如何都会跨过门槛。此刻正是通过营造关切感来加深玩家与主人公联系的好时机。此时，门槛守护者原型往往会发挥作用。这可以表现为主人公自己的疑虑、同伴的恐惧、主人公想要打败的敌人发出的警告，或者这些因素的任意组合。
 
 {% hint style="info" %}
-译者注：loin girding，古代近东人穿着束腰外衣，当男人从事苦役火打仗时，束腰外衣的下摆常常会妨碍。因此，他们会把下摆卷起，将其塞入腰带或打结以使其远离地面。因此，“束紧腰”就是告诉他准备好艰苦工作或战斗。
+译者注：loin girding，古代近东人穿着束腰外衣，当男人从事苦役或者打仗时，束腰外衣的下摆常常会妨碍。因此，他们会把下摆卷起，将其塞入腰带或打结以使其远离地面。因此，“束紧腰”就是告诉他准备好艰苦工作或战斗。
 {% endhint %}
 
 The opening scene of Midway's Pac-Land (shown in Figure 4.6) shows Pac-Man leaving the ordinary world of his home and setting out of a strange road full of danger and mystery. The act of leaving the house and heading off through the dangerous ghost-infested path is the crossing of the first threshold.
@@ -365,7 +365,7 @@ The crossing of the threshold is the first test. In this phase, many more simila
 
 In this phase, the hero ventures forth into the special world and meets many of the character archetypes on the journey. For the majority of games, the character archetypes that the player meets are either allies, shadows, or tricksters. At the left edge of the story spectrum, you would expect to meet mainly shadows. For example, in Space Invaders, the player is alone against the alien onslaught—a hero surrounded by shadow.
 
-在这一阶段，主人公会冒险进入特殊的世界，并在旅途中遇到许多角色原型。在大多数游戏中，玩家遇到的角色原型要么是盟友，要么是阴影，要么是骗子。在故事光谱的左边缘，你会遇到的主要是阴影。例如，在《太空入侵者》中，玩家孤身一人对抗外星入侵者————一个被阴影包围的英雄。
+在这一阶段，主人公会冒险进入特殊的世界，并在旅途中遇到许多角色原型。在大多数游戏中，玩家遇到的角色原型要么是盟友，要么是阴影，要么是骗子。在故事光谱的左边缘，你会遇到的主要是阴影。例如，在《太空入侵者》中，玩家孤身一人对抗外星入侵者——一个被阴影包围的英雄。
 
 {% hint style="info" %}
 译者注：阴影代表主人公必须克服的障碍或敌人，它们是英雄旅程中的对立面。阴影可以是具体的敌人，也可以是主人公必须面对的内心恐惧或挑战。骗子，这些角色通常不按常规出牌，可能会误导主人公，或者以某种方式测试主人公的判断力和决策能力。
@@ -373,7 +373,7 @@ In this phase, the hero ventures forth into the special world and meets many of 
 
 Slightly more complex games often provide allies, such as the fairies at the end of each Pac-Land level. In arcade-style games—those that place more emphasis on the action than the story—these are likely to be the only archetypes present. The player will go through a series of tests with successively more powerful shadows, to be given a brief respite when an ally occasionally shows up to replenish the hero's spirit and resolve. In some cases, the player might even encounter the trickster and shape-shifter archetypes in the form of false allies who turn out to be shadows after all.
 
-稍微复杂一点的游戏通常会提供盟友，比如《吃豆人世界》每个关卡最后的仙女。在街机风格的游戏中————那些更强调动作而非剧情的游戏————这些可能是唯一的原型。玩家将经历一连串的考验，面对的是一个个越来越强大的阴影，偶尔会有一个盟友出现，补充英雄的精神和决心，让玩家得到短暂的喘息。在某些情况下，玩家甚至会遇到骗子和变形怪的原型，他们会假扮成盟友，但最终却变成了阴影。
+稍微复杂一点的游戏通常会提供盟友，比如《吃豆人世界》每个关卡最后的仙女。在街机风格的游戏中——那些更强调动作而非剧情的游戏——这些可能是唯一的原型。玩家将经历一连串的考验，面对的是一个个越来越强大的阴影，偶尔会有一个盟友出现，补充英雄的精神和决心，让玩家得到短暂的喘息。在某些情况下，玩家甚至会遇到骗子和变形怪的原型，他们会假扮成盟友，但最终却变成了阴影。
 
 In a more complex game, where story is the biggest consideration, you would expect to see many more character archetypes during this phase of the game. For example, a role-playing game with a well-developed story line would be expected to use all of the major character archetypes many times over and in varying combinations.
 
@@ -381,7 +381,7 @@ In a more complex game, where story is the biggest consideration, you would expe
 
 The main purpose of this phase in the story is to test and prepare the hero for the grand ordeal that lies ahead. Here, the hero is expected to learn the unfamiliar rules and customs of the special world. During this succession of increasingly difficult tests, the hero forges alliances and makes enemies. Depending on the nature of the game, the opportunities available for the hero to actually make enemies or allies could be limited or predestined, as is the case with most games; the majority of characters the hero meets are already enemies, and allies are few and far between. This is not necessarily a disadvantage—an element can still add flavor to a game, even if it is noninteractive.
 
-故事中这一阶段的主要目的是考验主人公，让他为即将到来的巨大考验做好准备。在这一阶段，英雄要学习陌生的特殊世界的规则和习俗。在这一连串难度越来越大的考验中，英雄会结盟，也会树敌。根据游戏的性质，主人公真正结成敌人或盟友的机会可能很有限，也可能是命中注定的，大多数游戏都是如此；主人公遇到的大多数角色都已经是敌人，而盟友则少之又少。这并不一定是一个缺点————即使是非互动元素，也能为游戏增添风味。
+故事中这一阶段的主要目的是考验主人公，让他为即将到来的巨大考验做好准备。在这一阶段，英雄要学习陌生的特殊世界的规则和习俗。在这一连串难度越来越大的考验中，英雄会结盟，也会树敌。根据游戏的性质，主人公真正结成敌人或盟友的机会可能很有限，也可能是命中注定的，大多数游戏都是如此；主人公遇到的大多数角色都已经是敌人，而盟友则少之又少。这并不一定是一个缺点——即使是非互动元素，也能为游戏增添风味。
 
 ### The Approach to the Innermost Cave 通往最深处洞穴的道路
 
@@ -391,7 +391,7 @@ After the succession of tests, the hero approaches the innermost cave. This is t
 
 The difference between these two alternatives is that the first—where the reward is close to the end of the game—doesn't pay too much attention to the journey back. The retrieval of the reward is the high point of the journey, and the return is assumed. This has its merits. In some cases, you would not want to force the player to retrace his steps back the way he came.
 
-这两种选择的区别在于，第一种选择————奖励接近游戏尾声————并不太关注返回的旅程。取回奖励是整个旅程的高潮，而返回则被认为理所当然。这样做也有其优点。在某些情况下，你不希望强迫玩家按原路返回。
+这两种选择的区别在于，第一种选择——奖励接近游戏尾声——并不太关注返回的旅程。取回奖励是整个旅程的高潮，而返回则被认为理所当然。这样做也有其优点。在某些情况下，你不希望强迫玩家按原路返回。
 
 The second situation, in which the reward is close to the middle of the game, pays special attention to the journey back. In this case, retrieving the reward is only half the story. Now the hero actually has to escape with the reward and return to the ordinary world in one piece. For this style of game, the journey back is well integrated into the quest and should be significantly different than the journey that brought the hero to that point.
 
@@ -435,7 +435,7 @@ Many games end at this point. Some of these show the remaining story as a final 
 
 Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In Half-Life, Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of Unreal. After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
 
-请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在《半条命》中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了————《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
+请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在《半条命》中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
 
 Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局
 
@@ -445,7 +445,7 @@ Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局
 
 With the reward won, the hero now has to prepare for the journey back to the ordinary world. The experience of the adventure will have changed the hero, and it might be difficult (if not impossible) to integrate her successfully back into the ordinary world. As we've said, most games do not go as far as this in their interactive stories—instead, they leave this and the following two story elements to a final cut scene.
 
-获得奖励后，主人公现在要准备返回普通世界的旅程。冒险的经历已经改变了主人公，她可能很难（如果不是不可能）成功融入普通世界。正如我们所说，大多数游戏的互动故事都没有做到这一步————相反，它们会将这一故事元素和下面两个故事元素留到最后的过场动画中。
+获得奖励后，主人公现在要准备返回普通世界的旅程。冒险的经历已经改变了主人公，她可能很难（如果不是不可能）成功融入普通世界。正如我们所说，大多数游戏的互动故事都没有做到这一步——相反，它们会将这一故事元素和下面两个故事元素留到最后的过场动画中。
 
 Interplay's Fallout (shown in Figure 4.8) used this particular element to good effect. In this post-apocalyptic role-playing game, the hero was tasked with finding a replacement chip to the water processor to allow the vault-dwellers to continue living in their underground vault. The hero was sent out into the radioactive wilderness to find this chip and, after many adventures, successfully returned with the reward. Upon his return, he was not permitted to re-enter the vault. The vault elders claimed that he had been so changed by his journey that he was too dangerous to be allowed to live in the vault with the others. Hence, he was turned away from his old ordinary world. His special world became his new ordinary world.
 
@@ -471,7 +471,7 @@ Another purpose of the resurrection is so that the player can see clearly how th
 
 The resurrection might also be in the form of an internal revelation for the character that the player might not have foreseen—a trick ending: "No, Luke…I am your father."
 
-复活的形式还可能是玩家可能没有预料到的角色的内心坦白————一个出人意料的结局：“不，卢克……我是你的父亲。”
+复活的形式还可能是玩家可能没有预料到的角色的内心坦白——一个出人意料的结局：“不，卢克……我是你的父亲。”
 
 ### The Return with the Reward 带着奖励归来
 
