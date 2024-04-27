@@ -1,5 +1,3 @@
-# Chapter 4. Storytelling and Narrative 讲故事与叙事
-
 Stories are as old as communication itself. Since the first protohominids daubed their paintings on the rough walls of their caves, stories have been told. Stories and games have been intertwined to varying degrees for almost as long.
 
 故事与交流本身一样古老。自从第一群原始人在粗糙的洞穴墙壁上涂鸦以来，人们就开始讲故事。故事和游戏在不同程度上交织在一起的时间几乎一样长。
@@ -24,7 +22,7 @@ In Half-Life, the story is an important part of the flavor of the game, but asid
 
 在《半条命》中，故事是游戏风情的重要组成部分，但除了作为一种机制让玩家更加沉浸于游戏世界之外，它与实际的游戏玩法毫无关联。(我们的意思是，《半条命》的游戏玩法与其他第一人称射击游戏几乎完全相同，只是故事和场景使其更具优势）。
 
-## Stories in Games 游戏里的故事
+# Stories in Games 游戏里的故事
 
 The use of stories in games is a fundamental part of game design. A game without a story becomes an abstract construct. Of course, for some games, such as Tetris, this is ideal, but the vast majority are much improved by the addition of a story.
 
@@ -46,7 +44,7 @@ Don't worry, though: All the concepts we discuss are equally applicable to the l
 
 不过不用担心：我们讨论的所有概念同样适用于故事光谱上轻松的一端。只是它们对游戏的成功（或失败）没有那么重要罢了。如果一款游戏的背景故事很糟糕，而背景故事对游戏的影响又很小，那么就不会有人在乎。事实上，许多游戏都以其（真实或隐含的）背景故事的荒谬性而自豪。比如世嘉的《超级猴子球》。玩家的化身是一只猴子。关在一个球里。收集香蕉。据我们所知，这就是故事的全部内容，对这款游戏来说也没什么问题。任何进一步充实故事的尝试都是多余的。
 
-### Simple Backstories 简单的背景故事
+## Simple Backstories 简单的背景故事
 
 Not all games require a detailed and rigorous story. Often a couple of short paragraphs just setting the background are required. For example, a game such as R-Type doesn't need much of a story line. An evil galactic empire is invading, and you're the only one who can stop it. Original? No. Good enough for the purpose? Yes.
 
@@ -64,7 +62,7 @@ Commonly, the backstory is used to provide a framework for a mission-based game 
 
 通常，背景故事被用来为基于任务的游戏结构提供一个框架。对于大多数游戏来说，这是理想的方法。随着游戏复杂程度的增加，故事与游戏玩法的相对重要性可以（但不一定）增加。例如，一个简单的街机游戏的故事线对游戏性的重要性要比一个更复杂的游戏（如角色扮演游戏）小得多。如图 4.1 所示。
 
-### Who Is the Storyteller? 谁在讲故事？
+## Who Is the Storyteller? 谁在讲故事？
 
 It is important for the designer to consider who exactly the storyteller is. Who is the main driving force behind the narrative? Is it the designer or the player? Often a game designer falls victim to "frustrated author syndrome." The designer feels as if she should be writing a great novel and forces a linear and restrictive story line onto the player.
 
@@ -94,7 +92,7 @@ The theme of a story is the philosophical idea that the author is trying to expr
 译者注：you can lead a horse to water, but you can't make it drink。谚语，意思是牵马到河易，强马饮水难。
 {% endhint %}
 
-### The Monomyth and the Hero's Journey 单一神话与英雄之旅
+## The Monomyth and the Hero's Journey 单一神话与英雄之旅
 
 What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
