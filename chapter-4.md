@@ -84,25 +84,42 @@ The main distinguishing factor between games and other forms of entertainment is
 
 So what is the answer to the question of who the storyteller is? Simple. The players should be the primary storytellers. They are the stars of the show. The time they spend playing the game is their time to shine, not yours. Consequently, the game should be structured so that for the majority of the time, they are telling their own story.
 
-那么，"谁是讲故事的人 "这个问题的答案是什么呢？很简单。玩家应该是主要的故事讲述者。他们才是主角。他们玩游戏的时间就是他们的闪光点，而不是你的。因此，游戏的结构应该让他们在大部分时间里都在讲述自己的故事。
+那么，“谁是讲故事的人”这个问题的答案是什么呢？很简单。玩家应该是主要的故事讲述者。他们才是主角。他们玩游戏的时间就是他们的闪光时刻，而不是你的。因此，游戏的结构应该让他们在大部分时间里都在讲述自己的故事。
 
 The theme of a story is the philosophical idea that the author is trying to express. You can think of it as the "defining question" of the work. For example, can love triumph? Is murder ever justified? Are dreams real? Is death the end? We've said that the true author of a game narrative is (or should be) the player. Game design can steer the player toward the favored themes of the designer, but it's like leading the proverbial horse to water. You cannot force the players to think your way. Bearing these caveats in mind, let us continue with a discussion of story structure.
 
-故事的主题是作者试图表达的哲学思想。您可以将其视为作品的 "决定性问题"。例如，爱情能胜利吗？谋杀是否合理？梦是真实的吗？死亡是终结吗？我们说过，游戏叙事的真正作者是（或应该是）玩家。游戏设计可以把玩家引向设计者喜欢的主题，但这就像牵马到水边。你不能强迫玩家按照你的方式思考。考虑到这些注意事项，让我们继续讨论故事结构。
+故事的主题是作者试图表达的哲学思想。你可以将其视为作品的“决定性问题”。例如，爱情能胜利吗？谋杀是否合理？梦是真实的吗？死亡是终结吗？我们说过，游戏叙事的真正作者是（或应该是）玩家。游戏设计可以把玩家引向设计者喜欢的主题，但这就像牵马到水边的谚语。你不能强迫玩家按照你的方式思考。考虑到这些注意事项，让我们继续讨论故事结构。
+
+{% hint style="info" %}
+译者注：you can lead a horse to water, but you can't make it drink。谚语，意思是牵马到河易，强马饮水难。
+{% endhint %}
+
 
 ## The Monomyth and the Hero's Journey 单体故事与英雄之旅
 
 What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
+什么是我们所说的“单体故事”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单体故事，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型————那些出现在所有文化和时代中的人物————是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
+
 "Whether we listen with aloof amusement to [a] … witch doctor of the Congo, or read with cultivated rapture thin translations from the sonnets of the mystic Lao-tse; now and again crack the hard nutshell of an argument of Aquinas, or catch suddenly the shining meaning of [an] … Eskimo fairy tale: it will always be the one, shape-shifting yet marvelously constant story that we find, together with a challengingly persistent suggestion of more remaining to be experienced than will even be known or told."
 
 —Joseph Campbell, The Hero with a Thousand Faces, 1949
 
+“无论我们是带着超然的兴致聆听[一位]……刚果巫医的讲述，还是带着修养的狂喜阅读神秘主义者老子十四行诗的薄薄译文；无论我们是时不时地敲开阿奎那论证的坚硬外壳，还是突然捕捉到[一个]……爱斯基摩童话的闪亮含义：我们发现的永远是一个变幻无穷却又千篇一律的故事，以及一个具有挑战性的持续暗示，那就是还有更多的东西有待我们去体验，而不是去了解或讲述。”
+
+————约瑟夫·坎贝尔，《千面英雄》，1949 年
+
 Despite the excellence of Campbell's book, it can be somewhat heavy going, and for all but the most story-intensive games, it could be considered overkill. The Hero with a Thousand Faces is recommended as an essential addition to the game designer's reference library. For the purposes of this chapter, we want to make use of a slightly lighter analysis, one that has been updated with modern considerations and that presents the concepts in a clearer fashion.
+
+尽管坎贝尔的书非常出色，但它的内容可能有些繁重，对于除故事性最强的游戏之外的所有游戏来说，这本书可能会被认为是矫枉过正。建议将《千面英雄》作为游戏设计者的必备参考书。在本章中，我们希望使用稍微浅显一些的分析，这种分析已根据现代考虑因素进行了更新，并以更清晰的方式介绍了相关概念。
 
 Fortunately, such a work exists. In 1993, screenwriter Christopher Vogler published the first edition of a book based on a seven-page pamphlet that he had been circulating around the Hollywood studio where he worked. This pamphlet, "A Practical Guide to the Hero's Journey," took the movie industry by storm, and the obvious step for Vogler was to expand the work and publish a book based on it. This book, The Writer's Journey, presents the concepts and ideas of the hero's journey in a concise and easily digestible form. It's not a perfect fit for our purposes, but it is an excellent start. As such, it forms the basis of our analysis of stories and comes heavily recommended. Any serious game designer needs to read this book thoroughly.
 
+幸运的是，这样的作品已经存在。1993 年，编剧克里斯托弗·沃格勒根据他在自己工作的好莱坞制片厂传阅的一本七页小册子出版了本书的第一版。这本名为《英雄之旅实用指南》的小册子在电影界掀起了一场风暴，沃格勒理所当然地将这本小册子的内容扩展开来，并出版了一本书。这本《作家之旅》以简明易懂的形式介绍了英雄之旅的概念和思想。这本书并不完全符合我们的目的，但却是一个很好的开始。因此，它构成了我们分析故事的基础，值得大力推荐。任何严肃的游戏设计师都需要通读此书。
+
 Note that we are not just trying to feed you the line that games are merely interactive movies. That is plainly not true. They are an entirely different medium. However, the ideas presented by Campbell and Vogler are universal. They transcend the medium of film and are applicable—at least, to some extent—directly to the field of game design, particularly where the story line is a major factor in the design.
+
+请注意，我们并不是在向你灌输游戏只是互动电影的说法。事实显然并非如此。它们是完全不同的媒介。然而，坎贝尔和沃格勒提出的观点具有普遍性。它们超越了电影媒介，至少在某种程度上直接适用于游戏设计领域，尤其是在故事线是设计的主要因素的情况下。
 
 ## Too Good to Be True? 好到不真实？
 
