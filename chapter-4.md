@@ -497,6 +497,8 @@ The hero's journey is often used in a circular story form split into three acts.
 
 Figure 4.9. The circular story form. 图 4.9. 循环故事形式。
 
+![](/.gitbook/assets/the_circular_story_form.png)
+
 Classically, this story form is used in literature and movies. It also applies directly to story-focused games and can be used as a guideline for games in which stories are present but are not the primary focus. Let's discuss the figure in some more detail.
 
 这种故事形式通常用于文学作品和电影。它也直接适用于以故事为重点的游戏，并可作为游戏的指导原则，在这些游戏中，故事是存在的，但不是主要重点。让我们来详细讨论一下该图。
