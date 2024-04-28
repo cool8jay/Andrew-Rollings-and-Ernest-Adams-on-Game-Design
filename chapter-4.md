@@ -245,7 +245,7 @@ The call to adventure can take many forms. Infogrames's Outcast (see Figure 4.5)
 
 冒险的召唤可以有多种形式。Infogrames 的《流放者》（见图 4.5）描绘了退役特种兵卡特·斯莱德坐在酒吧里喝威士忌的情景。就在他喝着酒的时候，几个探员找到他，告诉他以前的指挥官急需他的帮助。这是他第一次接到冒险的召唤。
 
-Figure 4.5. Outcast. 图4.5. 《流放者》
+Figure 4.5. Outcast. 图4.5. 《流放者》。
 
 ![](/.gitbook/assets/infogrames_outcast.jpg)
 
@@ -347,7 +347,7 @@ The opening scene of Midway's Pac-Land (shown in Figure 4.6) shows Pac-Man leavi
 
 Midway的《吃豆人世界》（如图 4.6 所示）的开头场景显示，吃豆人离开了平凡的家庭世界，踏上了一条充满危险和神秘的陌生道路。离开家，穿过鬼魂出没的危险小路，就是跨过了第一道门槛。
 
-Figure 4.6. Pac-Land. 图 4.6. 《吃豆人世界》
+Figure 4.6. Pac-Land. 图 4.6. 《吃豆人世界》。
 
 ![](/.gitbook/assets/pac_land.png)
 
@@ -435,7 +435,7 @@ Note that nothing says that the reward has to be the same one that the hero set 
 
 请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在《半条命》中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
 
-Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局
+Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局。
 
 ![](/.gitbook/assets/the_end_of_unreal.jpg)
 
@@ -449,7 +449,7 @@ Interplay's Fallout (shown in Figure 4.8) used this particular element to good e
 
 Interplay 的《辐射》（如图 4.8 所示）很好地利用了这一特殊元素。在这款末世角色扮演游戏中，主人公的任务是找到水处理器的替代芯片，让地窖居民继续生活在地下地窖中。主人公被派往放射性荒野寻找芯片，经过多次冒险后，他带着奖励成功返回。回来后，他被禁止再次进入地窖。保险库的长老们声称，他的旅程改变了他，让他和其他人一起住在保险库里太危险了。因此，他被赶出了原来的普通世界。他的特殊世界成了他新的普通世界。
 
-Figure 4.8. Fallout. 图 4.8. 《辐射》
+Figure 4.8. Fallout. 图 4.8. 《辐射》。
 
 ![](/.gitbook/assets/fallout.jpg)
 
@@ -495,7 +495,7 @@ The hero's journey is often used in a circular story form split into three acts.
 
 英雄之旅常用于分为三幕的循环故事形式。但这并不意味着所有故事都会完全回到起点和环境。通常情况下，循环形式的表现意味着英雄的特殊世界变成了他新的普通世界。英雄之旅与循环形式的关系如图 4.9 所示。
 
-Figure 4.9. The circular story form. 图 4.9. 循环故事形式
+Figure 4.9. The circular story form. 图 4.9. 循环故事形式。
 
 Classically, this story form is used in literature and movies. It also applies directly to story-focused games and can be used as a guideline for games in which stories are present but are not the primary focus. Let's discuss the figure in some more detail.
 
@@ -527,7 +527,7 @@ Given a conventional three-act structure in which the long second act is usually
 
 在传统的三幕结构中，较长的第二幕通常被分为两个部分，危机主要出现在两个点上。如何使用这两个点关系到情节的节奏。标准的方法（如图 4.10 所示）是在第二幕结尾处慢慢铺垫磨难，然后相当迅速地进入最后的高潮。这种方法在游戏和电影中都比较常见。这种方法可以让故事集中在磨难前的故事主线上，而在领到奖励后，又可以迅速收尾。
 
-Figure 4.10. Delayed crisis in a three-act story. 图 4.10. 三幕故事中的延迟危机
+Figure 4.10. Delayed crisis in a three-act story. 图 4.10. 三幕故事中的延迟危机。
 
 ![](/.gitbook/assets/delayed_crisis_in_a_three_act_story.png)
 
@@ -593,15 +593,15 @@ There are three main forms for episodic delivery; these are indicated in Figures
 
 分集交付有三种主要形式，如图 4.12、4.13 和 4.14 所示，下文将对此进行讨论。
 
-Figure 4.12. An example of series structure. 图 4.12. 系列剧结构的例子
+Figure 4.12. An example of series structure. 图 4.12. 系列剧结构的例子。
 
 ![](/.gitbook/assets/an_example_of_series_structure.png)
 
-Figure 4.13. An example of serial structure. 图 4.13. 连续剧结构的例子
+Figure 4.13. An example of serial structure. 图 4.13. 连续剧结构的例子。
 
 ![](/.gitbook/assets/an_example_of_serial_structure.png)
 
-Figure 4.14. An example of episodic delivery structure.  图 4.14. 分集交付结构的例子
+Figure 4.14. An example of episodic delivery structure.  图 4.14. 分集交付结构的例子。
 
 ![](/.gitbook/assets/an_example_of_episodic_delivery_structure.png)
 
