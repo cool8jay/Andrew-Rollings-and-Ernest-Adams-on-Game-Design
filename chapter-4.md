@@ -595,9 +595,15 @@ There are three main forms for episodic delivery; these are indicated in Figures
 
 Figure 4.12. An example of series structure. 图 4.12. 系列剧结构的例子
 
+![](/.gitbook/assets/an_example_of_series_structure.png)
+
 Figure 4.13. An example of serial structure. 图 4.13. 连续剧结构的例子
 
+![](/.gitbook/assets/an_example_of_serial_structure.png)
+
 Figure 4.14. An example of episodic delivery structure.  图 4.14. 分集交付结构的例子
+
+![](/.gitbook/assets/an_example_of_episodic_delivery_structure.png)
 
 ### Series 系列剧
 
