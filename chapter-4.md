@@ -73,7 +73,7 @@ In other cases, the designer might swamp the player with reams of unnecessary di
 在其他情况下，设计师可能会用大量不必要的对话或叙述淹没玩家。这样，玩家就不得不在过多的文字中挣扎，试图从谷壳里面分拣出小麦。
 
 {% hint style="info" %}
-译者注：sort the wheat from the chaff，去芜存菁，沙中淘金，意思是啰嗦文字太多，有用的信息很少。
+译者注：sort the wheat from the chaff，去芜存菁，沙中淘金。这里的意思是啰嗦文字太多，有用的信息很少。
 {% endhint %}
 
 The main distinguishing factor between games and other forms of entertainment is the level of interactivity. If players just wanted a story, they could watch a movie or read a book. When players are playing a game, they do not want to be force-fed a story that limits the gameplay. Stories generally are not interactive; the amount of branching available in the story tree is limited, so only a few alternative narrative paths are usually available. Hence, the story needs to be handled carefully. It should not be forced on the player, and wherever possible, you should avoid railroading the player down limited story paths because of your own frustrated author syndrome.
