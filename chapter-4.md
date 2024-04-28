@@ -587,19 +587,19 @@ The raison d'être of all computer gaming is interactivity: giving the player so
 
 Not all stories are told in one session. The games industry has expressed much interest in the possibilities provided by episodic delivery. This can mean anything from a simple sequel to a hit game (as in the Final Fantasy series) or a properly episodic game such as the ill-fated Majestic from Electronic Arts.
 
-并不是所有的故事都能一气呵成。游戏业对剧情式游戏的可能性表示了极大的兴趣。这可以是热门游戏的简单续集（如《最终幻想》系列），也可以是适当的情节式游戏，如电子艺界命运多舛的《Majestic》。
+并不是所有的故事都能一口气讲完。游戏业对分集交付提供的可能性表现出极大的兴趣。这可以是热门游戏的简单续集（如《最终幻想》系列），也可以是真正的分集游戏，如艺电公司命运多舛的《Majestic》。
 
 There are three main forms for episodic delivery; these are indicated in Figures 4.12, 4.13, and 4.14 and are discussed in the following sections.
 
-情节式交付有三种主要形式，如图 4.12、4.13 和 4.14 所示，下文将对此进行讨论。
+分集交付有三种主要形式，如图 4.12、4.13 和 4.14 所示，下文将对此进行讨论。
 
-Figure 4.12. An example of series structure. 图 4.12. 连续结构的例子
+Figure 4.12. An example of series structure. 图 4.12. 系列剧结构的例子
 
-Figure 4.13. An example of serial structure. 图 4.13. 联系结构的例子
+Figure 4.13. An example of serial structure. 图 4.13. 连续剧结构的例子
 
-Figure 4.14. An example of episodic delivery structure.  图 4.14. 独立剧集交付的例子
+Figure 4.14. An example of episodic delivery structure.  图 4.14. 分集交付结构的例子
 
-### Series 系列
+### Series 系列剧
 
 A series is a limited sequence of episodes. Each episode is a self-contained story in which one major plot strand is resolved per episode. Usually, an overriding theme runs from the beginning of the series through to the end, as shown in Figure 4.12.
 
@@ -609,7 +609,7 @@ This is the format used in the majority of game series. Each game in the series 
 
 大多数系列游戏都采用这种形式。系列游戏中的每个游戏都包含一个完整的故事，故事背景是一个连贯的世界。系列游戏通常由一个宏大的总体情节串联起来。要理解这个概念，可以想象一下《虎胆龙威》或《教父》三部曲等系列电影。每部电影都有自成一体的情节，尽管有一个连贯的世界和一个总的主题将整个系列联系在一起，但每部电影都可以单独观看，几乎没有什么缺点。
 
-### Serials 连续
+### Serials 连续剧
 
 A serial is a (theoretically) infinite sequence of episodes. Serials are similar in nature to a series, except that the plot threads are not usually neatly resolved by each episode and there is generally no overarching story line—and, hence, no closure. To maintain interest, each episode generally ends halfway through the major plot strand, creating a cliffhanger situation that hopefully creates the "can't wait" feeling for the next episode.
 
@@ -617,58 +617,50 @@ A serial is a (theoretically) infinite sequence of episodes. Serials are similar
 
 Serials are designed to run and run. They rely on a large cast of characters, of whom a subset are involved in three or four different (and often quite independent) subplots at any one time. As one subplot ends, another one begins, using a new group of (formerly dormant) characters. Serials lack the grand sense of resolution that the hero's journey provides. Instead, they offer opportunities to observe different characters interacting under a variety of stresses. The cliffhanger at the end of each episode usually involves some shocking revelation that leaves us wondering how a key character will react to the news. One might say that serials are character-driven rather than plot-driven and involve a large number of archetypal characters: the bully, the good-hearted loser, the shrew, the plain but loving girl, the beautiful scheming woman, the ne'er-do-well, and so on. Occasionally, one of these characters will undergo a trauma so extreme that it produces a character transformation—for example, turning the noble young man into an evil schemer, which is, in effect, another plot twist.
 
-连续剧的设计就是要不断地播出。它们依赖于庞大的角色阵容，其中的一部分角色在同一时间内会卷入三到四个不同的（通常相当独立的）支线剧情。当一个分镜头结束时，另一个分镜头又开始了，使用一组新的人物（以前处于休眠状态）。连续剧缺乏英雄之旅那种宏大的解决感。相反，它们提供了观察不同角色在各种压力下互动的机会。每一集结尾的悬念通常都是一些令人震惊的启示，让我们猜测某个关键人物会对这一消息做出怎样的反应。可以说，连续剧是由人物而非情节驱动的，其中涉及大量典型人物：恶霸、心地善良的失败者、泼妇、朴实但有爱心的女孩、漂亮的心计女、不务正业者等等。偶尔，这些角色中的一个会经历极端的创伤，从而产生性格转变--例如，将高尚的年轻人变成邪恶的阴谋家，这实际上是另一种情节的转折。
+连续剧的设计就是要不断地播出。它们依赖于庞大的角色阵容，其中的一部分角色在同一时间内会卷入三到四个不同的（通常相当独立的）支线剧情。当一个分镜头结束时，另一个分镜头又开始了，使用一组新的人物（以前处于休眠状态）。连续剧缺乏英雄之旅那种宏大的解决感。相反，它们提供了观察不同角色在各种压力下互动的机会。每一集结尾的悬念通常都是一些令人震惊的启示，让我们猜测某个关键人物会对这一消息做出怎样的反应。可以说，连续剧是由人物而非情节驱动的，其中涉及大量典型人物：恶霸、心地善良的失败者、泼妇、朴实但有爱心的女孩、漂亮的心计女、不务正业者等等。偶尔，这些角色中的一个会经历极端的创伤，从而产生性格转变——例如，将高尚的年轻人变成邪恶的阴谋家，这实际上是另一种情节的转折。
 
 If the serial comes to an end, it's usually because of the failure of the story, either because of falling ratings or sales or because the story writers ran out of ideas (although judging by some of the soap operas on television, some serials seem to have survived even beyond that particular death blow). The specific grisly fate that a serial comes to can be determined by how it ends. If it ends abruptly, with no attempt at plot resolution, it's a pretty good bet that sales or ratings fell. If some attempt at closure is made, the serial probably came to a natural end. Comparisons for serials are soap operas such as Dallas, or the old Saturday morning serials that most of you are probably too young to remember, such as Rocket Man, Flash Gordon, and The Incredible Hulk.
 
-如果连续剧结束了，通常是因为故事失败了，要么是因为收视率或销量下降，要么是因为故事编剧没有了灵感（不过从电视上的一些肥皂剧来看，有些连续剧似乎甚至在这种致命打击之后仍然存活了下来）。一部连续剧的具体悲惨命运可以由它的结局来决定。如果结束得很突然，没有试图解决情节问题，那么销量或收视率肯定会下降。如果试图做一些收尾工作，那么这部连续剧很可能就自然结束了。与连续剧相对应的是肥皂剧，如《达拉斯》，或者是大多数人可能太年轻而不记得的老式周六早间连续剧，如《火箭侠》、《闪电侠》和《绿巨人》。
+如果连续剧走到尽头，通常是因为故事失败了，要么是因为收视率或销量下降，要么是因为故事编剧没有了灵感（不过从电视上的一些肥皂剧来看，有些连续剧似乎甚至在这种致命打击之后仍然存活了下来）。一部连续剧的具体悲惨命运可以由它的结局来决定。如果结束得很突然，没有试图解决情节问题，那么销量或收视率肯定会下降。如果试图做一些收尾工作，那么这部连续剧很可能就自然结束了。与连续剧相对应的是肥皂剧，如《达拉斯》，或者是大多数人可能太年轻而不记得的老式周六早间连续剧，如《火箭侠》、《飞侠哥顿》和《无敌浩克》。
 
 You might be wondering why we're going to such lengths describing something that seems to apply only to television. With the advent of games such as Majestic and the continued rumbling of the industry on the subject of episodic (or Webisodic) games, it's a fair bet that we're going to be seeing attempts at providing some sort of interactive serials over the next few years. How successful these will be is open to argument, but being able to charge a monthly fee for new material is a very appealing honey pot. (Witness the success of EverQuest, with roughly 400,000 subscribers each shelling out $10 a month for access.) Figure 4.13 is a depiction of the structure of a serial.
 
-你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着《Majestic》等游戏的出现，以及业界对剧情式（或网络式）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（《EverQuest》的成功就是最好的证明，它拥有大约 400,000 名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
+你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着《Majestic》等游戏的出现，以及业界对剧情式（或网络剧）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（《无尽的任务》的成功就是最好的证明，它拥有大约 40 万名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
 
-### Episodic Delivery 剧集式交付
+### Episodic Delivery 分集交付
 
 An episodic delivery is a cross between the serial and the series. Like the series, the episodic delivery contains a limited number of episodes, with an overall story line that is followed across the entirety. Unlike the series, however, there is often fairly tight integration between episodes and significant overlap of plot threads. This is similar to the serial, in which the plots thread across episodes.
 
-剧集式传播介于连续剧和系列剧之间。与连续剧一样，剧集式传播包含数量有限的剧集，整个故事线贯穿始终。但与连续剧不同的是，剧集之间往往有相当紧密的结合，情节线索有明显的重叠。这与连续剧类似，情节线索贯穿各集。
+分集交付介于连续剧和系列剧之间。与系列剧一样，分集交付包含数量有限的剧集，整个故事线贯穿始终。但与系列剧不同的是，剧集之间往往有相当紧密的结合，情节线索有明显的重叠。这与连续剧类似，情节线索贯穿各集。
 
 Unlike the serial, this format doesn't rely so heavily on cliffhangers to end episodes and create interest in the subsequent episodes. Instead, the overall story line provides the driving interest, and the cliffhanger is used only as a secondary means of support (see Figure 4.14).
 
 与连续剧不同的是，这种形式并不严重依赖悬念来结束剧集和引起观众对后续剧集的兴趣。相反，整体故事线提供了驱动兴趣，悬念只是作为辅助手段（见图 4.14）。
 
-An episodic delivery is a cross between the serial and the series. Like the series, the episodic delivery contains a limited number of episodes, with an overall story line that is followed across the entirety. Unlike the series, however, there is often fairly tight integration between episodes and significant overlap of plot threads. This is similar to the serial, in which the plots thread across episodes.
-
-独立剧集交付是连续剧和系列剧之间的一种形式。与系列剧类似，独立剧集交付包含有限数量的剧集，并且整个故事线贯穿始终。然而，与系列剧不同的是，独立剧集交付的剧集之间通常有相当紧密的整合，并且情节线索有显著的重叠。这与连续剧相似，在连续剧中情节线索跨越多个剧集。
-
-Unlike the serial, this format doesn't rely so heavily on cliffhangers to end episodes and create interest in the subsequent episodes. Instead, the overall story line provides the driving interest, and the cliffhanger is used only as a secondary means of support (see Figure 4.14).
-
-与连续剧不同，这种格式不太依赖于悬念来结束剧集并为接下来的剧集创造兴趣。相反，整体故事线提供了主要的兴趣点，而悬念只作为次要的支持手段（见图 4.14）。
-
 Bearing in mind that we already have series-based games, we believe that episodic delivery is the form that most attempts at interactive episode-based entertainment will take, at least initially. If the medium takes off and is financially viable, we gradually might begin to see interactive serials, with no fixed episode count and a constantly evolving story. The only fly in the soup as far as this is concerned is the difficulty of sustained content creation. There will have to be some evolution in the methods used to create the content for such endeavors.
 
-考虑到我们已经有了以系列为基础的游戏，我们认为，至少在最初阶段，以插曲为基础的互动娱乐尝试大多会采用插曲形式。如果这种媒体能够兴起并在经济上可行，我们可能会逐渐开始看到没有固定集数、故事不断发展的互动式连续剧。就这一点而言，唯一的困难是难以持续创作内容。为此类活动创作内容的方法必须有所改变。
+考虑到我们已经有了以系列为基础的游戏，我们相信，至少在最初阶段，分集交付是大多数尝试互动式分集娱乐的形式。如果这种媒体能够兴起并在经济上可行，我们可能会逐渐开始看到没有固定集数、故事不断发展的互动式连续剧。就这一点而言，唯一的困难是难以持续创作内容。为此类活动创作内容的方法必须有所改变。
 
 > **Storytelling and Narrative Worksheet 讲故事和叙事工作表**
 > 
 > 1. Does the game require a story, or is it entirely abstract? If it is abstract, would a story add to or detract from its appeal?\
 > 游戏需要故事，还是完全抽象？如果是抽象的，故事会增加还是减少它的吸引力？
 > 2. Can the story begin at the beginning of the game, or would the game benefit from a backstory as well?\
-> 故事可以从游戏的开头开始，还是也可以从背景故事中获益？
+> 故事能否从游戏开始时就展开，还是游戏也会从背景故事中获益？
 > 3. Will the story make use of the monomyth? Which elements? If not, what form will it have?\
-> 故事是否会使用“单一神话”？用了哪些元素？如果不使用，将采用什么形式？
+> 故事是否会使用“单一神话”？用了哪些元素？如果不使用，它将采用什么形式？
 > 4. Will the story have a three-act structure or something else, and if so, what? Will it be open-ended, leaving some plot threads unresolved?\
 > 故事是采用三幕结构还是其他结构？会不会是开放式的，留下一些未解决的情节线索？
 > 5. How will the plot be paced? Graph out the major points of crisis, climax, rest, and resolution.\
 > 情节节奏如何？绘制出危机、高潮、休止和解决的主要节点。
 > 6. Will the game include narrative (that is, non-interactive) material? What role will it play—an introduction, mission briefing, transitional material, a conclusion, character definition? Is the narrative essential for the player to understand and play the game?\
-> 游戏是否会包含叙事（即非互动）材料？它将扮演什么角色--引言、任务简报、过渡材料、结尾、角色定义？叙述对于玩家理解和玩游戏是否必不可少？
+> 游戏是否会包含叙事（即非互动）材料？它将扮演什么角色——引言、任务简报、过渡材料、结尾、角色定义？叙事对于玩家理解和玩游戏是否必不可少？
 > 7. Will the narrative material be integrated seamlessly into the gameplay, or will it be a separate screen or interface element? Will the player be able to interrupt or ignore it?\
 > 叙事材料是与游戏无缝整合，还是作为单独的屏幕或界面元素？玩家能否打断或忽略它？
 > 8. What form will the narrative material take? Pages in the manual? Introductory text in the program? Movies? Cut-scenes?\
-> 叙事材料将采取什么形式？手册中的页面？程序中的介绍性文字？电影？场景剪辑？
+> 叙事材料将采取什么形式？手册中的页面？程序中的介绍性文字？电影？过场动画？
 > 9. Will the story be multi-part? How will the plotlines be handled: as a series, a serial, or episodically?\
-> 故事是否由多个部分组成？如何处理情节线：系列、连续还是插叙？
+> 故事是否由多个部分组成？如何处理情节线：系列、连续还是分集？
 
 # Putting It Together 总结
 
@@ -678,7 +670,7 @@ The importance of story to a game tends to vary according to the complexity of t
 
 Actually, that's not quite true. Apart from technical limitations, there is no reason why a story cannot be fully interactive and still be satisfying. Star Trek's holodeck often featured realistic characters and story lines, which adapted realistically to the characters. Of course, we're still a long way from that, even at the most basic level. Chris Crawford's Erasmatron (available from [www.erasmatazz.com](www.erasmatazz.com)) makes bold strides in this direction, but there is still a long way to go.
 
-事实上，这并不完全正确。除了技术上的限制外，故事没有理由不能完全互动，而且还能令人满意。星际迷航》中的全息甲板经常出现逼真的人物和故事线，这些人物和故事线都能真实地适应人物。当然，即使在最基本的层面上，我们离这个目标还有很长的路要走。克里斯-克劳福德（Chris Crawford）的《Erasmatron》（可从 [www.erasmatazz.com](www.erasmatazz.com) 上下载）在这方面迈出了大胆的步伐，但还有很长的路要走。
+事实上，这并不完全正确。除了技术上的限制外，故事没有理由不能完全互动，而且还能令人满意。星际迷航》中的全息甲板经常出现逼真的人物和故事线，它们都能真实地适应人物。当然，即使在最基本的层面上，我们离这个目标还有很长的路要走。克里斯·克劳福德的《Erasmatron》（可从 [www.erasmatazz.com](www.erasmatazz.com) 上下载）在这方面迈出了大胆的步伐，但还有很长的路要走。
 
 As we've already stated, not all games need a well-developed story—or even a story at all. For those that do, the stories we've seen so far are generally not that strong. Even the best of them would not make good movies. Those games that have crossed over into movies have been (virtually without exception) poor. Consider the screen versions of Final Fantasy, Mortal Kombat, Super Mario Brothers, and Tomb Raider. Granted, the original story lines of the games were not that strong to begin with (with the possible exception of Final Fantasy), but watching the films, it becomes clear that they certainly weren't strong enough to support a film.
 
@@ -686,4 +678,4 @@ As we've already stated, not all games need a well-developed story—or even a s
 
 The techniques presented in this chapter are useful for guiding your story development. Remember, however, that story creation is not a formulaic activity. A fair amount of grunt work and creativity still is required. In the words of Christopher Vogler, the hero's journey is a form, not a formula. That is, it's a pattern (one of many) that can be used to develop your game story.
 
-本章介绍的技巧对指导你的故事发展很有帮助。但请记住，故事创作不是公式化的活动。仍然需要大量的粗活和创造力。用克里斯托弗-沃格勒的话说，英雄之旅是一种形式，而不是公式。也就是说，它是一种模式（众多模式之一），可以用来发展你的游戏故事。
+本章介绍的技巧对指导你的故事发展很有帮助。但请记住，故事创作不是公式化的活动。仍然需要大量的粗活和创造力。用克里斯托弗·沃格勒的话说，英雄之旅是一种形式，而不是公式。也就是说，它是一种模式（众多模式之一），可以用来发展你的游戏故事。
