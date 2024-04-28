@@ -565,7 +565,7 @@ The sights and sounds in your game, the graphics and audio, create the immediate
 
 Action games, sports games, and vehicle simulations seldom include much narrative. They emphasize the activity, or interactivity, of the moment; for the core gamer, that activity is its own reward. Even so, you can attract a larger audience if you offer a story line to maintain the casual player's interest. The casual player wants that story because the action alone doesn't do it for her. Consider two first-person shooter games: In one, you offer 25 different, unrelated levels of varying degrees of difficulty. All the player knows is that she has to kill all the enemies to win. In the other, each level is an episode in a larger story, tied together with narrative material that explains why the player is there and what her exertions are in aid of. The second will undoubtedly cost more to make, but it will also appeal to more people. Those who care nothing for narrative will ignore it, but those who need narrative to motivate them will be rewarded.
 
-动作游戏、体育游戏和车辆模拟游戏很少包含太多的叙事。它们强调的是瞬间的活动或互动性；对于核心玩家来说，活动本身就是一种奖励。即便如此，如果能提供一条故事线来维持休闲玩家的兴趣，就能吸引更多的玩家。休闲玩家需要故事，因为单靠动作本身并不能吸引他们。请看两款第一人称射击游戏：在其中一款游戏中，你提供了 25 个难度各异、互不相关的关卡。玩家只知道她必须杀死所有敌人才能获胜。而在另一款游戏中，每个关卡都是一个大故事中的一节，用叙事材料串联起来，解释玩家为什么会出现在那里，她的努力是为了什么。毫无疑问，第二种游戏的制作成本会更高，但也会吸引更多的人。那些对叙事毫不在意的人会忽略它，但那些需要叙事来激励自己的人会得到回报。
+动作游戏、体育游戏和车辆模拟游戏很少包含太多的叙事。它们强调的是瞬间的活动或互动性；对于核心玩家来说，活动本身就是一种奖励。即便如此，如果能提供一条故事线来维持休闲玩家的兴趣，就能吸引更多的玩家。休闲玩家需要故事，因为单靠动作本身并不能吸引他们。请看两款第一人称射击游戏：在其中一款游戏中，你提供了 25 个难度各异、互不相关的关卡。玩家只知道她必须杀死所有敌人才能获胜。而在另一款游戏中，每个关卡都是一个更大故事中的一段，用叙事材料串联起来，解释玩家为什么会出现在那里，她的努力是为了什么。毫无疑问，第二种游戏的制作成本会更高，但也会吸引更多的人。那些对叙事毫不在意的人会忽略它，但那些需要叙事来激励自己的人会得到回报。
 
 ### Too Much Narrative 太多叙事
 
