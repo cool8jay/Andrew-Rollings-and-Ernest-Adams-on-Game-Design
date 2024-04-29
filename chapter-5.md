@@ -317,7 +317,7 @@ The most important thing to do with the hero is ensure that the players can iden
 
 Figure 5.12. Abe and Munch. 图 5.12. 阿比和蒙克。
 
-![](/.gitbook/assets/5.12.jpg)
+![](/.gitbook/assets/5.12.png)
 
 There are a number of possible reasons for this. Note that both Abe and Munch follow the super-sensuality guidelines mentioned earlier, with large eyes and big foreheads, echoing those of babies. Despite (or perhaps because of ) their ugliness, and the fact that they are enslaved underdogs of a much uglier ruling class, they appeal to a wide range of players and have been a surprising success. It's surprising, that is, for the developers. However, close examination of the archetypes and the characteristics of Abe and Munch (as well as the quality of the games in which they were introduced) indicates that the success isn't as surprising as it might initially seem.
 
