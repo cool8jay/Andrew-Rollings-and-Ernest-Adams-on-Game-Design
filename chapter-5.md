@@ -27,33 +27,37 @@ Let's take a look at art-driven design in a little more detail. Historically, ar
 
 The design of the central character in Pac-Man was purely artistic. The game designer, Toru Iwatani, was allegedly inspired by a pizza with one slice removed. Other famous game characters were also born this way: Lara Croft started life as the artist's dream girl and quickly became the "larger than life" heroine that we all know today. (This is despite the fact that somebody with those "proportions" would be unlikely to be as athletic as that—and would most likely run into a few lower-back problems in later life. But this is the games industry: Realism doesn't matter—self-consistency does.)
 
-吃豆人 "中中心人物的设计纯粹是艺术性的。据称，游戏设计师岩谷彻（Toru Iwatani）的设计灵感来自于一块被削去一块的披萨。其他有名的游戏角色也是这样诞生的： 劳拉-克劳馥（Lara Croft）一开始只是艺术家的梦中情人，但很快就成为了我们今天所熟知的 "超凡脱俗 "的女主角。(尽管拥有这样 "身材比例 "的人不可能有那么好的运动能力，而且很可能在日后的生活中患上一些腰背疾病）。但这就是游戏产业： 真实性并不重要，重要的是自我一致性）。
+《吃豆人》中，中心人物的设计纯粹是艺术性的。据称，游戏设计师岩谷彻的设计灵感来自于一块被削去一块的披萨。其他有名的游戏角色也是这样诞生的：劳拉·克劳馥一开始只是艺术家的梦中情人，但很快就成为了我们今天所熟知的“超凡脱俗”的女主角。(尽管拥有这样“身材比例”的人不可能有那么好的运动能力，而且很可能在日后的生活中患上一些腰背疾病。但这就是游戏产业：真实性并不重要，重要的是自我一致性）。
 
-Characters that are developed from a purely artistic source tend to be far more super ficial and one-dimensional than those sourced from a story-based design. In fact, we could say that they are the bimbos (or himbos—no sexism here!) of the games industry. This is not necessarily a bad thing. For many games, we simply do not need well-developed characters. It's far better to leave the character as a blank slate and let the player impose his own personality. This can aid the sense of game immersion greatly and is often the superior method, compared to trying to force a player to accept the role of a fully fleshed-out character. Even those games in which the player has a predefined character tend to be deliberately scant on background details, just so that the player won't have to change personalities to fit into the hero's skin. A small paragraph of backstory might give the player some direction, but trying to force a player into a role that does not appeal to her is futile.
+Characters that are developed from a purely artistic source tend to be far more superficial and one-dimensional than those sourced from a story-based design. In fact, we could say that they are the bimbos (or himbos—no sexism here!) of the games industry. This is not necessarily a bad thing. For many games, we simply do not need well-developed characters. It's far better to leave the character as a blank slate and let the player impose his own personality. This can aid the sense of game immersion greatly and is often the superior method, compared to trying to force a player to accept the role of a fully fleshed-out character. Even those games in which the player has a predefined character tend to be deliberately scant on background details, just so that the player won't have to change personalities to fit into the hero's skin. A small paragraph of backstory might give the player some direction, but trying to force a player into a role that does not appeal to her is futile.
 
-与基于故事情节设计的角色相比，纯粹从艺术角度开发的角色往往更加肤浅和单一。事实上，我们可以说他们是游戏行业中的 "荡妇"（或 "人妖"，这里没有性别歧视！）。这并不一定是坏事。对于许多游戏来说，我们根本不需要精心塑造的角色。让角色成为一张白纸，让玩家将自己的个性强加于人，这样会好得多。这可以大大增强游戏的沉浸感，与强迫玩家接受一个丰满的角色相比，这往往是更优越的方法。即使是那些玩家预先设定了角色的游戏，也往往会刻意减少背景细节，这样玩家就不必为了适应主人公而改变性格。一小段背景故事可能会给玩家提供一些方向，但试图强迫玩家进入一个并不吸引她的角色是徒劳的。
+源自纯粹艺术创作的角色往往比那些源自基于故事情节设计的角色更加肤浅和单一。事实上，我们可以说他们是游戏产业中的“花瓶”（或者“肌肉男”，这里没有性别歧视！）。这并不一定是坏事。对于许多游戏来说，我们根本不需要人物形象非常丰满。最好让人物保持空白状态，让玩家将自己的个性投射进去。这可以极大地增强游戏的沉浸感，通常比试图强迫玩家接受一个完全塑造出来的角色要优越得多。即使是那些玩家有预设角色的游戏，也往往故意在背景细节上保持简洁，这样玩家就不必改变自己的个性来适应主人公的身份。一小段背景故事可能会给玩家一些方向，但试图强迫玩家扮演一个她不感兴趣的角色是徒劳的。
 
 At this point, we should mention that the second approach to designing characters is to develop a fully fleshed-out backstory before you even visualize their appearance. This approach tends to produce deeper and more realistic characters that the player will believe in more readily. Sometimes this can be a good thing, and sometimes not. It really depends on the result you are aiming for. For example, a fully detailed backstory for the aforementioned Pac-Man, detailing his likes, dislikes, hopes, and fears, certainly would not have added anything to the game. In fact, it would most likely have detracted from it. It would be as effective as replacing Heathcliff and Kathy from Bronte's Wuthering Heights with Kermit the Frog and Miss Piggy. We cover story-driven design later in this chapter.
 
-说到这里，我们应该提到设计角色的第二种方法，那就是在设计角色的外形之前，先设计一个完整的背景故事。这种方法往往能塑造出更深刻、更真实的角色，让玩家更容易相信他们。有时这是件好事，有时却不是。这其实取决于你所追求的结果。例如，为前面提到的 "吃豆人 "设计一个详尽的背景故事，详细描述他的喜好、厌恶、希望和恐惧，肯定不会给游戏增添任何东西。事实上，它很可能会使游戏大打折扣。这就好比把勃朗特《呼啸山庄》中的希斯克利夫和凯西换成柯密特青蛙和猪小姐一样有效。我们将在本章稍后部分介绍故事驱动型设计。
+说到这里，我们应该提到设计角色的第二种方法，那就是在设计角色的外形之前，先设计一个完整的背景故事。这种方法往往能塑造出更深刻、更真实的角色，让玩家更容易相信他们。有时这是件好事，有时却不是。这其实取决于你所追求的结果。例如，为前面提到的吃豆人设计一个详尽的背景故事，详细描述他的喜好、厌恶、希望和恐惧，肯定不会给游戏增添任何东西。事实上，它很可能会使游戏大打折扣。这就好比把勃朗特《呼啸山庄》中的希斯克利夫和凯西换成科米蛙和猪小姐一样有效。我们将在本章稍后部分介绍故事驱动型设计。
 
 The ultimate aim of the exercise, whether story-based or art-based, is to create a bond between the player and the hero so that the player is compelled to play the game. You should attempt to make the player genuinely care for the plight of the character under his control. A good, detailed backstory is certainly one way to get the player to empathize with the hero, but this is by no means the only way. In fact, the advantage of computer games is that the bond can be created in a number of ways (such as graphically) and is not restricted solely to abstract concepts and literary constructs.
 
-无论是以故事为基础还是以艺术为基础，这项工作的最终目的都是在玩家和主人公之间建立一种纽带，从而迫使玩家参与游戏。你应该尝试让玩家真正关心他所控制的角色的困境。一个好的、详细的背景故事当然是让玩家对主人公产生共鸣的方法之一，但这绝不是唯一的方法。事实上，电脑游戏的优势在于可以通过多种方式（如图形方式）建立起这种联系，而不仅仅局限于抽象概念和文学构思。
+无论是基于故事还是美术的角色设计，其最终目的都是要在玩家和英雄之间建立一种联系，从而使玩家感到有必要去玩游戏。你应该努力让玩家真正关心他所控制的角色的困境。一个好的、详细的背景故事当然是让玩家对主人公产生共鸣的方法之一，但这绝不是唯一的方法。实际上，电脑游戏的优势在于可以通过多种方式（如图形化）建立这种联系，而不仅仅局限于抽象概念和文学构思。
 
-## Physical Design and Super-Sensuality 物理设计与超级性感
+## Physical Design and Super-Sensuality 身体设计与超级性感
 
 For example, let's consider some physical aspects. Sexual desirability is an often-used method. In Desmond Morris's Manwatching, he discusses the issue of super-senses. In advertising, certain features are often exaggerated to elicit a specific response in the viewer. The classic example is that the breast size and leg length of women are usually exaggerated by about 33 percent, their waists are too small to accommodate the required internal organs, and their hips are disproportionately wide. This apparently increases the sexual desirability of the subject (termed "super-sensory stimulation" by Morris). We've seen this many times in the game industry—I'm sure you can think of a couple of prime examples: Lara and Croft.
 
-举例来说，让我们考虑一些身体方面的问题。性欲是一种经常使用的方法。在德斯蒙德-莫里斯（Desmond Morris）的《男人观察》（Manwatching）一书中，他讨论了超感官的问题。在广告中，某些特征往往会被夸大，以引起观众的特定反应。最典型的例子是，女性的乳房大小和腿长通常被夸大约 33%，她们的腰围太小，无法容纳所需的内脏器官，臀部则宽得不成比例。这显然会增加受试者的性欲（莫里斯称之为 "超感官刺激"）。我们在游戏产业中多次看到这种情况，相信你能想到几个典型的例子： 劳拉和克劳馥。
+例如，让我们考虑一些身体方面的因素。性吸引力是一种常用的方法。在德斯蒙德·莫里斯的《观察人类》一书中，他讨论了超感官的问题。在广告中，某些特征经常被夸大以引起观众的特定反应。经典的例子是，女性胸部的大小和腿部的长度通常会被夸大约 33%，她们的腰围太小，无法容纳所需的内脏器官，而臀部则过于宽大。这显然增加了主题的性吸引力（莫里斯称之为“超感官刺激”）。我们在游戏产业中多次看到这种情况，我相信你能想到几个典型的例子：劳拉·克劳馥。
+
+{% hint style="info" %}
+译者注：Lara and Croft，应该是原文的笔误，应该是《古墓丽影》里面的主角一个人。
+{% endhint %}
 
 Cuteness works well, too. Some games attempt to bring out the player's protective feelings. In these games, the hero is almost supernaturally cute, and this causes the player to empathize with the hero much in the same way as he would empathize with a favorite pet or a baby.
 
-可爱也很有效。有些游戏试图激发玩家的保护欲。在这些游戏中，主人公几乎是超自然的可爱，这让玩家对主人公产生共鸣，就像对自己喜欢的宠物或婴儿产生共鸣一样。
+可爱同样很有效。有些游戏试图激发玩家的保护欲。在这些游戏中，主人公几乎超自然地可爱，这使得玩家对主人公产生共鸣，就像自己喜欢的宠物或婴儿产生共鸣一样。
 
 Compared to fully grown animals, baby animals have large heads and eyes with respect to their body sizes. This can be exploited by a knowledgeable designer to create a "cute-appeal." Usually, this approach is aimed specifically at the younger game players. Targeting the younger gamer with the sexual approach would probably draw unwanted attention from the censors, so, for the most part, this is avoided. Super Monkey Ball (shown in Figure 5.2) uses the cute approach to good effect.
 
-与成年动物相比，小动物的头和眼睛相对于其体型都比较大。知识渊博的设计师可以利用这一点来创造 "可爱的吸引力"。通常，这种方法专门针对年轻的游戏玩家。针对年轻玩家的 "性 "设计很可能会引起审查人员的注意，因此在大多数情况下，这种设计都是被避免的。超级猴子球》（如图 5.2 所示）采用了可爱的方式，效果很好。
+与成年动物相比，幼年动物的头部和眼睛相对于其体型都比较大。知识渊博的设计师可以利用这一点来创造“可爱吸引力”。通常，这种方法专门针对年轻玩家。针对年轻玩家，以性吸引力为目标的策略很可能会引起审查机构的注意，因此，在大多数情况下，这种设计都是被避免的。《超级猴子球》（如图 5.2 所示）采用了可爱的方式，效果很好。
 
 Figure 5.2. Super Monkey Ball. 图 5.2. 超级猴子球
 
@@ -61,7 +65,7 @@ Figure 5.2. Super Monkey Ball. 图 5.2. 超级猴子球
 
 The monkey characters follow Morris's super-sense guidelines—large heads; large, round eyes; and comparatively small bodies. Coincidentally (and rather perversely, to Western eyes), this is also the approach taken by Japanese ultra-violent Anime comics, an example of which is shown in Figure 5.3.
 
-猴子角色遵循了莫里斯的超级感官准则--大脑袋、大而圆的眼睛和相对较小的身体。巧合的是（在西方人看来相当反常），这也是日本超级暴力动漫所采用的方法，图 5.3 就是其中的一个例子。
+猴子角色遵循了莫里斯的超级感官准则——大脑袋、大而圆的眼睛和相对较小的身体。巧合的是（在西方人看来相当反常），这也是日本超级暴力动漫所采用的方法，图 5.3 就是其中的一个例子。
 
 Figure 5.3. A Japanese-style character. 图 5.3. 日本风格的人物。
 
@@ -70,6 +74,8 @@ Figure 5.3. A Japanese-style character. 图 5.3. 日本风格的人物。
 We realize that not all Anime is violent. Nevertheless, the artistic style emphasizes childlike super-sensuality while dealing with adult-oriented topics.
 
 我们知道，并非所有的动漫都是暴力的。不过，这种艺术风格在处理成人化主题的同时，强调儿童般的超感性。
+
+我们意识到，并非所有动漫都是暴力的。然而，这种艺术风格在处理成人主题的同时，强调了孩童般的超感官体验。
 
 Art styles vary wildly among different cultures, particularly for characters. Japanese animation often uses huge eyes and tiny mouths for their characters, but the mouths sometimes swell to huge sizes when they shout, which looks grotesque to Americans. European cartoon characters often seem ugly and strange to Americans, too. Two exceptions to this include Asterix and Tintin.
 
@@ -119,13 +125,13 @@ This doesn't always jell as well as it should. For example, Sonic and Tails didn
 
 Unfortunately, for cute-style characters at least, art-based design seems to have degenerated into an unoriginal money-chasing exercise. "Can we appeal to the kiddie demographic? Can we get the right mix of cute with 'tude?" Switch on the Cartoon Network for 30 minutes, and you'll see all the evidence you need: Powerpuff Girls, Dexter's Laboratory, Spongebob Squarepants, and the rest. You name it, it's there. The evidence is there in the games industry as well. Everyone's looking for the next big cute phenomenon. Check out Spyro the Dragon and Jak and Daxter, or any one of the plethora of other examples. It wouldn't be so bad if it were a new concept, but it's been around since the dawn of the industry. Figure 5.7 shows a fairly early example.
 
-不幸的是，至少对于可爱风格的角色来说，基于艺术的设计似乎已经退化成了一种毫无创意的追逐金钱的行为。"我们能吸引儿童群体吗？我们能把可爱和'粗鲁'恰当地结合在一起吗？打开卡通网络 30 分钟，你就会看到所有你需要的证据： 《飞天小女警》、《德克斯特实验室》、《海绵宝宝》等等。你说得出，它就在那里。游戏行业也是如此。每个人都在寻找下一个大的可爱现象。看看《恶龙斯派罗》和《杰克与达克斯特》，或者其他大量的例子。如果这是个新概念，还不算太糟，但它从游戏业诞生之初就已经存在了。图 5.7 展示了一个相当早期的例子。
+不幸的是，至少对于可爱风格的角色来说，基于艺术的设计似乎已经退化成了一种毫无创意的追逐金钱的行为。"我们能吸引儿童群体吗？我们能把可爱和'粗鲁'恰当地结合在一起吗？打开卡通网络 30 分钟，你就会看到所有你需要的证据：《飞天小女警》、《德克斯特实验室》、《海绵宝宝》等等。你说得出，它就在那里。游戏行业也是如此。每个人都在寻找下一个大的可爱现象。看看《恶龙斯派罗》和《杰克与达克斯特》，或者其他大量的例子。如果这是个新概念，还不算太糟，但它从游戏业诞生之初就已经存在了。图 5.7 展示了一个相当早期的例子。
 
 Figure 5.7. Head and Heels from Head over Heels. 图 5.7. 高跟鞋上的头和高跟鞋》中的头和高跟鞋。
 
 These two characters, Head and Heels, are buddies fighting against the evil emperor. The only difference between these two and the majority of today's examples is the originality in the relationship between the two characters: Head and Heels are both symbiotic creatures. Head can jump and glide, and Heels can run fast. When they are linked together, they combine their abilities and can solve problems that would be impossible to achieve individually. The difference between Head and Heels and the rest of the cute brigade is that Head and Heels actually had unique characteristics that made an original difference to the gameplay.
 
-这两个人物，"头 "和 "脚跟"，是对抗邪恶皇帝的伙伴。这两个角色与今天大多数例子的唯一区别在于两个角色之间关系的独创性： 头和高跟鞋都是共生生物。头 "可以跳跃和滑行，"脚后跟 "可以快速奔跑。当它们联结在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头和高跟鞋》与其他可爱游戏的不同之处在于，《头和高跟鞋》实际上具有独一无二的特性，使游戏玩法与众不同。
+这两个人物，"头 "和 "脚跟"，是对抗邪恶皇帝的伙伴。这两个角色与今天大多数例子的唯一区别在于两个角色之间关系的独创性：头和高跟鞋都是共生生物。头 "可以跳跃和滑行，"脚后跟 "可以快速奔跑。当它们联结在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头和高跟鞋》与其他可爱游戏的不同之处在于，《头和高跟鞋》实际上具有独一无二的特性，使游戏玩法与众不同。
 
 > **NOTE 注意**
 > To an extent, this was also true of Banjo and Kazooie. Even though they were implemented as a single avatar (much like Head and Heels when joined), each had individual abilities that complemented the other's.
@@ -137,9 +143,9 @@ Most of the examples from today are just minor variations on a rather old theme.
 
 If we might risk boldly stating our opinion at this point, we believe that this strain of "cute with attitude" character design is getting very clichéd. It also seems to be quite cold and calculating from a marketing point of view: The "cute" part attracts children, and the "with attitude" part alienates parents. With the recent troubles the games industry has had with the threat of censorship, a cute character spouting off attitude to other characters (especially those representing authority figures) probably isn't the best way to ingratiate ourselves with parents—and some of these parents are the people with the power to enforce regulation on the games industry. This doesn't mean that we should make our characters sugary-sweet and peachy keen, but we should be very aware of the age and developmental levels of our target audience.
 
-我们认为，这种 "有态度的可爱 "角色设计已经变得非常老套。从市场营销的角度来看，它似乎也相当冷酷和斤斤计较： 可爱 "的部分吸引了儿童，而 "有态度 "的部分则疏远了家长。最近，游戏产业面临审查威胁的困扰，一个可爱的角色对其他角色（尤其是那些代表权威人物的角色）大放厥词，这可能不是讨好家长的最佳方式--而其中一些家长正是有权对游戏产业实施监管的人。这并不意味着我们应该把角色塑造得甜美可爱，但我们应该非常清楚目标受众的年龄和发展水平。
+我们认为，这种 "有态度的可爱 "角色设计已经变得非常老套。从市场营销的角度来看，它似乎也相当冷酷和斤斤计较：可爱 "的部分吸引了儿童，而 "有态度 "的部分则疏远了家长。最近，游戏产业面临审查威胁的困扰，一个可爱的角色对其他角色（尤其是那些代表权威人物的角色）大放厥词，这可能不是讨好家长的最佳方式--而其中一些家长正是有权对游戏产业实施监管的人。这并不意味着我们应该把角色塑造得甜美可爱，但我们应该非常清楚目标受众的年龄和发展水平。
 
 > **NOTE**
 > 
 > Don't forget that kids hate goody-two-shoes characters just as much as parents dislike characters with foul attitudes—but just because a character doesn't cop an attitude with authority figures doesn't make him a goody-two-shoes. The Scooby Doo kids are a pretty good example of nonattitude characters who nevertheless retain their appeal: intelligence, bravery, and resourcefulness. Scooby is funny, too, because despite his large size, he is a coward—hence, he helps make sure scary situations aren't too scary. In addition to this, because he's a dog and not a child, he doesn't get picked on or treated with contempt for being scared. This is actually a very clever solution. Notice also the Archie kids from the famous comic: You have the Everyman (Archie), the Goofball (Jughead), the Girl Next Door (Betty), the Fashion Plate (Veronica, whose beauty is offset by her vanity), and the Handsome Guy (Reggie, somewhat similar to Veronica in attitude). One common theme is that Jughead is pursued by an ugly girl, in a humorous (but actually slightly sexist) role reversal.
-> 别忘了，孩子们讨厌 "好孩子 "角色，就像家长们讨厌态度恶劣的角色一样--但一个角色不对权威人士摆架子，并不意味着他就是 "好孩子"。史酷比》中的孩子们就是一个很好的例子，他们是没有态度的角色，但仍然保持着自己的魅力：聪明、勇敢、机智。史酷比也很有趣，因为尽管他身材高大，但他是个胆小鬼--因此，他能帮助确保可怕的情况不会太可怕。除此之外，因为他是一只狗而不是一个孩子，所以他不会因为害怕而被人欺负或轻视。这其实是一个非常聪明的办法。请注意著名漫画《阿奇》中的阿奇孩子们： 他们分别是 "常人"（阿奇）、"笨蛋"（朱格海德）、"邻家女孩"（贝蒂）、"时尚板块"（维罗妮卡，她的美丽被虚荣心所抵消）和 "帅哥"（雷吉，他的态度与维罗妮卡有些相似）。一个共同的主题是 Jughead 被一个丑女孩追求，这是一个幽默（但实际上略带性别歧视）的角色转换。
+> 别忘了，孩子们讨厌 "好孩子 "角色，就像家长们讨厌态度恶劣的角色一样--但一个角色不对权威人士摆架子，并不意味着他就是 "好孩子"。史酷比》中的孩子们就是一个很好的例子，他们是没有态度的角色，但仍然保持着自己的魅力：聪明、勇敢、机智。史酷比也很有趣，因为尽管他身材高大，但他是个胆小鬼--因此，他能帮助确保可怕的情况不会太可怕。除此之外，因为他是一只狗而不是一个孩子，所以他不会因为害怕而被人欺负或轻视。这其实是一个非常聪明的办法。请注意著名漫画《阿奇》中的阿奇孩子们：他们分别是 "常人"（阿奇）、"笨蛋"（朱格海德）、"邻家女孩"（贝蒂）、"时尚板块"（维罗妮卡，她的美丽被虚荣心所抵消）和 "帅哥"（雷吉，他的态度与维罗妮卡有些相似）。一个共同的主题是 Jughead 被一个丑女孩追求，这是一个幽默（但实际上略带性别歧视）的角色转换。
