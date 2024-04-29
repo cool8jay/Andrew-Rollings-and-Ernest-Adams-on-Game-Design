@@ -99,7 +99,7 @@ What is this construct that we are calling the monomyth? In 1949, Joseph Campbel
 什么是我们所说的“单一神话”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单一神话，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型——那些出现在所有文化和时代中的人物——是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
 
 {% hint style="info" %}
-译者注：hero，根据上下文来确定它翻译为“英雄”或是“主人公”，“主角”。如果提到了英勇行为、高尚品质、非凡勇气时，就翻译为英雄。如果是分析小说、电影或游戏情节时，就翻译为“主人公”或者“主角”。
+译者注：hero，根据上下文来确定它翻译为“英雄”或是“主人公”，“主角”。唯一差别是，英雄需多了一些英勇行为、高尚品质等优秀的特点。
 {% endhint %}
 
 "Whether we listen with aloof amusement to [a] … witch doctor of the Congo, or read with cultivated rapture thin translations from the sonnets of the mystic Lao-tse; now and again crack the hard nutshell of an argument of Aquinas, or catch suddenly the shining meaning of [an] … Eskimo fairy tale: it will always be the one, shape-shifting yet marvelously constant story that we find, together with a challengingly persistent suggestion of more remaining to be experienced than will even be known or told."
@@ -364,10 +364,6 @@ The crossing of the threshold is the first test. In this phase, many more simila
 In this phase, the hero ventures forth into the special world and meets many of the character archetypes on the journey. For the majority of games, the character archetypes that the player meets are either allies, shadows, or tricksters. At the left edge of the story spectrum, you would expect to meet mainly shadows. For example, in Space Invaders, the player is alone against the alien onslaught—a hero surrounded by shadow.
 
 在这一阶段，主人公会冒险进入特殊的世界，并在旅途中遇到许多角色原型。在大多数游戏中，玩家遇到的角色原型要么是盟友，要么是阴影，要么是骗子。在故事光谱的左边缘，你会遇到的主要是阴影。例如，在《太空入侵者》中，玩家孤身一人对抗外星入侵者——一个被阴影包围的英雄。
-
-{% hint style="info" %}
-译者注：阴影代表主人公必须克服的障碍或敌人，它们是英雄旅程中的对立面。阴影可以是具体的敌人，也可以是主人公必须面对的内心恐惧或挑战。骗子，这些角色通常不按常规出牌，可能会误导主人公，或者以某种方式测试主人公的判断力和决策能力。
-{% endhint %}
 
 Slightly more complex games often provide allies, such as the fairies at the end of each Pac-Land level. In arcade-style games—those that place more emphasis on the action than the story—these are likely to be the only archetypes present. The player will go through a series of tests with successively more powerful shadows, to be given a brief respite when an ally occasionally shows up to replenish the hero's spirit and resolve. In some cases, the player might even encounter the trickster and shape-shifter archetypes in the form of false allies who turn out to be shadows after all.
 

@@ -172,7 +172,7 @@ Even games that you would not expect to have fully developed characters can gain
 
 Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》
 
-![](/.gitbook/assets/5.8.gif)
+![](/.gitbook/assets/5.8.jpg)
 
 Admittedly, it's not complex stuff—it could be taken further—but it's refreshing to see this sort of thing being attempted in the sort of games in which previously it was unheard of. Interaction between characters is one of the most interesting aspects of stories—sometimes more so than the actual plot. Although a plot details the path of a story (we cover this in the next chapter), the character interactions add a lot of flavor and subtlety that differentiate a well-crafted story from a fifth-grade English composition assignment.
 
@@ -194,7 +194,7 @@ The primary indicator of good characters in any medium is how well they develop 
 
 Language is a key cue to a character's personality. His grammar and vocabulary send all kinds of signals—about his social class, education, ethnic origin, and so on. These, in turn, connect with patterns—or stereotypes, if you prefer—in the player's mind. This is also true of the character's accent. One of the most interesting uses of this in recent years was in Starcraft, which drew on a variety of American accents to create several different types of characters. Although they did include the "redneck Southerner" stereotype, which was regrettable but practically inevitable, they also included the "Southern aristocrat" and "Western sheriff" speech patterns for Arcturus Mengsk and Jim Raynor, respectively; the laconic, monosyllabic diction of airline pilots for the Wraith pilots; a cheerful, competent Midwestern waitress for the pilots of the troop transports; and a sort of anarchic, gonzo biker for the Vulture riders. This gave the game a great deal of character and flavor that it would have otherwise lacked if it has used bland, undifferentiated voices.
 
-语言是人物个性的关键线索。他的语法和词汇会发出各种信号——关于他的社会阶层、教育程度、民族血统等等。反过来，这些信号又与玩家头脑中的模式或刻板印象联系在一起。角色的口音也是如此。近年来，《星际争霸》中最有趣的用法之一就是利用各种美国口音创造出几种不同类型的角色。虽然游戏中包含了 “南方乡巴佬”的刻板印象，这虽然令人遗憾，但实际上是不可避免的，但他们还分别为阿尔库图斯·蒙斯克和吉姆·雷诺加入了“南方贵族”和“西部警长”的语言模式；为幽灵战机飞行员加入了航空公司飞行员的生硬、单音节的发音；为运输机飞行员加入了开朗、干练的中西部女服务员；为秃鹫车手加入了一种无政府主义、古怪的摩托车手口音。这为游戏增添了许多特色和韵味，否则，如果使用平淡无奇的声音，游戏就会缺乏特色和韵味。
+语言是人物个性的关键线索。他的语法和词汇会发出各种信号——关于他的社会阶层、教育程度、民族血统等等。反过来，这些信号又与玩家头脑中的模式或刻板印象联系在一起。角色的口音也是如此。近年来，《星际争霸》中最有趣的用法之一就是利用各种美国口音创造出几种不同类型的角色。虽然游戏中包含了“南方乡巴佬”的刻板印象，这虽然令人遗憾，但实际上是不可避免的，但他们还分别为阿尔库图斯·蒙斯克和吉姆·雷诺加入了“南方贵族”和“西部警长”的语言模式；为幽灵战机飞行员加入了航空公司飞行员的生硬、单音节的发音；为运输机飞行员加入了开朗、干练的中西部女服务员；为秃鹫车手加入了一种无政府主义、古怪的摩托车手口音。这为游戏增添了许多特色和韵味，否则，如果使用平淡无奇的声音，游戏就会缺乏特色和韵味。
 
 If a character is flat and one-dimensional, then it shows. Sometimes this can be the desired effect, especially in the case of comedic computer games. Consider Duke Nukem, a muscle-bound, blond-haired, misogynist killing machine. You would not expect him to develop his sensitive side and start calling his mother halfway through the game. In this case, his one-dimensionality is funny—it's used well as part of the game. It also allows the player to easily slot himself into the role, knowing that it will remain consistent. This works so well because the player is glimpsing only a limited part of the life of Duke. For the player, it is part of the fun for him to play the role of a thinly motivated hero.
 
@@ -214,11 +214,11 @@ One way to do this is to tackle serious subjects in a mature fashion, with the b
 
 Figure 5.9. Postal. 图 5.9. 《喋血街头》。
 
-![](/.gitbook/assets/5.9.gif)
+![](/.gitbook/assets/5.9.png)
 
 Figure 5.10. Soldier of Fortune. 图 5.10. 《命运战士》。
 
-![](/.gitbook/assets/5.10.gif)
+![](/.gitbook/assets/5.10.jpg)
 
 "The most notable feature in Postal is the violence, and this is definitely NOT a game for the kiddies. It even comes with the gaming version of an NC-17 rating, as well it should. You don't kill demon spawn or mutant dino-zombies. You're shooting at people, watching their blood spill onto the street, hearing them wail for mercy or to be put out of their misery. There's a button for execution; just stand over a victim moaning in pain and finish him off. And if things get too grisly, you can even end your own life via a shotgun to the head. This is really some unprecedented and uncensored violence, so parents beware."
 
@@ -285,7 +285,7 @@ The various martial arts are a field full of Eastern traditions, with each style
 
 This same analogy is often applied to the hero's character development. That's why the diagram shown in Figure 5.11 is a circle. The hero, having achieved mastery of the special world, becomes a novice of circumstances in a new special world. This is the mechanism that is often used to create effective sequels.
 
-同样的类比也经常应用于英雄的性格发展。这就是为什么图 5.11 中的示意图是一个圆形。英雄，在特殊世界中取得了精通之后，又在新的特殊世界中成为一个新手。这就是通常用来创作有效续集的机制。
+同样的类比也经常应用于英雄的角色塑造。这就是为什么图 5.11 中的示意图是一个圆形。英雄，在特殊世界中取得了精通之后，又在新的特殊世界中成为一个新手。这就是通常用来创作有效续集的机制。
 
 This is a difficult concept to grasp, and it is even more difficult to implement well. Don't be too discouraged, though—some common techniques for effective character development are summarized at the end of this chapter. However, before we get to this new material, we need to cover some of the common character archetypes found in stories.
 
@@ -313,15 +313,15 @@ The hero is traditionally the center of the story. In our case, the hero is the 
 
 The most important thing to do with the hero is ensure that the players can identify with the character. The hero should have qualities that the players can appreciate and empathize with. The hero's goals should become the player's goals. How you choose to implement this depends very much on the nature of the hero. For example, in Oddworld: Munch's Odyssey, the two heroes, Abe and Munch (shown in Figure 5.12), certainly don't win any beauty awards, but they still appeal successfully to the player.
 
-英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在《奇异世界：蒙克历险记》中，两位英雄阿比和蒙克（如图 5.12 所示）肯定不会赢得任何美貌奖，但他们仍然成功地吸引了玩家。
+英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在《奇异世界：芒奇历险记》中，两位英雄阿比和芒奇（如图 5.12 所示）肯定不会赢得任何选美奖项，但他们仍然成功地吸引了玩家。
 
-Figure 5.12. Abe and Munch. 图 5.12. 阿比和蒙克。
+Figure 5.12. Abe and Munch. 图 5.12. 阿比和芒奇。
 
 ![](/.gitbook/assets/5.12.png)
 
 There are a number of possible reasons for this. Note that both Abe and Munch follow the super-sensuality guidelines mentioned earlier, with large eyes and big foreheads, echoing those of babies. Despite (or perhaps because of ) their ugliness, and the fact that they are enslaved underdogs of a much uglier ruling class, they appeal to a wide range of players and have been a surprising success. It's surprising, that is, for the developers. However, close examination of the archetypes and the characteristics of Abe and Munch (as well as the quality of the games in which they were introduced) indicates that the success isn't as surprising as it might initially seem.
 
-这可能有多种原因。请注意，阿比和蒙克都遵循了前面提到的超感官体验准则，他们的大眼睛和大额头与婴儿的眼睛和额头如出一辙。尽管（或许正因为）他们的丑陋，以及他们是更丑陋的统治阶级中被奴役的弱势群体这一事实，他们还是吸引了众多玩家，并取得了令人惊讶的成功。对于开发者来说，这是令人惊讶的。然而，仔细研究一下阿比和蒙克的原型和特点（以及推出他们的游戏的质量）就会发现，他们的成功并不像最初看起来那么令人惊讶。
+这可能有多种原因。请注意，阿比和芒奇都遵循了前面提到的超感官体验准则，他们的大眼睛和大额头与婴儿的眼睛和额头如出一辙。尽管（或许正因为）他们的丑陋，以及他们是更丑陋的统治阶级中被奴役的弱势群体这一事实，他们还是吸引了众多玩家，并取得了令人惊讶的成功。对于开发者来说，这是令人惊讶的。然而，仔细研究一下阿比和芒奇的原型和特点（以及推出他们的游戏的质量）就会发现，他们的成功并不像最初看起来那么令人惊讶。
 
 Of course, as we stated in our guidelines, after the initial interest has been created, it has to be maintained. One of the primary methods for doing this is to make sure that the hero changes and grows during the course of the game. Depending on the style of the game, this could be a real growth—in personality and demeanor—or a more straightforward approach, such as with power-ups and improvement of characteristics. The latter method is far more common in games, although some games do make use of the former to some extent. Planescape: Torment is a specific example that springs to mind, even though it uses standard stats-pumping growth, too.
 
@@ -337,19 +337,19 @@ Perversely, the hero doesn't necessarily have to be heroic: The antihero is also
 
 Heroes are not always on their own. In some games, the "hero" is represented by a group of individuals: the hero team. These are common in role-playing games. Often, though less frequently nowadays, character development in hero teams is limited; in the case of role-playing games, they are computer-generated characters created and customized by the player. However, when hero teams are used in multi-player games (such as Diablo and Diablo II), each player represents an individual hero. In single-player games, the player tends to pick a "favorite," and that character becomes her avatar. Sometimes games even mandate this choice for the player; examples of games that do this are Baldur's Gate, Planescape: Torment, and Anachronox (shown in Figure 5.13).
 
-英雄并不总是单打独斗。在一些游戏中，“英雄”由一群人代表：英雄团队。这在角色扮演游戏中很常见。在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如《暗黑破坏神》和《暗黑破坏神2》）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个“最喜爱”的英雄，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；《博德之门》、《异域镇魂曲》和《源毒》（如图 5.13 所示）。
+英雄并不总是单打独斗。在一些游戏中，“英雄”由一群人代表：英雄团队。这在角色扮演游戏中很常见。通常情况下，英雄团队中的角色塑造有限，但如今这种情况已较少见；在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如《暗黑破坏神》和《暗黑破坏神2》）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个“最喜爱”的英雄，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；《博德之门》、《异域镇魂曲》和《源毒》（如图 5.13 所示）。
 
 Figure 5.13. Anachronox.  图 5.13. 《源毒》。
 
-![](/.gitbook/assets/5.13.gif)
+![](/.gitbook/assets/5.13.png)
 
 In fact, Tom Hall's Anachronox is one of two excellent games that came out of Ion Storm. ( Deus Ex is the other.) Unfortunately, by the time these games were released, the well had already been poisoned by the lamentable Daikatana (starting with the infamous "John Romero's about to make you his bitch" advertising campaign).
 
-事实上，汤姆·霍尔（Tom Hall）的《Anachronox》是《离子风暴》推出的两款优秀游戏之一（另一款是《Deus Ex》）。(不幸的是，当这些游戏发布时，这口井已经被可悲的《Daikatana》毒化了（从臭名昭著的 "约翰-罗梅罗要把你变成他的婊子 "广告宣传开始）。
+事实上，汤姆·霍尔的《毒源》是离子风暴推出的两款优秀游戏之一（另一款是《杀出重围》）。(不幸的是，当这些游戏发布时，这口井已经被可悲的《大刀》毒化了（从臭名昭著的“约翰·罗梅洛要把你变成他的婊子”广告宣传开始）。
 
 The hero of Anachronox, Sylvester (Sly) Boots, is a down-on-his-luck private detective who is being harassed by the local mob to pay back some debts. Sly Boots is a good example of a hero because, characteristically, a hero can be made more appealing by giving them a vulnerability. Heroes often have an inner problem and an outer problem. These can shift as the game progresses. The outer problem is the general quest that is the aim of the game. The inner problem is usually something personal to the hero. In Sly's case, his vulnerability is his debt. At the start of the game, Sly is being beaten to a pulp by a goon. His vulnerability is his lack of cash, so the first task for the player is to help him find a job. Initially, this is his outer problem. However, as the game progresses, this morphs into a grander quest to save the universe. Sly's inner problem is that he is a low-life. This affects the attitude of the other characters in the game toward him and serves to make the quest more difficult than it might have been otherwise. More important, it adds an extra dimension to the character that creates an air of believability.
 
-Anachronox 的主人公 Sylvester (Sly) Boots 是一名倒霉的私家侦探，他受到当地黑帮的骚扰，要求他偿还一些债务。斯莱-布茨是英雄的一个很好的例子，因为从特点上讲，英雄可以通过赋予其弱点而变得更有吸引力。英雄往往有内在的问题和外在的问题。随着游戏的进行，这些问题会发生变化。外在问题是游戏的总体目标。内在问题通常是英雄的个人问题。以斯莱为例，他的弱点就是他的债务。游戏一开始，斯莱就被一个恶棍打得鼻青脸肿。他的弱点是没有现金，因此玩家的第一个任务就是帮他找一份工作。起初，这是他的外在问题。然而，随着游戏的进行，这演变成了拯救宇宙的更宏大的任务。斯莱的内在问题是他是一个卑鄙小人。这影响了游戏中其他角色对他的态度，也增加了任务的难度。更重要的是，这为角色增添了一个额外的维度，营造出一种可信的氛围。
+《毒源》的主人公西尔维斯特（斯莱）·布茨是一名倒霉的私家侦探，他受到当地黑帮的骚扰，要求他偿还一些债务。斯莱·布茨是英雄的一个很好的例子，因为从特点上讲，英雄可以通过赋予其弱点而变得更有吸引力。英雄往往有内在的问题和外在的问题。随着游戏的进行，这些问题会发生变化。外在问题是游戏的总体目标。内在问题通常是英雄的个人问题。以斯莱为例，他的弱点就是他的债务。游戏一开始，斯莱就被一个恶棍打得鼻青脸肿。他的弱点是没有现金，因此玩家的第一个任务就是帮他找一份工作。起初，这是他的外在问题。然而，随着游戏的进行，这演变成了拯救宇宙的更宏大的任务。斯莱的内在问题是他是一个卑鄙小人。这影响了游戏中其他角色对他的态度，也增加了任务的难度。更重要的是，这为角色增添了一个额外的维度，营造出一种可信的氛围。
 
 In summary, the hero's outer problem can be stated as the aim of the game, whereas the inner problem is a character flaw or some other dark secret. The player might not even know the inner problem at the outset. Planescape: Torment uses this particular mechanism well.
 
@@ -359,15 +359,15 @@ In summary, the hero's outer problem can be stated as the aim of the game, where
 
 The mentor is the guide character. It can come in many formats: the clichéd d wise old man or woman , the supernatural aid, or even the hero's own internal voice. The most familiar example of this that will spring to mind for most people is the character of Obi Wan Kenobi and his relationship with the would-be Jedi, Luke Skywalker.
 
-导师是指导角色。它有多种形式：老生常谈的睿智老人、超自然的助手，甚至是主人公自己内心的声音。大多数人脑海中最熟悉的例子就是欧比-旺-克诺比（Obi Wan Kenobi）这个角色，以及他与即将成为绝地武士的卢克-天行者（Luke Skywalker）之间的关系。
+导师是指导角色。它有多种形式：老生常谈的睿智老人、超自然的助手，甚至是主人公自己内心的声音。大多数人脑海中最熟悉的例子就是欧比旺·克诺比（Obi Wan Kenobi）这个角色，以及他与即将成为绝地武士的卢克·天行者（Luke Skywalker）之间的关系。
 
 Anachronox uses the mentor archetype brilliantly: Boots' mentor is his dead secretary. After she dies in some unspecified accident , Sly had her brain digitized and stored in a small device called a "life-cursor" (which also doubles as the player's game control cursor). This allows her to continue to function as a secretary, with the added benefit of being hooked into the world's computer systems. This also allows her to manage the adventure bookkeeping, providing timely advice and hints to Sly, and acting as a story guide to seamlessly keep the hero within the bounds of the designer's gameplay plans.
 
-Anachronox》出色地运用了导师原型：博茨的导师是他死去的秘书。在她死于某次不明事故后，斯莱将她的大脑数字化，并储存在一个名为 "生命光标 "的小型装置中（同时也是玩家的游戏控制光标）。这样，她就可以继续担任秘书一职，而且还能与世界上的计算机系统相连接。这也让她能够管理冒险的记账工作，为斯莱提供及时的建议和提示，并充当故事的引导者，将主人公完美地控制在设计者的游戏计划范围内。
+《毒源》出色地运用了导师原型：博茨的导师是他死去的秘书。在她死于某次不明事故后，斯莱将她的大脑数字化，并储存在一个名为“生命光标”的小型装置中（同时也是玩家的游戏控制光标）。这样，她就可以继续担任秘书一职，而且还能与世界上的计算机系统相连接。这也让她能够管理冒险的记账工作，为斯莱提供及时的建议和提示，并充当故事的引导者，将主人公完美地控制在设计者的游戏计划范围内。
 
 Mentors are not always positive. A mentor can also give bad advice deliberately designed to mislead the hero or to lead him down an evil path. A classic example of this form of "dark mentor" is the devilish advisor in Peter Molyneux's Black and White.
 
-导师并不总是积极的。导师也可能故意给出错误的建议，误导主人公或将其引向邪路。彼得-莫利纽克斯（Peter Molyneux）的《黑与白》（Black and White）中的魔鬼顾问就是这种 "黑暗导师 "的典型代表。
+导师并不总是积极的。导师也可能故意给出错误的建议，误导主人公或将其引向邪路。彼得·莫利纽克斯的《黑与白》中的魔鬼顾问就是这种“黑暗导师”的典型代表。
 
 ### Higher Self 更高的自我
 
@@ -377,83 +377,83 @@ The higher self is the hero as he aspires to be. It is the ideal form of the her
 
 There are many examples in role-playing of this particular motif. For example, the whole premise of Planescape: Torment is based on the transmutation of the Nameless One into his higher self. He is a character with amnesia but a distinct past, who seeks to regain his name and his memory. In the process of doing so, he might also have amends to make to people he has hurt in the past.
 
-在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，《异域镇魂曲》的整个前提就是 "无名者 "转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
+在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，《异域镇魂曲》的整个前提就是“无名者”转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
 
 ### Allies 盟友
 
 Allies are those characters placed in the game to aid the hero. Many games use the ally archetype. The aim of the ally is to aid the hero in the quest and help to complete tasks that would have been difficult or nearly impossible without aid. Han Solo is the classic example of the ally archetype that most people know.
 
-盟友是指在游戏中为英雄提供帮助的角色。许多游戏都使用盟友原型。盟友的目的是协助英雄完成任务，帮助完成那些如果没有援助就很难完成或几乎不可能完成的任务。韩-索罗（Han Solo）是大多数人都知道的盟友原型的典型例子。
+盟友是指在游戏中为英雄提供帮助的角色。许多游戏都使用盟友原型。盟友的目的是协助英雄完成任务，帮助完成那些如果没有援助就很难完成或几乎不可能完成的任务。韩·索罗是大多数人都知道的盟友原型的典型例子。
 
-We are sure you can think of many examples of this because it is one of the most common archetypes. An obvious example is the role of the scientists and security guards in Half-Life . In many instances, they team up with the hero, Gordon Freeman, to provide advice and help him get past obstacles, such as doors with retina scanner “based locks.
+We are sure you can think of many examples of this because it is one of the most common archetypes. An obvious example is the role of the scientists and security guards in Half-Life . In many instances, they team up with the hero, Gordon Freeman, to provide advice and help him get past obstacles, such as doors with retina scanner-based locks.
 
-我们相信你能想到很多这样的例子，因为这是最常见的原型之一。一个明显的例子是《半条命》中科学家和保安的角色。在许多情况下，他们会与主人公戈登-弗里曼（Gordon Freeman）合作，为他提供建议并帮助他越过障碍，例如装有视网膜扫描仪的 "门锁"。
+我们相信你能想到很多这样的例子，因为这是最常见的原型之一。一个明显的例子是《半条命》中科学家和保安的角色。在许多情况下，他们会与主人公戈登·弗里曼合作，为他提供建议并帮助他越过障碍，例如装有视网膜扫描仪锁的门。
 
-### Shape Shifter 变形怪
+### Shape Shifter 变形人
 
 The shape shifter is the most elusive archetype used in stories. The role of the shape shifter is to appear in one form, only to be revealed later in the story as another. It's a catch-all transitional archetype that governs the transformation of characters.
 
-变形人是故事中最难以捉摸的原型。变形怪的作用是以一种形态出现，但在故事的后期又会以另一种形态出现。它是一种包罗万象的过渡原型，支配着角色的转变。
+变形人是故事中最难以捉摸的原型。变形人的作用是以一种形态出现，但在故事的后期又会以另一种形态出现。它是一种包罗万象的过渡原型，支配着角色的转变。
 
 For example, an ally or mentor could turn out to be a trickster or a shadow. A character that initially helps a player could turn out to have been acting in his own interests, finally betraying the hero when his aims are achieved.
 
-例如，盟友或导师可能会变成骗子或影子。一开始帮助玩家的角色可能会被证明是为了自己的利益而行动，最终在英雄的目的达到后背叛了英雄。
+例如，盟友或导师可能会变成骗子或阴影。一开始帮助玩家的角色可能会被证明是为了自己的利益而行动，最终在英雄的目的达到后背叛了英雄。
 
 An example of this archetype from classic literature is the evil queen in Snow White . She appears to Snow White as an ally and mentor (the wizened old woman with the apples) before revealing herself to be a shadow and a trickster when Snow White is poisoned. An example from a game is the White Lord from the old role-playing game Dungeon Master . The White Lord initially acts as a mentor/herald, tasking the adventurers to enter a dungeon and seek out and destroy the Black Lord. If they achieve this, then upon return to the surface, the White Lord declares that they have been tainted by the evil of the dungeon and attempts to destroy them (becoming a shadow).
 
-经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的影子和诡计。游戏中的一个例子是老式角色扮演游戏《地下城主》中的白魔王。白魔王最初扮演导师/传令官的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（成为影子）。
+经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的阴影和诡计。游戏中的一个例子是老式角色扮演游戏《地下城主》中的白魔王。白魔王最初扮演导师/预言家的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（变成了阴影）。
 
 ### Threshold Guardian 门槛守护者
 
 The threshold guardian is another very common archetype used across the whole spectrum of game types. The role of the threshold guardian is to prevent the progress of the hero by whatever means are necessary—at least, until the hero has proven his worth. Sometimes the threshold guardian appears as a lesser form of the shadow archetype, maybe as a henchman or a lieutenant of the main shadow.
 
-门槛守护者是另一种非常常见的原型，在所有游戏类型中都有使用。门槛守护者的作用是通过一切必要手段阻止英雄前进--至少在英雄证明自己的价值之前是这样。有时，门槛守护者会以较低形式的影子原型出现，可能是主要影子的随从或副手。
+门槛守护者是另一种非常常见的原型，在所有游戏类型中都有使用。门槛守护者的作用是通过一切必要手段阻止英雄前进——至少在英雄证明自己的价值之前是这样。有时，门槛守护者会以较低形式的阴影原型出现，可能是主要阴影的随从或副手。
 
 The most obvious example is the classic end-of-level boss used in virtually every arcade game since the Creation. A more subtle use of this archetype does not use force to dissuade the hero. It could be voiced by the hero's own self-doubt, or the warnings and ministrations of a mentor character. Consider the role of Yoda in The Empire Strikes Back . Although he acted as a mentor in training young Luke in the ways of the force, he also cautioned strongly against Luke leaving to face Darth Vader. Luke's training had not been completed, and he was not yet ready to face his nemesis.
 
-最明显的例子就是《创世纪》以来几乎所有街机游戏中都会出现的经典关卡终结 Boss。这种原型还有一种更巧妙的用法，即不使用武力来劝阻英雄。它可以是英雄自己的自我怀疑，也可以是导师角色的警告和教诲。考虑一下《帝国反击战》中尤达的角色。虽然他以导师的身份训练年轻的卢克掌握力量之道，但他也强烈警告卢克不要去面对达斯-维达。卢克的训练尚未完成，他还没有准备好面对他的克星。
+最明显的例子就是《创世纪》以来几乎所有街机游戏中都会出现的经典关卡终结首领。这种原型还有一种更巧妙的用法，即不使用武力来劝阻英雄。它可以是英雄自己的自我怀疑，也可以是导师角色的警告和教诲。考虑一下《帝国反击战》中尤达的角色。虽然他以导师的身份训练年轻的卢克掌握力量之道，但他也强烈警告卢克不要去面对达斯·维达。卢克的训练尚未完成，他还没有准备好面对他的克星。
 
-### Trickster 捣蛋鬼
+### Trickster 骗子
 
 Tricksters are often neutral characters in storylines who delight in making mischief for the hero. They can also make an excellent (incompetent or otherwise) sidekick for the hero or the shadow, giving an easy opportunity to inject some comic relief to lighten the storyline.
 
-诡计多端的人通常是故事情节中的中立角色，他们乐于为英雄制造恶作剧。他们也可以成为英雄或影子的优秀（无能或其他）跟班，为故事情节的轻松愉快注入一些喜剧色彩。
+诡计多端的人通常是故事情节中的中立角色，他们乐于为英雄制造恶作剧。他们也可以成为英雄或阴影的优秀（无能或其他）跟班，为故事情节的轻松愉快注入一些喜剧色彩。
 
 There are many examples of trickster characters that we can draw on. For example, Bugs Bunny from Warner Brothers cartoons is one; Wile E. Coyote is a trickster, too, but his tricks always fail, or the Roadrunner out-tricks him. The trickster is someone who achieves his ends through cleverness , resourcefulness, or lateral thinking, especially in the face of superior force. Actually, this could be said of the hero in a fair number of adventure games; the puzzles represent the "tricks" in a way, especially if they're set up that way.
 
-我们可以借鉴很多捣蛋鬼角色的例子。例如，华纳兄弟动画片中的兔八哥就是其中之一；威利-E-土狼（Wile E. Coyote）也是一个诡计多端的人，但他的诡计总是失败，或者被跑路者耍得团团转。诡计多端的人通过聪明、机智或横向思维来达到目的，尤其是在面对强大的力量时。实际上，这也可以说是相当多冒险游戏中的主人公；谜题在某种程度上就代表了 "诡计"，尤其是当谜题是这样设置的时候。
+我们可以借鉴很多骗子角色的例子。例如，华纳兄弟动画片中的兔八哥就是其中之一；威利狼也是一个骗子，但他的诡计总是失败，或者被哔哔鸟耍得团团转。骗子通过聪明、机智或横向思维来达到目的，尤其是在面对强大的力量时。实际上，这也可以说是相当多冒险游戏中的主人公；谜题在某种程度上就代表了“诡计”，尤其是当谜题是这样设置的时候。
 
 For example, the hero often has to trick a threshold guardian into leaving the threshold. In a way, this was the role of Bilbo Baggins in The Hobbit : He wasn't brought along on the adventure for his strength, but for his cleverness, which was eventually augmented by the Ring that made him invisible.
 
-例如，主人公往往要骗过门槛守护者，让他离开门槛。在某种程度上，这就是《霍比特人》中比尔博-巴金斯的角色：他并不是因为力气大才被带上冒险的，而是因为他的聪明才智，而他的聪明才智最终又被能让他隐身的魔戒增强了。
+例如，主人公往往要骗过门槛守护者，让他离开门槛。在某种程度上，这就是《霍比特人》中比尔博·巴金斯的角色：他并不是因为力气大才被带上冒险的，而是因为他的聪明才智，而他的聪明才智最终又被能让他隐身的魔戒增强了。
 
 ### Shadow 阴影
 
-The shadow is arguably the second most important character after the hero himself. In some stories, the shadow is elevated to the number-one rank. For example, Ritual Entertainment's Sin 's main selling point was the shadow, Elexis Sinclaire, a beautiful, sexy CEO of a massive bio-tech corporation who happened to have a penchant for clothes and makeup that wouldn't appear out of place on a street-walking extra from the film Pretty Woman . Aside from the fact that the biographical details for Elexis Sinclaire (shown in Figure 5.14) are straight out of a (bad) schoolboy fantasy, the emphasis of the game is on her as the primary character in the game.
+The shadow is arguably the second most important character after the hero himself. In some stories, the shadow is elevated to the number-one rank. For example, Ritual Entertainment's Sin's main selling point was the shadow, Elexis Sinclaire, a beautiful, sexy CEO of a massive bio-tech corporation who happened to have a penchant for clothes and makeup that wouldn't appear out of place on a street-walking extra from the film Pretty Woman. Aside from the fact that the biographical details for Elexis Sinclaire (shown in Figure 5.14) are straight out of a (bad) schoolboy fantasy, the emphasis of the game is on her as the primary character in the game.
 
-影子可以说是仅次于英雄本身的第二重要角色。在一些故事中，"影子 "被提升到了第一位。例如，Ritual Entertainment 公司的《罪》的主要卖点就是影子 Elexis Sinclaire，她是一家大型生物科技公司美丽、性感的首席执行官，同时还喜欢穿衣化妆，这与电影《风月俏佳人》中的街头女演员并无二致。除了 Elexis Sinclaire 的详细履历（如图 5.14 所示）直接来自（糟糕的）学生幻想之外，游戏的重点在于她是游戏中的主要角色。
+阴影可以说是仅次于英雄本身的第二重要角色。在一些故事中，阴影被提升到了第一位。例如，Ritual Entertainment 公司的《罪》的主要卖点就是阴影埃莱克西斯·辛克莱尔，她是一家大型生物科技公司美丽、性感的首席执行官，同时还喜欢穿衣化妆，这与电影《风月俏佳人》中的街头女演员并无二致。除了埃莱克西斯·辛克莱尔的详细履历（如图 5.14 所示）直接来自（糟糕的）学生幻想之外，游戏的重点在于她是游戏中的主要角色。
 
-Figure 5.14. Elexis Sinclaire.
+Figure 5.14. Elexis Sinclaire. 图 5.14. 埃莱克西斯·辛克莱尔。
 
-![](/.gitbook/assets/5.14.gif)
+![](/.gitbook/assets/5.14.png)
 
 In other games, the shadow lives up to its designation—remaining mysterious until the story climax, when it is revealed in a flourish and a flash of lightning. This can add a lot to the gameplay, especially because part of the gameplay is often to find out the identity of the shadow. This can add a lot of dramatic tension and mystery to augment the gameplay.
 
-在其他游戏中，“影子”的称号名副其实——一直保持神秘，直到故事的高潮部分，“影子”才会在闪亮的闪电中现身。这可以为游戏增色不少，尤其是因为游戏的一部分玩法往往是找出影子的身份。这可以增加游戏的戏剧张力和神秘感。
+在其他游戏中，阴影的称号名副其实——一直保持神秘，直到故事的高潮部分，阴影才会在闪亮的闪电中现身。这可以为游戏增色不少，尤其是因为游戏的一部分玩法往往是找出阴影的身份。这可以增加游戏的戏剧张力和神秘感。
 
 The shadow is the ultimate evil, the great adversary that is responsible for the hero being in the predicament that he is in. Sometimes this is a personal decision: The shadow has a vendetta against the hero. In other situations, the shadow doesn't even know of the hero, and only the actions of the shadow affecting the hero on a personal level spur him to action. Of course, the shadow doesn't even have to be a concrete entity: It could be just a set of circumstances or feelings within the hero himself. His own dark side could be the shadow.
 
-影子是终极恶魔，是导致英雄陷入困境的强大对手。有时这是个人的决定：影子与英雄有仇。在其他情况下，影子甚至不知道英雄的存在，只有影子在个人层面上影响到英雄的行为才会促使他采取行动。当然，影子不一定是一个具体的实体：它可以只是主人公自身的一系列情况或感受。他自己的阴暗面可能就是阴影。
+阴影是终极恶魔，是导致英雄陷入困境的强大对手。有时这是个人的决定：阴影与英雄有仇。在其他情况下，阴影甚至不知道英雄的存在，只有阴影在个人层面上影响到英雄的行为才会促使他采取行动。当然，阴影不一定是一个具体的实体：它可以只是主人公自身的一系列情况或感受。他自己的阴暗面可能就是阴影。
 
 ### Herald 预言家
 
 The herald archetype is used to provide the hero with a change of direction and propel the story in a different direction. The herald is often used to facilitate change in the story.
 
-先驱原型用于为英雄改变方向，推动故事向不同的方向发展。预言家通常被用来促进故事的变化。
+预言家原型用于为英雄改变方向，推动故事向不同的方向发展。预言家通常被用来促进故事的变化。
 
 Princess Leia's message to Obi-Wan Kenobi that Luke discovers in R2D2's memory serves this function. It's unclear whether Princess Leia or R2D2 is the herald, but it doesn't really matter: Luke gets the message from a figure who provides his necessary "change of direction."
 
-卢克在 R2D2 的记忆中发现的莱娅公主给欧比旺-克诺比的信息就具有这种功能。目前还不清楚是莉亚公主还是 R2D2 是预言者，但这并不重要：卢克从一个为他提供必要的 "改变方向 "的角色那里获得了信息。
+卢克在 R2D2 的记忆中发现的莱娅公主给欧比旺·克诺比的信息就具有这种功能。目前还不清楚是莉亚公主还是 R2D2 是预言者，但这并不重要：卢克从一个为他提供必要的“改变方向”的角色那里获得了信息。
 
 Another example is the voice of the narrator in Dungeon Keeper. This could be described as a herald: He describes the challenges to be faced in the level ahead and keeps the player appraised of the progress of the campaign.
 
@@ -461,22 +461,22 @@ Another example is the voice of the narrator in Dungeon Keeper. This could be de
 
 The function of a herald is to provide a motivation to the hero to progress in the story. Heralds can be positive, negative, or neutral. It doesn't need to be the classic herald of Greek literature. In fact, the herald doesn't have to be a character at all: The call of the herald could simply be a set of tricks to mislead the hero into a certain route or path.
 
-预言家的作用是为故事中的英雄提供前进的动力。预言可以是正面的、负面的或中性的。它不一定是希腊文学中的经典预言家。事实上，预言者根本不一定是一个角色：预言家的召唤可能只是一套误导主人公进入特定路线或路径的把戏。
+预言家的作用是为故事中的英雄提供前进的动力。预言可以是正面的、负面的或中性的。它不一定是希腊文学中的经典预言家。事实上，预言者根本不一定是一个角色：预言家的召唤可能只是一套误导英雄进入特定路线或路径的把戏。
 
-> **Character Development Worksheet 角色发展工作表**
+> **Character Development Worksheet 角色塑造工作表**
 > 
 > 1. Are the game's characters primarily art-based or story-based?
-> 游戏中的角色主要是艺术性的还是故事性的？
+> 游戏中的角色主要是基于艺术的还是故事？
 > 2. What style is your art-based character drawn in: cartoon, comic-book superhero, realistic, gothic, and so on? Will your character be exaggerated in some way: cute, super-sensual, or otherwise?
-> 你的艺术角色是什么风格的：卡通、漫画超级英雄、写实、哥特等等？您的角色是否会有某种夸张：可爱、超感性或其他？
+> 你的基于艺术的角色是什么风格：卡通、漫画超级英雄、写实、哥特等等？你的角色是否会有某种夸张：可爱、超感性或其他？
 > 3. Do your art-based characters depend upon visual stereotypes for instant identification, or are they more subtle than that? If they are more subtle, how does their appearance support their role in the game?
-> 你的艺术作品中的角色是依靠视觉上的刻板印象让人一眼就能识别出来，还是比这更微妙？如果更微妙，他们的外表如何支持他们在游戏中的角色？
+> 你的基于艺术的角色是依靠视觉上的刻板印象让人一眼就能识别出来，还是比这更微妙？如果更微妙，他们的外表如何支持他们在游戏中的角色？
 > 4. Can the player tell by looking at a character how that character is likely to act? Are there reasons in the story or gameplay for wanting a character's behavior to be predictable from his appearance, or is there a reason to make the character ambiguous?
 > 玩家能否通过观察角色就能判断出该角色可能采取的行动？在故事或游戏中，是否有理由让玩家从角色的外表就能预测到他的行为，还是有理由让角色的行为模棱两可？
-> 5. If the game has an avatar, does the avatar have a sidekick? What does the sidekick offer the player ”information, advice, physical assistance? How will the sidekick complement the avatar? How will the player be able to visually distinguish between the two of them at a glance?
-> 如果游戏中有一个化身，那么这个化身是否有一个跟班？他能为玩家提供什么 "信息、建议、身体帮助"？小跟班如何与化身互补？玩家如何一眼就能分辨出他们两人？
+> 5. If the game has an avatar, does the avatar have a sidekick? What does the sidekick offer the player—information, advice, physical assistance? How will the sidekick complement the avatar? How will the player be able to visually distinguish between the two of them at a glance?
+> 如果游戏中有一个化身，那么这个化身是否有一个跟班？他能为玩家提供什么信息、建议、实际帮助？小跟班如何与化身互补？玩家如何一眼就能分辨出他们两人？
 > 6. With a story-based character, how will you convey the character's personality and attitudes to the player? Through narration, dialog, gameplay, backstory , or other means?
-> 对于有故事性的角色，你将如何向玩家传达角色的个性和态度？是通过叙述、对话、游戏、背景故事还是其他方式？
+> 对于基于故事的角色，你将如何向玩家传达角色的个性和态度？是通过叙述、对话、游戏、背景故事还是其他方式？
 > 7. How does the character's grammar, vocabulary, tone of voice, and speech patterns contribute to the player's understanding of her?
 > 角色的语法、词汇、语气和说话方式如何帮助玩家理解她？
 > 8. Specifically in the case of avatar characters, what about the avatar will intrigue and interest the player?
@@ -484,10 +484,9 @@ The function of a herald is to provide a motivation to the hero to progress in t
 > 9. What about the avatar will encourage the player to like him?
 > 化身的哪些方面会促使玩家喜欢他？
 > 10. How will the avatar change and grow throughout the game?
-> 在整个游戏过程中，化身将如何变化和成长？在整个游戏过程中，化身将如何变化和成长？
+> 在整个游戏过程中，化身将如何变化和成长？
 > 11. Does the character (any character, not just the avatar) correspond to one of Campbell's mythic archetypes: the hero, mentor, ally, threshold guardian, and so on? Or does he have a less archetypal, more complex role to play, and if so, what is it?
-> 角色（任何角色，不仅仅是玩家角色）是否符合坎贝尔的神话原型之一：英雄、导师、盟友、门槛守卫等？还是他扮演一个不那么典型、更复杂的角色，如果是这样，那是什么？
-> 
+> 角色（任何角色，不仅仅是化身）是否符合坎贝尔的神话原型之一：英雄、导师、盟友、门槛守卫等？还是他扮演一个不那么典型、更复杂的角色，如果是这样，那是什么？
 
 # Putting It Together 总结
 
@@ -495,19 +494,22 @@ In any character design effort, some technical considerations need to be taken i
 
 在任何角色设计工作中，都需要考虑一些技术因素。例如，玩家的头像需要有最多的动画，而且必须是最流畅的动画，因为玩家一直在观看这个角色。
 
-The avatar's movements must be attractive, not clumsy, unless that's part of the avatar's character. The player should be able to see the avatar easily: The avatar should be a distinct color that stands out from the background (at least, in action games ) and should not be able to be mistaken for an enemy or a sidekick. When designing a group of human characters , consider useful ways of differentiating them: sex, hair color, general body shape, clothing, distinctive weapons or tools. You can also give them distinctive names and ethnicities, if appropriate. (The men of Sergeant Rock's Easy Company in the old DC Comics World War II series reflected the ethnic diversity of America, with names such as Dino Manelli, Izzy Cohen, and "Reb" Farmer ”not to mention our square-jawed American hero, Sgt. Frank Rock.)
+The avatar's movements must be attractive, not clumsy, unless that's part of the avatar's character. The player should be able to see the avatar easily: The avatar should be a distinct color that stands out from the background (at least, in action games ) and should not be able to be mistaken for an enemy or a sidekick. When designing a group of human characters , consider useful ways of differentiating them: sex, hair color, general body shape, clothing, distinctive weapons or tools. You can also give them distinctive names and ethnicities, if appropriate. (The men of Sergeant Rock's Easy Company in the old DC Comics World War II series reflected the ethnic diversity of America, with names such as Dino Manelli, Izzy Cohen, and "Reb" Farmer—not to mention our square-jawed American hero, Sgt. Frank Rock.)
 
-化身的动作必须吸引人，而不是笨拙，除非这是化身性格的一部分。玩家应能很容易地看到化身：化身的颜色应该鲜明，能从背景中脱颖而出（至少在动作游戏中是这样），而且不能被误认为是敌人或跟班。在设计一组人类角色时，要考虑区分他们的有用方法：性别、发色、一般体形、服装、独特的武器或工具。如果合适的话，还可以给他们起独特的名字和种族。(旧版 DC 漫画《二战》系列中的 "洛克中士简易连 "的士兵们反映了美国的种族多样性，他们的名字包括迪诺-马内利、伊兹-科恩和 "雷布"-法默，更不用说我们的方下巴美国英雄弗兰克-洛克中士了）。
+化身的动作必须吸引人，而不是笨拙，除非这是化身性格的一部分。玩家应能很容易地看到化身：化身的颜色应该鲜明，能从背景中脱颖而出（至少在动作游戏中是这样），而且不能被误认为是敌人或跟班。在设计一组人类角色时，要考虑区分他们的有用方法：性别、发色、一般体形、服装、独特的武器或工具。如果合适的话，还可以给他们起独特的名字和种族。(旧版 DC 漫画《二战》系列中的“洛克中士简易连”的士兵们反映了美国的种族多样性，他们的名字包括迪诺·马内利、伊兹·科恩和“雷布”法默——更不用说我们的方下巴美国英雄弗兰克·洛克中士了）。
 
 Of course, there is a flipside to this as well. Naming your characters in such a fashion lends a "cartoon-like" style to it. This is fine for some purposes, but for others it is not necessarily such a good fit. It's just not realistic, and if realism is your aim, then it cheapens the final result. Notice that we, the authors of this book, are not called Ernest O'Scribe or Andrew Penn-Wielder.
 
-当然，这也有一个反面。以这种方式命名角色会使角色具有 "卡通 "风格。这在某些情况下没有问题，但在其他情况下就不一定那么合适了。这并不现实，如果现实主义是你的目标，那么它就会降低最终结果的价值。请注意，我们，本书的作者，并不叫欧内斯特-奥斯克里布或安德鲁-潘-维尔德。
+当然，这也有一个反面。以这种方式命名角色会使角色具有“卡通”风格。这在某些情况下没有问题，但在其他情况下就不一定那么合适了。这并不现实，如果现实主义是你的目标，那么它就会降低最终结果的价值。请注意，我们，本书的作者，并不叫欧内斯特·奥斯克里布或者安德鲁·潘·维尔德。
 
+{% hint style="info" %}
+译者注：Ernest O'Scribe or Andrew Penn-Wielder，直译是欧内斯特·抄写员，安德鲁·笔·挥舞者。这种命名方式在《魔兽世界》里面很常见。
+{% endhint %}
 
 Names do not have to spell out explicitly the name of the character. For example, the name of the hero in Anachronox , Sylvester Boots, says little or nothing about the character. However his nickname, Sly, is altogether more revealing . Another example is Lara Croft. Although this does not immediately seem to indicate anything about the character, it does (to English sensibilities, at least) imply a degree of upper-class Englishness.
 
-名字不一定要明确写出角色的名字。例如，《Anachronox》中的主人公西尔维斯特-布茨（Sylvester Boots）的名字几乎没有说明这个角色。然而，他的绰号 "Sly "却更能说明问题。另一个例子是劳拉。她的绰号是 "Lara Croft"（劳拉），虽然这个绰号似乎并不能立即说明角色的任何特征，但它确实（至少在英国人看来）暗示了一定程度的英国上流社会的特征。
+名字不一定要明确揭示出角色的身份。例如，《毒源》中的主人公西尔维斯特·布茨的名字几乎没有点明这个角色任何信息。然而，他的绰号“Sly”（斯莱，直译是狡猾）却更意味深长。另一个例子是劳拉·克劳馥。虽然名字也似乎不能立即说明角色的任何特征，但它确实（至少在英国人看来）暗示了一定程度的英国上流社会的气质。
 
-In short, the importance of character design on your game really depends on the nature of the game itself. However, the success of character-based franchises such as Duke Nukem , Oddworld , and the Mario Brothers certainly indicates that you should consider effective character design as one of your top game-design priorities.
+In short, the importance of character design on your game really depends on the nature of the game itself. However, the success of character-based franchises such as Duke Nukem, Oddworld, and the Mario Brothers certainly indicates that you should consider effective character design as one of your top game-design priorities.
 
-总之，角色设计对游戏的重要性取决于游戏本身的性质。不过，《毁灭公爵》、《怪侠世界》和《马里奥兄弟》等以角色为基础的成功无疑表明，您应该将有效的角色设计视为游戏设计的首要任务之一。
+总之，角色设计对游戏的重要性取决于游戏本身的性质。不过，《毁灭公爵》、《奇异世界》和《马里奥兄弟》等以角色为基础的成功无疑表明，你应该将鲜明的角色设计视为游戏设计的首要任务之一。
