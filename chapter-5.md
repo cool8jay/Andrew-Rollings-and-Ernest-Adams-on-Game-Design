@@ -3,7 +3,7 @@ Using well-defined characters in games has been with us since the earliest days 
 自电脑游戏诞生之初，我们就开始在游戏中使用定义明确的角色，而且随着时间的推移，这些角色也变得越来越复杂。像早期街机游戏《枪战》（如图 5.1 所示）中的枪手那样，使用简单像素块的时代已经一去不复返了。最初，要在一个 32 像素高的单色角色形象中表现出真正的人物性格是相当困难的，但随着游戏硬件功能的不断增强，人物性格的问题变得越来越重要。需要注意的是，文字游戏在角色塑造方面不存在这样的问题（但图形方面并不重要）；影响这种特殊类型游戏的主要实际限制在于作者/设计者的技能。
 
 Figure 5.1. Gunfight. 图 5.1. 枪战
-![](/.gitbook/assets/5.1_gunfight.png)
+![](/.gitbook/assets/5.1.png)
 
 In this chapter, we discuss the method used to design compelling and believable characters for your game. It's important to realize that not all games require characters to be anything more than simple stereotypes (consider, for example, the Mario series of games). However, enough games out there require decent interactive characters to warrant a chapter covering the topic.
 
@@ -172,7 +172,7 @@ Even games that you would not expect to have fully developed characters can gain
 
 Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》
 
-![](/.gitbook/assets/5.8.jpg)
+![](/.gitbook/assets/5.8.png)
 
 Admittedly, it's not complex stuff—it could be taken further—but it's refreshing to see this sort of thing being attempted in the sort of games in which previously it was unheard of. Interaction between characters is one of the most interesting aspects of stories—sometimes more so than the actual plot. Although a plot details the path of a story (we cover this in the next chapter), the character interactions add a lot of flavor and subtlety that differentiate a well-crafted story from a fifth-grade English composition assignment.
 
