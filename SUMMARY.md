@@ -6,4 +6,5 @@
 * [Chapter 3. Game Settings and Worlds 第三章：游戏场景与世界](chapter-3.md)
 * [Chapter 4. Storytelling and Narrative 讲故事与叙事](chapter-4.md)
 * [Chapter 5. Character Development 角色发展](chapter-5.md)
+* [Chapter 6. Creating the User Experience 创建用户体验](chapter-6.md)
 
