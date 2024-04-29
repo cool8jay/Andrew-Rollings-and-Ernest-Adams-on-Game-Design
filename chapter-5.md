@@ -15,13 +15,13 @@ We've split this chapter into three fairly independent sections. Which is most a
 
 You can design a character in two main ways: through art-sourced design or through story-sourced design. With art-based design, the appearance of a character is decided upon first, and then a background story is fleshed out to augment it if necessary. Generally, the simpler sorts of games—those that require superficial and simplistic characters—use this approach.
 
-设计角色主要有两种方法：美术设计或故事设计。在基于美术的设计中，首先要确定角色的外观，然后再根据需要充实背景故事。一般来说，比较简单的游戏——那些需要表面化和简单化角色的游戏——都采用这种方法。
+设计角色主要有两种方法：基于美术设计或基于故事设计。在基于美术的设计中，首先要确定角色的外观，然后再根据需要充实背景故事。一般来说，比较简单的游戏——那些需要表面化和简单化角色的游戏——都采用这种方法。
 
-# Art-Driven Character Design 艺术驱动的角色设计
+# Art-Driven Character Design 美术驱动的角色设计
 
 Let's take a look at art-driven design in a little more detail. Historically, art-driven design was the main force behind character design. As we've said, the simpler games didn't rely so much on story, so the design emphasis tended to be visual.
 
-让我们来详细了解一下艺术驱动型设计。从历史上看，艺术驱动设计是角色设计的主要力量。正如我们所说，简单的游戏并不太依赖于故事，因此设计的重点往往是视觉效果。
+让我们来详细了解一下美术驱动型设计。从历史上看，美术驱动设计是角色设计的主要力量。正如我们所说，简单的游戏并不太依赖于故事，因此设计的重点往往是视觉效果。
 
 ## Visual Design 视觉设计
 
@@ -90,11 +90,11 @@ Figure 5.5. A selection of cute characters. 图 5.5. 可爱角色选集
 
 This form of design has a number of secondary contributing characteristics. The primary consideration is the limitations of the target platform. What looks great as a million-polygon rendered 3D model might not look so hot as a 64-pixel-high sprite. Hence, the appearance of an art-driven character is (obviously) influenced by the technology used to display it.
 
-这种设计形式有一些次要特点。首要的考虑因素是目标平台的限制。百万多边形渲染的三维模型可能看起来很棒，但 64 像素高的精灵看起来就不那么火了。因此，艺术驱动角色的外观（显然）会受到显示技术的影响。
+这种设计形式有一些次要特点。首要的考虑因素是目标平台的限制。百万多边形渲染的三维模型可能看起来很棒，但 64 像素高的精灵看起来就不那么火了。因此，美术驱动角色的外观（显然）会受到显示技术的影响。
 
 The design of the art-driven characters is dependent upon the flavor of the game. You have to consider the target audience when you're deciding upon the style of the characters. For example, the adjectives cute and scary will mean two different things to a 5-year-old and a 25-year-old. Resident Evil-style monsters certainly won't go down well in a Mario-esque style of adventure.
 
-艺术驱动型角色的设计取决于游戏的风格。在决定角色风格时，必须考虑目标受众。例如，可爱和可怕这两个形容词对于 5 岁的孩子和 25 岁的老人来说意义是不同的。生化危机》式的怪物肯定不会在《马里奥》式的冒险中大受欢迎。
+美术驱动型角色的设计取决于游戏的风格。在决定角色风格时，必须考虑目标受众。例如，可爱和可怕这两个形容词对于 5 岁的孩子和 25 岁的老人来说意义是不同的。生化危机》式的怪物肯定不会在《马里奥》式的冒险中大受欢迎。
 
 An interesting twist on this unwritten rule was presented in the form of Conker's Bad Fur Day, shown in Figure 5.6. Rare transplanted their cute children's characters into an adult-oriented game. Well, to be more accurate, it was a preteen vulgar, humor-oriented game but that's probably due to the difficulty of taking cute children's characters into an adult world. This form of toilet humor is very British in style and doesn't necessarily translate well to the rest of the world. Fighting the poo monster really appeals to only a certain subset of the intended audience. Note that the reverse would not apply—you couldn't put realistic Resident Evil-style characters in a children's game. It's a one-way transformation.
 
