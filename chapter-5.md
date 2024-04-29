@@ -240,10 +240,8 @@ Developing believable characters is not a straightforward process. Although ther
 
 * The character needs to intrigue the player.
 角色需要引起玩家的兴趣。
-
 * The character needs to get the player to like him.
 角色需要让玩家喜欢他。
-
 * The character needs to change and grow according to experience.
 角色需要根据经验变化和成长。
 
@@ -277,11 +275,11 @@ The third act starts with the rededication of the hero to the efforts to change.
 
 The various martial arts are a field full of Eastern traditions, with each style encompassing its own unique set of traditions, with many of these often traceable back to a single root. Common to most of these arts is the venerable black belt, the symbol of mastery of the art. These belts are constructed in such a way that over time, the black thread of the belt wears out and the white of the underlying material shows through. Contrary to initial appearances, this is not just a sign of shoddily made belts: It is representative of a tradition rich in symbolism. The painful transition from novice to master—from white to black—is a hero's journey. The symbolism of the black belt fading to white is to indicate that the master is, in fact, a novice at a new higher level. The master has an understanding of the physical aspects of the art; now he can start again and learn the spirituality behind them. The symbolism is beautiful: The master is still a novice, and the path to mastery is cyclic. In addition to this, martial arts tradition never originally called for colored belts. Rather, a white belt gradually became brown and then, over the years, black. This was a sign of experience. At the end of each session, the martial artist would wipe his sweat with the belt.
 
-各种武术是一个充满东方传统的领域，每种武术都有自己独特的传统，其中许多传统往往可以追溯到一个根源。大多数武术都有一条象征精湛技艺的黑带。这些腰带的构造是这样的：随着时间的推移，腰带的黑线会逐渐磨损，底层材料的白色会显露出来。与最初的表象相反，这并不只是粗制滥造的象征：它代表了一种富有象征意义的传统。从新手到大师——从白带到黑带——这一痛苦的转变是一次英雄之旅。黑带褪色为白带的象征意义在于，大师实际上是处于新的更高水平的新手。大师已经了解了这门艺术的物理层面，现在他可以重新开始，学习其背后的精神层面。象征意义很美：大师仍然是新手，而通往大师的道路是循环往复的。除此以外，武术传统最初并不要求使用彩色腰带。相反，白带会逐渐变成棕带，多年后又变成黑带。这是经验的象征。每次训练结束后，武术家都会用腰带擦汗。
+各种武术领域充满了东方的传统，每种流派都蕴含着其独特的传统体系，其中许多传统往往可以追溯到同一个源头。大多数武术都有一条象征精湛技艺的黑带。这些腰带的制作方式使得，随着时间的推移，黑色的编织线磨损，底下的白色材料逐渐显现。与初看之下认为这是腰带质量低劣的表现相反，这实际上是一个充满象征意义的传统体现。从新手到大师——由白转黑的艰难转变，正是英雄的旅程。黑带逐渐褪为白色的象征意义在于，表明大师实际上在一个新的更高层次上又成了新手。大师已经掌握了武艺的物理层面，现在他可以重新开始，学习这些技艺背后的灵性内涵。这种象征意义极为美好：大师依然是新手，而精通之路是循环往复的。此外，最初的武术传统中并未要求使用彩色腰带。实际上，白带会随着年月逐渐变为褐色，最终变成黑色。这是经验积累的标志。每次练习结束后，习武者都会用腰带擦汗。
 
 This same analogy is often applied to the hero's character development. That's why the diagram shown in Figure 5.11 is a circle. The hero, having achieved mastery of the special world, becomes a novice of circumstances in a new special world. This is the mechanism that is often used to create effective sequels.
 
-同样的类比也经常应用于主人公的性格发展。这就是为什么图 5.11 中的示意图是一个圆形。主人公在掌握了特殊世界后，又在新的特殊世界中成为一个新手。这就是通常用来创作有效续集的机制。
+同样的类比也经常应用于英雄的性格发展。这就是为什么图 5.11 中的示意图是一个圆形。英雄，在特殊世界中取得了精通之后，又在新的特殊世界中成为一个新手。这就是通常用来创作有效续集的机制。
 
 This is a difficult concept to grasp, and it is even more difficult to implement well. Don't be too discouraged, though—some common techniques for effective character development are summarized at the end of this chapter. However, before we get to this new material, we need to cover some of the common character archetypes found in stories.
 
