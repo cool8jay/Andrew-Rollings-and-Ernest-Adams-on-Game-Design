@@ -265,19 +265,19 @@ Figure 5.11. Character growth cycle. 图 5.11. 角色成长周期。
 
 The common character growth cycle that is tied in with the Hero's Journey advises how to manage the growth of the hero character. The hero starts with a limited awareness of himself and his situation. As the story unfolds, the hero's awareness increases to a point at which he realizes that a change is necessary. At this point, the hero often exhibits a reluctance to change—the point at which he would be leaving his ordinary world and entering the special world—and has to dedicate himself to overcoming his reluctance. The point at which the hero has committed himself to change usually signals the end of the first act of the story.
 
-与英雄之旅相联系的常见角色成长周期为如何管理英雄角色的成长提供了建议。英雄一开始对自己及其处境的认识有限。随着故事的发展，英雄的认识不断提高，到了一定程度，他意识到有必要做出改变。此时，主人公往往表现出对改变的不情愿——在这一点上，他将离开平凡的世界，进入特殊的世界——并且必须致力于克服他的不情愿。主人公决心做出改变的时刻通常标志着故事第一幕的结束。
+与英雄之旅相联系的是常见角色成长周期，它为如何管理英雄角色的成长提供了建议。英雄一开始对自己及其处境的认识有限。随着故事的发展，英雄的认识不断提高，到了一定程度，他意识到有必要做出改变。此时，主人公往往表现出对改变的不情愿——在这一点上，他将离开平凡的世界，进入特殊的世界——并且必须致力于克服他的不情愿。主人公决心做出改变的时刻通常标志着故事第一幕的结束。
 
 After the hero has entered the special world, he experiments with his new environment, trying to discover the rules and customs that will allow him to prepare effectively for his adjustment to the special world—his big change. This point usually marks the end of the first part of the second act. From this point, the story winds up toward the climax point of the second act by showing the consequences and setbacks of the hero's first attempt at change.
 
-主人公进入特殊世界后，会对新环境进行尝试，试图发现规则和习俗，从而为适应特殊世界--他的重大转变--做好有效准备。这通常标志着第二幕第一部分的结束。从这一点出发，通过展示主人公第一次尝试改变的后果和挫折，故事逐渐走向第二幕的高潮点。
+英雄进入特殊世界后，会对新环境进行尝试，试图发现规则和习俗，从而为适应特殊世界——他的重大转变——做好有效准备。这通常标志着第二幕第一部分的结束。从这一点出发，通过展示英雄第一次尝试改变的后果和挫折，故事逐渐走向第二幕的高潮点。
 
 The third act starts with the rededication of the hero to the efforts to change. Here, he makes his final attempt, resulting in a mastery of the circumstances of the special world, closing the cycle and finishing the story—and the development of the character.
 
-第三幕开始，主人公重新致力于改变。在这里，他进行了最后的尝试，最终掌握了特殊世界的环境，结束了整个故事的循环，也完成了角色的塑造。
+第三幕开始，英雄重新致力于改变。在这里，他进行了最后的尝试，最终掌握了特殊世界的环境，结束了整个故事的循环，也完成了角色的塑造。
 
 The various martial arts are a field full of Eastern traditions, with each style encompassing its own unique set of traditions, with many of these often traceable back to a single root. Common to most of these arts is the venerable black belt, the symbol of mastery of the art. These belts are constructed in such a way that over time, the black thread of the belt wears out and the white of the underlying material shows through. Contrary to initial appearances, this is not just a sign of shoddily made belts: It is representative of a tradition rich in symbolism. The painful transition from novice to master—from white to black—is a hero's journey. The symbolism of the black belt fading to white is to indicate that the master is, in fact, a novice at a new higher level. The master has an understanding of the physical aspects of the art; now he can start again and learn the spirituality behind them. The symbolism is beautiful: The master is still a novice, and the path to mastery is cyclic. In addition to this, martial arts tradition never originally called for colored belts. Rather, a white belt gradually became brown and then, over the years, black. This was a sign of experience. At the end of each session, the martial artist would wipe his sweat with the belt.
 
-各种武术是一个充满东方传统的领域，每种武术都有自己独特的传统，其中许多传统往往可以追溯到一个根源。大多数武术都有一条象征精湛技艺的黑带。这些腰带的构造是这样的：随着时间的推移，腰带的黑线会逐渐磨损，底层材料的白色会显露出来。与最初的表象相反，这并不只是粗制滥造的象征：它代表了一种富有象征意义的传统。从新手到大师--从白带到黑带--这一痛苦的转变是一次英雄之旅。黑带褪色为白带的象征意义在于，大师实际上是处于新的更高水平的新手。大师已经了解了这门艺术的物理层面，现在他可以重新开始，学习其背后的精神层面。象征意义很美：大师仍然是新手，而通往大师的道路是循环往复的。除此以外，武术传统最初并不要求使用彩色腰带。相反，白带会逐渐变成棕带，多年后又变成黑带。这是经验的象征。每次训练结束后，武术家都会用腰带擦汗。
+各种武术是一个充满东方传统的领域，每种武术都有自己独特的传统，其中许多传统往往可以追溯到一个根源。大多数武术都有一条象征精湛技艺的黑带。这些腰带的构造是这样的：随着时间的推移，腰带的黑线会逐渐磨损，底层材料的白色会显露出来。与最初的表象相反，这并不只是粗制滥造的象征：它代表了一种富有象征意义的传统。从新手到大师——从白带到黑带——这一痛苦的转变是一次英雄之旅。黑带褪色为白带的象征意义在于，大师实际上是处于新的更高水平的新手。大师已经了解了这门艺术的物理层面，现在他可以重新开始，学习其背后的精神层面。象征意义很美：大师仍然是新手，而通往大师的道路是循环往复的。除此以外，武术传统最初并不要求使用彩色腰带。相反，白带会逐渐变成棕带，多年后又变成黑带。这是经验的象征。每次训练结束后，武术家都会用腰带擦汗。
 
 This same analogy is often applied to the hero's character development. That's why the diagram shown in Figure 5.11 is a circle. The hero, having achieved mastery of the special world, becomes a novice of circumstances in a new special world. This is the mechanism that is often used to create effective sequels.
 
