@@ -41,7 +41,7 @@ The ultimate aim of the exercise, whether story-based or art-based, is to create
 
 无论是基于故事还是美术的角色设计，其最终目的都是要在玩家和英雄之间建立一种联系，从而使玩家感到有必要去玩游戏。你应该努力让玩家真正关心他所控制的角色的困境。一个好的、详细的背景故事当然是让玩家对主人公产生共鸣的方法之一，但这绝不是唯一的方法。实际上，电脑游戏的优势在于可以通过多种方式（如图形化）建立这种联系，而不仅仅局限于抽象概念和文学构思。
 
-## Physical Design and Super-Sensuality 身体设计与超级性感
+## Physical Design and Super-Sensuality 身体设计与超感官体验
 
 For example, let's consider some physical aspects. Sexual desirability is an often-used method. In Desmond Morris's Manwatching, he discusses the issue of super-senses. In advertising, certain features are often exaggerated to elicit a specific response in the viewer. The classic example is that the breast size and leg length of women are usually exaggerated by about 33 percent, their waists are too small to accommodate the required internal organs, and their hips are disproportionately wide. This apparently increases the sexual desirability of the subject (termed "super-sensory stimulation" by Morris). We've seen this many times in the game industry—I'm sure you can think of a couple of prime examples: Lara and Croft.
 
@@ -172,6 +172,8 @@ Even games that you would not expect to have fully developed characters can gain
 
 Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》
 
+![](/.gitbook/assets/5.8.gif)
+
 Admittedly, it's not complex stuff—it could be taken further—but it's refreshing to see this sort of thing being attempted in the sort of games in which previously it was unheard of. Interaction between characters is one of the most interesting aspects of stories—sometimes more so than the actual plot. Although a plot details the path of a story (we cover this in the next chapter), the character interactions add a lot of flavor and subtlety that differentiate a well-crafted story from a fifth-grade English composition assignment.
 
 诚然，这并不是什么复杂的东西——它还可以更进一步——但令人耳目一新的是，这种尝试在以前闻所未闻的游戏中出现了。角色之间的互动是故事最有趣的方面之一，有时甚至比实际情节更有趣。虽然情节详细描述了故事的发展轨迹（我们将在下一章介绍），但角色之间的互动却增添了许多韵味和微妙之处，使精心制作的故事与五年级的英语作文不同。
@@ -212,9 +214,11 @@ One way to do this is to tackle serious subjects in a mature fashion, with the b
 
 Figure 5.9. Postal. 图 5.9. 《喋血街头》。
 
+![](/.gitbook/assets/5.9.gif)
 
-Figure 5.10. Soldier of Fortune. 图 5.9. 《命运战士》。
+Figure 5.10. Soldier of Fortune. 图 5.10. 《命运战士》。
 
+![](/.gitbook/assets/5.10.gif)
 
 "The most notable feature in Postal is the violence, and this is definitely NOT a game for the kiddies. It even comes with the gaming version of an NC-17 rating, as well it should. You don't kill demon spawn or mutant dino-zombies. You're shooting at people, watching their blood spill onto the street, hearing them wail for mercy or to be put out of their misery. There's a button for execution; just stand over a victim moaning in pain and finish him off. And if things get too grisly, you can even end your own life via a shotgun to the head. This is really some unprecedented and uncensored violence, so parents beware."
 
@@ -261,6 +265,8 @@ One important consideration for realistic characters is based on the diagram sho
 
 Figure 5.11. Character growth cycle. 图 5.11. 角色成长周期。
 
+![](/.gitbook/assets/5.11.gif)
+
 The common character growth cycle that is tied in with the Hero's Journey advises how to manage the growth of the hero character. The hero starts with a limited awareness of himself and his situation. As the story unfolds, the hero's awareness increases to a point at which he realizes that a change is necessary. At this point, the hero often exhibits a reluctance to change—the point at which he would be leaving his ordinary world and entering the special world—and has to dedicate himself to overcoming his reluctance. The point at which the hero has committed himself to change usually signals the end of the first act of the story.
 
 与英雄之旅相联系的是常见角色成长周期，它为如何管理英雄角色的成长提供了建议。英雄一开始对自己及其处境的认识有限。随着故事的发展，英雄的认识不断提高，到了一定程度，他意识到有必要做出改变。此时，主人公往往表现出对改变的不情愿——在这一点上，他将离开平凡的世界，进入特殊的世界——并且必须致力于克服他的不情愿。主人公决心做出改变的时刻通常标志着故事第一幕的结束。
@@ -283,21 +289,21 @@ This same analogy is often applied to the hero's character development. That's w
 
 This is a difficult concept to grasp, and it is even more difficult to implement well. Don't be too discouraged, though—some common techniques for effective character development are summarized at the end of this chapter. However, before we get to this new material, we need to cover some of the common character archetypes found in stories.
 
-这个概念很难掌握，要很好地实施更是难上加难。不过不要太灰心，本章末尾总结了一些有效塑造角色形象的常用技巧。不过，在了解这些新材料之前，我们需要先介绍一些故事中常见的角色原型。
+这个概念很难掌握，要很好地实施更是难上加难。不过不要太灰心，本章末尾总结了一些有效塑造角色形象的常用技巧。不过，在了解这些新内容之前，我们需要先介绍一些故事中常见的角色原型。
 
 ## The Character Archetypes 角色原型
 
 According to classic literary theory, a number of character archetypes crop up in some form in most stories. This section covers these archetypes and describes their nature and roles.
 
-根据经典文学理论，大多数故事中都会以某种形式出现一些角色原型。本节将介绍这些原型，并描述它们的性质和作用。
+根据经典文学理论，大多数故事中都会以某种形式出现一些角色原型。本节将介绍这些原型，并描述他们的性质和作用。
 
 These archetype definitions are taken from Christopher Vogler's The Writer's Journey , a treatment of Joseph Campbell's Hero's Journey aimed at screenwriters , as discussed in the previous chapter.
 
-这些原型定义摘自克里斯托弗-沃格勒（Christopher Vogler）的《作家之旅》（The Writer's Journey）一书，该书是对约瑟夫-坎贝尔（Joseph Campbell）的《英雄之旅》（Hero's Journey）的处理，主要针对编剧。
+这些原型定义摘自克里斯托弗·沃格勒的《作家之旅》一书，该书是对约瑟夫·坎贝尔的《英雄之旅》（Hero's Journey）的探讨，主要针对编剧，上一章已经讨论过。
 
 The common archetypes are not restricted to a single character in any particular story. The same character can play any number of different roles. For example, the character playing the mentor could also be an ally, a herald, a threshold guardian, or even a shadow at a different point in the story. This is how good drama is constructed.
 
-常见的原型并不局限于某个故事中的某个角色。同一个角色可以扮演多种不同的角色。例如，扮演导师的角色也可以是盟友、传令官、门槛守护者，甚至在故事的不同阶段扮演影子。好的戏剧就是这样构建的。
+常见的原型并不局限于特定故事中的单一角色。同一个角色可以扮演多种不同的角色。例如，扮演导师的角色在故事的不同阶段，也可以是盟友、传令官、门槛守护者，甚至是阴影。好的戏剧就是这样构建的。
 
 ### Hero 英雄
 
@@ -307,31 +313,35 @@ The hero is traditionally the center of the story. In our case, the hero is the 
 
 The most important thing to do with the hero is ensure that the players can identify with the character. The hero should have qualities that the players can appreciate and empathize with. The hero's goals should become the player's goals. How you choose to implement this depends very much on the nature of the hero. For example, in Oddworld: Munch's Odyssey, the two heroes, Abe and Munch (shown in Figure 5.12), certainly don't win any beauty awards, but they still appeal successfully to the player.
 
-英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在《怪奇世界》中：Munch's Odyssey》中，两位英雄 Abe 和 Munch（如图 5.12 所示）肯定不会赢得任何美貌奖，但他们仍然成功地吸引了玩家。
+英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在《奇异世界：蒙克历险记》中，两位英雄阿比和蒙克（如图 5.12 所示）肯定不会赢得任何美貌奖，但他们仍然成功地吸引了玩家。
 
-Figure 5.12. Abe and Munch. 
+Figure 5.12. Abe and Munch. 图 5.12. 阿比和蒙克。
+
+![](/.gitbook/assets/5.12.jpg)
 
 There are a number of possible reasons for this. Note that both Abe and Munch follow the super-sensuality guidelines mentioned earlier, with large eyes and big foreheads, echoing those of babies. Despite (or perhaps because of ) their ugliness, and the fact that they are enslaved underdogs of a much uglier ruling class, they appeal to a wide range of players and have been a surprising success. It's surprising, that is, for the developers. However, close examination of the archetypes and the characteristics of Abe and Munch (as well as the quality of the games in which they were introduced) indicates that the success isn't as surprising as it might initially seem.
 
-这可能有多种原因。请注意，安倍晋三和芒克都遵循了前面提到的超级性感准则，他们的大眼睛和大额头与婴儿的眼睛和额头如出一辙。尽管（或许正因为）他们的丑陋，以及他们是更丑陋的统治阶级中被奴役的弱势群体这一事实，他们还是吸引了众多玩家，并取得了令人惊讶的成功。对于开发者来说，这是令人惊讶的。然而，仔细研究一下亚伯和芒克的原型和特点（以及推出他们的游戏的质量）就会发现，他们的成功并不像最初看起来那么令人惊讶。
+这可能有多种原因。请注意，阿比和蒙克都遵循了前面提到的超感官体验准则，他们的大眼睛和大额头与婴儿的眼睛和额头如出一辙。尽管（或许正因为）他们的丑陋，以及他们是更丑陋的统治阶级中被奴役的弱势群体这一事实，他们还是吸引了众多玩家，并取得了令人惊讶的成功。对于开发者来说，这是令人惊讶的。然而，仔细研究一下阿比和蒙克的原型和特点（以及推出他们的游戏的质量）就会发现，他们的成功并不像最初看起来那么令人惊讶。
 
 Of course, as we stated in our guidelines, after the initial interest has been created, it has to be maintained. One of the primary methods for doing this is to make sure that the hero changes and grows during the course of the game. Depending on the style of the game, this could be a real growth—in personality and demeanor—or a more straightforward approach, such as with power-ups and improvement of characteristics. The latter method is far more common in games, although some games do make use of the former to some extent. Planescape: Torment is a specific example that springs to mind, even though it uses standard stats-pumping growth, too.
 
-当然，正如我们在指南中所说，在最初的兴趣产生之后，还必须保持下去。做到这一点的主要方法之一就是确保英雄在游戏过程中不断变化和成长。根据游戏风格的不同，这可以是性格和举止上的真正成长，也可以是更直接的方法，比如使用能量升级和改进特性。后一种方法在游戏中更为常见，不过有些游戏也在一定程度上使用了前一种方法。星球大战》（Planescape：我想到的一个具体例子就是《折磨》，尽管它也使用了标准的属性增长。
+当然，正如我们在准则中所说，在最初的兴趣产生之后，还必须保持下去。做到这一点的主要方法之一就是确保英雄在游戏过程中不断变化和成长。根据游戏风格的不同，这可以是性格和举止上的真正成长，也可以是更直接的方法，比如使用能量升级和改进特性。后一种方法在游戏中更为常见，不过有些游戏也在一定程度上使用了前一种方法。我想到的一个具体例子就是《异域镇魂曲》，尽管它也使用了标准的属性增长。
 
 The main defining characteristic of a hero in a story is that the hero performs most of the action and assumes the majority of the risk and responsibility. This doesn't mean that other characters can't take the mantle of hero temporarily. For example, in cut scenes, they might be shown sacrificing themselves for the hero.
 
-故事中英雄的主要特征是英雄完成大部分行动，承担大部分风险和责任。但这并不意味着其他角色不能暂时继承英雄的衣钵。例如，在剪辑场景中，他们可能会为英雄牺牲自己。
+故事中英雄的主要特征是英雄完成大部分行动，承担大部分风险和责任。但这并不意味着其他角色不能暂时继承英雄的衣钵。例如，在过场动画中，他们可能会为英雄牺牲自己。
 
 Perversely, the hero doesn't necessarily have to be heroic: The antihero is also a classic motif. The Dungeon Keeper series of games uses this particular form, in which the aim of the game is to destroy the forces of good.
 
-反之，英雄并不一定是英雄：反英雄也是一个经典主题。地牢守护者》（Dungeon Keeper）系列游戏就采用了这种特殊形式，游戏的目的是摧毁正义的力量。
+反之，英雄并不一定是英雄：反英雄也是一个经典主题。《地下城守护者》系列游戏就采用了这种特殊形式，游戏的目的是摧毁正义的力量。
 
 Heroes are not always on their own. In some games, the "hero" is represented by a group of individuals: the hero team. These are common in role-playing games. Often, though less frequently nowadays, character development in hero teams is limited; in the case of role-playing games, they are computer-generated characters created and customized by the player. However, when hero teams are used in multi-player games (such as Diablo and Diablo II), each player represents an individual hero. In single-player games, the player tends to pick a "favorite," and that character becomes her avatar. Sometimes games even mandate this choice for the player; examples of games that do this are Baldur's Gate, Planescape: Torment, and Anachronox (shown in Figure 5.13).
 
-英雄并不总是一个人。在一些游戏中，"英雄 "由一群人代表：英雄团队。这在角色扮演游戏中很常见。在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如《暗黑破坏神》和《暗黑破坏神 II》）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个 "最爱"，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；《博德之门》（Baldur's Gate）、《毁灭战士》（Planescape：Torment 和 Anachronox（如图 5.13 所示）。
+英雄并不总是单打独斗。在一些游戏中，“英雄”由一群人代表：英雄团队。这在角色扮演游戏中很常见。在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如《暗黑破坏神》和《暗黑破坏神2》）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个“最喜爱”的英雄，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；《博德之门》、《异域镇魂曲》和《源毒》（如图 5.13 所示）。
 
-Figure 5.13. Anachronox.
+Figure 5.13. Anachronox.  图 5.13. 《源毒》。
+
+![](/.gitbook/assets/5.13.gif)
 
 In fact, Tom Hall's Anachronox is one of two excellent games that came out of Ion Storm. ( Deus Ex is the other.) Unfortunately, by the time these games were released, the well had already been poisoned by the lamentable Daikatana (starting with the infamous "John Romero's about to make you his bitch" advertising campaign).
 
@@ -343,7 +353,7 @@ Anachronox 的主人公 Sylvester (Sly) Boots 是一名倒霉的私家侦探，�
 
 In summary, the hero's outer problem can be stated as the aim of the game, whereas the inner problem is a character flaw or some other dark secret. The player might not even know the inner problem at the outset. Planescape: Torment uses this particular mechanism well.
 
-总之，主人公的外在问题可以说是游戏的目的，而内在问题则是性格缺陷或其他一些不可告人的秘密。玩家甚至可能一开始就不知道内心的问题。星球大战》（Planescape：折磨》很好地运用了这一特殊机制。
+总之，主人公的外在问题可以说是游戏的目的，而内在问题则是性格缺陷或其他一些不可告人的秘密。玩家甚至可能一开始就不知道内心的问题。《异域镇魂曲》很好地运用了这一特殊机制。
 
 ### Mentor 导师
 
@@ -367,7 +377,7 @@ The higher self is the hero as he aspires to be. It is the ideal form of the her
 
 There are many examples in role-playing of this particular motif. For example, the whole premise of Planescape: Torment is based on the transmutation of the Nameless One into his higher self. He is a character with amnesia but a distinct past, who seeks to regain his name and his memory. In the process of doing so, he might also have amends to make to people he has hurt in the past.
 
-在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，《Planescape：折磨》的整个前提就是 "无名者 "转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
+在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，《异域镇魂曲》的整个前提就是 "无名者 "转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
 
 ### Allies 盟友
 
@@ -424,6 +434,8 @@ The shadow is arguably the second most important character after the hero himsel
 影子可以说是仅次于英雄本身的第二重要角色。在一些故事中，"影子 "被提升到了第一位。例如，Ritual Entertainment 公司的《罪》的主要卖点就是影子 Elexis Sinclaire，她是一家大型生物科技公司美丽、性感的首席执行官，同时还喜欢穿衣化妆，这与电影《风月俏佳人》中的街头女演员并无二致。除了 Elexis Sinclaire 的详细履历（如图 5.14 所示）直接来自（糟糕的）学生幻想之外，游戏的重点在于她是游戏中的主要角色。
 
 Figure 5.14. Elexis Sinclaire.
+
+![](/.gitbook/assets/5.14.gif)
 
 In other games, the shadow lives up to its designation—remaining mysterious until the story climax, when it is revealed in a flourish and a flash of lightning. This can add a lot to the gameplay, especially because part of the gameplay is often to find out the identity of the shadow. This can add a lot of dramatic tension and mystery to augment the gameplay.
 
