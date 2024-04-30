@@ -41,4 +41,4 @@ The visual element concerns the "look" part of the "look and feel." Here, we con
 
 Often, the audio parts of a game are not considered in as much depth as the visual "in-your-face" areas of the game. However, audio is just as important for both atmosphere and player feedback as the visual components. Even though sound is often in third place after the visual and interactive elements, the fact that many games are unplayable without it clearly indicates the importance of sound. (Although, strictly speaking, no game should be designed that necessitates sound. That unfairly discriminates against the hearing impaired.)
 
-通常情况下，人们对游戏音频部分的考虑不如对游戏 “直观 ”部分的考虑那么深入。然而，音频对于游戏氛围和玩家反馈的作用与视觉部分同样重要。尽管音效往往排在视觉和互动元素之后，但许多游戏没有音效就无法玩下去，这清楚地表明了音效的重要性。(不过，严格来说，任何游戏的设计都不应该非要有声音不可。这是对听障人士的不公平歧视）。
+通常情况下，人们对游戏声音部分的考虑不如对游戏“直观”部分的考虑那么深入。然而，声音对于游戏氛围和玩家反馈的作用与视觉部分同样重要。尽管声音往往排在视觉和互动元素之后，但许多游戏没有声音就无法玩下去，这清楚地表明了声音的重要性。(不过，严格来说，任何游戏的设计都不应该非要有声音不可。这是对听障人士的不公平歧视）。
