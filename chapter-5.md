@@ -48,10 +48,6 @@ For example, let's consider some physical aspects. Sexual desirability is an oft
 
 例如，让我们考虑一些身体方面的因素。性吸引力是一种常用的方法。在德斯蒙德·莫里斯的《观察人类》一书中，他讨论了超感官的问题。在广告中，某些特征经常被夸大以引起观众的特定反应。经典的例子是，女性胸部的大小和腿部的长度通常会被夸大约 33%，她们的腰围太小，无法容纳所需的内脏器官，而臀部则过于宽大。这显然增加了主题的性吸引力（莫里斯称之为“超感官刺激”）。我们在游戏产业中多次看到这种情况，我相信你能想到几个典型的例子：劳拉·克劳馥。
 
-{% hint style="info" %}
-译者注：Lara and Croft，应该是原文笔误，应该是《古墓丽影》里面的主角一个人。
-{% endhint %}
-
 Cuteness works well, too. Some games attempt to bring out the player's protective feelings. In these games, the hero is almost supernaturally cute, and this causes the player to empathize with the hero much in the same way as he would empathize with a favorite pet or a baby.
 
 可爱同样很有效。有些游戏试图激发玩家的保护欲。在这些游戏中，主人公几乎超自然地可爱，这使得玩家对主人公产生共鸣，就像自己喜欢的宠物或婴儿产生共鸣一样。
