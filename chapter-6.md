@@ -121,7 +121,7 @@ In fact, taking a look at the rough lineage of golf games, it can be seen that t
 
 Figure 6.3. U.S. Gold's World Class Leaderboard. 图 6.3. 美国黄金协会的世界级排行榜。
 
-graphics/06fig03.gif
+![](.gitbook/assets/6.3.gif)
 
 This demonstrates an important point: Aside from the occasional flash of brilliance, the general progression of game interfaces has been an evolutionary, not revolutionary, one.
 
@@ -145,18 +145,19 @@ Eventually, simple graphics appeared to help enliven the textual description. Th
 
 最终，简单的图形出现了，为文字描述增添了活力。这在一定程度上改善了气氛，但同时也导致了文字质量的普遍下降。设计者更多地依靠图形（画好图比写好文字更容易）来讲述故事，而文字则相应地受到了影响。图形往往以两种形式之一呈现：一种是全屏图像，在进入一个新地点时短暂显示，然后清除，以便显示文字；另一种是分屏样式，占据屏幕的一部分（通常是上半部分）。
 
-Apart from general improvements to the parser, which is indirectly related to the quality of the game interface, this was the pinnacle of the adventure game interface. Today, text adventure games are not commercially viable, but they do live on in the form of MUDs (multiuser dungeons) and MUSHs (multiuser shared hallucinations). For those wanting to investigate MUDs and MUSHs further, a good place to begin is www.mudcenter.com.
+Apart from general improvements to the parser, which is indirectly related to the quality of the game interface, this was the pinnacle of the adventure game interface. Today, text adventure games are not commercially viable, but they do live on in the form of MUDs (multiuser dungeons) and MUSHs (multiuser shared hallucinations). For those wanting to investigate MUDs and MUSHs further, a good place to begin is [www.mudcenter.com](www.mudcenter.com).
 
-除了对解析器的一般改进（这间接关系到游戏界面的质量）外，这是冒险游戏界面的巅峰之作。如今，文字冒险游戏在商业上已经行不通了，但它们仍以 MUD（多用户地下城）和 MUSH（多用户共享幻觉）的形式存在着。如果您想进一步了解 MUD 和 MUSH，www.mudcenter.com 是一个不错的开始。
+除了对解析器的一般改进（这间接关系到游戏界面的质量）外，这是冒险游戏界面的巅峰之作。如今，文字冒险游戏在商业上已经行不通了，但它们仍以 MUD（多用户地下城）和 MUSH（多用户共享幻觉）的形式存在着。如果您想进一步了解 MUD 和 MUSH，[www.mudcenter.com](www.mudcenter.com) 是一个不错的开始。
 
 ### Graphic Adventures 图形冒险
 
 Graphic adventures are the spiritual successor to text adventures. Taking the maxim "a picture is worth a thousand words" as their rallying cry, designers began to take advantage of the increasing power of computers to create a fully graphical interface to the standard adventure game.
-图形冒险是文字冒险的精神继承者。设计师们以 "一张图片胜过千言万语 "为格言，开始利用日益强大的计算机功能，为标准的冒险游戏创建完全图形化的界面。
+
+图形冒险是文字冒险的精神继承者。设计师们以“一图胜千言”为格言，开始利用日益强大的计算机功能，为标准的冒险游戏创建完全图形化的界面。
 
 In many ways, this was unfortunate. We may lament the degradation of standards from the classic adventure game—similar to the preference of a significant portion of today's youth for watching cartoons over reading a good book—but we cannot argue with progress. Simply put, text adventures that required the player to type in their commands did not appeal to the consumer in the same way as a graphic adventure, which is, in effect, an interactive cartoon.
 
-从很多方面来看，这都是不幸的。我们可能会感叹经典冒险游戏标准的退化--就像今天相当一部分年轻人喜欢看动画片而不是读一本好书一样--但我们不能反对进步。简而言之，需要玩家输入指令的文字冒险游戏对消费者的吸引力不如图形冒险游戏，后者实际上就是一部互动动画片。
+从很多方面来看，这都是不幸的。我们可能会感叹经典冒险游戏标准的退化——就像今天相当一部分年轻人喜欢看动画片而不是读一本好书一样——但我们不能反对进步。简而言之，需要玩家输入指令的文字冒险游戏对消费者的吸引力不如图形冒险游戏，后者实际上就是一部互动动画片。
 
 That aside, the point-and-click interface of the graphic adventure has changed very little over the years since the first appearance of the genre. From the earliest Leisure Suit Larry games (shown in Figure 6.4) through the latest in the Monkey Island series (shown in Figure 6.5), the interface has remained pleasingly consistent. The interface to a graphic adventure is a fairly simple construct. Most graphic adventures are 2D or pseudo-3D (that is, they use 3D graphics in a 2D scene-oriented fashion, rather like a stage show), and consequently, only a relatively simple game interface is required.
 
@@ -164,11 +165,11 @@ That aside, the point-and-click interface of the graphic adventure has changed v
 
 Figure 6.4. Leisure Suit Larry II. 图 6.4. 休闲西装拉里 II
 
-graphics/06fig04.jpg
+![](.gitbook/assets/6.4.jpg)
 
 Figure 6.5. Escape from Monkey Island. 图 6.5. 逃离猴岛
 
-graphics/06fig05.gif
+![](.gitbook/assets/6.5.gif)
 
 There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is LucasArts's Maniac Mansion: Day of the Tentacle, shown in Figure 6.6.
 
@@ -176,7 +177,7 @@ There are two main paradigms for the interface that are currently in use. The fi
 
 Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 疯狂大厦：触手之日
 
-graphics/06fig06.gif
+![](.gitbook/assets/6.6.gif)
 
 The second paradigm, used by such games as Myst (shown in Figure 6.7), uses the whole screen as the interface. The player moves the cursor around the screen and clicks on objects or characters of interest. In this way, the story is visually progressed by player interaction. What this format loses in flexibility over the first system, it gains in atmosphere and immersion.
 
@@ -184,7 +185,7 @@ The second paradigm, used by such games as Myst (shown in Figure 6.7), uses the 
 
 Figure 6.7. Myst. 图 6.7. 神秘
 
-graphics/06fig07.gif
+![](.gitbook/assets/6.7.gif)
 
 We are not going to include games such as Ion Storm's Deus Ex in the category of adventure games. The action quotient in that game is too high to warrant inclusion, and we would prefer to class games of this type as a union of first/third-person shooters and role-playing games (even though it is a close call to make). Adventure games, on the other hand, are typically thought of as games that require pure thought and logic, and little in the way of reflexes. Thus, the game interface for the graphic adventure does not have speed as one of its main priorities, instead focusing on clarity of use.
 
@@ -206,7 +207,7 @@ Take, for example, an early role-playing game. Out of the Shadows from Mizar Sof
 
 Figure 6.8. Out of the Shadows main game and character screen. 图 6.8. 《走出阴影》的主游戏和角色界面。
 
-graphics/06fig08.gif
+![](.gitbook/assets/6.8.gif)
 
 Now contrast this with the character generation screen from a more recent game, such as Black Isle Studio's Planescape: Torment, as shown in Figure 6.9.
 
@@ -214,7 +215,7 @@ Now contrast this with the character generation screen from a more recent game, 
 
 Figure 6.9. Planescape: Torment character generation screen. 图 6.9. 《异域镇魂曲》的角色生成界面。
 
-graphics/06fig09.gif
+![](.gitbook/assets/6.9.gif)
 
 Apart from the huge differences in the quality of the artwork and the capabilities of the target platforms, these screens are scarily similar in function. Sure, there are a few bells and whistles added to the latter example, but fundamentally, the functionality hasn't really changed in the 16 years between the two games. Note that we feel that Planescape: Torment is an excellent game, and we are not trying to imply otherwise by singling it out for our example. We merely want to illustrate how the basic character generation interface has not changed in functionality over the years.
 
@@ -233,7 +234,7 @@ Like their cousin, the role-playing game, strategy and war games have their root
 
 Figure 6.10. Stonkers. 图 6.10. 石头人
 
-graphics/06fig10.jpg
+![](.gitbook/assets/6.10.jpg)
 
 More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic strategy games (such as Civilization III, shown in Figures 6.12 and 6.13), and the more traditional war games (such as Sid Meier's Gettysburg, shown in Figure 6.14) have a similar user experience—at least at a superficial level. All games of this type are concerned with the same basic set of actions: controlling large groups of units to solve a goal that could not be achieved by one unit alone. Of course, once you go beyond this superficial level, there is some variance in the user interface; for example, Civilization III has a diplomatic and city control interface that handles specific decisions at a wider level than those simply concerned with unit- and group-level decisions.
 
@@ -241,19 +242,19 @@ More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic str
 
 Figure 6.11. Sudden Strike. 图 6.11. 突袭
 
-graphics/06fig11.gif
+![](.gitbook/assets/6.11.gif)
 
 Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明 III》游戏界面。
 
-graphics/06fig12.gif
+![](.gitbook/assets/6.12.gif)
 
 Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 III》 外国顾问界面。
 
-graphics/06fig13.gif
+![](.gitbook/assets/6.13.gif)
 
 Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 席德·梅尔的葛底斯堡。
 
-graphics/06fig14.gif
+![](.gitbook/assets/6.14.gif)
 
 Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's Warcraft and Westwood's Command and Conquer series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
 
@@ -273,11 +274,11 @@ In order to be an effective interface, it has to seamlessly handle three levels 
 
 Figure 6.15. Starcraft's unit micromanagement interface. 《星际争霸》的单位微观管理界面。
 
-graphics/06fig15.gif
+![](.gitbook/assets/6.15.gif)
 
 Figure 6.16. Risk. 图 6.16. 风险
 
-graphics/06fig16.gif
+![](.gitbook/assets/6.16.gif)
 
 The more serious war games, which have traditionally been rather dry in their presentation, have started to use a number of these more "gamer-friendly" techniques. Previously, these games have focused on the accuracy of the war simulation, rather than any presentational niceties, and generally, that suited the players of these games perfectly. However, in order to attract new players, designers have learned lessons from the more accessible RTS-style games, which in turn were derived from the need to make war games more accessible to the average gamer. Nowadays, the hard-core war games are, in many cases, virtually indistinguishable from the RTS games that they initially inspired.
 
