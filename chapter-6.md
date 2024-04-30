@@ -173,23 +173,23 @@ Figure 6.5. Escape from Monkey Island. 图 6.5. 逃离猴岛
 
 There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is LucasArts's Maniac Mansion: Day of the Tentacle, shown in Figure 6.6.
 
-目前使用的界面主要有两种模式。第一种是基于文本或图标的分屏界面，玩家在屏幕的选择区选择操作，并在屏幕的结果区观看结果。LucasArts 公司的《狂人宅急便》（Maniac Mansion）就是采用这种形式的游戏： 触手之日》，如图 6.6 所示。
+目前使用的界面主要有两种模式。第一种是基于文本或图标的分屏界面，玩家在屏幕的选择区选择操作，并在屏幕的结果区观看结果。LucasArts 公司的《疯狂时代》就是采用这种形式的游戏，如图 6.6 所示。
 
-Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 疯狂大厦：触手之日
+Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 《疯狂时代》
 
 ![](.gitbook/assets/6.6.gif)
 
 The second paradigm, used by such games as Myst (shown in Figure 6.7), uses the whole screen as the interface. The player moves the cursor around the screen and clicks on objects or characters of interest. In this way, the story is visually progressed by player interaction. What this format loses in flexibility over the first system, it gains in atmosphere and immersion.
 
-第二种范式在《神秘》等游戏中使用（如图 6.7 所示），它将整个屏幕作为界面。玩家在屏幕上移动光标，点击感兴趣的物体或人物。通过这种方式，玩家的互动使故事在视觉上得以推进。与第一种系统相比，这种形式在灵活性方面有所欠缺，但在氛围和沉浸感方面却有所增强。
+第二种模式在《神秘岛》等游戏中使用（如图 6.7 所示），它将整个屏幕作为界面。玩家在屏幕上移动光标，点击感兴趣的物体或人物。通过这种方式，玩家的互动使故事在视觉上得以推进。与第一种系统相比，这种形式在灵活性方面有所欠缺，但在氛围和沉浸感方面却有所增强。
 
-Figure 6.7. Myst. 图 6.7. 神秘
+Figure 6.7. Myst. 图 6.7. 《神秘岛》
 
 ![](.gitbook/assets/6.7.gif)
 
 We are not going to include games such as Ion Storm's Deus Ex in the category of adventure games. The action quotient in that game is too high to warrant inclusion, and we would prefer to class games of this type as a union of first/third-person shooters and role-playing games (even though it is a close call to make). Adventure games, on the other hand, are typically thought of as games that require pure thought and logic, and little in the way of reflexes. Thus, the game interface for the graphic adventure does not have speed as one of its main priorities, instead focusing on clarity of use.
 
-We are not going to include games such as Ion Storm's Deus Ex in the category of adventure games. The action quotient in that game is too high to warrant inclusion, and we would prefer to class games of this type as a union of first/third-person shooters and role-playing games (even though it is a close call to make). Adventure games, on the other hand, are typically thought of as games that require pure thought and logic, and little in the way of reflexes. Thus, the game interface for the graphic adventure does not have speed as one of its main priorities, instead focusing on clarity of use.
+我们不会将离子风暴的《杀出重围》等游戏列入冒险游戏类别。该游戏的动作性太高，不值得列入，我们更倾向于把这类游戏归类为第一/第三人称射击游戏和角色扮演游戏的结合体（尽管这是个很接近的决定）。另一方面，冒险游戏通常被认为是需要纯粹思考和逻辑的游戏，几乎不需要反应能力。因此，图形冒险游戏的游戏界面并不以速度为主要考虑因素，而是以清晰易用为重点。
 
 ### Role-Playing Games 角色扮演游戏
 
