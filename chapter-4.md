@@ -12,11 +12,11 @@ In this chapter, we discuss some guidelines for constructing compelling stories 
 
 Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
-![](.gitbook/assets/the\_story\_spectrum.png)
+![](.gitbook/assets/4.1.png)
 
 Figure 4.2. Luigi's Mansion. 图 4.2. 《路易吉洋楼》。
 
-![](.gitbook/assets/luigis\_mansion.png)
+![](.gitbook/assets/4.2.png)
 
 In Half-Life, the story is an important part of the flavor of the game, but aside from acting as a mechanism to allow the player to become more immersed in the game world, it bears no relevance to the actual gameplay. (And by this we mean that the gameplay of Half-Life is virtually identical to that of any other first-person shooter; it's just the story and setting that give it the edge.)
 
@@ -205,7 +205,7 @@ Because foreshadowing is so powerful, it is very commonly used. Often in games t
 
 Figure 4.3. Star Wars: Rogue Squadron II. 图 4.3. 《星球大战：侠盗中队 II》。
 
-![](.gitbook/assets/star\_wars\_rogue\_squadron\_II.jpeg)
+![](.gitbook/assets/4.3.jpeg)
 
 This foreshadowing is so effective because it contrasts the special world against the ordinary world. This confuses the player, and confusion eases the process of mental suggestion. Players who are susceptible to mental suggestion are easier to immerse in the game. The willing suspension of disbelief that the designer is aiming for becomes that little bit easier to achieve.
 
@@ -225,7 +225,7 @@ We discuss non–story-based methods of creating the bond between the player and
 
 Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
-![](/.gitbook/assets/american_mcgees_alice.jpg)
+![](/.gitbook/assets/4.4.jpg)
 
 An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of Half-Life players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
 
