@@ -199,7 +199,7 @@ Role-playing games (RPGs), for the most part, have had roughly the same user int
 
 The generic role-playing game interface comes in three sections: the character generation screen, the in-game screen, and the inventory screen. These do not seem to have changed much since the inception of the genre, but their forms have been modified and refined somewhat.
 
-一般的角色扮演游戏界面分为三个部分：角色生成界面、游戏内界面和库存界面。自这一类型游戏诞生以来，这些界面似乎没有太大变化，但其形式却有了一些修改和完善。
+一般的角色扮演游戏界面分为三个部分：角色生成界面、游戏内界面和物品界面。自这一类型游戏诞生以来，这些界面似乎没有太大变化，但其形式却有了一些修改和完善。
 
 Take, for example, an early role-playing game. Out of the Shadows from Mizar Software was released for the Sinclair Spectrum in 1984. Figure 6.8 shows the main game and character generation screen of this game. Pay particular attention to the character attributes on the right of the screen.
 
