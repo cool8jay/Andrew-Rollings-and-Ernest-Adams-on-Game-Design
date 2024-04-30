@@ -137,6 +137,7 @@ These two characters, Head and Heels, are buddies fighting against the evil empe
 这两个角色，“头”和“脚跟”，是对抗邪恶皇帝的伙伴。这两个角色与当今大多数例子之间的唯一区别在于两个角色之间关系的独特性：头和高跟鞋都是共生生物。头可以跳跃和滑翔，而脚跟可以快速奔跑。当它们连接在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头和脚跟与其他可爱角色组合的区别在于，头和脚跟实际上具有独特的特征，使游戏玩法与众不同。
 
 > **NOTE 注意**
+> 
 > To an extent, this was also true of Banjo and Kazooie. Even though they were implemented as a single avatar (much like Head and Heels when joined), each had individual abilities that complemented the other's.
 > 某种程度上，班卓和卡祖伊也是如此。尽管他们是作为一个化身（就像“头”和“脚跟”合体时一样）实现的，但每个化身都有各自的能力，与对方的能力相辅相成。
 
@@ -148,7 +149,7 @@ If we might risk boldly stating our opinion at this point, we believe that this 
 
 我们认为，这种“有态度的可爱”的角色设计风格已经变得非常老掉牙。从市场营销角度来看，它似乎也相当冷酷和算计：“可爱”的部分吸引儿童，“有态度”的部分则疏远了家长。鉴于最近游戏行业面临的审查威胁的困扰，一个可爱的角色对其它角色（尤其是那些代表权威人士的角色）大放厥词，这可能不是讨好家长的最佳方式——而其中一些家长正是有权对游戏产业实施监管的人。这并不意味着我们应该把角色塑造得甜美可爱和完美无瑕，但我们应该非常清楚我们的目标受众的年龄和心智发育水平。
 
-> **NOTE**
+> **NOTE 注意**
 > 
 > Don't forget that kids hate goody-two-shoes characters just as much as parents dislike characters with foul attitudes—but just because a character doesn't cop an attitude with authority figures doesn't make him a goody-two-shoes. The Scooby Doo kids are a pretty good example of nonattitude characters who nevertheless retain their appeal: intelligence, bravery, and resourcefulness. Scooby is funny, too, because despite his large size, he is a coward—hence, he helps make sure scary situations aren't too scary. In addition to this, because he's a dog and not a child, he doesn't get picked on or treated with contempt for being scared. This is actually a very clever solution. Notice also the Archie kids from the famous comic: You have the Everyman (Archie), the Goofball (Jughead), the Girl Next Door (Betty), the Fashion Plate (Veronica, whose beauty is offset by her vanity), and the Handsome Guy (Reggie, somewhat similar to Veronica in attitude). One common theme is that Jughead is pursued by an ugly girl, in a humorous (but actually slightly sexist) role reversal.
 > 别忘了，孩子们同样讨厌“乖孩子”角色，就像家长们讨厌态度恶劣的角色一样——但一个角色不对权威人士摆架子，并不意味着他就是“乖孩子”。《史酷比》中的孩子们就是一个很好的例子，他们是没有态度的角色，但仍然保持着自己的魅力：聪明、勇敢、机智。史酷比也很有趣，因为尽管他身材高大，但他是个胆小鬼——因此，他能帮助确保可怕的情况不会太可怕。除此之外，因为他是一只狗而不是一个孩子，所以他不会因为害怕而被人欺负或轻视。这其实是一个非常聪明的办法。请注意著名漫画《阿奇》中的孩子们：他们分别是普通人（阿奇）、傻瓜（朱格海德）、邻家女孩（贝蒂）、时尚达人（维罗妮卡，她的美貌被虚荣心所抵消）和帅哥（雷吉，他的态度与维罗妮卡有些相似）。一个共同的主题是朱格海德被一个丑女孩追求，这是一个幽默（但实际上略带性别歧视）的角色反换。
