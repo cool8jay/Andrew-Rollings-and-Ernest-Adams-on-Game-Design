@@ -131,11 +131,11 @@ This demonstrates an important point: Aside from the occasional flash of brillia
 
 Traditionally, adventure games were text-based. The player interacts with the system by reading a textual description of the location, and performing queries and actions based on that description.
 
-传统上，冒险游戏以文本为基础。玩家通过阅读对地点的文字描述与系统互动，并根据描述进行查询和操作。
+传统上，冒险游戏以文本为基础。玩家通过阅读对地点的文字描述与系统互动，并根据描述进行提问和操作。
 
 The first adventures took their input in a "verb-noun" format. That is, "Take Food" would work, whereas "Take the Food on the Table" would be rejected. Movement commands generally took the single-word form—Up, Down, North, East, South, West—and could be abbreviated to U, D, N, E, S, W, NW, NE, and so on.
 
-最初的冒险游戏以 "动词-名词 "的格式输入。也就是说，"拿走食物 "可以，而 "拿走桌上的食物 "则会被拒绝。移动指令一般采用单字形式--上、下、北、东、南、西，也可以缩写为 U、D、N、E、S、W、NW、NE 等。
+最初的冒险游戏以“动词-名词”的格式输入。也就是说，“吃掉食物”可以，而“吃掉说张的食物”则会被拒绝。移动指令一般采用单字形式——上、下、北、东、南、西，也可以缩写为 U、D、N、E、S、W、NW、NE 等。
 
 Adventure games used to be a popular and lucrative section of the games market. Over time, the sophistication of the parser allowed improvements in the nature of sentences usable with the games, and the quality of the writing correspondingly improved with the increasing capabilities of the target machines. Games such as The Hitchhiker's Guide to the Galaxy from Infocom (publishers of the original Zork series of games) and Fish! from Magnetic Scrolls are good examples. For the curious, a Java version of The Hitchhiker's Guide is available to play at Douglasadams.com (www.douglasadams.com/creations/infocomjava.html).
 
