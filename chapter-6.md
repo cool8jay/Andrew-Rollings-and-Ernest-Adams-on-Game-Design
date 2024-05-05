@@ -89,7 +89,7 @@ This soon evolved to include a fourth screen: the demo mode. For a small length 
 
 Once the game was started, the in-game interface was usually very simple (see Figure 6.1). The playing area would take up most of the screen. There would be a score display, a high-score display, a level display (if appropriate), and a "lives remaining" display. These would be placed at the top or bottom of the screen. And for many years, that was about the extent of the arcade game interface. Of course, there were subtle variations on this theme—for example, a power level meter in addition to or instead of a "lives remaining" display, and the odd bit of pertinent information specific to the game, such as "number of lines" in Tetris.
 
-游戏开始后，游戏界面通常非常简单（见图 6.1）。游戏区域将占据屏幕的大部分。屏幕上会有分数显示、高分显示、关卡显示（如果合适）和“剩余生命”显示。这些都会放在屏幕的顶部或底部。多年来，这就是街机游戏界面的全部内容。当然，这个主题也有一些微妙的变化，例如，除了“剩余生命”显示外，还有一个能量电量等级表，以及一些游戏特有的相关信息，如俄罗斯方块中的“行数”。
+游戏开始后，游戏界面通常非常简单（见图 6.1）。游戏区域将占据屏幕的大部分。屏幕上会有分数显示、高分显示、关卡显示（如果合适）和“剩余生命”显示。这些都会放在屏幕的顶部或底部。多年来，这就是街机游戏界面的全部内容。当然，这个主题也有一些微妙的变化，例如，除了“剩余生命”显示外，还有一个能量等级表，以及一些游戏特有的相关信息，如俄罗斯方块中的“行数”。
 
 Figure 6.1. The standard arcade game interface (Pac-Man Plus). 图 6.1. 标准的街机游戏界面（《吃豆人加强版》）
 
@@ -125,7 +125,7 @@ Figure 6.3. U.S. Gold's World Class Leaderboard. 图 6.3. 美国黄金协会的�
 
 This demonstrates an important point: Aside from the occasional flash of brilliance, the general progression of game interfaces has been an evolutionary, not revolutionary, one.
 
-这说明了一个重要问题： 除了偶尔的闪光点之外，游戏界面的总体发展一直是进化性的，而不是革命性的。
+这说明了一个重要问题：除了偶尔的闪光点之外，游戏界面的总体发展一直是进化性的，而不是革命性的。
 
 ### Adventure Games 冒险游戏
 
@@ -282,5 +282,5 @@ Figure 6.16. Risk. 图 6.16. 风险
 
 The more serious war games, which have traditionally been rather dry in their presentation, have started to use a number of these more "gamer-friendly" techniques. Previously, these games have focused on the accuracy of the war simulation, rather than any presentational niceties, and generally, that suited the players of these games perfectly. However, in order to attract new players, designers have learned lessons from the more accessible RTS-style games, which in turn were derived from the need to make war games more accessible to the average gamer. Nowadays, the hard-core war games are, in many cases, virtually indistinguishable from the RTS games that they initially inspired.
 
-较严肃的战争游戏在表现形式上历来比较枯燥，现在已开始使用一些更 "玩家友好 "的技术。以前，这些游戏的重点是战争模拟的准确性，而不是任何精美的表现形式，一般来说，这非常适合这些游戏的玩家。然而，为了吸引新玩家，设计师们从更容易上手的 RTS 类型游戏中吸取了经验教训，而这些经验教训又是为了让普通玩家更容易上手战争游戏。如今，在许多情况下，硬核战争游戏与最初受其启发的 RTS 游戏几乎没有区别。
+较严肃的战争游戏在表现形式上历来比较枯燥，现在已开始使用一些更“玩家友好”的技术。以前，这些游戏的重点是战争模拟的准确性，而不是任何精美的表现形式，一般来说，这非常适合这些游戏的玩家。然而，为了吸引新玩家，设计师们从更容易上手的 RTS 类型游戏中吸取了经验教训，而这些经验教训又是为了让普通玩家更容易上手战争游戏。如今，在许多情况下，硬核战争游戏与最初受其启发的 RTS 游戏几乎没有区别。
 
