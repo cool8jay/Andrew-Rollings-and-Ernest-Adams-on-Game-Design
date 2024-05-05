@@ -274,7 +274,7 @@ In order to be an effective interface, it has to seamlessly handle three levels 
 
 Figure 6.15. Starcraft's unit micromanagement interface. 《星际争霸》的单位微观管理界面。
 
-![](.gitbook/assets/6.15.gif)
+![](.gitbook/assets/6.15.png)
 
 Figure 6.16. Risk. 图 6.16. 风险
 
