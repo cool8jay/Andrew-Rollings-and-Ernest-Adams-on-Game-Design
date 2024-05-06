@@ -234,7 +234,7 @@ Like their cousin, the role-playing game, strategy and war games have their root
 
 Figure 6.10. Stonkers. 图 6.10. 石头人
 
-![](.gitbook/assets/6.10.jpg)
+![](.gitbook/assets/6.10.png)
 
 More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic strategy games (such as Civilization III, shown in Figures 6.12 and 6.13), and the more traditional war games (such as Sid Meier's Gettysburg, shown in Figure 6.14) have a similar user experience—at least at a superficial level. All games of this type are concerned with the same basic set of actions: controlling large groups of units to solve a goal that could not be achieved by one unit alone. Of course, once you go beyond this superficial level, there is some variance in the user interface; for example, Civilization III has a diplomatic and city control interface that handles specific decisions at a wider level than those simply concerned with unit- and group-level decisions.
 
