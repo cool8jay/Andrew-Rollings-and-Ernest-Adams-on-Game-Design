@@ -250,7 +250,7 @@ Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明 III》游�
 
 Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 III》 外国顾问界面。
 
-![](.gitbook/assets/6.13.gif)
+![](.gitbook/assets/6.13.jpg)
 
 Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 席德·梅尔的葛底斯堡。
 
