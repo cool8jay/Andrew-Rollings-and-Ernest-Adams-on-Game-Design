@@ -269,7 +269,7 @@ Because of its universal nature, the unit- and group-based interface has evolved
 
 However, as these games have become more complex, ways of managing that complexity become needed. This has prompted a divergence in the interfaces, especially with respect to the camera control mechanisms in those games that give the player control of the camera (although why the player would want to control the camera is beyond us—except in special situations, that should be a job for the computer).
 
-然而，随着这些游戏变得越来越复杂，就需要有管理这种复杂性的方法。这就促使游戏界面出现了分化，尤其是那些让玩家控制摄像机的游戏中的摄像机控制机制（虽然我们不明白玩家为什么要控制摄像机--除非在特殊情况下，否则这应该是电脑的工作）。
+然而，随着这些游戏变得越来越复杂，就需要有管理这种复杂性的方法。这就促使游戏界面出现了分化，尤其是那些让玩家控制摄像机的游戏中的摄像机控制机制（虽然我们不明白玩家为什么要控制摄像机——除非在特殊情况下，否则这应该是电脑的工作）。
 
 Strategy games and war games are characterized by the strategic-level decisions the player is required to make. Consequently, the interface has to allow the player to make these strategic decisions. Note that a lot of these games (for better or worse) also include a fair amount of micromanagement of individual units, usually in the form of giving orders or training. This micromanagement is usually handled by a contextual iconic interface.
 
