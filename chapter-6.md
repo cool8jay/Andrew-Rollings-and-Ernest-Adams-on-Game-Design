@@ -161,15 +161,15 @@ In many ways, this was unfortunate. We may lament the degradation of standards f
 
 That aside, the point-and-click interface of the graphic adventure has changed very little over the years since the first appearance of the genre. From the earliest Leisure Suit Larry games (shown in Figure 6.4) through the latest in the Monkey Island series (shown in Figure 6.5), the interface has remained pleasingly consistent. The interface to a graphic adventure is a fairly simple construct. Most graphic adventures are 2D or pseudo-3D (that is, they use 3D graphics in a 2D scene-oriented fashion, rather like a stage show), and consequently, only a relatively simple game interface is required.
 
-撇开这一点不谈，图形冒险的点击式界面自该类型首次出现以来，多年来几乎没有什么变化。从最早的《Leisure Suit Larry》游戏（如图 6.4 所示）到最新的《猴岛》系列（如图 6.5 所示），其界面一直保持着令人愉悦的一致性。图形冒险游戏的界面构造相当简单。大多数图形冒险游戏都是 2D 或伪 3D（即在 2D 场景中使用 3D 图形，就像舞台表演一样），因此只需要一个相对简单的游戏界面。
+撇开这一点不谈，图形冒险的点击式界面自该类型首次出现以来，多年来几乎没有什么变化。从最早的《休闲套装拉里》（如图 6.4 所示）到最新的《猴岛》系列（如图 6.5 所示），其界面一直保持着令人愉悦的一致性。图形冒险游戏的界面构造相当简单。大多数图形冒险游戏都是 2D 或伪 3D（即在 2D 场景中使用 3D 图形，就像舞台表演一样），因此只需要一个相对简单的游戏界面。
 
-Figure 6.4. Leisure Suit Larry II. 图 6.4. 休闲西装拉里 II
+Figure 6.4. Leisure Suit Larry II. 图 6.4. 《休闲套装拉里二》。
 
-![](.gitbook/assets/6.4.jpg)
+![](.gitbook/assets/6.4.png)
 
-Figure 6.5. Escape from Monkey Island. 图 6.5. 逃离猴岛
+Figure 6.5. Escape from Monkey Island. 图 6.5. 《逃离猴岛》。
 
-![](.gitbook/assets/6.5.gif)
+![](.gitbook/assets/6.5.jpg)
 
 There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is LucasArts's Maniac Mansion: Day of the Tentacle, shown in Figure 6.6.
 
@@ -238,7 +238,7 @@ Figure 6.10. Stonkers. 图 6.10. 石头人
 
 More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic strategy games (such as Civilization III, shown in Figures 6.12 and 6.13), and the more traditional war games (such as Sid Meier's Gettysburg, shown in Figure 6.14) have a similar user experience—at least at a superficial level. All games of this type are concerned with the same basic set of actions: controlling large groups of units to solve a goal that could not be achieved by one unit alone. Of course, once you go beyond this superficial level, there is some variance in the user interface; for example, Civilization III has a diplomatic and city control interface that handles specific decisions at a wider level than those simply concerned with unit- and group-level decisions.
 
-较新的 RTS 游戏（如图 6.11 所示的《Sudden Strike》）、经典的策略游戏（如图 6.12 和 6.13 所示的《文明 III》）以及较传统的战争游戏（如图 6.14 所示的《Sid Meier's Gettysburg》）都有类似的用户体验——至少在表面层面上是如此。所有这类游戏都涉及相同的基本操作：控制大群单位来实现一个单个单位无法实现的目标。例如，《文明 III》中的外交和城市控制界面就在更广的层面上处理具体的决策，而不仅仅是单位和群体层面的决策。
+较新的 RTS 游戏（如图 6.11 所示的《突袭》）、经典的策略游戏（如图 6.12 和 6.13 所示的《文明 III》）以及较传统的战争游戏（如图 6.14 所示的《盖茨堡战役》）都有类似的用户体验——至少在表面层面上是如此。所有这类游戏都涉及相同的基本操作：控制大群单位来实现一个单个单位无法实现的目标。例如，《文明 III》中的外交和城市控制界面就在更广的层面上处理具体的决策，而不仅仅是单位和群体层面的决策。
 
 Figure 6.11. Sudden Strike. 图 6.11. 突袭
 
@@ -252,7 +252,7 @@ Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 II
 
 ![](.gitbook/assets/6.13.jpg)
 
-Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 席德·梅尔的葛底斯堡。
+Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 《盖茨堡战役》。
 
 ![](.gitbook/assets/6.14.gif)
 
