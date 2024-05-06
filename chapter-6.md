@@ -291,3 +291,50 @@ The more serious war games, which have traditionally been rather dry in their pr
 
 较严肃的战争游戏在表现形式上历来比较枯燥，现在已开始使用一些更“玩家友好”的技术。以前，这些游戏的重点是战争模拟的准确性，而不是任何精美的表现形式，一般来说，这非常适合这些游戏的玩家。然而，为了吸引新玩家，设计师们从更容易上手的 RTS 类型游戏中吸取了经验教训，而这些经验教训又是为了让普通玩家更容易上手战争游戏。如今，在许多情况下，硬核战争游戏与最初受其启发的 RTS 游戏几乎没有区别。
 
+# Components of the User Experience 用户体验的组成部分
+
+So far, we've briefly covered a potted history of the user experience and how it has been implemented in game development. The trend has been toward increasing complexity and detail scaling with the capabilities of the hardware and the increasing sophistication of the game design. As the games become more complex, the required interface for the game has also become more complex. The only games that are released nowadays that use the original up/down/left/right/fire paradigm tend to be remakes of the old classics, such as the remake of Ms. Pac-Man, shown in Figure 6.17.
+
+到目前为止，我们已经简要介绍了用户体验的历史以及如何在游戏开发中实现用户体验。随着硬件能力的提高和游戏设计的日益复杂，游戏的复杂性和细节也呈上升趋势。随着游戏变得越来越复杂，游戏所需的界面也变得越来越复杂。现在发行的游戏中，只有一些使用原始的上/下/左/右/射击模式的游戏通常是经典老游戏的重制版，如图 6.17 所示的《吃豆人女士》的重制版。
+
+Figure 6.17. Ms. Pac-Man: Quest for the Golden Maze. 图 6.17. 《吃豆人女士：探索黄金迷宫》。
+
+![](.gitbook/assets/6.17.jpg)
+
+This increase in complexity is not just limited to the software. As the presentation layer has become more complex, so has the equipment needed to control it. Take a look at Figure 6.18.
+
+复杂性的增加不仅限于软件。随着演示层变得越来越复杂，控制演示层所需的设备也变得越来越复杂。请看图 6.18。
+
+Figure 6.18. Past to present: The Atari 2600 joystick versus the GameCube controller (not to scale). 图 6.18. 从过去到现在：雅达利 2600 操纵杆与 GameCube 控制器的对比（未按比例）。
+
+The left-hand picture shows an Atari 2600 joystick. This joystick (circa 1977) was the pinnacle of home entertainment controllers in its day. What you see is what you get: one eight-directional digital stick and a single fire button. Compare it to the Nintendo GameCube controller on the right. This is arguably the most advanced (and well-designed) game controller to date. Take a look at what you get: three directional sticks (two analog and one eight-directional digital) and eight fire buttons. Clearly the sort of games that you can play with the GameCube controller will allow for a much finer degree of finesse in control than possible with the old Atari joystick. Of course, as with all evolution, there were dead-end branches—anyone actually use the Nintendo Power Glove or the Cheetah R.A.T.?
+
+左图是雅达利 2600 游戏杆。这款游戏杆（约 1977 年）是当时家庭娱乐控制器的巅峰之作。所见即所得：一个八方向数字摇杆和一个发射按钮。将其与右侧的任天堂 GameCube 控制器进行比较。这可以说是迄今为止最先进（设计最精良）的游戏控制器。看看你能得到什么：三个方向摇杆（两个模拟摇杆和一个八方向数字摇杆）和八个发射按钮。很明显，使用 GameCube 控制器玩的游戏比使用老式雅达利操纵杆玩的游戏要精细得多。当然，就像所有的进化一样，也会有死胡同——有人真正用过任天堂的“强力手套”或“猎豹 R.A.T.”吗？
+
+With this increase in complexity—both in hardware and software—comes a need for a more sophisticated approach to the user experience. It's not like it was in the old days, where the game was the interface. Today's gamers call out for a higher degree of sophistication and complexity, but paradoxically they want it simpler and easier to use than ever before. And they want the whole experience: sound, visuals, and ease of use in a nice simple package. No longer will they accept simple beeps and blips and the odd screen flash. Now they want CD-quality sound, dynamic music, and visuals that could be exhibited in an art and design museum. And if we don't provide them with what they want, we're in big trouble. Of course, it's not always easy, but perseverance pays off. As Edison put it:
+
+随着硬件和软件复杂性的增加，用户体验需要更复杂的方法。这与过去不同，过去游戏就是界面。今天的游戏玩家需要更复杂的界面，但矛盾的是，他们希望界面比以前更简单、更易用。他们希望获得完整的体验：声音、视觉效果和简单易用。他们不再接受简单的哔哔声、闪烁声和奇怪的屏幕闪光。现在，他们需要的是 CD 音质、动感音乐和可在艺术和设计博物馆展出的视觉效果。如果我们不能满足他们的需求，我们就会有大麻烦。当然，这并不总是那么容易，但坚持就会有回报。正如爱迪生所说：
+
+> "I haven't failed. I've found 10,000 ways that won't work."
+> “我没有失败过。我找到了一万种行不通的方法。”
+> 
+> \- Thomas Alva Edison, 1847-1931
+> \- 托马斯·阿尔瓦·爱迪生，1847-1931 年
+
+## The Interactive Element 互动元素
+
+Aside from all the glitz and glamour, the main function of a user interface is to allow the player to play the game. From a purist point of view, that is its primary purpose. All else is secondary. We've lost count of the number of games we've played that have forgotten this simple rule. In these games, various interactivity problems prevent them from showing their true promise; the interface actually gets in the way of playing the game.
+
+除了华丽的外表，用户界面的主要功能是让玩家玩游戏。从纯粹主义者的角度来看，这是它的主要目的。其他都是次要的。在我们玩过的游戏中，有多少忘记了这一简单规则，我们已经数不清了。在这些游戏中，各种交互性问题阻碍了它们展现真正的潜力；界面实际上妨碍了游戏的进行。
+
+There are a couple of main ways in which this occurs. The first is that the interface is overly graphically obscure. The actual navigational pathways through the interface may be fine, and it may be a work of art by many standards, but if the player can't easily figure out how to perform the tasks required to play the game, that beauty is for nothing. Obscurity through artistic overenthusiasm is probably the most common reason for interface failure.
+
+出现这种情况主要有几种途径。首先是界面的图形过于模糊。界面的实际导航路径可能很好，而且按照许多标准来说可能是一件艺术品，但如果玩家不能轻松地找到如何执行游戏所需的任务，那么这种美就白费了。过度追求艺术而导致的不完美可能是界面失败的最常见原因。
+
+Another common problem that can occur in combination with or separately from the previous problem is an overly complex interface. Here, the player is overwhelmed by a vast wall of options and just does not know where to start. This problem occurs more often in the strategy end of the spectrum, rather than in the more "in-your-face" action games.
+
+另一个常见问题是过于复杂的界面，它可能与前一个问题同时出现，也可能单独出现。在这种情况下，玩家会被大量的选项所淹没，不知从何下手。这种问题更多出现在策略类游戏中，而不是更 “直面”的动作类游戏中。
+
+The converse of this is the overly simplistic interface. The choices available to the player are so limited, it restricts the gameplay to an "on-rails" experience. This particular flaw is not restricted to any particular genre. It is more commonly found in products that have been underdesigned or rushed through production. Often, the initial design was well fleshed out, but omissions and shortcuts taken during development left a hollow skeleton of the original game. We will be discussing these—and other—problems in the next few sections.
+
+与此相反的是过于简单的界面。玩家的选择非常有限，这就把游戏的玩法限制在了“轨道式”体验上。这种缺陷并不局限于任何特定类型的游戏。它更常见于设计不足或仓促生产的产品。通常情况下，最初的设计是很充实的，但在开发过程中出现的疏漏和走的捷径使最初的游戏骨架变得空洞。我们将在接下来的几节中讨论这些问题以及其他问题。
