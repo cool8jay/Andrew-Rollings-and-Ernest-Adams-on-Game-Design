@@ -253,7 +253,7 @@ Figure 6.11. Sudden Strike. 图 6.11. 《突袭》
 
 Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明 III》游戏界面。
 
-![](.gitbook/assets/6.12.gif)
+![](.gitbook/assets/6.12.jpg)
 
 Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 III》 外交顾问界面。
 
@@ -261,7 +261,7 @@ Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 II
 
 Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 《盖茨堡战役》。
 
-![](.gitbook/assets/6.14.gif)
+![](.gitbook/assets/6.14.jpg)
 
 Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's Warcraft and Westwood's Command and Conquer series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
 
