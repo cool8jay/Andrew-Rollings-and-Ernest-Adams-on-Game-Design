@@ -93,7 +93,7 @@ Once the game was started, the in-game interface was usually very simple (see Fi
 
 Figure 6.1. The standard arcade game interface (Pac-Man Plus). 图 6.1. 标准的街机游戏界面（《吃豆人加强版》）
 
-![](.gitbook/assets/6.1.gif)
+![](.gitbook/assets/6.1.png)
 
 Williams's Defender (shown in Figure 6.2) was arguably the first game to enhance this core interface by adding a minimap; it was one of the first games with a playing area larger than the visible screen.
 
@@ -101,7 +101,7 @@ Williams's Defender (shown in Figure 6.2) was arguably the first game to enhance
 
 Figure 6.2. Williams's Defender. 图 6.2. 《威廉姆斯防卫者》。
 
-![](.gitbook/assets/6.2.gif)
+![](.gitbook/assets/6.2.png)
 
 Without waxing too lyrically about the nostalgia value of this proto-interface, it has to be said that there was a certain purity of purpose present. All the information that the player needed to be able to play the game was there at a glance. Of course, it wasn't that difficult to achieve, either; the limitations of the format pretty much dictated that the games be fairly simple. Any homogeny of interface was the result of the fact that there were only a few sensible ways of displaying the same information. The real progress occurred when the player needed to be fed too much information to be displayed on the screen at once.
 
@@ -121,7 +121,7 @@ In fact, taking a look at the rough lineage of golf games, it can be seen that t
 
 Figure 6.3. U.S. Gold's World Class Leaderboard. 图 6.3. 美国黄金协会的世界级排行榜。
 
-![](.gitbook/assets/6.3.gif)
+![](.gitbook/assets/6.3.jpg)
 
 This demonstrates an important point: Aside from the occasional flash of brilliance, the general progression of game interfaces has been an evolutionary, not revolutionary, one.
 
