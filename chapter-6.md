@@ -215,7 +215,7 @@ Now contrast this with the character generation screen from a more recent game, 
 
 Figure 6.9. Planescape: Torment character generation screen. 图 6.9. 《异域镇魂曲》的角色生成界面。
 
-![](.gitbook/assets/6.9.gif)
+![](.gitbook/assets/6.9.png)
 
 Apart from the huge differences in the quality of the artwork and the capabilities of the target platforms, these screens are scarily similar in function. Sure, there are a few bells and whistles added to the latter example, but fundamentally, the functionality hasn't really changed in the 16 years between the two games. Note that we feel that Planescape: Torment is an excellent game, and we are not trying to imply otherwise by singling it out for our example. We merely want to illustrate how the basic character generation interface has not changed in functionality over the years.
 
