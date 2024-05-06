@@ -225,13 +225,21 @@ You may be of the school of thought that believes this lack of change is a good 
 
 你可能会认为这种不改变是件好事。毕竟，这是自 70 年代纸笔角色扮演游戏问世以来就一直在使用的系统。然而，我们的观点有所不同。为什么要在游戏界面中使用数字？在纸笔角色扮演游戏中，数字是必需品，但电脑最擅长的就是处理数字。为什么要让玩家费心呢？当我们刚刚给僵尸致命一击时，屏幕上就会闪现“豁免检定+1”的字样，这只会提醒我们，我们在玩的是一个干巴巴的统计游戏，上面还加了一些漂亮的图形。我们知道，这种说法以前也有人用过，而且有些玩家实际上更喜欢与数字打交道，毕竟它能让玩家清楚地知道自己在游戏中的位置。然而，在打击僵尸的同时还想知道自己的生命值有多高，会让你的信任感大打折扣。让那些想与数字打交道的玩家拥有它们，但让它们成为游戏中的一个选项。如果需要显示数字（也许是为了准确），那么至少要在某种条形图或其他图形上以标签的形式显示。不过公平地说，《异域镇魂曲》的用户界面确实允许对数字进行有限的隐藏，借鉴了其他类型游戏中显示图形化能量条的技术，这是一种巧妙地规避问题的方法。
 
+{% hint style="info" %}
+“Saving Roll +1”是龙与地下城中，角色进行豁免判定的计算规则。
+{% endhint %}
+
 ### Strategy and War Games 策略和战争游戏
 
 Like their cousin, the role-playing game, strategy and war games have their roots in board games. Hence, early efforts were often heavy on the numbers and played almost exactly like a computer-controlled board game. One of the first breakthrough titles that heralded the roots of the more accessible arcade-strategy genre was a title released for the Sinclair Spectrum back in 1984, called Stonkers (see Figure 6.10). This game presented simulated war in a more accessible arcade-influenced format and is arguably the very first RTS (real-time strategy) war game, introducing many of the concepts that are familiar in today's RTS and strategy games.
 
-与角色扮演游戏一样，战略和战争游戏也源于棋盘游戏。因此，早期的游戏往往数字繁多，玩法几乎与电脑控制的棋盘游戏一模一样。早在 1984 年，一款名为《Stonkers》（见图 6.10）的游戏在辛克莱光谱（Sinclair Spectrum）上发布，这是第一款具有突破性意义的游戏，预示着更容易上手的街机策略类游戏的诞生。这款游戏以一种更容易上手的街机形式展示了模拟战争，可以说是第一款 RTS（即时战略）战争游戏，它引入了当今 RTS 和战略游戏中许多耳熟能详的概念。
+与角色扮演游戏一样，战略和战争游戏也源于棋盘游戏。因此，早期的游戏往往数字繁多，玩法几乎与电脑控制的棋盘游戏一模一样。早在 1984 年，一款名为《Stonkers》（见图 6.10）的游戏在 Sinclair Spectrum 上发布，这是第一款具有突破性意义的游戏，预示着更容易上手的街机策略类游戏的诞生。这款游戏以一种更容易上手的街机形式展示了模拟战争，可以说是第一款 RTS（即时战略）战争游戏，它引入了当今 RTS 和战略游戏中许多耳熟能详的概念。
 
-Figure 6.10. Stonkers. 图 6.10. 石头人
+{% hint style="info" %}
+Sinclair Spectrum是1982年由 Sinclair 公司生产的一款8位个人电脑。
+{% endhint %}
+
+Figure 6.10. Stonkers. 图 6.10. Stonkers
 
 ![](.gitbook/assets/6.10.png)
 
@@ -239,7 +247,7 @@ More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic str
 
 较新的 RTS 游戏（如图 6.11 所示的《突袭》）、经典的策略游戏（如图 6.12 和 6.13 所示的《文明 III》）以及较传统的战争游戏（如图 6.14 所示的《盖茨堡战役》）都有类似的用户体验——至少在表面层面上是如此。所有这类游戏都涉及相同的基本操作：控制大群单位来实现一个单个单位无法实现的目标。例如，《文明 III》中的外交和城市控制界面就在更广的层面上处理具体的决策，而不仅仅是单位和群体层面的决策。
 
-Figure 6.11. Sudden Strike. 图 6.11. 突袭
+Figure 6.11. Sudden Strike. 图 6.11. 《突袭》
 
 ![](.gitbook/assets/6.11.jpg)
 
@@ -247,7 +255,7 @@ Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明 III》游�
 
 ![](.gitbook/assets/6.12.gif)
 
-Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 III》 外国顾问界面。
+Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明 III》 外交顾问界面。
 
 ![](.gitbook/assets/6.13.jpg)
 
@@ -257,7 +265,7 @@ Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 《盖茨堡战役》。
 
 Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's Warcraft and Westwood's Command and Conquer series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
 
-由于其通用性，以单位和群体为基础的界面已经发展到可以让玩家轻松控制这些群体。暴雪公司的《魔兽争霸》（Warcraft）和西木公司的《命令与征服》系列等游戏帮助定义了 RTS 游戏的标准界面，现在大多数游戏都遵循这一标准。左键单击选择一个单位，然后右键单击一个对象，选择一个上下文相关的操作，让该单位对该对象执行操作，这已经成为大多数 RTS 游戏玩家熟悉的操作。最近，单击-拖动选择一组单位的功能（直接从 Windows 操作系统中借用的方法）也被加入到了游戏中。
+由于其通用性，以单位和群体为基础的界面已经发展到可以让玩家轻松控制这些群体。暴雪公司的《魔兽争霸》和西木公司的《命令与征服》系列等游戏改良了 RTS 游戏的标准界面，现在大多数游戏都遵循这一标准。左键单击选择一个单位，然后右键单击一个对象，选择一个上下文相关的操作，让该单位对该对象执行操作，这已经成为大多数 RTS 游戏玩家熟悉的操作。最近，单击-拖动选择一组单位的功能（直接从 Windows 操作系统中借用的方法）也被加入到了游戏中。
 
 However, as these games have become more complex, ways of managing that complexity become needed. This has prompted a divergence in the interfaces, especially with respect to the camera control mechanisms in those games that give the player control of the camera (although why the player would want to control the camera is beyond us—except in special situations, that should be a job for the computer).
 
