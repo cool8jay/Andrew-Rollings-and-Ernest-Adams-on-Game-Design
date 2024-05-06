@@ -177,7 +177,7 @@ There are two main paradigms for the interface that are currently in use. The fi
 
 Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 《疯狂时代》
 
-![](.gitbook/assets/6.6.gif)
+![](.gitbook/assets/6.6.jpg)
 
 The second paradigm, used by such games as Myst (shown in Figure 6.7), uses the whole screen as the interface. The player moves the cursor around the screen and clicks on objects or characters of interest. In this way, the story is visually progressed by player interaction. What this format loses in flexibility over the first system, it gains in atmosphere and immersion.
 
@@ -185,11 +185,11 @@ The second paradigm, used by such games as Myst (shown in Figure 6.7), uses the 
 
 Figure 6.7. Myst. 图 6.7. 《神秘岛》
 
-![](.gitbook/assets/6.7.gif)
+![](.gitbook/assets/6.7.jpg)
 
 We are not going to include games such as Ion Storm's Deus Ex in the category of adventure games. The action quotient in that game is too high to warrant inclusion, and we would prefer to class games of this type as a union of first/third-person shooters and role-playing games (even though it is a close call to make). Adventure games, on the other hand, are typically thought of as games that require pure thought and logic, and little in the way of reflexes. Thus, the game interface for the graphic adventure does not have speed as one of its main priorities, instead focusing on clarity of use.
 
-我们不会将离子风暴的《杀出重围》等游戏列入冒险游戏类别。该游戏的动作性太高，不值得列入，我们更倾向于把这类游戏归类为第一/第三人称射击游戏和角色扮演游戏的结合体（尽管这是个很接近的决定）。另一方面，冒险游戏通常被认为是需要纯粹思考和逻辑的游戏，几乎不需要反应能力。因此，图形冒险游戏的游戏界面并不以速度为主要考虑因素，而是以清晰易用为重点。
+我们不会将离子风暴公司的《杀出重围》等游戏列入冒险游戏类别。该游戏的动作性太高，不值得列入，我们更倾向于把这类游戏归类为第一/第三人称射击游戏和角色扮演游戏的结合体（尽管这是个很接近的决定）。另一方面，冒险游戏通常被认为是需要纯粹思考和逻辑的游戏，几乎不需要反应能力。因此，图形冒险游戏的游戏界面并不以速度为主要考虑因素，而是以清晰易用为重点。
 
 ### Role-Playing Games 角色扮演游戏
 
@@ -207,7 +207,7 @@ Take, for example, an early role-playing game. Out of the Shadows from Mizar Sof
 
 Figure 6.8. Out of the Shadows main game and character screen. 图 6.8. 《走出阴影》的主游戏和角色界面。
 
-![](.gitbook/assets/6.8.gif)
+![](.gitbook/assets/6.8.png)
 
 Now contrast this with the character generation screen from a more recent game, such as Black Isle Studio's Planescape: Torment, as shown in Figure 6.9.
 
@@ -219,8 +219,7 @@ Figure 6.9. Planescape: Torment character generation screen. 图 6.9. 《异域�
 
 Apart from the huge differences in the quality of the artwork and the capabilities of the target platforms, these screens are scarily similar in function. Sure, there are a few bells and whistles added to the latter example, but fundamentally, the functionality hasn't really changed in the 16 years between the two games. Note that we feel that Planescape: Torment is an excellent game, and we are not trying to imply otherwise by singling it out for our example. We merely want to illustrate how the basic character generation interface has not changed in functionality over the years.
 
-
-除了美工质量和目标平台功能上的巨大差异外，这些屏幕在功能上的相似度也高得吓人。当然，后一个例子增加了一些功能，但从根本上说，两款游戏的功能在 16 年间并没有什么变化。请注意，我们认为《异域镇魂曲》是一款优秀的游戏，我们将它单独作为例子并不是想暗示其他方面。我们只是想说明，基本的角色生成界面多年来在功能上没有任何变化。
+除了美工质量和目标平台功能上的巨大差异外，这些屏幕在功能上的相似度也高得惊人。当然，后一个例子增加了一些功能，但从根本上说，两款游戏的功能在 16 年间并没有什么变化。请注意，我们认为《异域镇魂曲》是一款优秀的游戏，我们将它单独作为例子并不是想暗示其他方面。我们只是想说明，基本的角色生成界面多年来在功能上没有任何变化。
 
 You may be of the school of thought that believes this lack of change is a good thing. After all, it's a system that's been in use since the advent of paper-and-pencil role-playing games in the '70s. However, our view is different. Why use numbers at all in the game interface? They were a necessity in the paper-and-pencil role-playing games, but what a computer is very good at is dealing with numbers. Why bother the player with them? Having "Saving Roll +1" flash up onscreen when we've just dealt a mighty blow to a zombie does nothing except remind us that we're playing a dry game of statistics with some pretty graphics slapped on top. We know that this argument has been used before, and that some players actually prefer to deal with numbers—after all, it does allow the players to know exactly where they stand in the game. However, wondering how high your hit-points are while smiting a zombie jars your suspension of disbelief. Let those players who want to deal with numbers have them, but make them an option in the game. If you need to display numbers (maybe for the sake of accuracy), then at least display them as labels on some sort of bar chart or other graphical representation. To be fair, though, the user interface of Planescape: Torment does allow some limited hiding of the numbers, borrowing the technique of displaying graphical power bars from other genres, which is a neat way of sidestepping the problem.
 
@@ -242,7 +241,7 @@ More recent RTS games (such as Sudden Strike, shown in Figure 6.11), classic str
 
 Figure 6.11. Sudden Strike. 图 6.11. 突袭
 
-![](.gitbook/assets/6.11.gif)
+![](.gitbook/assets/6.11.jpg)
 
 Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明 III》游戏界面。
 
