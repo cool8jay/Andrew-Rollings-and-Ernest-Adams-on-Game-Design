@@ -443,33 +443,57 @@ In order to be successful, a game has to be accessible to more than the hard-cor
 
 Whether designing a computer, console, or multiplatform game, hardware considerations should be foremost in your mind. The capabilities of the hardware—and specifically of the available controllers—will have a profound effect on your game design.
 
+无论是设计电脑游戏、主机游戏还是跨平台游戏，硬件考量都应放在首位。硬件的性能，特别是可用控制器的性能，将对游戏设计产生深远的影响。
+
 Game designers do not need to be technical wizards, but they do need to be aware of the capabilities and limitations of their target platform.
+
+游戏设计师不需要成为技术奇才，但他们确实需要了解目标平台的功能和限制。
 
 In the case of the PC, there is a plethora of available controllers. This is, in fact, one of the problems with designing games for a platform that is so variable. There are so many different controller configurations that you have to provide support for the lowest common denominator: the keyboard and the mouse. You can't even count on many PC owners having joysticks, let alone joysticks with force-feedback capabilities. You can, of course, provide support for more specific controllers—for example, racing games can support steering wheel and pedal kits, and flight simulators can support the full yoke system—but the usual approach is to make them an option rather than the default.
 
+就 PC 而言，有大量可用的控制器。事实上，这也是为千变万化的平台设计游戏的问题之一。控制器的配置千差万别，你不得不为最小公分母提供支持：键盘和鼠标。你甚至无法指望很多 PC 用户拥有手柄，更不用说具有力反馈功能的手柄了。当然，你也可以为更特殊的控制器提供支持——例如，赛车游戏可以支持方向盘和踏板套件，飞行模拟器可以支持完整的摇杆系统，但通常的做法是将它们作为一种选项而非默认设置。
+
 If a game has sufficient "weight" behind it, it can set the recommended default as a specific type of controller that would require a secondary purchase. An example of a game (in this case, a series of games) with the required clout to be able to pull this off is the Madden series of football games. The default controller in the instructions for the 2001 edition (and also referenced in-game) is a six-button gamepad. The game can be controlled with the keyboard and the mouse, but that is definitely the secondary mode of control. Requiring a specific controller is certainly not a recommended approach. It will alienate some of your potential players (who may think that they actually need a gamepad to play the game, and may not be willing to buy one), and sales will suffer as a result.
+
+如果一款游戏有足够的“影响力”，它就可以将推荐默认设置为需要二次购买的特定类型控制器。一个游戏（这里指的是一系列游戏）有足够的影响力来做到这一点的例子是麦登系列足球游戏。2001 年版游戏说明中的默认控制器（游戏中也有提及）是一个六键游戏手柄。游戏可以用键盘和鼠标控制，但这绝对是次要的控制模式。当然，我们并不推荐使用特定的控制器。这会疏远一些潜在玩家（他们可能会认为玩游戏确实需要游戏手柄，因此可能不愿意购买），销售额也会因此受到影响。
 
 So let's consider the tools that we have available. On the PC, we have the keyboard and the mouse, and on the consoles, we have some form of gamepad-style controller. Obviously, the available controllers have an impact on the nature of the games that are created. On the consoles, you tend to get more action-oriented games. Those styles of games requiring more complex input—role-playing games, RTS games, adventure games, and simulation games—tend to appear on the PC, where the keyboard and mouse allow for more suitable input. That's not to say that crossover does not occur: Starcraft was released on the Nintendo 64, but it was not as easy to control—or indeed as successful—as the PC version because of the lack of a mouse. Of course, it would be naïve of us to insist that the sole reason for difference in game styles on consoles as compared to PCs is controller configuration—it also has a lot to do with player demographic (the sort of person who will buy a $200 console compared with a $1,500 computer).
 
+因此，让我们考虑一下我们现有的工具。在个人电脑上，我们有键盘和鼠标，而在游戏机上，我们有某种形式的游戏手柄。显然，控制器的不同会影响游戏的性质。在游戏机上，往往会出现更多动作导向型游戏。那些需要更复杂输入的游戏——角色扮演游戏、即时战略游戏、冒险游戏和模拟游戏——往往出现在 PC 上，因为键盘和鼠标可以提供更合适的输入。但这并不是说没有交叉：《星际争霸》曾在任天堂 64 上发布，但由于没有鼠标，它并不像 PC 版那么容易控制，也确实没有那么成功。当然，如果我们坚持认为游戏机上的游戏风格与 PC 上的游戏风格不同的唯一原因是手柄配置不同，那就太天真了——这还与玩家的人口结构（购买 200 美元游戏机的人与购买 1500 美元电脑的人相比）有很大关系。
+
 Even though most games can be played using the standard controllers, some games are indeed better played with specialist hardware. For example, the games Dance Dance Revolution, Sega's Bass Fishing, and Samba De Amigo are much more enjoyable when played with a dance pad, a fishing controller, and maracas, respectively (shown in Figure 6.20).
 
-Figure 6.20. Specialized controllers.
+尽管大多数游戏都可以使用标准控制器来玩，但有些游戏使用专业硬件确实会更好。例如，《劲舞革命》、《世嘉钓鱼高手》和《欢乐桑巴》等游戏在分别使用舞蹈垫、捕鱼控制器和马拉卡斯鼓时就会更有趣（如图 6.20 所示）。
 
-graphics/06fig20.gif
+Figure 6.20. Specialized controllers. 图 6.20. 专用控制器。
+
+![](.gitbook/assets/6.20.gif)
 
 Steel Battalions by Capcom costs about $200 for the game, with a huge custom dual-stick controller with more than thirty buttons and foot pedals. It is considered to be an amazing gaming experience, but the player must be at least a passing mechwarrior freak in order to appreciate it.
 
+卡普空的《铁骑》游戏售价约为 200 美元，配有一个巨大的定制双摇杆控制器，上面有 30 多个按钮和脚踏板。它被认为是一种令人惊叹的游戏体验，但玩家必须至少是一个合格的机甲战士狂人，才能欣赏到它。
+
 Designing games to use specialized controllers is not an opportunity that many of us will get. Usually, the specialized controllers start off in Japanese arcades, follow through to the consoles, and then in a few (very few) instances, filter through to the PC. One case where a particular genre (or more exactly, one or two stand-out titles from that genre) has spawned a specialized controller is the first-person shooter (FPS). All the effort spent on creating the specialized FPS controller appears to be for nothing, however—the best controller for this particular genre still seems to be a combination of mouse and keyboard.
+
+设计使用专用控制器的游戏并不是我们很多人都能得到的机会。通常情况下，专用手柄从日本的街机厅开始，一直沿用到游戏机，然后在少数（极少数）情况下再传到 PC 上。第一人称射击游戏（FPS）就是一个特定类型（更确切地说，是该类型中的一两款杰出游戏）催生专用控制器的例子。然而，为创造专门的 FPS 控制器所做的一切努力似乎都是徒劳的——这种特殊类型游戏的最佳控制器似乎仍然是鼠标和键盘的组合。
 
 For a specialized controller to take root and become a standard, a critical mass has to be achieved. This can occur in a number of ways. One such way is for an incredibly successful game to offer better playability with the controller, such as in the case of Dance Dance Revolution. This introduces the controller into a lot of homes. Provided that the programming details of the controller are authorized public knowledge, there is no reason why your game cannot use the new controller if it has achieved a suitable level of ubiquity.
 
+专用控制器要想发展成为标准，必须达到临界量。这可以通过多种方式实现。其中一种方式是，一款非常成功的游戏通过控制器提供了更好的可玩性，例如《劲舞革命》。它将这个控制器引入了许多家庭。只要控制器的编程细节是经过授权的公共知识，如果新控制器的普及程度达到了适当的水平，你的游戏就没有理由不使用新控制器。
+
 The effect of a controller on the user interface is profound. For example, controlling a pointer and clicking on buttons using a gamepad rather than a mouse always feels awkward. When a mouse is not available, a far better approach is to have the directional buttons on the gamepad highlight each button in turn. Obviously, there are many other ways that a controller can influence the usability of an interface. An interface suitable for keyboard or gamepad control needs modifications to be equally as usable with a mouse, and vice versa; hence, the capabilities of the selected controller must be taken into account when designing the interface. Again—as with many other aspects of user interface design—this task is made easier by informal genre standardization. You can take the root of your control system directly from other games that are similar in presentation to your design.
 
-### Simple User Interface Elements
+控制器对用户界面的影响是深远的。例如，使用游戏手柄而不是鼠标来控制指针和点击按钮，总会让人感觉很别扭。在没有鼠标的情况下，更好的办法是让游戏手柄上的方向键依次突出显示每个按钮。显然，手柄还可以通过许多其他方式影响界面的可用性。一个适合键盘或游戏手柄控制的界面需要经过修改才能与鼠标的可用性相媲美，反之亦然；因此，在设计界面时必须考虑到所选控制器的功能。同样，在用户界面设计的许多其他方面，非正式的流派标准化也使这项任务变得更加容易。你可以直接从与你的设计在表现形式上相似的其他游戏中获取控制系统的基础。
+
+### Simple User Interface Elements 简单的用户界面元素
 
 User interfaces serve a primary function—interacting with the user—which is split into two main tasks. One of these tasks is to accept the player's commands. The second task is to inform the player of her status within the game and display the options available in as graphically clear a format as possible. There is a large element of graphic design in user interface design—even with something as simple as an arcade game.
 
+用户界面的主要功能是与用户互动，它分为两大任务。其中一项任务是接受玩家的指令。第二项任务是告知玩家她在游戏中的状态，并以尽可能清晰的图形显示可用选项。用户界面设计中包含了大量的图形设计元素，即使是像街机游戏这样简单的游戏也不例外。
+
 There are certain standard elements of a user interface that we will discuss. These are divided into two broad classes: in-game elements and the shell interface, with the latter referring to the various menus and screens that allow the player to start, configure, and otherwise manage the game. The shell interface needs to provide functionality to allow the player to configure the video and audio settings and the controls; to provide access to a multiplayer lobby, where appropriate, and saved games; and to allow the player to exit the game. We will not discuss the design of shell interface in any great detail; suffice it to say that it should thematically and stylistically jell with the rest of the game and respond to the player quickly and smoothly. After all, there is no great secret to generic shell design—if you need inspiration, just look at another game, or even a standard Windows application, and base it on that. Make use of the millions of dollars Microsoft spent on user interface research, and don't bother reinventing the wheel.
+
+我们将讨论用户界面的某些标准元素。这些元素分为两大类：游戏内元素和外壳界面，后者指的是允许玩家启动、配置和管理游戏的各种菜单和屏幕。外壳界面需要提供的功能包括：允许玩家配置视频和音频设置以及控制；提供进入多人游戏大厅（如适用）和保存游戏的途径；以及允许玩家退出游戏。我们将不详细讨论外壳界面的设计，只需说明它在主题和风格上应与游戏的其他部分相协调，并能快速、流畅地响应玩家。毕竟，通用外壳设计并没有什么秘诀--如果你需要灵感，只需看看其他游戏，甚至是标准的 Windows 应用程序，并以此为基础进行设计。利用微软在用户界面研究上花费的数百万美元，不要再费心去重新发明轮子了。
 
 > "If you want to make an apple pie from scratch, you must first create the universe."
 > 
