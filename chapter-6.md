@@ -307,6 +307,8 @@ This increase in complexity is not just limited to the software. As the presenta
 
 Figure 6.18. Past to present: The Atari 2600 joystick versus the GameCube controller (not to scale). 图 6.18. 从过去到现在：雅达利 2600 操纵杆与 GameCube 控制器的对比（未按比例）。
 
+![](.gitbook/assets/6.18.jpg)
+
 The left-hand picture shows an Atari 2600 joystick. This joystick (circa 1977) was the pinnacle of home entertainment controllers in its day. What you see is what you get: one eight-directional digital stick and a single fire button. Compare it to the Nintendo GameCube controller on the right. This is arguably the most advanced (and well-designed) game controller to date. Take a look at what you get: three directional sticks (two analog and one eight-directional digital) and eight fire buttons. Clearly the sort of games that you can play with the GameCube controller will allow for a much finer degree of finesse in control than possible with the old Atari joystick. Of course, as with all evolution, there were dead-end branches—anyone actually use the Nintendo Power Glove or the Cheetah R.A.T.?
 
 左图是雅达利 2600 游戏杆。这款游戏杆（约 1977 年）是当时家庭娱乐控制器的巅峰之作。所见即所得：一个八方向数字摇杆和一个发射按钮。将其与右侧的任天堂 GameCube 控制器进行比较。这可以说是迄今为止最先进（设计最精良）的游戏控制器。看看你能得到什么：三个方向摇杆（两个模拟摇杆和一个八方向数字摇杆）和八个发射按钮。很明显，使用 GameCube 控制器玩的游戏比使用老式雅达利操纵杆玩的游戏要精细得多。当然，就像所有的进化一样，也会有死胡同——有人真正用过任天堂的“强力手套”或“猎豹 R.A.T.”吗？
@@ -333,8 +335,394 @@ There are a couple of main ways in which this occurs. The first is that the inte
 
 Another common problem that can occur in combination with or separately from the previous problem is an overly complex interface. Here, the player is overwhelmed by a vast wall of options and just does not know where to start. This problem occurs more often in the strategy end of the spectrum, rather than in the more "in-your-face" action games.
 
-另一个常见问题是过于复杂的界面，它可能与前一个问题同时出现，也可能单独出现。在这种情况下，玩家会被大量的选项所淹没，不知从何下手。这种问题更多出现在策略类游戏中，而不是更 “直面”的动作类游戏中。
+另一个常见问题是过于复杂的界面，它可能与前一个问题同时出现，也可能单独出现。在这种情况下，玩家会被大量的选项所淹没，不知从何下手。这种问题更多出现在策略类游戏中，而不是更“直面”的动作类游戏中。
 
 The converse of this is the overly simplistic interface. The choices available to the player are so limited, it restricts the gameplay to an "on-rails" experience. This particular flaw is not restricted to any particular genre. It is more commonly found in products that have been underdesigned or rushed through production. Often, the initial design was well fleshed out, but omissions and shortcuts taken during development left a hollow skeleton of the original game. We will be discussing these—and other—problems in the next few sections.
 
 与此相反的是过于简单的界面。玩家的选择非常有限，这就把游戏的玩法限制在了“轨道式”体验上。这种缺陷并不局限于任何特定类型的游戏。它更常见于设计不足或仓促生产的产品。通常情况下，最初的设计是很充实的，但在开发过程中出现的疏漏和走的捷径使最初的游戏骨架变得空洞。我们将在接下来的几节中讨论这些问题以及其他问题。
+
+### Navigation 导航
+
+Designing a user interface is not a trivial process. It's not just a simple matter of slapping a few buttons together and hoping for the best. The best approach (as with a lot of things) is to plan out everything on paper first.
+
+设计用户界面并非易事。它不是简单地把几个按钮拼凑在一起，然后就能达到最佳效果。最好的办法（就像很多事情一样）是先在纸上规划好一切。
+
+Using graph paper, plot out a rough design for the user interface. It does not need to be artistic, but it should be an accurate flowchart of the main elements and menus required.
+
+用绘图纸绘制出用户界面的大致设计图。它不需要很精美，但应该是所需主要元素和菜单的精确流程图。
+
+The important thing is to get it down on paper as early as possible in the game design process. Often, putting things on paper can crystallize your ideas and help stimulate new ones. Making sure everything works on paper can often help ensure consistency. When playing an otherwise good game, nothing jars more than interface non-sequiturs.
+
+重要的是在游戏设计过程中尽早把想法写在纸上。通常情况下，把想法写在纸上可以使你的想法具体化，并有助于激发新的想法。在纸上确保一切正常通常有助于确保一致性。在玩一款原本很好的游戏时，没有什么比界面不连贯更让人头疼的了。
+
+Bear in mind that you shouldn't feel that you are restricted to paper alone. There are plenty of good tools that allow decent interface prototyping, including graphics and sound, with minimal programming required. Macromedia Flash is one such tool, and—if you are willing to get your hands dirty with a little code—other game-making tools such as Blitz Basic ([www.blitzbasic.com](www.blitzbasic.com)) will let you knock up a prototype interface.
+
+请记住，你不应该觉得自己只能在纸上进行创作。有很多好的工具可以让你用最少的程序设计出包括图形和声音在内的漂亮界面原型。Macromedia Flash 就是这样一种工具，如果你愿意动手写点代码，Blitz Basic ([www.blitzbasic.com](www.blitzbasic.com)) 等其他游戏制作工具也能让你制作出界面原型。
+
+{% hint style="info" %}
+[Macromedia Flash](https://en.wikipedia.org/wiki/Adobe_Flash)，被 Adobe 公司收购，现在已停产。
+{% endhint %}
+
+### Screen Layouts 屏幕布局
+
+Balancing between screen real estate and accessibility is a difficult but important task in user interface design. Ten years ago, technical issues were often a consideration; for example, Ultima Underworld had a relatively small game area, simply because the machines that it was designed to run on could not handle filling a full screen with texture-mapped polygons and scalable sprites. Thankfully, those days are behind us for the most part, and nowadays technical considerations are low on the list when we consider how much screen real estate to devote to the window on the game world. Except in the case where resolution is a fixed quantity, the only technical issue that rears its head nowadays is which screen resolution (or range of resolutions) to choose.
+
+在屏幕空间和可访问性之间取得平衡是用户界面设计中一项困难而又重要的任务。十年前，技术问题往往是一个考虑因素；例如，《地下创世纪》的游戏区域相对较小，原因很简单，因为设计该游戏的机器无法用纹理映射多边形和可缩放精灵来填充整个屏幕。值得庆幸的是，那个时代已经离我们远去，如今，当我们考虑在游戏世界的窗口上占用多少屏幕空间时，技术方面的考虑已经不重要了。除了分辨率是一个固定量的情况外，如今唯一的技术问题就是选择哪种屏幕分辨率（或分辨率范围）。
+
+The screen layout delineates the primary purpose of various regions of the screen at a high level. It's important to get this decided upon as quickly as possible and then stick to that format where applicable throughout the game. Switching between screen layouts during play—particularly if the actual world window is shifted around—adds nothing to a game except momentary disorientation for the players.
+
+屏幕布局高度概括了屏幕各区域的主要用途。重要的是要尽快确定这一点，然后在整个游戏过程中坚持使用这种格式。在游戏过程中切换屏幕布局，尤其是如果实际的世界窗口发生了移动，除了会让玩家一时迷失方向外，不会给游戏带来任何好处。
+
+The overriding guideline here is the KISS principle—or "Keep It Simple, Stupid." Keep the layout of the screen simple. Don't bother with lots of fiddly little overlays. Group all similar functionality together. That way, the player can take in the information she needs in a single glance, rather than having to roam all over the screen to gather the information she requires.
+
+这里的首要准则是 KISS 原则，即“保持简单，傻瓜”。保持屏幕布局简单。不要使用大量繁琐的小叠加。将所有类似的功能组合在一起。这样，玩家只需扫视一眼，就能获得所需的信息，而不必为了收集所需的信息而满屏游走。
+
+The human eye does not see consistently throughout its field of vision. There is an area immediately in the center of your field of vision where you see with the maximum amount of detail. This central vision area, the macula, is geared up to take in the visual information at the highest-possible resolution. The peripheral vision of a human does not sense the same amount of detail as the macula, but it is geared for detecting movement and change. If something changes in your peripheral vision, your first instinct is to turn and focus on the area concerned, to scrutinize it in more detail. This instinct can be exploited to focus the players' attention on an indicator if some important happening that they need to know about has occurred.
+
+人眼在整个视野中的视力并不一致。在视野的中心，有一个区域能让你看到最多的细节。这个视觉中心区域，即黄斑区，以尽可能高的分辨率接收视觉信息。人的外围视觉感受不到与黄斑区相同的细节，但它可以检测运动和变化。如果你的外围视觉发生了变化，你的第一本能就是转动眼球来关注相关区域，仔细观察它的细节。如果玩家需要了解某些重要事件的发生情况，就可以利用这种本能将玩家的注意力集中到指示器上。
+
+During our research for this chapter, we examined more than 2,000 screen captures of games, from the '80s right up to the present day. During that investigation, we noticed that there appear to be only nine main screen layouts used (not counting all of the symmetric variations thereof). These are shown in Figure 6.19. The gray area indicates status and other informational panels, and the white is the play area. Any one of these would make a good start for the layout of your user interface. We also noticed that the vast majority of screens we examined placed the most crucial information on the bottom-left quadrant of the screen. This is probably because the human eye is thought to focus on that particular area of the screen more than any other, which may have subconsciously influenced the layout design somewhat. Another important issue to consider is the changing demographic of game players. Older people are playing games now, and we hope this trend will increase as games become more accepted as a mainstream form of entertainment. As the human brain ages, it becomes less and less able to discern events that occur in the peripheral vision region, and becomes much slower at processing complex information too quickly. A too-complex interface will lose you an increasingly broad share of the market if you fail to find a way to appeal across the ever-widening demographic field.
+
+在本章的研究过程中，我们检查了 2000 多张从 80 年代至今的游戏屏幕截图。在调查过程中，我们注意到似乎只有九种主要的屏幕布局（不包括所有的对称变体）。如图 6.19 所示。灰色区域为状态和其他信息面板，白色区域为游戏区域。其中任何一个都可以作为用户界面布局的良好开端。我们还注意到，我们检查的绝大多数屏幕都将最关键的信息放在屏幕的左下方。这可能是因为人们认为人眼会更多地关注屏幕的这一特定区域，这可能在一定程度上潜移默化地影响了布局设计。另一个需要考虑的重要问题是游戏玩家人口结构的变化。现在有老年人在玩游戏，我们相信随着游戏被更广泛地接受为主流娱乐方式，这一趋势会一直增长。随着年龄的增长，人脑分辨外围视觉区域事件的能力会越来越弱，处理复杂信息的速度也会越来越慢。如果你不能找到一种方法来吸引不断扩大的老年人群，过于复杂的界面将使你失去越来越多的市场份额。
+
+Figure 6.19. Layouts. 图 6.19. 布局。
+
+![](.gitbook/assets/6.19.gif)
+
+Note that we are certainly not claiming that these are the only layouts that have ever been used—if you find any other layouts in common use (not including those that are restricted because of technical considerations), feel free to email the authors, and we'll add them to the list.
+
+请注意，我们当然不是说这些是唯一使用过的布局——如果你发现任何其他常用的布局（不包括因技术考虑而受限制的布局），请随时给作者发邮件，我们会将它们添加到列表中。
+
+### Meeting Expectations 满足期望
+
+Originality is an important consideration, but not at the expense of other considerations. In fact, originality in general is to be much applauded—there is precious little remaining in the industry at the moment. However, there is a time and a place for originality, and the user interface is generally neither.
+
+原创性是一个重要的考虑因素，但不能以牺牲其他因素为代价。事实上，原创性在总体上是值得称赞的——目前该行业中的原创性已所剩无几。不过，原创也有其存在的时间和地点，而用户界面通常都不是。
+
+Although you will want your player to be amazed by the stunning originality of your gameplay, you most certainly do not want him to be amazed by the stunning originality of the control method and user interface. This is one place where the player will be happy to see the "same old, same old." Stick to what the player knows. If the standard method for controlling a first-person shooter works well enough, then use it. Don't foist a new one on the unsuspecting player. The player has a lot to learn when beginning to play a new game, and only a limited amount of time he will be willing to spend on it.
+
+虽然您希望玩家为你游戏的惊人创意而惊叹，但你肯定不希望他为控制方法和用户界面的惊人创意而惊叹。在这里，玩家会乐于看到“一成不变”。坚持玩家所熟悉的。如果第一人称射击游戏的标准控制方法足够好用，那就使用它。不要把新方法强加给毫无戒心的玩家。当玩家开始玩一款新游戏时，他需要学习的东西很多，而他愿意花在这上面的时间有限。
+
+Our discussion will focus on the PC. Of course, there were games on other machines before then, but little progress was made in the development and design of user interfaces until the advent of Microsoft Windows and Mac OS (derived from the original Xerox research). Upon the rise of graphical operating systems, we started seeing some real progress in game interfaces and the beginning of the informal standardization efforts. Back in the bad old days of DOS, the interfaces for games differed radically from the interface for the more standard type of application, mainly because games had some form of graphics and business applications did not, but also because there was no standard for business application user interfaces. Every application (such as WordPerfect, QuickBasic, and so on) had a different way of interfacing with the user. There were no real standardization efforts and, consequently, no common ground on which to base a core game interface.
+
+我们将重点讨论 PC。当然，在此之前其他机器上也有游戏，但在微软 Windows 和 Mac OS（源自施乐公司的原始研究）出现之前，用户界面的开发和设计几乎没有进展。随着图形操作系统的兴起，我们开始看到游戏界面取得了一些真正的进展，并开始了非正式的标准化工作。在 DOS 的糟糕时代，游戏界面与更标准类型的应用程序界面大相径庭，这主要是因为游戏有某种形式的图形，而商业应用程序没有，还因为商业应用程序用户界面没有标准。每个应用程序（如 WordPerfect、QuickBasic 等）都有不同的用户界面。没有真正意义上的标准化工作，因此也就没有核心游戏界面的共同基础。
+
+Unless your game is one that the players have been specifically waiting for, they won't spend too much time trying to figure out an unintuitive or noncooperative interface. And in the event that you do feel the need to inflict a brand-new interface on players (maybe it genuinely is an improvement and is sufficiently different so as to create a whole new learning curve), make sure that you provide a fallback position so that the players can switch to the "classic" interface if they prefer. Another important thing related to user interface is to make sure it doesn't take too many steps to do things. Any game that requires you to click several times and type in something every time you need to save the game is really annoying.
+
+除非你的游戏是玩家们翘首以盼的，否则他们不会花太多时间去琢磨一个不直观或不合作的界面。如果你觉得有必要给玩家带来一个全新的界面（也许它确实是一种改进，而且有足够的不同，以至于产生了一个全新的学习曲线），请确保你提供了一个后备位置，以便玩家可以根据自己的喜好切换到“经典”界面。与用户界面有关的另一个重要问题是，要确保做事情不需要太多步骤。任何一款游戏，如果每次需要保存游戏时都需要点击几次并输入一些内容，那就真的很烦人了。
+
+Generally, the only case where an interface should break expectations is if a significant improvement on the status quo can be made. Interface improvements are evolutionary, not revolutionary, so they can be introduced pretty much with impunity. Small chunks of progress are much easier to swallow than the complete deal. An example would be the incremental improvements in the interface of the average RTS game, which, spookily enough, now has many similarities to standard drag-and-drop file handling operations in Windows.
+
+一般来说，只有在可以对现状进行重大改进的情况下，界面才会打破人们的期望。界面的改进是进化性的，而不是革命性的，因此可以肆无忌惮地引入。一小块一小块的进步要比一刀切容易接受得多。例如，普通 RTS 游戏界面的渐进式改进，就与 Windows 中标准的拖放文件操作有很多相似之处。
+
+For better or worse, the growth of the games industry has caused games to be released to conform to a range of defined genres. These genres have evolved over time, and informal standards have been established. To the game designer, this means that although a fighting game controlled with a mouse-based interface might be a bold experiment, the game with the tagline "Click and destroy!" will probably be a commercial flop. When it comes to how they control their games, people simply do not want change.
+
+无论好坏，游戏产业的发展已经导致游戏的发布必须符合一系列定义的类型。随着时间的推移，这些类型也在不断演变，并建立了非正式的标准。对于游戏设计者来说，这意味着尽管用鼠标控制的格斗游戏可能是一个大胆的尝试，但标语为“点击并摧毁！”的游戏很可能是一个商业失败品。说到如何控制游戏，人们根本不想改变。
+
+A concrete example: In the '80s, a renowned programmer of hit games produced a series of highly successful soccer games for 8-bit computers. The control method used in these games was highly exacting. Unlike the soccer games of today, the player was given little or no assistance in controlling the ball. When the player's team member touched the ball, it bounced off. Hence, dribbling the ball was a matter of literally chasing the ball with the player's team member—a very tricky process when surrounded by opposing team members. Kicking the ball was even harder; it went in the direction of the kick. If the player wanted to kick the ball to another team member, it was the player's responsibility to ensure that the recipient was in exactly the right location.
+
+一个具体的例子： 80 年代，一位著名的热门游戏程序员为 8 位电脑制作了一系列非常成功的足球游戏。这些游戏使用的控制方法非常严格。与今天的足球游戏不同，玩家在控球时几乎得不到任何帮助。当玩家的队员触球时，球会弹开。因此，运球时需要球员与队员一起追球——在对方队员的包围下，这个过程非常棘手。踢球就更难了，球会顺着踢球的方向飞去。如果球员想把球踢给另一名队员，那么他就有责任确保接球人的位置准确无误。
+
+In the late '90s, the programmer of this series was given an opportunity to produce an update of his classic soccer series for the PC and Sony PlayStation. Of course, in the meantime, the computerized soccer game interface had evolved, and certain interface features were considered standard (for example, autotargeted kicks, aftertouch, and autodribble). This meant that modern soccer games on the computer were less about controlling the ball, and more about the strategic flow of the game—more of "Are my players in the right formation to score a goal?" and less of "Argh! Where's the ball?".
+
+到了 90 年代末，该系列游戏的程序员有机会将其经典足球游戏系列升级到 PC 和索尼 PlayStation 上。当然，在此期间，电脑足球游戏界面已经发生了变化，某些界面功能已被视为标准配置（例如，自动瞄准踢球、触后控制和自动运球）。这意味着，现代电脑足球游戏不再那么注重控球，而是更注重游戏的策略流程——更注重“我的球员是否保持正确的阵型来进球？”而不是“啊！球在哪里？”。
+
+{% hint style="info" %}
+aftertouch，触后控制是一种技术，玩家能够操纵他们实际上无法控制的物体的路径，例如坠毁的汽车或者飞离脚的足球。
+{% endhint %}
+
+The reasoning behind the programmer's new update was to eschew this namby-pamby "make it easy on the player" approach and take things back to the old days, where learning to control the ball was a player skill in its own right. Unfortunately, the game bombed. It was too difficult to learn, and too far behind the times. The original games were successful because they were state-of-the-art when they were released. Attempting to update the game without substantially updating the control interface to match modern standards was a bad idea from the start, appealing to no one except fans of the original games (most of whom had grown up and gone on to other things) or die-hard soccer freaks.
+
+In order to be successful, a game has to be accessible to more than the hard-core fans. If your game is hotly anticipated (for example, if you happen to be writing Doom III), then more people will expend effort trying to learn it. If not, you had better make sure it's as accessible as possible. The best way to start is with the user interface.
+
+### Hardware Considerations 硬件考量
+
+Whether designing a computer, console, or multiplatform game, hardware considerations should be foremost in your mind. The capabilities of the hardware—and specifically of the available controllers—will have a profound effect on your game design.
+
+Game designers do not need to be technical wizards, but they do need to be aware of the capabilities and limitations of their target platform.
+
+In the case of the PC, there is a plethora of available controllers. This is, in fact, one of the problems with designing games for a platform that is so variable. There are so many different controller configurations that you have to provide support for the lowest common denominator: the keyboard and the mouse. You can't even count on many PC owners having joysticks, let alone joysticks with force-feedback capabilities. You can, of course, provide support for more specific controllers—for example, racing games can support steering wheel and pedal kits, and flight simulators can support the full yoke system—but the usual approach is to make them an option rather than the default.
+
+If a game has sufficient "weight" behind it, it can set the recommended default as a specific type of controller that would require a secondary purchase. An example of a game (in this case, a series of games) with the required clout to be able to pull this off is the Madden series of football games. The default controller in the instructions for the 2001 edition (and also referenced in-game) is a six-button gamepad. The game can be controlled with the keyboard and the mouse, but that is definitely the secondary mode of control. Requiring a specific controller is certainly not a recommended approach. It will alienate some of your potential players (who may think that they actually need a gamepad to play the game, and may not be willing to buy one), and sales will suffer as a result.
+
+So let's consider the tools that we have available. On the PC, we have the keyboard and the mouse, and on the consoles, we have some form of gamepad-style controller. Obviously, the available controllers have an impact on the nature of the games that are created. On the consoles, you tend to get more action-oriented games. Those styles of games requiring more complex input—role-playing games, RTS games, adventure games, and simulation games—tend to appear on the PC, where the keyboard and mouse allow for more suitable input. That's not to say that crossover does not occur: Starcraft was released on the Nintendo 64, but it was not as easy to control—or indeed as successful—as the PC version because of the lack of a mouse. Of course, it would be naïve of us to insist that the sole reason for difference in game styles on consoles as compared to PCs is controller configuration—it also has a lot to do with player demographic (the sort of person who will buy a $200 console compared with a $1,500 computer).
+
+Even though most games can be played using the standard controllers, some games are indeed better played with specialist hardware. For example, the games Dance Dance Revolution, Sega's Bass Fishing, and Samba De Amigo are much more enjoyable when played with a dance pad, a fishing controller, and maracas, respectively (shown in Figure 6.20).
+
+Figure 6.20. Specialized controllers.
+
+graphics/06fig20.gif
+
+Steel Battalions by Capcom costs about $200 for the game, with a huge custom dual-stick controller with more than thirty buttons and foot pedals. It is considered to be an amazing gaming experience, but the player must be at least a passing mechwarrior freak in order to appreciate it.
+
+Designing games to use specialized controllers is not an opportunity that many of us will get. Usually, the specialized controllers start off in Japanese arcades, follow through to the consoles, and then in a few (very few) instances, filter through to the PC. One case where a particular genre (or more exactly, one or two stand-out titles from that genre) has spawned a specialized controller is the first-person shooter (FPS). All the effort spent on creating the specialized FPS controller appears to be for nothing, however—the best controller for this particular genre still seems to be a combination of mouse and keyboard.
+
+For a specialized controller to take root and become a standard, a critical mass has to be achieved. This can occur in a number of ways. One such way is for an incredibly successful game to offer better playability with the controller, such as in the case of Dance Dance Revolution. This introduces the controller into a lot of homes. Provided that the programming details of the controller are authorized public knowledge, there is no reason why your game cannot use the new controller if it has achieved a suitable level of ubiquity.
+
+The effect of a controller on the user interface is profound. For example, controlling a pointer and clicking on buttons using a gamepad rather than a mouse always feels awkward. When a mouse is not available, a far better approach is to have the directional buttons on the gamepad highlight each button in turn. Obviously, there are many other ways that a controller can influence the usability of an interface. An interface suitable for keyboard or gamepad control needs modifications to be equally as usable with a mouse, and vice versa; hence, the capabilities of the selected controller must be taken into account when designing the interface. Again—as with many other aspects of user interface design—this task is made easier by informal genre standardization. You can take the root of your control system directly from other games that are similar in presentation to your design.
+
+### Simple User Interface Elements
+
+User interfaces serve a primary function—interacting with the user—which is split into two main tasks. One of these tasks is to accept the player's commands. The second task is to inform the player of her status within the game and display the options available in as graphically clear a format as possible. There is a large element of graphic design in user interface design—even with something as simple as an arcade game.
+
+There are certain standard elements of a user interface that we will discuss. These are divided into two broad classes: in-game elements and the shell interface, with the latter referring to the various menus and screens that allow the player to start, configure, and otherwise manage the game. The shell interface needs to provide functionality to allow the player to configure the video and audio settings and the controls; to provide access to a multiplayer lobby, where appropriate, and saved games; and to allow the player to exit the game. We will not discuss the design of shell interface in any great detail; suffice it to say that it should thematically and stylistically jell with the rest of the game and respond to the player quickly and smoothly. After all, there is no great secret to generic shell design—if you need inspiration, just look at another game, or even a standard Windows application, and base it on that. Make use of the millions of dollars Microsoft spent on user interface research, and don't bother reinventing the wheel.
+
+> "If you want to make an apple pie from scratch, you must first create the universe."
+> 
+> \—Carl Sagan, 1934-1996
+
+One very important point, however: The player should not be forced to spend too much time in the shell interface. Players should be able to get right into the action (fast-track style) by one or two clicks of a button if they so desire.
+
+Now let's discuss the in-game interface. We will be concentrating on the tools and methods used to divulge information to the player while he is actually playing the game. We are going to try to assume nothing and start off by discussing the simplest constructs.
+
+The player in a game needs to be aware of his status. The indicators are present to provide the player with the information to be able to set goals, increase the thrill level, and provide rewards when the player does well. That's what they should do. What they should not do is distract the player from the game, clutter the screen, confuse the player with unnecessary or extraneous information, or obfuscate vital information.
+
+There are many indicators that are used to inform the player of his status, such as score, ammo count, power level, and level indicator. Some of these indicators are genre-specific, but many are pangenre. We'll cover a few of these here to give an example of the kind of things we are talking about. An exhaustive list isn't necessary, because in the first place, we'd be writing an entire book just on that subject, and in the second place, most of the elements are self-evident. Let's discuss some of them, and you'll see what we mean.
+
+For example, the classic "score" indicator is virtually ever-present, especially on the console platforms. Although there have been many creative ways of displaying score, the usual approach is to display a numeric indicator. Of course, a score is a measure of success, and what use is a measure of success unless you have something to measure against? Hence, the high-score indicator—and associated high-score table—keep track of past scores and give players a yardstick by which to measure themselves. Sometimes, in order to add flavor, a score is accompanied by a rating. Thus, a low score may elicit a response of "You are pitiful!" while a more impressive score would give a slightly more encouraging response.
+
+The score indicator is the simplest of the basic indicators. If score is a primary concern in the game, it's usually shown onscreen at all times. (If this is the case, the high score is often shown too, to act as a spur on to greater things.) In some cases, the score isn't really important during the game and is only totted up at the end of the level or the game. How you choose to track the player's progress is up to you or the conventions of the particular genre, but bear in mind that players generally play for a reason; they do want some indication of success (or failure).
+
+Originally (and somewhat out of vogue nowadays), the score indicator was often accompanied by a "lives remaining" indicator. This would show how many chances the player has remaining, by showing either the correct number of miniature icons or a plain numerical display. Again, modern games seem to have eschewed the "number of lives" paradigm in favor of infinite respawns. Indeed, with the current trend of most games to allow saving of the game at almost any point, the concept of lives is pretty much irrelevant.
+
+One small part of the "lives" concept that has managed to survive is the "power bar" indicator, shown in Figure 6.21. It usually takes the form of a horizontal bar that is colored in full. As the level decreases, the color drains from the right to the left. In this context, the player has only one life, but a limited amount of power. This power is drained until it is all gone, and then the player dies. The power indicator is still used in many other situations and can be found in many different types of games. In fact, it is often used in any situation where an attribute of the player's avatar has minimum and maximum values, and the value of that attribute can vary between them.
+
+Figure 6.21. An example power bar.
+
+graphics/06fig21.gif
+
+Some games—particularly accurate flight or race car simulations or games that are aiming for a particular "analog" theme—use dials (see Figure 6.22). These are a variation on the power bar and are often modeled after the real thing, particularly in the case of accurate simulations.
+
+Figure 6.22. Dials (Microsoft Flight Simulator 2002).
+
+graphics/06fig22.gif
+
+As we've said, we're not going to go through an exhaustive list of the possible user interface elements. You can see that they are fairly self-evident, and that consequently describing all the possible elements would be next to impossible. Fortunately, it's also not necessary. Most of the possibilities are combinations of the few basic elements mentioned in this chapter, and the remainder are clearly visible in context elsewhere—for example, in other games, or in the standard Windows interface. The only required skill is in deciding how to use them, which is mainly a matter of common sense. When designing the interface, work out which information the player needs at hand quickly and which can be put out of immediate reach.
+
+Another very important consideration is consistency. Consistency makes your interface simpler and more predictable. When a player is trying to figure her way around a new interface, consistency will be a great help. When designing an interface, pay attention to matters of consistency. Make sure that your interface is stylistically consistent throughout. For example, switching between steam-punk brass and hi-tech chrome within the same context breaks the consistency rule.
+
+Apart from stylistic consistency, it's also important to maintain navigational consistency. That is, the methods of accessing information and navigation between screens should be similar across the interface. If a slider is used to set a variable value, it should be used consistently throughout the interface, unless there is a good reason not to. Difference solely for the sake of difference is never a good idea—especially in the case of interface design.
+
+As a small example of specifics, designers should strive for button consistency. The same button (on a controller) should always be used to select a menu item (for example, the green button), and the same button should always be used to exit the menu (for example, the red button). As another example, the use of defaults should always be consistent. Whether you choose to set the last item selected by the player as the default, or always set the first list item as the default, it should be reflected consistently across the interface.
+
+### Words and Pictures 文字和图片
+
+Probably the most important interactive element of the user interface—present in virtually all games—is the icon, which often appears as a button or a label, sometimes in combination with or in addition to text. Information has to be presented to the player, and the main way to do this is visually. The adage "a picture is worth a thousand words" comes into play here—often a visual image can be interpreted and understood much faster than the equivalent text.
+
+There is another reason for minimizing the amount of text onscreen: localization. Different languages have different scripts, grammatical structures, and sentence lengths. If everything onscreen is displayed as text, your localization team will soon run into a lexicographical nightmare trying to resolve the issues that come up with localization.
+
+Most games contain a fair amount of text, all of which has to be localized if the product is going to go on sale in countries where English is not the native tongue. It makes sense, therefore, to minimize the amount of extraneous text that goes into areas such as the user interface. This does not entirely preclude the possibility of text in your user interface. That would be patently ridiculous. However, it makes sense to minimize it for both of the reasons mentioned here—the difficulty of assimilating text compared to representative images, and the issues with text localization.
+
+Another issue that is sometimes overlooked when dealing with text is distinguishing between what is a text asset and what is an art asset. As a rule, you should never call upon the artists to embed text in a picture. This converts an easily managed text asset into a far less manageable art asset. To change text in a text file is trivial. To modify text added to an image at the design phase is usually not. It makes far more sense to maintain all text strings within the game as external resources and overlay them as needed within the game. Believe us: When you come to localize your game, you cannot imagine the headaches that doing this proactively will save you.
+
+If you are going to display any significant amount of onscreen text, you need to make sure that it is easily readable. As a rule of thumb, the minimum height of text displayed on a screen should be about 12 pixels. There are exceptions to this rule, of course, but for the most part, it should be treated as an absolute. If the height of the text is any less than 12 pixels, the resolution and definition of the glyphs suffer—particularly if you require localization to non-roman alphabets, where you simply will not be able to get the detail you need in less than 12 pixels.
+
+The formatting of your text is also important. Take some tips from standard publishing. Use mixed uppercase and lowercase letters—if you use all one case, it makes words harder to pick out. Trying to read all uppercase text has two problems. The first is that it looks as though the writer is SHOUTING, and the second is that IT CAN MAKE INDIVIDUAL WORDS HARDER TO PICK OUT THAN IF THEY WERE WRITTEN IN NORMAL MIXED CASE. It's just plain harder to read and it's ugly. Don't do it.
+
+When selecting a font for your game, try to pick one font and stick with it. If you feel that you do have to mix fonts, be careful in how you mix them. Try not to use wildly differing styles together—unless you're specifically looking for that "ransom note" effect. It looks amateurish and unprofessional. In particular, don't use serif and sans serif together. If you're mixing, try and stay within the same class of font.
+
+The development of the icon was precisely due to the problems with the efficiency of text as a communication medium. A clear, descriptive graphical image is easier to comprehend than text, but (and there is always a but) an icon can only be understood if there is a common cultural ground between the designer and the player. Let us provide an example. Consider Figure 6.23: The icon in this image will be immediately recognizable to an American, or to anybody who has spent some time in America, but it will probably not be familiar to anyone else. It's the symbol for a pharmacy, but you have to be familiar with American culture to know that. Nothing in the picture gives any clue as to its meaning. For that reason, it's a bad choice as an icon, unless your product is restricted to within the continent of North America. A better choice of icon would be a red cross on a white background, known widely as the symbol of the International Red Cross organization (or it would be good to use if it wasn't trade marked; id Software's Doom fell foul to this particular snafu).
+
+Figure 6.23. Pharmacy icon.
+
+graphics/06fig23.gif
+
+Another example is to use a picture of a duck (the fowl) to indicate that your avatar will duck (the action). That relies on a visual pun that only works if you have a good understanding of English. Again, it automatically cuts you off from foreign markets and creates unnecessary localization issues. That does not mean that you are restricted to strictly representative icons. There is nothing to say that an icon has to specifically represent its intended action. The aim of an icon is to give a visual clue that can be easily understood in the context of the situation. You don't need to stress out trying to make sure that your icon cannot be mistaken for anything else under some strange circumstance. Your players will be a little more forgiving than that. The only real concerns are that your icons cannot be mistaken for another in the same interface, and that there is at least some conceptual link between the icon and the action that it represents.
+
+There are some pan-cultural images that have been developed over a period of time that are now considered de facto standards. Consider the icons shown in Figure 6.24. All these symbols should be instantly recognizable to you. Even if they're not, you could easily make a guess at their probable meaning. Bear in mind that if any of them seems vague or ambiguous in the diagram, it is to be expected. You are viewing them in the rarified atmosphere of the printed page. There is no immediate context to set them against.
+
+Figure 6.24. Universal icons.
+
+graphics/06fig24.gif
+
+Try considering some of these icons in context. For example, if the hammer and wrench icon was displayed on the opening menu of a game, you could assume that it allowed you to access the game configuration screen. On the other hand, if it was displayed on the control panel of an in-game vehicle in a racing game, you could assume that it served as a pit-stop button or some other mechanical function. The important thing is that the context makes the difference. As long as the icon is the only one of that type, the meaning is unambiguous. For example, having a separate hammer and a separate wrench as two icons on the same screen would cause confusion and should be avoided, unless the game specifically calls for those two tools separately, and the player had already been made aware of the distinction.
+
+One good use for text in a game interface that relies on icons in some capacity is for "tool tips." Most people who have used a computer are now familiar with these, but for the uninitiated, tool tips are small balloons of text that appear when the pointer is hovered over a button for a short period of time without actually clicking it. Tool tips can be visual or audio (the function of the button is audibly announced), but the ideal situation is to have a visual and audio cue. Make sure the players can turn off this aspect of the audio if they want to.
+
+Having good icons and representative images within your interface is a great start, but it's only half of the story. After a player has clicked on a button, she will want instant feedback. This doesn't mean that the corresponding action should happen immediately—that wouldn't always make sense, depending on context—but there should be a visual and an audio indication that the button has actually been clicked. In other words, tell the players that their request has been acknowledged and will be acted upon presently.
+
+As with tool tips, the best method of acknowledging a request is audibly and visibly. The audio can be anything from a simple "click" noise to a function-specific "request acknowledged"-style announcement. The usual method for indicating that a button is pressed is to highlight it in some way, either by making it appear in the down position or by changing its color or contrast. Be careful with color usage. Bear in mind that about 8 percent of men are color-blind to some degree. If you are varying color as an acknowledgement, be sure to vary the contrast noticeably too—particularly if your colors have a large red/green component. This will allow players with diminished ability to distinguish color to play your game on equal terms with all other players.
+
+### Hiding Complexity 隐藏复杂性
+
+One of the problems with the increasing capabilities of game machines, and the resulting increase in sophistication of game designs, is that the issue of managing complexity rears its ugly head.
+
+Some games have literally hundreds of options available to a player at any one time. Without some sensible scheme for managing the presentation of these options, we end up with a game that is very difficult to play—either because no one can remember all the options (think in terms of flight simulators), or because the screen is so crammed with icons and controls (think in terms of badly designed strategy games), there is no room to play the game.
+
+A specific example of a game that handled complexity badly (by the designer's own admission, so you can't blame us for slinging mud) is the original Dungeon Keeper.
+
+"(Dungeon Keeper) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that Dungeon Keeper was a missed opportunity."
+
+—Peter Molyneux, designer of Dungeon Keeper
+
+The user interface of Dungeon Keeper (shown in Figure 6.25) contains a status panel that Molyneux described as "terrible" and containing "too many icons" in his 2001 GDCE (Game Developer's Conference Europe) "Essentials of Game Design" presentation. In the opinion of Molyneux, Dungeon Keeper was a missed opportunity because of the bad interface. It sold 700,000 copies, which for most designers would be considered a great success. But when compared to the sales of Populous, Theme Park, and Black and White (also mostly designed by Molyneux) at 3.5 million copies each for the first two and 1.5 million copies for the latter, it's fairly clear as to why he saw Dungeon Keeper as a failure.
+
+Figure 6.25. Dungeon Keeper.
+
+graphics/06fig25.jpg
+
+What could he have done to mitigate the poor design and boost those sales? There are a number of approaches he could have taken, and we will detail some of these here (but bear in mind that hindsight is always 20/20).
+
+When designing an interface that has as many options and features, as were present in Dungeon Keeper, we need to use some type of method to reduce the complexity. One thing to consider is the depth versus the width of the interface. How do we define the depth and width? In this sense, the width of an interface is the number of top-level options available to the player. For example, a menu with five buttons would have a width of five. The depth corresponds to the number of menus below the top-level menu. As a general rule of thumb (which is most certainly not valid in all situations), it is a good idea to make these values roughly equal (at least to within plus or minus 50 percent). As a guideline, count the total number of options available to your player and take the square root of that. That's the number you should be aiming for.
+
+An interface that is too wide will overwhelm the player, whereas an interface that is too deep will be difficult for the player to remember where everything is. This, of course, assumes a static structure for the menu.
+
+When deciding how to structure your menus, a good starting approach is to categorize the options by frequency of access. The most frequently accessed elements should be one or two steps away from the player at most. The least frequently accessed elements can be farther down the hierarchy.
+
+A good set of guidelines, adapted from interface theory research performed by the University of Alberta, is as follows:
+
+* Be consistent. The player should only be required to perform consistent sequences of actions in similar situations. The terminology used in prompts, menus, and game-screens should be identical. The use of color, capitalization, font, and layout should be consistent throughout logically connected sections of the game.
+
+* Enable hardcore players to use shortcuts. To cater for hardcore players, provide abbreviations, special keys, hidden commands, and macros to enable them to play faster. Try not to unduly affect the game balance by making these shortcuts too powerful.
+
+* Give good feedback. For every user action, the game should respond in some way. This one is obvious: When the player interacts with something, he will expect the game to respond—at least with an acknowledgment—immediately.
+
+* Design the interface to offer defined tasks. The sequences of actions the player is performing should be arranged into a conceptual group of smaller subtasks, each with a defined beginning, middle, and end. Each task completion should be punctuated with an acknowledgment, so the player knows that his task has been completed.
+
+* Don't allow the player to make silly mistakes, and allow recovery from minor errors. The player should not be able to make a serious error simply by typing or clicking the wrong thing. Check and validate all player input. If the player does make an erroneous entry that the game could not anticipate, then the player should be guided to graceful recovery. If the game requires a complex input method try and break the input into smaller tasks where appropriate.
+
+* Permit easy reversal of actions. If a player makes a silly mistake, allow the player to reverse the action, unless it would affect the game balance adversely.
+
+* Remember that the player is the one in control. Players want to feel in charge of the game—at least in regard to control of their avatar. Don't throw random uncontrollable events, or tedious or difficult input sequences (such as pointless jumping puzzles).
+
+* Don't strain the player's short-term memory. Short-term memory is a finite resource. The player should not be overwhelmed by the information the game is provided. Provide ways to hierarchically (or otherwise if appropriate) compartmentalize information.
+
+Another more advanced method of managing complexity is to have a fluid menu structure. By employing context sensitivity, we can show the player only options that are relevant to his current situation. For example, consider a hypothetical graphic adventure. Let's assume that our character is in the bathroom. There are only certain actions available to a player in the bathroom (and we won't dwell on those here), but there are many actions that are impossible. It would make no sense at all to give our player the menu option to, for example, cook something, so useless options such as these (which would normally elicit a response of "You can't do that here") can be culled from the available options. The Sims uses this particular approach to manage complexity. The caveat to using this form of context sensitivity is that it can make the gameplay more transparent if it is done badly. If the only options left available on the menu are the only actions that can be performed, it makes the adventure easier by automatically eliminating dead ends in the investigative process of playing the game. Thinking up solutions to the presented problems is part of the challenge to an adventure game, and presenting only the available actions to a player will reduce the level of challenge. This can be a good thing, reducing frustrating elements of play, as long as the challenge is not reduced to the level where only the correct solution is available as an option.
+
+A valuable addition to the previous scheme is to allow the user to configure the interface to some degree. Diablo and Diablo II handled this admirably, by allowing the player to assign her favorite spells to hotkeys so that they could be accessed quickly in the heat of battle.
+
+A related method, often used in graphic adventures, role-playing games, and other mouse-controlled games, is the context-sensitive pointer. The pointer will change its form when it is pointing to an object of interest. In the case of an RTS, it may change into a pickax when a peasant is selected and the pointer is over a collectable resource; or, if a warrior is selected, it may turn into a red crosshair when over an enemy, a yellow crosshair when over a neutral character, and a green crosshair when over a friend.
+
+Another approach is to implement a beginner's mode and an expert mode. The beginner's mode only presents a simplified set of options that encompass the core set of necessary actions available to a player. The expert mode provides the same options, but divides them into a finer grain. For example, an RTS in beginner's mode may provide the option to attack, but in expert mode, it may allow the player to tailor the attack by providing reckless, cautious, or normal attacks, with the difference being the amount of punishment the unit will take before retreating.
+
+More recently, the concept of the "invisible interface" has been touted around the industry. Of course, the invisible interface is one of many holy grails that the industry strives for. The most literal example of the invisible interface can be found in Lionhead's Black and White, shown in Figure 6.26.
+
+Figure 6.26. Black and White.
+
+graphics/06fig26.gif
+
+In this game, the player's avatar is a disembodied hand that responds directly to the movements of the mouse. There is virtually no other status information displayed on the screen. There are no icons or buttons for the player to click on; every action that can be performed in the game is done by moving the mouse. For example, in Figure 6.26, the mouse has been moved in a star configuration. The game recognizes that as the pattern required to cast a spell; hence, the glowing star in the image. Similarly, if you want to punish your creature, you move your hand up and down in a vigorous fashion when it is over your creature. This results in the creature being slapped. Moving your hand more slowly results in you tickling and caressing your creature, rewarding it. To move your hand around the landscape, you move the hand ahead of you, grab the landscape, and "pull" the view forward.
+
+Because there is no other interface to speak of other than the hand, this approach has been dubbed the invisible interface. From the overstuffed icon-fest of Dungeon Keeper, we have now reached the opposite extreme—no icons at all. We are not sure which approach is best—Black and White sure is difficult to play with a trackball—but the aim of the closely mapped mouse-to-hand movements is to attempt to immerse the player in the game with only the thinnest layer of interface separating him from it.
+
+Another approach that implements the invisible interface is that taken by Hasbro's Frogger 2. Here, the game configuration menu is controlled by actually guiding the frog from island to island in a small "main menu" level. To configure the sound, you jump onto an old style gramophone; to start the game, you jump through a doorway (or something similar); and to play the old-style Frogger, you jump onto a Frogger arcade machine. This is a great approach to the invisible interface problem—it actually makes configuring and starting the game part of the fun.
+
+However, in our opinion, an interface does not need to be nonexistent to be invisible. Our definition of an invisible interface would be one that fits the game so well that the player forgets that it is there. Starcraft is such a game. The interface is so well designed that the player performs her actions subconsciously. The interface efficiently transfers the player's desires into actions within the game world. With practice and experience, the use of the interface becomes second nature. This example of an invisible interface lacks the gimmicky (although effective) approach of the first two examples.
+
+When designing your interface, if you want to achieve the invisible effect, you have at least these options open to you (and any others you may be able to think of). However, we prefer the third approach, and our design leanings are toward making an interface invisible by hiding it in plain sight—making it so intuitive that the player forgets it is there. This is the minimalist approach. Display what is needed to make the game fun and easy to control. No less and no more.
+
+A major factor that will influence the effectiveness of your interface is the information density. For example, consider Figure 6.27. In each of these two examples, the first example on the top and the second on the bottom, the same information is presented in two different forms. One of the forms is quicker to comprehend than the other, and hence is more suitable for an interface. The top example compares an icon with the equivalent text. Obviously, the smiley face icon will be recognized by the brain more quickly than the equivalent text. The second example shows three numbers. Clearly, the second format shows the relationship between the numbers at a glance far better than the first format.
+
+Figure 6.27. Optimal presentation of information.
+
+graphics/06fig27.gif
+
+One last important consideration—specifically for the PC—is to make sure that whatever interface you provide has keyboard shortcuts where possible. As players become more advanced in their game skills, they will often prefer to access a game function directly rather than through a hierarchy of menus or options. This is one major advantage that PCs have over consoles, and it makes our task as a game designer that little bit simpler. It's important to take every advantage given to you in order to make your game shine above others. The ability to offer an alternate "fast-track" interface for experienced players is one of those small touches that makes a difference.
+
+## The Visual Element 视觉元素
+
+This chapter has focused on user interface, mainly from the functional and navigational point of view. However, we also have to consider the aesthetics. This will not be covered in as much detail as the navigational aspects, mainly because the topic is so large that to attempt to cover it all would be ineffectual.
+
+Nowadays, the freedoms afforded by today's hardware—with millions of colors and high-resolution screens—allow the designer to let his imagination go with the visual appearance of a game. As with all freedoms, care must be taken to use it responsibly; the industry is littered with unsuccessful games that failed because of an inaccessibly beautiful interface. Consequently, we will discuss some of what we feel are the key issues surrounding the appearance of a game and its interface.
+
+### The 3D Versus 2D Argument 3D与2D的争论
+
+The 3D versus 2D argument is a contentious subject, and not everyone is likely to agree with our opinions. (That's why they are opinions—if everyone agreed with them, then life would become very boring.)
+
+The industry has been moving toward more and more 3D games. Since the rise of 3D accelerator cards and consoles such as the PlayStation, Nintendo 64, and Dreamcast, there has been an inexorable increase in the use of 3D in every possible title. Even Monopoly Tycoon, a conversion of a board game, uses advanced 3D graphics. What's with this? Everybody is so caught up in the fact that they can that they haven't stopped to think whether they should.
+
+We're not complete Luddites. We happen to play and enjoy a lot of 3D games, but we find ourselves wondering about some of the titles that appear to be released in 3D solely because 3D exists. Simply put, some games work better in 2D, and this is proved by the fact that these games usually have a default view that looks just like the old 2D view, except with the use of polygons. Polygons are pretty, to be sure, but we are not yet at the stage where polygons look prettier than well-drawn sprites. Compare a game such as Sudden Strike (shown earlier in Figure 6.11) to a polygon-based RTS game such as Starship Troopers: Terran Ascendancy (shown in Figure 6.28).
+
+Figure 6.28. Starship Troopers: Terran Ascendancy.
+
+graphics/06fig28.gif
+
+Both games are similar in style, but the latter game, Starship Troopers, uses a polygon-based engine. It can be seen from the figure that the graphics are inferior to Sudden Strike: less detailed and more sparse. Of course, what you lose in detail you gain in flexibility—the player can rotate the camera view to get a different take on the action. The question is, "Why?" Does this improve the gameplay? The answer is probably not. The camera will just overcomplicate the interface, and most players will end up just playing it from the default overhead view anyway (in which case, sprites would look better).
+
+Of course, if gameplay and clarity of interface were the only issues, most games would be in 2D. Obviously other factors, such as immersion and commercial expectations, influence the decision far more. Sometimes, however, the decision seems to be influenced by the commercial "because we can" instead of the practical "because we should."
+
+What we are trying to say is don't use 3D for 3D's sake alone. Try to find some bona-fide justification for requiring that your title be 3D. (And, in case you are wondering, "because it sells better" is a valid response. It doesn't mean we have to like it, though.)
+
+## The Audio Element 听觉元素
+
+We have already spoken a little about sound in our discussion of player feedback. However, this is not the only place where it should be used, or the playing experience ends up being very flat indeed.
+
+This section covers some of the other areas and issues associated with sound design in games. We'll split our discussion into two distinct areas. The first will discuss sound effects, and the second will discuss music.
+
+### Sound Effects 音效
+
+Originally, sound was limited by hardware to beeps used as minor spot effects. Now, we expect CD-quality soundtracks and environmental audio surround sound with our games. Not only do we expect to be entertained visually and cerebrally, we also expect an audio feast for our ears.
+
+The most prevalent use for sound effects in games is in incidental effects. These sounds correspond to the actions and events that happen in the game world—for example, a burst of gunfire, or the tight squealing of tires as a car slides sideways around a corner. Bear in mind that in nature, sound is often our first warning of an incoming event. You will often hear danger before you actually see it. Hence, it is fitting to use sound as the first indicator that something needs attention paid to it. Be sure to back it up with a visual indicator too, so that the player has somewhere to look and see what is going on. It's much easier to interpret an event visually that it is by audio alone.
+
+As audio capabilities improved, sound effects were also used to provide feedback to the player. There are many examples of how this is done, and we have already discussed audio interface feedback previously in the chapter. Some examples include the ability to judge the need to change gear in a racing game by listening to the pitch of the engine, or knowing that an enemy is approaching because the player can hear his footsteps and heavy breathing as he rounds a nearby corner.
+
+Beyond this, there is the issue of dialog. Many games—particularly adventures and role-playing games—rely heavily on scripted dialog. This is usually recorded by experienced voice actors, and it helps the player get fully immersed into the game world. Or at least it should. Bad voice acting does more to destroy immersion that no voice at all. The original Diablo from Blizzard Entertainment was singled out for having particularly bad voice acting. However, computer games are a relatively new medium, and each new medium requires new techniques. It's entirely possible that these techniques remain to be discovered; in the years ahead, they might crack them, and we'll have convincing voice acting in games to look forward to.
+
+Bear in mind that not all your players will have perfect hearing. Any time that a sound is used to notify a player of an event, a visual cue should be given, too. (This can be a configurable option, such as subtitles for spoken dialog.)
+
+### Music 音乐
+
+No discussion of sound would be complete without a brief sojourn into the subject of music. Ever since the first strangled warblings of early sound chips, developers have attempted (with varying degrees of success) to get music into their games.
+
+Initially, the player would usually be treated to a shockingly bad rendition of a familiar tune on the title screen. The practice of using familiar tunes took a dive, however, when copyright lawyers for the music industry started sitting up and taking notice. That's when the rise of the computer musicians started. These guys specialized in making original music for games. Some, such as Rob Hubbard (www.robhubbard.co.uk), even achieved a substantial level of independent fame in their own right, solely through their game music. Some of the more extreme fans even bought games solely for the music.
+
+Once the hardware capabilities increased, games began to include in-game music. This led us to where we are today, where literally every game is expected to have a CD-quality soundtrack. When deciding on a soundtrack for your game, make sure that it fits thematically with the rest of the game. For example, a pentatonic scale guitar composition might sit well with a medieval Japanese adventure game, but it would certainly sound out of place in a futuristic war game.
+
+Of course, discordance may be just the effect that you want to achieve. One of the most striking moments in the introductory movie for Starcraft was the use of classical opera as the audio backdrop, set against fierce battle scenes when the admirals calmly discussed the war situation as they prepared to abandon the men on the surface to their fate. The juxtaposition between the opulent calm of the admiral's bridge and the hell of war on the surface was accented excellently by the choice of music. Music is arguably capable of eliciting emotion more effectively than any other medium—and in this case, it worked well.
+
+The music in the introductory movie for Starcraft was so effective because the mechanism was not overused. As a designer, you will want to give the player a musically appropriate experience the majority of the time. That way, when you bend the rules, it will have a greater impact on the emotions of the player. Of course, you won't be designing the music yourself—in most cases—but it is the designer's responsibility to tell the composer the effects and the emotions that the designer wants the player to be feeling by listening to the music.
+
+Another holy grail of the industry (and there are many) is dynamically variable music, otherwise known as interactive music. This is a slight misnomer. We don't really need interactive music—what we need is adaptive music. The use of the word "interactive" implies an explicit two-way relationship: The player affects the music, and the music in turn explicitly affects the player. That's not what we'd want at all. Of course, the music may affect the player's emotions, which may in turn affect the way she plays, but that is just a secondary side effect and not the intended effect at all.
+
+The aim of adaptive music is to play a constantly varying tune in the background, correctly anticipating the player's actions and upcoming game events so that the tune always accents the actions—similar to the way that music in a movie rises to a crescendo when an exciting or emotional climax is approaching.
+
+So, is adaptive music the holy grail or merely fool's gold? After all, sound effects can do just as well at evoking mood, and in any nontrivial game (excepting those with "on-rails" gameplay), we don't know what's going to happen in the game. The algorithm forsuccessfully predicting the future when an unpredictable element (the player) is involved hasn't been perfected yet. We think that adaptive music in its current limited capacity is (or more specifically, will become) a valuable tool, but as yet, it is not quite ready for the prime time.
+
+> **User Interface Worksheet 用户界面工作表**
+> 
+> 1. Roughly sketch out the major elements of the game's shell interface; then move on to the in-game experience. For the in-game experience, define each of the gameplay modes the game will require to be playable (including the pause menu, if there is one). Don't forget non-interactive modes such as movies or mission briefings.
+> 
+> 2. Create a flowchart showing how the gameplay modes change from one to another, and what events (player actions or in-game events) cause each change.
+> 
+> 3. For each gameplay mode in the game:
+> 
+>       a. Create its screen layout.
+> 
+>       b. Determine its perspective on the game world (or, if more than one is possible, determine all its perspectives and choose one as the default).
+> 
+>       c. Select its interaction model.
+> 
+>       d. Define what will happen when each button on the controller or keyboard is pressed and—if the game includes a pointing device—what will happen when an object in the game world is pointed to and selected.
+> 
+> 4. If the interface includes multi-step actions (such as selecting units, and then giving them an order), create a flowchart indicating what happens in each step, and whether (and how) the sequence can be interrupted or cancelled.
+> 
+> 5. Does the gameplay require a pointing or steering device? Should these be analog, or will a D-pad suffice? What do they actually do in the context of the game?
+> 
+> 6. Does the function of one or more buttons on the controller change within a single gameplay mode? If so, are there visual cues to let the player know this is taking place?
+> 
+> 7. If the player has an avatar (whether a person, creature, or vehicle), how do the movements and other behaviors of the avatar map to the machine's input devices?
+> 
+> 8. Does the game's genre, if it has one, help to determine the user interface? What standards already exist that the player may be expecting the game to follow? Do you intend to break these expectations, and if so, how will you inform the player of that?
+> 
+> 9. Does the game include menus? What is the menu structure? Is it broad and shallow (quick to use, but hard to learn), or narrow and deep (easy to learn, but slow to use)?
+> 
+> 10. Does the game include text on the screen? If so, does it need provisions for localization?
+> 
+> 11. What icons are used in the game? Are they visually distinct from one another and quickly identifiable? Are they culturally universal?
+> 
+> 12. Does the player need to know numeric values (score, speed, health)? Can these be presented through non-numeric means (power bars, dials, brightness regions), or should they be shown as digits? If they are shown as digits, how can they be presented in such a way that they don't harm suspension of disbelief?
+> 
+> 13. Will it be possible for the player to control the game's perspective (camera position)? Will it be necessary for the player to do so in order to play the game? What controls will be available? Will they be available at all times, or from a separate menu or other mechanism?
+> 
+> 14. What is the aesthetic style of the game? How do the interface elements blend in and support that style?
+> 
+> 15. How will audio be used to support the player's interaction with the game? What audio cues will accompany player actions? Will the game include audio advice or dialog?
+> 
+> 16. How does music support the user interface and the game generally? Does it create an emotional tone or set a pace? Can it adapt to changing circumstances?
+
+# Putting It Together 总结
+
+In this chapter, we've covered a lot of diverse ground. By focusing on the functionality of the user interface, we've touched on a lot of other areas of game design.
+
+This is not surprising in itself. The interface is the most important aspect of a computer game—it's the bottleneck between the player and the game world. It's the most important area of the game to get right. If anything goes wrong here, it doesn't matter what goodies you have hidden behind the interface. Your players won't even bother to go that far.
