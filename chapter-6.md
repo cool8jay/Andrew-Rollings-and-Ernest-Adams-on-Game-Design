@@ -686,10 +686,10 @@ A good set of guidelines, adapted from interface theory research performed by th
     前后一致。玩家只需在类似情况下执行一致的操作序列。提示、菜单和游戏画面中使用的术语应一致。颜色、大小写、字体和布局的使用应与游戏中逻辑相连的部分保持一致。
 
 * Enable hardcore players to use shortcuts. To cater for hardcore players, provide abbreviations, special keys, hidden commands, and macros to enable them to play faster. Try not to unduly affect the game balance by making these shortcuts too powerful.
-    让铁杆玩家能够使用快捷键。为满足铁杆玩家的需求，可提供缩写、特殊按键、隐藏命令和宏命令，使他们能更快地进行游戏。尽量不要让这些快捷键过于强大，以免过度影响游戏平衡。
+    让硬核玩家能够使用快捷方式。为满足硬核玩家的需求，可提供缩写、特殊按键、隐藏命令和宏命令，使他们能更快地进行游戏。尽量不要让这些快捷方式过于强大，以免过度影响游戏平衡。
 
 * Give good feedback. For every user action, the game should respond in some way. This one is obvious: When the player interacts with something, he will expect the game to respond—at least with an acknowledgment—immediately.
-    提供良好的反馈。对于用户的每一个操作，游戏都应做出某种回应。这一点是显而易见的：当玩家与某些东西互动时，他会希望游戏立即做出回应--至少是确认。
+    提供良好的反馈。对于用户的每一个操作，游戏都应做出某种回应。这一点是显而易见的：当玩家与某些东西互动时，他会希望游戏立即做出回应——至少是确认。
 
 * Design the interface to offer defined tasks. The sequences of actions the player is performing should be arranged into a conceptual group of smaller subtasks, each with a defined beginning, middle, and end. Each task completion should be punctuated with an acknowledgment, so the player knows that his task has been completed.
     设计界面以提供明确的任务。玩家正在执行的一系列操作应该被安排成一组概念性的较小的子任务，每个子任务都有明确的开始、中间和结束。每项任务完成时都应有提示，让玩家知道他的任务已经完成。
@@ -700,47 +700,67 @@ A good set of guidelines, adapted from interface theory research performed by th
 * Permit easy reversal of actions. If a player makes a silly mistake, allow the player to reverse the action, unless it would affect the game balance adversely.
     允许玩家轻松撤销操作。如果玩家犯了一个愚蠢的错误，除非会对游戏平衡产生不利影响，否则应允许玩家逆转操作。
 
-* Remember that the player is the one in control. Players want to feel in charge of the game—at least in regard to control of their avatar. Don't throw random uncontrollable events, or tedious or difficult input sequences (such as pointless jumping puzzles).记住，玩家才是控制者。玩家希望有掌控游戏的感觉--至少是在控制自己的虚拟形象方面。不要随意丢弃无法控制的事件，或乏味或困难的输入序列（如无意义的跳跃谜题）。
+* Remember that the player is the one in control. Players want to feel in charge of the game—at least in regard to control of their avatar. Don't throw random uncontrollable events, or tedious or difficult input sequences (such as pointless jumping puzzles).
+    记住，玩家才是控制者。玩家希望有掌控游戏的感觉——至少是在控制自己的化身方面。不要随意产生无法控制的事件，或乏味或困难的输入序列（如无意义的跳跃谜题）。
 
-* Don't strain the player's short-term memory. Short-term memory is a finite resource. The player should not be overwhelmed by the information the game is provided. Provide ways to hierarchically (or otherwise if appropriate) compartmentalize information.不要给玩家的短期记忆造成压力。短期记忆是有限的资源。玩家不应被游戏提供的信息淹没。提供分层（或其他适当的方式）分割信息的方法。
+* Don't strain the player's short-term memory. Short-term memory is a finite resource. The player should not be overwhelmed by the information the game is provided. Provide ways to hierarchically (or otherwise if appropriate) compartmentalize information.
+    不要给玩家的短期记忆造成压力。短期记忆是有限的资源。玩家不应被游戏提供的信息淹没。提供分层（或其他适当的方式）分割信息的方法。
 
 Another more advanced method of managing complexity is to have a fluid menu structure. By employing context sensitivity, we can show the player only options that are relevant to his current situation. For example, consider a hypothetical graphic adventure. Let's assume that our character is in the bathroom. There are only certain actions available to a player in the bathroom (and we won't dwell on those here), but there are many actions that are impossible. It would make no sense at all to give our player the menu option to, for example, cook something, so useless options such as these (which would normally elicit a response of "You can't do that here") can be culled from the available options. The Sims uses this particular approach to manage complexity. The caveat to using this form of context sensitivity is that it can make the gameplay more transparent if it is done badly. If the only options left available on the menu are the only actions that can be performed, it makes the adventure easier by automatically eliminating dead ends in the investigative process of playing the game. Thinking up solutions to the presented problems is part of the challenge to an adventure game, and presenting only the available actions to a player will reduce the level of challenge. This can be a good thing, reducing frustrating elements of play, as long as the challenge is not reduced to the level where only the correct solution is available as an option.
 
-另一种更先进的复杂性管理方法是采用流动菜单结构。通过使用上下文敏感性，我们可以只向玩家显示与其当前情况相关的选项。例如，考虑一个假设的图形冒险游戏。假设我们的角色在浴室里。在浴室中，玩家只能进行某些特定的操作（在此不再赘述），但也有很多操作是不可能的。如果让玩家在菜单上选择烹饪等操作，那是完全没有意义的，因此可以从可用选项中删去像这样的无用选项（通常会引起 “你不能在这里做这个 ”的反应）。模拟人生》使用这种特殊的方法来管理复杂性。使用这种形式的上下文敏感性需要注意的是，如果做得不好，可能会让游戏变得更加透明。如果菜单上只剩下可用的选项，也就是只能执行的操作，那么在游戏的调查过程中就会自动消除死胡同，从而使冒险变得更容易。思考问题的解决方案是冒险游戏的挑战之一，而只向玩家提供可用的操作则会降低游戏的挑战程度。这可能是件好事，可以减少游戏中令人沮丧的因素，但前提是不能把挑战降低到只有正确的解决方案可供选择的程度。
+另一种更先进的复杂性管理方法是采用流动菜单结构。通过使用上下文自感知，我们可以只向玩家显示与其当前情况相关的选项。例如，考虑一个假设的图形冒险游戏。假设我们的角色在浴室里。在浴室中，玩家只能进行某些特定的操作（在此不再赘述），但也有很多操作是不可能的。如果让玩家在菜单上选择烹饪等操作，那是完全没有意义的，因此可以从可用选项中删去像这样的无用选项（通常会引起“你不能在这里做这个”的反应）。《模拟人生》使用这种特殊的方法来管理复杂性。使用这种形式的上下文自感知需要注意的是，如果做得不好，可能会让游戏变得更加透明。如果菜单上只剩下可用的选项，也就是只能执行的操作，那么在游戏的调查过程中就会自动消除死胡同，从而使冒险变得更容易。思考问题的解决方案是冒险游戏的挑战之一，而只向玩家提供可用的操作则会降低游戏的挑战难度。这可能是件好事，可以减少游戏中令人沮丧的因素，但前提是不能把挑战降低到只剩下正确答案的地步。
 
 A valuable addition to the previous scheme is to allow the user to configure the interface to some degree. Diablo and Diablo II handled this admirably, by allowing the player to assign her favorite spells to hotkeys so that they could be accessed quickly in the heat of battle.
 
-允许用户对界面进行一定程度的配置，是对前一种方案的宝贵补充。暗黑破坏神》和《暗黑破坏神 II》就很好地做到了这一点，它们允许玩家将自己喜欢的法术分配到热键上，以便在激烈的战斗中快速使用。
+允许用户对界面进行一定程度的配置，是对前一种方案的宝贵补充。《暗黑破坏神》和《暗黑破坏神 II》就很好地做到了这一点，它们允许玩家将自己喜欢的法术分配到热键上，以便在激烈的战斗中快速使用。
 
 A related method, often used in graphic adventures, role-playing games, and other mouse-controlled games, is the context-sensitive pointer. The pointer will change its form when it is pointing to an object of interest. In the case of an RTS, it may change into a pickax when a peasant is selected and the pointer is over a collectable resource; or, if a warrior is selected, it may turn into a red crosshair when over an enemy, a yellow crosshair when over a neutral character, and a green crosshair when over a friend.
 
-图形冒险游戏、角色扮演游戏和其他鼠标控制游戏中经常使用的一种相关方法是上下文敏感指针。当指针指向感兴趣的对象时，指针会改变形态。在 RTS 中，如果选择的是农民，指针指向可收集的资源时，指针可能会变成镐；或者，如果选择的是战士，指针指向敌人时，可能会变成红色十字线；指向中立角色时，可能会变成黄色十字线；指向朋友时，可能会变成绿色十字线。
+图形冒险游戏、角色扮演游戏和其他鼠标控制游戏中经常使用的一种相关方法是上下文感知指针。当指针指向感兴趣的对象时，指针会改变形态。在 RTS 中，如果选择的是农民，指针指向可收集的资源时，指针可能会变成镐；或者，如果选择的是战士，指针指向敌人时，可能会变成红色十字线；指向中立角色时，可能会变成黄色十字线；指向朋友时，可能会变成绿色十字线。
 
 Another approach is to implement a beginner's mode and an expert mode. The beginner's mode only presents a simplified set of options that encompass the core set of necessary actions available to a player. The expert mode provides the same options, but divides them into a finer grain. For example, an RTS in beginner's mode may provide the option to attack, but in expert mode, it may allow the player to tailor the attack by providing reckless, cautious, or normal attacks, with the difference being the amount of punishment the unit will take before retreating.
 
+另一种方法是实现新手模式和专家模式。新手模式只提供一套简化的选项，其中包括玩家可以使用的必要操作的核心内容。专家模式提供相同的选项，但将它们划分得更细。例如，新手模式下的 RTS 可能会提供攻击选项，但在专家模式下，玩家可以通过提供鲁莽攻击、谨慎攻击或普通攻击来定制攻击，区别在于单位在撤退前会受到多少惩罚。
+
 More recently, the concept of the "invisible interface" has been touted around the industry. Of course, the invisible interface is one of many holy grails that the industry strives for. The most literal example of the invisible interface can be found in Lionhead's Black and White, shown in Figure 6.26.
 
-Figure 6.26. Black and White.
+最近，“隐形界面”的概念在业界广为流传。当然，“隐形界面”是该行业孜孜以求的众多“圣杯”之一。图 6.26 所示的 Lionhead 公司的《黑与白》就是隐形界面最直观的例子。
+
+Figure 6.26. Black and White. 图 6.26. 《黑与白》
 
 ![](.gitbook/assets/6.26.gif)
 
 In this game, the player's avatar is a disembodied hand that responds directly to the movements of the mouse. There is virtually no other status information displayed on the screen. There are no icons or buttons for the player to click on; every action that can be performed in the game is done by moving the mouse. For example, in Figure 6.26, the mouse has been moved in a star configuration. The game recognizes that as the pattern required to cast a spell; hence, the glowing star in the image. Similarly, if you want to punish your creature, you move your hand up and down in a vigorous fashion when it is over your creature. This results in the creature being slapped. Moving your hand more slowly results in you tickling and caressing your creature, rewarding it. To move your hand around the landscape, you move the hand ahead of you, grab the landscape, and "pull" the view forward.
 
+在这款游戏中，玩家的化身是一只没有实体的手，它直接响应鼠标的移动。屏幕上几乎不显示任何其他状态信息。游戏中没有供玩家点击的图标或按钮；游戏中的每一个操作都是通过移动鼠标来完成的。例如，在图 6.26 中，鼠标是按星形移动的。游戏会将其识别为施法所需的图案，因此图中的星星会发光。同样，如果你想惩罚你的生物，当你的手放在你的生物上方时，你可以用力上下移动你的手。这样生物就会被扇耳光。如果手的移动速度较慢，则会给生物带来挠痒和爱抚，从而给予奖励。要在景观中移动你的手，你需要将手放在前面，抓住景观，然后“拉动”视图向前移动。
+
 Because there is no other interface to speak of other than the hand, this approach has been dubbed the invisible interface. From the overstuffed icon-fest of Dungeon Keeper, we have now reached the opposite extreme—no icons at all. We are not sure which approach is best—Black and White sure is difficult to play with a trackball—but the aim of the closely mapped mouse-to-hand movements is to attempt to immerse the player in the game with only the thinnest layer of interface separating him from it.
+
+由于除了手之外没有其他界面可言，这种方法被称为“隐形界面”。从《地牢守护者》的图标狂欢到现在的相反极端——完全没有图标。我们不确定哪种方法最好——用轨迹球玩《黑与白》确实很困难，但鼠标与手的动作紧密映射的目的是试图让玩家沉浸在游戏中，只有一层最薄的界面将玩家与游戏隔开。
 
 Another approach that implements the invisible interface is that taken by Hasbro's Frogger 2. Here, the game configuration menu is controlled by actually guiding the frog from island to island in a small "main menu" level. To configure the sound, you jump onto an old style gramophone; to start the game, you jump through a doorway (or something similar); and to play the old-style Frogger, you jump onto a Frogger arcade machine. This is a great approach to the invisible interface problem—it actually makes configuring and starting the game part of the fun.
 
+另一种实现隐形界面的方法是孩之宝公司的《青蛙总动员 2》（Frogger 2）。在这里，游戏配置菜单是通过在一个小的“主菜单”关卡中引导青蛙从一个岛到另一个岛来控制的。要调整声音，你要跳到一台老式留声机上；要开始游戏，你要跳过一道门（或类似的东西）；要玩老式青蛙，你要跳到一台青蛙街机上。这种方法很好地解决了隐形界面的问题——它实际上使配置和启动游戏成为乐趣的一部分。
+
 However, in our opinion, an interface does not need to be nonexistent to be invisible. Our definition of an invisible interface would be one that fits the game so well that the player forgets that it is there. Starcraft is such a game. The interface is so well designed that the player performs her actions subconsciously. The interface efficiently transfers the player's desires into actions within the game world. With practice and experience, the use of the interface becomes second nature. This example of an invisible interface lacks the gimmicky (although effective) approach of the first two examples.
+
+不过，我们认为，界面不一定要不存在才是隐形的。我们对“隐形界面”的定义是，它能与游戏完美契合，让玩家忘记它的存在。《星际争霸》就是这样一款游戏。游戏界面设计得如此完美，以至于玩家会下意识地进行操作。界面有效地将玩家的愿望转化为游戏世界中的行动。随着练习和经验的积累，界面的使用就会成为第二天性。这个隐形界面的例子缺乏前两个例子中的噱头（尽管很有效）。
 
 When designing your interface, if you want to achieve the invisible effect, you have at least these options open to you (and any others you may be able to think of). However, we prefer the third approach, and our design leanings are toward making an interface invisible by hiding it in plain sight—making it so intuitive that the player forgets it is there. This is the minimalist approach. Display what is needed to make the game fun and easy to control. No less and no more.
 
+在设计界面时，如果你想达到隐形效果，至少可以有这几种选择（以及你能想到的其他选择）。不过，我们更倾向于第三种方法，我们的设计倾向于通过将界面隐藏在众目睽睽之下来实现隐形效果，使其直观到让玩家忘记它的存在。这就是极简主义方法。只要能让游戏有趣且易于控制就可以了。不能少，也不能多。
+
 A major factor that will influence the effectiveness of your interface is the information density. For example, consider Figure 6.27. In each of these two examples, the first example on the top and the second on the bottom, the same information is presented in two different forms. One of the forms is quicker to comprehend than the other, and hence is more suitable for an interface. The top example compares an icon with the equivalent text. Obviously, the smiley face icon will be recognized by the brain more quickly than the equivalent text. The second example shows three numbers. Clearly, the second format shows the relationship between the numbers at a glance far better than the first format.
 
-Figure 6.27. Optimal presentation of information.
+影响界面效果的一个主要因素是信息密度。例如，请看图 6.27。在这两个示例（第一个示例在上，第二个示例在下）中，相同的信息以两种不同的形式呈现。其中一种形式比另一种形式更容易理解，因此更适合用于界面。上例比较了图标和相应的文字。很明显，笑脸图标比相应的文字更快被大脑识别。第二个例子显示了三个数字。很明显，第二种格式比第一种格式更能一目了然地显示数字之间的关系。
+
+Figure 6.27. Optimal presentation of information. 图 6.27. 信息的最佳呈现方式。
 
 ![](.gitbook/assets/6.27.gif)
 
 One last important consideration—specifically for the PC—is to make sure that whatever interface you provide has keyboard shortcuts where possible. As players become more advanced in their game skills, they will often prefer to access a game function directly rather than through a hierarchy of menus or options. This is one major advantage that PCs have over consoles, and it makes our task as a game designer that little bit simpler. It's important to take every advantage given to you in order to make your game shine above others. The ability to offer an alternate "fast-track" interface for experienced players is one of those small touches that makes a difference.
+
+最后一个重要的考虑因素——特别是在 PC 上——是确保无论你提供什么界面，都尽可能有键盘快捷方式。随着玩家的游戏技能越来越高，他们往往更喜欢直接访问游戏功能，而不是通过层层菜单或选项。这是 PC 相对于游戏机的一大优势，它让我们作为游戏设计师的任务变得更加简单。要想让自己的游戏在其他游戏中脱颖而出，利用好每一个优势是非常重要的。为有经验的玩家提供另一种“快速通道”界面的能力，就是其中一个与众不同的小细节。
 
 ## The Visual Element 视觉元素
 
