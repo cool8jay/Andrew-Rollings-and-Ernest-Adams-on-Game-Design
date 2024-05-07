@@ -752,7 +752,7 @@ When designing your interface, if you want to achieve the invisible effect, you 
 
 A major factor that will influence the effectiveness of your interface is the information density. For example, consider Figure 6.27. In each of these two examples, the first example on the top and the second on the bottom, the same information is presented in two different forms. One of the forms is quicker to comprehend than the other, and hence is more suitable for an interface. The top example compares an icon with the equivalent text. Obviously, the smiley face icon will be recognized by the brain more quickly than the equivalent text. The second example shows three numbers. Clearly, the second format shows the relationship between the numbers at a glance far better than the first format.
 
-影响界面效果的一个主要因素是信息密度。例如，请看图 6.27。在这两个示例（第一个示例在上，第二个示例在下）中，相同的信息以两种不同的形式呈现。其中一种形式比另一种形式更容易理解，因此更适合用于界面。上例比较了图标和相应的文字。很明显，笑脸图标比相应的文字更快被大脑识别。第二个例子显示了三个数字。很明显，第二种格式比第一种格式更能一目了然地显示数字之间的关系。
+影响界面效果的一个主要因素是信息密度。例如，请看图 6.27。在这两个示例（第一个示例在上，第二个示例在下）中，相同的信息以两种不同的形式呈现。其中一种形式比另一种形式更容易理解，因此更适合用于界面。上面的例子比较了图标和相应的文字。很明显，笑脸图标比相应的文字更快被大脑识别。第二个例子显示了三个数字。很明显，第二种格式比第一种格式更能一目了然地显示数字之间的关系。
 
 Figure 6.27. Optimal presentation of information. 图 6.27. 信息的最佳呈现方式。
 
@@ -766,7 +766,11 @@ One last important consideration—specifically for the PC—is to make sure tha
 
 This chapter has focused on user interface, mainly from the functional and navigational point of view. However, we also have to consider the aesthetics. This will not be covered in as much detail as the navigational aspects, mainly because the topic is so large that to attempt to cover it all would be ineffectual.
 
+本章主要从功能和导航的角度来讨论用户界面。不过，我们还必须考虑美学问题。本章将不像导航方面那样详细论述用户界面，这主要是因为用户界面是一个非常庞大的主题，试图将其全部涵盖将是无效的。
+
 Nowadays, the freedoms afforded by today's hardware—with millions of colors and high-resolution screens—allow the designer to let his imagination go with the visual appearance of a game. As with all freedoms, care must be taken to use it responsibly; the industry is littered with unsuccessful games that failed because of an inaccessibly beautiful interface. Consequently, we will discuss some of what we feel are the key issues surrounding the appearance of a game and its interface.
+
+如今，拥有数百万种颜色和高分辨率屏幕的硬件让设计者可以自由发挥想象力，设计游戏的视觉外观。与所有的自由一样，我们必须小心谨慎地使用这些自由；业界有许多不成功的游戏就是因为界面过于美观而失败的。因此，我们将讨论一些我们认为与游戏外观和界面有关的关键问题。
 
 ### The 3D Versus 2D Argument 3D与2D的争论
 
