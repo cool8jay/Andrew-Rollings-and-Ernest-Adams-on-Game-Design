@@ -307,7 +307,7 @@ This increase in complexity is not just limited to the software. As the presenta
 
 Figure 6.18. Past to present: The Atari 2600 joystick versus the GameCube controller (not to scale). 图 6.18. 从过去到现在：雅达利 2600 操纵杆与 GameCube 控制器的对比（未按比例）。
 
-![](.gitbook/assets/6.18.jpg)
+![](.gitbook/assets/6.18.png)
 
 The left-hand picture shows an Atari 2600 joystick. This joystick (circa 1977) was the pinnacle of home entertainment controllers in its day. What you see is what you get: one eight-directional digital stick and a single fire button. Compare it to the Nintendo GameCube controller on the right. This is arguably the most advanced (and well-designed) game controller to date. Take a look at what you get: three directional sticks (two analog and one eight-directional digital) and eight fire buttons. Clearly the sort of games that you can play with the GameCube controller will allow for a much finer degree of finesse in control than possible with the old Atari joystick. Of course, as with all evolution, there were dead-end branches—anyone actually use the Nintendo Power Glove or the Cheetah R.A.T.?
 
@@ -387,7 +387,7 @@ During our research for this chapter, we examined more than 2,000 screen capture
 
 Figure 6.19. Layouts. 图 6.19. 布局。
 
-![](.gitbook/assets/6.19.gif)
+![](.gitbook/assets/6.19.png)
 
 Note that we are certainly not claiming that these are the only layouts that have ever been used—if you find any other layouts in common use (not including those that are restricted because of technical considerations), feel free to email the authors, and we'll add them to the list.
 
@@ -467,7 +467,7 @@ Even though most games can be played using the standard controllers, some games 
 
 Figure 6.20. Specialized controllers. 图 6.20. 专用控制器。
 
-![](.gitbook/assets/6.20.gif)
+![](.gitbook/assets/6.20.png)
 
 Steel Battalions by Capcom costs about $200 for the game, with a huge custom dual-stick controller with more than thirty buttons and foot pedals. It is considered to be an amazing gaming experience, but the player must be at least a passing mechwarrior freak in order to appreciate it.
 
@@ -535,7 +535,7 @@ One small part of the "lives" concept that has managed to survive is the "power 
 
 Figure 6.21. An example power bar. 图 6.21. 能量条示例。
 
-![](.gitbook/assets/6.21.gif)
+![](.gitbook/assets/6.21.png)
 
 Some games—particularly accurate flight or race car simulations or games that are aiming for a particular "analog" theme—use dials (see Figure 6.22). These are a variation on the power bar and are often modeled after the real thing, particularly in the case of accurate simulations.
 
@@ -543,7 +543,7 @@ Some games—particularly accurate flight or race car simulations or games that 
 
 Figure 6.22. Dials (Microsoft Flight Simulator 2002). 图 6.22. 表盘（微软《飞行模拟器 2002》）。
 
-![](.gitbook/assets/6.22.gif)
+![](.gitbook/assets/6.22.png)
 
 As we've said, we're not going to go through an exhaustive list of the possible user interface elements. You can see that they are fairly self-evident, and that consequently describing all the possible elements would be next to impossible. Fortunately, it's also not necessary. Most of the possibilities are combinations of the few basic elements mentioned in this chapter, and the remainder are clearly visible in context elsewhere—for example, in other games, or in the standard Windows interface. The only required skill is in deciding how to use them, which is mainly a matter of common sense. When designing the interface, work out which information the player needs at hand quickly and which can be put out of immediate reach.
 
@@ -595,13 +595,13 @@ When selecting a font for your game, try to pick one font and stick with it. If 
 ransom note，勒索信，绑匪写给受害人家属的信件。通常由从杂志或报纸上随机剪下的单词或字母拼凑而成，避免被识别出笔迹。
 {% endhint %}
 
-The development of the icon was precisely due to the problems with the efficiency of text as a communication medium. A clear, descriptive graphical image is easier to comprehend than text, but (and there is always a but) an icon can only be understood if there is a common cultural ground between the designer and the player. Let us provide an example. Consider Figure 6.23: The icon in this image will be immediately recognizable to an American, or to anybody who has spent some time in America, but it will probably not be familiar to anyone else. It's the symbol for a pharmacy, but you have to be familiar with American culture to know that. Nothing in the picture gives any clue as to its meaning. For that reason, it's a bad choice as an icon, unless your product is restricted to within the continent of North America. A better choice of icon would be a red cross on a white background, known widely as the symbol of the International Red Cross organization (or it would be good to use if it wasn't trade marked; id Software's Doom fell foul to this particular snafu).
+The development of the icon was precisely due to the problems with the efficiency of text as a communication medium. A clear, descriptive graphical image is easier to comprehend than text, but (and there is always a but) an icon can only be understood if there is a common cultural ground between the designer and the player. Let us provide an example. Consider Figure 6.23: The icon in this image will be immediately recognizable to an American, or to anybody who has spent some time in America, but it will probably not be familiar to anyone else. It's the symbol for a  , but you have to be familiar with American culture to know that. Nothing in the picture gives any clue as to its meaning. For that reason, it's a bad choice as an icon, unless your product is restricted to within the continent of North America. A better choice of icon would be a red cross on a white background, known widely as the symbol of the International Red Cross organization (or it would be good to use if it wasn't trade marked; id Software's Doom fell foul to this particular snafu).
 
 图标的开发正是由于文字作为交流媒介的效率问题。一个清晰、描述性强的图形图像比文字更容易理解，但是（总是有一个 “但是”），图标只有在设计者和玩家之间有共同的文化基础时才能被理解。让我们举一个例子。请看图 6.23：对于美国人或在美国呆过一段时间的人来说，这幅图中的图标一眼就能认出来，但对于其他人来说，这可能并不熟悉。这是药房的标志，但你必须熟悉美国文化才能知道。图片中没有任何线索表明它的含义。因此，除非你的产品仅限于在北美大陆销售，否则它不是一个好的图标选择。更好的图标应该是白底红十字，它是众所周知的国际红十字会组织的标志（如果没有被商标注册，也是不错的选择；id Software 的《毁灭战士》就犯了这个特别的错误）。
 
 Figure 6.23. Pharmacy icon. 图 6.23. 药房图标。
 
-![](.gitbook/assets/6.23.gif)
+![](.gitbook/assets/6.23.jpg)
 
 Another example is to use a picture of a duck (the fowl) to indicate that your avatar will duck (the action). That relies on a visual pun that only works if you have a good understanding of English. Again, it automatically cuts you off from foreign markets and creates unnecessary localization issues. That does not mean that you are restricted to strictly representative icons. There is nothing to say that an icon has to specifically represent its intended action. The aim of an icon is to give a visual clue that can be easily understood in the context of the situation. You don't need to stress out trying to make sure that your icon cannot be mistaken for anything else under some strange circumstance. Your players will be a little more forgiving than that. The only real concerns are that your icons cannot be mistaken for another in the same interface, and that there is at least some conceptual link between the icon and the action that it represents.
 
@@ -656,7 +656,7 @@ The user interface of Dungeon Keeper (shown in Figure 6.25) contains a status pa
 
 Figure 6.25. Dungeon Keeper. 图 6.25. 《地下城守护者》。
 
-![](.gitbook/assets/6.25.jpg)
+![](.gitbook/assets/6.25.png)
 
 What could he have done to mitigate the poor design and boost those sales? There are a number of approaches he could have taken, and we will detail some of these here (but bear in mind that hindsight is always 20/20).
 
@@ -728,7 +728,7 @@ More recently, the concept of the "invisible interface" has been touted around t
 
 Figure 6.26. Black and White. 图 6.26. 《黑与白》
 
-![](.gitbook/assets/6.26.gif)
+![](.gitbook/assets/6.26.jpg)
 
 In this game, the player's avatar is a disembodied hand that responds directly to the movements of the mouse. There is virtually no other status information displayed on the screen. There are no icons or buttons for the player to click on; every action that can be performed in the game is done by moving the mouse. For example, in Figure 6.26, the mouse has been moved in a star configuration. The game recognizes that as the pattern required to cast a spell; hence, the glowing star in the image. Similarly, if you want to punish your creature, you move your hand up and down in a vigorous fashion when it is over your creature. This results in the creature being slapped. Moving your hand more slowly results in you tickling and caressing your creature, rewarding it. To move your hand around the landscape, you move the hand ahead of you, grab the landscape, and "pull" the view forward.
 
@@ -766,35 +766,51 @@ One last important consideration—specifically for the PC—is to make sure tha
 
 This chapter has focused on user interface, mainly from the functional and navigational point of view. However, we also have to consider the aesthetics. This will not be covered in as much detail as the navigational aspects, mainly because the topic is so large that to attempt to cover it all would be ineffectual.
 
-本章主要从功能和导航的角度来讨论用户界面。不过，我们还必须考虑美学问题。本章将不像导航方面那样详细论述用户界面，这主要是因为用户界面是一个非常庞大的主题，试图将其全部涵盖将是无效的。
+本章主要从功能和导航的角度来讨论用户界面。然而，我们还必须考虑美学问题。这一点不会像导航方面那样详细地讨论，主要是因为这个话题非常庞大，试图将其全部涵盖将是无效的。
 
 Nowadays, the freedoms afforded by today's hardware—with millions of colors and high-resolution screens—allow the designer to let his imagination go with the visual appearance of a game. As with all freedoms, care must be taken to use it responsibly; the industry is littered with unsuccessful games that failed because of an inaccessibly beautiful interface. Consequently, we will discuss some of what we feel are the key issues surrounding the appearance of a game and its interface.
 
-如今，拥有数百万种颜色和高分辨率屏幕的硬件让设计者可以自由发挥想象力，设计游戏的视觉外观。与所有的自由一样，我们必须小心谨慎地使用这些自由；业界有许多不成功的游戏就是因为界面过于美观而失败的。因此，我们将讨论一些我们认为与游戏外观和界面有关的关键问题。
+如今，拥有数百万种颜色和高分辨率屏幕的硬件让设计者可以自由发挥想象力，设计游戏的视觉外观。与所有的自由一样，我们必须小心谨慎地使用这些自由；业界有许多不成功的游戏就是因为界面过于美观而不可行而失败的。因此，我们将讨论一些我们认为与游戏外观和界面有关的关键问题。
 
 ### The 3D Versus 2D Argument 3D与2D的争论
 
 The 3D versus 2D argument is a contentious subject, and not everyone is likely to agree with our opinions. (That's why they are opinions—if everyone agreed with them, then life would become very boring.)
 
+3D 与 2D 的争论是一个有争议的话题，并不是每个人都会同意我们的观点。(这就是为什么它们是观点——如果每个人都同意它们，那么生活就会变得非常无趣）。
+
 The industry has been moving toward more and more 3D games. Since the rise of 3D accelerator cards and consoles such as the PlayStation, Nintendo 64, and Dreamcast, there has been an inexorable increase in the use of 3D in every possible title. Even Monopoly Tycoon, a conversion of a board game, uses advanced 3D graphics. What's with this? Everybody is so caught up in the fact that they can that they haven't stopped to think whether they should.
+
+游戏行业一直在朝着越来越多的 3D 游戏发展。自从 3D 加速卡以及 PlayStation、Nintendo 64 和 Dreamcast 等游戏机兴起以来，3D 技术在各种可能的游戏中的应用都在不断增加。就连《大富翁》这款由棋盘游戏改编而来的游戏也使用了先进的 3D 图形。这是怎么回事呢？每个人都如此沉迷于他们能够做到这一点，以至于他们没有停下来思考他们是否应该这样做。
 
 We're not complete Luddites. We happen to play and enjoy a lot of 3D games, but we find ourselves wondering about some of the titles that appear to be released in 3D solely because 3D exists. Simply put, some games work better in 2D, and this is proved by the fact that these games usually have a default view that looks just like the old 2D view, except with the use of polygons. Polygons are pretty, to be sure, but we are not yet at the stage where polygons look prettier than well-drawn sprites. Compare a game such as Sudden Strike (shown earlier in Figure 6.11) to a polygon-based RTS game such as Starship Troopers: Terran Ascendancy (shown in Figure 6.28).
 
-Figure 6.28. Starship Troopers: Terran Ascendancy.
+我们不是完全的卢德分子（反对技术革新的人）。我们碰巧玩过并喜欢很多 3D 游戏，但我们发现自己对一些仅仅因为 3D 的存在而推出 3D 版本的游戏感到疑惑。简而言之，有些游戏在 2D 下效果更好，这一点可以从这些游戏的默认视图中得到证明，默认视图看起来就像以前的 2D 视图，只不过使用了多边形。多边形确实很漂亮，但我们还没有达到多边形比精心绘制的精灵更漂亮的地步。将《突袭》（如图 6.11 所示）与基于多边形的 RTS 游戏（如《星河战队：人族上升》（如图 6.28 所示）进行对比。
 
-![](.gitbook/assets/6.28.gif)
+Figure 6.28. Starship Troopers: Terran Ascendancy. 图 6.28. 《星河战队：人族上升》
+
+![](.gitbook/assets/6.28.png)
 
 Both games are similar in style, but the latter game, Starship Troopers, uses a polygon-based engine. It can be seen from the figure that the graphics are inferior to Sudden Strike: less detailed and more sparse. Of course, what you lose in detail you gain in flexibility—the player can rotate the camera view to get a different take on the action. The question is, "Why?" Does this improve the gameplay? The answer is probably not. The camera will just overcomplicate the interface, and most players will end up just playing it from the default overhead view anyway (in which case, sprites would look better).
 
+两款游戏风格相似，但后者《星河战队》使用的是基于多边形的引擎。从图中可以看出，《星河战队》的画面不如《突袭》：更少细节，更稀疏。当然，细节上的损失换来的是灵活性——玩家可以旋转摄像头视角，以获得不同的动作视角。问题是，“为什么？”这样能提高游戏性吗？答案可能是否定的。摄像头只会让界面变得过于复杂，而且大多数玩家最终都会使用默认的俯视视角来进行游戏（在这种情况下，精灵看起来会更好）。
+
 Of course, if gameplay and clarity of interface were the only issues, most games would be in 2D. Obviously other factors, such as immersion and commercial expectations, influence the decision far more. Sometimes, however, the decision seems to be influenced by the commercial "because we can" instead of the practical "because we should."
 
+当然，如果游戏性和界面清晰度是唯一的问题，那么大多数游戏都会是 2D 的。显然，其他因素，如沉浸感和商业期望，对决定的影响要大得多。但有时，决定似乎受到了“因为我们可以”的商业影响，而不是“因为我们应该”的实际影响。
+
 What we are trying to say is don't use 3D for 3D's sake alone. Try to find some bona-fide justification for requiring that your title be 3D. (And, in case you are wondering, "because it sells better" is a valid response. It doesn't mean we have to like it, though.)
+
+我们想说的是，不要仅仅为了 3D 而 3D。试着找到一些真正的理由来要求你的作品是 3D 的。(而且，如果你想知道，“因为它卖得更好 ”也是一个有效的回答。但这并不意味着我们必须喜欢它）。
 
 ## The Audio Element 听觉元素
 
 We have already spoken a little about sound in our discussion of player feedback. However, this is not the only place where it should be used, or the playing experience ends up being very flat indeed.
 
+在讨论玩家反馈时，我们已经谈到了一些关于声音的问题。然而，这并不是唯一应该使用声音的地方，否则游戏体验就会变得非常平淡。
+
 This section covers some of the other areas and issues associated with sound design in games. We'll split our discussion into two distinct areas. The first will discuss sound effects, and the second will discuss music.
+
+本节将讨论与游戏声音设计相关的其他一些领域和问题。我们将分成两个不同的领域进行讨论。第一部分讨论音效，第二部分讨论音乐。
 
 ### Sound Effects 音效
 
