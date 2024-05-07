@@ -147,7 +147,7 @@ Eventually, simple graphics appeared to help enliven the textual description. Th
 
 Apart from general improvements to the parser, which is indirectly related to the quality of the game interface, this was the pinnacle of the adventure game interface. Today, text adventure games are not commercially viable, but they do live on in the form of MUDs (multiuser dungeons) and MUSHs (multiuser shared hallucinations). For those wanting to investigate MUDs and MUSHs further, a good place to begin is [www.mudcenter.com](www.mudcenter.com).
 
-除了对解析器的一般改进（这间接关系到游戏界面的质量）外，这是冒险游戏界面的巅峰之作。如今，文字冒险游戏在商业上已经行不通了，但它们仍以 MUD（多用户地下城）和 MUSH（多用户共享幻觉）的形式存在着。如果您想进一步了解 MUD 和 MUSH，[www.mudcenter.com](www.mudcenter.com) 是一个不错的开始。
+除了对解析器的一般改进（这间接关系到游戏界面的质量）外，这是冒险游戏界面的巅峰之作。如今，文字冒险游戏在商业上已经行不通了，但它们仍以 MUD（多用户地下城）和 MUSH（多用户共享幻觉）的形式存在着。如果你想进一步了解 MUD 和 MUSH，[www.mudcenter.com](www.mudcenter.com) 是一个不错的开始。
 
 ### Graphic Adventures 图形冒险
 
@@ -401,7 +401,7 @@ Originality is an important consideration, but not at the expense of other consi
 
 Although you will want your player to be amazed by the stunning originality of your gameplay, you most certainly do not want him to be amazed by the stunning originality of the control method and user interface. This is one place where the player will be happy to see the "same old, same old." Stick to what the player knows. If the standard method for controlling a first-person shooter works well enough, then use it. Don't foist a new one on the unsuspecting player. The player has a lot to learn when beginning to play a new game, and only a limited amount of time he will be willing to spend on it.
 
-虽然您希望玩家为你游戏的惊人创意而惊叹，但你肯定不希望他为控制方法和用户界面的惊人创意而惊叹。在这里，玩家会乐于看到“一成不变”。坚持玩家所熟悉的。如果第一人称射击游戏的标准控制方法足够好用，那就使用它。不要把新方法强加给毫无戒心的玩家。当玩家开始玩一款新游戏时，他需要学习的东西很多，而他愿意花在这上面的时间有限。
+虽然你希望玩家为你游戏的惊人创意而惊叹，但你肯定不希望他为控制方法和用户界面的惊人创意而惊叹。在这里，玩家会乐于看到“一成不变”。坚持玩家所熟悉的。如果第一人称射击游戏的标准控制方法足够好用，那就使用它。不要把新方法强加给毫无戒心的玩家。当玩家开始玩一款新游戏时，他需要学习的东西很多，而他愿意花在这上面的时间有限。
 
 Our discussion will focus on the PC. Of course, there were games on other machines before then, but little progress was made in the development and design of user interfaces until the advent of Microsoft Windows and Mac OS (derived from the original Xerox research). Upon the rise of graphical operating systems, we started seeing some real progress in game interfaces and the beginning of the informal standardization efforts. Back in the bad old days of DOS, the interfaces for games differed radically from the interface for the more standard type of application, mainly because games had some form of graphics and business applications did not, but also because there was no standard for business application user interfaces. Every application (such as WordPerfect, QuickBasic, and so on) had a different way of interfacing with the user. There were no real standardization efforts and, consequently, no common ground on which to base a core game interface.
 
@@ -493,45 +493,73 @@ User interfaces serve a primary function—interacting with the user—which is 
 
 There are certain standard elements of a user interface that we will discuss. These are divided into two broad classes: in-game elements and the shell interface, with the latter referring to the various menus and screens that allow the player to start, configure, and otherwise manage the game. The shell interface needs to provide functionality to allow the player to configure the video and audio settings and the controls; to provide access to a multiplayer lobby, where appropriate, and saved games; and to allow the player to exit the game. We will not discuss the design of shell interface in any great detail; suffice it to say that it should thematically and stylistically jell with the rest of the game and respond to the player quickly and smoothly. After all, there is no great secret to generic shell design—if you need inspiration, just look at another game, or even a standard Windows application, and base it on that. Make use of the millions of dollars Microsoft spent on user interface research, and don't bother reinventing the wheel.
 
-我们将讨论用户界面的某些标准元素。这些元素分为两大类：游戏内元素和外壳界面，后者指的是允许玩家启动、配置和管理游戏的各种菜单和屏幕。外壳界面需要提供的功能包括：允许玩家配置视频和音频设置以及控制；提供进入多人游戏大厅（如适用）和保存游戏的途径；以及允许玩家退出游戏。我们将不详细讨论外壳界面的设计，只需说明它在主题和风格上应与游戏的其他部分相协调，并能快速、流畅地响应玩家。毕竟，通用外壳设计并没有什么秘诀--如果你需要灵感，只需看看其他游戏，甚至是标准的 Windows 应用程序，并以此为基础进行设计。利用微软在用户界面研究上花费的数百万美元，不要再费心去重新发明轮子了。
+我们将讨论用户界面的某些标准元素。这些元素分为两大类：游戏内元素和外壳界面，后者指的是允许玩家启动、配置和管理游戏的各种菜单和屏幕。外壳界面需要提供的功能包括：允许玩家配置视频和音频设置以及控制；提供进入多人游戏大厅（如适用）和保存游戏的途径；以及允许玩家退出游戏。我们将不详细讨论外壳界面的设计，只需说明它在主题和风格上应与游戏的其他部分相协调，并能快速、流畅地响应玩家。毕竟，通用外壳设计并没有什么秘诀——如果你需要灵感，只需看看其他游戏，甚至是标准的 Windows 应用程序，并以此为基础进行设计。利用微软在用户界面研究上花费的数百万美元，不要再费心去重新发明轮子了。
 
-> "If you want to make an apple pie from scratch, you must first create the universe."
+> "If you want to make an apple pie from scratch, you must first create the universe." 
+> “如果你想从头开始做一个苹果派，你必须先创造宇宙”。
 > 
-> \—Carl Sagan, 1934-1996
+> \- Carl Sagan, 1934-1996
+> \- 卡尔·萨根, 1934-1996
 
 One very important point, however: The player should not be forced to spend too much time in the shell interface. Players should be able to get right into the action (fast-track style) by one or two clicks of a button if they so desire.
 
+不过，有一点非常重要：玩家不应被迫在外壳界面上花费太多时间。只要玩家愿意，只需点击一两下按钮，就能直接进入游戏（快速通道式）。
+
 Now let's discuss the in-game interface. We will be concentrating on the tools and methods used to divulge information to the player while he is actually playing the game. We are going to try to assume nothing and start off by discussing the simplest constructs.
+
+现在让我们来讨论一下游戏界面。我们将集中讨论在玩家实际玩游戏时向其透露信息的工具和方法。我们将尽量不做任何假设，从最简单的结构开始讨论。
 
 The player in a game needs to be aware of his status. The indicators are present to provide the player with the information to be able to set goals, increase the thrill level, and provide rewards when the player does well. That's what they should do. What they should not do is distract the player from the game, clutter the screen, confuse the player with unnecessary or extraneous information, or obfuscate vital information.
 
+游戏中的玩家需要了解自己的状态。指示器的存在是为了向玩家提供信息，以便设定目标、提高刺激程度，并在玩家表现出色时给予奖励。这是它们应该做的。它们不应该分散玩家对游戏的注意力，使屏幕变得杂乱无章，用不必要或无关的信息迷惑玩家，或混淆重要信息。
+
 There are many indicators that are used to inform the player of his status, such as score, ammo count, power level, and level indicator. Some of these indicators are genre-specific, but many are pangenre. We'll cover a few of these here to give an example of the kind of things we are talking about. An exhaustive list isn't necessary, because in the first place, we'd be writing an entire book just on that subject, and in the second place, most of the elements are self-evident. Let's discuss some of them, and you'll see what we mean.
+
+有许多指示器用于告知玩家自己的状态，如分数、弹药数量、能量水平和等级指示器。其中有些指示器是特定类型的，但也有很多是泛类型的。我们将在此介绍其中的几个，以举例说明我们正在谈论的那些东西。我们没有必要列出一个详尽无遗的清单，因为首先，这个主题足以写成一本完整的书；其次，大多数要素都是不言而喻的。让我们讨论其中一些，你就会明白我们的意思。
 
 For example, the classic "score" indicator is virtually ever-present, especially on the console platforms. Although there have been many creative ways of displaying score, the usual approach is to display a numeric indicator. Of course, a score is a measure of success, and what use is a measure of success unless you have something to measure against? Hence, the high-score indicator—and associated high-score table—keep track of past scores and give players a yardstick by which to measure themselves. Sometimes, in order to add flavor, a score is accompanied by a rating. Thus, a low score may elicit a response of "You are pitiful!" while a more impressive score would give a slightly more encouraging response.
 
+例如，经典的“分数”指示器几乎无处不在，尤其是在游戏机平台上。虽然有很多创造性的分数显示方式，但通常的做法是显示一个数字指标。当然，分数是衡量成功与否的标准，如果没有可以衡量的标准，分数又有什么用呢？因此，高分指示器和相关的高分表可以记录过去的分数，为玩家提供衡量自己的标准。有时，为了增加趣味性，分数会附带一个等级。因此，低分可能会引起 “你真可怜！”的反应，而较高的分数则会引起稍微鼓舞人心的反应。
+
 The score indicator is the simplest of the basic indicators. If score is a primary concern in the game, it's usually shown onscreen at all times. (If this is the case, the high score is often shown too, to act as a spur on to greater things.) In some cases, the score isn't really important during the game and is only totted up at the end of the level or the game. How you choose to track the player's progress is up to you or the conventions of the particular genre, but bear in mind that players generally play for a reason; they do want some indication of success (or failure).
+
+分数指示器是最简单的基本指示器。如果分数是游戏的主要关注点，那么它通常会一直显示在屏幕上。(如果是这种情况，高分通常也会显示出来，以激励玩家取得更好的成绩）。在某些情况下，分数在游戏过程中并不重要，只有在关卡或游戏结束时才会统计出来。至于如何跟踪玩家的游戏进度，则取决于你自己或特定类型游戏的惯例，但请记住，玩家玩游戏一般都是有原因的；他们确实希望获得一些成功（或失败）的标志。
 
 Originally (and somewhat out of vogue nowadays), the score indicator was often accompanied by a "lives remaining" indicator. This would show how many chances the player has remaining, by showing either the correct number of miniature icons or a plain numerical display. Again, modern games seem to have eschewed the "number of lives" paradigm in favor of infinite respawns. Indeed, with the current trend of most games to allow saving of the game at almost any point, the concept of lives is pretty much irrelevant.
 
+最初（现在有点过时了），分数指示器通常伴随着“剩余生命”指示器。这将通过显示正确的微型图标数量或简单的数字显示玩家还剩下多少机会。同样，现代游戏似乎已经摒弃了“剩余生命数”的模式，转而支持无限重生。事实上，由于目前大多数游戏都允许在几乎任何时候保存游戏，因此生命的概念几乎已经无关紧要了。
+
 One small part of the "lives" concept that has managed to survive is the "power bar" indicator, shown in Figure 6.21. It usually takes the form of a horizontal bar that is colored in full. As the level decreases, the color drains from the right to the left. In this context, the player has only one life, but a limited amount of power. This power is drained until it is all gone, and then the player dies. The power indicator is still used in many other situations and can be found in many different types of games. In fact, it is often used in any situation where an attribute of the player's avatar has minimum and maximum values, and the value of that attribute can vary between them.
 
-Figure 6.21. An example power bar.
+图 6.21 所示的“能量条”指示器是“生命”概念中幸存下来的一小部分。它通常是一个横条的形式，上面涂满了颜色。随着等级的降低，颜色会从右边向左边减少。在这种情况下，玩家只有一次生命，但能量有限。能量会被消耗，直到耗尽，然后玩家死亡。能量指示器在许多其他情况下仍有使用，在许多不同类型的游戏中都能找到。事实上，当玩家化身的某项属性有最小值和最大值，而该属性的值在这两个值之间变化时，就会经常用到能量指示器。
 
-graphics/06fig21.gif
+Figure 6.21. An example power bar. 图 6.21. 能量条示例。
+
+![](.gitbook/assets/6.21.gif)
 
 Some games—particularly accurate flight or race car simulations or games that are aiming for a particular "analog" theme—use dials (see Figure 6.22). These are a variation on the power bar and are often modeled after the real thing, particularly in the case of accurate simulations.
 
-Figure 6.22. Dials (Microsoft Flight Simulator 2002).
+有些游戏，尤其是精确的飞行或赛车模拟游戏，或者是以“模拟”为主题的游戏，会使用拨盘（见图 6.22）。这些转盘是能量条的一种变体，通常以实物为模型，尤其是在精确模拟的情况下。
 
-graphics/06fig22.gif
+Figure 6.22. Dials (Microsoft Flight Simulator 2002). 图 6.22. 拨盘（微软《飞行模拟器 2002》）。
+
+![](.gitbook/assets/6.22.gif)
 
 As we've said, we're not going to go through an exhaustive list of the possible user interface elements. You can see that they are fairly self-evident, and that consequently describing all the possible elements would be next to impossible. Fortunately, it's also not necessary. Most of the possibilities are combinations of the few basic elements mentioned in this chapter, and the remainder are clearly visible in context elsewhere—for example, in other games, or in the standard Windows interface. The only required skill is in deciding how to use them, which is mainly a matter of common sense. When designing the interface, work out which information the player needs at hand quickly and which can be put out of immediate reach.
 
+正如我们所说，我们不会详尽无遗地列出所有可能的用户界面元素。你可以看到，这些元素是不言而喻的，因此要描述所有可能的元素几乎是不可能的。幸运的是，这也没有必要。大多数可能的元素都是本章提到的几个基本元素的组合，其余的元素在其他地方——例如在其他游戏或标准 Windows 界面中——都可以清楚地看到。唯一需要的技巧就是决定如何使用它们，这主要是一个常识问题。在设计界面时，要想清楚哪些信息是玩家手头急需的，哪些信息是可以放在不那么触手可及的地方。
+
 Another very important consideration is consistency. Consistency makes your interface simpler and more predictable. When a player is trying to figure her way around a new interface, consistency will be a great help. When designing an interface, pay attention to matters of consistency. Make sure that your interface is stylistically consistent throughout. For example, switching between steam-punk brass and hi-tech chrome within the same context breaks the consistency rule.
+
+另一个非常重要的考虑因素是一致性。一致性能让界面更简单、更可预测。当玩家在一个新界面上摸索时，一致性将是一个很大的帮助。在设计界面时，要注意一致性问题。确保您的界面在风格上始终如一。例如，在同一上下文中，在蒸汽朋克的黄铜色和高科技的镀铬色之间切换，就会破坏一致性规则。
 
 Apart from stylistic consistency, it's also important to maintain navigational consistency. That is, the methods of accessing information and navigation between screens should be similar across the interface. If a slider is used to set a variable value, it should be used consistently throughout the interface, unless there is a good reason not to. Difference solely for the sake of difference is never a good idea—especially in the case of interface design.
 
+除了风格上的一致性，保持导航的一致性也很重要。也就是说，在整个界面中，获取信息和在屏幕间导航的方法应该是相似的。如果使用滑块来设置变量值，除非有充分的理由不这样做，否则整个界面都应一致使用滑块。仅仅为了不同而不同绝不是一个好主意，尤其是在界面设计中。
+
 As a small example of specifics, designers should strive for button consistency. The same button (on a controller) should always be used to select a menu item (for example, the green button), and the same button should always be used to exit the menu (for example, the red button). As another example, the use of defaults should always be consistent. Whether you choose to set the last item selected by the player as the default, or always set the first list item as the default, it should be reflected consistently across the interface.
+
+举个具体的小例子，设计人员应努力实现按钮的一致性。选择菜单项时应始终使用（控制器上的）同一个按钮（例如绿色按钮），退出菜单时也应始终使用同一个按钮（例如红色按钮）。再比如，默认值的使用应始终保持一致。无论是选择将播放器选择的最后一个项目设置为默认值，还是始终将第一个列表项目设置为默认值，都应在整个界面中保持一致。
 
 ### Words and Pictures 文字和图片
 
@@ -553,7 +581,7 @@ The development of the icon was precisely due to the problems with the efficienc
 
 Figure 6.23. Pharmacy icon.
 
-graphics/06fig23.gif
+![](.gitbook/assets/6.23.gif)
 
 Another example is to use a picture of a duck (the fowl) to indicate that your avatar will duck (the action). That relies on a visual pun that only works if you have a good understanding of English. Again, it automatically cuts you off from foreign markets and creates unnecessary localization issues. That does not mean that you are restricted to strictly representative icons. There is nothing to say that an icon has to specifically represent its intended action. The aim of an icon is to give a visual clue that can be easily understood in the context of the situation. You don't need to stress out trying to make sure that your icon cannot be mistaken for anything else under some strange circumstance. Your players will be a little more forgiving than that. The only real concerns are that your icons cannot be mistaken for another in the same interface, and that there is at least some conceptual link between the icon and the action that it represents.
 
@@ -561,7 +589,7 @@ There are some pan-cultural images that have been developed over a period of tim
 
 Figure 6.24. Universal icons.
 
-graphics/06fig24.gif
+![](.gitbook/assets/6.24.gif)
 
 Try considering some of these icons in context. For example, if the hammer and wrench icon was displayed on the opening menu of a game, you could assume that it allowed you to access the game configuration screen. On the other hand, if it was displayed on the control panel of an in-game vehicle in a racing game, you could assume that it served as a pit-stop button or some other mechanical function. The important thing is that the context makes the difference. As long as the icon is the only one of that type, the meaning is unambiguous. For example, having a separate hammer and a separate wrench as two icons on the same screen would cause confusion and should be avoided, unless the game specifically calls for those two tools separately, and the player had already been made aware of the distinction.
 
@@ -587,7 +615,7 @@ The user interface of Dungeon Keeper (shown in Figure 6.25) contains a status pa
 
 Figure 6.25. Dungeon Keeper.
 
-graphics/06fig25.jpg
+![](.gitbook/assets/6.25.jpg)
 
 What could he have done to mitigate the poor design and boost those sales? There are a number of approaches he could have taken, and we will detail some of these here (but bear in mind that hindsight is always 20/20).
 
@@ -627,7 +655,7 @@ More recently, the concept of the "invisible interface" has been touted around t
 
 Figure 6.26. Black and White.
 
-graphics/06fig26.gif
+![](.gitbook/assets/6.26.gif)
 
 In this game, the player's avatar is a disembodied hand that responds directly to the movements of the mouse. There is virtually no other status information displayed on the screen. There are no icons or buttons for the player to click on; every action that can be performed in the game is done by moving the mouse. For example, in Figure 6.26, the mouse has been moved in a star configuration. The game recognizes that as the pattern required to cast a spell; hence, the glowing star in the image. Similarly, if you want to punish your creature, you move your hand up and down in a vigorous fashion when it is over your creature. This results in the creature being slapped. Moving your hand more slowly results in you tickling and caressing your creature, rewarding it. To move your hand around the landscape, you move the hand ahead of you, grab the landscape, and "pull" the view forward.
 
@@ -643,7 +671,7 @@ A major factor that will influence the effectiveness of your interface is the in
 
 Figure 6.27. Optimal presentation of information.
 
-graphics/06fig27.gif
+![](.gitbook/assets/6.27.gif)
 
 One last important consideration—specifically for the PC—is to make sure that whatever interface you provide has keyboard shortcuts where possible. As players become more advanced in their game skills, they will often prefer to access a game function directly rather than through a hierarchy of menus or options. This is one major advantage that PCs have over consoles, and it makes our task as a game designer that little bit simpler. It's important to take every advantage given to you in order to make your game shine above others. The ability to offer an alternate "fast-track" interface for experienced players is one of those small touches that makes a difference.
 
@@ -663,7 +691,7 @@ We're not complete Luddites. We happen to play and enjoy a lot of 3D games, but 
 
 Figure 6.28. Starship Troopers: Terran Ascendancy.
 
-graphics/06fig28.gif
+![](.gitbook/assets/6.28.gif)
 
 Both games are similar in style, but the latter game, Starship Troopers, uses a polygon-based engine. It can be seen from the figure that the graphics are inferior to Sudden Strike: less detailed and more sparse. Of course, what you lose in detail you gain in flexibility—the player can rotate the camera view to get a different take on the action. The question is, "Why?" Does this improve the gameplay? The answer is probably not. The camera will just overcomplicate the interface, and most players will end up just playing it from the default overhead view anyway (in which case, sprites would look better).
 
