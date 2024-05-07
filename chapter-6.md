@@ -541,7 +541,7 @@ Some games—particularly accurate flight or race car simulations or games that 
 
 有些游戏，尤其是精确的飞行或赛车模拟游戏，或者是以“模拟”为主题的游戏，会使用拨盘（见图 6.22）。这些转盘是能量条的一种变体，通常以实物为模型，尤其是在精确模拟的情况下。
 
-Figure 6.22. Dials (Microsoft Flight Simulator 2002). 图 6.22. 拨盘（微软《飞行模拟器 2002》）。
+Figure 6.22. Dials (Microsoft Flight Simulator 2002). 图 6.22. 表盘（微软《飞行模拟器 2002》）。
 
 ![](.gitbook/assets/6.22.gif)
 
@@ -551,7 +551,7 @@ As we've said, we're not going to go through an exhaustive list of the possible 
 
 Another very important consideration is consistency. Consistency makes your interface simpler and more predictable. When a player is trying to figure her way around a new interface, consistency will be a great help. When designing an interface, pay attention to matters of consistency. Make sure that your interface is stylistically consistent throughout. For example, switching between steam-punk brass and hi-tech chrome within the same context breaks the consistency rule.
 
-另一个非常重要的考虑因素是一致性。一致性能让界面更简单、更可预测。当玩家在一个新界面上摸索时，一致性将是一个很大的帮助。在设计界面时，要注意一致性问题。确保您的界面在风格上始终如一。例如，在同一上下文中，在蒸汽朋克的黄铜色和高科技的镀铬色之间切换，就会破坏一致性规则。
+另一个非常重要的考虑因素是一致性。一致性能让界面更简单、更可预测。当玩家在一个新界面上摸索时，一致性将是一个很大的帮助。在设计界面时，要注意一致性问题。确保你的界面在风格上始终如一。例如，在同一上下文中，在蒸汽朋克的黄铜色和高科技的镀铬色之间切换，就会破坏一致性规则。
 
 Apart from stylistic consistency, it's also important to maintain navigational consistency. That is, the methods of accessing information and navigation between screens should be similar across the interface. If a slider is used to set a variable value, it should be used consistently throughout the interface, unless there is a good reason not to. Difference solely for the sake of difference is never a good idea—especially in the case of interface design.
 
@@ -559,95 +559,162 @@ Apart from stylistic consistency, it's also important to maintain navigational c
 
 As a small example of specifics, designers should strive for button consistency. The same button (on a controller) should always be used to select a menu item (for example, the green button), and the same button should always be used to exit the menu (for example, the red button). As another example, the use of defaults should always be consistent. Whether you choose to set the last item selected by the player as the default, or always set the first list item as the default, it should be reflected consistently across the interface.
 
-举个具体的小例子，设计人员应努力实现按钮的一致性。选择菜单项时应始终使用（控制器上的）同一个按钮（例如绿色按钮），退出菜单时也应始终使用同一个按钮（例如红色按钮）。再比如，默认值的使用应始终保持一致。无论是选择将播放器选择的最后一个项目设置为默认值，还是始终将第一个列表项目设置为默认值，都应在整个界面中保持一致。
+举个具体的小例子，设计人员应努力实现按钮的一致性。选择菜单项时应始终使用（控制器上的）同一个按钮（例如绿色按钮），退出菜单时也应始终使用同一个按钮（例如红色按钮）。再比如，默认值的使用应始终保持一致。无论是选择将玩家选择的最后一个项目设置为默认值，还是始终将第一个列表项目设置为默认值，都应在整个界面中保持一致。
 
 ### Words and Pictures 文字和图片
 
 Probably the most important interactive element of the user interface—present in virtually all games—is the icon, which often appears as a button or a label, sometimes in combination with or in addition to text. Information has to be presented to the player, and the main way to do this is visually. The adage "a picture is worth a thousand words" comes into play here—often a visual image can be interpreted and understood much faster than the equivalent text.
 
+图标可能是用户界面中最重要的互动元素——几乎存在于所有游戏中——它通常以按钮或标签的形式出现，有时与文字结合使用，有时则作为文字的补充。必须向玩家展示信息，而展示信息的主要方式就是视觉效果。在这里，“一图胜千言”的谚语发挥了作用——视觉图像的解读和理解速度往往比相应的文字快得多。
+
 There is another reason for minimizing the amount of text onscreen: localization. Different languages have different scripts, grammatical structures, and sentence lengths. If everything onscreen is displayed as text, your localization team will soon run into a lexicographical nightmare trying to resolve the issues that come up with localization.
+
+尽量减少屏幕上的文字量还有另一个原因：本地化。不同的语言有不同的文字、语法结构和句子长度。如果屏幕上的所有内容都显示为文本，那么本地化团队在解决本地化过程中出现的问题时，很快就会陷入词汇学的噩梦。
 
 Most games contain a fair amount of text, all of which has to be localized if the product is going to go on sale in countries where English is not the native tongue. It makes sense, therefore, to minimize the amount of extraneous text that goes into areas such as the user interface. This does not entirely preclude the possibility of text in your user interface. That would be patently ridiculous. However, it makes sense to minimize it for both of the reasons mentioned here—the difficulty of assimilating text compared to representative images, and the issues with text localization.
 
+大多数游戏都包含相当数量的文字，如果产品要在母语不是英语的国家上市销售，所有文字都必须进行本地化处理。因此，尽量减少用户界面等区域的无关文字量是合理的。这并不完全排除在用户界面中出现文字的可能性。这显然是荒谬的。不过，出于这里提到的两个原因——与形象性的图像相比，文本理解难度大，以及文本本地化的问题，尽量减少文本是有道理的。
+
 Another issue that is sometimes overlooked when dealing with text is distinguishing between what is a text asset and what is an art asset. As a rule, you should never call upon the artists to embed text in a picture. This converts an easily managed text asset into a far less manageable art asset. To change text in a text file is trivial. To modify text added to an image at the design phase is usually not. It makes far more sense to maintain all text strings within the game as external resources and overlay them as needed within the game. Believe us: When you come to localize your game, you cannot imagine the headaches that doing this proactively will save you.
+
+处理文字时有时会忽略的另一个问题是区分什么是文字资产，什么是艺术资产。原则上，你不应该要求艺术家在图片中嵌入文字。这样做会将易于管理的文本资产转化为更难管理的艺术资产。修改文本文件中的文字是一件小事。而修改在设计阶段添加到图片中的文字通常是不可能的。将游戏中的所有文本字符串作为外部资源进行维护，并根据需要在游戏中进行叠加，这样做的意义要大得多。请相信我们：当你要对游戏进行本地化时，你无法想象主动这样做会为你省去多少麻烦。
 
 If you are going to display any significant amount of onscreen text, you need to make sure that it is easily readable. As a rule of thumb, the minimum height of text displayed on a screen should be about 12 pixels. There are exceptions to this rule, of course, but for the most part, it should be treated as an absolute. If the height of the text is any less than 12 pixels, the resolution and definition of the glyphs suffer—particularly if you require localization to non-roman alphabets, where you simply will not be able to get the detail you need in less than 12 pixels.
 
+如果要在屏幕上显示大量文字，你需要确保文字易于阅读。根据经验，屏幕上显示文字的最小高度应为 12 像素左右。当然，这一规则也有例外，但在大多数情况下，应将其视为绝对值。如果文本高度小于 12 像素，字形的分辨率和清晰度就会受到影响，特别是在需要本地化为非罗马字母的情况下，小于 12 像素根本无法获得所需的细节。
+
 The formatting of your text is also important. Take some tips from standard publishing. Use mixed uppercase and lowercase letters—if you use all one case, it makes words harder to pick out. Trying to read all uppercase text has two problems. The first is that it looks as though the writer is SHOUTING, and the second is that IT CAN MAKE INDIVIDUAL WORDS HARDER TO PICK OUT THAN IF THEY WERE WRITTEN IN NORMAL MIXED CASE. It's just plain harder to read and it's ugly. Don't do it.
+
+文字的格式也很重要。借鉴标准出版的一些技巧。混合使用大写字母和小写字母——如果只使用一种大小写，会使单词更难辨认。阅读全大写的文字有两个问题。首先，它看起来就像作者在大喊大叫；其次，它会使单个单词比用正常的混合大小写更难辨认。这样不仅难读，而且难看。不要这样做。
 
 When selecting a font for your game, try to pick one font and stick with it. If you feel that you do have to mix fonts, be careful in how you mix them. Try not to use wildly differing styles together—unless you're specifically looking for that "ransom note" effect. It looks amateurish and unprofessional. In particular, don't use serif and sans serif together. If you're mixing, try and stay within the same class of font.
 
+为游戏选择字体时，尽量选择一种字体并坚持使用。如果你觉得必须混合使用字体，请注意混合使用的方式。尽量不要在一起使用风格迥异的字体——除非你特别想要达到“勒索信”的效果。这看起来既外行又不专业。特别是，不要同时使用有衬线字体和无衬线字体。如果要混合使用，尽量使用同一类字体。
+
+{% hint style="info" %}
+ransom note，勒索信，绑匪写给受害人家属的信件。通常由从杂志或报纸上随机剪下的单词或字母拼凑而成，避免被识别出笔迹。
+{% endhint %}
+
 The development of the icon was precisely due to the problems with the efficiency of text as a communication medium. A clear, descriptive graphical image is easier to comprehend than text, but (and there is always a but) an icon can only be understood if there is a common cultural ground between the designer and the player. Let us provide an example. Consider Figure 6.23: The icon in this image will be immediately recognizable to an American, or to anybody who has spent some time in America, but it will probably not be familiar to anyone else. It's the symbol for a pharmacy, but you have to be familiar with American culture to know that. Nothing in the picture gives any clue as to its meaning. For that reason, it's a bad choice as an icon, unless your product is restricted to within the continent of North America. A better choice of icon would be a red cross on a white background, known widely as the symbol of the International Red Cross organization (or it would be good to use if it wasn't trade marked; id Software's Doom fell foul to this particular snafu).
 
-Figure 6.23. Pharmacy icon.
+图标的开发正是由于文字作为交流媒介的效率问题。一个清晰、描述性强的图形图像比文字更容易理解，但是（总是有一个 “但是”），图标只有在设计者和玩家之间有共同的文化基础时才能被理解。让我们举一个例子。请看图 6.23：对于美国人或在美国呆过一段时间的人来说，这幅图中的图标一眼就能认出来，但对于其他人来说，这可能并不熟悉。这是药房的标志，但你必须熟悉美国文化才能知道。图片中没有任何线索表明它的含义。因此，除非你的产品仅限于在北美大陆销售，否则它不是一个好的图标选择。更好的图标应该是白底红十字，它是众所周知的国际红十字会组织的标志（如果没有被商标注册，也是不错的选择；id Software 的《毁灭战士》就犯了这个特别的错误）。
+
+Figure 6.23. Pharmacy icon. 图 6.23. 药房图标。
 
 ![](.gitbook/assets/6.23.gif)
 
 Another example is to use a picture of a duck (the fowl) to indicate that your avatar will duck (the action). That relies on a visual pun that only works if you have a good understanding of English. Again, it automatically cuts you off from foreign markets and creates unnecessary localization issues. That does not mean that you are restricted to strictly representative icons. There is nothing to say that an icon has to specifically represent its intended action. The aim of an icon is to give a visual clue that can be easily understood in the context of the situation. You don't need to stress out trying to make sure that your icon cannot be mistaken for anything else under some strange circumstance. Your players will be a little more forgiving than that. The only real concerns are that your icons cannot be mistaken for another in the same interface, and that there is at least some conceptual link between the icon and the action that it represents.
 
+另一个例子是用鸭子的图片（禽类）来表示你的化身会躲避（动作）。这依赖于视觉上的双关语，只有当你对英语有很好的理解时才能奏效。同样，这也会自动切断你与国外市场的联系，并产生不必要的本地化问题。这并不意味着你只能使用具有严格代表性的图标。没有任何规定说图标必须具体代表其预期动作。图标的目的是提供一个视觉线索，让人们在当时的情况下很容易理解。你不必紧张地试图确保你的图标在某种奇怪的情况下不会被误认为是其他任何东西。玩家的宽容度会更高一些。唯一真正需要注意的是，你的图标不能被误认为是同一界面中的另一个图标，而且图标和它所代表的动作之间至少要有一些概念上的联系。
+
 There are some pan-cultural images that have been developed over a period of time that are now considered de facto standards. Consider the icons shown in Figure 6.24. All these symbols should be instantly recognizable to you. Even if they're not, you could easily make a guess at their probable meaning. Bear in mind that if any of them seems vague or ambiguous in the diagram, it is to be expected. You are viewing them in the rarified atmosphere of the printed page. There is no immediate context to set them against.
 
-Figure 6.24. Universal icons.
+有些泛文化图像经过一段时间的发展，现已被视为事实上的标准。请看图 6.24 所示的图标。所有这些符号都应该能让你一眼认出。即使不是，你也可以很容易地猜出它们的可能含义。请记住，如果图中有任何符号看起来含糊不清或模棱两可，那也是意料之中的。你是在印刷品的稀有氛围中查看它们的。没有直接的上下文可以对照。
+
+Figure 6.24. Universal icons. 图 6.24. 通用图标
 
 ![](.gitbook/assets/6.24.gif)
 
 Try considering some of these icons in context. For example, if the hammer and wrench icon was displayed on the opening menu of a game, you could assume that it allowed you to access the game configuration screen. On the other hand, if it was displayed on the control panel of an in-game vehicle in a racing game, you could assume that it served as a pit-stop button or some other mechanical function. The important thing is that the context makes the difference. As long as the icon is the only one of that type, the meaning is unambiguous. For example, having a separate hammer and a separate wrench as two icons on the same screen would cause confusion and should be avoided, unless the game specifically calls for those two tools separately, and the player had already been made aware of the distinction.
 
+试着根据上下文来思考其中的一些图标。例如，如果锤子和扳手图标显示在游戏的开始菜单上，你可以认为它允许你进入游戏配置界面。另一方面，如果它显示在赛车游戏中游戏车辆的控制面板上，你可以认为它是一个停止按钮或其他机械功能。重要的是，语境决定了区别。只要该图标是该类型图标中的唯一一个，其含义就是明确的。例如，在同一屏幕上分别显示锤子和扳手这两个图标会造成混淆，因此应避免使用，除非游戏明确要求分别使用这两种工具，而且玩家已经意识到两者的区别。
+
 One good use for text in a game interface that relies on icons in some capacity is for "tool tips." Most people who have used a computer are now familiar with these, but for the uninitiated, tool tips are small balloons of text that appear when the pointer is hovered over a button for a short period of time without actually clicking it. Tool tips can be visual or audio (the function of the button is audibly announced), but the ideal situation is to have a visual and audio cue. Make sure the players can turn off this aspect of the audio if they want to.
+
+在某种程度上依赖图标的游戏界面中，文字的一个很好的用途就是“工具提示”。大多数使用过电脑的人现在都很熟悉这些工具提示，但对于不熟悉的人来说，工具提示是指当指针悬停在一个按钮上很短的时间而没有真正点击它时出现的文字小气球。工具提示可以是视觉的，也可以是声音的（按钮的功能会以声音的形式公布），但最理想的情况是有视觉和声音提示。确保玩家可以根据需要关闭音频提示。
 
 Having good icons and representative images within your interface is a great start, but it's only half of the story. After a player has clicked on a button, she will want instant feedback. This doesn't mean that the corresponding action should happen immediately—that wouldn't always make sense, depending on context—but there should be a visual and an audio indication that the button has actually been clicked. In other words, tell the players that their request has been acknowledged and will be acted upon presently.
 
+在界面中拥有好的图标和代表性图像是一个好的开始，但这只是故事的一半。在玩家点击按钮后，她会希望得到即时反馈。这并不意味着相应的操作应立即发生——视具体情况而定，这并不总是合理的，但应该有视觉和听觉上的提示，表明按钮确实被点击了。换句话说，就是要告诉玩家，她们的请求已被确认，并将立即执行。
+
 As with tool tips, the best method of acknowledging a request is audibly and visibly. The audio can be anything from a simple "click" noise to a function-specific "request acknowledged"-style announcement. The usual method for indicating that a button is pressed is to highlight it in some way, either by making it appear in the down position or by changing its color or contrast. Be careful with color usage. Bear in mind that about 8 percent of men are color-blind to some degree. If you are varying color as an acknowledgement, be sure to vary the contrast noticeably too—particularly if your colors have a large red/green component. This will allow players with diminished ability to distinguish color to play your game on equal terms with all other players.
+
+与工具提示一样，确认请求的最佳方法是声音和视觉。声音可以是简单的“咔嗒”声，也可以是特定功能的 “请求已确认”式公告。表示按钮已按下的通常方法是以某种方式突出显示按钮，可以是将按钮置于向下位置，也可以是改变按钮的颜色或对比度。使用颜色时要小心。要知道，约有 8% 的男性在某种程度上是色盲。如果你要改变颜色以示认可，一定要注意对比度的变化，特别是如果你的颜色有很大的红色/绿色成分。这样可以让分辨颜色能力较弱的玩家在玩游戏时与其他玩家一视同仁。
 
 ### Hiding Complexity 隐藏复杂性
 
 One of the problems with the increasing capabilities of game machines, and the resulting increase in sophistication of game designs, is that the issue of managing complexity rears its ugly head.
 
+随着游戏机性能的不断提高，游戏设计的复杂性也随之增加，其中一个问题就是复杂性的管理问题。
+
 Some games have literally hundreds of options available to a player at any one time. Without some sensible scheme for managing the presentation of these options, we end up with a game that is very difficult to play—either because no one can remember all the options (think in terms of flight simulators), or because the screen is so crammed with icons and controls (think in terms of badly designed strategy games), there is no room to play the game.
+
+有些游戏在任何时候都有数以百计的选项可供玩家选择。如果没有一些合理的方案来管理这些选项的呈现，我们最终就会发现游戏非常难玩——要么是因为没有人能记住所有的选项（想想飞行模拟器），要么是因为屏幕上的图标和控件太多（想想设计糟糕的策略游戏），根本没有空间来玩游戏。
 
 A specific example of a game that handled complexity badly (by the designer's own admission, so you can't blame us for slinging mud) is the original Dungeon Keeper.
 
-"(Dungeon Keeper) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that Dungeon Keeper was a missed opportunity."
+最初的《地下城守护者》就是一个复杂性处理不当的具体例子（设计者自己承认，所以不能怪我们泼脏水）。
 
-—Peter Molyneux, designer of Dungeon Keeper
+> "(Dungeon Keeper) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that Dungeon Keeper was a missed opportunity."
+> 《地下城守护者》教会了我在开始实施之前要更加努力地思考设计问题。它还教会了我如何不设计界面——复杂的界面意味着《地下城守护者》错失了良机”。
+> \- Peter Molyneux, designer of Dungeon Keeper
+> \- 皮特·莫利纽克斯，《地下城守护者》设计师
 
 The user interface of Dungeon Keeper (shown in Figure 6.25) contains a status panel that Molyneux described as "terrible" and containing "too many icons" in his 2001 GDCE (Game Developer's Conference Europe) "Essentials of Game Design" presentation. In the opinion of Molyneux, Dungeon Keeper was a missed opportunity because of the bad interface. It sold 700,000 copies, which for most designers would be considered a great success. But when compared to the sales of Populous, Theme Park, and Black and White (also mostly designed by Molyneux) at 3.5 million copies each for the first two and 1.5 million copies for the latter, it's fairly clear as to why he saw Dungeon Keeper as a failure.
 
-Figure 6.25. Dungeon Keeper.
+《地牢守护者》的用户界面（如图 6.25 所示）包含一个状态面板，莫利纽克斯在 2001 年的 GDCE（欧洲游戏开发者大会）“游戏设计要点”演讲中将其形容为“糟糕透顶”，包含了“太多的图标”。莫利纽克斯认为，《地下城守护者》因为糟糕的界面而错失良机。《地牢守护者》卖出了 70 万份，对大多数设计师来说，这已经算是很大的成功了。但如果与《上帝也疯狂》、《主题公园》和《黑与白》（也主要由莫利纽克斯设计）的销量相比，前两款游戏的销量分别为 350 万份，最后一个销量为 150 万份，他认为《地下城守护者》失败的原因就相当明显了。
+
+Figure 6.25. Dungeon Keeper. 图 6.25. 《地下城守护者》。
 
 ![](.gitbook/assets/6.25.jpg)
 
 What could he have done to mitigate the poor design and boost those sales? There are a number of approaches he could have taken, and we will detail some of these here (but bear in mind that hindsight is always 20/20).
 
+他本可以做些什么来减轻设计的不足并提高销量呢？他可以采取的方法有很多，我们将在这里详细介绍其中的一些（但请记住，我们只是在事后诸葛亮）。
+
+{% hint style="info" %}
+hindsight is always 20/20，hindsight的意思是事后再看，20/20是眼科检查中用来描述完美视力的术语。 
+{% endhint %}
+
 When designing an interface that has as many options and features, as were present in Dungeon Keeper, we need to use some type of method to reduce the complexity. One thing to consider is the depth versus the width of the interface. How do we define the depth and width? In this sense, the width of an interface is the number of top-level options available to the player. For example, a menu with five buttons would have a width of five. The depth corresponds to the number of menus below the top-level menu. As a general rule of thumb (which is most certainly not valid in all situations), it is a good idea to make these values roughly equal (at least to within plus or minus 50 percent). As a guideline, count the total number of options available to your player and take the square root of that. That's the number you should be aiming for.
+
+在设计一个像《地下城守护者》一样拥有众多选项和功能的界面时，我们需要使用某种方法来降低复杂性。需要考虑的一个问题是界面的深度和宽度。如何定义深度和宽度？从这个意义上说，界面的宽度就是玩家可以使用的顶层选项的数量。例如，一个菜单有五个按钮，宽度就是五个。深度则与顶层菜单下面的菜单数量相对应。作为一般经验法则（当然并非在所有情况下都适用），最好使这些值大致相等（至少在正负 50% 的范围内）。作为指导原则，计算玩家可选项的总数，然后取其平方根。这就是你应该追求的数字。
 
 An interface that is too wide will overwhelm the player, whereas an interface that is too deep will be difficult for the player to remember where everything is. This, of course, assumes a static structure for the menu.
 
+过宽的界面会让玩家不知所措，而过深的界面则会让玩家难以记住所有东西的位置。当然，这是以菜单的静态结构为前提的。
+
 When deciding how to structure your menus, a good starting approach is to categorize the options by frequency of access. The most frequently accessed elements should be one or two steps away from the player at most. The least frequently accessed elements can be farther down the hierarchy.
+
+在决定如何构建菜单时，一个好的方法是按照访问频率对选项进行分类。最常访问的元素应离玩家最多一到两步远。访问频率最低的元素则可以放在层次结构的较远处。
 
 A good set of guidelines, adapted from interface theory research performed by the University of Alberta, is as follows:
 
+根据阿尔伯塔大学界面理论研究改编的一套好的指导原则如下：
+
 * Be consistent. The player should only be required to perform consistent sequences of actions in similar situations. The terminology used in prompts, menus, and game-screens should be identical. The use of color, capitalization, font, and layout should be consistent throughout logically connected sections of the game.
+    前后一致。玩家只需在类似情况下执行一致的操作序列。提示、菜单和游戏画面中使用的术语应一致。颜色、大小写、字体和布局的使用应与游戏中逻辑相连的部分保持一致。
 
 * Enable hardcore players to use shortcuts. To cater for hardcore players, provide abbreviations, special keys, hidden commands, and macros to enable them to play faster. Try not to unduly affect the game balance by making these shortcuts too powerful.
+    让铁杆玩家能够使用快捷键。为满足铁杆玩家的需求，可提供缩写、特殊按键、隐藏命令和宏命令，使他们能更快地进行游戏。尽量不要让这些快捷键过于强大，以免过度影响游戏平衡。
 
 * Give good feedback. For every user action, the game should respond in some way. This one is obvious: When the player interacts with something, he will expect the game to respond—at least with an acknowledgment—immediately.
+    提供良好的反馈。对于用户的每一个操作，游戏都应做出某种回应。这一点是显而易见的：当玩家与某些东西互动时，他会希望游戏立即做出回应--至少是确认。
 
 * Design the interface to offer defined tasks. The sequences of actions the player is performing should be arranged into a conceptual group of smaller subtasks, each with a defined beginning, middle, and end. Each task completion should be punctuated with an acknowledgment, so the player knows that his task has been completed.
+    设计界面以提供明确的任务。玩家正在执行的一系列操作应该被安排成一组概念性的较小的子任务，每个子任务都有明确的开始、中间和结束。每项任务完成时都应有提示，让玩家知道他的任务已经完成。
 
-* Don't allow the player to make silly mistakes, and allow recovery from minor errors. The player should not be able to make a serious error simply by typing or clicking the wrong thing. Check and validate all player input. If the player does make an erroneous entry that the game could not anticipate, then the player should be guided to graceful recovery. If the game requires a complex input method try and break the input into smaller tasks where appropriate.
+* Don't allow the player to make silly mistakes, and allow recovery from minor errors. The player should not be able to make a serious error simply by typing or clicking the wrong thing. Check and validate all player input. If the player does make an erroneous entry that the game could not anticipate, then the player should be guided to graceful recovery. If the game requires a complex input method try and break the input into smaller tasks where appropriate.
+    不要让玩家犯愚蠢的错误，并允许从轻微错误中恢复。玩家不能仅仅因为输入或点击错误的内容而犯下严重错误。检查并验证玩家的所有输入。如果玩家确实输入了游戏无法预料的错误信息，则应引导玩家进行优雅的恢复。如果游戏需要复杂的输入方法，应尽量将输入分解成较小的任务。
 
 * Permit easy reversal of actions. If a player makes a silly mistake, allow the player to reverse the action, unless it would affect the game balance adversely.
+    允许玩家轻松撤销操作。如果玩家犯了一个愚蠢的错误，除非会对游戏平衡产生不利影响，否则应允许玩家逆转操作。
 
-* Remember that the player is the one in control. Players want to feel in charge of the game—at least in regard to control of their avatar. Don't throw random uncontrollable events, or tedious or difficult input sequences (such as pointless jumping puzzles).
+* Remember that the player is the one in control. Players want to feel in charge of the game—at least in regard to control of their avatar. Don't throw random uncontrollable events, or tedious or difficult input sequences (such as pointless jumping puzzles).记住，玩家才是控制者。玩家希望有掌控游戏的感觉--至少是在控制自己的虚拟形象方面。不要随意丢弃无法控制的事件，或乏味或困难的输入序列（如无意义的跳跃谜题）。
 
-* Don't strain the player's short-term memory. Short-term memory is a finite resource. The player should not be overwhelmed by the information the game is provided. Provide ways to hierarchically (or otherwise if appropriate) compartmentalize information.
+* Don't strain the player's short-term memory. Short-term memory is a finite resource. The player should not be overwhelmed by the information the game is provided. Provide ways to hierarchically (or otherwise if appropriate) compartmentalize information.不要给玩家的短期记忆造成压力。短期记忆是有限的资源。玩家不应被游戏提供的信息淹没。提供分层（或其他适当的方式）分割信息的方法。
 
 Another more advanced method of managing complexity is to have a fluid menu structure. By employing context sensitivity, we can show the player only options that are relevant to his current situation. For example, consider a hypothetical graphic adventure. Let's assume that our character is in the bathroom. There are only certain actions available to a player in the bathroom (and we won't dwell on those here), but there are many actions that are impossible. It would make no sense at all to give our player the menu option to, for example, cook something, so useless options such as these (which would normally elicit a response of "You can't do that here") can be culled from the available options. The Sims uses this particular approach to manage complexity. The caveat to using this form of context sensitivity is that it can make the gameplay more transparent if it is done badly. If the only options left available on the menu are the only actions that can be performed, it makes the adventure easier by automatically eliminating dead ends in the investigative process of playing the game. Thinking up solutions to the presented problems is part of the challenge to an adventure game, and presenting only the available actions to a player will reduce the level of challenge. This can be a good thing, reducing frustrating elements of play, as long as the challenge is not reduced to the level where only the correct solution is available as an option.
 
+另一种更先进的复杂性管理方法是采用流动菜单结构。通过使用上下文敏感性，我们可以只向玩家显示与其当前情况相关的选项。例如，考虑一个假设的图形冒险游戏。假设我们的角色在浴室里。在浴室中，玩家只能进行某些特定的操作（在此不再赘述），但也有很多操作是不可能的。如果让玩家在菜单上选择烹饪等操作，那是完全没有意义的，因此可以从可用选项中删去像这样的无用选项（通常会引起 “你不能在这里做这个 ”的反应）。模拟人生》使用这种特殊的方法来管理复杂性。使用这种形式的上下文敏感性需要注意的是，如果做得不好，可能会让游戏变得更加透明。如果菜单上只剩下可用的选项，也就是只能执行的操作，那么在游戏的调查过程中就会自动消除死胡同，从而使冒险变得更容易。思考问题的解决方案是冒险游戏的挑战之一，而只向玩家提供可用的操作则会降低游戏的挑战程度。这可能是件好事，可以减少游戏中令人沮丧的因素，但前提是不能把挑战降低到只有正确的解决方案可供选择的程度。
+
 A valuable addition to the previous scheme is to allow the user to configure the interface to some degree. Diablo and Diablo II handled this admirably, by allowing the player to assign her favorite spells to hotkeys so that they could be accessed quickly in the heat of battle.
 
+允许用户对界面进行一定程度的配置，是对前一种方案的宝贵补充。暗黑破坏神》和《暗黑破坏神 II》就很好地做到了这一点，它们允许玩家将自己喜欢的法术分配到热键上，以便在激烈的战斗中快速使用。
+
 A related method, often used in graphic adventures, role-playing games, and other mouse-controlled games, is the context-sensitive pointer. The pointer will change its form when it is pointing to an object of interest. In the case of an RTS, it may change into a pickax when a peasant is selected and the pointer is over a collectable resource; or, if a warrior is selected, it may turn into a red crosshair when over an enemy, a yellow crosshair when over a neutral character, and a green crosshair when over a friend.
+
+图形冒险游戏、角色扮演游戏和其他鼠标控制游戏中经常使用的一种相关方法是上下文敏感指针。当指针指向感兴趣的对象时，指针会改变形态。在 RTS 中，如果选择的是农民，指针指向可收集的资源时，指针可能会变成镐；或者，如果选择的是战士，指针指向敌人时，可能会变成红色十字线；指向中立角色时，可能会变成黄色十字线；指向朋友时，可能会变成绿色十字线。
 
 Another approach is to implement a beginner's mode and an expert mode. The beginner's mode only presents a simplified set of options that encompass the core set of necessary actions available to a player. The expert mode provides the same options, but divides them into a finer grain. For example, an RTS in beginner's mode may provide the option to attack, but in expert mode, it may allow the player to tailor the attack by providing reckless, cautious, or normal attacks, with the difference being the amount of punishment the unit will take before retreating.
 
