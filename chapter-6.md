@@ -816,76 +816,130 @@ This section covers some of the other areas and issues associated with sound des
 
 Originally, sound was limited by hardware to beeps used as minor spot effects. Now, we expect CD-quality soundtracks and environmental audio surround sound with our games. Not only do we expect to be entertained visually and cerebrally, we also expect an audio feast for our ears.
 
+最初，声音受硬件的限制，只能作为小的现场效果。而现在，我们希望在游戏中能听到 CD 质量的原声带和环绕环境音效。我们不仅希望获得视觉和脑力上的娱乐，还希望获得听觉上的盛宴。
+
 The most prevalent use for sound effects in games is in incidental effects. These sounds correspond to the actions and events that happen in the game world—for example, a burst of gunfire, or the tight squealing of tires as a car slides sideways around a corner. Bear in mind that in nature, sound is often our first warning of an incoming event. You will often hear danger before you actually see it. Hence, it is fitting to use sound as the first indicator that something needs attention paid to it. Be sure to back it up with a visual indicator too, so that the player has somewhere to look and see what is going on. It's much easier to interpret an event visually that it is by audio alone.
+
+音效在游戏中最常见的用途是附带效果。这些声音与游戏世界中发生的动作和事件相对应——例如，一阵枪声，或汽车在拐角处侧滑时轮胎发出的吱吱声。请记住，在自然界中，声音往往是我们对即将发生的事件发出的第一个警告。在真正看到危险之前，你往往会听到危险的声音。因此，用声音作为需要关注的事物的第一个指示是恰当的。同时也要确保有一个视觉指示器，这样玩家就有地方看，知道发生了什么。通过视觉来解释一个事件要比通过声音来解释容易得多。
 
 As audio capabilities improved, sound effects were also used to provide feedback to the player. There are many examples of how this is done, and we have already discussed audio interface feedback previously in the chapter. Some examples include the ability to judge the need to change gear in a racing game by listening to the pitch of the engine, or knowing that an enemy is approaching because the player can hear his footsteps and heavy breathing as he rounds a nearby corner.
 
+随着音频功能的改进，音效也被用来向玩家提供反馈。这样做的例子有很多，我们在本章前面已经讨论过音频接口反馈。一些例子包括：在赛车游戏中，玩家可以通过聆听引擎的音调来判断是否需要换挡；或者玩家可以听到敌人在附近拐角处的脚步声和粗重的呼吸声，从而知道敌人正在靠近。
+
 Beyond this, there is the issue of dialog. Many games—particularly adventures and role-playing games—rely heavily on scripted dialog. This is usually recorded by experienced voice actors, and it helps the player get fully immersed into the game world. Or at least it should. Bad voice acting does more to destroy immersion that no voice at all. The original Diablo from Blizzard Entertainment was singled out for having particularly bad voice acting. However, computer games are a relatively new medium, and each new medium requires new techniques. It's entirely possible that these techniques remain to be discovered; in the years ahead, they might crack them, and we'll have convincing voice acting in games to look forward to.
 
+除此之外，还有对话问题。许多游戏，尤其是冒险和角色扮演游戏，都非常依赖脚本对话。这些对话通常由经验丰富的配音演员录制，有助于玩家完全融入游戏世界。至少应该如此。糟糕的配音比完全没有配音更能破坏沉浸感。暴雪娱乐公司的原版《暗黑破坏神》就因为配音特别糟糕而备受诟病。然而，电脑游戏是一种相对较新的媒体，而每一种新媒体都需要新的技术。完全有可能，这些技术仍有待发现；在未来的几年里，他们可能会破解这些技术，届时我们就可以在游戏中期待令人信服的配音表演了。
+
 Bear in mind that not all your players will have perfect hearing. Any time that a sound is used to notify a player of an event, a visual cue should be given, too. (This can be a configurable option, such as subtitles for spoken dialog.)
+
+请记住，并非所有玩家都有完美的听力。在使用声音通知玩家某一事件时，也应给出视觉提示。(这可以是一个可配置的选项，例如口语对话的字幕）。
 
 ### Music 音乐
 
 No discussion of sound would be complete without a brief sojourn into the subject of music. Ever since the first strangled warblings of early sound chips, developers have attempted (with varying degrees of success) to get music into their games.
 
+在讨论声音问题时，如果不简要地谈谈音乐，那就不完整了。自从早期的声音芯片首次发出令人窒息的嗡嗡声以来，开发人员就一直试图在游戏中加入音乐（成功的程度不一）。
+
 Initially, the player would usually be treated to a shockingly bad rendition of a familiar tune on the title screen. The practice of using familiar tunes took a dive, however, when copyright lawyers for the music industry started sitting up and taking notice. That's when the rise of the computer musicians started. These guys specialized in making original music for games. Some, such as Rob Hubbard (www.robhubbard.co.uk), even achieved a substantial level of independent fame in their own right, solely through their game music. Some of the more extreme fans even bought games solely for the music.
+
+起初，玩家通常会在标题屏幕上看到一首熟悉曲调的糟糕演绎。然而，当音乐行业的版权律师开始注意到这一点时，使用熟悉曲调的做法便一落千丈。这时，电脑音乐家开始崛起。这些人专门为游戏制作原创音乐。有些人，如罗布·哈伯德（www.robhubbard.co.uk），甚至仅凭游戏音乐就获得了相当高的独立声誉。一些极端的游戏迷甚至只为游戏音乐而购买游戏。
 
 Once the hardware capabilities increased, games began to include in-game music. This led us to where we are today, where literally every game is expected to have a CD-quality soundtrack. When deciding on a soundtrack for your game, make sure that it fits thematically with the rest of the game. For example, a pentatonic scale guitar composition might sit well with a medieval Japanese adventure game, but it would certainly sound out of place in a futuristic war game.
 
+随着硬件性能的提高，游戏开始加入游戏音乐。这就导致了我们今天的局面，几乎每款游戏都要有 CD 级别的配乐。在决定游戏配乐时，要确保配乐在主题上与游戏的其他部分相匹配。例如，五声音阶吉他曲可能与中世纪日式冒险游戏相得益彰，但在未来主义战争游戏中肯定会显得格格不入。
+
 Of course, discordance may be just the effect that you want to achieve. One of the most striking moments in the introductory movie for Starcraft was the use of classical opera as the audio backdrop, set against fierce battle scenes when the admirals calmly discussed the war situation as they prepared to abandon the men on the surface to their fate. The juxtaposition between the opulent calm of the admiral's bridge and the hell of war on the surface was accented excellently by the choice of music. Music is arguably capable of eliciting emotion more effectively than any other medium—and in this case, it worked well.
+
+当然，不和谐可能正是你想要达到的效果。在《星际争霸》的介绍影片中，最引人注目的时刻之一就是使用古典歌剧作为背景音乐，在激烈的战斗场面中，将领们冷静地讨论着战争形势，准备放弃地面上的士兵，让他们听天由命。将军舰桥的极端平静与地面上的战争地狱之间的并置，在音乐的选择上得到了很好的烘托。可以说，音乐比其他任何媒介都能更有效地唤起观众的情感，而在本片中，音乐也发挥了很好的作用。
 
 The music in the introductory movie for Starcraft was so effective because the mechanism was not overused. As a designer, you will want to give the player a musically appropriate experience the majority of the time. That way, when you bend the rules, it will have a greater impact on the emotions of the player. Of course, you won't be designing the music yourself—in most cases—but it is the designer's responsibility to tell the composer the effects and the emotions that the designer wants the player to be feeling by listening to the music.
 
+《星际争霸》介绍影片中的音乐之所以如此有效，是因为没有过度使用音乐机制。作为一名设计师，你希望在大多数时候都能给玩家带来与音乐相称的体验。这样，当你改变规则时，就会对玩家的情绪产生更大的影响。当然，在大多数情况下，你不会亲自设计音乐，但设计师有责任告诉作曲家，设计师希望玩家通过聆听音乐感受到什么效果和情绪。
+
 Another holy grail of the industry (and there are many) is dynamically variable music, otherwise known as interactive music. This is a slight misnomer. We don't really need interactive music—what we need is adaptive music. The use of the word "interactive" implies an explicit two-way relationship: The player affects the music, and the music in turn explicitly affects the player. That's not what we'd want at all. Of course, the music may affect the player's emotions, which may in turn affect the way she plays, but that is just a secondary side effect and not the intended effect at all.
+
+该行业的另一个圣杯（有很多）是动态变化的音乐，又称互动音乐。这有点名不副实。我们并不真正需要交互式音乐，我们需要的是自适应音乐。使用“交互”一词意味着一种明确的双向关系：玩家影响音乐，音乐反过来明确影响玩家。这根本不是我们想要的。当然，音乐可能会影响玩家的情绪，进而影响她的游戏方式，但这只是次要的副作用，根本不是我们想要的效果。
 
 The aim of adaptive music is to play a constantly varying tune in the background, correctly anticipating the player's actions and upcoming game events so that the tune always accents the actions—similar to the way that music in a movie rises to a crescendo when an exciting or emotional climax is approaching.
 
-So, is adaptive music the holy grail or merely fool's gold? After all, sound effects can do just as well at evoking mood, and in any nontrivial game (excepting those with "on-rails" gameplay), we don't know what's going to happen in the game. The algorithm forsuccessfully predicting the future when an unpredictable element (the player) is involved hasn't been perfected yet. We think that adaptive music in its current limited capacity is (or more specifically, will become) a valuable tool, but as yet, it is not quite ready for the prime time.
+自适应音乐的目的是在背景中播放不断变化的曲调，正确预测玩家的操作和即将发生的游戏事件，使曲调始终与操作相呼应——就像电影中的音乐在激动人心或情感高潮即将来临时达到高潮一样。
+
+So, is adaptive music the holy grail or merely fool's gold? After all, sound effects can do just as well at evoking mood, and in any nontrivial game (excepting those with "on-rails" gameplay), we don't know what's going to happen in the game. The algorithm for successfully predicting the future when an unpredictable element (the player) is involved hasn't been perfected yet. We think that adaptive music in its current limited capacity is (or more specifically, will become) a valuable tool, but as yet, it is not quite ready for the prime time.
+
+那么，自适应音乐究竟是圣杯还是愚人金？毕竟，音效也能很好地唤起玩家的情绪，而且在任何复杂游戏中（除了那些有“轨道式”玩法的游戏），我们都不知道游戏中会发生什么。在涉及不可预知因素（玩家）时，成功预测未来的算法尚未完善。我们认为，自适应音乐在目前的有限能力范围内是（或者更确切地说，将成为）一个有价值的工具，但到目前为止，它还没有完全准备好迎接黄金时代。
+
+{% hint style="info" %}
+fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际上没有真正价值或意义的事物。
+{% endhint %}
 
 > **User Interface Worksheet 用户界面工作表**
 > 
 > 1. Roughly sketch out the major elements of the game's shell interface; then move on to the in-game experience. For the in-game experience, define each of the gameplay modes the game will require to be playable (including the pause menu, if there is one). Don't forget non-interactive modes such as movies or mission briefings.
+>   大致勾勒出游戏外壳界面的主要元素，然后开始游戏内体验。关于游戏内体验，请定义游戏所需的每种可玩模式（包括暂停菜单，如果有的话）。不要忘记非交互模式，如电影或任务简报。
 > 
 > 2. Create a flowchart showing how the gameplay modes change from one to another, and what events (player actions or in-game events) cause each change.
+>   创建一个流程图，显示游戏模式之间如何变化，以及每次变化是由哪些事件（玩家操作或游戏内事件）引起的。
 > 
 > 3. For each gameplay mode in the game:
+>   游戏中的每种游戏模式：
 > 
 >       a. Create its screen layout.
+>   创建其屏幕布局。
 > 
 >       b. Determine its perspective on the game world (or, if more than one is possible, determine all its perspectives and choose one as the default).
+>   确定其在游戏世界中的视角（如果可能有多个视角，则确定所有视角并选择一个作为默认视角）。
 > 
 >       c. Select its interaction model.
+>   选择交互模型。
 > 
 >       d. Define what will happen when each button on the controller or keyboard is pressed and—if the game includes a pointing device—what will happen when an object in the game world is pointed to and selected.
+>   确定按下控制器或键盘上的每个按钮时会发生什么，如果游戏中包含指向设备，则确定指向并选择游戏世界中的物体时会发生什么。
 > 
 > 4. If the interface includes multi-step actions (such as selecting units, and then giving them an order), create a flowchart indicating what happens in each step, and whether (and how) the sequence can be interrupted or cancelled.
+>   如果界面包含多步骤操作（如选择单位，然后给它们下达命令），请创建一个流程图，说明每一步会发生什么，以及是否（以及如何）中断或取消该序列。
 > 
 > 5. Does the gameplay require a pointing or steering device? Should these be analog, or will a D-pad suffice? What do they actually do in the context of the game?
+>   游戏是否需要指向或转向设备？这些设备应该是模拟的，还是 D-pad 就足够了？它们在游戏中到底有什么作用？
 > 
 > 6. Does the function of one or more buttons on the controller change within a single gameplay mode? If so, are there visual cues to let the player know this is taking place?
+>   控制器上一个或多个按钮的功能是否会在单一游戏模式下发生变化？如果是，是否有视觉提示让玩家知道发生了变化？
 > 
 > 7. If the player has an avatar (whether a person, creature, or vehicle), how do the movements and other behaviors of the avatar map to the machine's input devices?
+>   如果玩家有一个化身（无论是人、生物还是车辆），化身的动作和其他行为如何映射到机器的输入设备上？
 > 
 > 8. Does the game's genre, if it has one, help to determine the user interface? What standards already exist that the player may be expecting the game to follow? Do you intend to break these expectations, and if so, how will you inform the player of that?
+>   游戏的类型（如果有的话）是否有助于确定用户界面？玩家可能希望游戏遵循哪些已有的标准？你是否打算打破这些期望，如果是，你将如何告知玩家？
 > 
 > 9. Does the game include menus? What is the menu structure? Is it broad and shallow (quick to use, but hard to learn), or narrow and deep (easy to learn, but slow to use)?
+>   游戏包括菜单吗？菜单结构是怎样的？是宽而浅（使用快，但学习难），还是窄而深（易学，但使用慢）？
 > 
 > 10. Does the game include text on the screen? If so, does it need provisions for localization?
+>   游戏是否在屏幕上显示文字？如果有，是否需要本地化？
 > 
 > 11. What icons are used in the game? Are they visually distinct from one another and quickly identifiable? Are they culturally universal?
+>   游戏中使用了哪些图标？这些图标在视觉上是否相互区别并能快速识别？它们是否具有文化通用性？
 > 
 > 12. Does the player need to know numeric values (score, speed, health)? Can these be presented through non-numeric means (power bars, dials, brightness regions), or should they be shown as digits? If they are shown as digits, how can they be presented in such a way that they don't harm suspension of disbelief?
+>   玩家是否需要知道数值（分数、速度、健康状况）？这些数值可以通过非数字方式（能量条、刻度盘、亮度区域）呈现，还是应该以数字形式显示？如果以数字形式显示，如何才能不影响玩家的信任感？
 > 
 > 13. Will it be possible for the player to control the game's perspective (camera position)? Will it be necessary for the player to do so in order to play the game? What controls will be available? Will they be available at all times, or from a separate menu or other mechanism?
+>   玩家能否控制游戏的视角（摄像机位置）？玩家是否有必要这样做才能玩游戏？将提供哪些控制？是随时都可以使用，还是通过单独的菜单或其他机制？
 > 
 > 14. What is the aesthetic style of the game? How do the interface elements blend in and support that style?
+>   游戏的美学风格是什么？界面元素如何融入并支持这种风格？
 > 
 > 15. How will audio be used to support the player's interaction with the game? What audio cues will accompany player actions? Will the game include audio advice or dialog?
+>   如何使用音频来支持玩家与游戏的互动？伴随玩家操作的音频提示是什么？游戏是否会包含语音提示或对话？
 > 
 > 16. How does music support the user interface and the game generally? Does it create an emotional tone or set a pace? Can it adapt to changing circumstances?
+>   音乐如何支持用户界面和整个游戏？它是否能营造情感基调或设定节奏？能否适应不断变化的环境？
 
 # Putting It Together 总结
 
 In this chapter, we've covered a lot of diverse ground. By focusing on the functionality of the user interface, we've touched on a lot of other areas of game design.
 
+在本章中，我们涉及了许多不同的领域。在关注用户界面功能的同时，我们也涉及了游戏设计的许多其他领域。
+
 This is not surprising in itself. The interface is the most important aspect of a computer game—it's the bottleneck between the player and the game world. It's the most important area of the game to get right. If anything goes wrong here, it doesn't matter what goodies you have hidden behind the interface. Your players won't even bother to go that far.
+
+这本身并不奇怪。界面是电脑游戏最重要的方面——它是玩家与游戏世界之间的瓶颈。它是游戏中最需要做好的地方。如果这里出了任何问题，不管你在界面后面藏了什么好东西都无济于事。你的玩家甚至都懒得走那么远。
