@@ -425,7 +425,7 @@ A concrete example: In the '80s, a renowned programmer of hit games produced a s
 
 In the late '90s, the programmer of this series was given an opportunity to produce an update of his classic soccer series for the PC and Sony PlayStation. Of course, in the meantime, the computerized soccer game interface had evolved, and certain interface features were considered standard (for example, autotargeted kicks, aftertouch, and autodribble). This meant that modern soccer games on the computer were less about controlling the ball, and more about the strategic flow of the game—more of "Are my players in the right formation to score a goal?" and less of "Argh! Where's the ball?".
 
-到了 90 年代末，该系列游戏的程序员有机会将其经典足球游戏系列升级到 PC 和索尼 PlayStation 上。当然，在此期间，电脑足球游戏界面已经发生了变化，某些界面功能已被视为标准配置（例如，自动瞄准踢球、触后控制和自动运球）。这意味着，现代电脑足球游戏不再那么注重控球，而是更注重游戏的策略流程——更注重“我的球员是否保持正确的阵型来进球？”而不是“啊！球在哪里？”。
+到了 90 年代末，该系列游戏的程序员有机会将其经典足球游戏系列更新到 PC 和索尼 PlayStation 上。当然，在此期间，电脑足球游戏界面已经发生了变化，某些界面功能已被视为标准配置（例如，自动瞄准踢球、触后控制和自动运球）。这意味着，现代电脑足球游戏不再那么注重控球，而是更注重游戏的策略流程——更注重“我的球员是否保持正确的阵型来进球？”而不是“啊！球在哪里？”。
 
 {% hint style="info" %}
 aftertouch，触后控制是一种技术，玩家能够操纵他们实际上无法控制的物体的路径，例如坠毁的汽车或者飞离脚的足球。
@@ -433,7 +433,11 @@ aftertouch，触后控制是一种技术，玩家能够操纵他们实际上无�
 
 The reasoning behind the programmer's new update was to eschew this namby-pamby "make it easy on the player" approach and take things back to the old days, where learning to control the ball was a player skill in its own right. Unfortunately, the game bombed. It was too difficult to learn, and too far behind the times. The original games were successful because they were state-of-the-art when they were released. Attempting to update the game without substantially updating the control interface to match modern standards was a bad idea from the start, appealing to no one except fans of the original games (most of whom had grown up and gone on to other things) or die-hard soccer freaks.
 
+这名程序员更新游戏的理论是摒弃这种“让玩家更轻松”的乏味做法，让游戏回到过去，让玩家学会控球本身就是一项技能。不幸的是，这款游戏惨败。它太难学了，也太落后于时代了。最初的游戏之所以成功，是因为它们在发布当时是最先进的。试图更新游戏而不对控制界面进行实质性更新以符合现代标准，从一开始就是个坏主意，除了原版游戏的粉丝（他们中的大多数已经长大成人并开始从事其他工作）或死硬派足球狂热分子外，没有人会喜欢。
+
 In order to be successful, a game has to be accessible to more than the hard-core fans. If your game is hotly anticipated (for example, if you happen to be writing Doom III), then more people will expend effort trying to learn it. If not, you had better make sure it's as accessible as possible. The best way to start is with the user interface.
+
+一款游戏要想取得成功，就必须让更多人接受，而不仅仅是铁杆粉丝。如果你的游戏备受期待（例如，你正在制作《毁灭战士 III》），那么就会有更多的人愿意费力去学习它。如果不是这样，你最好确保它尽可能容易上手。最好从用户界面入手。
 
 ### Hardware Considerations 硬件考量
 
