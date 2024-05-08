@@ -846,7 +846,7 @@ Initially, the player would usually be treated to a shockingly bad rendition of 
 
 Once the hardware capabilities increased, games began to include in-game music. This led us to where we are today, where literally every game is expected to have a CD-quality soundtrack. When deciding on a soundtrack for your game, make sure that it fits thematically with the rest of the game. For example, a pentatonic scale guitar composition might sit well with a medieval Japanese adventure game, but it would certainly sound out of place in a futuristic war game.
 
-随着硬件性能的提高，游戏开始加入游戏音乐。这就导致了我们今天的局面，几乎每款游戏都要有 CD 级别的配乐。在决定游戏配乐时，要确保配乐在主题上与游戏的其他部分相匹配。例如，五声音阶吉他曲可能与中世纪日式冒险游戏相得益彰，但在未来主义战争游戏中肯定会显得格格不入。
+随着硬件性能的提高，游戏开始加入游戏音乐。这使我们达到了今天的状态，即几乎每款游戏都要有 CD 级品质的配乐。在决定游戏配乐时，要确保配乐在主题上与游戏的其他部分相匹配。例如，五声音阶吉他曲可能与中世纪日式冒险游戏相得益彰，但在未来主义战争游戏中肯定会显得格格不入。
 
 Of course, discordance may be just the effect that you want to achieve. One of the most striking moments in the introductory movie for Starcraft was the use of classical opera as the audio backdrop, set against fierce battle scenes when the admirals calmly discussed the war situation as they prepared to abandon the men on the surface to their fate. The juxtaposition between the opulent calm of the admiral's bridge and the hell of war on the surface was accented excellently by the choice of music. Music is arguably capable of eliciting emotion more effectively than any other medium—and in this case, it worked well.
 
