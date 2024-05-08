@@ -840,9 +840,9 @@ No discussion of sound would be complete without a brief sojourn into the subjec
 
 在讨论声音问题时，如果不简要地谈谈音乐，那就不完整了。自从早期的声音芯片首次发出令人窒息的嗡嗡声以来，开发人员就一直试图在游戏中加入音乐（成功的程度不一）。
 
-Initially, the player would usually be treated to a shockingly bad rendition of a familiar tune on the title screen. The practice of using familiar tunes took a dive, however, when copyright lawyers for the music industry started sitting up and taking notice. That's when the rise of the computer musicians started. These guys specialized in making original music for games. Some, such as Rob Hubbard (www.robhubbard.co.uk), even achieved a substantial level of independent fame in their own right, solely through their game music. Some of the more extreme fans even bought games solely for the music.
+Initially, the player would usually be treated to a shockingly bad rendition of a familiar tune on the title screen. The practice of using familiar tunes took a dive, however, when copyright lawyers for the music industry started sitting up and taking notice. That's when the rise of the computer musicians started. These guys specialized in making original music for games. Some, such as Rob Hubbard ([www.robhubbard.co.uk](www.robhubbard.co.uk)), even achieved a substantial level of independent fame in their own right, solely through their game music. Some of the more extreme fans even bought games solely for the music.
 
-起初，玩家通常会在标题屏幕上看到一首熟悉曲调的糟糕演绎。然而，当音乐行业的版权律师开始注意到这一点时，使用熟悉曲调的做法便一落千丈。这时，电脑音乐家开始崛起。这些人专门为游戏制作原创音乐。有些人，如罗布·哈伯德（www.robhubbard.co.uk），甚至仅凭游戏音乐就获得了相当高的独立声誉。一些极端的游戏迷甚至只为游戏音乐而购买游戏。
+起初，玩家通常会在标题屏幕上看到一首熟悉曲调的糟糕演绎。然而，当音乐行业的版权律师开始注意到这一点时，使用熟悉曲调的做法便一落千丈。这时，电脑音乐家开始崛起。这些人专门为游戏制作原创音乐。有些人，如罗布·哈伯德（[www.robhubbard.co.uk](www.robhubbard.co.uk)），甚至仅凭游戏音乐就获得了相当高的独立声誉。一些极端的游戏迷甚至只为游戏音乐而购买游戏。
 
 Once the hardware capabilities increased, games began to include in-game music. This led us to where we are today, where literally every game is expected to have a CD-quality soundtrack. When deciding on a soundtrack for your game, make sure that it fits thematically with the rest of the game. For example, a pentatonic scale guitar composition might sit well with a medieval Japanese adventure game, but it would certainly sound out of place in a futuristic war game.
 
