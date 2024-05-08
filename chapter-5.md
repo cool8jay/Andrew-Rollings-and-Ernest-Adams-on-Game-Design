@@ -2,7 +2,7 @@ Using well-defined characters in games has been with us since the earliest days 
 
 自电脑游戏诞生之初，我们就开始在游戏中使用定义明确的角色，而且随着时间的推移，这些角色也变得越来越复杂。像早期街机游戏《枪战》（如图 5.1 所示）中的枪手那样，使用简单像素块的时代已经一去不复返了。最初，要在一个 32 像素高的单色角色形象中表现出真正的人物性格是相当困难的，但随着游戏硬件功能的不断增强，人物性格的问题变得越来越重要。需要注意的是，文字游戏在角色塑造方面不存在这样的问题（但图形方面并不重要）；影响这种特殊类型游戏的主要实际限制在于作者/设计者的技能。
 
-Figure 5.1. Gunfight. 图 5.1. 枪战
+Figure 5.1. Gunfight. 图 5.1. 《枪战》。
 
 ![](/.gitbook/assets/5.1.png)
 
@@ -56,7 +56,7 @@ Compared to fully grown animals, baby animals have large heads and eyes with res
 
 与成年动物相比，幼年动物的头部和眼睛相对于其体型都比较大。知识渊博的设计师可以利用这一点来创造“可爱吸引力”。通常，这种方法专门针对年轻玩家。针对年轻玩家，以性吸引力为目标的策略很可能会引起审查机构的注意，因此，在大多数情况下，这种设计都是被避免的。《超级猴子球》（如图 5.2 所示）采用了可爱的方式，效果很好。
 
-Figure 5.2. Super Monkey Ball. 图 5.2. 超级猴子球
+Figure 5.2. Super Monkey Ball. 图 5.2. 《超级猴子球》。
 
 ![](/.gitbook/assets/5.2.png)
 
@@ -80,13 +80,13 @@ Care must be taken with the super-sensuality approach to character design becaus
 
 在使用超感官体验方法进行角色设计时必须小心，因为它可能会产生严重的反向效果。我们相信你们中的一些人还记得大笨猫。大笨猫属于那个经常被遗忘（理应如此）的设计领域——设计市场驱动的“跟风”角色设计。在《大笨猫》诞生的时候，已经有不少以可爱角色为题材的游戏大获成功。最终的结果是，在千篇一律的劣质平台游戏中，出现了一个玩世不恭的“可爱”角色，就像《索尼克》一样。请注意，我们认为《索尼克》是一款出色的平台游戏——吸引人、关卡设计多样，且相对非暴力。而大笨猫系列游戏（见图 5.4）则是对它的苍白模仿，设计者并没有完全理解《索尼克》出色的原因。大笨猫这个角色本身并不足以吸引人，无法拯救这个系列。与此形成鲜明对比的是像《古惑狼》这样的游戏系列，后者游戏本身很好，角色也很吸引人。
 
-Figure 5.4. Bubsy the Bobcat. 图 5.4. 大笨猫。
+Figure 5.4. Bubsy the Bobcat. 图 5.4. 《大笨猫》。
 
 ![](/.gitbook/assets/5.4.png)
 
 Figure 5.5 shows a small selection of the virtually infinite variety of cute characters out there. 图 5.5 展示了几乎无穷无尽的可爱角色中的一小部分。
 
-Figure 5.5. A selection of cute characters. 图 5.5. 可爱角色选集
+Figure 5.5. A selection of cute characters. 图 5.5. 可爱角色选集。
 
 ![](/.gitbook/assets/5.5.png)
 
@@ -168,7 +168,7 @@ Even games that you would not expect to have fully developed characters can gain
 
 即使是那些你不会想到会有完整的角色的游戏，也可以通过加入角色来获得很多东西。请看图 5.8 所示的跨平台游戏《疾风滑雪》。这是一款注重角色发展的极限运动单板滑雪游戏。在整个游戏过程中，玩家可以结交朋友、培养对手并强化自己的角色。这种故事性元素的加入使游戏超越了单纯的体育游戏。玩家选择了喜欢的角色，并开始认同她。这让玩家更有身临其境的感觉——最重要的是，这不是预设的。玩家可以选择与谁交朋友，与谁作对，这确实会对游戏产生影响。可以肯定的是，任何与你为敌的人都会竭力破坏你的比赛——在终点线上也会有一些尖锐的言语交锋。
 
-Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》
+Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》。
 
 ![](/.gitbook/assets/5.8.png)
 
