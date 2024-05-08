@@ -647,6 +647,7 @@ A specific example of a game that handled complexity badly (by the designer's ow
 
 > "(Dungeon Keeper) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that Dungeon Keeper was a missed opportunity."
 > 《地下城守护者》教会了我在开始实施之前要更加努力地思考设计问题。它还教会了我如何不设计界面——复杂的界面意味着《地下城守护者》错失了良机”。
+> 
 > \- Peter Molyneux, designer of Dungeon Keeper
 > \- 皮特·莫利纽克斯，《地下城守护者》设计师
 
