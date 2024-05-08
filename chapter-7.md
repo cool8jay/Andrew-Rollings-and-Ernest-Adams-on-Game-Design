@@ -29,22 +29,22 @@ This chapter attempts to define gameplay without reference to itself or reliance
 
 Although we briefly discussed (and loosely defined) gameplay in [Chapter 2](chapter-2.md), "Game Concepts," we did so in terms of the player experience. To continue, we examine gameplay independent of the player experience. We examine the core concepts of gameplay, which are invariant with the player. To do this, we need to state a player-independent definition of gameplay. Sid Meier once defined gameplay as "a series of interesting choices." This is an excellent starting point and forms the basis of our definition of gameplay. We take this statement one step further with our formal definition of gameplay:
 
-尽管我们在[第二章](chapter-2.md) “游戏概念”中简要讨论了游戏性（并对其进行了松散的定义），但我们是在玩家体验的基础上进行讨论的。下面，我们将继续探讨独立于玩家体验的游戏性。我们将研究游戏性的核心概念，这些概念是与玩家无关的。为此，我们需要对游戏性下一个与玩家无关的定义。席德·梅尔曾将游戏性定义为“一系列有趣的选择”。这是一个很好的出发点，也是我们定义游戏性的基础。我们在此基础上更进一步，提出了游戏性的正式定义：
+尽管我们在[第二章](chapter-2.md)“游戏概念”中简要讨论了（并且粗略定义了）游戏性，但那是从玩家体验的角度出发的。下面，我们将继续探讨独立于玩家体验的游戏性。我们将研究游戏性的核心概念，这些概念是与玩家无关的。为此，我们需要对游戏性下一个与玩家无关的定义。席德·梅尔曾将游戏性定义为“一系列有趣的选择”。这是一个很好的出发点，也是我们定义游戏性的基础。我们在此基础上更进一步，提出了游戏性的正式定义：
 
 > One or more causally linked series of challenges in a simulated environment.
 > 模拟环境中一个或多个因果联系的系列挑战。
 
 On the surface, this does not seem that far removed from Sid Meier's original definition (although it's not quite as good of a sound bite). However, our statement is more precise and rigorous. To be fair, it's unlikely that Mr. Meier expected his original definition to be used for anything more than the off-the-cuff comment it was probably intended to be—a statement designed to challenge and spur further thinking on the subject. If this was the case, it certainly had its intended effect and served as an excellent starting point for our definition.
 
-从表面上看，这似乎与席德·梅尔最初的定义相去不远（虽然听起来不那么顺耳）。不过，我们的表述更加准确和严谨。平心而论，梅尔先生不太可能期望他最初的定义会被用于其他目的，而仅仅是随口一说——旨在挑战和激发对这一主题的进一步思考。如果是这样的话，那么它肯定达到了预期的效果，并为我们的定义提供了一个极好的起点。
+表面上看，这似乎与席德·梅尔最初的定义相去不远（虽然不如后者朗朗上口）。不过，我们的表述更加准确和严谨。平心而论，梅尔先生可能并未期望他最初的定义会被用于超出即兴评论之外的更多用途——那可能只是一个旨在挑战并激发对该主题进一步思考的陈述。如果事实如此，那么它无疑达到了预期的效果，并为我们的定义提供了一个极好的起点。
 
 In the original statement, the use of the word series implies a number of sequential events. Although these events follow one another chronologically, there is no implication that they can be linked. For example, lightning strikes tend to come in a rapid succession of bolts, but there is no evidence to suggest that the strike order is anything other than chance. Hence, we need to define specifically that our gameplay events are linked by causality. Note that we do not say anything about whether the multiple series are required to be interlinked. In most cases, they are—for example, the multiple plot threads in an adventure game—but this is not a specific requirement.
 
-在原文中，“系列”一词的使用意味着一系列相继发生的事件。虽然这些事件在时间上是相继发生的，但并不意味着它们之间存在联系。例如，闪电往往会接二连三地快速劈下，但没有证据表明劈下的顺序是偶然的。因此，我们需要明确定义我们的游戏事件之间存在因果关系。请注意，我们并没有说明多个系列是否必须相互关联。在大多数情况下，它们是相互关联的，例如冒险游戏中的多条情节线索，但这并不是一个具体的要求。
+在原文中，“系列”一词的暗示了一系列相继发生的事件。虽然这些事件在时间上是相继发生的，但并不意味着它们之间存在联系。例如，闪电往往会接二连三地快速劈下，但没有证据表明劈下的顺序不是偶然的。因此，我们需要明确定义我们的游戏事件之间存在因果关系。请注意，我们并没有说明多个系列是否必须相互关联。在大多数情况下，它们是相互关联的，例如冒险游戏中的多条情节线索，但这并不是一个具体的要求。
 
 The second half of the original definition uses the words "interesting choices." Although this is true, we feel that this is too broad of a definition. Choosing to visit the cinema, deciding what movie to watch, and thinking about whether to have caramel popcorn or salted popcorn is an example of a series of interesting choices, but it isn't an example of gameplay. So we replace this with "challenges in a simulated environment." The reason for the further restriction to a simulated environment should be self-evident: We stop playing when we quit the game.
 
-原始定义的后半部分使用了“有趣的选择”一词。虽然这是事实，但我们认为这个定义过于宽泛。选择去电影院、决定看什么电影、考虑是吃焦糖爆米花还是咸爆米花就是一系列有趣选择的例子，但这并不是游戏性的例子。因此，我们用“模拟环境中的挑战”来取代它。进一步限制在模拟环境中的原因不言自明：当我们退出游戏时，我们就停止了游戏。
+原始定义的后半部分使用了“有趣的选择”这一表述。虽然这确实没错，但我们认为这个定义过于宽泛。选择去电影院、决定看什么电影、考虑是吃焦糖爆米花还是咸味爆米花，这是一系列有趣选择的例子，但这并不是游戏性的例子。因此，我们用“模拟环境中的挑战”来取代它。进一步限制在模拟环境中的原因不言自明：当我们退出游戏时，我们就停止了游戏。
 
 Why are we using challenges in place of choices? Again, we feel that the word choices is too broad to be particularly useful. For example, we can make a decision to attempt to shoot the attacking robot, to avoid it, or to quit the game and play something else. All three of these are available choices, but only the first two are gameplay decisions. Consequently, we have chosen to use the word challenges because it more accurately describes the type of event that the player is subjected to.
 
