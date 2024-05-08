@@ -7,4 +7,5 @@
 * [Chapter 4. Storytelling and Narrative 讲故事与叙事](chapter-4.md)
 * [Chapter 5. Character Development 角色发展](chapter-5.md)
 * [Chapter 6. Creating the User Experience 创建用户体验](chapter-6.md)
+* [Chapter 7. Gameplay 游戏性](chapter-7.md)
 
