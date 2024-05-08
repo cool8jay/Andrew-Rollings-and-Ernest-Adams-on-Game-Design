@@ -34,7 +34,11 @@ Perhaps it's a dream of exploring a dungeon infested with monsters. Perhaps it's
 
 Books, movies, television, and other entertainment media are a great source of inspiration for game ideas. The game Interstate '76 (see Figure 2.1) was inspired by 1970s cop shows. Movies such as the James Bond series often inspire games. Any story containing an exciting action with something important at stake can form the kernel of a game. Think over the books you've read and the movies you've seen, and ask yourself whether any of the scenes in them could serve as the basis for a game.
 
-书籍、电影、电视和其他娱乐媒体是游戏创意的重要灵感来源。游戏《76号州际公路》（见图 2.1）的灵感就来自 20 世纪 70 年代的警察节目。《詹姆斯·邦德》系列等电影也经常给游戏带来灵感。任何包含精彩动作和重要事件的故事都可以成为游戏的内核。想想你读过的书和看过的电影，问问自己其中是否有场景可以作为游戏的基础。
+书籍、电影、电视和其他娱乐媒体是游戏创意的重要灵感来源。游戏《76 号州际公路》（见图 2.1）的灵感就来自 20 世纪 70 年代的警察节目。《詹姆斯·邦德》系列等电影也经常给游戏带来灵感。任何包含精彩动作和重要事件的故事都可以成为游戏的内核。想想你读过的书和看过的电影，问问自己其中是否有场景可以作为游戏的基础。
+
+Figure 2.1. Interstate '76 was a great game inspired by another medium. 图 2.1. 《76 号州际公路》是一款从另一种媒介中获得灵感的伟大游戏。
+
+![](.gitbook/assets/2.1.jpg)
 
 You can't, of course, go stealing other people's intellectual property. Even if the Pirates of the Caribbean ride at Disneyland seems like the basis for a great game, you can't go ahead and make it without Disney's approval. But you can certainly make a lighthearted game about pirates—as LucasArts did with its Monkey Island series.
 
