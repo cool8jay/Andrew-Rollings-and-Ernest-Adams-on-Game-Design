@@ -48,7 +48,7 @@ The second half of the original definition uses the words "interesting choices."
 
 Why are we using challenges in place of choices? Again, we feel that the word choices is too broad to be particularly useful. For example, we can make a decision to attempt to shoot the attacking robot, to avoid it, or to quit the game and play something else. All three of these are available choices, but only the first two are gameplay decisions. Consequently, we have chosen to use the word challenges because it more accurately describes the type of event that the player is subjected to.
 
-为什么用“挑战”代替“选择”？同样，我们认为“选择”这个词过于宽泛，并不实用。例如，我们可以决定射击攻击机器人、避开它或退出游戏玩别的。这三种选择都是可用的，但只有前两种是游戏决策。因此，我们选择使用“挑战”一词，因为它能更准确地描述玩家所面临的事件类型。
+为什么用“挑战”代替“选择”？同样，我们认为“选择”这个词过于宽泛，并不实用。例如，我们可以决定射击来袭的机器人、避开它或退出游戏玩别的。这三种选择都是可用的，但只有前两种是游戏决策。因此，我们选择使用“挑战”一词，因为它能更准确地描述玩家所面临的事件类型。
 
 Another example of a choice that is not directly a part of the gameplay is the prevalence of user-defined "skins" in games such as the Quake series and Half-Life. The player can choose any appearance, but it is purely a cosmetic choice and normally has little effect on gameplay (except when unscrupulous players use this to their advantage, either by deliberately choosing a skin that camouflages them too well—for example, in the extreme case, a moving, shooting crate—or by forcing all the opposing players to take on skins that make them more visible, such as pure white).
 
