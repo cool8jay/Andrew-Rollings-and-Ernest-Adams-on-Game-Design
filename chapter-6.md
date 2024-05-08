@@ -850,19 +850,19 @@ Once the hardware capabilities increased, games began to include in-game music. 
 
 Of course, discordance may be just the effect that you want to achieve. One of the most striking moments in the introductory movie for Starcraft was the use of classical opera as the audio backdrop, set against fierce battle scenes when the admirals calmly discussed the war situation as they prepared to abandon the men on the surface to their fate. The juxtaposition between the opulent calm of the admiral's bridge and the hell of war on the surface was accented excellently by the choice of music. Music is arguably capable of eliciting emotion more effectively than any other medium—and in this case, it worked well.
 
-当然，不和谐可能正是你想要达到的效果。在《星际争霸》的介绍影片中，最引人注目的时刻之一就是使用古典歌剧作为背景音乐，在激烈的战斗场面中，将领们冷静地讨论着战争形势，准备放弃地面上的士兵，让他们听天由命。将军舰桥的极端平静与地面上的战争地狱之间的并置，在音乐的选择上得到了很好的烘托。可以说，音乐比其他任何媒介都能更有效地唤起观众的情感，而在本片中，音乐也发挥了很好的作用。
+当然，不协调可能正是你想要达到的效果。在《星际争霸》的开场影片中，最引人注目的时刻之一就是使用古典歌剧作为背景音乐，与激烈的战斗场景形成对比，将领们冷静地讨论着战争局势，准备放弃地面上的士兵，让他们听天由命。将军舰桥的极端平静与地面上的战争地狱之间的对比，通过音乐的选择得到了出色的烘托。可以说，音乐比其他任何媒介都能更有效地唤起观众的情感，在这种情况下，它发挥了很好的作用。
 
 The music in the introductory movie for Starcraft was so effective because the mechanism was not overused. As a designer, you will want to give the player a musically appropriate experience the majority of the time. That way, when you bend the rules, it will have a greater impact on the emotions of the player. Of course, you won't be designing the music yourself—in most cases—but it is the designer's responsibility to tell the composer the effects and the emotions that the designer wants the player to be feeling by listening to the music.
 
-《星际争霸》介绍影片中的音乐之所以如此有效，是因为没有过度使用音乐机制。作为一名设计师，你希望在大多数时候都能给玩家带来与音乐相称的体验。这样，当你改变规则时，就会对玩家的情绪产生更大的影响。当然，在大多数情况下，你不会亲自设计音乐，但设计师有责任告诉作曲家，设计师希望玩家通过聆听音乐感受到什么效果和情绪。
+《星际争霸》开场影片中的音乐之所以如此有效，是因为没有过度使用音乐机制。作为一名设计师，你希望在大多数时候都能给玩家带来与音乐相称的体验。这样，当你改变规则时，就会对玩家的情绪产生更大的影响。当然，在大多数情况下，你不会亲自设计音乐，但设计师有责任告诉作曲家，设计师希望玩家通过聆听音乐感受到什么效果和情绪。
 
 Another holy grail of the industry (and there are many) is dynamically variable music, otherwise known as interactive music. This is a slight misnomer. We don't really need interactive music—what we need is adaptive music. The use of the word "interactive" implies an explicit two-way relationship: The player affects the music, and the music in turn explicitly affects the player. That's not what we'd want at all. Of course, the music may affect the player's emotions, which may in turn affect the way she plays, but that is just a secondary side effect and not the intended effect at all.
 
-该行业的另一个圣杯（有很多）是动态变化的音乐，又称互动音乐。这有点名不副实。我们并不真正需要交互式音乐，我们需要的是自适应音乐。使用“交互”一词意味着一种明确的双向关系：玩家影响音乐，音乐反过来明确影响玩家。这根本不是我们想要的。当然，音乐可能会影响玩家的情绪，进而影响她的游戏方式，但这只是次要的副作用，根本不是我们想要的效果。
+该行业的另一个圣杯（有很多）是动态变化的音乐，又称互动音乐。这有点用词不当。我们真正需要的并不是互动音乐，我们需要的是自适应音乐。使用“互动”一词意味着一种明确的双向关系：玩家影响音乐，音乐反过来明确影响玩家。这根本不是我们想要的。当然，音乐可能会影响玩家的情绪，进而影响她玩游戏的方式，但这只是次要的副作用，根本不是我们想要的效果。
 
 The aim of adaptive music is to play a constantly varying tune in the background, correctly anticipating the player's actions and upcoming game events so that the tune always accents the actions—similar to the way that music in a movie rises to a crescendo when an exciting or emotional climax is approaching.
 
-自适应音乐的目的是在背景中播放不断变化的曲调，正确预测玩家的操作和即将发生的游戏事件，使曲调始终与操作相呼应——就像电影中的音乐在激动人心或情感高潮即将来临时达到高潮一样。
+自适应音乐的目的是在背景中播放一个不断变化的曲调，正确预测玩家的操作和即将发生的游戏事件，使曲调始终与操作相呼应——类似于电影中的音乐在激动人心或情感高潮即将来临时达到高潮一样。
 
 So, is adaptive music the holy grail or merely fool's gold? After all, sound effects can do just as well at evoking mood, and in any nontrivial game (excepting those with "on-rails" gameplay), we don't know what's going to happen in the game. The algorithm for successfully predicting the future when an unpredictable element (the player) is involved hasn't been perfected yet. We think that adaptive music in its current limited capacity is (or more specifically, will become) a valuable tool, but as yet, it is not quite ready for the prime time.
 
@@ -899,7 +899,7 @@ fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际
 >   如果界面包含多步骤操作（如选择单位，然后给它们下达命令），请创建一个流程图，说明每一步会发生什么，以及是否（以及如何）中断或取消该序列。
 > 
 > 5. Does the gameplay require a pointing or steering device? Should these be analog, or will a D-pad suffice? What do they actually do in the context of the game?
->   游戏是否需要指向或转向设备？这些设备应该是模拟的，还是 D-pad 就足够了？它们在游戏中到底有什么作用？
+>   游戏是否需要指向或转向设备？这些设备应该是模拟的，还是十字方向键就足够了？它们在游戏中到底有什么作用？
 > 
 > 6. Does the function of one or more buttons on the controller change within a single gameplay mode? If so, are there visual cues to let the player know this is taking place?
 >   控制器上一个或多个按钮的功能是否会在单一游戏模式下发生变化？如果是，是否有视觉提示让玩家知道发生了变化？
@@ -911,7 +911,7 @@ fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际
 >   游戏的类型（如果有的话）是否有助于确定用户界面？玩家可能希望游戏遵循哪些已有的标准？你是否打算打破这些期望，如果是，你将如何告知玩家？
 > 
 > 9. Does the game include menus? What is the menu structure? Is it broad and shallow (quick to use, but hard to learn), or narrow and deep (easy to learn, but slow to use)?
->   游戏包括菜单吗？菜单结构是怎样的？是宽而浅（使用快，但学习难），还是窄而深（易学，但使用慢）？
+>   游戏包括菜单吗？菜单结构是怎样的？是宽而浅（用着快，但难学），还是窄而深（易学，但用着慢）？
 > 
 > 10. Does the game include text on the screen? If so, does it need provisions for localization?
 >   游戏是否在屏幕上显示文字？如果有，是否需要本地化？
