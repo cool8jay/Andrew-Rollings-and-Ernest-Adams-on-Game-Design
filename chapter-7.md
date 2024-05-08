@@ -52,15 +52,15 @@ Why are we using challenges in place of choices? Again, we feel that the word ch
 
 Another example of a choice that is not directly a part of the gameplay is the prevalence of user-defined "skins" in games such as the Quake series and Half-Life. The player can choose any appearance, but it is purely a cosmetic choice and normally has little effect on gameplay (except when unscrupulous players use this to their advantage, either by deliberately choosing a skin that camouflages them too well—for example, in the extreme case, a moving, shooting crate—or by forcing all the opposing players to take on skins that make them more visible, such as pure white).
 
-另一个不直接影响游戏性的选择是用户自定义“皮肤”在《雷神之锤》系列和《半条命》等游戏中的盛行。玩家可以选择任何外观，但这纯粹是一种外观上的选择，通常不会对游戏产生什么影响（除非不法玩家利用这一点为自己谋利，故意选择一种能很好地伪装自己的皮肤——例如，在极端的情况下，选择一个移动的、会射击的箱子——或者强迫所有敌对玩家穿上能让自己更显眼的皮肤，例如纯白色）。
+另一个不直接影响游戏性的选择是用户自定义“皮肤”在《雷神之锤》系列和《半条命》等游戏中的盛行。玩家可以选择任何外观，但这纯粹是一种外观上的选择，通常不会对游戏产生什么影响（除非不道德的玩家利用这一点为自己谋利，故意选择一种能很好地伪装自己的皮肤——例如，在极端的情况下，选择一个移动的、会射击的箱子——或者强迫所有敌对玩家穿上能让自己更显眼的皮肤，例如纯白色）。
 
 Odysseus faced many challenges on his 20-year voyage to return home to his wife, Penelope, in Homer's Odyssey. Gordon Freeman (and, by proxy, the player) faces many challenges on his quest to escape from the Black Mesa Research Laboratory in Valve's Half-Life. Tetris players face challenges in their attempts to attain a higher score. Even Pac-Man faces challenges in his attempts to eat all the pellets in the maze while avoiding the evil ghosts bent on his destruction.
 
-在荷马史诗《奥德赛》中，奥德修斯为了回到妻子珀涅罗珀身边，在长达 20 年的航行中面临着许多挑战。在 Valve 的《半条命》中，戈登·弗里曼（也就是玩家）在逃离黑梅萨研究实验室的过程中面临着许多挑战。《俄罗斯方块》的玩家在试图获得更高分的过程中也面临着挑战。就连《吃豆人》也面临着挑战，他既要吃掉迷宫中的所有颗粒，又要避开一心想要消灭他的恶鬼。
+在荷马史诗《奥德赛》中，奥德修斯为了回到妻子珀涅罗珀身边，在长达 20 年的航行中面临着许多挑战。在 Valve 的《半条命》中，戈登·弗里曼（也就是玩家）在逃离黑梅萨研究实验室的过程中面临着许多挑战。《俄罗斯方块》的玩家在试图获得更高分的过程中也面临着挑战。就连《吃豆人》也面临着挑战，他既要吃掉迷宫中的所有豆子，又要避开一心想要消灭他的恶鬼。
 
 The use of challenges is not perfect, but it'll do. An alternative to the use of the word challenges that we discussed in the past was ordeals, but this was found to be arguably too restrictive. Ideally, we'd like to use a word that indicates a concept somewhere between the two.
 
-使用“挑战”一词并不完美，但也可以。我们过去曾讨论过“磨难”这个词，但发现这个词的限制性太强。理想的情况是，我们希望使用一个表示介于两者之间的概念的词。
+使用“挑战”一词并不完美，但也还凑合。我们过去曾讨论过“磨难”这个词，但发现这个词的限制性太强。理想的情况是，我们希望使用一个表示介于两者之间的概念的词。
 
 ## Pure Challenges 纯挑战
 
