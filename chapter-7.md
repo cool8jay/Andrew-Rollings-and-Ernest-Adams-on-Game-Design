@@ -94,26 +94,36 @@ In the alien dimension, things take a turn for the worse—at least, in terms of
 
 Many types of challenges can be included in a game. In the majority of cases, these challenges are purely mental. In a few games, there is some degree of physical challenge, but this is usually understated—a simple test of reflexes or hand-eye coordination. In any case, they are localized to the hands and wrists.
 
-NOTE
+游戏中可以包含许多类型的挑战。在大多数情况下，这些挑战纯粹是智力上的。在少数游戏中，也有一定程度的体力挑战，但通常都很轻描淡写——只是简单的反应能力或手眼协调能力测试。无论如何，这些挑战都是针对手部和腕部的。
 
-A high-profile exception is the recent spate of Japanese dancing games, such as Dance Dance Revolution (see Figure 7.3), which provide the player with a pressure-sensitive mat. The mat allows the player to dance in time to the music and dancers onscreen—an interesting gameplay innovation, but one that is hardly likely to amount to anything other than an amusing diversion.
+> **NOTE 注意**
+> 
+> A high-profile exception is the recent spate of Japanese dancing games, such as Dance Dance Revolution (see Figure 7.3), which provide the player with a pressure-sensitive mat. The mat allows the player to dance in time to the music and dancers onscreen—an interesting gameplay innovation, but one that is hardly likely to amount to anything other than an amusing diversion.
+> 一个备受瞩目的例外是最近出现的一系列日本舞蹈游戏，如《劲舞革命》（见图 7.3），这些游戏为玩家提供了一个压力感应垫。玩家可以在垫子上随着屏幕上的音乐和舞者的节奏起舞——这是一种有趣的游戏玩法创新，但除了能消遣之外，很难起到其他作用。
 
-Figure 7.3. Dance Dance Revolution.
+Figure 7.3. Dance Dance Revolution. 图 7.3. 《劲舞革命》。
 
 graphics/07fig03.jpg
 
-
 A game can contain many challenges of each different type. To save us the insanity of trying to analyze the challenge content of a whole slew of games and concluding that they all have all the challenge types, it will serve our purpose to define two classes of challenge: implicit and explicit.
+
+一个游戏可以包含许多不同类型的挑战。为了避免试图分析一大堆游戏的挑战内容，并得出它们都包含所有挑战类型的疯狂尝试，我们将定义两种挑战类别：隐性和显性。
 
 An explicit challenge is an intentional challenge specifically designed by the game designer. An example is the exact timing required to dodge the swinging pendulums in Quake III Arena (see Figure 7.4). This kind of challenge tends to be more immediate and intense than an implicit challenge.
 
-Figure 7.4. Quake III Arena.
+显性挑战是游戏设计者专门设计的有意挑战。例如，在《雷神之锤 III 竞技场》中，躲避摆动的钟摆需要准确把握时机（见图 7.4）。这种挑战往往比隐性挑战更直接、更激烈。
+
+Figure 7.4. Quake III Arena. 图 7.4. 《雷神之锤 III 竞技场》
 
 graphics/07fig04.gif
 
 An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as Black Isle's Baldur's Gate. Implicit challenges tend to be more drawn out and less focused than explicit challenges.
 
+隐性挑战是指并非专门设计在内的挑战；换句话说，它是游戏设计中出现的衍生特性。隐性挑战的一个例子是在像黑岛工作室的《博德之门》这样的传统电脑角色扮演游戏（CRPG）中，找出将物品在团队成员之间分配的最有效率的方式。隐性挑战往往比显性挑战更加持久且不那么集中。
+
 Having stated that the challenges present in games are mostly mental, let us take a closer look at the many forms these challenges can take. It's important to note that the following sections describe pure archetypal challenges; that is, they can be categorized as a simple challenge type, such as logic-based or reaction time-based. Not all challenges can be categorized so easily: The "challenge space" is not populated by a set of discrete points representing the archetypal pure challenge types, but instead is a smoothly varying continuum. Challenges can be hybridized (for example, a logic-based puzzle requiring a fast reaction time) and rarely—if at all—appear in their pure form.
+
+在说明了游戏中的挑战主要是智力上的挑战之后，让我们来仔细看看这些挑战的多种形式。需要注意的是，以下部分描述的是纯粹的原型挑战；也就是说，它们可以被归类为一种简单的挑战类型，如基于逻辑的挑战或基于反应时间的挑战。并非所有挑战都能如此简单地归类：“挑战空间”并不是由一组离散的点组成的，这些点代表纯粹的原型挑战类型，而是一个平滑变化的连续体。挑战可以是混合型的（例如，需要快速反应的逻辑谜题），很少以纯挑战的形式出现。
 
 ### Logic and Inference Challenges 逻辑和推理挑战
 
