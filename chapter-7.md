@@ -74,7 +74,7 @@ Challenges come in many shapes and forms. Even within a genre, a good game prese
 
 An example is the inclusion of a fast-action, reflex-based arcade sequence in a traditional adventure game such as Escape from Monkey Island (see Figure 7.1). Handled properly, this can enhance the gameplay, giving a welcome break from the usual action. Handled badly, it can break the player's suspension of disbelief and effectively ruin the game.
 
-例如，在《逃离猴岛》（见图 7.1）等传统冒险游戏中加入快速动作、基于反射的街机程序。如果处理得当，这可以增强游戏的可玩性，让玩家从通常的动作游戏中解脱出来。如果处理不当，就会打破玩家的信任感，从而毁掉游戏。
+例如，在《逃离猴岛》（见图 7.1）等传统冒险游戏中加入快速动作、基于反射的街机序列。如果处理得当，这可以增强游戏的可玩性，让玩家从通常的动作游戏中解脱出来。如果处理不当，就会打破玩家的信任感，从而毁掉游戏。
 
 Figure 7.1. Escape from Monkey Island. 图 7.1. 《逃离猴岛》。
 
@@ -82,11 +82,15 @@ graphics/07fig01.gif
 
 A more concrete example of this phenomenon is found in Valve's Half-Life (see Figure 7.2), an excellent game that has rightly won many awards for its original and innovative gameplay and story line. (However, I also need to point out that the story line is excellent only when compared to other games within the same genre; it wouldn't be a best-selling novel or a blockbuster movie.) For the most part, playing Half-Life is a joy. In the first two thirds of the game, the sense of immersion and of actually being there as Gordon Freeman is unparalleled. You can imagine yourself squeezing through the confining corridors of the Black Mesa Research Laboratory out in the middle of the desert, avoiding the unwanted attentions of both vicious aliens out for blood and hostile government troops sent in to clean up the transdimensional mess. Then, as the story reaches the first climax point, you are catapulted into the alien dimension to take the battle into their territory.
 
-Figure 7.2. Half-Life.
+Valve 的《半条命》（见图 7.2）就是这种现象的一个更具体的例子，这款优秀的游戏因其独创性和创新性的游戏玩法和故事情节而理所当然地赢得了许多奖项。(不过，我还需要指出的是，只有与同类型的其他游戏相比，该游戏的故事情节才算得上是优秀的；它不可能成为畅销小说或影片）。在大多数情况下，玩《半条命》是一种享受。在游戏的前三分之二时间里，戈登·弗里曼的沉浸感和身临其境的感觉是无与伦比的。你可以想象自己在沙漠中央的黑梅萨研究实验室狭窄的走廊里挤来挤去，既要躲避穷凶极恶的外星人的追杀，又要躲避被派来收拾跨次元烂摊子的敌对政府军的骚扰。然后，当故事发展到第一个高潮点时，你被弹射到外星人空间，进入他们的领地展开战斗。
+
+Figure 7.2. Half-Life. 图 7.2. 《半条命》。
 
 graphics/07fig02.gif
 
 In the alien dimension, things take a turn for the worse—at least, in terms of gameplay. Although it's not a game breaker by any means, the story line experiences a significant lull here. Initially, Gordon is required to jump from platform to platform in a sub-Mario platform game style. This abrupt change in the gameplay is a showstopper as far as the suspension of disbelief, which the designers had worked so hard to cultivate, is concerned. And as if that didn't deal enough of a blow, the subsequent levels are practically straight out of the original Quake, culminating in a showdown with the big, bad, end-of-game boss. Now, we don't mean to be unduly harsh on an otherwise excellent game, but the last third of the game is a real letdown in gameplay terms. All of the innovative and exciting features of the Black Mesa levels were replaced with a standard first-person jump'n'shooter. Even with the benefit of the intriguing and imaginative end sequence, the damage is done by this point: The suspension of disbelief is shattered and the player is left feeling somehow cheated. The inclusion of the platform-based level followed by the standard first-person fare is a classic nonsequitur that affects the enjoyment of the game.
+
+在外星人空间中，情况急转直下——至少在游戏性方面是这样。虽然这绝不是一款破坏游戏的游戏，但故事线在这里经历了明显的停滞。一开始，戈登需要从一个平台跳到另一个平台，游戏风格近似于马里奥平台跳跃游戏。游戏玩法的这种突然改变，让设计者费尽心思培养信任感荡然无存。如果说这还不够打击玩家的话，那么接下来的关卡几乎就是原版《雷神之锤》的翻版，最后还要与游戏末尾的大坏蛋一决高下。现在，我们并不想过分苛责这款出色的游戏，但游戏的最后三分之一在游戏性方面确实令人失望。黑梅萨关卡中所有令人兴奋的创新功能都被标准的第一人称跳跃射击游戏所取代。即使有引人入胜、充满想象力的结尾部分，但到了这一步破坏已经造成：玩家的信任感被打破了，感觉被欺骗了。在标准的第一人称关卡之后加入平台跳跃关卡，是影响游戏乐趣的典型不合理做法。
 
 Many types of challenges can be included in a game. In the majority of cases, these challenges are purely mental. In a few games, there is some degree of physical challenge, but this is usually understated—a simple test of reflexes or hand-eye coordination. In any case, they are localized to the hands and wrists.
 
