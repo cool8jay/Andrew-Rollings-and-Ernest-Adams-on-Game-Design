@@ -129,61 +129,93 @@ Having stated that the challenges present in games are mostly mental, let us tak
 
 Logic and inference challenges test the ability of the player to assimilate information and use that information to decide upon the best course of action.
 
+逻辑和推理挑战考验的是选手吸收信息并利用这些信息决定最佳行动方案的能力。
+
 Logic is primarily used when the player is presented with perfect information, as in chess. In classical game theory, there are two broad classes of game: those of perfect information, with the complete state of play known to each player at all times, and those of imperfect information, with each player knowing only a fraction of the state of play (and not necessarily the same fraction for each player). For example, chess is a game of perfect information because the player is at all times aware of the state of the board and the position of all the pieces—both his own and his opponent's. Theoretically, given enough time and processing power, it is possible to analyze the game of chess to produce a perfect strategy. A perfect strategy is one that yields the maximum benefit to the player at all times. In the case of chess, this means that a user of that strategy would never lose. Of course, with the number of possible permutations of the chessboard and the move sequences, it would be beyond any human to blindly commit that strategy to memory, just as it is currently beyond any computer to calculate it.
+
+逻辑主要用于玩家面临完全信息的情况，如国际象棋。在经典博弈论中，有两大类博弈：一类是完全信息博弈，即每个棋手在任何时候都知道完整的棋局状态；另一类是不完全信息博弈，即每个棋手只知道部分棋局状态（而且每个棋手知道的部分不一定相同）。例如，国际象棋是一种完全信息游戏，因为棋手在任何时候都知道棋盘的状态和所有棋子的位置，包括自己和对手的棋子。从理论上讲，只要有足够的时间和处理能力，就有可能通过分析国际象棋游戏得出一个完美的策略。所谓完美策略，就是在任何时候都能为棋手带来最大利益的策略。就国际象棋而言，这意味着该策略的使用者永远不会输。当然，由于棋盘和棋步序列的可能排列组合数量众多，人类无法盲目地将该策略记入记忆，就像目前任何计算机都无法计算出该策略一样。
 
 When played in its puzzle mode, Chu Chu Rocket (see Figure 7.5), by Sega, is an example of a game of perfect information. The player is given a clearly defined win condition, a known playing field, and a known set of pieces to lay on that playing field. Hence, the player has perfect information. Knowing the rules governing the cat and mouse movement allows the player to predict (a pattern-recognition challenge) the paths of the cat and the mice and to place the playing pieces accordingly. Then the game is started and the results can be seen. If the win condition is not met, the player can replay the level.
 
-Figure 7.5. Chu Chu Rocket.
+世嘉出品的《咻咻火箭》（见图 7.5）在解谜模式下是一个完全信息游戏的范例。玩家可以得到一个明确的获胜条件、一个已知的游戏场地和一组已知的棋子。因此，玩家拥有完美的信息。知道了猫和老鼠的移动规则，玩家就可以预测猫和老鼠的移动路径（这是一项模式识别挑战），并据此摆放棋子。然后开始游戏并查看结果。如果没有达到获胜条件，玩家可以重新玩这一关。
+
+Figure 7.5. Chu Chu Rocket. 图 7.5. 《咻咻火箭》。
 
 graphics/07fig05.jpg
 
 In games of imperfect information, logic is not sufficient. Logic cannot fully operate given an incomplete knowledge of the state of play. In these cases, the gaps in that knowledge must be filled using inference. In this context, inference is the ability to surmise, or guess, the incomplete knowledge based on extrapolation of the existing facts.
 
+在不完全信息博弈中，逻辑是不够的。在不完全了解游戏状态的情况下，逻辑无法完全发挥作用。在这种情况下，必须通过推理来填补知识空白。在这种情况下，推理就是根据现有事实推断或猜测不完整知识的能力。
+
 Microsoft Hearts (see Figure 7.6) is an example of a game of imperfect information. Initially, you do not know the contents of the hands of the other players, but a skilled player can work them out to a reasonable degree of certainty by using the information revealed by which cards are passed and what tricks are laid during the course of the game.
 
-Figure 7.6. Microsoft Hearts.
+微软的《红心大战》（见图 7.6）就是一个不完全信息游戏的例子。一开始，你并不知道其他玩家手中的牌的内容，但是熟练的玩家可以通过游戏过程中通过哪些牌被跳过和出了哪些组合牌所透露的信息，将其推测出合理的确定程度。
+
+Figure 7.6. Microsoft Hearts. 见图 7.6. 微软的《红心大战》
 
 graphics/07fig06.gif
 
 Bridge is another classic example of a game of imperfect information. A player does not know the contents of his partner's or his opponents' hands. He must use his knowl edge of the game to calculate the best estimate during the course of the game.
 
+桥牌是另一个信息不完全游戏的典型例子。玩家不知道同伴或对手手中的牌。他必须利用自己对游戏的了解，在游戏过程中计算出最佳估计。
+
 The classic real-time strategy game staple, the "fog of war" shown in Figure 7.7, is a way of graphically representing imperfect information of a battlefield. The player can see only enemy units that are within the line of sight of any of his units. When an enemy unit goes into the fog of war (usually represented by a grayed-out area as the terrain was last seen, or a black area where the terrain has never been seen), the player can estimate where his enemies are and, based on his knowledge of the battlefield, attempt to draw conclusions about their intentions and plan his counterattack against them.
 
-Figure 7.7. The fog of war (right side of screen) in Warcraft II.
+图 7.7 所示的“战争迷雾”是经典即时战略游戏的主要元素，它以图形的方式表现了战场的不完全信息。玩家只能看到在自己单位视线范围内的敌方单位。当敌方单位进入“战争迷雾”通常以灰色区域表示最后看到的地形，或黑色区域表示从未见过的地形）时，玩家可以估计敌人的位置，并根据自己对战场的了解，尝试得出敌人意图的结论，并计划对其进行反击。
+
+Figure 7.7. The fog of war (right side of screen) in Warcraft II. 图 7.7. 《魔兽争霸 II》中的战争迷雾（屏幕右侧）。
 
 graphics/07fig07.gif
 
 Games of imperfect knowledge are much more common than games of perfect knowledge. This is because one of the key elements of gameplay is challenging the player to hypothesize about the game worlds, forming her own internal picture. The degree to which this picture matches the real thing depends very much on the logic and inference skills of the player. It is much harder to design a good game without the element of mystery. Only a few designers can achieve this with any degree of success. Mystery can be viewed as the easy way out. There is no better way to hook a player than to get her involved in a compelling mystery story. Human curiosity is a very strong attractor, and any game that successfully taps into this provides a strong gameplay element. Half-Life did this extremely well, putting the player in the role of a new scientist trying to escape after a hideous cross-dimensional experimental error at his first day of work.
 
+不完全信息游戏比完全信息游戏更为常见。这是因为游戏的关键要素之一是挑战玩家对游戏世界的假设，形成自己的内部图景。这个图景与真实情况的吻合程度在很大程度上取决于玩家的逻辑和推理能力。设计一款没有神秘元素的好游戏要难得多。只有少数设计者能成功地做到这一点。神秘感可以被视为一种简单的方法。吸引玩家的最好方法莫过于让她参与到一个引人入胜的神秘故事中。人类的好奇心是一种非常强大的吸引力，任何游戏只要能成功地利用这一点，就能提供强大的游戏元素。《半条命》在这方面做得非常好，它让玩家扮演一名新科学家，试图在上班的第一天就因为一次可怕的跨维度实验错误而逃脱。
+
 One problem with games of perfect information is that, because of the difficulty of designing an engaging playing experience without hiding anything from the player, they tend to be very simple. Usually, they are implemented as computer board games or simple arcade games. Archon (see Figure 7.8) is an excellent example of a computerized board game that was popular in the 1980s.
 
-Figure 7.8. Archon.
+完全信息游戏的一个问题是，由于很难在不向玩家隐瞒任何信息的情况下设计出引人入胜的游戏体验，因此它们往往非常简单。通常，它们都是以电脑棋盘游戏或简单的街机游戏的形式来实现的。《执政官》（见图 7.8）就是 1980 年代流行的电脑棋盘游戏的一个很好的例子。
+
+Figure 7.8. Archon. 图 7.8. 《执政官》。
 
 graphics/07fig08.gif
 
 In Archon (and its sequels), the whole board was visible on the screen, and both players had full knowledge of the game state. In many ways, Archon was a computer-age successor to chess, combining elements of board-game strategy and arcade action in a single game.
 
-Lateral-Thinking Challenges
+在《执政官》（及其续集）中，整个棋盘都可以在屏幕上看到，双方都能完全了解游戏状态。在许多方面，《执政官》都是国际象棋在计算机时代的继承者，它将棋盘游戏的策略元素和街机游戏的动作元素融合在一款游戏中。
+
+### Lateral-Thinking Challenges 横向思维挑战
 
 In some ways, lateral-thinking challenges are an extension of inference challenges. Certainly, they draw on the same core skills, but taken to the extreme. A lateral-thinking challenge tasks the player to draw on her previous experience and knowledge and combine them in a new and unexpected way.
 
+在某些方面，横向思维挑战是推理挑战的延伸。当然，它们利用了相同的核心技能，但却达到了极致。横向思维挑战的任务是让玩家利用以前的经验和知识，以一种新的、意想不到的方式将它们结合起来。
+
 This knowledge can be intrinsic or extrinsic. Intrinsic means that the knowledge was gained from within the game world—for example, figuring out a new combination of runes to cast a previously unknown spell, as was the case with the "flux cage" in FTL's Dungeon Master (see Figure 7.9). If the player figured out the meaning of the runes, it was possible to figure out roughly what purpose the unknown spell had, and the player needed to do that to win the game. No knowledge gained outside the game would have helped to figure out that particular problem (unless the player looked up the answer in a game magazine or on the Internet, but that's cheating).
 
-Figure 7.9. Dungeon Master.
+这些知识可以是内在的，也可以是外在的。内在知识指的是玩家从游戏世界中获得的知识——例如，找出新的符文组合来施放以前未知的咒语，就像FTL的《迷宫魔兽》中的“通量牢笼”一样（见图 7.9）。如果玩家弄懂了符文的含义，就有可能大致猜出未知咒语的用途，而玩家需要做到这一点才能赢得游戏。在游戏之外获得的任何知识都无助于解决这个问题（除非玩家在游戏杂志或互联网上找到答案，但那是作弊）。
+
+Figure 7.9. Dungeon Master. 图 7.9. 《迷宫魔兽》
 
 graphics/07fig09.jpg
 
 The converse of intrinsic knowledge is extrinsic knowledge. This means knowledge that was gained outside the game world, perhaps in real life. For example, a player could use his knowledge that wood floats to retrieve a key attached to a wooden block just beyond his reach at the bottom of a narrow container by filling the container with water. Or, for an example from a published role-playing game written many years ago by Dave Morris (co-author of Game Architecture and Design by New Riders Publishing, 2004), the player could use her knowledge that repeated rapid heating and cooling of a metal object causes it to become brittle. This was the required technique to break through a metal door, otherwise impervious to both weapons and magic. Of course, the player wasn't dropped into this situation unprepared. There were clues to guide the player toward this solution.
 
+与内在知识相对应的是外在知识。这是指在游戏世界之外获得的知识，也许是在现实生活中获得的知识。例如，玩家可以利用木头会漂浮的知识，在狭窄的容器底部注满水，捞起木块上的钥匙。或者，以戴夫·莫里斯（《游戏架构与设计》合著者之一，新骑士出版社，2004 年）多年前出版的一款角色扮演游戏为例，玩家可以利用金属物体反复快速加热和冷却会变脆的知识。这就是攻破金属门所需的技术，否则金属门是无法被武器和魔法攻破的。当然，玩家并不是在毫无准备的情况下被丢到这里的。有一些线索可以引导玩家找到解决办法。
+
 Half-Life made great use of extrinsic knowledge-based lateral-thinking problems. In one particularly memorable sequence, the player had to figure out that the giant tentacled monster was sensitive to sound and then could use that as a detection mechanism, necessitating extreme stealth or noisy diversionary tactics in its presence. Not only that, but the player also had to make the mental connection between the oxygen and fuel pipes running throughout the level and the ominous rocket poised directly over the seemingly invincible tentacle. There are many other such puzzles in Half-Life, but these are particularly notable (and ingenious) examples.
+
+《半条命》大量使用了基于外在知识的横向思维问题。在一个特别令人难忘的情节中，玩家必须弄明白巨型触手怪对声音很敏感，然后可以利用声音作为一种探测机制，在它出现时必须采取极端的隐身或嘈杂的声东击西战术。不仅如此，玩家还必须将贯穿整个关卡的氧气和燃料管道与直接位于看似无敌的触手上方的不祥火箭联系起来。《半条命》中还有许多其他类似的谜题，但这些都是特别显著（和巧妙）的例子。
 
 ### Memory Challenges 记忆挑战
 
 Memory challenges tax the player's memory of recent (and sometimes not so recent) game events. They are also purely intrinsic. That is to say, they rely specifically on the player's memory of events that have happened in the context of the game and do not rely on, for example, the player's memory of what he had for dinner a week ago.
 
+记忆挑战考验的是玩家对近期（有时是不太近期）游戏事件的记忆。它们也是纯粹的内在挑战。也就是说，它们完全依赖于玩家对游戏中发生的事件的记忆，而不是依赖于玩家对一周前晚餐吃了什么的记忆。
+
 Probably the best-known and most obvious example of a game based around a memory challenge is Milton Bradley's Simon (see Figure 7.10), a simplified electronic version of the classic children's game Simon Says. This game was very popular back in the 1980s. It had four buttons, colored red, yellow, green, and blue. When the player started a game, the computer flashed the buttons in a random sequence, although usually the game started with a single flash. After each sequence, the player had to repeat the sequence. If successful, the computer repeated the sequence again, adding one flash each time. The game was lost if the player made a mistake remembering the sequence. Many games—in particular, adventure games, role-playing games, and first-person shooters—make use of this particular memory-based challenge.
 
-Figure 7.10. Simon.
+米尔顿·布拉德利公司的“西蒙”（见图 7.10）可能是最著名、最明显的以记忆挑战为基础的游戏，它是经典儿童游戏“西蒙说”的简化电子版。这款游戏在 20 世纪 80 年代非常流行。它有红、黄、绿、蓝四个按钮。当玩家开始游戏时，电脑会按随机顺序闪烁按钮，但通常游戏开始时只闪烁一次。每次闪光后，玩家必须重复闪光顺序。如果成功，电脑会再次重复该序列，每次增加一个闪光。如果玩家记错了顺序，游戏就失败了。许多游戏，尤其是冒险游戏、角色扮演游戏和第一人称射击游戏，都采用了这种基于记忆的特殊挑战。
+
+Figure 7.10. Simon. 图 7.10. 西蒙。
 
 graphics/07fig10.jpg
 

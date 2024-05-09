@@ -399,7 +399,7 @@ For example, an ally or mentor could turn out to be a trickster or a shadow. A c
 
 An example of this archetype from classic literature is the evil queen in Snow White . She appears to Snow White as an ally and mentor (the wizened old woman with the apples) before revealing herself to be a shadow and a trickster when Snow White is poisoned. An example from a game is the White Lord from the old role-playing game Dungeon Master . The White Lord initially acts as a mentor/herald, tasking the adventurers to enter a dungeon and seek out and destroy the Black Lord. If they achieve this, then upon return to the surface, the White Lord declares that they have been tainted by the evil of the dungeon and attempts to destroy them (becoming a shadow).
 
-经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的阴影和诡计。游戏中的一个例子是老式角色扮演游戏《地下城主》中的白魔王。白魔王最初扮演导师/预言家的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（变成了阴影）。
+经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的阴影和诡计。游戏中的一个例子是老式角色扮演游戏《迷宫魔兽》中的白魔王。白魔王最初扮演导师/预言家的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（变成了阴影）。
 
 ### Threshold Guardian 门槛守护者
 
