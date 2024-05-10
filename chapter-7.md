@@ -330,7 +330,11 @@ In the early days of computer games, patterns were a lot more prevalent (or, at 
 
 Slightly more advanced use of pattern recognition is evident in many games that involved exploration. For example, in Doom, secret doorways could be found by searching for an area of wall that looked slightly different from the norm. Also, games such as the previously mentioned Dungeon Master relied on pattern-recognition challenges for the player to decipher the complex systems of runes governing spells and spell casting.
 
+在许多涉及探索的游戏中，模式识别技术的应用略显先进。例如，在《毁灭战士》（Doom）中，玩家可以通过搜索墙壁上看起来与常规略有不同的区域来找到秘密通道。此外，前面提到的《地牢大师》等游戏也是依靠模式识别挑战玩家来破解由符文组成的复杂法术和施法系统。
+
 Platform games, such as the Mario series of games, often rely on pattern-recognition challenges quite heavily. Not only are the levels carefully scripted to be a repeatable (hence, learnable) experience, but the end-of-level bosses also tend to behave according to a certain pattern. Thus, in Super Mario Advance, you can defeat one of the end-of-level baddies by carefully counting how many flaming spit wads she ejects and then attacking in the interim. In this case, the pattern-recognition challenge is used to make the game more manageable. It is difficult enough to manipulate the player avatar on the platforms (an example of coordination, spatial awareness, and reflex/reaction time challenges), but trying to handle unpredictable enemies on top of this would detract from the gameplay. This is an example in which two distinct challenge types work together synergistically to improve the gameplay potential. The whole is more than the sum of the parts.
+
+平台游戏，如马里奥系列游戏，通常也非常依赖模式识别挑战。不仅关卡经过精心编排，让玩家可以重复体验（因此可以学习），而且关卡末尾的 BOSS 也往往按照一定的模式行事。因此，在《超级马里奥前进版》中，你可以通过仔细计算她喷出多少火焰吐珠，然后在此期间进行攻击，从而打败其中一个关卡末尾的坏蛋。在这种情况下，模式识别挑战是为了让游戏更易于操作。在平台上操纵玩家头像已经够困难了（这是协调、空间意识和反应时间挑战的一个例子），如果还要在此基础上处理不可预知的敌人，游戏的可玩性就会大打折扣。这就是两种不同挑战类型协同合作，提高游戏潜力的一个例子。整体大于部分之和。
 
 ### Moral Challenges 道德挑战
 
