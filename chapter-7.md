@@ -226,7 +226,7 @@ Nowadays, memory-based challenges are commonly seen in children's software, and 
 
 In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in Raven's Voyager: Elite Force is an example of an implicit memory challenge.
 
-事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在《渡鸦的航海家：精英力量》中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
+事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在渡鸦公司的《航海家：精英力量》中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
 
 ### Intelligence-Based Challenges 基于智力的挑战
 
@@ -340,7 +340,7 @@ Platform games, such as the Mario series of games, often rely on pattern-recogni
 
 A moral challenge is a high-level challenge that can operate at several levels. Without delving too deeply into the field of metaethics, we can define these levels as universal, cultural, tribal, and personal. These levels are ordered from the all-encompassing to the specific. Each successive level affects a smaller moral area than the previous one. Usually, the lower levels have precedence, but that is not always the case.
 
-道德挑战是一种高层次的挑战，可以在多个层面上发挥作用。在不深入研究元伦理学的前提下，我们可以将这些层次定义为普遍、文化、部落和个人。这些层次的顺序是从全面到具体。每一个层级所影响的道德领域都小于前一个层级。通常情况下，较低层次的道德规范具有优先权，但情况并非总是如此。
+道德挑战是一种高层次的挑战，可以在多个层面上发挥作用。在不深入研究元伦理学的前提下，我们可以将这些层次定义为普遍、文化、群落和个人。这些层次的顺序是从全面到具体。每一个层级所影响的道德领域都小于前一个层级。通常情况下，较低层次的道德规范具有优先权，但情况并非总是如此。
 
 Let us assume that there are no absolutes in morality. This implies that it is fundamentally incorrect to say that there is a definite right or wrong answer to a moral challenge; so much depends on context, emotional state, and past experience that an answer that might be correct for one individual would be totally wrong for another. An example: It is wrong to steal. But is it wrong to steal food if the only alternative is to starve? The answer to this depends on the individual.
 
@@ -348,11 +348,11 @@ Let us assume that there are no absolutes in morality. This implies that it is f
 
 But how does this example apply to games? In many games, the player is asked to make such choices. Raven's Voyager: Elite Force presents such a moral challenge early in the game: Should you save your teammate from the Borg and go against the captain's orders, jeopardizing the success of the mission?
 
-但这个例子如何适用于游戏呢？在许多游戏中，玩家都需要做出这样的选择。乌鸦的航海家》（Raven's Voyager： 精英部队》在游戏初期就提出了这样的道德挑战： 你是否应该从博格人手中救出你的队友，违背船长的命令，从而危及任务的成功？
+但这个例子如何应用于游戏呢？在许多游戏中，玩家都需要做出这样的选择。渡鸦公司的《航海家：精英力量》在游戏初期就提出了这样的道德挑战：你是否应该从博格人手中救出你的队友，哪怕这会违背船长的命令，甚至危及任务的成功？
 
 We examine examples of the various forms that moral challenges can take in more detail. Before we can do this, however, we need to further define our various levels of moral challenge. Note that this is subjective: Exactly what defines the differences among universal, cultural, and tribal designations depends on context and the personal views of the observer. In the case of game design, it means that our definitions directly depend on the scope of the game. For example, a game set in America (with no mention of the rest of the world) would treat the whole of America as the universe. From here, the divisions of cultural and tribal entities would depend entirely on the game designers. They are under no compulsion to stick to reality—after all, it is their game.
 
-我们将更详细地举例说明道德挑战的各种形式。不过，在此之前，我们需要进一步明确道德挑战的各种等级。请注意，这是主观的： 究竟是什么定义了普遍、文化和部落定义之间的差异，这取决于环境和观察者的个人观点。就游戏设计而言，这意味着我们的定义直接取决于游戏的范围。例如，一款以美国为背景的游戏（未提及世界其他地区）会将整个美国视为宇宙。从这里开始，文化和部落实体的划分将完全取决于游戏设计者。游戏设计者并不强迫游戏贴近现实，毕竟这是他们的游戏。
+我们将更详细地举例说明道德挑战的各种形式。不过，在此之前，我们需要进一步明确道德挑战的各种等级。请注意，这是主观的：究竟是什么定义了普遍、文化和群落定义之间的差异，这取决于环境和观察者的个人观点。就游戏设计而言，这意味着我们的定义直接取决于游戏的范围。例如，一款以美国为背景的游戏（未提及世界其他地区）会将整个美国视为宇宙。从这里开始，文化和群落实体的划分将完全取决于游戏设计者。游戏设计者并不强迫游戏贴近现实，毕竟这是他们的游戏。
 
 A universal moral challenge is invariant no matter what the context is. By this, we mean that the correct moral outcome is independent of the entity making the choice. It would not matter if you were a human or a Zlerg from the planet Zlumpf—the correct choice would be the same. Universal moral challenges are concerned with the good of the universe as a whole. In the real world, they are most likely only a theoretical construct—a null container or superset for all the lower moral levels. They are extremely difficult to define and, as such, are a fairly rare form of challenge. In the limited context of a computer game, however, the cultural and universal morality levels are usually one and the same. (Often you will get a cultural moral challenge masquerading as a universal challenge; this is usually due to the game designer's inability to look outside her own backyard. This used to be a staple error in old sci-fi movies. Whenever the world was under threat, you'd see only America invaded—it was as if the rest of the world simply didn't exist.)
 
