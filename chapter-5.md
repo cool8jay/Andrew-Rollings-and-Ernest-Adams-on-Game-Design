@@ -466,9 +466,9 @@ The function of a herald is to provide a motivation to the hero to progress in t
 > **Character Development Worksheet 角色塑造工作表**
 > 
 > 1. Are the game's characters primarily art-based or story-based?
-> 游戏中的角色主要是基于艺术的还是故事？
+>   游戏中的角色主要是基于艺术的还是故事？
 > 2. What style is your art-based character drawn in: cartoon, comic-book superhero, realistic, gothic, and so on? Will your character be exaggerated in some way: cute, super-sensual, or otherwise?
-> 你的基于艺术的角色是什么风格：卡通、漫画超级英雄、写实、哥特等等？你的角色是否会有某种夸张：可爱、超感性或其他？
+>   你的基于艺术的角色是什么风格：卡通、漫画超级英雄、写实、哥特等等？你的角色是否会有某种夸张：可爱、超感性或其他？
 > 3. Do your art-based characters depend upon visual stereotypes for instant identification, or are they more subtle than that? If they are more subtle, how does their appearance support their role in the game?
 > 你的基于艺术的角色是依靠视觉上的刻板印象让人一眼就能识别出来，还是比这更微妙？如果更微妙，他们的外表如何支持他们在游戏中的角色？
 > 4. Can the player tell by looking at a character how that character is likely to act? Are there reasons in the story or gameplay for wanting a character's behavior to be predictable from his appearance, or is there a reason to make the character ambiguous?
