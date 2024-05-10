@@ -78,7 +78,7 @@ An example is the inclusion of a fast-action, reflex-based arcade sequence in a 
 
 Figure 7.1. Escape from Monkey Island. 图 7.1. 《逃离猴岛》。
 
-graphics/07fig01.gif
+![](.gitbook/assets/7.1.png)
 
 A more concrete example of this phenomenon is found in Valve's Half-Life (see Figure 7.2), an excellent game that has rightly won many awards for its original and innovative gameplay and story line. (However, I also need to point out that the story line is excellent only when compared to other games within the same genre; it wouldn't be a best-selling novel or a blockbuster movie.) For the most part, playing Half-Life is a joy. In the first two thirds of the game, the sense of immersion and of actually being there as Gordon Freeman is unparalleled. You can imagine yourself squeezing through the confining corridors of the Black Mesa Research Laboratory out in the middle of the desert, avoiding the unwanted attentions of both vicious aliens out for blood and hostile government troops sent in to clean up the transdimensional mess. Then, as the story reaches the first climax point, you are catapulted into the alien dimension to take the battle into their territory.
 
@@ -86,7 +86,7 @@ Valve 的《半条命》（见图 7.2）就是这种现象的一个更具体的�
 
 Figure 7.2. Half-Life. 图 7.2. 《半条命》。
 
-graphics/07fig02.gif
+![](.gitbook/assets/7.2.png)
 
 In the alien dimension, things take a turn for the worse—at least, in terms of gameplay. Although it's not a game breaker by any means, the story line experiences a significant lull here. Initially, Gordon is required to jump from platform to platform in a sub-Mario platform game style. This abrupt change in the gameplay is a showstopper as far as the suspension of disbelief, which the designers had worked so hard to cultivate, is concerned. And as if that didn't deal enough of a blow, the subsequent levels are practically straight out of the original Quake, culminating in a showdown with the big, bad, end-of-game boss. Now, we don't mean to be unduly harsh on an otherwise excellent game, but the last third of the game is a real letdown in gameplay terms. All of the innovative and exciting features of the Black Mesa levels were replaced with a standard first-person jump'n'shooter. Even with the benefit of the intriguing and imaginative end sequence, the damage is done by this point: The suspension of disbelief is shattered and the player is left feeling somehow cheated. The inclusion of the platform-based level followed by the standard first-person fare is a classic nonsequitur that affects the enjoyment of the game.
 
@@ -104,7 +104,7 @@ Many types of challenges can be included in a game. In the majority of cases, th
 
 Figure 7.3. Dance Dance Revolution. 图 7.3. 《劲舞革命》。
 
-graphics/07fig03.jpg
+![](.gitbook/assets/7.3.png)
 
 A game can contain many challenges of each different type. To save us the insanity of trying to analyze the challenge content of a whole slew of games and concluding that they all have all the challenge types, it will serve our purpose to define two classes of challenge: implicit and explicit.
 
@@ -116,7 +116,7 @@ An explicit challenge is an intentional challenge specifically designed by the g
 
 Figure 7.4. Quake III Arena. 图 7.4. 《雷神之锤 III 竞技场》
 
-graphics/07fig04.gif
+![](.gitbook/assets/7.4.png)
 
 An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as Black Isle's Baldur's Gate. Implicit challenges tend to be more drawn out and less focused than explicit challenges.
 
@@ -142,7 +142,7 @@ When played in its puzzle mode, Chu Chu Rocket (see Figure 7.5), by Sega, is an 
 
 Figure 7.5. Chu Chu Rocket. 图 7.5. 《咻咻火箭》。
 
-graphics/07fig05.jpg
+![](.gitbook/assets/7.5.png)
 
 In games of imperfect information, logic is not sufficient. Logic cannot fully operate given an incomplete knowledge of the state of play. In these cases, the gaps in that knowledge must be filled using inference. In this context, inference is the ability to surmise, or guess, the incomplete knowledge based on extrapolation of the existing facts.
 
@@ -154,7 +154,7 @@ Microsoft Hearts (see Figure 7.6) is an example of a game of imperfect informati
 
 Figure 7.6. Microsoft Hearts. 见图 7.6. 微软的《红心大战》
 
-graphics/07fig06.gif
+![](.gitbook/assets/7.6.png)
 
 Bridge is another classic example of a game of imperfect information. A player does not know the contents of his partner's or his opponents' hands. He must use his knowl edge of the game to calculate the best estimate during the course of the game.
 
@@ -166,7 +166,7 @@ The classic real-time strategy game staple, the "fog of war" shown in Figure 7.7
 
 Figure 7.7. The fog of war (right side of screen) in Warcraft II. 图 7.7. 《魔兽争霸 II》中的战争迷雾（屏幕右侧）。
 
-graphics/07fig07.gif
+![](.gitbook/assets/7.7.png)
 
 Games of imperfect knowledge are much more common than games of perfect knowledge. This is because one of the key elements of gameplay is challenging the player to hypothesize about the game worlds, forming her own internal picture. The degree to which this picture matches the real thing depends very much on the logic and inference skills of the player. It is much harder to design a good game without the element of mystery. Only a few designers can achieve this with any degree of success. Mystery can be viewed as the easy way out. There is no better way to hook a player than to get her involved in a compelling mystery story. Human curiosity is a very strong attractor, and any game that successfully taps into this provides a strong gameplay element. Half-Life did this extremely well, putting the player in the role of a new scientist trying to escape after a hideous cross-dimensional experimental error at his first day of work.
 
@@ -178,7 +178,7 @@ One problem with games of perfect information is that, because of the difficulty
 
 Figure 7.8. Archon. 图 7.8. 《执政官》。
 
-graphics/07fig08.gif
+![](.gitbook/assets/7.8.png)
 
 In Archon (and its sequels), the whole board was visible on the screen, and both players had full knowledge of the game state. In many ways, Archon was a computer-age successor to chess, combining elements of board-game strategy and arcade action in a single game.
 
@@ -196,7 +196,7 @@ This knowledge can be intrinsic or extrinsic. Intrinsic means that the knowledge
 
 Figure 7.9. Dungeon Master. 图 7.9. 《迷宫魔兽》
 
-graphics/07fig09.jpg
+![](.gitbook/assets/7.9.png)
 
 The converse of intrinsic knowledge is extrinsic knowledge. This means knowledge that was gained outside the game world, perhaps in real life. For example, a player could use his knowledge that wood floats to retrieve a key attached to a wooden block just beyond his reach at the bottom of a narrow container by filling the container with water. Or, for an example from a published role-playing game written many years ago by Dave Morris (co-author of Game Architecture and Design by New Riders Publishing, 2004), the player could use her knowledge that repeated rapid heating and cooling of a metal object causes it to become brittle. This was the required technique to break through a metal door, otherwise impervious to both weapons and magic. Of course, the player wasn't dropped into this situation unprepared. There were clues to guide the player toward this solution.
 
@@ -218,7 +218,7 @@ Probably the best-known and most obvious example of a game based around a memory
 
 Figure 7.10. Simon. 图 7.10. 西蒙。
 
-graphics/07fig10.jpg
+![](.gitbook/assets/7.10.png)
 
 Nowadays, memory-based challenges are commonly seen in children's software, and even then they are usually hybridized with other types of challenge.
 
@@ -258,7 +258,7 @@ In the case of knowledge-based challenges, the ultimate real-world example is Tr
 
 Figure 7.11. Trivial Pursuit Millennium Edition. 图 7.11. 千禧版《棋盘问答》。
 
-graphics/07fig11.gif
+![](.gitbook/assets/7.11.png)
 
 More recently, You Don't Know Jack (see Figure 7.12) tests general (hence, extrinsic) knowledge in a quiz game format. However, this is an example that does not use knowledge-based challenges in their pure form. Instead, the questions are mostly phrased as a humorous lateral thinking problem and are set to a time limit so that players can—in most cases—figure out the answer with some (admittedly rapid) careful thought. In a lot of cases, knowledge-based challenges are inextricably linked with lateral thinking–based challenges. Except in certain rarified environments such as quiz games, knowledge-based challenges rarely appear in their archetypal form.
 
@@ -266,7 +266,7 @@ More recently, You Don't Know Jack (see Figure 7.12) tests general (hence, extri
 
 Figure 7.12. You Don't Know Jack. 图 7.12. 《你不了解杰克》
 
-graphics/07fig12.jpg
+![](.gitbook/assets/7.12.png)
 
 Intrinsic knowledge–based challenges are found in practically all games. However, explicit, intrinsic knowledge–based challenges are more often found in role-playing or adventure games. Here, a good knowledge of the game world and the background story and characters is essential to progress in the game. In real terms, this means that if you were to start a new game of, for example, Warren Spector's Deus Ex by loading a saved game provided by someone else, and it started you halfway through the game, you would have a much harder time trying to progress through the game than you would if you had started from the beginning.
 
@@ -300,7 +300,7 @@ Figure 7.13 is a collection of common optical illusions. These illusions work pr
 
 Figure 7.13. Pattern recognition: There is no spoon! 图 7.13. 模式识别：没有勺子！
 
-graphics/07fig13.gif
+![](.gitbook/assets/7.13.png)
 
 In some fairly unique games, the brain's ability to recognize patterns can be tuned into, to enhance the ability of the player. An example of this is Tetris. Tetris can be played consciously, examining each block as it falls and actively deciding where to stack the block for best effect. However, the best players don't seem to play like this, especially at the later levels, where blocks fall too fast to be able to make any conscious decision where to put them. Instead, these players seem to tune into the game at an almost subconscious level and enter what we call the "Tetris trance," a Zen-like state in which the players seem to lose all track of time and don't concentrate on the specifics of the game board. Instead the players defocus and appear to process the entire playing area as a whole, without considering the individual elements. In fact, if these players were in the Star Wars universe, the Force would be strong in them.
 
@@ -394,7 +394,7 @@ Spatial-awareness challenges are usually implicit. Only a handful of games have 
 
 Figure 7.14. Knot in 3D.
 
-graphics/07fig14.gif
+![](.gitbook/assets/7.14.png)
 
 Figure 7.15. glTron.
 
