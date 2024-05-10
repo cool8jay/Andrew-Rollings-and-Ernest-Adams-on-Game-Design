@@ -334,11 +334,13 @@ Slightly more advanced use of pattern recognition is evident in many games that 
 
 Platform games, such as the Mario series of games, often rely on pattern-recognition challenges quite heavily. Not only are the levels carefully scripted to be a repeatable (hence, learnable) experience, but the end-of-level bosses also tend to behave according to a certain pattern. Thus, in Super Mario Advance, you can defeat one of the end-of-level baddies by carefully counting how many flaming spit wads she ejects and then attacking in the interim. In this case, the pattern-recognition challenge is used to make the game more manageable. It is difficult enough to manipulate the player avatar on the platforms (an example of coordination, spatial awareness, and reflex/reaction time challenges), but trying to handle unpredictable enemies on top of this would detract from the gameplay. This is an example in which two distinct challenge types work together synergistically to improve the gameplay potential. The whole is more than the sum of the parts.
 
-平台游戏，如马里奥系列游戏，通常也非常依赖模式识别挑战。不仅关卡经过精心编排，让玩家可以重复体验（因此可以学习），而且关卡末尾的首领也往往按照一定的模式行事。因此，在《超级马里奥进阶版》中，你可以通过仔细计算她喷出多少火焰吐珠，然后在此期间进行攻击，从而打败其中一个关卡末尾的坏蛋。在这种情况下，模式识别挑战是为了让游戏更易于操作。在平台上操纵玩家头像已经够困难了（这是协调、空间意识和反应时间挑战的一个例子），如果还要在此基础上处理不可预知的敌人，游戏的可玩性就会大打折扣。这就是两种不同挑战类型协同合作，提高游戏潜力的一个例子。整体大于部分之和。
+平台游戏，如马里奥系列游戏，通常也非常依赖模式识别挑战。不仅关卡经过精心编排，让玩家可以重复体验（因此可以学习），而且关卡末尾的首领也往往按照一定的模式行事。因此，在《超级马里奥进阶版》中，你可以通过仔细计算她喷出多少火球，然后在此期间进行攻击，从而打败其中一个关卡末尾的坏蛋。在这种情况下，模式识别挑战是为了让游戏更易于操作。在平台上操纵玩家化身已经够困难了（这是协调、空间意识和反应时间挑战的一个例子），如果还要在此基础上处理不可预知的敌人，游戏的可玩性就会大打折扣。这就是两种不同挑战类型协同合作，提高游戏潜力的一个例子。整体大于部分之和。
 
 ### Moral Challenges 道德挑战
 
 A moral challenge is a high-level challenge that can operate at several levels. Without delving too deeply into the field of metaethics, we can define these levels as universal, cultural, tribal, and personal. These levels are ordered from the all-encompassing to the specific. Each successive level affects a smaller moral area than the previous one. Usually, the lower levels have precedence, but that is not always the case.
+
+道德挑战是一种高层次的挑战，可以在多个层面上发挥作用。在不深入研究元伦理学的前提下，我们可以将这些层次定义为普遍、文化、部落和个人。这些层次的顺序是从全面到具体。每一个层级所影响的道德领域都小于前一个层级。通常情况下，较低层次的道德规范具有优先权，但情况并非总是如此。
 
 Let us assume that there are no absolutes in morality. This implies that it is fundamentally incorrect to say that there is a definite right or wrong answer to a moral challenge; so much depends on context, emotional state, and past experience that an answer that might be correct for one individual would be totally wrong for another. An example: It is wrong to steal. But is it wrong to steal food if the only alternative is to starve? The answer to this depends on the individual.
 
