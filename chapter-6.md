@@ -888,6 +888,7 @@ fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际
 > 
 >       b. Determine its perspective on the game world (or, if more than one is possible, determine all its perspectives and choose one as the default).\
 >   确定其在游戏世界中的视角（如果可能有多个视角，则确定所有视角并选择一个作为默认视角）。
+> 
 >       c. Select its interaction model.\
 >   选择交互模型。
 > 
