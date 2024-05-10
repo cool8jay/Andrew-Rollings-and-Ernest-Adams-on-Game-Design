@@ -213,7 +213,7 @@ Memory challenges tax the player's memory of recent (and sometimes not so recent
 
 Probably the best-known and most obvious example of a game based around a memory challenge is Milton Bradley's Simon (see Figure 7.10), a simplified electronic version of the classic children's game Simon Says. This game was very popular back in the 1980s. It had four buttons, colored red, yellow, green, and blue. When the player started a game, the computer flashed the buttons in a random sequence, although usually the game started with a single flash. After each sequence, the player had to repeat the sequence. If successful, the computer repeated the sequence again, adding one flash each time. The game was lost if the player made a mistake remembering the sequence. Many games—in particular, adventure games, role-playing games, and first-person shooters—make use of this particular memory-based challenge.
 
-米尔顿·布拉德利公司的“西蒙”（见图 7.10）可能是最著名、最明显的以记忆挑战为基础的游戏，它是经典儿童游戏“西蒙说”的简化电子版。这款游戏在 20 世纪 80 年代非常流行。它有红、黄、绿、蓝四个按钮。当玩家开始游戏时，电脑会按随机顺序闪烁按钮，但通常游戏开始时只闪烁一次。每次闪光后，玩家必须重复闪光顺序。如果成功，电脑会再次重复该序列，每次增加一个闪光。如果玩家记错了顺序，游戏就失败了。许多游戏，尤其是冒险游戏、角色扮演游戏和第一人称射击游戏，都采用了这种基于记忆的特殊挑战。
+米尔顿·布拉德利公司的“西蒙”（见图 7.10）可能是最著名、最明显的以记忆挑战为基础的游戏，它是经典儿童游戏“西蒙说”的简化电子版。这款游戏在 1980 年代非常流行。它有红、黄、绿、蓝四个按钮。当玩家开始游戏时，电脑会按随机顺序闪烁按钮，但通常游戏开始时只闪烁一次。每次闪光后，玩家必须重复闪光顺序。如果成功，电脑会再次重复该序列，每次增加一个闪光。如果玩家记错了顺序，游戏就失败了。许多游戏，尤其是冒险游戏、角色扮演游戏和第一人称射击游戏，都采用了这种基于记忆的特殊挑战。
 
 Figure 7.10. Simon. 图 7.10. 西蒙。
 
@@ -221,41 +221,65 @@ graphics/07fig10.jpg
 
 Nowadays, memory-based challenges are commonly seen in children's software, and even then they are usually hybridized with other types of challenge.
 
+如今，基于记忆的挑战通常出现在儿童软件中，即便如此，它们通常也与其他类型的挑战混合在一起。
+
 In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in Raven's Voyager: Elite Force is an example of an implicit memory challenge.
 
-### Intelligence-Based Challenges
+事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在《渡鸦的航海家：精英力量》中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
+
+### Intelligence-Based Challenges 基于智力的挑战
 
 Intelligence-based challenges rely purely on the intelligence quotient of the player. This is extremely difficult to quantify and define, and, as far as we can tell, intelligence-based challenges do not exist "in the wild" in their pure form—at least, not in games.
 
+智力挑战完全依赖于玩家的智商。这一点极难量化和定义，而且据我们所知，基于智力的挑战并不以纯粹的形式存在于“野外（即现实世界）”——至少不是在游戏中。
+
 In fact, the only place where this form of challenge exists in pure form is in official intelligence quotient (IQ) tests, such as those administered by Mensa, the organization for extremely intelligent people.
+
+事实上，这种形式的挑战以纯粹的形式存在的唯一地方是官方智商（IQ）测试，例如由门萨组织实施的测试，门萨是一个为极度聪明的人设立的组织。
 
 An example of an intelligence-based challenge, similar to those used by Mensa, is, given a sequence of similar shapes, to predict the next shape in the sequence from a choice of answers.
 
+与门萨组织类似的智力挑战的一个例子是，给定一串相似的图形，从可供选择的答案中预测出该序列中的下一个图形。
+
 Intelligence-based challenges are included here as an archetype because they often form part of other challenges. Usually a more intelligent player will do better when playing a game using the more cerebral challenges.
 
-### Knowledge-Based Challenges
+这里之所以将智力挑战作为一种原型，是因为智力挑战往往是其他挑战的一部分。通常情况下，智力较高的玩家在玩脑力挑战游戏时会表现得更好。
+
+### Knowledge-Based Challenges 知识型挑战
 
 Knowledge-based challenges rely on the knowledge of the player. As we have already touched upon, there are two types of knowledge to consider: intrinsic and extrinsic. Intrinsic challenges rely on knowledge from within the game world. Extrinsic challenges rely on knowledge external to the game world.
 
+基于知识的挑战依赖于玩家的知识。正如我们已经提到的，有两类知识需要考虑：内在知识和外在知识。内在挑战依赖游戏世界中的知识。外在挑战则依赖于游戏世界外部的知识。
+
 In the case of knowledge-based challenges, the ultimate real-world example is Trivial Pursuit (see Figure 7.11). This board game, which most people are familiar with, relies on general knowledge to win. A player's progress is determined by his answers to a set of questions in various categories, the vast majority of which are simple and straightforward—provided that the player knows the answer. Of course, in some cases the player can attempt to answer questions that he isn't sure of by listening for the clue in the question—crossing over into the territory of a lateral-thinking challenge. Clearly, this is an example of a game relying on extrinsic knowledge-based challenges to provide the gameplay. Trivial Pursuit has also been released in computer versions for various platforms since its debut in the mid-1980s.
 
-Figure 7.11. Trivial Pursuit Millennium Edition.
+就基于知识的挑战而言，现实世界的终极例子是《棋盘问答》（见图 7.11）。这款大多数人都熟悉的棋盘游戏依靠常识取胜。玩家的进度取决于他对一系列不同类别问题的回答，其中绝大多数问题都简单明了——只要玩家知道答案。当然，在某些情况下，玩家可以通过倾听问题中的线索来尝试回答他不确定的问题，这就进入了横向思维挑战的领域。显然，这是一个依靠外在知识挑战来提供游戏性的例子。自 1980 年代中期问世以来，《棋盘问答》还推出了各种平台的电脑版本。
+
+Figure 7.11. Trivial Pursuit Millennium Edition. 图 7.11. 千禧版《棋盘问答》。
 
 graphics/07fig11.gif
 
 More recently, You Don't Know Jack (see Figure 7.12) tests general (hence, extrinsic) knowledge in a quiz game format. However, this is an example that does not use knowledge-based challenges in their pure form. Instead, the questions are mostly phrased as a humorous lateral thinking problem and are set to a time limit so that players can—in most cases—figure out the answer with some (admittedly rapid) careful thought. In a lot of cases, knowledge-based challenges are inextricably linked with lateral thinking–based challenges. Except in certain rarified environments such as quiz games, knowledge-based challenges rarely appear in their archetypal form.
 
-Figure 7.12. You Don't Know Jack.
+最近，《你不了解杰克》（见图 7.12）以问答游戏的形式测试一般知识（即外在知识）。不过，这个例子并没有纯粹地使用基于知识的挑战。相反，这些问题大多以幽默的横向思维问题的形式出现，并设置了时间限制，这样玩家在大多数情况下都可以通过仔细思考（当然是快速思考）找出答案。在很多情况下，基于知识的挑战与基于横向思维的挑战密不可分。除了在某些稀有的环境中，如问答游戏，基于知识的挑战很少以其原型形式出现。
+
+Figure 7.12. You Don't Know Jack. 图 7.12. 《你不了解杰克》
 
 graphics/07fig12.jpg
 
 Intrinsic knowledge–based challenges are found in practically all games. However, explicit, intrinsic knowledge–based challenges are more often found in role-playing or adventure games. Here, a good knowledge of the game world and the background story and characters is essential to progress in the game. In real terms, this means that if you were to start a new game of, for example, Warren Spector's Deus Ex by loading a saved game provided by someone else, and it started you halfway through the game, you would have a much harder time trying to progress through the game than you would if you had started from the beginning.
 
-### Pattern-Recognition Challenges
+几乎所有游戏中都有基于内在知识的挑战。然而，在角色扮演游戏或冒险游戏中，显性的、基于内在知识的挑战更为常见。在这些游戏中，对游戏世界、背景故事和人物的充分了解对于游戏的进展至关重要。在现实中，这意味着如果你通过加载别人提供的游戏存档来开始一个新的游戏，例如，华伦·史佩特的《杀出重围》，于是你从游戏的半中途开始进行游戏，那么你要想在游戏中取得进展就会比从头开始游戏困难得多。
+
+### Pattern-Recognition Challenges 模式识别挑战
 
 According to the theorists, the impressive abilities demonstrated by the human brain mainly stem from one basic ability: pattern recognition. In essence, our brain is a generalized pattern-recognition machine; our brain implicitly forms archetypes of objects and events and compares new experiences with these archetypes to recognize which category they fall under. For example, there are many different shapes and forms for tables, but somehow we always implicitly recognize a table when we see one, even if we have never seen that particular table.
 
+理论家认为，人类大脑所表现出的惊人能力主要源于一种基本能力：模式识别。从本质上讲，我们的大脑是一个通用的模式识别机器；我们的大脑会隐性地形成物体和事件的原型，并将新的经验与这些原型进行比较，以识别它们属于哪一类。例如，桌子有许多不同的形状和形式，但不知何故，当我们看到一张桌子时，总会隐性地识别出它，即使我们从未见过那张特定的桌子。
+
 According to some theories on learning, all types of learning are a form of pattern recognition and classification. When learning to speak, we are required to recognize and classify the sounds we hear as babies. In fact, to deal with everyday life, we are constantly recognizing patterns in events and using these to classify what is happening so that we can act according to past similar experiences. You know not to walk into a road without looking because you recognize the archetypal road, the archetypal event of walking across a road, and the possibility of the archetypal car or truck colliding with you and smearing you along several hundred yards of archetypal highway.
+
+根据一些学习理论，所有类型的学习都是一种模式识别和分类。在学习说话时，我们需要对婴儿时期听到的声音进行识别和分类。事实上，在日常生活中，我们要不断地识别事件的模式，并利用这些模式对正在发生的事情进行分类，以便根据过去的类似经验采取行动。你知道不能不看路就走到马路上，因为你能辨认出原型道路、走过马路的原型事件，以及原型汽车或卡车与你相撞并把你拖行几百码长的原型高速公路上的可能性。
 
 In this particular case, the human brain's ability to recognize patterns is sometimes overeager (for the technically minded, it uses a greedy algorithm) and can recognize patterns where there (arguably) are none. The name for this phenomenon is pareidolia, a type of illusion or misperception involving a vague or obscure stimulus being perceived as something clear and distinct. Human history is littered with examples of this: the constellations of stars in the night sky, the man in the moon, the whole field of astrology, and the articles that appear regularly in the National Enquirer proudly displaying the face of Jesus in a sesame seed bun. In fact, the Rorschach test, first published by Herman Rorschach in 1921, relies on the brain's overactive capacity for pattern recognition to attempt psychometric evaluation of the patient.
 
