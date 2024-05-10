@@ -344,11 +344,15 @@ A moral challenge is a high-level challenge that can operate at several levels. 
 
 Let us assume that there are no absolutes in morality. This implies that it is fundamentally incorrect to say that there is a definite right or wrong answer to a moral challenge; so much depends on context, emotional state, and past experience that an answer that might be correct for one individual would be totally wrong for another. An example: It is wrong to steal. But is it wrong to steal food if the only alternative is to starve? The answer to this depends on the individual.
 
-让我们假设道德没有绝对性。这意味着，对道德挑战给出一个明确的对或错的答案，从根本上说是不正确的；这在很大程度上取决于背景、情绪状态和过去的经验，对一个人来说可能正确的答案，对另一个人来说会是完全错误。举个例子：偷窃是错误的。但是，如果唯一的选择就是挨饿，那么偷窃食物就是错的吗？答案因人而异。
+让我们假设道德没有绝对性。这意味着，对道德挑战给出一个明确的对或错的答案，从根本上说是不正确的；这在很大程度上取决于情景、情绪状态和过去的经验，对一个人来说可能正确的答案，对另一个人来说会是完全错误。举个例子：偷窃是错误的。但是，如果不偷食物就会饿死，偷东西还是错误的么？答案因人而异。
 
 But how does this example apply to games? In many games, the player is asked to make such choices. Raven's Voyager: Elite Force presents such a moral challenge early in the game: Should you save your teammate from the Borg and go against the captain's orders, jeopardizing the success of the mission?
 
+但这个例子如何适用于游戏呢？在许多游戏中，玩家都需要做出这样的选择。乌鸦的航海家》（Raven's Voyager： 精英部队》在游戏初期就提出了这样的道德挑战： 你是否应该从博格人手中救出你的队友，违背船长的命令，从而危及任务的成功？
+
 We examine examples of the various forms that moral challenges can take in more detail. Before we can do this, however, we need to further define our various levels of moral challenge. Note that this is subjective: Exactly what defines the differences among universal, cultural, and tribal designations depends on context and the personal views of the observer. In the case of game design, it means that our definitions directly depend on the scope of the game. For example, a game set in America (with no mention of the rest of the world) would treat the whole of America as the universe. From here, the divisions of cultural and tribal entities would depend entirely on the game designers. They are under no compulsion to stick to reality—after all, it is their game.
+
+我们将更详细地举例说明道德挑战的各种形式。不过，在此之前，我们需要进一步明确道德挑战的各种等级。请注意，这是主观的： 究竟是什么定义了普遍、文化和部落定义之间的差异，这取决于环境和观察者的个人观点。就游戏设计而言，这意味着我们的定义直接取决于游戏的范围。例如，一款以美国为背景的游戏（未提及世界其他地区）会将整个美国视为宇宙。从这里开始，文化和部落实体的划分将完全取决于游戏设计者。游戏设计者并不强迫游戏贴近现实，毕竟这是他们的游戏。
 
 A universal moral challenge is invariant no matter what the context is. By this, we mean that the correct moral outcome is independent of the entity making the choice. It would not matter if you were a human or a Zlerg from the planet Zlumpf—the correct choice would be the same. Universal moral challenges are concerned with the good of the universe as a whole. In the real world, they are most likely only a theoretical construct—a null container or superset for all the lower moral levels. They are extremely difficult to define and, as such, are a fairly rare form of challenge. In the limited context of a computer game, however, the cultural and universal morality levels are usually one and the same. (Often you will get a cultural moral challenge masquerading as a universal challenge; this is usually due to the game designer's inability to look outside her own backyard. This used to be a staple error in old sci-fi movies. Whenever the world was under threat, you'd see only America invaded—it was as if the rest of the world simply didn't exist.)
 
@@ -512,21 +516,21 @@ Another sort of conceptual challenge occurs in mystery or detective games, in wh
 
 > **Gameplay Worksheet 游戏性工作表**
 > 
-> 1. What types of challenges do you want to include in your game? Do you want to challenge the player's physical abilities, his mental abilities, or both?
+> 1. What types of challenges do you want to include in your game? Do you want to challenge the player's physical abilities, his mental abilities, or both?\
 > 
-> 2. Game genres are defined in part by the nature of the challenges they offer. Have you selected a genre in advance, and if so, what does that imply for the gameplay? Do you intend to include any cross-genre elements, challenges that are not normally found in your chosen genre?
+> 2. Game genres are defined in part by the nature of the challenges they offer. Have you selected a genre in advance, and if so, what does that imply for the gameplay? Do you intend to include any cross-genre elements, challenges that are not normally found in your chosen genre?\
 > 
-> 3. Does the game include implicit challenges (those that emerge from the design), as well as explicit challenges (those that you specify)?
+> 3. Does the game include implicit challenges (those that emerge from the design), as well as explicit challenges (those that you specify)?\
 > 
-> 4. If the game has a story, how does the story influence the gameplay, and vice versa? Do they operate in tandem, or are they effectively separate pieces?
+> 4. If the game has a story, how does the story influence the gameplay, and vice versa? Do they operate in tandem, or are they effectively separate pieces?\
 > 
-> 5. If the player has an avatar, how does the gameplay influence the avatar's appearance and capabilities?
+> 5. If the player has an avatar, how does the gameplay influence the avatar's appearance and capabilities?\
 > 
-> 6. Is the game's collection of challenges a related group, or is it a compilation of unrelated elements? If the latter, does that have any effect on the player's suspension of disbelief?
+> 6. Is the game's collection of challenges a related group, or is it a compilation of unrelated elements? If the latter, does that have any effect on the player's suspension of disbelief?\
 > 
-> 7. Given that not all players enjoy the same kinds of challenges, how does the game's target audience influence the challenges it includes? What challenges will you deliberately exclude?
+> 7. Given that not all players enjoy the same kinds of challenges, how does the game's target audience influence the challenges it includes? What challenges will you deliberately exclude?\
 > 
-> 8. Will the player be required to face more than one challenge at a time? Which ones?
+> 8. Will the player be required to face more than one challenge at a time? Which ones?\
 
 # Putting It Together 总结
 
