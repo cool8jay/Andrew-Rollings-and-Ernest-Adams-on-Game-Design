@@ -388,9 +388,13 @@ Moral dilemmas do not have to reside fully within one level. In fact, dynamicall
 
 So now we need some examples of real games that use moral dilemmas—but there is a problem. Until now, games have not sufficiently explored this area. Dealing with moral dilemmas has not traditionally been an area in which games excel. Morality in games has barely been considered at any level above simple "black and white" (no pun intended) playground morality. One reason for this is the difficulty of involving the player in difficult emotional situations; the willing suspension of disbelief required for the player to actively participate and believe in difficult emotional decisions is greater than that required for simpler choices. Hence, games that have employed moral decisions as a gameplay factor have relied on the simple "this is good, that is bad" approach. More recently, a game that has attempted (to some success) to deal with moral decisions in a more adult fashion is Lionhead's Black and White. Despite the title, the game attempts to deal with a moral spectrum. The player takes on the role of a god tending to the needs of her people. Aiding in the quest is a familiar, taking the form of a giant creature that can be trained to follow orders. The player is free to become any kind of god that she wants: from sickeningly good to terribly evil and any where in between. The nature of the god is reflected in the creature and the appearance of the land. How well this works in practice is open to discussion. So far, players have tended to gravitate directly toward total evil or total goodness. Although it cannot be strictly classed as a weakness or flaw, the cartoonlike nature of the game does undermine the seriousness of the moral decisions involved. This could be a good thing, of course—after all, you don't necessarily want your player to be racked by guilt for days after performing a questionable act. That would be going too far (if, indeed, it was possible).
 
-### Spatial-Awareness Challenges
+因此，我们现在需要一些使用道德困境的真实游戏的例子——但有一个问题。到目前为止，游戏在这方面的探索还不够充分。处理道德困境历来不是游戏擅长的领域。除了简单的“黑和白”（不是双关语）游乐场道德之外，游戏中的道德问题几乎没有被考虑过。其中一个原因是让玩家参与到困难的情感情境中的难度很大；与简单的选择相比，让玩家积极参与并相信困难的情感决定所需的信任感程度更高。因此，将道德抉择作为游戏因素的游戏都依赖于简单的“这是好的，那是坏的”方法。最近，Lionhead 的《黑与白》是一款尝试以更成人化的方式处理道德抉择的游戏（取得了一定的成功）。尽管游戏的标题是黑和白，但它却试图处理道德光谱。玩家在游戏中扮演一位神，照顾她的子民的需要。她有一个“熟人”来帮助她完成任务。“熟人”是一种巨大的生物，可以被训练成服从命令的样子。玩家可以自由选择成为任何一种神：从令人作呕的善良到令人发指的邪恶，以及介于两者之间的任何一种。神的性质会反映在生物和土地的外观上。实际效果如何还有待讨论。到目前为止，玩家往往直接倾向于全恶或全善。虽然严格来说，以下一点不能被归类为弱点或缺陷，但游戏的卡通性质确实削弱了道德抉择的严肃性。当然，这可能是件好事——毕竟，你并不一定希望玩家在做出有问题的行为后，会被罪恶感折磨好几天。那就太过分了（如果真的有可能的话）。
+
+### Spatial-Awareness Challenges 空间意识挑战
 
 Spatial-awareness challenges are usually implicit. Only a handful of games have relied on explicit spatial-awareness challenges, and, in most cases, they were 2D games, such as Tron (the light-cycles game) and Snakes. A 3D version on the Sinclair Spectrum (Sinclair Timex in the United States) was entitled Knot in 3D (shown in Figure 7.14) and was a 3D extension of the classic Tron-based game. A recent update of Tron is shown in Figure 7.15. Spatial-awareness challenges are a specialized hybrid of a memory challenge and an inference challenge.
+
+空间感知挑战通常是隐性的。只有极少数游戏依赖于明确的空间感知挑战，而且在大多数情况下，它们都是 2D 游戏，如 Tron（光循环游戏）和 Snakes。Sinclair Spectrum（美国为 Sinclair Timex）上的 3D 版本名为 “Knot in 3D”（如图 7.14 所示），是经典 Tron 游戏的 3D 延伸。图 7.15 是《Tron》的最新版本。空间感知挑战是记忆挑战和推理挑战的专门混合体。
 
 Figure 7.14. Knot in 3D.
 
@@ -402,21 +406,37 @@ graphics/07fig15.jpg
 
 Games that rely on spatial awareness are usually 3D games. The challenge of representing a 3D world on a 2D surface, and the challenge to the player to make sense of that representation form the bulk of the spatial awareness problem. In many cases, the player receives aid in the form of a computer-generated map, but in other cases, such as Quake III, the player is left to his own devices to find his way around the world.
 
+依赖空间感的游戏通常都是三维游戏。在二维平面上表现三维世界的挑战，以及玩家如何理解这种表现形式的挑战，构成了空间感知问题的主要内容。在许多情况下，玩家会得到计算机生成的地图的帮助，但在其他情况下，例如在《雷神之锤 III》中，玩家只能靠自己在世界中寻找方向。
+
 The types of games that usually rely heavily on spatial-awareness challenges are flight simulators, space-flying games, and 3D combat games (particularly Quake III and Unreal Tournament). To a lesser extent, 2D games that involve large playing areas, such as Age of Kings, also use spatial-awareness challenges.
 
-### Coordination Challenges
+飞行模拟器、太空飞行游戏和 3D 战斗游戏（尤其是《雷神之锤 III》和《虚幻竞技场》）通常是非常依赖空间感知挑战的游戏类型。在较小程度上，涉及较大游戏区域的 2D 游戏（如《王者世纪》）也使用空间感知挑战。
+
+### Coordination Challenges 协调挑战
 
 Pretty much any game uses coordination challenges. Coordination challenges basically test the ability of the player to perform many simultaneous actions. They are almost always found in combination with reflex/reaction time challenges and are usually tightly coupled with them.
 
+几乎所有游戏都会使用协调挑战。协调性挑战主要测试玩家同时执行多个动作的能力。协调挑战几乎总是与反射/反应时间挑战结合在一起，而且通常与它们紧密相连。
+
 In its pure form, a coordination challenge is not dependent on any time constraints, but it isn't often found in the pure form. An example of a game (and there are many) that uses the coordination challenge to good effect (in combination with reflex/reaction time challenges) is Super Mario. Here, the player is expected to finely time jumps across wide chasms while avoiding circling enemies, requiring a plethora of accurately timed button presses from the player.
+
+在纯粹的形式下，协调挑战不依赖于任何时间限制，但这种纯粹的形式并不常见。《超级马里奥》就是一个很好地利用了协调性挑战（与反射/反应时间挑战相结合）的游戏（这样的游戏有很多）。在这款游戏中，玩家需要在避开盘旋的敌人的同时，在宽阔的峡谷中进行精细的时间跳跃，这就要求玩家准确按下大量的按钮。
 
 Shooting games of various sorts pose a challenge of accuracy: lining up a shot at a target, when the player or the target or both might be moving. Steering also requires accuracy. Flight simulators that properly model the behavior of aircraft, or racing simulators that accurately model the behavior of racing cars, require a high degree of precision. Airplanes, in particular, usually respond rather slowly to their controls. A player expecting an instant response will tend to overcompensate, pushing farther and farther forward on the joystick when the plane's nose doesn't drop right away, and then yanking it back in panic when it finally drops much farther than he intended in the first place.
 
+各种射击游戏都对准确性提出了挑战：当玩家或目标或两者都在移动时，如何瞄准目标射击。转向也需要准确性。能够正确模拟飞机行为的飞行模拟器，或者能够准确模拟赛车行为的赛车模拟器，都需要很高的精确度。尤其是飞机，通常对控制的反应相当缓慢。如果玩家希望飞机能立即做出反应，就会过度补偿，当飞机机头没有立即下降时，就会将操纵杆向前推得越来越远；当飞机机头最终下降得比他一开始打算下降的距离还要远时，就会惊慌失措地将操纵杆向后拉。
+
 Some games are forgiving about precision, allowing the player to be sloppy; others demand a delicate touch. Back before racing cars had airfoils to help hold them on the pavement, they flipped over very easily and required a much higher degree of skill from their drivers to keep them on the road. Papyrus Design Group accurately modeled this challenge in the game Grand Prix Legends.
+
+有些游戏对精确度要求不高，允许玩家马马虎虎；而有些游戏则要求玩家有细腻的手感。在赛车还没有气翼帮助它们紧贴路面之前，它们很容易翻车，需要驾驶员具备更高的技术才能将其保持在道路上。Papyrus Design Group 在游戏《大奖赛传奇》中准确地模拟了这一挑战。
 
 Timing is the ability to overcome an obstacle by coordinating player moves with something else that is happening onscreen. Many video games present a weakness in an opponent's defenses for a limited period of time that, with practice, a player can learn to anticipate. Ducking under a constantly rotating hazard, for example, involves timing. Running and jumping across a chasm by pressing the Jump button at the last second is also an example of timing. It's related to reaction time, but instead of trying to do something as fast as possible, the player is trying to do something at exactly the right moment.
 
+时机是指通过协调玩家的动作和屏幕上发生的其他事情来克服障碍的能力。许多电子游戏都会在有限的时间内展示对手的防御弱点，通过练习，玩家可以学会预测对手的弱点。例如，躲避不断旋转的危险就需要把握时机。在最后一秒按下“跳跃”键跑跳过鸿沟也是时机把握的一个例子。它与反应时间有关，但玩家并不是要尽可能快地做某事，而是要在正确的时刻做某事。
+
 Many fighting games require complex sequences of joystick moves and button presses that, once mastered, will allow a "special move"—a particularly devastating attack, for example. These take a long time to learn and require very good motor coordination to achieve consistently. This sort of challenge is best suited to a player who can tolerate a high degree of frustration, or to a game that gives ample reward for this kind of persistence. Games that rely heavily on such techniques are difficult to balance. It is difficult to balance games that are based purely on physical dexterity. What one player might find easy, a different player might find impossible.
+
+许多格斗游戏需要复杂的操纵杆动作和按键序列，一旦掌握，就能使出“特殊招式”——例如特别具有破坏力的攻击。这些动作需要很长时间才能学会，而且需要很好的动作协调才能持续完成。这种挑战最适合能够承受高挫折感的玩家，或者是对这种坚持给予充分奖励的游戏。严重依赖这种技巧的游戏很难取得平衡。纯粹依靠身体灵活性的游戏很难取得平衡。一个玩家觉得容易的事情，另一个玩家可能会觉得不可能。
 
 ### Reflex/Reaction Time Challenges
 
