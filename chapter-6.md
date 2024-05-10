@@ -23,6 +23,7 @@ We define the user experience as the total package presented to the player when 
 > **NOTE 注意**
 >
 > To read more details on user experience, see The Elements of User Experience by Jesse James Garrett (© 2003 New Riders Publishing).
+> 
 > 如需了解有关用户体验的更多详情，请参阅 Jesse James Garrett 所著的《用户体验要素》（© 2003 New Riders Publishing）。
 
 ## The Interactive Element 交互元素
