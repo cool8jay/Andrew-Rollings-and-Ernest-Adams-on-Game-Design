@@ -464,7 +464,7 @@ So let's consider the tools that we have available. On the PC, we have the keybo
 
 Even though most games can be played using the standard controllers, some games are indeed better played with specialist hardware. For example, the games Dance Dance Revolution, Sega's Bass Fishing, and Samba De Amigo are much more enjoyable when played with a dance pad, a fishing controller, and maracas, respectively (shown in Figure 6.20).
 
-尽管大多数游戏都可以使用标准控制器来玩，但有些游戏使用专业硬件确实会更好。例如，《劲舞革命》、《世嘉钓鱼高手》和《欢乐桑巴》等游戏在分别使用舞蹈垫、捕鱼控制器和马拉卡斯鼓时就会更有趣（如图 6.20 所示）。
+尽管大多数游戏都可以使用标准控制器来玩，但有些游戏使用专业硬件确实会更好。例如，《劲舞革命》、《世嘉钓鱼高手》和《欢乐桑巴》等游戏在分别使用跳舞毯、捕鱼控制器和马拉卡斯鼓时就会更有趣（如图 6.20 所示）。
 
 Figure 6.20. Specialized controllers. 图 6.20. 专用控制器。
 

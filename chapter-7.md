@@ -90,7 +90,7 @@ Figure 7.2. Half-Life. 图 7.2. 《半条命》。
 
 In the alien dimension, things take a turn for the worse—at least, in terms of gameplay. Although it's not a game breaker by any means, the story line experiences a significant lull here. Initially, Gordon is required to jump from platform to platform in a sub-Mario platform game style. This abrupt change in the gameplay is a showstopper as far as the suspension of disbelief, which the designers had worked so hard to cultivate, is concerned. And as if that didn't deal enough of a blow, the subsequent levels are practically straight out of the original Quake, culminating in a showdown with the big, bad, end-of-game boss. Now, we don't mean to be unduly harsh on an otherwise excellent game, but the last third of the game is a real letdown in gameplay terms. All of the innovative and exciting features of the Black Mesa levels were replaced with a standard first-person jump'n'shooter. Even with the benefit of the intriguing and imaginative end sequence, the damage is done by this point: The suspension of disbelief is shattered and the player is left feeling somehow cheated. The inclusion of the platform-based level followed by the standard first-person fare is a classic nonsequitur that affects the enjoyment of the game.
 
-在外星人空间中，情况急转直下——至少在游戏性方面是这样。虽然这绝不是一款破坏游戏的游戏，但故事线在这里经历了明显的停滞。一开始，戈登需要从一个平台跳到另一个平台，游戏风格近似于马里奥平台跳跃游戏。游戏玩法的这种突然改变，让设计者费尽心思培养信任感荡然无存。如果说这还不够打击玩家的话，那么接下来的关卡几乎就是原版《雷神之锤》的翻版，最后还要与游戏末尾的大坏蛋一决高下。现在，我们并不想过分苛责这款出色的游戏，但游戏的最后三分之一在游戏性方面确实令人失望。黑梅萨关卡中所有令人兴奋的创新功能都被标准的第一人称跳跃射击游戏所取代。即使有引人入胜、充满想象力的结尾部分，但到了这一步破坏已经造成：玩家的信任感被打破了，感觉被欺骗了。在标准的第一人称关卡之后加入平台跳跃关卡，是影响游戏乐趣的典型不合理做法。
+在外星人空间中，情况急转直下——至少在游戏性方面是这样。虽然这绝不是一款破坏游戏的游戏，但故事线在这里经历了明显的停滞。一开始，戈登需要从一个平台跳到另一个平台，游戏风格近似于马里奥平台游戏。游戏玩法的这种突然改变，让设计者费尽心思培养信任感荡然无存。如果说这还不够打击玩家的话，那么接下来的关卡几乎就是原版《雷神之锤》的翻版，最后还要与游戏末尾的大坏蛋一决高下。现在，我们并不想过分苛责这款出色的游戏，但游戏的最后三分之一在游戏性方面确实令人失望。黑梅萨关卡中所有令人兴奋的创新功能都被标准的第一人称跳跃射击游戏所取代。即使有引人入胜、充满想象力的结尾部分，但到了这一步破坏已经造成：玩家的信任感被打破了，感觉被欺骗了。在标准的第一人称关卡之后加入平台跳跃关卡，是影响游戏乐趣的典型不合理做法。
 
 Many types of challenges can be included in a game. In the majority of cases, these challenges are purely mental. In a few games, there is some degree of physical challenge, but this is usually understated—a simple test of reflexes or hand-eye coordination. In any case, they are localized to the hands and wrists.
 
@@ -322,7 +322,7 @@ So, if the brain's primary cognitive function is to recognize patterns, what doe
 
 Plenty of basic pattern-recognition games exist. A simple example that combines pattern-recognition challenges with reflex/reaction time-based challenges is the card game Snap. In this game, the players take turns laying a card from their hands face up on the discard pile, making sure that it is unseen by any player until the last possible moment. When the card is turned face up, the players check to see if it matches the card underneath (and by match, we mean it is of the same face value). That's the pattern-recognition challenge. If there is a match, the first player to shout "Snap!" wins all the cards in the discard pile. That's the reflex/reaction time challenge. If any players run out of cards, they are out of the game. The winner is the last player remaining with any cards in his hand.
 
-有很多基本的模式识别游戏。纸牌游戏 Snap 就是一个简单的例子，它将模式识别挑战与基于反射/反应时间的挑战结合在一起。在这个游戏中，玩家轮流将手中的一张牌正面朝上放在弃牌堆上，确保直到最后一刻都不会被任何玩家看到。当牌面朝上时，玩家要检查它是否与下面的牌匹配（所谓匹配，是指面值相同）。这就是图案识别挑战。如果匹配，最先喊出“啪！”的玩家将赢得弃牌堆中的所有牌。这就是反应时间挑战。如果任何玩家的牌用完了，他们就出局了。最后一名手中有牌的玩家即为获胜者。
+有很多基本的模式识别游戏。纸牌游戏《捉对儿》就是一个简单的例子，它将模式识别挑战与基于反射/反应时间的挑战结合在一起。在这个游戏中，玩家轮流将手中的一张牌正面朝上放在弃牌堆上，确保直到最后一刻都不会被任何玩家看到。当牌面朝上时，玩家要检查它是否与下面的牌匹配（所谓匹配，是指面值相同）。这就是图案识别挑战。如果匹配，最先喊出“啪！”的玩家将赢得弃牌堆中的所有牌。这就是反应时间挑战。如果任何玩家的牌用完了，他们就出局了。最后一名手中有牌的玩家即为获胜者。
 
 In the early days of computer games, patterns were a lot more prevalent (or, at least, more obvious) in games than they are today. There could be any number of reasons for this. Maybe patterns were the most efficient way to code for an interesting game, given the limited processing power of the target platform. Another option is that the patterns are always there in games, but in the older games they stood out in stark relief against the simplicity of the gameplay. Games such as Space Invaders and Galaxians made heavy use of patterns. In many cases, playing effectively was simply a matter of memorizing the patterns and reacting accordingly. This play method persisted through most of the shoot 'em-ups that were produced until recently. However, even Iridion 3D released on the Game Boy Advance is a shoot 'em-up that defines attack wave patterns that can be learned and dealt with accordingly. This is a very transparent use of patterns and temporal pattern recognition, and it would be considered a bit simplistic and naive for unmodified use in a game design today. However, it is certainly a useful starting point for the inclusion of pattern-recognition challenges in your own game designs.
 
@@ -420,7 +420,7 @@ Pretty much any game uses coordination challenges. Coordination challenges basic
 
 In its pure form, a coordination challenge is not dependent on any time constraints, but it isn't often found in the pure form. An example of a game (and there are many) that uses the coordination challenge to good effect (in combination with reflex/reaction time challenges) is Super Mario. Here, the player is expected to finely time jumps across wide chasms while avoiding circling enemies, requiring a plethora of accurately timed button presses from the player.
 
-在纯粹的形式下，协调挑战不依赖于任何时间限制，但这种纯粹的形式并不常见。《超级马里奥》就是一个很好地利用了协调性挑战（与反射/反应时间挑战相结合）的游戏（这样的游戏有很多）。在这款游戏中，玩家需要在避开盘旋的敌人的同时，在宽阔的峡谷中进行精细的时间跳跃，这就要求玩家准确按下大量的按钮。
+在纯粹的形式下，协调挑战不依赖于任何时间限制，但这种纯粹的形式并不常见。《超级马里奥》就是一个很好地利用了协调性挑战（与反射/反应时间挑战相结合）的游戏（这样的游戏有很多）。在这款游戏中，玩家需要在避开盘旋的敌人的同时，把控时机，精准地跳过宽阔的深坑，这就要求玩家准确按下大量的按钮。
 
 Shooting games of various sorts pose a challenge of accuracy: lining up a shot at a target, when the player or the target or both might be moving. Steering also requires accuracy. Flight simulators that properly model the behavior of aircraft, or racing simulators that accurately model the behavior of racing cars, require a high degree of precision. Airplanes, in particular, usually respond rather slowly to their controls. A player expecting an instant response will tend to overcompensate, pushing farther and farther forward on the joystick when the plane's nose doesn't drop right away, and then yanking it back in panic when it finally drops much farther than he intended in the first place.
 
@@ -428,69 +428,108 @@ Shooting games of various sorts pose a challenge of accuracy: lining up a shot a
 
 Some games are forgiving about precision, allowing the player to be sloppy; others demand a delicate touch. Back before racing cars had airfoils to help hold them on the pavement, they flipped over very easily and required a much higher degree of skill from their drivers to keep them on the road. Papyrus Design Group accurately modeled this challenge in the game Grand Prix Legends.
 
-有些游戏对精确度要求不高，允许玩家马马虎虎；而有些游戏则要求玩家有细腻的手感。在赛车还没有气翼帮助它们紧贴路面之前，它们很容易翻车，需要驾驶员具备更高的技术才能将其保持在道路上。Papyrus Design Group 在游戏《大奖赛传奇》中准确地模拟了这一挑战。
+有些游戏对精确度要求不高，允许玩家马马虎虎；而有些游戏则要求精细的操作。在赛车还没有气翼帮助它们紧贴路面之前，它们很容易翻车，需要驾驶员具备更高的技能才能让它们保持在道路上。莎草纸设计集团在游戏《GP赛车传奇》中准确地模拟了这一挑战。
 
 Timing is the ability to overcome an obstacle by coordinating player moves with something else that is happening onscreen. Many video games present a weakness in an opponent's defenses for a limited period of time that, with practice, a player can learn to anticipate. Ducking under a constantly rotating hazard, for example, involves timing. Running and jumping across a chasm by pressing the Jump button at the last second is also an example of timing. It's related to reaction time, but instead of trying to do something as fast as possible, the player is trying to do something at exactly the right moment.
 
-时机是指通过协调玩家的动作和屏幕上发生的其他事情来克服障碍的能力。许多电子游戏都会在有限的时间内展示对手的防御弱点，通过练习，玩家可以学会预测对手的弱点。例如，躲避不断旋转的危险就需要把握时机。在最后一秒按下“跳跃”键跑跳过鸿沟也是时机把握的一个例子。它与反应时间有关，但玩家并不是要尽可能快地做某事，而是要在正确的时刻做某事。
+时机把握是指通过协调玩家的动作和屏幕上发生的其他事情来克服障碍的能力。许多电子游戏都会在有限的时间内展示对手的防御弱点，通过练习，玩家可以学会预测对手的弱点。例如，躲避不断旋转的危险就需要把握时机。在最后一秒按下“跳跃”键助跑跨越深坑也是时机把握的一个例子。它与反应时间有关，但玩家并不是要尽可能快地做某事，而是要在正确的时刻做某事。
 
 Many fighting games require complex sequences of joystick moves and button presses that, once mastered, will allow a "special move"—a particularly devastating attack, for example. These take a long time to learn and require very good motor coordination to achieve consistently. This sort of challenge is best suited to a player who can tolerate a high degree of frustration, or to a game that gives ample reward for this kind of persistence. Games that rely heavily on such techniques are difficult to balance. It is difficult to balance games that are based purely on physical dexterity. What one player might find easy, a different player might find impossible.
 
 许多格斗游戏需要复杂的操纵杆动作和按键序列，一旦掌握，就能使出“特殊招式”——例如特别具有破坏力的攻击。这些动作需要很长时间才能学会，而且需要很好的动作协调才能持续完成。这种挑战最适合能够承受高挫折感的玩家，或者是对这种坚持给予充分奖励的游戏。严重依赖这种技巧的游戏很难取得平衡。纯粹依靠身体灵活性的游戏很难取得平衡。一个玩家觉得容易的事情，另一个玩家可能会觉得不可能。
 
-### Reflex/Reaction Time Challenges
+### Reflex/Reaction Time Challenges 反射/反应时间挑战
 
 Reflex/reaction time challenges test the timing abilities of the player. The simplest example of a reaction time challenge (which we previously mentioned) is the children's card game Snap.
 
+反射/反应时间挑战考验玩家的把控时机的能力。反应时间挑战最简单的例子（我们之前提到过）就是儿童纸牌游戏《捉对儿》。
+
 However, reflex/reaction time challenges are usually not used in isolation in games and are often found in combination with coordination challenges. The types of games that most commonly exhibit this type of challenge are platform games, fast shoot 'em-ups, first-person shooters, and pure arcade games such as Tetris and Centipede.
+
+不过，反射/反应时间挑战通常不会单独用于游戏中，而是经常与协调挑战结合在一起。最常见展现这种挑战类型的游戏是平台游戏、快速射击游戏、第一人称射击游戏以及《俄罗斯方块》和《大蜈蚣》这样的纯粹街机游戏。
 
 This type of challenge is a factor of most action games. Only turn-based games, adventures, and role-playing games tend not to rely on reflex/reaction time challenges.
 
+这类挑战是大多数动作游戏的一个因素。只有回合制游戏、冒险游戏和角色扮演游戏往往不依赖反射/反应时间挑战。
+
 In an action game, the speed at which you operate the controls often maps directly to the speed at which your avatar reacts. This is not always exactly true because your avatar might be displayed by animations that require a certain length of time to execute, but in general, the faster a player can move and the better his reaction time is, the greater advantage he has. Good speed and reaction time are particularly valuable in fighting games.
 
-### Physical Challenges
+在动作游戏中，你操作控制器的速度往往直接对应化身的反应速度。这并不总是完全准确，因为化身可能会通过需要一定时间执行的动画来显示，但一般来说，玩家移动得越快，反应速度越快，他的优势就越大。良好的速度和反应时间在格斗游戏中尤为重要
+
+### Physical Challenges 体力挑战
 
 Physical challenges are extremely rare in games. The input methods available for computer games do not lend themselves to physical activity—at least, not without the purchase of specialized hardware.
 
+体力挑战在游戏中极为罕见。电脑游戏的输入方法并不适合体力活动——至少在不购买专门硬件的情况下是如此。
+
 Games such as Samba De Amigo and Dance Dance Revolution provide custom controller hardware, such as a special dance pad that enables the player to control the game by dancing on the pad. Others, such as Konami's Hypersport, don't use specialized hardware, relying on a standard joystick and, consequently, focusing the physical challenge to the hand and lower arm of the player.
+
+《欢乐桑巴》和《劲舞革命》等游戏提供了定制的控制器硬件，例如一个特殊的跳舞毯，玩家可以通过在垫子上跳舞来控制游戏。还有一些游戏，如科乐美公司的《超级运动会》，则不使用专门的硬件，而是使用标准的操纵杆，因此，将体力挑战集中在玩家的手和前臂上。
 
 Physical challenges are not often found in their pure form, and because of the expense and difficulty of including them in games, they are not often found at all.
 
-## Applied Challenges
+纯粹的体力挑战并不多见，而且由于在游戏中加入体力挑战的成本和难度，体力挑战也并不常见。
 
-You will recall from Chapter 2 that gameplay consists of the challenges the player faces, plus the actions she can take to overcome them. As we said previously, designing the gameplay is one of your most important design tasks. To some extent, the nature of the challenge suggests the nature of the player's response. The best games, however, allow the player to think creatively and use unconventional actions to meet the challenges.
+## Applied Challenges 应用挑战
+
+You will recall from [Chapter 2](chapter-2.md) that gameplay consists of the challenges the player faces, plus the actions she can take to overcome them. As we said previously, designing the gameplay is one of your most important design tasks. To some extent, the nature of the challenge suggests the nature of the player's response. The best games, however, allow the player to think creatively and use unconventional actions to meet the challenges.
+
+大家应该还记得，在[第二章](chapter-2.md)中，游戏玩法包括玩家所面临的挑战，以及玩家为克服这些挑战所能采取的行动。正如我们之前所说，设计游戏玩法是最重要的设计任务之一。在某种程度上，挑战的性质决定了玩家反应的性质。然而，最好的游戏能让玩家发挥创造性思维，使用非常规的操作来应对挑战。
 
 At the concept stage, you don't have to define precisely what challenges the player will face, but it's good to have an idea of what kinds of challenges you want in the game. Applied challenges are the application and use of the pure challenge forms we have discussed thus far. An applied challenge is a combination of one or more pure challenge forms applied to a given gameplay situation or style.
 
-### Races
+在概念阶段，你不必精确定义玩家将面临哪些挑战，但最好对你想在游戏中包含哪些类型的挑战有个大致的想法。应用挑战是我们迄今为止讨论过的纯粹挑战形式的应用和使用。应用挑战是一种或多种纯挑战形式的组合，应用于特定的游戏玩法场景或风格。
+
+### Races 竞赛
 
 A race is an attempt to accomplish something before someone else does. It doesn't have to be a physical race through space; it can also be a race to construct something, to accumulate something, or to do practically anything else. Normally we think of races as peaceful, involving competition without conflict, but, of course, they can be combined with conflict as well. Because races put time pressure on the player, they discourage careful strategic thought and instead encourage direct, brute-force solutions. If the player has only 15 seconds to get through a host of enemies and disarm a bomb, he's not going to pick them off one by one with sniping shots; he's going to mow them down and charge through the gap, even if it means taking a lot of damage.
 
-### Puzzles
+竞赛是在别人之前完成某事的尝试。它不一定是通过空间的体力竞赛，也可以是建造、积累或做其他任何事情的竞赛。通常我们认为竞赛是和平的，是没有冲突的竞争，但当然也可以与冲突相结合。由于竞赛会给玩家带来时间压力，因此不鼓励玩家进行缜密的战略思考，而是鼓励玩家直接、粗暴地解决问题。如果玩家只有 15 秒钟的时间穿过一大堆敌人并拆除炸弹，他就不会用狙击枪一个一个地把他们干掉，而是会把他们撂倒，然后冲过缺口，即使这意味着要承受很大的伤害。
+
+### Puzzles 谜题
 
 Far too many kinds of puzzles exist to list here, but a puzzle is primarily a mental challenge. Often a puzzle is presented as a sort of lock that, when solved, opens another part of the game. The player is presented with a series of objects—often objects that are related in ways that are not directly obvious—and he must manipulate them into a certain configuration to solve the puzzle. To solve the puzzle, it's necessary to understand the relationship among the objects, usually by trial and error and close observation.
 
+谜题的种类繁多，这里就不一一列举了，但谜题主要是一种智力挑战。谜题通常以一种锁的形式出现，解开后就会打开游戏的另一部分。玩家会看到一系列物体——通常这些物体之间的关联并不明显——他必须将这些物体摆弄成特定的形状才能解开谜题。要解开谜题，就必须了解这些物体之间的关系，通常是通过反复试验和仔细观察。
+
 Players normally get all the time they need to solve puzzles. Because different people have differing amounts of brainpower, requiring that a puzzle be solved within a time limit might make the game impossible for some players.
+
+玩家通常有足够的时间来解谜。由于不同的人脑力不同，要求在限定时间内解开谜题可能会使某些玩家无法完成游戏。
 
 A few games offer puzzles whose correct solution is not made clear at the outset. The player not only has to understand how the puzzle works, but also has to guess at the solution she is trying to achieve. We consider this a case of bad game design: It forces the player to solve the puzzle by trial and error alone because there's no way to tell when she's on the right track. Infidel was one such game. In the final puzzle at the end of the game, to open a stone sarcophagus, the player had to find 1 of 24 possible combinations of objects. There were no hints about which combination was correct; the player simply had to try them all.
 
-### Exploration
+有几款游戏的谜题一开始就没有明确的正确答案。玩家不仅要了解谜题的工作原理，还要猜测自己想要得到的谜底。我们认为这是一种糟糕的游戏设计：它迫使玩家只能通过试错来解决谜题，因为玩家根本无法判断自己是否走在正确的道路上。《异教徒》就是这样一款游戏。在游戏结尾的最后一个谜题中，要打开石棺，玩家必须从 24 种可能的物体组合中找出一种。游戏中没有提示哪种组合是正确的，玩家只能尝试所有的组合。
+
+### Exploration 探索
 
 Exploration is a key element of many games and is often its own reward. Players enjoy moving into new areas and seeing new things, but exploration cannot be free of challenge or it will just become "sightseeing." Sightseers can exhaust the entertainment of your game in such a short time that they won't perceive the value in the game; it will fail to entertain them for long. To prevent this, we design obstacles that make the players work for their freedom to explore.
 
+探索是许多游戏的关键要素，通常也是游戏本身的奖励。玩家喜欢进入新的区域，看到新的事物，但探索不能没有挑战性，否则就会变成“观光”。观光者会在很短的时间内耗尽游戏的娱乐性，以至于他们无法感知游戏的价值；游戏也无法长久地娱乐他们。为了避免这种情况，我们要设计一些障碍，让玩家为自由探索而努力。
+
 The simplest sort of obstacle to exploration is the locked door. We don't literally mean a door with a lock in it, but any device that prevents the player from going on until he has done something to unlock it. You can require the player to do an infinite number of things: find a key elsewhere and bring it to the door; find and manipulate a hidden control (usually unmarked) that opens the door; solve a puzzle that is built into the door; discover a magic word; defeat the doorkeeper in a test of skill, either physical or mental; and so on. The trick is to make the challenge interesting and fresh.
+
+最简单的探索障碍就是上锁的门。我们指的并不是字面上的带锁的门，而是指任何阻止玩家继续探索的装置，直到玩家做了某些事情将其解锁。你可以要求玩家做无限多的事情：在其他地方找到一把钥匙并把它带到门前；找到并操纵一个隐藏的控制装置（通常没有标记）来打开门；解开门上的谜题；发现一个魔法词；在体力或脑力的技能测试中打败守门人等等。诀窍在于让挑战变得有趣而新鲜。
 
 Another common obstacle is the trap. A trap is a device that somehow harms the player's avatar when triggered—possibly killing her or causing damage—and, in any case, discouraging her from coming that way or using that move again. A trap is like a locked door with higher stakes: It poses an actual threat to the player. Traps can take a variety of forms:
 
-* Some fire off once and then are harmless.
+另一个常见的障碍是陷阱。陷阱是一种装置，一旦触发就会对玩家的化身有害——可能会杀死她，也可能会造成伤害——无论如何，都会让她不敢再走那条路或使用那个动作。陷阱就像一扇上了锁的门，具有更高的风险：它对玩家构成实际威胁。陷阱的形式多种多样：
 
-* Others fire but require a certain recycle time before they can fire again.
+* Some fire off once and then are harmless.\
+有些发射一次后就不会再造成危害。
 
-* Still others respond to particular conditions but not to others, like a metal detector at an airport.
+* Others fire but require a certain recycle time before they can fire again.\
+还有一些虽能发射，但需要一定的回收时间才能再次发射。
+
+* Still others respond to particular conditions but not to others, like a metal detector at an airport.\
+还有一些对特定条件有反应，但对其他条件没有反应，比如机场的金属探测器。
 
 A player might simply withstand some traps if they don't do too much damage; other traps can be disarmed or circumvented in some way. If a player has no way of detecting a trap and can find it only by falling into it, it's really just the designer's way of slowing the player down. It's not much fun for the player. For players, the real fun comes in outwitting traps: finding and disabling them without getting caught in them. This gives players a pleasurable feeling of having outfoxed you, the designer, even as you were trying to outfox them.
 
+如果一些陷阱不会对玩家造成太大伤害，玩家就可以简单地承受它们；而另一些陷阱则可以通过某种方式解除或规避。如果玩家无法发现陷阱，只能通过掉入陷阱来找到它，这实际上只是设计者拖慢玩家速度的一种方式。这对玩家来说并没有什么乐趣。对玩家来说，真正的乐趣在于智取陷阱：在不陷入陷阱的情况下找到并解除陷阱。这让玩家有一种愉悦的感觉，即他们智胜了你——设计师，即使当你试图智胜他们。
+
 Yet another example is the maze. A maze is an area where every place looks alike, or mostly alike, and the player has to discover how the places are related to get out, usually by wandering around. Good mazes are implemented as a sort of puzzle, in which the player can deduce the organization of the maze from clues found in the rooms. Poor mazes simply put the player in an area and let her find the way out by trial and error.
+
+另一个例子是迷宫。迷宫是指每个地方看起来都差不多，或者大部分都差不多的区域，玩家必须发现这些地方之间的联系，通常是通过四处游荡才能走出迷宫。好的迷宫是一种谜题，玩家可以根据房间里的线索推断出迷宫的组织结构。差劲的迷宫只是把玩家放在一个区域内，让她通过尝试和错误找到出路。
 
 Illogical spaces are a variant on the maze theme. In old text adventure games, it was not uncommon that going north from area A took you to area B, but going south from area B did not take you back to area A. The relationships among the spaces were illogical. This challenge requires the player to keep a map, because he can't rely on his common sense to learn his way around. In modern games with 3D engines, illogical spaces are more difficult to implement than they were in text adventures. Illogical spaces are now considered an outdated technique, but they still crop up from time to time. If you're going to use them, do so sparingly, and only in places where there's an explanation for it: "Beware! There is a rip in the fabric of space-time!" or some similar excuse—although preferably more original than this one.
 
