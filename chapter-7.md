@@ -156,7 +156,7 @@ Figure 7.6. Microsoft Hearts. 见图 7.6. 微软的《红心大战》
 
 ![](.gitbook/assets/7.6.png)
 
-Bridge is another classic example of a game of imperfect information. A player does not know the contents of his partner's or his opponents' hands. He must use his knowl edge of the game to calculate the best estimate during the course of the game.
+Bridge is another classic example of a game of imperfect information. A player does not know the contents of his partner's or his opponents' hands. He must use his knowledge of the game to calculate the best estimate during the course of the game.
 
 桥牌是另一个信息不完全游戏的典型例子。玩家不知道同伴或对手手中的牌。他必须利用自己对游戏的了解，在游戏过程中计算出最佳估计。
 
@@ -533,51 +533,87 @@ Yet another example is the maze. A maze is an area where every place looks alike
 
 Illogical spaces are a variant on the maze theme. In old text adventure games, it was not uncommon that going north from area A took you to area B, but going south from area B did not take you back to area A. The relationships among the spaces were illogical. This challenge requires the player to keep a map, because he can't rely on his common sense to learn his way around. In modern games with 3D engines, illogical spaces are more difficult to implement than they were in text adventures. Illogical spaces are now considered an outdated technique, but they still crop up from time to time. If you're going to use them, do so sparingly, and only in places where there's an explanation for it: "Beware! There is a rip in the fabric of space-time!" or some similar excuse—although preferably more original than this one.
 
-不合逻辑空间是迷宫主题的一种变体。在以前的文字冒险游戏中，从 A 区向北走能到达 B 区，但从 B 区向南走却回不到 A 区的情况并不少见。空间之间的关系毫无逻辑可言。这种挑战要求玩家保存地图，因为他不能依靠常识来了解周围的情况。在使用 3D 引擎的现代游戏中，不合逻辑的空间比在文字冒险游戏中更难实现。现在，不合逻辑空间已被认为是一种过时的技术，但它们仍不时出现。如果要使用它们，请尽量少用，而且只在有解释的地方使用： “当心！时空结构出现裂缝！"或类似的借口，但最好比这个更新颖。
+不合逻辑空间是迷宫主题的一种变体。在以前的文字冒险游戏中，从 A 区向北走能到达 B 区，但从 B 区向南走却回不到 A 区的情况并不少见。空间之间的关系毫无逻辑可言。这种挑战要求玩家保存地图，因为他不能依靠常识来了解周围的情况。在使用 3D 引擎的现代游戏中，不合逻辑的空间比在文字冒险游戏中更难实现。现在，不合逻辑空间已被认为是一种过时的技术，但它们仍不时出现。如果要使用它们，请尽量少用，而且只在有解释的地方使用：“当心！时空结构出现裂缝！"或类似的借口，但最好比这个更新颖。
 
 Teleporters are the modern equivalent of illogical spaces. A teleporter is any mechanism that suddenly transports the player from where she is to someplace else. Teleporters are often hidden, which means that players trying to explore an area get caught in them and moved elsewhere without warning. If there are many hidden teleporters in an area, they can make it very difficult to explore. Teleporters can further complicate matters by not always working the same way, teleporting the player to one place the first time they are used, but to somewhere else the second time, and so on. They can also be one-way or two-way, teleporting players somewhere with no way to get back, or allowing them to teleport back again.
 
-传送器相当于现代的非逻辑空间。传送器是指任何能将玩家从其所在位置突然传送到其他地方的装置。传送器通常都是隐藏的，这意味着玩家在试图探索某个区域时会被传送器卷入其中，并在毫无征兆的情况下被传送到其他地方。如果一个区域有很多隐藏的传送器，探索起来就会非常困难。传送器的工作方式并不总是相同，第一次使用时会将玩家传送到一个地方，但第二次使用时又会传送到另一个地方，以此类推，从而使问题变得更加复杂。传送器还可以是单向或双向的，可以将玩家传送到某个地方而无法返回，也可以让他们再次传送回来。
+传送器相当于现代的非逻辑空间。传送器是指任何能将玩家从其所在位置突然传送到其他地方的装置。传送器通常都是隐藏的，这意味着玩家在试图探索某个区域时会被传送器卷入其中，并在毫无征兆的情况下被传送到其他地方。如果一个区域有很多隐藏的传送器，探索起来就会非常困难。传送器的工作方式并不总是相同，第一次使用时会将玩家传送到一个地方，但第二次使用时又会传送到另一个地方，以此类推，从而使问题变得更加复杂。传送器还可以是单向或双向的，前者将玩家传送到某个地方而无法返回，前者允许他们再次传送回来。
 
-### Conflict
+### Conflict 冲突
 
 Conflict is a central element of a great many games because it seems almost inherent in the notion of winning and losing. To win a game, you have to beat the other players. The question is how you beat them. If you beat them by attacking them directly in some way, the game is about conflict. This doesn't necessarily mean combat or violence; checkers is a completely bloodless game, but it's still about conflict.
 
+冲突是许多游戏的核心要素，因为它几乎是输赢概念的固有组成部分。要赢得游戏，你必须打败其他玩家。问题在于你如何打败他们。如果你通过某种方式直接攻击他们来打败他们，那么游戏就是关于冲突的。这并不一定意味着战斗或暴力；跳棋是一种完全不流血的游戏，但它仍然与冲突有关。
+
 The challenges associated with conflict depend on the following:
+
+与冲突相关的挑战取决于以下几点：
 
 The scale of the action (from individuals to whole armies)
 
+行动的规模（从个人到整个军队）
+
 The speed at which the conflict takes place (from turn-based, allowing all the time you want, to frenetic activity)
+
+冲突发生的速度（从回合制，让你有充足的时间，到快节奏的激烈活动）
 
 The complexity of the victory conditions (from simple survival to complex missions with goals and subgoals)
 
+获胜条件的复杂程度（从简单的生存到带有目标和次级目标的复杂任务）
+
 Strategy is the mental act of planning: taking advantage of your situation and resources, anticipating your opponent's moves, knowing and minimizing your weaknesses. A strategic challenge is one in which the player must look carefully at the game and devise a plan of action. In a strategic game, the player's chance of winning depends greatly on the quality of her plan. Chance (luck) and missing information interfere with strategy. Chess is the classic strategy game because it contains no element of chance and offers complete information to both players. Nine Men's Morris and Tic-Tac-Toe are also pure, if simple, strategy games. Backgammon is a game with some strategy, but it also depends a great deal on luck.
+
+策略是一种有计划的智力活动：利用自己的情况和资源，预测对手的行动，了解并尽量减少自己的弱点。在策略挑战中，棋手必须仔细观察游戏并制定行动计划。在战略游戏中，玩家的胜算很大程度上取决于计划的质量。机会（运气）和信息缺失会干扰策略。国际象棋是经典的策略游戏，因为它不包含任何偶然因素，而且能为双方提供完整的信息。直棋和井字棋也是纯粹的策略游戏，虽然很简单。双陆棋是一种具有一定策略性的游戏，但也在很大程度上取决于运气。
 
 Pure strategy games favor the player with a certain type of talent, and they appeal most to the kinds of people who have that talent. Because computer games are usually aimed at a broader audience, relatively few offer pure strategy games. They tend to include elements of chance and missing information as well.
 
+纯策略游戏偏爱具有某种天赋的玩家，并且最吸引具备这种天赋的人。由于电脑游戏通常面向更广泛的受众，所以相对较少提供纯策略游戏。它们倾向于包含偶然性和信息缺失等元素。
+
 Tactics involve putting a plan into execution, the process of accomplishing the goals that strategy calls for. Tactics are also about responding to unexpected events or conditions, which can include new information or bad luck. Even chess has tactics: The unknown quantity is your opponent, and she might make moves that you did not anticipate. Responding to them requires tactical skill.
+
+战术涉及将计划付诸实施，即实现战略要求的目标的过程。战术还涉及对突发事件或情况做出反应，其中可能包括新信息或坏运。即使是国际象棋也有战术：对手是一个未知数，她可能会下出你没有预料到的棋步。应对这些情况需要战术技巧。
 
 It's possible to design a purely tactical game with no strategy. A small-squad combat game in which the soldiers are always moving into unknown territory contains no opportunities for strategy—you can't plan if you don't know where you're going or what you're up against—but many for tactics, such as keeping your soldiers covered, taking advantage of their particular skills, and so on.
 
+设计一款没有策略的纯战术游戏是有可能的。在一个小队作战游戏中，士兵们总是要进入未知领域，这就没有机会制定战略——如果你不知道你要去哪里，或者你的对手是什么，你就无法制定计划，但却有很多机会制定战术，比如掩护你的士兵，利用他们的特殊技能等等。
+
 The business of supporting troops in the field and bringing fresh troops to the front lines is called logistics. Most war games don't bother with logistical challenges such as transporting food and fuel to where they're needed. These activities are generally considered boring and distracting from the main purpose of the game, which is combat. Real armies have whole teams of people responsible for logistics and could never win without this support; computer games have only the player to handle everything, so it stands to reason that he should be concentrating on more exciting tasks such as attack and defense.
+
+为战场上的部队提供支持并将生力军送上前线的工作称为后勤。大多数战争游戏都不考虑后勤方面的挑战，例如将食物和燃料运送到需要的地方。这些活动通常被认为是无聊的，会分散玩家对游戏主要目的（即战斗）的注意力。真实的军队有整整一队人负责后勤工作，如果没有这些支持，他们永远不可能取得胜利；而电脑游戏只有玩家一个人处理所有事情，所以按理说，玩家应该专注于攻防等更令人兴奋的任务。
 
 However, modern real-time strategy (RTS) games have introduced one important logistical challenge: weapons production. Unlike board war games, in which the player commonly starts with a fixed number of troops, RTSs now require the player to produce weapons and to research new ones from a limited amount of available raw material. The production facilities themselves must be constructed and then defended. This has changed the entire face of war-gaming, adding a new logistical challenge to what was formerly a purely combat-oriented genre.
 
+然而，现代即时战略（RTS）游戏引入了一个重要的后勤挑战：武器生产。在棋盘战争游戏中，玩家通常从固定数量的部队开始，而现在的实时战略游戏则不同，它要求玩家利用有限的原材料生产武器和研究新武器。生产设施本身也必须被建造并加以防守。这改变了整个战争游戏的面貌，为原本纯粹以战斗为导向的游戏类型增添了新的后勤挑战。
+
 In role-playing games, the limited size of the characters' inventories presents another logistical challenge. The player must frequently decide what to carry and what to leave behind. Equipping and balancing a party of heterogeneous characters with all that they need to face a dangerous adventure occupies a significant amount of the player's time. Of course, sometimes this is the fault of a badly designed inventory system, in which an apple takes up the same amount of space as a single coin.
+
+在角色扮演游戏中，角色背包的容量有限，这带来了另一个后勤挑战。玩家必须经常决定携带什么，留下什么。装备和平衡一个由不同角色组成的团队，让他们拥有面对危险冒险所需的一切，这占据了玩家大量的时间。当然，有时这也是设计糟糕的背包系统造成的，在这个系统中，一个苹果和一枚硬币所占的空间相同。
 
 On a smaller scale, personal conflict, as a one-on-one or one-on-many challenge, is a key feature of many action games. The player controls an avatar who battles directly against one or more opponents, often at very high speeds. The challenge of personal combat is immediate, exciting, and visceral.
 
+在较小的范围内，个人冲突作为一对一或一对多的挑战，是许多动作游戏的主要特点。玩家控制一个化身直接与一个或多个对手作战，通常速度非常快。个人对战的挑战是直接、刺激和直观的。
+
 The fundamental challenge in any game based on conflict is survival. If characters can be removed from the field of play by death or any other means, it is essential to preserve their lives or effective playing time, or you cannot achieve the victory condition. In a few games, survival is itself the victory condition and no other achievements are required, but in most, survival is necessary but not sufficient to win.
+
+任何基于冲突的游戏的基本挑战都是生存。如果游戏中的角色可以通过死亡或其他方式离开游戏场地，那么就必须保住他们的生命或有效游戏时间，否则就无法达成胜利条件。在少数游戏中，生存本身就是胜利条件，不需要其他成就，但在大多数游戏中，生存是获胜的必要条件，但不是充分条件。
 
 Survival is about defending one's self, but many games require that the player defend other things as well, especially things that cannot defend themselves. In chess, this is, of course, the king. This challenge requires that the player know not only the capabilities and vulnerabilities of his units, but also those of the thing he is protecting. He must be prepared to sacrifice valuable units to protect the vital item. Lemmings was an excellent game about sacrificing some units to preserve others.
 
+生存是为了保护自己，但许多游戏也要求玩家保护其他事物，尤其是无法保护自己的事物。在国际象棋中，这当然就是国王。这一挑战要求玩家不仅要知道自己单位的能力和弱点，还要知道他要保护的事物的能力和弱点。他必须做好牺牲宝贵单位来保护重要物品的准备。《旅鼠》就是一款以牺牲某些单位来保护其他单位的优秀游戏。
+
 Another important gaming challenge, first used extensively in Thief: The Dark Project, is stealth—the ability to move undetected. This is an extremely valuable capacity in almost any kind of conflict, especially if the player is the underdog. War games occasionally pose challenges in which the victory condition cannot be achieved through combat but must be achieved through stealth. Thief was designed entirely around this premise. Players had to achieve their missions by stealth as much as possible and had to avoid discovery or combat if they could.
+
+另一项重要的游戏挑战是潜行——在不被发现的情况下移动的能力，《神偷：暗黑计划》中首次广泛使用的是隐身术——不被察觉的行动能力。这在几乎所有冲突中都是一种极其宝贵的能力，尤其是当玩家处于劣势时。战争游戏偶尔会提出一些挑战，其中的胜利条件不能通过战斗来实现，而必须通过潜行来实现。《神偷》就是完全围绕这一前提设计的。玩家必须尽可能通过潜行的方式完成任务，并尽可能避免被发现或战斗。
 
 The element of stealth introduces considerable complexity into the design and gameplay of war games. The simplest war games are traditionally games of "perfect information," in which both players know everything about one another. Imagine how difficult chess would be if there were an invisible piece somewhere on the board that could be discovered only by accident.
 
-### Economies
+潜行元素给战争游戏的设计和玩法带来了相当大的复杂性。最简单的战争游戏传统上是“完全信息”游戏，在这种游戏中，双方都对彼此了如指掌。想象一下，如果棋盘上的某个地方有一个隐形棋子，只有在意外情况下才能被发现，那么国际象棋将会变得多么困难。
+
+### Economies 经济
 
 An economy is a system in which resources move around, either physically from place to place, or conceptually from owner to owner. This doesn't necessarily mean money; any sort of resource that can be created, moved, stored, earned, exchanged, or destroyed can be involved. Most games contain an economy of some sort. Even a first-person shooter has a simple economy: Ammunition is obtained by finding it or taking it from dead opponents, and it is consumed by firing your weapons. Health points are consumed by being hit and are restored by medical kits. The designer can make the game easier or harder by adjusting the amounts of ammunition and medical kits available, and a player who is running short must meet the challenge of obtaining more somehow.
+
+经济是一个资源流动的系统，在这个系统中，资源可以在物理上从一个地方流动到另一个地方，也可以在概念上从一个所有者流动到另一个所有者。这并不一定意味着金钱；任何一种可以创造、移动、储存、赚取、交换或销毁的资源都可能涉及其中。大多数游戏都包含某种经济。即使是第一人称射击游戏也有一个简单的经济系统： 弹药可以通过寻找或从死去的对手身上夺取来获得，并通过发射武器来消耗。被击中会消耗体力值，医疗包可以恢复体力值。设计者可以通过调整弹药和医疗包的数量来使游戏变得更容易或更困难。
 
 Economic challenges are defined in terms of the flow of resources. Some games, such as Theme Park, consist only of economic challenges; others, such as first-person shooters, combine both economic and conflict challenges.
 
