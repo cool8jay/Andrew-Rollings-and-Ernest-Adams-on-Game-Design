@@ -227,7 +227,7 @@ You may be of the school of thought that believes this lack of change is a good 
 你可能会认为这种不改变是件好事。毕竟，这是自 70 年代纸笔角色扮演游戏问世以来就一直在使用的系统。然而，我们的观点有所不同。为什么要在游戏界面中使用数字？在纸笔角色扮演游戏中，数字是必需品，但电脑最擅长的就是处理数字。为什么要让玩家费心呢？当我们刚刚给僵尸致命一击时，屏幕上就会闪现“豁免检定+1”的字样，这只会提醒我们，我们在玩的是一个干巴巴的统计游戏，上面还加了一些漂亮的图形。我们知道，这种说法以前也有人用过，而且有些玩家实际上更喜欢与数字打交道，毕竟它能让玩家清楚地知道自己在游戏中的位置。然而，在打击僵尸的同时还想知道自己的生命值有多高，会让你的信任感大打折扣。让那些想与数字打交道的玩家拥有它们，但让它们成为游戏中的一个选项。如果需要显示数字（也许是为了准确），那么至少要在某种条形图或其他图形上以标签的形式显示。不过公平地说，《异域镇魂曲》的用户界面确实允许对数字进行有限的隐藏，借鉴了其他类型游戏中显示图形化能量条的技术，这是一种巧妙地规避问题的方法。
 
 {% hint style="info" %}
-“Saving Roll +1”是龙与地下城中，角色进行豁免判定的计算规则。
+译者注：Saving Roll +1 是龙与地下城中，角色进行豁免判定的计算规则。
 {% endhint %}
 
 ### Strategy and War Games 策略和战争游戏
@@ -237,7 +237,7 @@ Like their cousin, the role-playing game, strategy and war games have their root
 与角色扮演游戏一样，战略和战争游戏也源于棋盘游戏。因此，早期的游戏往往数字繁多，玩法几乎与电脑控制的棋盘游戏一模一样。早在 1984 年，一款名为《Stonkers》（见图 6.10）的游戏在 Sinclair Spectrum 上发布，这是第一款具有突破性意义的游戏，预示着更容易上手的街机策略类游戏的诞生。这款游戏以一种更容易上手的街机形式展示了模拟战争，可以说是第一款 RTS（即时战略）战争游戏，它引入了当今 RTS 和战略游戏中许多耳熟能详的概念。
 
 {% hint style="info" %}
-Sinclair Spectrum是1982年由 Sinclair 公司生产的一款8位个人电脑。
+译者注：Sinclair Spectrum 是1982年由 Sinclair 公司生产的一款8位个人电脑。
 {% endhint %}
 
 Figure 6.10. Stonkers. 图 6.10. Stonkers
@@ -361,7 +361,7 @@ Bear in mind that you shouldn't feel that you are restricted to paper alone. The
 请记住，你不应该觉得自己只能在纸上进行创作。有很多好的工具可以让你用最少的程序设计出包括图形和声音在内的漂亮界面原型。Macromedia Flash 就是这样一种工具，如果你愿意动手写点代码，Blitz Basic ([www.blitzbasic.com](www.blitzbasic.com)) 等其他游戏制作工具也能让你制作出界面原型。
 
 {% hint style="info" %}
-[Macromedia Flash](https://en.wikipedia.org/wiki/Adobe_Flash)，被 Adobe 公司收购，现在已停产。
+译者注：[Macromedia Flash](https://en.wikipedia.org/wiki/Adobe_Flash)，被 Adobe 公司收购，现在已停产。
 {% endhint %}
 
 ### Screen Layouts 屏幕布局
@@ -429,7 +429,7 @@ In the late '90s, the programmer of this series was given an opportunity to prod
 到了 90 年代末，该系列游戏的程序员有机会将其经典足球游戏系列更新到 PC 和索尼 PlayStation 上。当然，在此期间，电脑足球游戏界面已经发生了变化，某些界面功能已被视为标准配置（例如，自动瞄准踢球、触后控制和自动运球）。这意味着，现代电脑足球游戏不再那么注重控球，而是更注重游戏的策略流程——更注重“我的球员是否保持正确的阵型来进球？”而不是“啊！球在哪里？”。
 
 {% hint style="info" %}
-aftertouch，触后控制是一种技术，玩家能够操纵他们实际上无法控制的物体的路径，例如坠毁的汽车或者飞离脚的足球。
+译者注：aftertouch，触后控制是一种技术，玩家能够操纵他们实际上无法控制的物体的路径，例如坠毁的汽车或者飞离脚的足球。
 {% endhint %}
 
 The reasoning behind the programmer's new update was to eschew this namby-pamby "make it easy on the player" approach and take things back to the old days, where learning to control the ball was a player skill in its own right. Unfortunately, the game bombed. It was too difficult to learn, and too far behind the times. The original games were successful because they were state-of-the-art when they were released. Attempting to update the game without substantially updating the control interface to match modern standards was a bad idea from the start, appealing to no one except fans of the original games (most of whom had grown up and gone on to other things) or die-hard soccer freaks.
@@ -593,7 +593,7 @@ When selecting a font for your game, try to pick one font and stick with it. If 
 为游戏选择字体时，尽量选择一种字体并坚持使用。如果你觉得必须混合使用字体，请注意混合使用的方式。尽量不要在一起使用风格迥异的字体——除非你特别想要达到“勒索信”的效果。这看起来既外行又不专业。特别是，不要同时使用有衬线字体和无衬线字体。如果要混合使用，尽量使用同一类字体。
 
 {% hint style="info" %}
-ransom note，勒索信，绑匪写给受害人家属的信件。通常由从杂志或报纸上随机剪下的单词或字母拼凑而成，避免被识别出笔迹。
+译者注：ransom note，勒索信，绑匪写给受害人家属的信件。通常由从杂志或报纸上随机剪下的单词或字母拼凑而成，避免被识别出笔迹。
 {% endhint %}
 
 The development of the icon was precisely due to the problems with the efficiency of text as a communication medium. A clear, descriptive graphical image is easier to comprehend than text, but (and there is always a but) an icon can only be understood if there is a common cultural ground between the designer and the player. Let us provide an example. Consider Figure 6.23: The icon in this image will be immediately recognizable to an American, or to anybody who has spent some time in America, but it will probably not be familiar to anyone else. It's the symbol for a  , but you have to be familiar with American culture to know that. Nothing in the picture gives any clue as to its meaning. For that reason, it's a bad choice as an icon, unless your product is restricted to within the continent of North America. A better choice of icon would be a red cross on a white background, known widely as the symbol of the International Red Cross organization (or it would be good to use if it wasn't trade marked; id Software's Doom fell foul to this particular snafu).
@@ -665,7 +665,7 @@ What could he have done to mitigate the poor design and boost those sales? There
 他本可以做些什么来减轻设计的不足并提高销量呢？他可以采取的方法有很多，我们将在这里详细介绍其中的一些（但请记住，我们只是在事后诸葛亮）。
 
 {% hint style="info" %}
-hindsight is always 20/20，hindsight的意思是事后再看，20/20是眼科检查中用来描述完美视力的术语。 
+译者注：hindsight is always 20/20，hindsight的意思是事后再看，20/20是眼科检查中用来描述完美视力的术语。 
 {% endhint %}
 
 When designing an interface that has as many options and features, as were present in Dungeon Keeper, we need to use some type of method to reduce the complexity. One thing to consider is the depth versus the width of the interface. How do we define the depth and width? In this sense, the width of an interface is the number of top-level options available to the player. For example, a menu with five buttons would have a width of five. The depth corresponds to the number of menus below the top-level menu. As a general rule of thumb (which is most certainly not valid in all situations), it is a good idea to make these values roughly equal (at least to within plus or minus 50 percent). As a guideline, count the total number of options available to your player and take the square root of that. That's the number you should be aiming for.
@@ -871,7 +871,7 @@ So, is adaptive music the holy grail or merely fool's gold? After all, sound eff
 那么，自适应音乐究竟是圣杯还是愚人金？毕竟，音效也能很好地唤起玩家的情绪，而且在任何复杂游戏中（除了那些有“轨道式”玩法的游戏），我们都不知道游戏中会发生什么。在涉及不可预知因素（玩家）时，成功预测未来的算法尚未完善。我们认为，自适应音乐在目前的有限能力范围内是（或者更确切地说，将成为）一个有价值的工具，但到目前为止，它还没有完全准备好迎接黄金时代。
 
 {% hint style="info" %}
-fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际上没有真正价值或意义的事物。
+译者注：fool's gold，愚人金，指代那些看起来有价值或者吸引人但实际上没有真正价值或意义的事物。
 {% endhint %}
 
 > **User Interface Worksheet 用户界面工作表**
