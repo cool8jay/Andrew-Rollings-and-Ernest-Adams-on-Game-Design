@@ -490,7 +490,7 @@ A race is an attempt to accomplish something before someone else does. It doesn'
 
 Far too many kinds of puzzles exist to list here, but a puzzle is primarily a mental challenge. Often a puzzle is presented as a sort of lock that, when solved, opens another part of the game. The player is presented with a series of objects—often objects that are related in ways that are not directly obvious—and he must manipulate them into a certain configuration to solve the puzzle. To solve the puzzle, it's necessary to understand the relationship among the objects, usually by trial and error and close observation.
 
-谜题的种类繁多，这里就不一一列举了，但谜题主要是一种智力挑战。谜题通常以一种锁的形式出现，解开后就会打开游戏的另一部分。玩家会看到一系列物体——通常这些物体之间的关联并不明显——他必须将这些物体摆弄成特定的形状才能解开谜题。要解开谜题，就必须了解这些物体之间的关系，通常是通过反复试验和仔细观察。
+谜题的种类繁多，这里就不一一列举了，但谜题主要是一种智力挑战。谜题通常以一种锁的形式出现，解开后就会打开游戏的另一部分。玩家会看到一系列物体——通常这些物体之间的关联并不明显——他必须将这些物体摆弄成特定的形状才能解开谜题。要解开谜题，就必须了解这些物体之间的关系，通常是通过尝试与错误和仔细观察。
 
 Players normally get all the time they need to solve puzzles. Because different people have differing amounts of brainpower, requiring that a puzzle be solved within a time limit might make the game impossible for some players.
 
@@ -529,11 +529,15 @@ A player might simply withstand some traps if they don't do too much damage; oth
 
 Yet another example is the maze. A maze is an area where every place looks alike, or mostly alike, and the player has to discover how the places are related to get out, usually by wandering around. Good mazes are implemented as a sort of puzzle, in which the player can deduce the organization of the maze from clues found in the rooms. Poor mazes simply put the player in an area and let her find the way out by trial and error.
 
-另一个例子是迷宫。迷宫是指每个地方看起来都差不多，或者大部分都差不多的区域，玩家必须发现这些地方之间的联系，通常是通过四处游荡才能走出迷宫。好的迷宫是一种谜题，玩家可以根据房间里的线索推断出迷宫的组织结构。差劲的迷宫只是把玩家放在一个区域内，让她通过尝试和错误找到出路。
+另一个例子是迷宫。迷宫是指每个地方看起来都差不多，或者大部分都差不多的区域，玩家必须发现这些地方之间的联系，通常是通过四处游荡才能走出迷宫。好的迷宫是一种谜题，玩家可以根据房间里的线索推断出迷宫的组织结构。差劲的迷宫只是把玩家放在一个区域内，让她通过尝试与错误找到出路。
 
 Illogical spaces are a variant on the maze theme. In old text adventure games, it was not uncommon that going north from area A took you to area B, but going south from area B did not take you back to area A. The relationships among the spaces were illogical. This challenge requires the player to keep a map, because he can't rely on his common sense to learn his way around. In modern games with 3D engines, illogical spaces are more difficult to implement than they were in text adventures. Illogical spaces are now considered an outdated technique, but they still crop up from time to time. If you're going to use them, do so sparingly, and only in places where there's an explanation for it: "Beware! There is a rip in the fabric of space-time!" or some similar excuse—although preferably more original than this one.
 
+不合逻辑空间是迷宫主题的一种变体。在以前的文字冒险游戏中，从 A 区向北走能到达 B 区，但从 B 区向南走却回不到 A 区的情况并不少见。空间之间的关系毫无逻辑可言。这种挑战要求玩家保存地图，因为他不能依靠常识来了解周围的情况。在使用 3D 引擎的现代游戏中，不合逻辑的空间比在文字冒险游戏中更难实现。现在，不合逻辑空间已被认为是一种过时的技术，但它们仍不时出现。如果要使用它们，请尽量少用，而且只在有解释的地方使用： “当心！时空结构出现裂缝！"或类似的借口，但最好比这个更新颖。
+
 Teleporters are the modern equivalent of illogical spaces. A teleporter is any mechanism that suddenly transports the player from where she is to someplace else. Teleporters are often hidden, which means that players trying to explore an area get caught in them and moved elsewhere without warning. If there are many hidden teleporters in an area, they can make it very difficult to explore. Teleporters can further complicate matters by not always working the same way, teleporting the player to one place the first time they are used, but to somewhere else the second time, and so on. They can also be one-way or two-way, teleporting players somewhere with no way to get back, or allowing them to teleport back again.
+
+传送器相当于现代的非逻辑空间。传送器是指任何能将玩家从其所在位置突然传送到其他地方的装置。传送器通常都是隐藏的，这意味着玩家在试图探索某个区域时会被传送器卷入其中，并在毫无征兆的情况下被传送到其他地方。如果一个区域有很多隐藏的传送器，探索起来就会非常困难。传送器的工作方式并不总是相同，第一次使用时会将玩家传送到一个地方，但第二次使用时又会传送到另一个地方，以此类推，从而使问题变得更加复杂。传送器还可以是单向或双向的，可以将玩家传送到某个地方而无法返回，也可以让他们再次传送回来。
 
 ### Conflict
 
