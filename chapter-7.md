@@ -650,7 +650,7 @@ Another sort of conceptual challenge occurs in mystery or detective games, in wh
 > 1. What types of challenges do you want to include in your game? Do you want to challenge the player's physical abilities, his mental abilities, or both?\
 > 你想在游戏中加入哪些类型的挑战？你想挑战玩家的体力、脑力，还是两者兼而有之？
 > 2. Game genres are defined in part by the nature of the challenges they offer. Have you selected a genre in advance, and if so, what does that imply for the gameplay? Do you intend to include any cross-genre elements, challenges that are not normally found in your chosen genre?\
-> 游戏类型在一定程度上是由其所提供的挑战的性质所决定的。您是否事先选定了游戏类型，如果是，这对游戏玩法意味着什么？你是否打算加入你所选类型中通常没有的跨类型元素和挑战？
+> 游戏类型在一定程度上是由其所提供的挑战的性质所决定的。你是否事先选定了游戏类型，如果是，这对游戏玩法意味着什么？你是否打算加入你所选类型中通常没有的跨类型元素和挑战？
 > 3. Does the game include implicit challenges (those that emerge from the design), as well as explicit challenges (those that you specify)?\
 > 游戏是否包括隐性挑战（设计中出现的挑战）和显性挑战（你指定的挑战）？
 > 4. If the game has a story, how does the story influence the gameplay, and vice versa? Do they operate in tandem, or are they effectively separate pieces?\

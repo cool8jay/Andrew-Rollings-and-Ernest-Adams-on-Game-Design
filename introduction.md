@@ -30,11 +30,11 @@ We offer a game design methodology intended to spur your thinking and get your c
 
 One area that we have not addressed is level design. The reason for this is simple: There is no one standard way to design levels. Level design considerations are different for each genre of game, and we simply don't have the space to address them all properly. By examining the essential elements of a genre, we hope to give you the tools to design enjoyable levels, but the process itself is, as they say, “left as an exercise for the reader.”
 
-我们尚未涉及的一个领域是关卡设计。原因很简单：没有一种标准的关卡设计方法。每种类型的游戏都有不同的关卡设计考虑因素，我们根本没有足够的篇幅来一一详述。通过研究某一类型游戏的基本要素，我们希望能为您提供设计愉快关卡的工具，但正如他们所说的那样，这个过程本身“留给读者练习”。
+我们尚未涉及的一个领域是关卡设计。原因很简单：没有一种标准的关卡设计方法。每种类型的游戏都有不同的关卡设计考虑因素，我们根本没有足够的篇幅来一一详述。通过研究某一类型游戏的基本要素，我们希望能为你提供设计愉快关卡的工具，但正如他们所说的那样，这个过程本身“留给读者练习”。
 
 You are at the beginning of a voyage of discovery. Our book is a map with white space beyond the borders. We are sharing what we know about game design in order to enable you to navigate through the familiar regions and then to press on into terra incognita. We hope that you will in turn transmit your own learning to others, continuing to fill in the map and helping to push out the boundaries of game design. The journey begins here.
 
-你正处于探索之旅的起点。我们的书就像一张地图，边界之外还有空白区域。我们分享我们所知的游戏设计知识，帮助您探索熟悉的区域，然后勇闯未知之地。我们希望你能将自己的所学传授给他人，继续填满地图，帮助拓展游戏设计的边界。旅程从这里开始。
+你正处于探索之旅的起点。我们的书就像一张地图，边界之外还有空白区域。我们分享我们所知的游戏设计知识，帮助你探索熟悉的区域，然后勇闯未知之地。我们希望你能将自己的所学传授给他人，继续填满地图，帮助拓展游戏设计的边界。旅程从这里开始。
 
 ## How This Book Is Organized 本书的编排方式
 
