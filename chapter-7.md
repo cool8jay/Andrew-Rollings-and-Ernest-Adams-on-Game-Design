@@ -9,7 +9,7 @@ There is a reason for this difficulty: The concept of gameplay is extremely diff
 
 Gameplay is so difficult to define because there is no single entity that we can point to and say, "There! That's the gameplay." Gameplay is the result of a large number of contributing elements. The presence, or lack thereof, of gameplay can be deduced by examining a particular game for indications and contraindications of these elements. (These terms are borrowed from medical terminology: An indication is a positive sign that implies the existence of gameplay, and a contraindication is a negative sign that implies that gameplay does not exist.)
 
-游戏性之所以难以定义，是因为没有一个实体可以让我们指着它说：“看！这就是游戏性”。游戏性是大量元素共同作用的结果。游戏性的存在与否，可以通过研究特定游戏中这些元素的指征和禁忌症来推断。(这些术语借用自医学术语：适应症是指暗示游戏性存在的积极信号，禁忌症是指暗示游戏性不存在的消极信号）。
+游戏性之所以难以定义，是因为没有一个实体可以让我们指着它说：“看！这就是游戏性”。游戏性是大量元素共同作用的结果。游戏性的存在与否，可以通过研究特定游戏中这些元素的适应症和禁忌症来推断。(这些术语借用自医学术语：适应症是指暗示游戏性存在的积极信号，禁忌症是指暗示游戏性不存在的消极信号）。
 
 # Use of Language 语言的使用
 
@@ -72,9 +72,9 @@ Challenges come in many shapes and forms. Even within a genre, a good game prese
 
 挑战的形式多种多样。即使在一个类型中，好的游戏也会呈现出一系列的挑战类型。类型定义越窄，范围就越窄，但这通常不是问题。购买同一类型游戏的玩家往往知道自己会遇到什么。事实上，除非做得特别好、特别合适，否则他们一般都会拒绝接受新的挑战形式，认为它们与相关类型不相称。
 
-An example is the inclusion of a fast-action, reflex-based arcade sequence in a traditional adventure game such as Escape from Monkey Island (see Figure 7.1). Handled properly, this can enhance the gameplay, giving a welcome break from the usual action. Handled badly, it can break the player's suspension of disbelief and effectively ruin the game.
+An example is the inclusion of a fast-action, reflex-based arcade sequence in a traditional adventure game such as [Escape from Monkey Island](https://en.wikipedia.org/wiki/Escape_from_Monkey_Island) (see Figure 7.1). Handled properly, this can enhance the gameplay, giving a welcome break from the usual action. Handled badly, it can break the player's suspension of disbelief and effectively ruin the game.
 
-例如，在《逃离猴岛》（见图 7.1）等传统冒险游戏中加入快速动作、基于反射的街机序列。如果处理得当，这可以增强游戏的可玩性，让玩家从通常的动作游戏中解脱出来。如果处理不当，就会打破玩家的信任感，从而毁掉游戏。
+例如，在[《逃离猴岛》](https://en.wikipedia.org/wiki/Escape_from_Monkey_Island)（见图 7.1）等传统冒险游戏中加入快速动作、基于反射的街机序列。如果处理得当，这可以增强游戏的可玩性，让玩家从通常的动作游戏中解脱出来。如果处理不当，就会打破玩家的信任感，从而毁掉游戏。
 
 Figure 7.1. Escape from Monkey Island. 图 7.1. 《逃离猴岛》。
 
@@ -98,9 +98,9 @@ Many types of challenges can be included in a game. In the majority of cases, th
 
 > **NOTE 注意**
 > 
-> A high-profile exception is the recent spate of Japanese dancing games, such as Dance Dance Revolution (see Figure 7.3), which provide the player with a pressure-sensitive mat. The mat allows the player to dance in time to the music and dancers onscreen—an interesting gameplay innovation, but one that is hardly likely to amount to anything other than an amusing diversion.
+> A high-profile exception is the recent spate of Japanese dancing games, such as [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) (see Figure 7.3), which provide the player with a pressure-sensitive mat. The mat allows the player to dance in time to the music and dancers onscreen—an interesting gameplay innovation, but one that is hardly likely to amount to anything other than an amusing diversion.
 > 
-> 一个备受瞩目的例外是最近出现的一系列日本舞蹈游戏，如《劲舞革命》（见图 7.3），这些游戏为玩家提供了一个压力感应垫。玩家可以在垫子上随着屏幕上的音乐和舞者的节奏起舞——这是一种有趣的游戏玩法创新，但除了能消遣之外，很难起到其他作用。
+> 一个备受瞩目的例外是最近出现的一系列日本舞蹈游戏，如[《劲舞革命》](https://en.wikipedia.org/wiki/Dance_Dance_Revolution)（见图 7.3），这些游戏为玩家提供了一个压力感应垫。玩家可以在垫子上随着屏幕上的音乐和舞者的节奏起舞——这是一种有趣的游戏玩法创新，但除了能消遣之外，很难起到其他作用。
 
 Figure 7.3. Dance Dance Revolution. 图 7.3. 《劲舞革命》。
 
@@ -110,17 +110,17 @@ A game can contain many challenges of each different type. To save us the insani
 
 一个游戏可以包含许多不同类型的挑战。为了避免试图分析一大堆游戏的挑战内容，并得出它们都包含所有挑战类型的疯狂尝试，我们将定义两种挑战类别：隐性和显性。
 
-An explicit challenge is an intentional challenge specifically designed by the game designer. An example is the exact timing required to dodge the swinging pendulums in Quake III Arena (see Figure 7.4). This kind of challenge tends to be more immediate and intense than an implicit challenge.
+An explicit challenge is an intentional challenge specifically designed by the game designer. An example is the exact timing required to dodge the swinging pendulums in [Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena) (see Figure 7.4). This kind of challenge tends to be more immediate and intense than an implicit challenge.
 
-显性挑战是游戏设计者专门设计的有意挑战。例如，在《雷神之锤 III 竞技场》中，躲避摆动的钟摆需要准确把握时机（见图 7.4）。这种挑战往往比隐性挑战更直接、更激烈。
+显性挑战是游戏设计者专门设计的有意挑战。例如，在[《雷神之锤 III 竞技场》](https://en.wikipedia.org/wiki/Quake_III_Arena)中，躲避摆动的钟摆需要准确把握时机（见图 7.4）。这种挑战往往比隐性挑战更直接、更激烈。
 
 Figure 7.4. Quake III Arena. 图 7.4. 《雷神之锤 III 竞技场》
 
 ![](.gitbook/assets/7.4.png)
 
-An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as Black Isle's Baldur's Gate. Implicit challenges tend to be more drawn out and less focused than explicit challenges.
+An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as Black Isle's [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate). Implicit challenges tend to be more drawn out and less focused than explicit challenges.
 
-隐性挑战是指并非专门设计在内的挑战；换句话说，它是游戏设计中出现的衍生特性。隐性挑战的一个例子是在像黑岛工作室的《博德之门》这样的传统电脑角色扮演游戏（CRPG）中，找出将物品在团队成员之间分配的最有效率的方式。隐性挑战往往比显性挑战更加持久且不那么集中。
+隐性挑战是指并非专门设计在内的挑战；换句话说，它是游戏设计中出现的衍生特性。隐性挑战的一个例子是在像黑岛工作室的[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)这样的传统电脑角色扮演游戏（CRPG）中，找出将物品在团队成员之间分配的最有效率的方式。隐性挑战往往比显性挑战更加持久且不那么集中。
 
 Having stated that the challenges present in games are mostly mental, let us take a closer look at the many forms these challenges can take. It's important to note that the following sections describe pure archetypal challenges; that is, they can be categorized as a simple challenge type, such as logic-based or reaction time-based. Not all challenges can be categorized so easily: The "challenge space" is not populated by a set of discrete points representing the archetypal pure challenge types, but instead is a smoothly varying continuum. Challenges can be hybridized (for example, a logic-based puzzle requiring a fast reaction time) and rarely—if at all—appear in their pure form.
 
@@ -136,9 +136,9 @@ Logic is primarily used when the player is presented with perfect information, a
 
 逻辑主要用于玩家面临完全信息的情况，如国际象棋。在经典博弈论中，有两大类博弈：一类是完全信息博弈，即每个棋手在任何时候都知道完整的棋局状态；另一类是不完全信息博弈，即每个棋手只知道部分棋局状态（而且每个棋手知道的部分不一定相同）。例如，国际象棋是一种完全信息游戏，因为棋手在任何时候都知道棋盘的状态和所有棋子的位置，包括自己和对手的棋子。从理论上讲，只要有足够的时间和处理能力，就有可能通过分析国际象棋游戏得出一个完美的策略。所谓完美策略，就是在任何时候都能为棋手带来最大利益的策略。就国际象棋而言，这意味着该策略的使用者永远不会输。当然，由于棋盘和棋步序列的可能排列组合数量众多，人类无法盲目地将该策略记入记忆，就像目前任何计算机都无法计算出该策略一样。
 
-When played in its puzzle mode, Chu Chu Rocket (see Figure 7.5), by Sega, is an example of a game of perfect information. The player is given a clearly defined win condition, a known playing field, and a known set of pieces to lay on that playing field. Hence, the player has perfect information. Knowing the rules governing the cat and mouse movement allows the player to predict (a pattern-recognition challenge) the paths of the cat and the mice and to place the playing pieces accordingly. Then the game is started and the results can be seen. If the win condition is not met, the player can replay the level.
+When played in its puzzle mode, [Chu Chu Rocket](https://en.wikipedia.org/wiki/ChuChu_Rocket!) (see Figure 7.5), by Sega, is an example of a game of perfect information. The player is given a clearly defined win condition, a known playing field, and a known set of pieces to lay on that playing field. Hence, the player has perfect information. Knowing the rules governing the cat and mouse movement allows the player to predict (a pattern-recognition challenge) the paths of the cat and the mice and to place the playing pieces accordingly. Then the game is started and the results can be seen. If the win condition is not met, the player can replay the level.
 
-世嘉出品的《咻咻火箭》（见图 7.5）在解谜模式下是一个完全信息游戏的范例。玩家可以得到一个明确的获胜条件、一个已知的游戏场地和一组已知的棋子。因此，玩家拥有完美的信息。知道了猫和老鼠的移动规则，玩家就可以预测猫和老鼠的移动路径（这是一项模式识别挑战），并据此摆放棋子。然后开始游戏并查看结果。如果没有达到获胜条件，玩家可以重新玩这一关。
+世嘉出品的[《咻咻火箭》](https://en.wikipedia.org/wiki/ChuChu_Rocket!)（见图 7.5）在解谜模式下是一个完全信息游戏的范例。玩家可以得到一个明确的获胜条件、一个已知的游戏场地和一组已知的棋子。因此，玩家拥有完美的信息。知道了猫和老鼠的移动规则，玩家就可以预测猫和老鼠的移动路径（这是一项模式识别挑战），并据此摆放棋子。然后开始游戏并查看结果。如果没有达到获胜条件，玩家可以重新玩这一关。
 
 Figure 7.5. Chu Chu Rocket. 图 7.5. 《咻咻火箭》。
 
@@ -148,11 +148,11 @@ In games of imperfect information, logic is not sufficient. Logic cannot fully o
 
 在不完全信息博弈中，逻辑是不够的。在不完全了解游戏状态的情况下，逻辑无法完全发挥作用。在这种情况下，必须通过推理来填补知识空白。在这种情况下，推理就是根据现有事实推断或猜测不完整知识的能力。
 
-Microsoft Hearts (see Figure 7.6) is an example of a game of imperfect information. Initially, you do not know the contents of the hands of the other players, but a skilled player can work them out to a reasonable degree of certainty by using the information revealed by which cards are passed and what tricks are laid during the course of the game.
+[Microsoft Hearts](https://en.wikipedia.org/wiki/Microsoft_Hearts) (see Figure 7.6) is an example of a game of imperfect information. Initially, you do not know the contents of the hands of the other players, but a skilled player can work them out to a reasonable degree of certainty by using the information revealed by which cards are passed and what tricks are laid during the course of the game.
 
-微软的《红心大战》（见图 7.6）就是一个不完全信息游戏的例子。一开始，你并不知道其他玩家手中的牌的内容，但是熟练的玩家可以通过游戏过程中通过哪些牌被跳过和出了哪些组合牌所透露的信息，将其推测出合理的确定程度。
+[《微软红心大战》](https://en.wikipedia.org/wiki/Microsoft_Hearts)（见图 7.6）就是一个不完全信息游戏的例子。一开始，你并不知道其他玩家手中的牌的内容，但是熟练的玩家可以通过游戏过程中通过哪些牌被跳过和出了哪些组合牌所透露的信息，将其推测出合理的确定程度。
 
-Figure 7.6. Microsoft Hearts. 见图 7.6. 微软的《红心大战》
+Figure 7.6. Microsoft Hearts. 见图 7.6. 《微软红心大战》
 
 ![](.gitbook/assets/7.6.png)
 
@@ -172,9 +172,9 @@ Games of imperfect knowledge are much more common than games of perfect knowledg
 
 不完全信息游戏比完全信息游戏更为常见。这是因为游戏的关键要素之一是挑战玩家对游戏世界的假设，形成自己的内部图景。这个图景与真实情况的吻合程度在很大程度上取决于玩家的逻辑和推理能力。设计一款没有神秘元素的好游戏要难得多。只有少数设计者能成功地做到这一点。神秘感可以被视为一种简单的方法。吸引玩家的最好方法莫过于让她参与到一个引人入胜的神秘故事中。人类的好奇心是一种非常强大的吸引力，任何游戏只要能成功地利用这一点，就能提供强大的游戏元素。《半条命》在这方面做得非常好，它让玩家扮演一名新科学家，试图在上班的第一天就因为一次可怕的跨维度实验错误而逃脱。
 
-One problem with games of perfect information is that, because of the difficulty of designing an engaging playing experience without hiding anything from the player, they tend to be very simple. Usually, they are implemented as computer board games or simple arcade games. Archon (see Figure 7.8) is an excellent example of a computerized board game that was popular in the 1980s.
+One problem with games of perfect information is that, because of the difficulty of designing an engaging playing experience without hiding anything from the player, they tend to be very simple. Usually, they are implemented as computer board games or simple arcade games. [Archon](https://en.wikipedia.org/wiki/Archon:_The_Light_and_the_Dark) (see Figure 7.8) is an excellent example of a computerized board game that was popular in the 1980s.
 
-完全信息游戏的一个问题是，由于很难在不向玩家隐瞒任何信息的情况下设计出引人入胜的游戏体验，因此它们往往非常简单。通常，它们都是以电脑棋盘游戏或简单的街机游戏的形式来实现的。《执政官》（见图 7.8）就是 1980 年代流行的电脑棋盘游戏的一个很好的例子。
+完全信息游戏的一个问题是，由于很难在不向玩家隐瞒任何信息的情况下设计出引人入胜的游戏体验，因此它们往往非常简单。通常，它们都是以电脑棋盘游戏或简单的街机游戏的形式来实现的。[《执政官》](https://en.wikipedia.org/wiki/Archon:_The_Light_and_the_Dark)（见图 7.8）就是 1980 年代流行的电脑棋盘游戏的一个很好的例子。
 
 Figure 7.8. Archon. 图 7.8. 《执政官》。
 
@@ -190,9 +190,9 @@ In some ways, lateral-thinking challenges are an extension of inference challeng
 
 在某些方面，横向思维挑战是推理挑战的延伸。当然，它们利用了相同的核心技能，但却达到了极致。横向思维挑战的任务是让玩家利用以前的经验和知识，以一种新的、意想不到的方式将它们结合起来。
 
-This knowledge can be intrinsic or extrinsic. Intrinsic means that the knowledge was gained from within the game world—for example, figuring out a new combination of runes to cast a previously unknown spell, as was the case with the "flux cage" in FTL's Dungeon Master (see Figure 7.9). If the player figured out the meaning of the runes, it was possible to figure out roughly what purpose the unknown spell had, and the player needed to do that to win the game. No knowledge gained outside the game would have helped to figure out that particular problem (unless the player looked up the answer in a game magazine or on the Internet, but that's cheating).
+This knowledge can be intrinsic or extrinsic. Intrinsic means that the knowledge was gained from within the game world—for example, figuring out a new combination of runes to cast a previously unknown spell, as was the case with the "flux cage" in FTL's [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)) (see Figure 7.9). If the player figured out the meaning of the runes, it was possible to figure out roughly what purpose the unknown spell had, and the player needed to do that to win the game. No knowledge gained outside the game would have helped to figure out that particular problem (unless the player looked up the answer in a game magazine or on the Internet, but that's cheating).
 
-这些知识可以是内在的，也可以是外在的。内在知识指的是玩家从游戏世界中获得的知识——例如，找出新的符文组合来施放以前未知的咒语，就像FTL的《迷宫魔兽》中的“通量牢笼”一样（见图 7.9）。如果玩家弄懂了符文的含义，就有可能大致猜出未知咒语的用途，而玩家需要做到这一点才能赢得游戏。在游戏之外获得的任何知识都无助于解决这个问题（除非玩家在游戏杂志或互联网上找到答案，但那是作弊）。
+这些知识可以是内在的，也可以是外在的。内在知识指的是玩家从游戏世界中获得的知识——例如，找出新的符文组合来施放以前未知的咒语，就像FTL的[《迷宫魔兽》](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game))中的“通量牢笼”一样（见图 7.9）。如果玩家弄懂了符文的含义，就有可能大致猜出未知咒语的用途，而玩家需要做到这一点才能赢得游戏。在游戏之外获得的任何知识都无助于解决这个问题（除非玩家在游戏杂志或互联网上找到答案，但那是作弊）。
 
 Figure 7.9. Dungeon Master. 图 7.9. 《迷宫魔兽》
 
@@ -224,9 +224,9 @@ Nowadays, memory-based challenges are commonly seen in children's software, and 
 
 如今，基于记忆的挑战通常出现在儿童软件中，即便如此，它们通常也与其他类型的挑战混合在一起。
 
-In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in Raven's Voyager: Elite Force is an example of an implicit memory challenge.
+In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in Raven's [Voyager: Elite Force](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force) is an example of an implicit memory challenge.
 
-事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在渡鸦公司的《航海家：精英力量》中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
+事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在渡鸦公司的[《航海家：精英力量》](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force)中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
 
 ### Intelligence-Based Challenges 基于智力的挑战
 
@@ -252,17 +252,17 @@ Knowledge-based challenges rely on the knowledge of the player. As we have alrea
 
 基于知识的挑战依赖于玩家的知识。正如我们已经提到的，有两类知识需要考虑：内在知识和外在知识。内在挑战依赖游戏世界中的知识。外在挑战则依赖于游戏世界外部的知识。
 
-In the case of knowledge-based challenges, the ultimate real-world example is Trivial Pursuit (see Figure 7.11). This board game, which most people are familiar with, relies on general knowledge to win. A player's progress is determined by his answers to a set of questions in various categories, the vast majority of which are simple and straightforward—provided that the player knows the answer. Of course, in some cases the player can attempt to answer questions that he isn't sure of by listening for the clue in the question—crossing over into the territory of a lateral-thinking challenge. Clearly, this is an example of a game relying on extrinsic knowledge-based challenges to provide the gameplay. Trivial Pursuit has also been released in computer versions for various platforms since its debut in the mid-1980s.
+In the case of knowledge-based challenges, the ultimate real-world example is [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit) (see Figure 7.11). This board game, which most people are familiar with, relies on general knowledge to win. A player's progress is determined by his answers to a set of questions in various categories, the vast majority of which are simple and straightforward—provided that the player knows the answer. Of course, in some cases the player can attempt to answer questions that he isn't sure of by listening for the clue in the question—crossing over into the territory of a lateral-thinking challenge. Clearly, this is an example of a game relying on extrinsic knowledge-based challenges to provide the gameplay. Trivial Pursuit has also been released in computer versions for various platforms since its debut in the mid-1980s.
 
-就基于知识的挑战而言，现实世界的终极例子是《棋盘问答》（见图 7.11）。这款大多数人都熟悉的棋盘游戏依靠常识取胜。玩家的进度取决于他对一系列不同类别问题的回答，其中绝大多数问题都简单明了——只要玩家知道答案。当然，在某些情况下，玩家可以通过倾听问题中的线索来尝试回答他不确定的问题，这就进入了横向思维挑战的领域。显然，这是一个依靠外在知识挑战来提供游戏性的例子。自 1980 年代中期问世以来，《棋盘问答》还推出了各种平台的电脑版本。
+就基于知识的挑战而言，现实世界的终极例子是[《棋盘问答》](https://en.wikipedia.org/wiki/Trivial_Pursuit)（见图 7.11）。这款大多数人都熟悉的棋盘游戏依靠常识取胜。玩家的进度取决于他对一系列不同类别问题的回答，其中绝大多数问题都简单明了——只要玩家知道答案。当然，在某些情况下，玩家可以通过倾听问题中的线索来尝试回答他不确定的问题，这就进入了横向思维挑战的领域。显然，这是一个依靠外在知识挑战来提供游戏性的例子。自 1980 年代中期问世以来，《棋盘问答》还推出了各种平台的电脑版本。
 
 Figure 7.11. Trivial Pursuit Millennium Edition. 图 7.11. 千禧版《棋盘问答》。
 
 ![](.gitbook/assets/7.11.png)
 
-More recently, You Don't Know Jack (see Figure 7.12) tests general (hence, extrinsic) knowledge in a quiz game format. However, this is an example that does not use knowledge-based challenges in their pure form. Instead, the questions are mostly phrased as a humorous lateral thinking problem and are set to a time limit so that players can—in most cases—figure out the answer with some (admittedly rapid) careful thought. In a lot of cases, knowledge-based challenges are inextricably linked with lateral thinking–based challenges. Except in certain rarified environments such as quiz games, knowledge-based challenges rarely appear in their archetypal form.
+More recently, [You Don't Know Jack](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)) (see Figure 7.12) tests general (hence, extrinsic) knowledge in a quiz game format. However, this is an example that does not use knowledge-based challenges in their pure form. Instead, the questions are mostly phrased as a humorous lateral thinking problem and are set to a time limit so that players can—in most cases—figure out the answer with some (admittedly rapid) careful thought. In a lot of cases, knowledge-based challenges are inextricably linked with lateral thinking–based challenges. Except in certain rarified environments such as quiz games, knowledge-based challenges rarely appear in their archetypal form.
 
-最近，《你不了解杰克》（见图 7.12）以问答游戏的形式测试一般知识（即外在知识）。不过，这个例子并没有纯粹地使用基于知识的挑战。相反，这些问题大多以幽默的横向思维问题的形式出现，并设置了时间限制，这样玩家在大多数情况下都可以通过仔细思考（当然是快速思考）找出答案。在很多情况下，基于知识的挑战与基于横向思维的挑战密不可分。除了在某些稀有的环境中，如问答游戏，基于知识的挑战很少以其原型形式出现。
+最近，[《你不了解杰克》](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise))（见图 7.12）以问答游戏的形式测试一般知识（即外在知识）。不过，这个例子并没有纯粹地使用基于知识的挑战。相反，这些问题大多以幽默的横向思维问题的形式出现，并设置了时间限制，这样玩家在大多数情况下都可以通过仔细思考（当然是快速思考）找出答案。在很多情况下，基于知识的挑战与基于横向思维的挑战密不可分。除了在某些稀有的环境中，如问答游戏，基于知识的挑战很少以其原型形式出现。
 
 Figure 7.12. You Don't Know Jack. 图 7.12. 《你不了解杰克》
 
@@ -386,9 +386,9 @@ Moral dilemmas do not have to reside fully within one level. In fact, dynamicall
 
 道德困境并不一定要完全停留在一个关卡中。事实上，动态改变这些关卡的优先级，迫使玩家在解决不同关卡中每个岔路口的道德难题之间做出决定，往往能带来有趣而富有挑战性的游戏玩法。例如，我们可以围绕“多数人的需求大于少数人的需求”这句话的有效性提出一个道德选择。
 
-So now we need some examples of real games that use moral dilemmas—but there is a problem. Until now, games have not sufficiently explored this area. Dealing with moral dilemmas has not traditionally been an area in which games excel. Morality in games has barely been considered at any level above simple "black and white" (no pun intended) playground morality. One reason for this is the difficulty of involving the player in difficult emotional situations; the willing suspension of disbelief required for the player to actively participate and believe in difficult emotional decisions is greater than that required for simpler choices. Hence, games that have employed moral decisions as a gameplay factor have relied on the simple "this is good, that is bad" approach. More recently, a game that has attempted (to some success) to deal with moral decisions in a more adult fashion is Lionhead's Black and White. Despite the title, the game attempts to deal with a moral spectrum. The player takes on the role of a god tending to the needs of her people. Aiding in the quest is a familiar, taking the form of a giant creature that can be trained to follow orders. The player is free to become any kind of god that she wants: from sickeningly good to terribly evil and any where in between. The nature of the god is reflected in the creature and the appearance of the land. How well this works in practice is open to discussion. So far, players have tended to gravitate directly toward total evil or total goodness. Although it cannot be strictly classed as a weakness or flaw, the cartoonlike nature of the game does undermine the seriousness of the moral decisions involved. This could be a good thing, of course—after all, you don't necessarily want your player to be racked by guilt for days after performing a questionable act. That would be going too far (if, indeed, it was possible).
+So now we need some examples of real games that use moral dilemmas—but there is a problem. Until now, games have not sufficiently explored this area. Dealing with moral dilemmas has not traditionally been an area in which games excel. Morality in games has barely been considered at any level above simple "black and white" (no pun intended) playground morality. One reason for this is the difficulty of involving the player in difficult emotional situations; the willing suspension of disbelief required for the player to actively participate and believe in difficult emotional decisions is greater than that required for simpler choices. Hence, games that have employed moral decisions as a gameplay factor have relied on the simple "this is good, that is bad" approach. More recently, a game that has attempted (to some success) to deal with moral decisions in a more adult fashion is Lionhead's [Black and White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). Despite the title, the game attempts to deal with a moral spectrum. The player takes on the role of a god tending to the needs of her people. Aiding in the quest is a familiar, taking the form of a giant creature that can be trained to follow orders. The player is free to become any kind of god that she wants: from sickeningly good to terribly evil and any where in between. The nature of the god is reflected in the creature and the appearance of the land. How well this works in practice is open to discussion. So far, players have tended to gravitate directly toward total evil or total goodness. Although it cannot be strictly classed as a weakness or flaw, the cartoonlike nature of the game does undermine the seriousness of the moral decisions involved. This could be a good thing, of course—after all, you don't necessarily want your player to be racked by guilt for days after performing a questionable act. That would be going too far (if, indeed, it was possible).
 
-因此，我们现在需要一些使用道德困境的真实游戏的例子——但有一个问题。到目前为止，游戏在这方面的探索还不够充分。处理道德困境历来不是游戏擅长的领域。除了简单的“黑和白”（不是双关语）游乐场道德之外，游戏中的道德问题几乎没有被考虑过。其中一个原因是让玩家参与到困难的情感情境中的难度很大；与简单的选择相比，让玩家积极参与并相信困难的情感决定所需的信任感程度更高。因此，将道德抉择作为游戏因素的游戏都依赖于简单的“这是好的，那是坏的”方法。最近，Lionhead 的《黑与白》是一款尝试以更成人化的方式处理道德抉择的游戏（取得了一定的成功）。尽管游戏的标题是黑和白，但它却试图处理道德光谱。玩家在游戏中扮演一位神，照顾她的子民的需要。她有一个“熟人”来帮助她完成任务。“熟人”是一种巨大的生物，可以被训练成服从命令的样子。玩家可以自由选择成为任何一种神：从令人作呕的善良到令人发指的邪恶，以及介于两者之间的任何一种。神的性质会反映在生物和土地的外观上。实际效果如何还有待讨论。到目前为止，玩家往往直接倾向于全恶或全善。虽然严格来说，以下一点不能被归类为弱点或缺陷，但游戏的卡通性质确实削弱了道德抉择的严肃性。当然，这可能是件好事——毕竟，你并不一定希望玩家在做出有问题的行为后，会被罪恶感折磨好几天。那就太过分了（如果真的有可能的话）。
+因此，我们现在需要一些使用道德困境的真实游戏的例子——但有一个问题。到目前为止，游戏在这方面的探索还不够充分。处理道德困境历来不是游戏擅长的领域。除了简单的“黑和白”（不是双关语）游乐场道德之外，游戏中的道德问题几乎没有被考虑过。其中一个原因是让玩家参与到困难的情感情境中的难度很大；与简单的选择相比，让玩家积极参与并相信困难的情感决定所需的信任感程度更高。因此，将道德抉择作为游戏因素的游戏都依赖于简单的“这是好的，那是坏的”方法。最近，Lionhead 的[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))是一款尝试以更成人化的方式处理道德抉择的游戏（取得了一定的成功）。尽管游戏的标题是黑和白，但它却试图处理道德光谱。玩家在游戏中扮演一位神，照顾她的子民的需要。她有一个“熟人”来帮助她完成任务。“熟人”是一种巨大的生物，可以被训练成服从命令的样子。玩家可以自由选择成为任何一种神：从令人作呕的善良到令人发指的邪恶，以及介于两者之间的任何一种。神的性质会反映在生物和土地的外观上。实际效果如何还有待讨论。到目前为止，玩家往往直接倾向于全恶或全善。虽然严格来说，以下一点不能被归类为弱点或缺陷，但游戏的卡通性质确实削弱了道德抉择的严肃性。当然，这可能是件好事——毕竟，你并不一定希望玩家在做出有问题的行为后，会被罪恶感折磨好几天。那就太过分了（如果真的有可能的话）。
 
 ### Spatial-Awareness Challenges 空间意识挑战
 
@@ -613,50 +613,83 @@ The element of stealth introduces considerable complexity into the design and ga
 
 An economy is a system in which resources move around, either physically from place to place, or conceptually from owner to owner. This doesn't necessarily mean money; any sort of resource that can be created, moved, stored, earned, exchanged, or destroyed can be involved. Most games contain an economy of some sort. Even a first-person shooter has a simple economy: Ammunition is obtained by finding it or taking it from dead opponents, and it is consumed by firing your weapons. Health points are consumed by being hit and are restored by medical kits. The designer can make the game easier or harder by adjusting the amounts of ammunition and medical kits available, and a player who is running short must meet the challenge of obtaining more somehow.
 
-经济是一个资源流动的系统，在这个系统中，资源可以在物理上从一个地方流动到另一个地方，也可以在概念上从一个所有者流动到另一个所有者。这并不一定意味着金钱；任何一种可以创造、移动、储存、赚取、交换或销毁的资源都可能涉及其中。大多数游戏都包含某种经济。即使是第一人称射击游戏也有一个简单的经济系统： 弹药可以通过寻找或从死去的对手身上夺取来获得，并通过发射武器来消耗。被击中会消耗体力值，医疗包可以恢复体力值。设计者可以通过调整弹药和医疗包的数量来使游戏变得更容易或更困难。
+经济是一个资源流动的系统，在这个系统中，资源可以在物理上从一个地方转移到另一个地方，也可以在概念上从一个所有者转移到另一个所有者。这并不一定意味着金钱；任何一种可以创造、移动、储存、赚取、交换或销毁的资源都可能涉及其中。大多数游戏都包含某种经济。即使是第一人称射击游戏也有一个简单的经济系统：弹药可以通过寻找或从死去的对手身上夺取来获得，并通过开火来消耗。被击中会消耗体力值，医疗包可以恢复体力值。设计师可以通过调整弹药和医疗包的数量使游戏变得更容易或更困难，而物资短缺的玩家必须以某种方式迎接获得更多物资的挑战。
 
 Economic challenges are defined in terms of the flow of resources. Some games, such as Theme Park, consist only of economic challenges; others, such as first-person shooters, combine both economic and conflict challenges.
 
+经济挑战是指资源流动方面的挑战。有些游戏（如《主题公园》）只包含经济挑战；有些游戏（如第一人称射击游戏）则同时包含经济挑战和冲突挑战。
+
 In many games, the challenge is simply to accumulate something: wealth, points, or anything else of intrinsic value. The object of the game might be to accumulate more money, plutonium, or widgets than your opponents. This is the basis of Monopoly, of course, and many other games. The game challenges the player to understand the mechanisms by which wealth is created and to optimize them to his own advantage. In the case of Monopoly, it's helpful to mortgage low-rent properties and use the cash to purchase high-rent ones because high-rent properties are the real source of wealth toward the end of the game. Players who understand this are at an advantage over those who don't.
 
-Requiring your players to achieve balance in an economy gives them a more interesting challenge than simply accumulating points, especially if you give them many different kinds of resources to manage. The Settlers is a series of games involving complex interactions among resources: Wheat goes to the mill to become flour, which goes to the bakery to become bread. Bread feeds miners who dig coal and iron ore, which goes to the smelter to become iron bars, which then go to the blacksmith to become weapons, and so on. All of these resources have to be produced and transported to establish a balanced economy. Produce too little of a vital item, and the whole economy grinds to a halt; produce too much, and it piles up, taking up space and wasting time and resources that could be better used elsewhere.
+在许多游戏中，挑战仅仅是积累一些东西：财富、积分或其他任何有内在价值的东西。游戏的目标可能是积累比对手更多的金钱、钚或小部件。这当然是《大富翁》和许多其他游戏的基础。游戏挑战玩家了解创造财富的机制，并将其优化为自己的优势。在《大富翁》游戏中，抵押低租金的房产并用现金购买高租金的房产是很有帮助的，因为高租金的房产才是游戏结束时财富的真正来源。了解这一点的玩家比不了解这一点的玩家更有优势。
 
-A peculiar sort of economic challenge involves looking after a person or creature, or a small number of them, as in The Sims and Creatures. Unlike a large-scale simulation such as Caesar, in which the player must build and manage an entire town, these smaller-scale simulations focus on individuals. The player must meet the needs of each individual and take into account the unique characteristics that differentiate each one from other individuals. The challenge is to make sure their needs are met and perhaps to improve their growth in various ways. The creatures often behave unpredictably, which adds both to the challenge and to the charm.
+Requiring your players to achieve balance in an economy gives them a more interesting challenge than simply accumulating points, especially if you give them many different kinds of resources to manage. [The Settlers](https://en.wikipedia.org/wiki/The_Settlers) is a series of games involving complex interactions among resources: Wheat goes to the mill to become flour, which goes to the bakery to become bread. Bread feeds miners who dig coal and iron ore, which goes to the smelter to become iron bars, which then go to the blacksmith to become weapons, and so on. All of these resources have to be produced and transported to establish a balanced economy. Produce too little of a vital item, and the whole economy grinds to a halt; produce too much, and it piles up, taking up space and wasting time and resources that could be better used elsewhere.
+
+要求玩家实现经济平衡会给他们带来比单纯积累分数更有趣的挑战，尤其是如果你给他们提供多种不同的资源来管理的话。[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)是一系列涉及资源间复杂互动的游戏：小麦到磨坊变成面粉，面粉到面包店变成面包。面包养活了挖煤和铁矿石的矿工，煤和铁矿石到冶炼厂变成铁条，铁条再到铁匠那里变成武器，等等。必须生产和运输所有这些资源，才能建立平衡的经济。重要物品生产太少，整个经济就会停滞不前；生产太多，就会堆积如山，占用空间，浪费时间和资源，而这些资源本可以更好地用于其他方面。
+
+A peculiar sort of economic challenge involves looking after a person or creature, or a small number of them, as in [The Sims](https://en.wikipedia.org/wiki/The_Sims) and [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series)). Unlike a large-scale simulation such as [Caesar](https://en.wikipedia.org/wiki/Caesar_(video_game)), in which the player must build and manage an entire town, these smaller-scale simulations focus on individuals. The player must meet the needs of each individual and take into account the unique characteristics that differentiate each one from other individuals. The challenge is to make sure their needs are met and perhaps to improve their growth in various ways. The creatures often behave unpredictably, which adds both to the challenge and to the charm.
+
+[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)和[《生物》](https://en.wikipedia.org/wiki/Creatures_(video_game_series))中有一种特殊的经济挑战，涉及到照顾一个人或生物，或一小部分人或生物。在[《凯撒》](https://en.wikipedia.org/wiki/Caesar_(video_game))等大型模拟游戏中，玩家必须建设和管理整个城镇，而这些小型模拟游戏则不同，它们的重点是个人。玩家必须满足每个人的需求，并考虑到每个人不同于其他个体的独特特征。挑战在于确保满足他们的需求，或许还能通过各种方式改善他们的成长。这些生物的行为往往难以预测，这既增加了挑战性，也增添了魅力。
 
 ### Conceptual Challenges 概念挑战
 
-Conceptual challenges are those that require the player to understand something new. To the game designer, conceptual challenges are the richest and most interesting to design because they offer the broadest scope for innovation. They can also be difficult to design and even more difficult to program. Conceptual challenges often occur in construction and management simulations, in which the game is simulating processes that the player must come to understand. In Sim City, for example, there is a direct relationship between an efficient transportation system and economic prosperity. The player who does not deduce this will have difficulty with the game. Sim City challenges the player to comprehend this and many other relationships involved in town planning.
+Conceptual challenges are those that require the player to understand something new. To the game designer, conceptual challenges are the richest and most interesting to design because they offer the broadest scope for innovation. They can also be difficult to design and even more difficult to program. Conceptual challenges often occur in construction and management simulations, in which the game is simulating processes that the player must come to understand. In [Sim City](https://en.wikipedia.org/wiki/SimCity), for example, there is a direct relationship between an efficient transportation system and economic prosperity. The player who does not deduce this will have difficulty with the game. Sim City challenges the player to comprehend this and many other relationships involved in town planning.
 
-Another sort of conceptual challenge occurs in mystery or detective games, in which the object is not merely to accomplish certain feats, but also to examine the evidence and deduce who committed the crime and how. The game Eagle Eye Mysteries is an excellent example of this: Players follow clues, ignore red herrings, and arrive at a theory of the crime, assembling the relevant evidence to demonstrate proof. Planescape: Torment also offered significant conceptual challenges and had several different endings, depending on how the player interpreted a complex and bizarre series of events.
+概念挑战是那些要求玩家理解新事物的挑战。对游戏设计者来说，概念性挑战是最丰富、最有趣的设计，因为它们提供了最广阔的创新空间。但它们也很难设计，更难编程。概念性挑战通常出现在建筑和管理模拟游戏中，游戏模拟的是玩家必须了解的过程。例如，在[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)中，高效的交通系统与经济繁荣有着直接的关系。不了解这一点的玩家在游戏中会遇到困难。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)要求玩家理解这一点以及城市规划中涉及的许多其他关系。
+
+Another sort of conceptual challenge occurs in mystery or detective games, in which the object is not merely to accomplish certain feats, but also to examine the evidence and deduce who committed the crime and how. The game [Eagle Eye Mysteries](https://en.wikipedia.org/wiki/Eagle_Eye_Mysteries) is an excellent example of this: Players follow clues, ignore red herrings, and arrive at a theory of the crime, assembling the relevant evidence to demonstrate proof. [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) also offered significant conceptual challenges and had several different endings, depending on how the player interpreted a complex and bizarre series of events.
+
+另一种概念上的挑战出现在悬疑或侦探游戏中，在这些游戏中，玩家的目标不仅仅是完成某些壮举，还要检查证据并推断出谁犯了罪以及如何犯罪。游戏[《鹰眼之谜》](https://en.wikipedia.org/wiki/Eagle_Eye_Mysteries)就是一个很好的例子：玩家追踪线索，忽略干扰，得出犯罪理论，并收集相关证据来证明案情。[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)也提供了重大的概念挑战，并有几种不同的结局，这取决于玩家如何解释一系列复杂离奇的事件。
+
+{% hint style="info" %}
+译者注：red herrings，红鲱鱼，被用来训练猎犬追踪气味，因为这种鱼的强烈气味可以分散猎犬的注意力。忽略红鲱鱼的意思是，忽略干扰信息。
+{% endhint %}
 
 > **Gameplay Worksheet 游戏性工作表**
 > 
 > 1. What types of challenges do you want to include in your game? Do you want to challenge the player's physical abilities, his mental abilities, or both?\
-> 
+> 你想在游戏中加入哪些类型的挑战？你想挑战玩家的体力、脑力，还是两者兼而有之？
 > 2. Game genres are defined in part by the nature of the challenges they offer. Have you selected a genre in advance, and if so, what does that imply for the gameplay? Do you intend to include any cross-genre elements, challenges that are not normally found in your chosen genre?\
-> 
+> 游戏类型在一定程度上是由其所提供的挑战的性质所决定的。您是否事先选定了游戏类型，如果是，这对游戏玩法意味着什么？你是否打算加入你所选类型中通常没有的跨类型元素和挑战？
 > 3. Does the game include implicit challenges (those that emerge from the design), as well as explicit challenges (those that you specify)?\
-> 
+> 游戏是否包括隐性挑战（设计中出现的挑战）和显性挑战（你指定的挑战）？
 > 4. If the game has a story, how does the story influence the gameplay, and vice versa? Do they operate in tandem, or are they effectively separate pieces?\
-> 
+> 如果游戏有故事，故事是如何影响游戏性的，反之亦然？它们是同步进行，还是各自独立？
 > 5. If the player has an avatar, how does the gameplay influence the avatar's appearance and capabilities?\
-> 
+> 如果玩家有一个化身，游戏玩法如何影响化身的外观和能力？
 > 6. Is the game's collection of challenges a related group, or is it a compilation of unrelated elements? If the latter, does that have any effect on the player's suspension of disbelief?\
-> 
+> 游戏中挑战的集合是一组相关联的，还是一系列不相关的元素的汇总？如果是后者，这是否会影响玩家的信任感？
 > 7. Given that not all players enjoy the same kinds of challenges, how does the game's target audience influence the challenges it includes? What challenges will you deliberately exclude?\
-> 
+> 鉴于并非所有玩家都喜欢同类挑战，游戏的目标受众如何影响它所包含的挑战？你会故意排除哪些挑战？
 > 8. Will the player be required to face more than one challenge at a time? Which ones?\
+> 玩家需要同时面对多个挑战吗？哪些挑战？
 
 # Putting It Together 总结
 
-As we have discussed in this chapter, there is no single aspect of any game that we can point to and identify as the gameplay. That is because gameplay is not a singular entity. It is a combination of many elements, a synergy that emerges from the inclusion of certain factors. If all of those elements are present in the correct proportion and style, we can be fairly sure that the potential for good gameplay is there; consequently, we can presume (but not be certain) that we have a good game. The gameplay emerges from the interaction among these elements, much in the same way as complex automata emerge from the simple rules of Conway's Game of Life.
+As we have discussed in this chapter, there is no single aspect of any game that we can point to and identify as the gameplay. That is because gameplay is not a singular entity. It is a combination of many elements, a synergy that emerges from the inclusion of certain factors. If all of those elements are present in the correct proportion and style, we can be fairly sure that the potential for good gameplay is there; consequently, we can presume (but not be certain) that we have a good game. The gameplay emerges from the interaction among these elements, much in the same way as complex automata emerge from the simple rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-There is a particular paradox known as the Sorites Paradox or Heap Paradox. It concerns a pile of sand. An observer is asked whether sand is a pile, and the answer is yes. Then a grain of sand is taken away. The question is repeated, and the answer is still in the affirmative. This process continues, and then at some point, the observer will say that it is no longer a pile. The question then posed is to ask why one grain of sand makes a difference between a pile and a nonpile. Can the observer state a specific number of grains of sand that define a pile? It's back to the familiar "argument of the beard": Why is the observer's definition any better than another observer's definition?
+正如我们在本章中所讨论的，任何游戏都没有一个单一的方面可以让我们指出并认定为游戏性。这是因为游戏性并不是一个单一的实体。它是许多元素的组合，是包含某些因素后产生的协同效应。如果所有这些元素都以正确的比例和风格出现，我们就可以相当肯定地认为游戏具有良好玩法的潜力；因此，我们可以推测（但不能肯定）我们拥有一款好游戏。游戏性是从这些元素之间的互动中产生的，就像复杂的自动机是从[“康威生命游戏”](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)的简单规则中产生的一样。
+
+There is a particular paradox known as the [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox) or Heap Paradox. It concerns a pile of sand. An observer is asked whether sand is a pile, and the answer is yes. Then a grain of sand is taken away. The question is repeated, and the answer is still in the affirmative. This process continues, and then at some point, the observer will say that it is no longer a pile. The question then posed is to ask why one grain of sand makes a difference between a pile and a nonpile. Can the observer state a specific number of grains of sand that define a pile? It's back to the familiar "argument of the beard": Why is the observer's definition any better than another observer's definition?
+
+有一个特殊的悖论被称为[“连续体悖论”](https://en.wikipedia.org/wiki/Sorites_paradox)或“堆悖论”。它涉及一堆沙子。观察者被问到沙子是否是一堆，答案是肯定的。然后拿走一粒沙子。重复这个问题，答案仍然是肯定的。这个过程一直持续下去，到了某一时刻，观察者会说这不再是一堆沙子了。接下来的问题是，为什么一粒沙子就能区分成堆和不成堆？观察者能说出界定一堆沙子的具体沙粒数量吗？这又回到了我们熟悉的“胡子论证”：为什么观察者的定义比另一个观察者的定义更好？
 
 The same applies to gameplay, although on a smaller and coarser-grained scale. In a gedanken experiment, we can look at a game and take away an element (or part thereof) of gameplay. (For example, we could disable Mario's ability to turn left in Mario 64.) We can then pose the question "Does it still have gameplay?" We can continue to remove elements or sub-elements and pose the same question. At some point, the game will be sufficiently crippled for the observer to say that it no longer has gameplay. This point will be different for every observer. Whose opinion is best? That's a question for the philosophers. In short, we cannot define exactly how many gameplay elements are required to make a game. We cannot even state with certainty which are required and which are superfluous. We can only state that, to have gameplay, we need some or all of these elements; to have a pile of sand, we need some or all of these grains.
 
+同样的道理也适用于游戏性，只不过是在更小和更粗粒度的范围内。在一个思想实验中，我们可以观察一款游戏，然后去掉游戏中的一个元素（或其中的一部分）（例如，我们可以去掉《马里奥 64》中马里奥向左转弯能力）。然后我们可以提出一个问题：“它还具有游戏性吗？“我们可以继续移除元素或子元素，并提出同样的问题。到了某一个点时候，游戏就会被削弱到足以让观察者说它不再具有游戏性的程度。对于每个观察者来说，这个点都是不同的。谁的意见最好？这是一个留给哲学家的问题。简而言之，我们无法准确定义制作一款游戏需要多少游戏性元素。我们甚至无法确定哪些是必需的，哪些是多余的。我们只能说，要有游戏性，我们需要这些元素中的一些或全部；要有一堆沙子，我们需要一些或者全部沙粒。
+
+{% hint style="info" %}
+译者注：gedanken，德语，意思是“思想”。
+{% endhint %}
+
 Much the same way that we can expect to find elements indicating gameplay, we can expect to find opposing elements that indicate the absence of gameplay. By this, we mean that the inclusion of the particular element could be detrimental to the gameplay or, more rarely, that gameplay is not present at all. The game in question might have included all of the elements expected to indicate good gameplay, but it might have also muddied the mix by including extra unwelcome elements that detracted from the positive effects of the good. We have all played games that were almost perfect, apart from one or two annoying flaws: Maybe the difficulty level ramped too quickly, maybe the controls were unwieldy, or maybe the collision detection was slightly suspect. Whatever the cause, it has the overall effect of taking a potentially superb game and knocking it down a peg or two, reducing it to the rank of failed contender. This determines the difference between the excellent and the merely good.
 
-It would seem fairly obvious to the game designer that she is including some suspect elements to the gameplay and, therefore, would make efforts to eliminate them from the design. This has happened. A particular case of note is Blizzard Entertainment's StarCraft. This game was continually tweaked right up until the point of release, to ensure that the gameplay and unit/unit balance was as good as possible. Even so, they didn't quite get it right, and so the expansion pack, Brood War, made further changes to the unit/unit balance—the most notable being an increase in usefulness of the Terran marine and an overhaul of the air-air and air-ground combat units.
+就像我们可以找到表明游戏性的元素一样，我们也可以找到表明游戏性缺失的对立元素。我们的意思是，加入特定元素可能会损害游戏性，或者更罕见的是，游戏性根本不存在。这款游戏可能包含了游戏性良好的所有预期元素，但也可能因为包含了额外的不受欢迎的元素而混淆了游戏性，削弱了良好游戏性的积极效果。我们都玩过一些几乎完美的游戏，除了一两个恼人的缺陷：也许是难度升级太快，也许是操控不便，也许是碰撞检测略有问题。不管是什么原因造成的，它的总体效果都是把一款潜在的优秀游戏降低一两个档次，使其沦为失败的竞争者。这就决定了优秀与一般之间的差别。
+
+It would seem fairly obvious to the game designer that she is including some suspect elements to the gameplay and, therefore, would make efforts to eliminate them from the design. This has happened. A particular case of note is Blizzard Entertainment's [StarCraft](https://en.wikipedia.org/wiki/StarCraft). This game was continually tweaked right up until the point of release, to ensure that the gameplay and unit/unit balance was as good as possible. Even so, they didn't quite get it right, and so the expansion pack, Brood War, made further changes to the unit/unit balance—the most notable being an increase in usefulness of the Terran marine and an overhaul of the air-air and air-ground combat units.
+
+对于游戏设计者来说，很明显她在游戏中加入了一些可疑的元素，因此，她会努力在设计中消除这些元素。这种情况确实发生过。暴雪娱乐公司的[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)就是一个特别值得注意的案例。这款游戏在发布之前一直在不断调整，以确保游戏性和单位/单位的平衡性尽可能好。即便如此，他们还是没有完全做到位，因此在扩展包《母巢之战》中对单位/单位的平衡性做了进一步的改动——最显著的改动是增加了人族机枪兵的实用性，并对空空和空地作战单位进行了全面调整。
 
 The presence or absence of these elements of gameplay can often be inferred only by the existence of their indications or contraindications. We examine these in more detail in the genre-specific chapters.
+
+这些游戏元素的存在与否，往往只能通过它们的适应症或禁忌症来推断。我们将在具体流派的章节中更详细地探讨这些问题。
