@@ -426,7 +426,7 @@ There is no easy solution to these problems. Good self-analysis skills come with
 
 A specific example of when analytical skills are particularly useful is in detecting dominant (that is, unbeatable or nearly unbeatable) strategies at the design phase and weeding them out before they get into the code, as in the infamous Red Alert “tank rush.” The tank effectiveness in Red Alert was so out of balance that an experienced player could dedicate all production to cranking out a few tanks and then immediately storm the opposition base before the enemy had a chance to get a production line set up.
 
-分析技能特别有用的一个具体例子是，在设计阶段发现占优势（即无敌或几乎无敌）的策略，并在它们进入代码之前将其剔除，比如臭名昭著的《红色警戒》中的“坦克突袭”。《红色警戒》中的坦克效能严重失衡，有经验的玩家可以把所有的产能都用于生产几辆坦克，然后在敌人建立生产线之前立即攻入对方基地。
+分析技能特别有用的一个具体例子是，在设计阶段发现占优势（即无敌或几乎无敌）的策略，并在它们进入代码之前将其剔除，比如臭名昭著的《红色警戒》中的“坦克快攻”。《红色警戒》中的坦克效能严重失衡，有经验的玩家可以把所有的产能都用于生产几辆坦克，然后在敌人建立生产线之前立即攻入对方基地。
 
 ### Mathematical Competence 数学能力
 
