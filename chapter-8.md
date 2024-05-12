@@ -363,15 +363,23 @@ Table 8.4. Rock, Paper, Scissors 表 8.4. 石头、剪子、布
 
 Rock, Paper, Scissors is a zero sum game. That is, if the red player wins, the blue player has to lose. If the blue player wins, the red player has to lose. And if the blue player draws, then the red player has to draw as well (and vice versa). Most interesting games are zero sum: The player wins (or player team wins) and the computer (or opposing player/team) loses—or at least, that's the idea.
 
-剪刀石头布是一个零和游戏。也就是说，如果红方赢了，蓝方就输了。如果蓝方玩家赢了，红方玩家必须输。如果蓝方玩家平局，那么红方玩家也必须平局（反之亦然）。大多数有趣的游戏都是零和游戏：玩家赢（或玩家团队赢），电脑（或对方玩家/团队）输——或者至少是这样。
+剪刀石头布是一个零和游戏。也就是说，如果红色玩家赢了，蓝色玩家就输了。如果蓝色玩家赢了，红色玩家必须输。如果蓝色玩家玩家平局，那么红色玩家也必须平局（反之亦然）。大多数有趣的游戏都是零和游戏：玩家赢（或玩家团队赢），电脑（或对方玩家/团队）输——或者至少是这样。
 
 The three-way intransitive relationship of Rock, Paper, Scissors has been the model for most real-time strategy game balancing and has also been used in other game genres, such as racing games and role-playing games, for many years. Static intransitive relationships—although more aesthetically pleasing than transitive relationships—do not lead to innovative gameplay. It's far too easy for the player to learn the simple relationships between units and figure out the best strategy to use. The game becomes a one-trick pony. The solution to this is to dynamically vary the relationship.
 
-多年来，“石头、剪子、布 ”的三方不等式关系一直是大多数即时战略游戏的平衡模式，也被用于其他类型的游戏，如赛车游戏和角色扮演游戏。静态的不传递关系虽然比传递关系更美观，但并不能带来创新的游戏玩法。玩家很容易就能学会单位之间的简单关系，并找出最佳策略。游戏变成了一招鲜。解决这个问题的办法就是动态地改变关系。
+多年来，“石头、剪子、布”的三方非传递关系一直是大多数即时战略游戏的平衡模式，也被用于其他类型的游戏，如赛车游戏和角色扮演游戏。静态的非传递关系虽然比传递关系更美观，但并不能带来创新的游戏玩法。玩家很容易就能学会单位之间的简单关系，并找出最佳策略。游戏变成了一招鲜。解决这个问题的办法就是动态地改变关系。
 
 The other problem with the three-way intransitive relationship in its unmodified form that can lead to uninteresting gameplay is that each strategy tends to be used equally, and the pattern can become predictable. In order to make the decisions more interesting, we can vary the shadow costs to alter the likelihood that the particular strategy is chosen.
 
+未经修改的三方非传递关系会导致游戏缺乏趣味性的另一个问题是，每种策略的使用率往往相等，而且这种模式变得可以预测。为了让决策更有趣，我们可以改变影子成本，从而改变选择特定策略的可能性。
+
 Let's consider an example of altering shadow cost to affect the relationship. Imagine a confrontation between two craft, A and B. These craft are capable of operating as aircraft or submersibles. Craft A is optimized for flight and is more efficient in the air than in the water. Craft B is optimized for submersible operation and is not as maneuverable in the air. In an air combat situation, A can regularly defeat B. In a submerged combat situation, B regularly defeats A. By altering the environment (and hence, the shadow costs of operating the craft), we introduce an interesting dynamic in the relationship between them. Now, this is just a binary relationship (imagine it as a isolated link in an n-way intransitive relationship); that is, A beats B or B beats A. However, it is not difficult to imagine how this binary relationship could be stretched out over a continuum. For example, if we transferred both craft into a hypothetical semifluid environment that was neither air nor water, where the abilities of both craft cancelled out, we would get a stalemate between them. From here, we could vary the medium's properties one way or the other, giving one of the craft a variable advantage over the other.
+
+让我们来看一个改变影子成本以影响关系的例子。想象一下 A 和 B 两艘飞船之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器 A 针对飞行进行了优化，在空中比在水中更高效。B 型飞行器适合潜水作业，在空中的机动性较差。在空战情况下，A 可以经常击败 B；而在水下战斗情况下，B 则经常击败 A。通过改变环境（从而改变操作船只的影子成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（把它想象成 n 方非传递关系中的一个孤立环节）；也就是说，A 打败 B 或 B 打败 A。例如，如果我们把这两艘飞船转移到一个假想的既非空气也非水的半流体环境中，在这种环境中，两艘飞船的能力相互抵消，我们就会看到它们之间的僵局。在此基础上，我们可以改变介质的属性，使其中一种飞行器比另一种飞行器具有不同的优势。
+
+让我们考虑一个改变阴影成本以影响关系的例子。想象两艘飞行器A和B之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器A针对飞行进行了优化，在空气中比在水中更高效。飞行器B针对潜水操作进行了优化，在空气中的机动性不如A。在空战情况下，A可以经常击败B。在水下战斗情况下，B经常击败A。通过改变环境（因此，改变飞行器操作的阴影成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（可以想象为一个n方非传递关系中的孤立链接）；也就是说，A击败B或B击败A。然而，不难想象这种二元关系如何可以延伸到一个连续体上。例如，如果我们将两艘飞行器都转移到一个既非空气也非水的假设的半流体环境中，在那里两艘飞行器的能力都被抵消了，我们将在它们之间得到一个僵局。从这里开始，我们可以改变介质的性质，向一个或另一个方向变化，给予其中一艘飞行器相对于另一艘的可变优势。
+
+让我们通过改变阴影成本来影响两者间关系的一个例子来考虑。设想两艘飞船A和B之间的对抗。这些飞船既能作为飞行器运行，也能作为潜水艇。飞船A针对飞行进行了优化，在空中比在水中效率更高。飞船B则针对水下操作进行了优化，在空中不如A灵活。在空战情况下，A能够经常战胜B。而在水下战斗情况下，B则经常战胜A。通过改变环境（从而改变操作飞船的阴影成本），我们在它们之间的关系中引入了一种有趣的动态变化。现在，这只是二元关系的一种（可以想象成多向不可传递关系中的一个孤立联系）；也就是说，要么A胜B，要么B胜A。然而，不难想象这种二元关系是如何沿连续体扩展的。例如，如果我们把两艘飞船置于一个假设的半流体环境中，既非空气也非水，在这种环境中双方飞船的能力相互抵消，我们就会看到它们之间陷入僵持状态。从此出发，我们可以朝着任一方向改变介质的属性，给予其中一艘飞船相对于另一艘的可变优势。
 
 Trade-Offs
 
