@@ -91,7 +91,7 @@ Let's say that R2 beats B1 with a payoff of 3, B2 beats R1 with a payoff of -2, 
 
 假设 R2 以 3 的回报击败 B1，B2 以 -2 的回报击败 R1，B1 与 R1 平局，R2 与 B2 平局，如表 8.1 所示。
 
-Table 8.1. A Simple Net Payoff Matrix 表 8.1. 简单净回报矩阵
+Table 8.1. A Simple Net Payoff Matrix 表 8.1. 简单净收益矩阵
 
 ||B1|B2|
 |---|---|---|
@@ -104,11 +104,11 @@ Note that negative numbers indicate a win to blue, and positive numbers indicate
 
 This doesn't have to mean that for each play of the game, R2 beats B1—occasionally the converse could occur. It depends on the nature of the game. What it is generally taken to mean is that the net payoff is that value. In some cases, the strategy B1 could pay more or less against the strategy R1 (subject to the whims of chance), but the average value of the payoff over time would tend to the specified value.
 
-这并不意味着每次下棋时，R2 都能击败 B1，偶尔也会出现相反的情况。这取决于游戏的性质。一般来说，这意味着净回报就是这个值。在某些情况下，策略 B1 对策略 R1 的收益可能多一些，也可能少一些（取决于偶然性），但随着时间的推移，收益的平均值会趋向于指定值。
+这并不意味着每次下棋时，R2 都能击败 B1，偶尔也会出现相反的情况。这取决于游戏的性质。一般来说，这意味着净收益就是这个值。在某些情况下，策略 B1 对策略 R1 的收益可能多一些，也可能少一些（取决于偶然性），但随着时间的推移，收益的平均值会趋向于指定值。
 
 This is especially important to realize when we are considering net payoff strategies for computer games. We have to deal with a large number of random events that do not necessarily all have the same result, but that will tend toward a certain value; hence, the net payoff tends toward a discrete value. If we were to attempt to examine each of the separate results as an individual strategy, rather than taking an average of all similar events (for example, knight versus archer combat), then the analysis would soon become unmanageable (and without meaning).
 
-当我们考虑电脑游戏的净收益策略时，认识到这一点尤为重要。我们必须处理大量的随机事件，这些事件不一定都有相同的结果，但都会趋向于某个值；因此，净报酬会趋向于一个离散值。如果我们试图把每个独立的结果都作为一个单独的策略来研究，而不是对所有类似事件（例如，骑士对弓箭手的战斗）进行平均，那么分析很快就会变得难以管理（而且没有意义）。
+当我们考虑电脑游戏的净收益策略时，认识到这一点尤为重要。我们必须处理大量的随机事件，这些事件不一定都有相同的结果，但都会趋向于某个值；因此，净收益会趋向于一个离散值。如果我们试图把每个独立的结果都作为一个单独的策略来研究，而不是对所有类似事件（例如，骑士对弓箭手的战斗）进行平均，那么分析很快就会变得难以管理（而且没有意义）。
 
 ## Dominant Strategies 优势策略
 
@@ -152,15 +152,10 @@ The net payoff matrix for this game is shown in Table 8.2.
 
 该游戏的净收益矩阵如表 8.2 所示。
 
-||Wife's Birthday|Not Wife's Birthday|
+||Wife's Birthday 是妻子的生日|Not Wife's Birthday 不是妻子的生日|
 |---|---|---|
-|Buy Flowers|10|20|
-|Don't Buy Flowers|-100|0|
-
-||是妻子的生日|不是妻子的生日|
-|---|---|---|
-|买花|10|20|
-|不买花|-100|0|
+|Buy Flowers 买花|10|20|
+|Don't Buy Flowers 不买花|-100|0|
 
 Quite clearly, the dominant strategy is to always buy flowers, because you will always get a positive payoff. (An even more obvious strategy, although outside the bounds of this example, is to make sure you remember your wife's birthday in the first place.)
 
@@ -312,79 +307,67 @@ Figure 8.7. Legend of Zelda. 图 8.7. 《塞尔达传说》。
 
 graphics/08fig07.gif
 
-* R-Type. A side-scrolling space-based shoot 'em-up (see Figure 8.8). As the player defeats enemies, they drop pods containing weapons upgrades for the player's ship. The cumulative upgrades are lost when your ship is destroyed.
+* R-Type. A side-scrolling space-based shoot 'em-up (see Figure 8.8). As the player defeats enemies, they drop pods containing weapons upgrades for the player's ship. The cumulative upgrades are lost when your ship is destroyed.\
+《异形战机》。一款卷轴太空射击游戏（见图 8.8）。当玩家击败敌人时，敌人会掉落装有玩家飞船升级武器的吊舱。当你的飞船被摧毁时，累积的升级就会丢失。
 
-Figure 8.8. R-Type.
+Figure 8.8. R-Type. 图 8.8. 《异形战机》
 
 graphics/08fig08.gif
 
-* Diablo. An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.
+* Diablo. An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.\
+《暗黑破坏神》一款等距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
 
-Figure 8.9. Diablo.
+Figure 8.9. Diablo. 图 8.9. 《暗黑破坏神》
 
 graphics/08fig09.gif
 
-* Doom, Quake, Half-Life, and so on. First-person shooters (see Figure 8.10). As you progress through the game, successively better weapons can be found that scale the player's firepower with that of the enemy. You lose the advanced weapons when your avatar is killed.
+* Doom, Quake, Half-Life, and so on. First-person shooters (see Figure 8.10). As you progress through the game, successively better weapons can be found that scale the player's firepower with that of the enemy. You lose the advanced weapons when your avatar is killed.\
+《毁灭战士》，《雷神之锤》，《半条命》等。第一人称射击游戏（见图 8.10）。随着游戏进程的推进，玩家可以陆续找到更好的武器，使玩家的火力与敌人的火力相匹配。当你的化身被杀死时，你就会失去高级武器。
 
-Figure 8.10. Doom.
+Figure 8.10. Doom. 图 8.10. 《毁灭战士》。
 
 graphics/08fig10.gif
 
-* The Sims. A "family simulator" that lets the player build and furnish a house and manage the family living within it (see Figure 8.11). For each household item you can purchase, there are upgrades available that function more efficiently. The more money you spend on an item, the more efficiently it does its job—it could take up less space, be prettier, or perform a double function.
+* The Sims. A "family simulator" that lets the player build and furnish a house and manage the family living within it (see Figure 8.11). For each household item you can purchase, there are upgrades available that function more efficiently. The more money you spend on an item, the more efficiently it does its job—it could take up less space, be prettier, or perform a double function.\
+《模拟人生》是一款“家庭模拟器”，让玩家建造和布置房屋，并管理住在其中的家人（见图 8.11）。每购买一件家居用品，都可以升级以提高功能效率。你在一件物品上花的钱越多，它的工作效率就越高——它可以占用更少的空间，变得更漂亮，或者实现双重功能。
 
-Figure 8.11. The Sims.
+Figure 8.11. The Sims. 图 8.11. 《模拟人生》。
 
 graphics/08fig11.gif
 
-Intransitive Relationships: Rock, Paper, Scissors
+## Intransitive Relationships: Rock, Paper, Scissors 非传递关系：石头，布，剪刀
 
 Almost everyone is familiar with the children's game Rock, Paper, Scissors (sometimes called Scissors, Paper, Stone). For those of you who managed to miss this one, the rules are basically summarized as follows: scissors cut paper, paper wraps stone, stone blunts scissors. Two players, the red player and the blue player, choose one of the three glyphs and score the game depending on the rules.
 
+几乎每个人都熟悉儿童游戏“石头、布、剪子”（有时也叫 “剪刀、布、石头”）。对于那些错过了这个游戏的人来说，游戏规则基本上可以概括如下：剪刀剪纸，布包石头，石头砸剪刀。两名玩家，即红色玩家和蓝色玩家，从三个符号中选择一个，并根据规则得分。
+
 This gives us a balanced, three-way intransitive relationship, as shown in Figure 8.12.
 
-Figure 8.12. Three-way intransitive relationship in Rock, Paper, Scissors.
+这样，我们就得到了一个平衡的三方非传递关系，如图 8.12 所示。
+
+Figure 8.12. Three-way intransitive relationship in Rock, Paper, Scissors. 图 8.12. 石头、剪子、布中的三向不等式关系。
 
 graphics/08fig12.gif
 
 The net payoff matrix for Rock, Paper, Scissors is shown in Table 8.4.
 
-Table 8.4. Rock, Paper, Scissors
+剪刀石头布的净收益矩阵如表 8.4 所示。
 
- 	
-Scissors
+Table 8.4. Rock, Paper, Scissors 表 8.4. 石头、剪子、布
 
-Paper
-
-Rock
-
-Scissors
-
-0
-
-1
-
--1
-
-Paper
-
--1
-
-0
-
-1
-
-Rock
-
-1
-
--1
-
-0
-
+|| Scissors 剪刀 | Paper 布 | Rock 石头|
+|---|---|---|---|
+|Scissors 剪刀|0|1|-1|
+|Paper 布|-1|0|1|
+|Rock 石头|1|-1|0|
 
 Rock, Paper, Scissors is a zero sum game. That is, if the red player wins, the blue player has to lose. If the blue player wins, the red player has to lose. And if the blue player draws, then the red player has to draw as well (and vice versa). Most interesting games are zero sum: The player wins (or player team wins) and the computer (or opposing player/team) loses—or at least, that's the idea.
 
+剪刀石头布是一个零和游戏。也就是说，如果红方赢了，蓝方就输了。如果蓝方玩家赢了，红方玩家必须输。如果蓝方玩家平局，那么红方玩家也必须平局（反之亦然）。大多数有趣的游戏都是零和游戏：玩家赢（或玩家团队赢），电脑（或对方玩家/团队）输——或者至少是这样。
+
 The three-way intransitive relationship of Rock, Paper, Scissors has been the model for most real-time strategy game balancing and has also been used in other game genres, such as racing games and role-playing games, for many years. Static intransitive relationships—although more aesthetically pleasing than transitive relationships—do not lead to innovative gameplay. It's far too easy for the player to learn the simple relationships between units and figure out the best strategy to use. The game becomes a one-trick pony. The solution to this is to dynamically vary the relationship.
+
+多年来，“石头、剪子、布 ”的三方不等式关系一直是大多数即时战略游戏的平衡模式，也被用于其他类型的游戏，如赛车游戏和角色扮演游戏。静态的不传递关系虽然比传递关系更美观，但并不能带来创新的游戏玩法。玩家很容易就能学会单位之间的简单关系，并找出最佳策略。游戏变成了一招鲜。解决这个问题的办法就是动态地改变关系。
 
 The other problem with the three-way intransitive relationship in its unmodified form that can lead to uninteresting gameplay is that each strategy tends to be used equally, and the pattern can become predictable. In order to make the decisions more interesting, we can vary the shadow costs to alter the likelihood that the particular strategy is chosen.
 
