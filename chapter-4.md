@@ -245,7 +245,7 @@ The call to adventure can take many forms. Infogrames's [Outcast](https://en.wik
 
 冒险的召唤可以有多种形式。Infogrames 的[《时空英豪》](https://en.wikipedia.org/wiki/Outcast_(video_game))（见图 4.5）描绘了退役特种兵卡特·斯莱德坐在酒吧里喝威士忌的情景。就在他喝着酒的时候，几个探员找到他，告诉他以前的指挥官急需他的帮助。这是他第一次接到冒险的召唤。
 
-Figure 4.5. Outcast. 图4.5. 《流放者》。
+Figure 4.5. Outcast. 图4.5. 《时空英豪》。
 
 ![](/.gitbook/assets/4.5.jpg)
 
