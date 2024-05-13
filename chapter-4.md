@@ -241,9 +241,9 @@ Now, bear in mind that the players already know they are going to be entering a 
 
 现在，请记住，玩家已经知道他们将进入一个特殊的世界，所以很难给他们一个惊喜。但更安全、更简单的方法是利用玩家的这种期待，提高他们的期待水平，让他们迫不及待地进入特殊世界。不过，不要试图将这种铺垫维持太久。玩家买游戏是为了玩，而不是等着设计师让他玩。
 
-The call to adventure can take many forms. Infogrames's Outcast (see Figure 4.5) portrays the hero, retired Special Forces man Cutter Slade, sitting in a bar knocking back straight whiskies. As he is sitting nursing his drink, several G-men approach him and inform him that he is needed with the utmost urgency by Cutter's old commanding officer. This is his first call to adventure.
+The call to adventure can take many forms. Infogrames's [Outcast](https://en.wikipedia.org/wiki/Outcast_(video_game)) (see Figure 4.5) portrays the hero, retired Special Forces man Cutter Slade, sitting in a bar knocking back straight whiskies. As he is sitting nursing his drink, several G-men approach him and inform him that he is needed with the utmost urgency by Cutter's old commanding officer. This is his first call to adventure.
 
-冒险的召唤可以有多种形式。Infogrames 的《流放者》（见图 4.5）描绘了退役特种兵卡特·斯莱德坐在酒吧里喝威士忌的情景。就在他喝着酒的时候，几个探员找到他，告诉他以前的指挥官急需他的帮助。这是他第一次接到冒险的召唤。
+冒险的召唤可以有多种形式。Infogrames 的[《时空英豪》](https://en.wikipedia.org/wiki/Outcast_(video_game))（见图 4.5）描绘了退役特种兵卡特·斯莱德坐在酒吧里喝威士忌的情景。就在他喝着酒的时候，几个探员找到他，告诉他以前的指挥官急需他的帮助。这是他第一次接到冒险的召唤。
 
 Figure 4.5. Outcast. 图4.5. 《流放者》。
 
