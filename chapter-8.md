@@ -247,7 +247,7 @@ Symmetry is mainly useful in balancing n-player games. It can also be used in ba
 
 对称性主要用于平衡多人游戏。它也可以用于平衡单人游戏；这是一个很好的起点，可以确保电脑控制的实体与玩家大致平衡。不过，对称是一种相当不成熟的方法，导致直接对抗的策略数量有限。玩家有可能被限制在简单的针锋相对游戏中。电脑向我扔 X，所以我必须用 Y 来回应，这样电脑就会向我扔更多的 X，以此类推。这并不会带来特别有趣的游戏玩法，而且如果我们将更先进的平衡技术与功能对称性结合起来使用，它还会屏蔽掉许多更有趣的游戏动态。
 
-## Transitive Relationships 传递关系
+### Transitive Relationships 传递关系
 
 In a nutshell, a transitive relationship defines a one-way relationship between two or more entities. A can beat B, B can beat C, and C cannot beat anyone (and hence, by implication, A can beat C), as shown in Figure 8.5 and Table 8.3.
 
@@ -335,7 +335,7 @@ Figure 8.11. The Sims. 图 8.11. 《模拟人生》。
 
 graphics/08fig11.gif
 
-## Intransitive Relationships: Rock, Paper, Scissors 非传递关系：石头，布，剪刀
+### Intransitive Relationships: Rock, Paper, Scissors 非传递关系：石头，布，剪刀
 
 Almost everyone is familiar with the children's game Rock, Paper, Scissors (sometimes called Scissors, Paper, Stone). For those of you who managed to miss this one, the rules are basically summarized as follows: scissors cut paper, paper wraps stone, stone blunts scissors. Two players, the red player and the blue player, choose one of the three glyphs and score the game depending on the rules.
 
@@ -377,7 +377,7 @@ Let's consider an example of altering shadow cost to affect the relationship. Im
 
 让我们来看一个改变影子成本以影响关系的例子。想象一下 A 和 B 两艘飞船之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器 A 针对飞行进行了优化，在空中比在水中更高效。飞行器 B 适合潜水作业，在空中的机动性较差。在空战情况下，A 可以经常击败 B；在水下战斗情况下，B 则经常击败 A。通过改变环境（从而改变操作飞船的影子成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（把它想象成 n 方非传递关系中的一个孤立环节）；也就是说，A 打败 B 或 B 打败 A。然而，不难想象这种二元关系如何可以延伸到一个连续体上。例如，如果我们将两艘飞船都转移到一个既非空气也非水的假想的半流体环境中，在那里两艘飞船的能力都被抵消了，我们将在它们之间得到一个僵局。从这里开始，我们可以改变介质的性质，向一个或另一个方向变化，给予其中一艘飞船相对于另一艘的可变优势。
 
-### Trade-Offs 权衡取舍
+## Trade-Offs 权衡取舍
 
 Not all relationships between entities are a transition between an inferior and a superior entity. One entity might be better than another in some ways and not in others, but a general improvement can sometimes be gained by the transition, depending on the circumstances. (For example, a pistol is great on land compared with a harpoon, but the roles are reversed underwater.)
 
@@ -403,7 +403,7 @@ You also want to make sure that spending a point on one attribute has a similar 
 
 此外，你也要确保在一项属性上投入一点所产生效果的大小，与其他任何属性上的投入是相似的。这意味着，例如，增加一点力量应该使得角色的力量提升，这个提升幅度应与花费相同数量点数提高角色智力所产生的提升幅度相当。
 
-### Combination 组合
+## Combination 组合
 
 Transitive and intransitive relationships don't necessarily have to involve single entities. That is to say, you don't have to specify that one archer beats one unit of infantry. In some cases, two or more entities can be treated as a single entity when balancing a game. For example, even though one unit of infantry may not be enough to beat one archer, you might be able to use a unit of infantry in combination with another unit.
 
@@ -417,7 +417,7 @@ In general, combinatorial effects in your game will not be a significant problem
 
 一般来说，只要注意基本平衡，游戏中的组合效应就不会成为大问题。如果你的游戏基础扎实且平衡，那么你很有可能不会在组合效果和出现方面遇到任何重大困难。
 
-### Emergence 涌现
+## Emergence 涌现
 
 Emergence is the action of simple rules combining to produce complex results. The classic example in the computer world is [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). In this cellular automata simulation (which the majority of people will be familiar with), a few simple rules produce some astoundingly complex results.
 
@@ -478,7 +478,7 @@ For example, in one of the games, there is a still that produces alcoholic bever
 例如，在其中一个游戏中，有一个生产酒精饮料的蒸馏酿酒厂。在酿酒厂里喝酒的快感是如此直接，以至于所有找到酿酒厂的诺恩都会呆在那里一醉方休。不幸的是，这并不像听起来那么有趣（好吧，反正不会持续太久）。他们喝醉了。他们摔倒。仅此而已。显然，这是一个不受欢迎的涌现例子。它并没有给游戏增添任何有趣的东西，事实上，它还减弱了游戏的趣味性。
 
 
-### Feedback Loops 反馈循环
+###= Feedback Loops 反馈循环
 
 The basic progression of a game is that it starts statically and dynamically balanced and then gets out of balance, first one way and then the other. It goes backward and forward like a seesaw, with one player ahead and then the other, until someone eventually gets so far ahead that it is impossible for the other to catch up.
 
@@ -498,16 +498,22 @@ You need the keep the players in the balance sweet spot for as long as is practi
 
 Or you can counter positive feedback with negative feedback, as well. Suppose taking an enemy piece enables you to use it, but there is a price to be paid for it: It must be supported somehow. This means that taking it is not "free." This was found in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper): You could torture enemy creatures to convert them to your side, but once you did, they had to have food and money and a place to sleep. The process of converting them also took time, and if you weren't careful, you might kill them without converting them. As a result, it wasn't a strongly dominant strategy. It was a weakly dominant one that was well worthwhile but not absolutely necessary (we won't comment on the morals of simulated torture of imaginary creatures).
 
-你也可以用负反馈来对抗正反馈。假设夺取敌人的棋子能让你使用它，但要付出代价：必须以某种方式支持它。这就意味着，拿走它并不是“免费”的。在[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中就有这种情况：你可以折磨敌方生物，让他们皈依你的阵营，但一旦你这样做了，他们就必须有食物、金钱和睡觉的地方。转化他们的过程也需要时间，如果你不小心，可能在没有转化他们的情况下就杀死了他们。因此，这并不是一种强优势战略。这是一种弱优势策略，虽然很有价值，但并非绝对必要（我们不评论模拟折磨假想生物的道德问题）。
+你也可以用负反馈来对抗正反馈。假设夺取敌人的棋子能让你使用它，但要付出代价：必须以某种方式支持它。这就意味着，拿走它并不是“免费”的。在[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中就有这种情况：你可以折磨敌方生物，让他们皈依你的阵营，但一旦你这样做了，他们就必须有食物、金钱和睡觉的地方。转化他们的过程也需要时间，如果你不小心，可能在没有转化他们的情况下就杀死了他们。因此，这并不是一种强优势战略。这是一种弱优势策略，虽然很有价值，但并非绝对必要（我们不评论模拟折磨虚构生物的道德问题）。
 
 Another example is the venerable game of 8-ball pool: The more you get ahead, the more difficult it is to keep sinking shots because you have less balls to target and your opponent has more balls to get in the way.
 
-另一个例子是古老的 8 球撞球游戏： 你越是领先，就越难继续沉底击球，因为你的目标球越少，而对手的阻碍球越多。
+另一个例子是古老的美式八球游戏：你越是领先，保持连续击球入袋就越困难，因为你能击打的目标球更少，而对手则有更多的球来阻碍你的击球。
 
 Another solution to too much positive feedback is to include a random factor that gives the player who's behind a chance to catch up just through sheer luck: throwing double sixes in backgammon, for example. Of course, if the random factor is fair, it might put the player even further behind, too, but at least it adds variety and uncertainty to the game. But the random factor must not be too great, or it overrides the value of good play in the first place and discourages a good player. Why play well if the result amounts to flipping a coin anyway? Poker is a good example of a game with a well-balanced random factor: In any given game, randomness plays a large role, but smart players don't bet large amounts on a single game. Rather, they count on the cumulative effect of good play over many games to reward good players and take money from poor ones. The major factor that determines winners (averaged over a statistically significant number of games) is player skill.
 
-Summary of Static Balance
+解决正反馈过多问题的另一个办法是加入随机因素，让落后的玩家有机会凭借运气追赶上来：例如，在双陆棋中扔双六。当然，如果随机因素是公平的，也可能会让玩家落后得更多，但至少增加了游戏的多样性和不确定性。但随机因素不能太大，否则就会抵消了好棋的价值，打击好棋手的积极性。如果结果就像掷硬币一样，那为什么还要玩得好？扑克就是随机因素平衡的一个很好的例子：在任何特定的游戏中，随机性都起着很大的作用，但聪明的玩家不会在单局游戏中下大注。相反，他们依靠多场比赛的良好发挥所产生的累积效应来奖励优秀的玩家，并从差劲的玩家手中夺走奖金。决定胜负的主要因素（在统计意义上的大量游戏中的平均值）是玩家的技术。
+
+## Summary of Static Balance 静态平衡总结
 
 Static balance boils down to the fact that the balance in most games is simply a dynamic tension (by means of feedback loops) between the transitive and intransitive relationships and the shadow costs for obtaining and transitioning between entities.
 
+静态平衡可以归结为，大多数游戏中的平衡只是实体间的传递关系和非传递关系以及获取和转换实体的影子成本之间的动态紧张关系（通过反馈回路）。
+
 Static game balance is only half the story. Setting up the static balance ensures that the initial starting position for the game is in equilibrium. And then along comes a player whose sole aim is to destroy your carefully constructed balance by actually playing the game. So now it's time to set the machine in motion. The next section on dynamic balance covers how to handle balance issues while the player is interacting with the system.
+
+静态游戏平衡只是故事的一半。设置静态平衡可以确保游戏的初始起始位置处于平衡状态。然后会出现一个玩家，他的唯一目的就是通过实际玩游戏来破坏你精心构建的平衡。所以，现在是时候让机器运转起来了。关于动态平衡的下一节将介绍如何在玩家与系统互动时处理平衡问题。
