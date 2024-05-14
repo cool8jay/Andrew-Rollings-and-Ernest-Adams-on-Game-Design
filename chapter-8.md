@@ -517,3 +517,302 @@ Static balance boils down to the fact that the balance in most games is simply a
 Static game balance is only half the story. Setting up the static balance ensures that the initial starting position for the game is in equilibrium. And then along comes a player whose sole aim is to destroy your carefully constructed balance by actually playing the game. So now it's time to set the machine in motion. The next section on dynamic balance covers how to handle balance issues while the player is interacting with the system.
 
 静态游戏平衡只是故事的一半。设置静态平衡可以确保游戏的初始起始位置处于平衡状态。然后会出现一个玩家，他的唯一目的就是通过实际玩游戏来破坏你精心构建的平衡。所以，现在是时候让机器运转起来了。关于动态平衡的下一节将介绍如何在玩家与系统互动时处理平衡问题。
+
+# Dynamic Balance 动态平衡
+
+Dynamic balance covers the opening, midgame, and endgame of classic game analysis on a much finer scale. Rather than treating the game as three discrete phases, which is fine for postgame analyses, we have to consider the fully continuous spectrum of play, from start to end. This differs from the static balance, because we have to consider the interaction of the player or players with the statically balanced system. We are concerned with not only static balance, but also dynamic balance—how the balance changes with time and player interaction.
+
+动态平衡涵盖了经典对局分析中的开局、中盘和尾盘，而且范围更广。我们不能将对局视为三个离散的阶段（这对棋局后的分析没有问题），而是要考虑从开始到结束的完全连续的对局。这与静态平衡不同，因为我们必须考虑玩家（们）与静态平衡系统之间的互动。我们不仅要考虑静态平衡，还要考虑动态平衡——平衡如何随着时间和玩家的互动而变化。
+
+We have to consider passive balancing, that is, keeping the system in balance with the player, without actually moving the equilibrium point. We also need to consider active balancing, shifting the equilibrium dynamically in response to the player's actions, either to increase difficulty or to adapt the game to the abilities of the player.
+
+我们必须考虑被动平衡，即保持系统与玩家的平衡，而不实际移动平衡点。我们还需要考虑主动平衡，即根据玩家的行为动态地改变平衡点，以增加难度或使游戏适应玩家的能力。
+
+## What Are We Balancing? 我们在平衡什么？
+
+The word balancing suggests the act of restoring a system to an equilibrium position. Consequently, our discussion of game balance revolves around the hypothesis that a game is a system (or collection of systems) that needs to be restored to equilibrium. This is, in fact, the case, but these systems need to be balanced in slightly different ways, depending on their nature and function.
+
+平衡一词意味着将一个系统恢复到平衡位置的行为。因此，我们对游戏平衡的讨论围绕着这样一个假设：游戏是一个需要恢复平衡的系统（或系统集合）。事实上，情况的确如此，但这些系统需要平衡的方式略有不同，这取决于它们的性质和功能。
+
+In some ways, this is a moot point—part of balance is the player herself—and we don't necessarily want to have to implement handicaps for a good player so that a rank newbie can hold her own. You can take play balancing too far. If a player is willing to work fairly within the bounds of the system in order to gain a competitive edge (such as those players of [Starcraft](https://en.wikipedia.org/wiki/StarCraft) who memorize statistics and use the user interface shortcuts to the fullest to gain an advantage, as shown in Figure 8.14), she should be allowed that privilege.
+
+在某些方面，这是一个没有实际意义的问题——平衡的一部分在于玩家本身——我们并不一定要为一个优秀的玩家设置障碍，从而让一个新手能够与之匹敌。游戏平衡做得过头了也不好。如果玩家为了获得竞争优势，愿意在系统范围内公平游戏（如图 8.14 所示，[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)中那些记住统计数据并充分利用用户界面快捷键来获得优势的玩家），她应该被允许拥有这种特权。
+
+Figure 8.14. Starcraft. 图 8.14. 《星际争霸》。
+
+The objective of balancing a game is to provide a game that is internally consistent and fair, without allowing players to exploit flaws and weaknesses to gain advantages. The other aim (of course) is to make sure that the game is fun.
+
+平衡游戏的目的是提供一个内部一致和公平的游戏，不让玩家利用缺陷和弱点来获得优势。另一个目的（当然）是确保游戏的趣味性。
+
+A game system should initially be in a state of static balance, but once it is set in motion, a different form of balance, the dynamic balance, is maintained. The success or failure of the game designer to manage dynamic balance defines the gameplay. A good dynamic balance provides the impetus of the gameplay.
+
+一个游戏系统最初应处于静态平衡状态，但一旦开始运行，就要保持另一种形式的平衡，即动态平衡。游戏设计者在动态平衡管理方面的成败决定了游戏的可玩性。良好的动态平衡为游戏提供了动力。
+
+There are several ways that the player can interact with the dynamic balance, depending on the aims of the game. (Note that these interactions do not have to be at the global level; the player can be assigned different interaction models for different subgames.) The following three interaction models are available. The player can:
+
+根据游戏的目的，玩家可以通过多种方式与动态平衡互动。(请注意，这些互动不一定要在全局层面上进行；玩家可以为不同的子游戏分配不同的互动模式）。有以下三种互动模式可供选择。玩家可以：
+
+* Restore a balance. 恢复平衡。
+* Maintain a balance. 维持平衡。
+* Destroy a balance. 破坏平衡。
+
+### Restoring a Balance 恢复平衡
+
+If the task of the player is to restore the balance, the object of the game is to move the game system back to an equilibrium point. The gameplay is derived from the player's attempt to restore the initial unbalanced state of the system back to a more ordered state.
+
+如果玩家的任务是恢复平衡，那么游戏的目标就是让游戏系统回到平衡点。游戏的玩法来自于玩家试图将系统最初的不平衡状态恢复到更有序的状态。
+
+The opposing unbalancing force is not strong enough to counteract the player's attempts to restore order. Either the force has stopped interacting with the system before the player intercedes, or else it interacts so weakly that the player is able to force the system back to a balanced state.
+
+对立的不平衡力量不足以抵消玩家试图恢复秩序的努力。要么在玩家干预之前，该力量已经停止与系统的相互作用，要么它的相互作用非常微弱，以至于玩家能够迫使系统恢复平衡状态。
+
+An example of a simple game that uses this particular interaction model is a sliding block puzzle. The system starts in a chaotic (unbalanced) state that must be restored to an ordered (balanced) state. The win condition is when the system has been restored.
+
+滑动积木拼图就是一个使用这种互动模式的简单游戏。系统开始时处于混乱（不平衡）状态，必须将其恢复到有序（平衡）状态。系统恢复平衡即为获胜。
+
+### Maintaining a Balance 维持平衡
+
+If the task of the player is to maintain a balance, the object of the game is to prevent the opposing unbalancing force from overrunning the system.
+
+如果玩家的任务是维持平衡，那么游戏的目标就是防止对立的不平衡力量破坏系统。
+
+The difference between this interaction model and the previous one is that the unbalancing force is still very much active. For each action of the player, the opposing force attempts to provide an (at least) equal and opposite reaction to counteract and defeat the player's attempts to force the system back to an ordered state.
+
+这种互动模式与前一种互动模式的不同之处在于，不平衡力量仍然非常活跃。对于玩家的每一次行动，对立力量都会试图提供（至少）相等和相反的反应，以抵消和击败玩家迫使系统回到有序状态的企图。
+
+If the player was to stop interacting with the system, the unbalancing force would win. The gameplay is defined so that the ideal state is a position of equilibrium between the two opposing forces. There is no win condition in this sort of game. Given a steadily increasing opposing force, it is only a matter of time before the player loses.
+
+如果玩家停止与系统互动，不平衡力量就会获胜。游戏的定义是，理想状态是两种对立力量之间的平衡位置。这种游戏没有获胜条件。如果对立力量持续增加，玩家迟早会输。
+
+An example of a game that uses this interaction model is Tetris (see Figure 8.15). The player must attempt to keep the playing field clear of blocks, and the opposing force relentlessly tries to fill the playing field with blocks. Success depends on maintaining the balance between the opposing forces. As the difficulty level increases, the speed with which the opposing force attempts to fill the playing area with blocks increases, and the player must work faster and harder to maintain the balance.
+
+《俄罗斯方块》（见图 8.15）就是使用这种互动模式的一个游戏实例。玩家必须努力使游戏场地上没有方块，而对方则毫不留情地用方块填满游戏场地。成功与否取决于能否保持双方力量的平衡。随着难度的增加，对方试图用方块填满游戏区域的速度也会加快，玩家必须更快、更努力地保持平衡。
+
+Figure 8.15. Tetris. 图 8.15. 俄罗斯方块
+
+graphics/08fig15.gif
+
+### Destroying a Balance 破坏平衡
+
+If the task of a player is to destroy a balance, the object is a reversal of the first interaction model. In this case, the player takes on the role of the unbalanced force, and the opposing force attempts to balance the system.
+
+如果玩家的任务是破坏平衡，那么游戏对象就是第一种互动模式的翻转版。在这种情况下，玩家扮演不平衡力量的角色，而对立力量则试图平衡系统。
+
+Actually, this is almost identical to the first interaction model. It's really just a matter of semantics. It depends on who is defining whether a system is balanced or not. It is, however, still useful to retain the distinction. Note that destroying a balance does not necessarily mean that the system has to be plunged into chaos—although that is a valid interpretation and has been used in a good number of games. Additionally, it could also mean that the player has to shift from one equilibrium point to another.
+
+实际上，这与第一种互动模式几乎完全相同。这其实只是一个语义问题。这取决于由谁来定义一个系统是否平衡。不过，保留这种区别还是很有用的。需要注意的是，破坏平衡并不一定意味着系统必须陷入混乱——尽管这是一种有效的解释，而且在很多游戏中都曾使用过。此外，它也可能意味着玩家必须从一个平衡点转移到另一个平衡点。
+
+An example of a game that uses this interaction model is [X-Com: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) (see Figure 8.16). The Earth has been invaded by evil aliens (aren't they all?) who seem intent on using it for their own nefarious purposes. This is the first equilibrium point. The task of the player is to rid the Earth of the evil aliens, hence moving the system to a new alien-free equilibrium.
+
+[《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)（见图 8.16）就是一个使用这种交互模式的游戏实例。邪恶的外星人入侵了地球（它们不都是邪恶的么？）这是第一个平衡点。玩家的任务是将邪恶的外星人赶出地球，从而使系统进入一个新的无外星人平衡点。
+
+Figure 8.16. X-Com: Enemy Unknown. 图 8.16. 《幽浮：未知敌人》
+
+graphics/08fig16.gif
+
+As we've already hinted, this could also fit the description of the first interaction model. However, we prefer to use that for game systems where there is no discernible initial equilibrium point from which the player is transitioning.
+
+正如我们已经暗示过的，这也符合第一种互动模式的描述。不过，我们更倾向于将其用于游戏系统，因为在这种系统中，玩家并不存在可辨认的初始平衡点。
+
+## Balanced Systems 平衡系统
+
+The aim of game balancing is to set up a balanced system for the player to experience. Consequently, gameplay should be set up to do the following:
+
+游戏平衡的目的是建立一个平衡的系统供玩家体验。因此，游戏的设置应做到以下几点：
+
+Provide a consistent challenge
+提供持续的挑战
+
+Provide the player with a perceivably fair playing experience
+
+Avoid stagnation
+
+Avoid trivialities
+
+Allow setting of difficulty level (where appropriate)
+
+Let's examine how we can achieve these aims in our game design. The following sections describe each point in some detail and discuss methods of implementation.
+
+### Providing a Consistent Challenge
+
+The game should scale in difficulty smoothly as the player progresses into it. A number of games seem to miss this particular point, and in some cases, the midgame experience turns out to be substantially more difficult than the endgame.
+
+One of the major things to be checking for is that the game's difficulty increases smoothly and does not peak or spike irregularly. This is definitely something we need to avoid; the damage that it does to the pacing of the game is irreparable, because the player will feel that anything after that point is anticlimactic. In other words, if you show off your strongest hand too early in the game, anything after that is a disappointment. This highlights the importance of thorough play testing.
+
+### Providing a Perceivably Fair Playing Experience
+
+A major factor in whether a player enjoys a game is whether she perceives it to be fair or not. Note that it does not actually matter whether the game is fair. What is important here is the player's perception of fairness.
+
+For example, if you are going to allow the computer opponents to cheat, you should do it subtly. Blatant cheating is a throwback to the days of minimal processing power; the only way the player could expect a decent opponent was if the computer cheated, and there was not enough spare processing power to even attempt to hide it. Nowadays, of course, we cannot use this excuse. Blatant cheating by the computer is seen as a sign of laziness on the part of the designers and developers.
+
+A number of measures can be used to help ensure that a game is fair. This is integral to good design technique. For example, no good designer would knowingly design a game where a player destroys all chances of winning by taking an action earlier in the game and not finding out until later in the game.
+
+A classic example of this is Monty on the Run by Gremlin Graphics (see Figure 8.17). This was a maze-based platform game for the 8-bit ZX Spectrum computer released back in the '80s. The object of the game was to guide the hero to freedom and to escape the long arm of the law. One of the unique selling points of this game was the "freedom kit." When the player started the game, he had to choose five items to take along. These items would help get past various obstacles throughout the game. The problem was that the player was given no clues as to which were correct and which were not. The only way to discover this was by trial and error. Thus, the player was effectively doomed from the start unless the correct choice was made at the beginning of the game. This is clearly not fair. This is an extreme example; not many games so blatantly flout fairness in this way. However, even though this is an old game, there are still more recent games that do similar things. How many times have you forgotten to pick up an item that is necessary later in the game? The only choice is to restart the game or to painfully pick your way back to retrieve the item.
+
+Figure 8.17. Monty on the Run.
+
+graphics/08fig17.gif
+
+This example also breaks another of the cardinal rules of game design fairness: informing the player of everything needed to play the game and not using unknowable or unguessable information. The choice of the freedom kit items is not intuitive. The player is given no information of which is the best choice to make. In fact, the only way to be sure of making the correct choice is to cheat—either by reading it in a magazine or finding out from friends. Any game that requires reading a strategy guide or searching on the web, rather than the player's natural ability to play it successfully, is fundamentally flawed.
+
+Another important consideration for ensuring fairness—particularly in multiplayer games—is to protect new players while they are finding their feet in the world. Here, we can take a lesson from nature. Most animals protect their young in some form or another. We need to ensure that our new players are protected in a similar manner. Nothing is more discouraging than joining a new game only to be slaughtered for fun or profit by an experienced player. This protection can be provided in a number of ways. The opportunity to practice in a single-player game is the best way to enable this. First-person shooters tend to implement this well; the single-player game provides a good training ground for players to prepare for joining the multiplayer online mêlée. Purely online games, such as EverQuest and Ultima Online, need to take a different approach (see Figure 8.18). Here, special training areas should be set aside for new players. There should also be a guiding principle that says that an 8-foot 300-pound barbarian giant cannot be killed by an ordinary rat. Where's the balance in that? Anarchy Online does provides specific training areas for new players—where you can get killed by a rat!
+
+Figure 8.18. EverQuest and Ultima Online.
+
+graphics/08fig18.gif
+
+The question of balance in an online game is an ongoing one, as you have the opportunity to respond to "real play" situation in a way that a standard single-player game can't—until the expansion pack, at any rate. Asheron's Call does this on a regular basis—and yet it's still fundamentally unbalanced in favor of magic users. It seems to be that way because that's what the magic users want, and obviously the publishers want to hold their audience. Suddenly, game balance is more about ongoing sales and politics than it is about the game play—but it's something that you have to consider as a designer.
+
+Nothing is more frustrating for a player than having to repeat actions over and over again. This is a cardinal (and unfortunately common) sin for a computer game. Surely everyone has screamed in frustration at the save-die-reload cycle that causes the player to replay a section of the game already completed. Worse still are those games that send you back to a distant "checkpoint" on death. Game designers need to learn an important lesson here. Nobody wants to be forced to repeat completed sections of the game. Give them the choice, by all means, but don't force it on them.
+
+Last, but certainly by no means least, the concept of fairness extends to how the player's avatar dies. At no point in the game should the players feel as if events and their consequences are out of control. The players should be made to feel as if every event in the game is under their control. If they fail to control it, they should feel that it was a failure to act on their part, and not just a random arbitrary event that they had no way of avoiding. Instant death syndrome is the most concrete manifestation of this. Deathtrap Dungeon, published by Eidos, was guilty of this (see Figure 8.19). Many of the traps were completely unavoidable. The only way to even know that the traps were there was to trigger them and die. Then your next incarnation would know better. Good game design? Maybe not.
+
+Figure 8.19. Deathtrap Dungeon.
+
+graphics/08fig19.gif
+
+The worst thing about fairness is that everyone has a different concept of what fair is. The task that the game designer faces is finding a common ground that will keep as many people happy as possible. The old adage is true: You can fool some of the people all of the time, and all of the people some of the time, but not all of the people all of the time. Harsh though it may be, as a game designer, you are trying to fool as many people as possible into thinking that your crude simulation of a real world cares enough about the players to ensure that they get a fair experience.
+
+### Avoiding Stagnation
+
+Stagnation is generally as unpleasant as it sounds and smells almost as bad in a game design as it does in water. Stagnation occurs when players are playing a game and reach a point where they appear to be stuck, with no way to go on. There is nothing worse than running round a level of the latest and greatest first-person shooter trying to find that last hidden switch that opens the level exit. Of course, it's not just that type of game that is guilty of this offense (although it is a persistent offender). Any game that leaves the players in a position where they simply do not know what to do next is stagnating.
+
+In some cases, this is very difficult to avoid. A sprawling action-adventure has so many different combinations and configurations that it is difficult to anticipate exactly what the player may or may not try and do. However, it is still possible to give the players positive and negative feedback as they progress. The problem of stagnation can be tackled passively; that is, the designer can make sure that the clues about how to proceed are hidden in plain sight. The other alternative is to tackle stagnation actively: Have the game work out whether the player has been wandering around aimlessly and provide a few gentle nudges to guide him in the right direction.
+
+The key point is never to let the player feel bewildered. The players should always feel as if they know what their next move should be. It is no fun to bang your head up against a brick wall simply because you are completely and utterly stuck in a game. This ties in with our earlier piece of advice about making sure the player is adequately provided with information. If a player has to resort to outside assistance—whether by cheating, reading a strategy guide, or looking up the answers on the web—the game designer should view that as a failure of the design.
+
+### Avoiding Trivialities
+
+Not many players actually want to be bogged down in the minutiae of myriad trivial decisions when they can be directing the big decisions at a higher level. Forcing the player to decide where the gold is stored when she is trying to build an army and plan a grand strategy is a form of slow torture. Who cares where the gold is stored—just store it.
+
+A trivial decision is a no-brainer decision. Any decision that has only one logical outcome, or where the outcome has no real effect on the game world, is trivial. The player should not be bothered with these. Let the computer handle it and, if necessary, inform the player afterward.
+
+Sid Meier's Alpha Centauri handled this magnificently (see Figure 8.20). In this game, the player can choose to handle every decision in the game, from grand strategy all the way down to unit production and direction. In addition, the player can let a computer-controlled manager control the bases, and the player's units can be set to automatic control. The player has the choice to micromanage every aspect of the game, from the movements of an individual unit all the way up to the overall control of the planet. The important thing here is that the player is given the choice. Other games force the player to do all the micromanagement, whether they want to or not.
+
+Figure 8.20. Sid Meier's Alpha Centauri.
+
+graphics/08fig20.gif
+
+Worse still, there are games that force completely trivial decisions on the player. If the player wants to choose whether to wear the blue tunic or the red tunic, then fine, but don't force that decision on him as a gameplay choice, unless it has some sort of direct relevance to the gameplay. For example, if the player's avatar needs to be disguised as a guard in the enemies' Red Guards, the blue tunic wouldn't help matters.
+
+To be fair, this sort of trivial decision doesn't crop up as blatantly as this; usually it appears in a more subtle form, disguising the fact that the decision has no value. Note that if this is done well, the trivial decision can actually add to the gameplay. It can add depth and flavor to an otherwise shallow game. If you do choose to use it, though, make sure that you use it with care. If you are caught, it will undermine your gameplay.
+
+For an example of how you could use trivial decisions, consider a fictional cops and robbers game. Your officer is patrolling the city as usual, on the lookout for crime, when suddenly he spots a group of suspicious-looking characters on the corner. He stops the car and they immediately run down an alleyway and vanish. Behind the scenes, these people never had any part in the gameplay; they were just flavor to give the impression of a bustling city. The player is not led too far down the wrong path—she is just given the impression that there is more to the city than meets the eye.
+
+### Setting the Difficulty Level
+
+The first time the players of your game come across balance is when they select the difficulty level. The standard for difficulty levels seems to have evolved into three (or sometimes four) distinct settings: easy, normal, hard, and nightmare (or similar assignations), popularized by the original Doom from id Software.
+
+Traditionally, not all games have difficulty level settings. For example, adventure games tend to have only one difficulty level—for no good reason, as far as we can see—as do online-only games, although for more sensible reasons. After all, how do you assign a difficulty level to a world made up of avatars for real people? You could segregate players with different experience levels into different areas, graded according to their abilities with tougher monsters and tougher spells, but this doesn't really solve the problem—it just sidesteps it.
+
+Other games have taken a more original approach to the difficulty level problem: self-adjusting games. These games tailor themselves to the player; the more skilled the player, the harder the game gets. Max Payne by Remedy Entertainment is a game that claims to implement this (see Figure 8.21). The only problem that we can see with dynamic difficulty level adjustment is the possibility of abuse of the system. After all, what is to stop a skilled player deliberately playing badly just before he gets to a really tough section of the game so the game will go easier on him when he gets there? After he's through the softened-up section, he can resume blasting with his prior skill level until he comes up to another tough section.
+
+Figure 8.21. Max Payne.
+
+graphics/08fig21.gif
+
+Generally, the standard difficulty levels are implemented by making the enemies tougher, and they are usually applied as a global modifier for all enemies. Another commonly used approach (sometimes in tandem with increasing toughness) is to make the enemies more numerous. For example, on a normal level, the statistics and number for an enemy might be equivalent to the easy level plus 15 percent, the hard level might be equivalent to the easy level plus 30 percent, and the nightmare level might be equivalent to the easy level plus 50 percent. That is to say, on the normal, hard, and nightmare levels, the enemy toughness or density increases by 15, 30, and 50 percent, respectively. Bear in mind that these are just arbitrary numbers plucked out of thin air; they may not be suitable or even applicable to your game. If you are designing a quiz game, for example, the idea of making the opponents 50-percent tougher is absolutely meaningless. Your only option is to grade questions for difficulty—which is not as easy as you may think, because of subjectivity—and group them into sets based on the difficulty levels that they have been assigned.
+
+Yet another mechanism is to increase the intelligence of enemy creatures by one means or another. In AI research conducted by Dr. John Laird at the University of Michigan, he was able to demonstrate that shortening the intervals between "looking around" on the part of Quake-bots contributed more to their success as players than any other tactic. They didn't have to have smarter strategies; they just had to have faster reaction times.
+
+Usually, deciding how to design and implement difficulty level settings is not particularly tricky. In most cases, there is either a de facto standard set of guidelines in place that the game designer can draw on, or it's obvious to the designer based on her knowledge of the design. In any case, choosing how to implement difficulty level settings is by no means the most taxing task the game designer faces.
+
+# Tools for Balancing 平衡的工具
+
+We have spoken at some length about the act of balancing games. In order to round off this chapter, we are now going to cover some of the techniques that the game designer can use to actually perform this balancing. We will also be exploring some new ideas for balancing games that, even though they are not currently in use, might be useful in the future.
+
+It is beyond the scope of this chapter to go into more than cursory details of these techniques. In some cases, however, they are adequately documented in other places and repeating that information here would be superfluous. Where this is the case, we will attempt to provide pointers to more information on the subject in the appendixes.
+
+## Design for Modification
+
+When designing a game, it is sensible to design a core set of rules that the game adheres to and then design the game entities to conform to those rules. This is often a simpler and more intuitive approach than designing entities that each requires its own special considerations. Not only does this make matters simpler when it comes to programming the game—the developers can concentrate on implementing the core rules and then adding entities on top of those core rules, rather than coding each entity separately—it also simplifies tweaking the design.
+
+As long as the core rules are balanced, tweaking them slightly will probably not affect the balance in wild and unpredictable ways. However, if each entity adheres to a separate set of rules, then in all but the simplest games, modifying one entity is independent of any of the others, which could potentially cause balance problems.
+
+Take a game such as Ensemble's Age of Empires (see Figure 8.22). All the game entities are governed by the same rules; they have a large set of parameters used to configure those rules to distinguish each entity class. A change to one of these parameters does not require a corresponding code change. During development, the parameters were stored in a Paradox database. This allowed the designers to tweak parameters easily.
+
+Figure 8.22. Age of Empires.
+
+graphics/08fig22.gif
+
+This is an excellent technique to facilitate the easy modification of game balance. Describing implementation techniques is beyond the scope of this book, but this separation of code and data also helps to enforce good development technique. The parameters can be stored in a database during development and then migrated into a custom format for the final release.
+
+### Tweaking and Experimental Methods
+
+One of the most important rules to bear in mind is that tweaking parameters randomly is an inefficient and wasteful way to modify balance. A brief digression into correct experimental method is required to ensure that you are making the best use of your time.
+
+The first, and most important, point to remember is to modify only one parameter at a time. Although it may be tempting to tweak a whole bunch of parameters in order to force a result, unless you are extremely lucky, you won't get anything useful. And even if you do, you will have no idea which of the parameter tweaks got you there. Correct experimental method dictates that one parameter should be modified, and then the results should be checked. When initially modifying parameters, don't bother with small changes; Brian Reynolds (of Big Huge Games) suggests doubling or halving the parameter and seeing what it does. From there, you can iteratively move toward the ideal value as efficiently as possible. This makes sense. By changing by such a large factor, you can easily zero in on your optimum setting.
+
+## Design Prototyping
+
+Developing a prototype of the gameplay in a simple yet powerful programming language such as Blitz Basic (www.blitzbasic.com) can act as a very useful test bed for new gameplay techniques.
+
+There are two main reasons for using a language such as Blitz Basic for prototyping gameplay instead of a more complex language such as C++. The first of these reasons is the ease of use: C++ is complicated and has a steep learning curve. Blitz Basic is simple and has a low-entry barrier. It's easy to learn and is fairly intuitive for the nonprogrammer. A designer could reasonably be expected to pick up the basics in less than a week, and the benefits of being able to test out gameplay concepts without taking time away from developers are incalculable.
+
+The second reason is that it is always a dangerous practice to code any form of prototype in the same language as the main development. The temptation to incorporate the prototype code into the main project can sometimes be overwhelming and is, without fail, a recipe for disaster.
+
+## Future Potential
+
+We're going to finish this chapter with a little bit of a blue-sky wish list that we'd like to see. In the games industry, much effort is expended on new technology, but most of this effort is spent on producing in-your-face flashy results. Plumbing—the infrastructure and grunt work of development—just isn't considered as sexy.
+
+Consider this: Manually tweaking parameters to balance a game is, at best, tedious and, at worst, an inefficient use of resources. Although we have not heard of any previous attempts to do so, we feel it would be worth considering the possibility of automating the process to some degree.
+
+In a number of cases, including most of the games that Blizzard Entertainment has produced, the patches for those games have addressed balance issues. One thing that we have considered—and we know of no companies that have tried this—is the possibility of collecting gameplay statistics from players and uploading them (with the player's permission, of course) to a central server, where the results from all the players can be analyzed to determine how well the game is balanced. A further feature could be the automatic downloading of any tweaks to the balance to the player's machine.
+
+In a sense, half of the technology is already in place. Many games now feature auto-patching technology that automatically upgrades a game as soon as an update is available. It's not impossible to imagine that this technology could be implemented as a worthwhile investment if it were produced as a reusable module. There is certainly no reason why it couldn't even be used to customize the data downloaded for each player, based on a profile the player specifies: shift the balance to a harder position for the more advanced players, and vice versa for the novices.
+
+Whether any system such as this has been or will be implemented is not clear, but we feel that it would be a useful tool in the game designer arsenal. After all, it's very difficult to get game balance exactly right on the first few passes. A method by which we could continually tweak a game after release with minimal intervention would be an extremely exciting and useful development.
+
+Internal Economy Worksheet
+
+If the game involves conflict between opposing forces, are the capabilities of the forces symmetric or asymmetric? If they are asymmetric, in what ways do they differ, and how will they be balanced? By adjusting costs? By changing rules or probabilities to compensate?
+
+Will the starting conditions be symmetric or asymmetric?
+
+Are the relationships in the game largely transitive, intransitive, or a mixture? Do you intend to assign shadow costs to balance your transitive relationships?
+
+Try to devise a payoff matrix for your game, if possible. Do any dominant strategies appear?
+
+Are the challenges in the game solvable only by predefined means, or can they be solved by emergent means?
+
+Does the game include positive feedback? If so, what features will it include to avoid runaway victory for the first player who gets ahead? A time delay? Negative feedback? A random factor?
+
+Is the player's goal in the game to restore, maintain, or destroy a balance of some kind?
+
+Do the game's challenges increase steadily in difficulty, or are there peaks and troughs, or spikes, in the difficulty level? If so, where are they?
+
+Does the game contain any elements that the player might perceive to be unfair? If the game must cheat in order to provide a decent challenge, can you disguise the cheating in such a way that the player does not notice it?
+
+How will the player know what to do next? What features does the game include to prevent stagnation?
+
+To what degree is the player required to micromanage the game? Is the player obliged to look after trivia? Are there mechanisms by which the player can delegate some of these responsibilities to an automated process? If so, can the player be confident the automated process will make intelligent choices?
+
+What mechanisms, if any, will there be for changing the game's difficulty level? Hints? Shortcuts? Cheats? A difficulty setting? How will the difficulty setting change the nature of the challenges offered? Will it make the enemies tougher or weaker, smarter or more stupid? Will it add or remove challenges entirely?
+
+# Putting It Together 总结
+
+Balancing a game is a complex and demanding task. This chapter has discussed a number of approaches to the problem of balancing gameplay. The following list summarizes these points.
+
+A balanced game should:
+
+* Be internally consistent.
+* 
+* Ensure that victory is determined by player skill, not random factors.
+* 
+* Ensure that all players have access to the same or functionally equivalent core options.
+* 
+* Ensure that attributes for which the player pays with points are orthogonal.
+* 
+* Ensure that combination and emergence don't destroy the balance.
+* 
+* Provide a consistent challenge.
+* 
+* Provide the player with a perceivably fair playing experience.
+* 
+* Avoid stagnation.
+* 
+* Avoid trivialities.
+* 
+* Allow setting of difficulty level (where appropriate).
+
+We're not even going to pretend that this chapter is an all-encompassing, thorough treatment of game balance. The subject could take up a whole book by itself. What we have put forth here is a brief summary of the areas that interest us. There is no guarantee that you will find them as valuable as we have—in fact, it's probable that you have other methods for game balancing that work just as well, if not better, or that cover different situations that we have not covered because of space considerations. Our main aim in this chapter (and, in fact, in this book) is to get you thinking about these issues. Then, even if you don't agree with our conclusions (and feel free to email us stating your case), our aims will have been achieved.
