@@ -642,19 +642,19 @@ Some games have literally hundreds of options available to a player at any one t
 
 有些游戏在任何时候都有数以百计的选项可供玩家选择。如果没有一些合理的方案来管理这些选项的呈现，我们最终就会发现游戏非常难玩——要么是因为没有人能记住所有的选项（想想飞行模拟器），要么是因为屏幕上的图标和控件太多（想想设计糟糕的策略游戏），根本没有空间来玩游戏。
 
-A specific example of a game that handled complexity badly (by the designer's own admission, so you can't blame us for slinging mud) is the original Dungeon Keeper.
+A specific example of a game that handled complexity badly (by the designer's own admission, so you can't blame us for slinging mud) is the original [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper).
 
-最初的《地下城守护者》就是一个复杂性处理不当的具体例子（设计者自己承认，所以不能怪我们泼脏水）。
+最初的[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)就是一个复杂性处理不当的具体例子（设计者自己承认，所以不能怪我们泼脏水）。
 
-> "(Dungeon Keeper) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that Dungeon Keeper was a missed opportunity."
-> 《地下城守护者》教会了我在开始实施之前要更加努力地思考设计问题。它还教会了我如何不设计界面——复杂的界面意味着《地下城守护者》错失了良机”。
+> "([Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper)) taught me to think even harder about design issues before starting the process of implementation. It also taught me how not to design an interface—the complicated interface meant that [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) was a missed opportunity."
+> [《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)教会了我在开始实施之前要更加努力地思考设计问题。它还教会了我如何不设计界面——复杂的界面意味着[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)错失了良机”。
 > 
-> \- Peter Molyneux, designer of Dungeon Keeper
-> \- 皮特·莫利纽克斯，《地下城守护者》设计师
+> \- Peter Molyneux, designer of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper)
+> \- 皮特·莫利纽克斯，[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)设计师
 
-The user interface of Dungeon Keeper (shown in Figure 6.25) contains a status panel that Molyneux described as "terrible" and containing "too many icons" in his 2001 GDCE (Game Developer's Conference Europe) "Essentials of Game Design" presentation. In the opinion of Molyneux, Dungeon Keeper was a missed opportunity because of the bad interface. It sold 700,000 copies, which for most designers would be considered a great success. But when compared to the sales of Populous, Theme Park, and Black and White (also mostly designed by Molyneux) at 3.5 million copies each for the first two and 1.5 million copies for the latter, it's fairly clear as to why he saw Dungeon Keeper as a failure.
+The user interface of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) (shown in Figure 6.25) contains a status panel that Molyneux described as "terrible" and containing "too many icons" in his 2001 GDCE (Game Developer's Conference Europe) "Essentials of Game Design" presentation. In the opinion of Molyneux, [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) was a missed opportunity because of the bad interface. It sold 700,000 copies, which for most designers would be considered a great success. But when compared to the sales of [Populous](https://en.wikipedia.org/wiki/Populous_(video_game)), Theme Park, and [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) (also mostly designed by Molyneux) at 3.5 million copies each for the first two and 1.5 million copies for the latter, it's fairly clear as to why he saw [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) as a failure.
 
-《地牢守护者》的用户界面（如图 6.25 所示）包含一个状态面板，莫利纽克斯在 2001 年的 GDCE（欧洲游戏开发者大会）“游戏设计要点”演讲中将其形容为“糟糕透顶”，包含了“太多的图标”。莫利纽克斯认为，《地下城守护者》因为糟糕的界面而错失良机。《地牢守护者》卖出了 70 万份，对大多数设计师来说，这已经算是很大的成功了。但如果与《上帝也疯狂》、《主题公园》和《黑与白》（也主要由莫利纽克斯设计）的销量相比，前两款游戏的销量分别为 350 万份，最后一个销量为 150 万份，他认为《地下城守护者》失败的原因就相当明显了。
+[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)的用户界面（如图 6.25 所示）包含一个状态面板，莫利纽克斯在 2001 年的 GDCE（欧洲游戏开发者大会）“游戏设计要点”演讲中将其形容为“糟糕透顶”，包含了“太多的图标”。莫利纽克斯认为，[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)因为糟糕的界面而错失良机。《地牢守护者》卖出了 70 万份，对大多数设计师来说，这已经算是很大的成功了。但如果与[《上帝也疯狂》](https://en.wikipedia.org/wiki/Populous_(video_game))、《主题公园》和[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))（也主要由莫利纽克斯设计）的销量相比，前两款游戏的销量分别为 350 万份，最后一个销量为 150 万份，他认为[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)失败的原因就相当明显了。
 
 Figure 6.25. Dungeon Keeper. 图 6.25. 《地下城守护者》。
 
@@ -668,9 +668,9 @@ What could he have done to mitigate the poor design and boost those sales? There
 译者注：hindsight is always 20/20，hindsight的意思是事后再看，20/20是眼科检查中用来描述完美视力的术语。 
 {% endhint %}
 
-When designing an interface that has as many options and features, as were present in Dungeon Keeper, we need to use some type of method to reduce the complexity. One thing to consider is the depth versus the width of the interface. How do we define the depth and width? In this sense, the width of an interface is the number of top-level options available to the player. For example, a menu with five buttons would have a width of five. The depth corresponds to the number of menus below the top-level menu. As a general rule of thumb (which is most certainly not valid in all situations), it is a good idea to make these values roughly equal (at least to within plus or minus 50 percent). As a guideline, count the total number of options available to your player and take the square root of that. That's the number you should be aiming for.
+When designing an interface that has as many options and features, as were present in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper), we need to use some type of method to reduce the complexity. One thing to consider is the depth versus the width of the interface. How do we define the depth and width? In this sense, the width of an interface is the number of top-level options available to the player. For example, a menu with five buttons would have a width of five. The depth corresponds to the number of menus below the top-level menu. As a general rule of thumb (which is most certainly not valid in all situations), it is a good idea to make these values roughly equal (at least to within plus or minus 50 percent). As a guideline, count the total number of options available to your player and take the square root of that. That's the number you should be aiming for.
 
-在设计一个像《地下城守护者》一样拥有众多选项和功能的界面时，我们需要使用某种方法来降低复杂性。需要考虑的一个问题是界面的深度和宽度。如何定义深度和宽度？从这个意义上说，界面的宽度就是玩家可以使用的顶层选项的数量。例如，一个菜单有五个按钮，宽度就是五个。深度则与顶层菜单下面的菜单数量相对应。作为一般经验法则（当然并非在所有情况下都适用），最好使这些值大致相等（至少在正负 50% 的范围内）。作为指导原则，计算玩家可选项的总数，然后取其平方根。这就是你应该追求的数字。
+在设计一个像[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)一样拥有众多选项和功能的界面时，我们需要使用某种方法来降低复杂性。需要考虑的一个问题是界面的深度和宽度。如何定义深度和宽度？从这个意义上说，界面的宽度就是玩家可以使用的顶层选项的数量。例如，一个菜单有五个按钮，宽度就是五个。深度则与顶层菜单下面的菜单数量相对应。作为一般经验法则（当然并非在所有情况下都适用），最好使这些值大致相等（至少在正负 50% 的范围内）。作为指导原则，计算玩家可选项的总数，然后取其平方根。这就是你应该追求的数字。
 
 An interface that is too wide will overwhelm the player, whereas an interface that is too deep will be difficult for the player to remember where everything is. This, of course, assumes a static structure for the menu.
 
@@ -724,9 +724,9 @@ Another approach is to implement a beginner's mode and an expert mode. The begin
 
 另一种方法是实现新手模式和专家模式。新手模式只提供一套简化的选项，其中包括玩家可以使用的必要操作的核心内容。专家模式提供相同的选项，但将它们划分得更细。例如，新手模式下的 RTS 可能会提供攻击选项，但在专家模式下，玩家可以通过提供鲁莽攻击、谨慎攻击或普通攻击来定制攻击，区别在于单位在撤退前会受到多少惩罚。
 
-More recently, the concept of the "invisible interface" has been touted around the industry. Of course, the invisible interface is one of many holy grails that the industry strives for. The most literal example of the invisible interface can be found in Lionhead's Black and White, shown in Figure 6.26.
+More recently, the concept of the "invisible interface" has been touted around the industry. Of course, the invisible interface is one of many holy grails that the industry strives for. The most literal example of the invisible interface can be found in Lionhead's [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)), shown in Figure 6.26.
 
-最近，“隐形界面”的概念在业界广为流传。当然，“隐形界面”是该行业孜孜以求的众多“圣杯”之一。图 6.26 所示的 Lionhead 公司的《黑与白》就是隐形界面最直观的例子。
+最近，“隐形界面”的概念在业界广为流传。当然，“隐形界面”是该行业孜孜以求的众多“圣杯”之一。图 6.26 所示的 Lionhead 公司的[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))就是隐形界面最直观的例子。
 
 Figure 6.26. Black and White. 图 6.26. 《黑与白》
 
@@ -736,9 +736,9 @@ In this game, the player's avatar is a disembodied hand that responds directly t
 
 在这款游戏中，玩家的化身是一只没有实体的手，它直接响应鼠标的移动。屏幕上几乎不显示任何其他状态信息。游戏中没有供玩家点击的图标或按钮；游戏中的每一个操作都是通过移动鼠标来完成的。例如，在图 6.26 中，鼠标是按星形移动的。游戏会将其识别为施法所需的图案，因此图中的星星会发光。同样，如果你想惩罚你的生物，当你的手放在你的生物上方时，你可以用力上下移动你的手。这样生物就会被扇耳光。如果手的移动速度较慢，则会给生物带来挠痒和爱抚，从而给予奖励。要在景观中移动你的手，你需要将手放在前面，抓住景观，然后“拉动”视图向前移动。
 
-Because there is no other interface to speak of other than the hand, this approach has been dubbed the invisible interface. From the overstuffed icon-fest of Dungeon Keeper, we have now reached the opposite extreme—no icons at all. We are not sure which approach is best—Black and White sure is difficult to play with a trackball—but the aim of the closely mapped mouse-to-hand movements is to attempt to immerse the player in the game with only the thinnest layer of interface separating him from it.
+Because there is no other interface to speak of other than the hand, this approach has been dubbed the invisible interface. From the overstuffed icon-fest of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper), we have now reached the opposite extreme—no icons at all. We are not sure which approach is best—[Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) sure is difficult to play with a trackball—but the aim of the closely mapped mouse-to-hand movements is to attempt to immerse the player in the game with only the thinnest layer of interface separating him from it.
 
-由于除了手之外没有其他界面可言，这种方法被称为“隐形界面”。从《地牢守护者》的图标狂欢到现在的相反极端——完全没有图标。我们不确定哪种方法最好——用轨迹球玩《黑与白》确实很困难，但鼠标与手的动作紧密映射的目的是试图让玩家沉浸在游戏中，只有一层最薄的界面将玩家与游戏隔开。
+由于除了手之外没有其他界面可言，这种方法被称为“隐形界面”。从[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)的图标狂欢到现在的相反极端——完全没有图标。我们不确定哪种方法最好——用轨迹球玩[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))确实很困难，但鼠标与手的动作紧密映射的目的是试图让玩家沉浸在游戏中，只有一层最薄的界面将玩家与游戏隔开。
 
 Another approach that implements the invisible interface is that taken by Hasbro's Frogger 2. Here, the game configuration menu is controlled by actually guiding the frog from island to island in a small "main menu" level. To configure the sound, you jump onto an old style gramophone; to start the game, you jump through a doorway (or something similar); and to play the old-style Frogger, you jump onto a Frogger arcade machine. This is a great approach to the invisible interface problem—it actually makes configuring and starting the game part of the fun.
 

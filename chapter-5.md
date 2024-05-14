@@ -331,9 +331,9 @@ The main defining characteristic of a hero in a story is that the hero performs 
 
 故事中英雄的主要特征是英雄完成大部分行动，承担大部分风险和责任。但这并不意味着其他角色不能暂时继承英雄的衣钵。例如，在过场动画中，他们可能会为英雄牺牲自己。
 
-Perversely, the hero doesn't necessarily have to be heroic: The antihero is also a classic motif. The Dungeon Keeper series of games uses this particular form, in which the aim of the game is to destroy the forces of good.
+Perversely, the hero doesn't necessarily have to be heroic: The antihero is also a classic motif. The [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) series of games uses this particular form, in which the aim of the game is to destroy the forces of good.
 
-反之，英雄并不一定是英雄：反英雄也是一个经典主题。《地下城守护者》系列游戏就采用了这种特殊形式，游戏的目的是摧毁正义的力量。
+反之，英雄并不一定是英雄：反英雄也是一个经典主题。[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)系列游戏就采用了这种特殊形式，游戏的目的是摧毁正义的力量。
 
 Heroes are not always on their own. In some games, the "hero" is represented by a group of individuals: the hero team. These are common in role-playing games. Often, though less frequently nowadays, character development in hero teams is limited; in the case of role-playing games, they are computer-generated characters created and customized by the player. However, when hero teams are used in multi-player games (such as Diablo and Diablo II), each player represents an individual hero. In single-player games, the player tends to pick a "favorite," and that character becomes her avatar. Sometimes games even mandate this choice for the player; examples of games that do this are Baldur's Gate, Planescape: Torment, and Anachronox (shown in Figure 5.13).
 
@@ -365,9 +365,9 @@ Anachronox uses the mentor archetype brilliantly: Boots' mentor is his dead secr
 
 《毒源》出色地运用了导师原型：博茨的导师是他死去的秘书。在她死于某次不明事故后，斯莱将她的大脑数字化，并储存在一个名为“生命光标”的小型装置中（同时也是玩家的游戏控制光标）。这样，她就可以继续担任秘书一职，而且还能与世界上的计算机系统相连接。这也让她能够管理冒险的记账工作，为斯莱提供及时的建议和提示，并充当故事的引导者，将主人公完美地控制在设计者的游戏计划范围内。
 
-Mentors are not always positive. A mentor can also give bad advice deliberately designed to mislead the hero or to lead him down an evil path. A classic example of this form of "dark mentor" is the devilish advisor in Peter Molyneux's Black and White.
+Mentors are not always positive. A mentor can also give bad advice deliberately designed to mislead the hero or to lead him down an evil path. A classic example of this form of "dark mentor" is the devilish advisor in Peter Molyneux's [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)).
 
-导师并不总是积极的。导师也可能故意给出错误的建议，误导主人公或将其引向邪路。彼得·莫利纽克斯的《黑与白》中的魔鬼顾问就是这种“黑暗导师”的典型代表。
+导师并不总是积极的。导师也可能故意给出错误的建议，误导主人公或将其引向邪路。彼得·莫利纽克斯的[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))中的魔鬼顾问就是这种“黑暗导师”的典型代表。
 
 ### Higher Self 更高的自我
 
@@ -455,9 +455,9 @@ Princess Leia's message to Obi-Wan Kenobi that Luke discovers in R2D2's memory s
 
 卢克在 R2D2 的记忆中发现的莱娅公主给欧比旺·克诺比的信息就具有这种功能。目前还不清楚是莉亚公主还是 R2D2 是预言者，但这并不重要：卢克从一个为他提供必要的“改变方向”的角色那里获得了信息。
 
-Another example is the voice of the narrator in Dungeon Keeper. This could be described as a herald: He describes the challenges to be faced in the level ahead and keeps the player appraised of the progress of the campaign.
+Another example is the voice of the narrator in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). This could be described as a herald: He describes the challenges to be faced in the level ahead and keeps the player appraised of the progress of the campaign.
 
-另一个例子是《地下城守护者》中叙述者的声音。这可以说是一个预言家：他描述了前方关卡所面临的挑战，并让玩家随时了解活动的进展情况。
+另一个例子是[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中叙述者的声音。这可以说是一个预言家：他描述了前方关卡所面临的挑战，并让玩家随时了解活动的进展情况。
 
 The function of a herald is to provide a motivation to the hero to progress in the story. Heralds can be positive, negative, or neutral. It doesn't need to be the classic herald of Greek literature. In fact, the herald doesn't have to be a character at all: The call of the herald could simply be a set of tricks to mislead the hero into a certain route or path.
 

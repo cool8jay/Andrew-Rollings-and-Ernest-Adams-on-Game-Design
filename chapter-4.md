@@ -273,9 +273,9 @@ A far safer and more socially acceptable form of temptation is greed. (You've go
 
 更安全、更能被社会所接受的诱惑形式是贪婪。(你一定会爱上资本主义的！）例如，许多游戏使用“尽可能多地赚取现金”或“寻宝”的老模式作为冒险的号召。《大富翁》等游戏（事实上，大多数大亨类游戏都是如此）将贪婪作为游戏的动机。记住，孩子们，贪婪是好的！即使是《路易吉洋楼》也将寻宝作为次要目的（该系列的大多数其他游戏也是如此）。首要目标是营救马里奥，次要目标是在这个过程中发财。
 
-Sometimes the call comes in the form of a message from a herald, a character archetype. The herald does not have to be an ally of the hero. In fact, the character acting as the herald might reappear as another character archetype later in the game, such as the mentor or the shadow. Examples of the use of the herald to deliver the call are present in many games. The specific example we will use here is Lionhead's Black and White. In this game, two mentor characters representing the good and evil sides of the player vie for the player's attention. Both characters call the player to adventure—one on the side of good, and one on the side of evil.
+Sometimes the call comes in the form of a message from a herald, a character archetype. The herald does not have to be an ally of the hero. In fact, the character acting as the herald might reappear as another character archetype later in the game, such as the mentor or the shadow. Examples of the use of the herald to deliver the call are present in many games. The specific example we will use here is Lionhead's [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). In this game, two mentor characters representing the good and evil sides of the player vie for the player's attention. Both characters call the player to adventure—one on the side of good, and one on the side of evil.
 
-有时，召唤会以预言家（一种人物原型）信息的形式出现。预言者不一定是主人公的盟友。事实上，充当传令者的角色可能会在游戏后期作为另一种角色原型再次出现，例如导师或影子。许多游戏中都有使用传令官传递召唤的例子。我们在此使用的具体例子是 Lionhead 的《黑与白》。在这款游戏中，代表玩家善恶两面的两个导师角色争夺玩家的注意力。两个角色都号召玩家去冒险——一个站在善的一方，一个站在恶的一方。
+有时，召唤会以预言家（一种人物原型）信息的形式出现。预言者不一定是主人公的盟友。事实上，充当传令者的角色可能会在游戏后期作为另一种角色原型再次出现，例如导师或影子。许多游戏中都有使用传令官传递召唤的例子。我们在此使用的具体例子是 Lionhead 的[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))。在这款游戏中，代表玩家善恶两面的两个导师角色争夺玩家的注意力。两个角色都号召玩家去冒险——一个站在善的一方，一个站在恶的一方。
 
 In other situations, the call to adventure isn't an explicit call. It can be the result of a void felt by the hero due to a lack of or a need for something. What that "something" is can be the choice of the game designer. For example, in Planescape: Torment, the call for adventure is lack of knowledge on the part of the hero. The fact that he is referred to as the Nameless One indicates the magnitude of the call.
 
@@ -303,9 +303,9 @@ Any games that offer multiple quests and subquests allow for multiple refusals. 
 
 任何提供多个任务和支线任务的游戏都允许玩家拒绝某些任务。只要完成了总体的主要任务，游戏设计师可以允许主人公忽略一些小任务，而不会受到任何严重的惩罚。
 
-In the case of conflicting calls—when the hero is given two or more conflicting calls simultaneously—a dynamic tension automatically is created. The player has to decide which (if any) call to follow. The classic case is the choice between good and evil. In Black and White, the player is given the choice to be an evil god or a good god (and anything in between). The player's actions determine which call he has refused.
+In the case of conflicting calls—when the hero is given two or more conflicting calls simultaneously—a dynamic tension automatically is created. The player has to decide which (if any) call to follow. The classic case is the choice between good and evil. In [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)), the player is given the choice to be an evil god or a good god (and anything in between). The player's actions determine which call he has refused.
 
-在冲突召唤的情况下——当主人公同时接到两个或更多冲突任务时——活跃紧张气氛就会自动产生。玩家必须决定听从哪种召唤（如果有的话）。最典型的例子就是在善与恶之间做出选择。在《黑与白》中，玩家可以选择成为邪恶的神或善良的神（以及介于两者之间的任何角色）。玩家的行为决定了他拒绝哪种召唤。
+在冲突召唤的情况下——当主人公同时接到两个或更多冲突任务时——活跃紧张气氛就会自动产生。玩家必须决定听从哪种召唤（如果有的话）。最典型的例子就是在善与恶之间做出选择。在[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))中，玩家可以选择成为邪恶的神或善良的神（以及介于两者之间的任何角色）。玩家的行为决定了他拒绝哪种召唤。
 
 In some cases, refusal of the call can be seen as a positive action. The call to adventure can be a negative thing. For example, the hero might be offered a quest that involves partaking in some form of action that would result in unpleasant consequences. In the case of a role-playing game based on the familiar Advanced Dungeons and Dragons rules, a lawful good hero might be asked to perform an activity that would conflict with his alignment, such as killing a household of innocents. If the player sees it as advantageous in the long run to maintain his alignment, it would be wise to refuse this quest.
 
@@ -313,9 +313,9 @@ In some cases, refusal of the call can be seen as a positive action. The call to
 
 ### The Meeting with the Mentor 与导师的会面
 
-The character archetype of mentor is discussed at length in the next chapter. You've already seen an example of a mentor in the previous section, when we discussed Black and White. Another example is Morte, the first character that the Nameless One encounters in Planescape: Torment. At the start of the game, Morte's main purpose is to provide the Nameless One with information about his location and situation. As the Nameless One progresses further, Morte provides further tips and helpful suggestions until he is more familiar with his surroundings.
+The character archetype of mentor is discussed at length in the next chapter. You've already seen an example of a mentor in the previous section, when we discussed [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). Another example is Morte, the first character that the Nameless One encounters in Planescape: Torment. At the start of the game, Morte's main purpose is to provide the Nameless One with information about his location and situation. As the Nameless One progresses further, Morte provides further tips and helpful suggestions until he is more familiar with his surroundings.
 
-下一章将详细讨论导师这一角色原型。在上一节讨论《黑与白》时，你已经看到了导师的例子。另一个例子是莫尔特，他是无名者在《异域镇魂曲》中遇到的第一个角色。在游戏开始时，莫尔特的主要目的是向无名者提供有关他的位置和处境的信息。随着无名者的不断前进，莫尔特会提供更多的提示和有用的建议，直到他对周围环境更加熟悉为止。
+下一章将详细讨论导师这一角色原型。在上一节讨论[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))时，你已经看到了导师的例子。另一个例子是莫尔特，他是无名者在《异域镇魂曲》中遇到的第一个角色。在游戏开始时，莫尔特的主要目的是向无名者提供有关他的位置和处境的信息。随着无名者的不断前进，莫尔特会提供更多的提示和有用的建议，直到他对周围环境更加熟悉为止。
 
 If the call to adventure is seen as the catalyst to the story, creating an impulse and motive where previously there were none, then the meeting with the mentor serves to give direction to these unleashed forces. When the hero decides to take action, it is the task of the mentor archetype to give the hero the information needed to choose which action to take.
 

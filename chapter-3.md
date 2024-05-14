@@ -180,9 +180,9 @@ In flight simulators, the boundaries of the world are even more problematic. Mos
 
 在飞行模拟器中，世界的边界问题更大。大多数飞行模拟器将玩家限制在真实世界的特定区域内。因为空中没有墙壁，所以没有任何东西可以阻止飞机飞到游戏世界的边缘，而当玩家到达那里时，可以清楚地看到外面什么也没有。在有些游戏中，飞机就停在那里，悬停在半空中，不会再往前飞了。在《战地 1942》中，游戏会告诉玩家他已经离开了行动场地，并强行将他送回跑道。
 
-A common solution to the edge-of-the-world problem is to allow the flat world to “wrap” at the top, bottom, and sides. Although the world is implemented as a rectangular space in the software, objects that cross one edge appear at the opposite edge—they wrap around the world. If the object remains centered on the screen and the world appears to move beneath it, you can create the impression that the world is spherical. This was used to excellent effect in Bullfrog Productions' game Magic Carpet. In another Bullfrog game, Populous: The Beginning, the world was actually displayed graphically as a sphere on the screen, not just a wrapping rectangle.
+A common solution to the edge-of-the-world problem is to allow the flat world to “wrap” at the top, bottom, and sides. Although the world is implemented as a rectangular space in the software, objects that cross one edge appear at the opposite edge—they wrap around the world. If the object remains centered on the screen and the world appears to move beneath it, you can create the impression that the world is spherical. This was used to excellent effect in Bullfrog Productions' game Magic Carpet. In another Bullfrog game, [Populous: The Beginning](https://en.wikipedia.org/wiki/Populous:_The_Beginning), the world was actually displayed graphically as a sphere on the screen, not just a wrapping rectangle.
 
-解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边——它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏《上帝也疯狂：开天辟地》中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
+解决世界边缘问题的常见方法是让平面世界在顶部、底部和侧面“环绕”。尽管软件中的世界是以矩形空间的形式实现的，但越过一条边的物体会出现在对边——它们会环绕世界。如果物体在屏幕上保持居中，而世界在其下方移动，就会给人一种世界是球形的印象。在牛蛙公司的游戏《魔法飞毯》中，这种方法得到了很好的应用。在另一款牛蛙的游戏[《上帝也疯狂：开天辟地》](https://en.wikipedia.org/wiki/Populous:_The_Beginning)中，世界实际上是以球形的图形显示在屏幕上的，而不仅仅是一个包裹的矩形。
 
 > **Questions to Ask Yourself About the Physical Dimension 关于物理维度的自问自答**
 >
@@ -440,7 +440,7 @@ On the whole, most games have simple ethics: clobber the bad guys, protect the g
 
 总的来说，大多数游戏的道德规范都很简单：打倒坏人，保护好人。这并不精妙，但非常有用；这就是你玩跳棋的方式。深入探讨道德层面的游戏并不多。少数游戏包含明确的道德选择，但不幸的是，这些选择有些做作，一味奖励“好”行为，惩罚“坏”行为。这种说教式的内容连孩子都会反感，更不用说成年人了。但是，通过让玩家做出艰难的道德选择，你可以制作出更丰富、更吸引人的游戏。道德模棱两可和艰难抉择是许多伟大故事的核心，实际上也是生活的核心。你是否应该让一排士兵冒着必死的危险去拯救一营士兵？如果你是其中一员，你会作何感想？
 
-[Black and White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) was a game that included a certain amount of moral decision making. So are some role-playing games—you can choose to play as an evil character who steals and kills indiscriminately, but the game becomes more difficult to win that way because other characters will refuse to cooperate with you and might even attack you on sight. Rather than impose a rule that says, “Immoral behavior is forbidden,” the game implements a rule that says, “You are free to make your own moral choices—but be prepared to live with the consequences!”. This is a more adult approach to the issue.
+[Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) was a game that included a certain amount of moral decision making. So are some role-playing games—you can choose to play as an evil character who steals and kills indiscriminately, but the game becomes more difficult to win that way because other characters will refuse to cooperate with you and might even attack you on sight. Rather than impose a rule that says, “Immoral behavior is forbidden,” the game implements a rule that says, “You are free to make your own moral choices—but be prepared to live with the consequences!”. This is a more adult approach to the issue.
 
 [《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))是一款包含一定道德决策的游戏。有些角色扮演游戏也是如此——你可以选择扮演一个肆意偷盗和杀戮的邪恶角色，但这样游戏就更难获胜了，因为其他角色会拒绝与你合作，甚至会当场攻击你。游戏中的规则不是“禁止不道德行为”，而是“你可以自由做出道德选择，但要做好承担后果的准备！”。这是更成人化的处理方式。
 

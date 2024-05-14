@@ -169,7 +169,7 @@ Of course, to turn this example into a real game decision (by eliminating the do
 
 当然，如果要把这个例子变成一个真实的博弈决策（通过消除优势策略），我们就必须为鲜花赋予一定的成本，这样在不是她生日的时候买花就会带来负收益。我们还必须计算出美元和布朗尼积分之间的汇率。
 
-Unfortunately, only the most trivial examples can be broken down into a simple payoff matrix. For a more complicated example, we should examine the previously mentioned Red Alert (see Figure 8.1). This game is famed for a particular dominant (or near dominant) strategy, which has become known as the tank rush (a name that has spread to similar strategies in other games).
+Unfortunately, only the most trivial examples can be broken down into a simple payoff matrix. For a more complicated example, we should examine the previously mentioned [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) (see Figure 8.1). This game is famed for a particular dominant (or near dominant) strategy, which has become known as the tank rush (a name that has spread to similar strategies in other games).
 
 遗憾的是，只有最微小的例子才能分解成一个简单的回报矩阵。对于更为复杂的例子，我们应该看看前面提到的[《红色警戒》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)（见图 8.1）。这款游戏因一种特别的优势（或接近优势）策略而闻名，这种策略被称为“坦克快攻”（这一名称已扩展到其他游戏中的类似策略）。
 
@@ -375,81 +375,134 @@ The other problem with the three-way intransitive relationship in its unmodified
 
 Let's consider an example of altering shadow cost to affect the relationship. Imagine a confrontation between two craft, A and B. These craft are capable of operating as aircraft or submersibles. Craft A is optimized for flight and is more efficient in the air than in the water. Craft B is optimized for submersible operation and is not as maneuverable in the air. In an air combat situation, A can regularly defeat B. In a submerged combat situation, B regularly defeats A. By altering the environment (and hence, the shadow costs of operating the craft), we introduce an interesting dynamic in the relationship between them. Now, this is just a binary relationship (imagine it as a isolated link in an n-way intransitive relationship); that is, A beats B or B beats A. However, it is not difficult to imagine how this binary relationship could be stretched out over a continuum. For example, if we transferred both craft into a hypothetical semifluid environment that was neither air nor water, where the abilities of both craft cancelled out, we would get a stalemate between them. From here, we could vary the medium's properties one way or the other, giving one of the craft a variable advantage over the other.
 
-让我们来看一个改变影子成本以影响关系的例子。想象一下 A 和 B 两艘飞船之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器 A 针对飞行进行了优化，在空中比在水中更高效。飞行器 B 适合潜水作业，在空中的机动性较差。在空战情况下，A 可以经常击败 B；在水下战斗情况下，B 则经常击败 A。通过改变环境（从而改变操作飞船的影子成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（把它想象成 n 方非传递关系中的一个孤立环节）；也就是说，A 打败 B 或 B 打败 A。然而，不难想象这种二元关系如何可以延伸到一个连续体上。例如，如果我们将两艘飞船都转移到一个既非空气也非水的假设的半流体环境中，在那里两艘飞船的能力都被抵消了，我们将在它们之间得到一个僵局。从这里开始，我们可以改变介质的性质，向一个或另一个方向变化，给予其中一艘飞船相对于另一艘的可变优势。
+让我们来看一个改变影子成本以影响关系的例子。想象一下 A 和 B 两艘飞船之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器 A 针对飞行进行了优化，在空中比在水中更高效。飞行器 B 适合潜水作业，在空中的机动性较差。在空战情况下，A 可以经常击败 B；在水下战斗情况下，B 则经常击败 A。通过改变环境（从而改变操作飞船的影子成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（把它想象成 n 方非传递关系中的一个孤立环节）；也就是说，A 打败 B 或 B 打败 A。然而，不难想象这种二元关系如何可以延伸到一个连续体上。例如，如果我们将两艘飞船都转移到一个既非空气也非水的假想的半流体环境中，在那里两艘飞船的能力都被抵消了，我们将在它们之间得到一个僵局。从这里开始，我们可以改变介质的性质，向一个或另一个方向变化，给予其中一艘飞船相对于另一艘的可变优势。
 
-让我们考虑一个改变阴影成本以影响关系的例子。想象两艘飞行器A和B之间的对抗。这些飞行器能够作为飞机或潜水器运行。飞行器A针对飞行进行了优化，在空气中比在水中更高效。飞行器B针对潜水操作进行了优化，在空气中的机动性不如A。在空战情况下，A可以经常击败B。在水下战斗情况下，B经常击败A。通过改变环境（因此，改变飞行器操作的阴影成本），我们在它们之间的关系中引入了一种有趣的动态。现在，这只是一种二元关系（可以想象为一个n方非传递关系中的孤立链接）；也就是说，A击败B或B击败A。然而，不难想象这种二元关系如何可以延伸到一个连续体上。例如，如果我们将两艘飞行器都转移到一个既非空气也非水的假设的半流体环境中，在那里两艘飞行器的能力都被抵消了，我们将在它们之间得到一个僵局。从这里开始，我们可以改变介质的性质，向一个或另一个方向变化，给予其中一艘飞行器相对于另一艘的可变优势。
-
-让我们通过改变阴影成本来影响两者间关系的一个例子来考虑。设想两艘飞船A和B之间的对抗。这些飞船既能作为飞行器运行，也能作为潜水艇。飞船A针对飞行进行了优化，在空中比在水中效率更高。飞船B则针对水下操作进行了优化，在空中不如A灵活。在空战情况下，A能够经常战胜B。而在水下战斗情况下，B则经常战胜A。通过改变环境（从而改变操作飞船的阴影成本），我们在它们之间的关系中引入了一种有趣的动态变化。现在，这只是二元关系的一种（可以想象成多向不可传递关系中的一个孤立联系）；也就是说，要么A胜B，要么B胜A。然而，不难想象这种二元关系是如何沿连续体扩展的。例如，如果我们把两艘飞船置于一个假设的半流体环境中，既非空气也非水，在这种环境中双方飞船的能力相互抵消，我们就会看到它们之间陷入僵持状态。从此出发，我们可以朝着任一方向改变介质的属性，给予其中一艘飞船相对于另一艘的可变优势。
-
-Trade-Offs
+### Trade-Offs 权衡取舍
 
 Not all relationships between entities are a transition between an inferior and a superior entity. One entity might be better than another in some ways and not in others, but a general improvement can sometimes be gained by the transition, depending on the circumstances. (For example, a pistol is great on land compared with a harpoon, but the roles are reversed underwater.)
 
-A good trade-off example can be found in The Sims. When the player earns money and chooses to upgrade the living environment for her Sims, she has a choice of many items of household furniture. Some of these items are better than others in some areas and inferior in others. For example, an expensive couch could improve the appearance of a room (making it more aesthetically pleasing for the Sims), but could be less comfortable than a slightly cheaper and less beauteous couch. The player then has to decide which of the two parameters to maximize.
+并非所有实体之间的关系都是劣势实体与优势等实体之间的过渡。一个实体可能在某些方面优于另一个实体，而在另一些方面则不然，但根据具体情况，可以通过过渡获得总体上的改进。(例如，手枪在陆地上比鱼叉好用，但在水下则相反）。
+
+A good trade-off example can be found in [The Sims](https://en.wikipedia.org/wiki/The_Sims). When the player earns money and chooses to upgrade the living environment for her Sims, she has a choice of many items of household furniture. Some of these items are better than others in some areas and inferior in others. For example, an expensive couch could improve the appearance of a room (making it more aesthetically pleasing for the Sims), but could be less comfortable than a slightly cheaper and less beauteous couch. The player then has to decide which of the two parameters to maximize.
+
+[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)中就有一个很好的取舍例子。当玩家赚到钱并选择升级模拟市民的生活环境时，她可以选择许多家具。其中一些物品在某些方面优于其他物品，而在另一些方面则逊色于其他物品。例如，一张昂贵的沙发可以改善房间的外观（让模拟市民更喜欢它），但舒适度可能不如一张稍便宜但不那么漂亮的沙发。这时，玩家就必须决定将这两个参数中的哪一个最大化。
 
 This sort of balancing act (or stats juggling, as it's affectionately known) is very common in role-playing games. First, the player usually has to generate a character to play with. This is done with a combination of simulated dice rolls and the distribution of a number of points among a number of attributes, such as strength, stamina, and intelligence. After this is done, the player is normally allowed to shift points from one area to another in order to balance out the points.
 
+在角色扮演游戏中，这种平衡行为（或称“统计调整”）非常常见。首先，玩家通常需要生成一个游戏角色。这需要通过模拟掷骰子以及在力量、耐力和智力等属性之间分配点数来完成。之后，通常允许玩家将点数从一个方面转移到另一个方面，以平衡点数。
+
 As a method of achieving balance, point distribution has some merits. Note that it does not have to be restricted to role-playing games and other such number-crunching games. In fact, the player does not even need to know that there has been a point distribution system used. It can be hidden behind the scenes. In most games, there is no need for the player even to be aware (except at the most superficial level) that there is any such distribution of points in place. For example, consider a simple platform game where the player is pitched against a number of different enemies. For each level, the enemies could have a fixed number of points to divide between two attributes, speed and jumping power. This would give us a nice range of enemies of different abilities. In order to ramp up difficulty as the player progresses through the game, the fixed number of points available to distribute could increase with the level. Some of Nintendo's Mario platform games use something close to this approach: The player is given a choice of several characters to play—such as Mario, Luigi, Toad, and Peach—and each character has different levels of ability in jumping, running, and floating.
+
+作为实现平衡的一种方法，点数分配有一些优点。需要注意的是，它并不局限于角色扮演游戏和其他此类数字计算游戏。事实上，玩家甚至不需要知道游戏中使用了点数分配系统。它可以隐藏在幕后。在大多数游戏中，玩家甚至不需要意识到（除了在最肤浅的层面上）有这样的点数分配。例如，考虑一个简单的平台游戏，玩家要对付许多不同的敌人。在每个关卡中，敌人都有固定数量的点数可以在速度和弹跳力这两种属性之间分配。这样我们就能得到一系列不同能力的敌人。为了随着玩家在游戏中的不断深入而增加难度，可供分配的固定点数可以随着关卡的增加而增加。任天堂的一些马里奥平台游戏就采用了类似的方法：玩家可以从马里奥、路易吉、蘑菇人和桃子公主等几个角色中进行选择，每个角色在跳跃、奔跑和漂浮等方面的能力水平各不相同。
 
 A few caveats need to be considered, however. In order for the point distribution system to work effectively, all of the attributes must be orthogonal. That is to say, they must be independent attributes. An attribute should not affect the domain of another attribute. Having two closely related attributes, such as weight and floating ability, undermines the point system. The player (or designer) should not be able to gain the same effect by pumping points into one attribute as she could by pumping the points into another.
 
+不过，需要考虑一些注意事项。为了让点分配系统有效工作，所有属性必须是正交的。也就是说，它们必须是互相独立的属性。一个属性不应影响另一个属性的领域。拥有两个密切相关的属性，比如体重和漂浮能力，会破坏点数分配系统。玩家（或设计者）将点数投入到不同属性时，不应该得到相同的效果。
+
 You also want to make sure that spending a point on one attribute has a similar magnitude of effect as it would on any other attribute. This means that, for example, adding a point to strength should increase the character's strength by the same factor as spending the same amount on improving the character's intelligence.
 
-Combination
+此外，你也要确保在一项属性上投入一点所产生效果的大小，与其他任何属性上的投入是相似的。这意味着，例如，增加一点力量应该使得角色的力量提升，这个提升幅度应与花费相同数量点数提高角色智力所产生的提升幅度相当。
+
+### Combination 组合
 
 Transitive and intransitive relationships don't necessarily have to involve single entities. That is to say, you don't have to specify that one archer beats one unit of infantry. In some cases, two or more entities can be treated as a single entity when balancing a game. For example, even though one unit of infantry may not be enough to beat one archer, you might be able to use a unit of infantry in combination with another unit.
 
+传递关系和非传递关系并不一定涉及单个实体。也就是说，你不必指定一个弓箭手击败一个步兵单位。在某些情况下，平衡游戏时可以将两个或多个实体视为一个实体。例如，尽管一个步兵单位可能不足以打败一个弓箭手，但你可以将一个步兵单位与另一个单位结合使用。
+
 As a designer, you wouldn't necessarily be expected to explicitly design in all of the possible combinations of entities within your game. You do, however, have to be aware of them and to balance the more troublesome ones by modifying the entities themselves and using shadow costs to equalize them. The previously mentioned tank rush from Red Alert could have been avoided by modifying the shadow costs of tanks so that they were much more expensive to produce in the early stages of the game. In the single-player game, this was attempted by disallowing certain units in the earlier levels (a clumsy approach), but multiplayer games are a free-for-all, and the imbalance comes to the fore.
+
+作为设计者，你不一定要明确设计游戏中所有可能的实体组合。但是，你必须意识到它们，并通过修改实体本身和使用影子成本来平衡那些比较麻烦的组合。之前提到的[《红色警戒》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)中的“坦克快攻”，本来可以通过修改坦克的影子成本，使其在游戏初期的生产成本大大提高来避免。在单人游戏中，可以通过在早期关卡中不允许使用某些单位来实现这一目的（这是一种笨拙的方法），但多人游戏是一种自由竞争的游戏，这种不平衡就会凸显出来。
 
 In general, combinatorial effects in your game will not be a significant problem if you pay attention to the basic balance. If your foundation is strong and balanced, the chances are good that you won't run into any major difficulties with combinatorial effects and emergence.
 
-Emergence
+一般来说，只要注意基本平衡，游戏中的组合效应就不会成为大问题。如果你的游戏基础扎实且平衡，那么你很有可能不会在组合效果和出现方面遇到任何重大困难。
 
-Emergence is the action of simple rules combining to produce complex results. The classic example in the computer world is Conway's Game of Life. In this cellular automata simulation (which the majority of people will be familiar with), a few simple rules produce some astoundingly complex results.
+### Emergence 涌现
 
-"We ended up with a game that I didn't know how to win. I didn't know which were the best strategies or tactics, even though I designed all the game's systems. That is what makes a good strategy game."
+Emergence is the action of simple rules combining to produce complex results. The classic example in the computer world is [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). In this cellular automata simulation (which the majority of people will be familiar with), a few simple rules produce some astoundingly complex results.
 
-—Julian Gollop, referring to X-Com: UFO Defense
+涌现是简单规则结合产生出复杂结果的行为。计算机世界中的经典案例是[“康威生命游戏”](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)。在这个细胞自动机模拟游戏中（大多数人都熟悉），一些简单的规则产生了一些令人震惊的复杂结果。
+
+> "We ended up with a game that I didn't know how to win. I didn't know which were the best strategies or tactics, even though I designed all the game's systems. That is what makes a good strategy game."\
+> “我们最终完成了一个我不知道如何取胜的游戏。尽管游戏的所有系统都是我设计的，但我不知道哪些是最好的战略或战术。这才是一款好的策略游戏。”
+> 
+> —Julian Gollop, referring to [X-Com: UFO Defense](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)\
+> 朱利安·戈洛普在谈到[《幽浮：UFO 防御》](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)时说道
 
 Of course, the phenomenon of emergence is not restricted to the domain of the computer. Emergence is ubiquitous in nature. Literally everything you see, touch, taste, hear, and feel is a direct result of emergence. From a few simple rules, the amazing complexity of the universe emerges. The motion of the planets is accurately predicted by the general theory of relativity, our genetic code determines our body shape and size, and a few simple electrochemical interactions in our brains produce our consciousness and personality.
 
-In Chapters 1, "What Is Game Design?" and 2, "Game Concepts," we encouraged you to look for inspiration from many diverse sources. The use (or more accurately, the taming) of emergence is a prime example of this directive. Emergence is a natural phenomenon in its own right. It occurs everywhere, and games that use it effectively are among the best of their type. A good reference work for this phenomenon is Steven Johnson's book Emergence: The Connected Lives of Ants, Brains, Cities, and Software (Touchstone Books).
+当然，涌现现象并不局限于计算机领域。涌现现象在自然界无处不在。实际上，你所看到、触摸到、品尝到、听到和感受到的一切，都是涌现的直接结果。从一些简单的规则中，产生了宇宙惊人的复杂性。广义相对论准确地预测了行星的运动，我们的遗传密码决定了我们身体的形状和大小，我们大脑中一些简单的电化学相互作用产生了我们的意识和性格。
+
+In Chapters 1, "What Is Game Design?" and 2, "Game Concepts," we encouraged you to look for inspiration from many diverse sources. The use (or more accurately, the taming) of emergence is a prime example of this directive. Emergence is a natural phenomenon in its own right. It occurs everywhere, and games that use it effectively are among the best of their type. A good reference work for this phenomenon is Steven Johnson's book [Emergence: The Connected Lives of Ants, Brains, Cities, and Software](https://en.wikipedia.org/wiki/Emergence:_The_Connected_Lives_of_Ants,_Brains,_Cities,_and_Software) (Touchstone Books).
+
+在[第一章](chapter-1.md) “什么是游戏设计？”和[第二章](chapter-2.md)“游戏概念”中，我们鼓励大家从多种多样的来源中寻找灵感。对“涌现”的使用（或者更准确地说，驯服）就是这一指示的最好例证。涌现本身就是一种自然现象。它无处不在，而有效利用它的游戏则是同类游戏中的佼佼者。关于这一现象的一本好参考书是史蒂文·约翰逊的[《涌现：蚂蚁、大脑、城市和软件的互联生活》](https://en.wikipedia.org/wiki/Emergence:_The_Connected_Lives_of_Ants,_Brains,_Cities,_and_Software)（Touchstone Books）。
 
 Let's consider a simple example to illustrate the point. Imagine that our character is on one side of a locked wooden door and wants to get to the other side of the door. There are a number of ways to approach this, ranging from the obvious to the obscure. First, we could find the key and open the door. That's the simplest solution. But let's say we cannot find the key. Let's try picking the lock—no luck there, because we're not skilled enough. Okay, another approach: We'll try and cast our magic Open Sesame spell and open the door magically. Nope—we're fresh out of magic.
 
+让我们举一个简单的例子来说明这一点。想象一下，我们的角色在一扇上锁的木门的一侧，想要去到门的另一侧。有很多方法可以解决这个问题，从显而易见的到晦涩难懂的。首先，我们可以找到钥匙并打开门。这是最简单的办法。但假设我们找不到钥匙。让我们试试撬锁——运气不佳，因为我们技术不够。好吧，另一个办法：我们试着施展“芝麻开门”魔法，用魔法把门打开。不行，我们没有魔法了。
+
 In most games, that would be as far as we get. If our progression in the game depended on our getting through that door, we would be stuck and consequently would be forced to go and search for the key, find some way of improving our lock-picking skills, or find a way to replenish our magic and try the spell again. (See the section "Avoiding Stagnation," later in this chapter.)
+
+在大多数游戏中，我们只能走到这一步。如果我们在游戏中的进展取决于能否通过那扇门，那么我们就会被卡住，从而被迫去寻找钥匙，想办法提高撬锁技能，或者想办法补充魔力，再试一次咒语。(请参阅本章后面的“避免停滞”部分）。
 
 However, in reality, we know that there would be other ways to get through the door. We could attempt to break it down with an axe or a mace. We could attempt to burn through it using fire or acid. We could try casting a spell to turn it to stone or glass and then shatter it. We could attempt to unscrew the hinges or the lock. We could attempt to use acid to burn through the hinges or the lock. We could try and break our way through the wall next to the door. We could attempt to cast a "ghost" spell on ourselves that lets us pass through solid objects. And these are just the first ideas that came to us—just imagine what else your players will think of.
 
+然而，在现实中，我们知道还有其他方法可以穿过这扇门。我们可以尝试用斧头或狼牙棒把门砸开。我们可以尝试用火或酸烧开它。我们可以尝试施法把它变成石头或玻璃，然后打碎它。我们可以尝试拧开铰链或锁。我们可以尝试用酸烧开铰链或锁。我们可以尝试撞开门旁边的墙壁。我们可以尝试对自己施放“幽灵”咒语，让我们穿过坚固的物体。这些只是我们想到的第一个点子，想象一下你的玩家还会想到什么。
+
 As game designers, we get away with allowing only a small range of free will for one main reason: The power of the world simulation is limited by hardware and software considerations. We're going to ignore the argument that restricting the range of gameplay choices can also improve gameplay; it's valid in some cases, but here it would be sophistry.
+
+作为游戏设计者，我们之所以只允许很小范围的自由意志，主要原因只有一个：世界模拟的能力受到硬件和软件因素的限制。我们将忽略限制游戏玩法选择范围也能提高游戏性的论点；这种论点在某些情况下是成立的，但在这里则是诡辩。
 
 So what does this have to do with emergence? Imagine that we designed our simulation so that we took into account a limited subset of fundamental properties of matter and handled our interactions between objects in that fashion. Then we would consider the door as a collection of connected objects: the hinge, the door itself, and the lock. The door is made of wood. Wood has a set of properties somewhat like this: flammability (high), resistance to acid (average), and strength (average). That takes care of the door. We've stated that it can be burnt, that it can be destroyed with acid, and that it's possible to smash through it, provided that the physics engine handles things at this level. Similarly, the lock and hinges would be made of metal. Metal would have the following properties: flammability (low), resistance to acid (poor), and strength (high). Hence, we could not burn the lock or hinges, but we could melt them with acid, and good luck trying to smash them. Similarly, you could assign properties to the stone wall holding the door that detail whether it could be broken through or not.
 
+那么，这与涌现有什么关系呢？想象一下，我们在设计模拟时，只考虑了物质基本属性的有限子集，并以这种方式处理物体之间的相互作用。那么，我们就可以把门看作是一个由铰链、门本身和锁等相连物体组成的集合。门是木头做的。木头有这样一组属性：可燃性（高）、耐酸性（一般）和强度（一般）。这就解决了门的问题。我们已经说明它可以被烧毁，可以被酸液破坏，也可以被砸开，前提是物理引擎可以在这个级别上处理问题。同样，锁和铰链也将由金属制成。金属具有以下特性：可燃性（低）、耐酸性（差）和强度（高）。因此，我们无法将锁或铰链烧毁，但可以用酸将其融化，而想要将其砸碎，那就祝你好运了。同样，你也可以为固定门的石墙分配属性，详细说明它是否可以被砸开。
+
 This is not a rigorous example, but it forms the basis of a workable system. What we are demonstrating here is the power of emergent properties. You don't need to go overboard trying to cover every conceivable property of matter—just choose a few that make sense within the bounds of your world model. We took three simple properties (flammability, resistance to acid, and strength) and showed how they could determine a wide range of behaviors. In fact, they would let us get to the other side of the door in a number of ways that we may not have even thought of. And that's the power of emergence: complex behaviors resulting from a simple model. Imagine if we had a model that had a few more properties—which would pretty much cover every conceivable way of getting through the door—including bombarding it with frozen marshmallows, if the fancy took us.
+
+这不是一个严谨的例子，但它构成了一个可行系统的基础。我们在这里展示的是突发特性的能力。你不必过分追求物质的所有可想象属性——只需选择一些在你的世界模型范围内合理的属性即可。我们选取了三种简单的性质（可燃性、耐酸性和强度），展示了它们如何决定一系列广泛的行为。事实上，它们能让我们以许多我们可能想都没想过的方式到达门的另一边。这就是涌现的力量：简单的模型产生复杂的行为。想象一下，如果我们有一个拥有更多属性的模型——它几乎涵盖了所有可以想象到的通过这扇门的方法——包括用冰冻棉花糖轰炸它，如果我们突发其想的话。
 
 As with all tools, emergence has to be used with care. In the prior example, the fact that the player could imagine ways that we haven't considered in order to get through the door makes it difficult for us to control the gameplay directly. If we wanted the door to be a particularly tricky puzzle, we risk undermining the gameplay by providing the player with the freedom to figure out his own way through the door. Emergence is both the bane and the savior of game design. In our opinion, it is the single most valuable tool for taking your game beyond the ordinary, but it can be a double-edged sword. Emergence has its dark side, and in the wrong place, it can undermine gameplay, leading to undesirable dominant strategies or, worse, fatal gameplay flaws.
 
-For example, a series of artificial life games, the Creatures series from CyberLife, relies heavily on emergence (see Figure 8.13). The behavior of the life-forms, the Norns, is determined by a neural network. Although this is a prime example of emergence, it also gives us an example of why emergence isn't the universal panacea it is claimed to be. The problem stems from the fact that Norns learn by positive and negative reinforcement: If something feels good, they'll keep doing it, and if something feels bad, they won't. There's nothing inherently wrong with this—in fact, it's probably the only sensible approach, because it seems to work well enough in the real world. However, within the simplified world of the Norns, it has some unfortunate side effects.
+与所有工具一样，涌现必须谨慎使用。在前面的例子中，玩家可以想象出我们没有设想到的通过这扇门的方法，这使得我们很难直接控制游戏的玩法。如果我们想让这扇门成为一个特别棘手的谜题，那么我们就有可能因为给玩家提供了自己想办法通过这扇门的自由而破坏游戏性。涌现既是游戏设计的祸根，也是游戏设计的救星。在我们看来，它是让你的游戏出类拔萃的最有价值的工具，但它也可能是一把双刃剑。涌现有其阴暗面，如果用在错误的地方，它可能会破坏游戏性，导致令人不快的优势策略，更有甚者，会造成致命的游戏缺陷。
 
-Figure 8.13. Creatures.
+For example, a series of artificial life games, the [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series)) series from CyberLife, relies heavily on emergence (see Figure 8.13). The behavior of the life-forms, the Norns, is determined by a neural network. Although this is a prime example of emergence, it also gives us an example of why emergence isn't the universal panacea it is claimed to be. The problem stems from the fact that Norns learn by positive and negative reinforcement: If something feels good, they'll keep doing it, and if something feels bad, they won't. There's nothing inherently wrong with this—in fact, it's probably the only sensible approach, because it seems to work well enough in the real world. However, within the simplified world of the Norns, it has some unfortunate side effects.
+
+例如，CyberLife 公司推出的人工生命游戏[生物](https://en.wikipedia.org/wiki/Creatures_(video_game_series))系列就在很大程度上依赖于涌现（见图 8.13）。生命体“诺恩”的行为是由神经网络决定的。虽然这是涌现的一个典型例子，但它也给我们提供了一个例子，说明为什么涌现并不像人们所说的那样是万能的。问题源于诺恩通过正强化和负强化来学习：如果感觉良好，他们就会继续做，如果感觉不好，他们就不会做。这本身并没有什么问题，事实上，这可能是唯一合理的方法，因为它在现实世界中似乎足够有效。然而，在简化的诺恩世界中，它却有一些令人遗憾的副作用。
+
+Figure 8.13. Creatures. 图 8.13. 生物
 
 graphics/08fig13.gif
 
 For example, in one of the games, there is a still that produces alcoholic beverages. The pleasure reward from drinking at the still is so immediate that all Norns who find their way to the still would simply stay there and get drunk. Unfortunately, this is not nearly as entertaining as it sounds (well, not for long anyway). They get drunk. They fall down. And that's about it. Clearly, this is an undesirable example of emergence. It does not add anything interesting to the game and, in fact, detracts from it.
 
-Feedback Loops
+例如，在其中一个游戏中，有一个生产酒精饮料的蒸馏酿酒厂。在酿酒厂里喝酒的快感是如此直接，以至于所有找到酿酒厂的诺恩都会呆在那里一醉方休。不幸的是，这并不像听起来那么有趣（好吧，反正不会持续太久）。他们喝醉了。他们摔倒。仅此而已。显然，这是一个不受欢迎的涌现例子。它并没有给游戏增添任何有趣的东西，事实上，它还减弱了游戏的趣味性。
+
+
+### Feedback Loops 反馈循环
 
 The basic progression of a game is that it starts statically and dynamically balanced and then gets out of balance, first one way and then the other. It goes backward and forward like a seesaw, with one player ahead and then the other, until someone eventually gets so far ahead that it is impossible for the other to catch up.
 
+游戏的基本进程是，它从静态和动态平衡开始，然后失去平衡，先是偏向一方，然后又偏向另一方。它像跷跷板一样来回摆动，先是一个玩家领先，然后是另一个玩家领先，直到最终有人领先太多，以至于其他人不可能追赶上来。
+
 Often, being ahead tends to make things easier for the player in that position and harder for the other. This is positive feedback that helps the leading player. That is, "the rich get richer and the poor get poorer," as in Monopoly. The more money you have, the more hotels you can put up, which produces more money, and so on. This is a desirable trait as long as it doesn't happen too fast and doesn't leave the player who's behind with no way to catch up. In chess, taking an opponent's piece gives the taker a slight advantage: The other side doesn't have that piece to play with anymore. But in Japanese chess, when you take an opponent's piece, you move it to your side of the board, and it becomes your piece (although it turns into a weaker piece). This confers an additional advantage: Not only does the enemy not have that piece, but you have an extra piece to play with. If you did this with Western chess, the games would be very short indeed.
+
+通常情况下，领先的一方往往会让处于该位置的一方更轻松，而另一方则更困难。这是一种正反馈，有助于领先的玩家。这就是《大富翁》中的“富者愈富，穷者愈穷”。你的钱越多，你就可以开更多的酒店，从而产生更多的钱，如此循环。这是一种可取的特性，只要它不会发生得太快，也不会让落后的玩家无从追赶。在国际象棋中，吃掉对方的棋子会给吃棋者带来一点优势：因为对方再也没有那个棋子可以玩了。但在日本象棋中，吃掉对方的棋子后，就会把它移到棋盘的自己一方，成为自己的棋子（尽管它变成了一个较弱的棋子）。这就赋予了额外的优势：不仅敌方没有了这颗棋子，自己也多了一颗棋子。如果在西洋棋中这样做，棋局确实会很短。
 
 Therefore, you want positive feedback so that the game will end eventually, but not too much. Most war games, for example Warcraft, don't let you take and use enemy factories; they only let you damage and destroy them. If you could use enemy factories to build armies, the game would become unbalanced too quickly.
 
+因此，你需要积极的反馈，这样游戏最终会结束，但又不能过多。大多数战争游戏，例如《魔兽争霸》，都不允许玩家占领和使用敌人的工厂，而只允许玩家破坏和摧毁它们。如果你可以使用敌人的工厂来建造军队，那么游戏很快就会失去平衡。
+
 You need the keep the players in the balance sweet spot for as long as is practical in order to keep the game fun and let the underdogs have a chance to catch up. A game where the slightest advantage leads to a runaway victory for one player would not be fun. In summary, if you are going to use positive feedback loops in your design, make sure they have a reasonable response time delay before they kick into action.
 
-Or you can counter positive feedback with negative feedback, as well. Suppose taking an enemy piece enables you to use it, but there is a price to be paid for it: It must be supported somehow. This means that taking it is not "free." This was found in Dungeon Keeper: You could torture enemy creatures to convert them to your side, but once you did, they had to have food and money and a place to sleep. The process of converting them also took time, and if you weren't careful, you might kill them without converting them. As a result, it wasn't a strongly dominant strategy. It was a weakly dominant one that was well worthwhile but not absolutely necessary (we won't comment on the morals of simulated torture of imaginary creatures).
+为了保持游戏的趣味性，并让弱者有机会迎头赶上，你需要尽可能长时间地让玩家处于平衡的甜蜜点。在游戏中，稍有优势就会导致某个玩家大获全胜，这样的游戏就不好玩了。总之，如果你要在设计中使用正反馈循环，确保它们在开始作用之前有一个合理的响应时间延迟。
+
+Or you can counter positive feedback with negative feedback, as well. Suppose taking an enemy piece enables you to use it, but there is a price to be paid for it: It must be supported somehow. This means that taking it is not "free." This was found in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper): You could torture enemy creatures to convert them to your side, but once you did, they had to have food and money and a place to sleep. The process of converting them also took time, and if you weren't careful, you might kill them without converting them. As a result, it wasn't a strongly dominant strategy. It was a weakly dominant one that was well worthwhile but not absolutely necessary (we won't comment on the morals of simulated torture of imaginary creatures).
+
+你也可以用负反馈来对抗正反馈。假设夺取敌人的棋子能让你使用它，但要付出代价：必须以某种方式支持它。这就意味着，拿走它并不是“免费”的。在[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中就有这种情况：你可以折磨敌方生物，让他们皈依你的阵营，但一旦你这样做了，他们就必须有食物、金钱和睡觉的地方。转化他们的过程也需要时间，如果你不小心，可能在没有转化他们的情况下就杀死了他们。因此，这并不是一种强优势战略。这是一种弱优势策略，虽然很有价值，但并非绝对必要（我们不评论模拟折磨假想生物的道德问题）。
 
 Another example is the venerable game of 8-ball pool: The more you get ahead, the more difficult it is to keep sinking shots because you have less balls to target and your opponent has more balls to get in the way.
+
+另一个例子是古老的 8 球撞球游戏： 你越是领先，就越难继续沉底击球，因为你的目标球越少，而对手的阻碍球越多。
 
 Another solution to too much positive feedback is to include a random factor that gives the player who's behind a chance to catch up just through sheer luck: throwing double sixes in backgammon, for example. Of course, if the random factor is fair, it might put the player even further behind, too, but at least it adds variety and uncertainty to the game. But the random factor must not be too great, or it overrides the value of good play in the first place and discourages a good player. Why play well if the result amounts to flipping a coin anyway? Poker is a good example of a game with a well-balanced random factor: In any given game, randomness plays a large role, but smart players don't bet large amounts on a single game. Rather, they count on the cumulative effect of good play over many games to reward good players and take money from poor ones. The major factor that determines winners (averaged over a statistically significant number of games) is player skill.
 
