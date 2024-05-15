@@ -620,26 +620,34 @@ The aim of game balancing is to set up a balanced system for the player to exper
 
 游戏平衡的目的是建立一个平衡的系统供玩家体验。因此，游戏的设置应做到以下几点：
 
-Provide a consistent challenge
+* Provide a consistent challenge
 提供持续的挑战
 
-Provide the player with a perceivably fair playing experience
+* Provide the player with a perceivably fair playing experience
+为玩家提供可感知的公平游戏体验
 
-Avoid stagnation
+* Avoid stagnation
+避免停滞不前
 
-Avoid trivialities
+* Avoid trivialities
+避免琐碎
 
-Allow setting of difficulty level (where appropriate)
+* Allow setting of difficulty level (where appropriate)
+允许设置难度级别（适当时）
 
 Let's examine how we can achieve these aims in our game design. The following sections describe each point in some detail and discuss methods of implementation.
 
-### Providing a Consistent Challenge
+### Providing a Consistent Challenge 提供连贯的挑战
 
 The game should scale in difficulty smoothly as the player progresses into it. A number of games seem to miss this particular point, and in some cases, the midgame experience turns out to be substantially more difficult than the endgame.
 
+游戏的难度应该随着玩家的深入而平稳地递增。很多游戏似乎都忽略了这一点，在某些情况下，游戏中期的体验要比游戏末期难得多。
+
 One of the major things to be checking for is that the game's difficulty increases smoothly and does not peak or spike irregularly. This is definitely something we need to avoid; the damage that it does to the pacing of the game is irreparable, because the player will feel that anything after that point is anticlimactic. In other words, if you show off your strongest hand too early in the game, anything after that is a disappointment. This highlights the importance of thorough play testing.
 
-### Providing a Perceivably Fair Playing Experience
+其中最重要的一点是，游戏难度的增加要平稳，不能出现峰值或无规律的飙升。这绝对是我们需要避免的；它对游戏节奏造成的破坏是无法弥补的，因为玩家会觉得之后的任何事情都是反高潮的。换句话说，如果你在游戏中过早地展示了你最强的一手牌，那么之后的任何事情都会让人失望。这就凸显了全面游戏测试的重要性。
+
+### Providing a Perceivably Fair Playing Experience 提供可感知的公平游戏体验
 
 A major factor in whether a player enjoys a game is whether she perceives it to be fair or not. Note that it does not actually matter whether the game is fair. What is important here is the player's perception of fairness.
 
