@@ -620,22 +620,24 @@ The aim of game balancing is to set up a balanced system for the player to exper
 
 游戏平衡的目的是建立一个平衡的系统供玩家体验。因此，游戏的设置应做到以下几点：
 
-* Provide a consistent challenge
+* Provide a consistent challenge\
 提供持续的挑战
 
-* Provide the player with a perceivably fair playing experience
+* Provide the player with a perceivably fair playing experience\
 为玩家提供可感知的公平游戏体验
 
-* Avoid stagnation
+* Avoid stagnation\
 避免停滞不前
 
-* Avoid trivialities
+* Avoid trivialities\
 避免琐碎
 
-* Allow setting of difficulty level (where appropriate)
+* Allow setting of difficulty level (where appropriate)\
 允许设置难度级别（适当时）
 
 Let's examine how we can achieve these aims in our game design. The following sections describe each point in some detail and discuss methods of implementation.
+
+让我们来看看如何在游戏设计中实现这些目标。下文将详细介绍每一点，并讨论实现方法。
 
 ### Providing a Consistent Challenge 提供连贯的挑战
 
