@@ -623,7 +623,7 @@ As we've already hinted, this could also fit the description of the first intera
 
 The aim of game balancing is to set up a balanced system for the player to experience. Consequently, gameplay should be set up to do the following:
 
-游戏平衡的目的是建立一个平衡的系统供玩家体验。因此，游戏的设置应做到以下几点：
+游戏平衡的目的是建立一个平衡的系统供玩家体验。因此，游戏玩法的设置应做到以下几点：
 
 * Provide a consistent challenge\
 提供持续的挑战
@@ -652,15 +652,21 @@ The game should scale in difficulty smoothly as the player progresses into it. A
 
 One of the major things to be checking for is that the game's difficulty increases smoothly and does not peak or spike irregularly. This is definitely something we need to avoid; the damage that it does to the pacing of the game is irreparable, because the player will feel that anything after that point is anticlimactic. In other words, if you show off your strongest hand too early in the game, anything after that is a disappointment. This highlights the importance of thorough play testing.
 
-其中最重要的一点是，游戏难度的增加要平稳，不能出现峰值或无规律的飙升。这绝对是我们需要避免的；它对游戏节奏造成的破坏是无法弥补的，因为玩家会觉得之后的任何事情都是反高潮的。换句话说，如果你在游戏中过早地展示了你最强的一手牌，那么之后的任何事情都会让人失望。这就凸显了全面游戏测试的重要性。
+其中最重要的一点是，游戏难度的增加要平稳，不能出现峰值或无规律的飙升。这绝对是我们需要避免的；它对游戏节奏造成的破坏是无法弥补的，因为玩家会觉得之后的任何事情都是没劲的。换句话说，如果你在游戏中过早地展示了你最强的一手牌，那么之后的任何事情都会让人失望。这就凸显了全面游戏测试的重要性。
 
 ### Providing a Perceivably Fair Playing Experience 提供可感知的公平游戏体验
 
 A major factor in whether a player enjoys a game is whether she perceives it to be fair or not. Note that it does not actually matter whether the game is fair. What is important here is the player's perception of fairness.
 
+玩家是否喜欢游戏的一个主要因素是她是否认为游戏是公平的。请注意，游戏是否真的公平并不重要。重要的是玩家对公平性的感知。
+
 For example, if you are going to allow the computer opponents to cheat, you should do it subtly. Blatant cheating is a throwback to the days of minimal processing power; the only way the player could expect a decent opponent was if the computer cheated, and there was not enough spare processing power to even attempt to hide it. Nowadays, of course, we cannot use this excuse. Blatant cheating by the computer is seen as a sign of laziness on the part of the designers and developers.
 
+例如，如果你要允许电脑对手作弊，那么就应该做得隐蔽一些。公然作弊是一种过时的做法，在处理能力有限的年代，玩家获得一个势均力敌的对手的唯一方法就是让电脑作弊，并且当时的电脑根本没有足够的处理能力去掩盖作弊行为。如今，我们当然不能再用这个借口了。电脑明显的作弊行为会被视为设计师和开发者偷懒的表现。
+
 A number of measures can be used to help ensure that a game is fair. This is integral to good design technique. For example, no good designer would knowingly design a game where a player destroys all chances of winning by taking an action earlier in the game and not finding out until later in the game.
+
+可以采用多种措施来帮助确保游戏是公平的。这对良好的设计技术至关重要。例如，没有一个优秀的设计师会故意设计一个游戏，让玩家在游戏早期采取一个行动，结果直到游戏后期才发现这破坏了获胜的所有机会。
 
 A classic example of this is Monty on the Run by Gremlin Graphics (see Figure 8.17). This was a maze-based platform game for the 8-bit ZX Spectrum computer released back in the '80s. The object of the game was to guide the hero to freedom and to escape the long arm of the law. One of the unique selling points of this game was the "freedom kit." When the player started the game, he had to choose five items to take along. These items would help get past various obstacles throughout the game. The problem was that the player was given no clues as to which were correct and which were not. The only way to discover this was by trial and error. Thus, the player was effectively doomed from the start unless the correct choice was made at the beginning of the game. This is clearly not fair. This is an extreme example; not many games so blatantly flout fairness in this way. However, even though this is an old game, there are still more recent games that do similar things. How many times have you forgotten to pick up an item that is necessary later in the game? The only choice is to restart the game or to painfully pick your way back to retrieve the item.
 
