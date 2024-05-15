@@ -552,9 +552,14 @@ There are several ways that the player can interact with the dynamic balance, de
 
 根据游戏的目的，玩家可以通过多种方式与动态平衡互动。(请注意，这些互动不一定要在全局层面上进行；玩家可以为不同的子游戏分配不同的互动模式）。有以下三种互动模式可供选择。玩家可以：
 
-* Restore a balance. 恢复平衡。
-* Maintain a balance. 维持平衡。
-* Destroy a balance. 破坏平衡。
+* Restore a balance.\
+恢复平衡。
+
+* Maintain a balance.\
+维持平衡。
+
+* Destroy a balance.\
+破坏平衡。
 
 ### Restoring a Balance 恢复平衡
 
