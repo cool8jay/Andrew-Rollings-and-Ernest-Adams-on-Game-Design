@@ -632,7 +632,7 @@ The aim of game balancing is to set up a balanced system for the player to exper
 为玩家提供可感知的公平游戏体验
 
 * Avoid stagnation\
-避免停滞不前
+避免停滞
 
 * Avoid trivialities\
 避免琐碎
@@ -670,8 +670,7 @@ A number of measures can be used to help ensure that a game is fair. This is int
 
 A classic example of this is [Monty on the Run](https://en.wikipedia.org/wiki/Monty_on_the_Run) by Gremlin Graphics (see Figure 8.17). This was a maze-based platform game for the 8-bit ZX Spectrum computer released back in the '80s. The object of the game was to guide the hero to freedom and to escape the long arm of the law. One of the unique selling points of this game was the "freedom kit." When the player started the game, he had to choose five items to take along. These items would help get past various obstacles throughout the game. The problem was that the player was given no clues as to which were correct and which were not. The only way to discover this was by trial and error. Thus, the player was effectively doomed from the start unless the correct choice was made at the beginning of the game. This is clearly not fair. This is an extreme example; not many games so blatantly flout fairness in this way. However, even though this is an old game, there are still more recent games that do similar things. How many times have you forgotten to pick up an item that is necessary later in the game? The only choice is to restart the game or to painfully pick your way back to retrieve the item.
 
-Gremlin Graphics 公司的[《奔跑的蒙蒂》](https://en.wikipedia.org/wiki/Monty_on_the_Run)就是一个典型的例子（见图 8.17）。这是一款基于迷宫的平台游戏，于 80 年代在 8 位 ZX Spectrum 电脑上发布。游戏的目的是引导主人公获得自由，逃脱法律的制裁。这款游戏的独特卖点之一是“自由套装”。当玩家开始游戏时，他必须选择五件物品随身携带。这些物品可以帮助玩家通过游戏中的各种障碍。问题是，玩家并不知道哪些是正确的，哪些是错误的。发现问题的唯一方法就是反复试验。因此，除非在游戏开始时做出正确的选择，否则玩家实际上从一开始就注定要失败。这显然是不公平的。这是一个极端的例子，没有多少游戏会这样公然藐视公平。不过，尽管这是一款老游戏，但最近仍有一些游戏做了类似的事情。你有多少次忘记拾取游戏后期所需的物品？唯一的选择就是重新开始游戏，或者痛苦地拾回物品。
-
+Gremlin Graphics 公司的[《奔跑的蒙蒂》](https://en.wikipedia.org/wiki/Monty_on_the_Run)就是一个典型的例子（见图 8.17）。这是一款基于迷宫的平台游戏，于 80 年代在 8 位 ZX Spectrum 电脑上发布。游戏的目的是引导主人公获得自由，逃脱法律的制裁。这款游戏的独特卖点之一是“自由套装”。当玩家开始游戏时，他必须选择五件物品随身携带。这些物品可以帮助玩家通过游戏中的各种障碍。问题是，玩家并不知道哪些是正确的，哪些是错误的。发现问题的唯一方法就是反复试验。因此，除非在游戏开始时做出正确的选择，否则玩家实际上从一开始就注定要失败。这显然是不公平的。这是一个极端的例子，没有多少游戏会这样公然藐视公平。不过，尽管这是一款老游戏，但最近仍有一些游戏做了类似的事情。你有多少次忘记拾取游戏后期所需的物品？唯一的选择就是重新开始游戏，或者痛苦地一路返回去取回物品。
 
 Figure 8.17. Monty on the Run. 图 8.17. 《奔跑的蒙蒂》。
 
@@ -679,29 +678,45 @@ graphics/08fig17.gif
 
 This example also breaks another of the cardinal rules of game design fairness: informing the player of everything needed to play the game and not using unknowable or unguessable information. The choice of the freedom kit items is not intuitive. The player is given no information of which is the best choice to make. In fact, the only way to be sure of making the correct choice is to cheat—either by reading it in a magazine or finding out from friends. Any game that requires reading a strategy guide or searching on the web, rather than the player's natural ability to play it successfully, is fundamentally flawed.
 
+这个例子还违反了游戏设计公平性的另一个基本原则：告知玩家游戏所需的一切，不使用不可知或不可猜测的信息。自由套装物品的选择并不直观。玩家不知道哪种选择是最好的。事实上，确保做出正确选择的唯一办法就是作弊——要么从杂志上读攻略，要么从朋友那里打听。任何游戏，如果需要阅读策略指南或上网搜索，而不是靠玩家的自身能力来成功游戏，那么这款游戏从根本上就是有缺陷的。
+
 Another important consideration for ensuring fairness—particularly in multiplayer games—is to protect new players while they are finding their feet in the world. Here, we can take a lesson from nature. Most animals protect their young in some form or another. We need to ensure that our new players are protected in a similar manner. Nothing is more discouraging than joining a new game only to be slaughtered for fun or profit by an experienced player. This protection can be provided in a number of ways. The opportunity to practice in a single-player game is the best way to enable this. First-person shooters tend to implement this well; the single-player game provides a good training ground for players to prepare for joining the multiplayer online mêlée. Purely online games, such as EverQuest and Ultima Online, need to take a different approach (see Figure 8.18). Here, special training areas should be set aside for new players. There should also be a guiding principle that says that an 8-foot 300-pound barbarian giant cannot be killed by an ordinary rat. Where's the balance in that? Anarchy Online does provides specific training areas for new players—where you can get killed by a rat!
 
-Figure 8.18. EverQuest and Ultima Online.
+确保公平性的另一个重要考虑因素，尤其是在多人游戏中，是保护正在摸索世界的新玩家。在这方面，我们可以从大自然中吸取教训。大多数动物都会以某种形式保护自己的幼崽。我们需要确保以类似的方式保护我们的新玩家。没有什么比加入一个新游戏却被一个经验丰富的玩家屠杀取乐或牟利更令人沮丧的了。这种保护可以通过多种方式提供。在单人游戏中进行练习是最好的方法。第一人称射击游戏往往能很好地实现这一点；单人游戏为玩家提供了一个很好的训练场，让他们为加入多人在线混战做好准备。纯在线游戏，如《无尽的任务》和《网络创世纪》，则需要采取不同的方法（见图 8.18）。在这里，应该为新玩家留出专门的培训区域。还应该有一个指导原则，规定一只普通的老鼠不能杀死一个 8 英尺高、300 磅重的野蛮巨人。平衡在哪里？《混乱》确实为新玩家提供了特定的训练区域——在那里你可能会被老鼠杀死！
+
+Figure 8.18. EverQuest and Ultima Online. 图 8.18. 《无尽的任务》 和 Ultima Online。
 
 graphics/08fig18.gif
 
-The question of balance in an online game is an ongoing one, as you have the opportunity to respond to "real play" situation in a way that a standard single-player game can't—until the expansion pack, at any rate. Asheron's Call does this on a regular basis—and yet it's still fundamentally unbalanced in favor of magic users. It seems to be that way because that's what the magic users want, and obviously the publishers want to hold their audience. Suddenly, game balance is more about ongoing sales and politics than it is about the game play—but it's something that you have to consider as a designer.
+The question of balance in an online game is an ongoing one, as you have the opportunity to respond to "real play" situation in a way that a standard single-player game can't—until the expansion pack, at any rate. [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call) does this on a regular basis—and yet it's still fundamentally unbalanced in favor of magic users. It seems to be that way because that's what the magic users want, and obviously the publishers want to hold their audience. Suddenly, game balance is more about ongoing sales and politics than it is about the game play—but it's something that you have to consider as a designer.
+
+网络游戏中的平衡问题是一个持续的问题，因为你有机会应对“真实游戏”的情况，而标准的单人游戏却没有这种机会——至少在扩展包出现之前之前是这样。[《阿斯龙的召唤》](https://en.wikipedia.org/wiki/Asheron%27s_Call)经常这样做，但从根本上讲，它仍然是不平衡的，对魔法使用者有利。之所以会这样，似乎是因为魔法使用者想要这样，而发行商显然也想抓住他们的受众。突然之间，游戏平衡更多地与持续的销售和政治有关，而不是与游戏玩法有关——但这是作为设计师必须考虑的问题。
 
 Nothing is more frustrating for a player than having to repeat actions over and over again. This is a cardinal (and unfortunately common) sin for a computer game. Surely everyone has screamed in frustration at the save-die-reload cycle that causes the player to replay a section of the game already completed. Worse still are those games that send you back to a distant "checkpoint" on death. Game designers need to learn an important lesson here. Nobody wants to be forced to repeat completed sections of the game. Give them the choice, by all means, but don't force it on them.
 
-Last, but certainly by no means least, the concept of fairness extends to how the player's avatar dies. At no point in the game should the players feel as if events and their consequences are out of control. The players should be made to feel as if every event in the game is under their control. If they fail to control it, they should feel that it was a failure to act on their part, and not just a random arbitrary event that they had no way of avoiding. Instant death syndrome is the most concrete manifestation of this. Deathtrap Dungeon, published by Eidos, was guilty of this (see Figure 8.19). Many of the traps were completely unavoidable. The only way to even know that the traps were there was to trigger them and die. Then your next incarnation would know better. Good game design? Maybe not.
+对于玩家来说，没有什么比一次又一次地重复操作更令人沮丧的了。这是电脑游戏的大忌（不幸的是，这也是电脑游戏的通病）。当然，每个人都曾对“保存-死亡-重载”的循环感到沮丧，这种循环会让玩家重玩一段已经完成的游戏。更糟糕的是，有些游戏会在玩家死亡后将其送回遥远的 “检查点”。在这方面，游戏设计者需要吸取一个重要的教训。没有人愿意被迫重复已完成的游戏部分。尽一切可能给他们选择，但不要强迫他们。
 
-Figure 8.19. Deathtrap Dungeon.
+Last, but certainly by no means least, the concept of fairness extends to how the player's avatar dies. At no point in the game should the players feel as if events and their consequences are out of control. The players should be made to feel as if every event in the game is under their control. If they fail to control it, they should feel that it was a failure to act on their part, and not just a random arbitrary event that they had no way of avoiding. Instant death syndrome is the most concrete manifestation of this. [Deathtrap Dungeon](https://en.wikipedia.org/wiki/Deathtrap_Dungeon_(video_game)), published by Eidos, was guilty of this (see Figure 8.19). Many of the traps were completely unavoidable. The only way to even know that the traps were there was to trigger them and die. Then your next incarnation would know better. Good game design? Maybe not.
+
+最后，但绝不是最不重要的一点是，公平的概念延伸到了玩家化身的死亡方式上。在游戏中，任何时候都不能让玩家感觉事件及其后果不受控制。应该让玩家感觉到游戏中的每一个事件都在他们的控制之下。如果他们没能控制住，他们应该觉得是自己的行为失误，而不仅仅是他们无法避免的随机任意事件。瞬时死亡综合症就是最具体的体现。由 Eidos 出版的[《死亡陷阱地牢》](https://en.wikipedia.org/wiki/Deathtrap_Dungeon_(video_game))就犯了这个毛病（见图 8.19）。许多陷阱是完全无法避免的。要想知道陷阱的存在，唯一的办法就是触发陷阱并死亡。然后你的下一个化身就会知道得更清楚了。好的游戏设计？也许不是。
+
+Figure 8.19. Deathtrap Dungeon. 图 8.19. 《死亡陷阱地牢》。
 
 graphics/08fig19.gif
 
 The worst thing about fairness is that everyone has a different concept of what fair is. The task that the game designer faces is finding a common ground that will keep as many people happy as possible. The old adage is true: You can fool some of the people all of the time, and all of the people some of the time, but not all of the people all of the time. Harsh though it may be, as a game designer, you are trying to fool as many people as possible into thinking that your crude simulation of a real world cares enough about the players to ensure that they get a fair experience.
 
-### Avoiding Stagnation
+关于公平，最糟糕的是每个人对什么是公平都有不同的理解。游戏设计者面临的任务就是找到一个共同点，让尽可能多的人满意。有句老话说得好：你可以在所有时间里愚弄一部分人，也可以在某些时间里愚弄所有的人，但不可能在所有时间里愚弄所有的人。下面的话说起来可能不太好听，但作为游戏设计师，你要尽可能地愚弄更多的人，让他们认为你对真实世界的粗糙模拟足够关心玩家，保证他们都能获得公平的体验。
+
+### Avoiding Stagnation 避免停滞
 
 Stagnation is generally as unpleasant as it sounds and smells almost as bad in a game design as it does in water. Stagnation occurs when players are playing a game and reach a point where they appear to be stuck, with no way to go on. There is nothing worse than running round a level of the latest and greatest first-person shooter trying to find that last hidden switch that opens the level exit. Of course, it's not just that type of game that is guilty of this offense (although it is a persistent offender). Any game that leaves the players in a position where they simply do not know what to do next is stagnating.
 
+在游戏设计中，“停滞”通常听起来令人不快，闻起来几乎和一潭死水一样糟糕。当玩家在玩游戏时到达一个点，似乎被卡住了，无路可走时，就会出现停滞现象。最糟糕的事情莫过于在最新、最棒的第一人称射击游戏关卡中跑来跑去，试图找到那个打开关卡出口的最后一个隐藏开关。当然，犯这种错误的不仅仅是这类游戏（虽然它是个惯犯）。任何让玩家不知下一步该做什么的游戏都是停滞不前的。
+
 In some cases, this is very difficult to avoid. A sprawling action-adventure has so many different combinations and configurations that it is difficult to anticipate exactly what the player may or may not try and do. However, it is still possible to give the players positive and negative feedback as they progress. The problem of stagnation can be tackled passively; that is, the designer can make sure that the clues about how to proceed are hidden in plain sight. The other alternative is to tackle stagnation actively: Have the game work out whether the player has been wandering around aimlessly and provide a few gentle nudges to guide him in the right direction.
+
+在某些情况下，这种情况很难避免。一个庞大的动作冒险游戏有如此多不同的组合和配置，以至于很难准确预测玩家可能会或可能不会尝试做什么。不过，还是有可能在玩家前进的过程中给予他们积极和消极的反馈。停滞不前的问题可以通过被动的方式来解决，也就是说，设计者可以确保将如何继续的线索隐藏在玩家的视线之内。另一种方法是主动解决停滞问题： 让游戏找出玩家是否一直在漫无目的地游荡，并提供一些温和的提示，引导玩家朝着正确的方向前进。
 
 The key point is never to let the player feel bewildered. The players should always feel as if they know what their next move should be. It is no fun to bang your head up against a brick wall simply because you are completely and utterly stuck in a game. This ties in with our earlier piece of advice about making sure the player is adequately provided with information. If a player has to resort to outside assistance—whether by cheating, reading a strategy guide, or looking up the answers on the web—the game designer should view that as a failure of the design.
 
@@ -833,7 +848,7 @@ A balanced game should:
 * 
 * Provide the player with a perceivably fair playing experience.
 * 
-* Avoid stagnation.
+* Avoid stagnation. 避免停滞
 * 
 * Avoid trivialities.
 * 
