@@ -750,21 +750,29 @@ To be fair, this sort of trivial decision doesn't crop up as blatantly as this; 
 
 For an example of how you could use trivial decisions, consider a fictional cops and robbers game. Your officer is patrolling the city as usual, on the lookout for crime, when suddenly he spots a group of suspicious-looking characters on the corner. He stops the car and they immediately run down an alleyway and vanish. Behind the scenes, these people never had any part in the gameplay; they were just flavor to give the impression of a bustling city. The player is not led too far down the wrong path—she is just given the impression that there is more to the city than meets the eye.
 
-关于如何使用琐碎决策的例子，请看一个虚构的警察与强盗游戏。你的警官像往常一样在城市里巡逻，提防犯罪，突然他在街角发现了一群形迹可疑的人。他停下车，这些人立刻跑进一条小巷消失了。在幕后，这些人从未参与过游戏，他们只是为了给人一种繁华都市的印象。玩家并没有被引向错误的道路--她只是觉得这座城市比想象的要复杂得多。
+关于如何使用琐碎决策的例子，请看一个虚构的警察与强盗游戏。你的警官像往常一样在城市里巡逻，提防犯罪，突然他在街角发现了一群形迹可疑的人。他停下车，这些人立刻跑进一条小巷消失了。在幕后，这些人从未参与过游戏，他们只是为了给人一种喧闹都市的印象。玩家并没有被引向错误的道路——她只是觉得这座城市比想象的要复杂得多。
 
 ### Setting the Difficulty Level 设置难度级别
 
 The first time the players of your game come across balance is when they select the difficulty level. The standard for difficulty levels seems to have evolved into three (or sometimes four) distinct settings: easy, normal, hard, and nightmare (or similar assignations), popularized by the original Doom from id Software.
 
+游戏玩家第一次接触到平衡的时候，就是他们选择难度级别的时候。难度级别的标准似乎已经演变成三种（有时是四种）不同的设置：简单、普通、困难和噩梦（或类似的分配），这在 id Software 公司的原版《毁灭战士》中得到了普及。
+
 Traditionally, not all games have difficulty level settings. For example, adventure games tend to have only one difficulty level—for no good reason, as far as we can see—as do online-only games, although for more sensible reasons. After all, how do you assign a difficulty level to a world made up of avatars for real people? You could segregate players with different experience levels into different areas, graded according to their abilities with tougher monsters and tougher spells, but this doesn't really solve the problem—it just sidesteps it.
+
+传统上，并非所有游戏都有难度设置。例如，冒险游戏往往只有一个难度级别，这没有什么好的理由，就我们所见，在线游戏也是如此，尽管理由更为合理。毕竟，如何为一个由真人化身组成的世界分配难度等级呢？你可以把不同经验等级的玩家分到不同的区域，根据他们对付更难的怪物和更难的法术的能力来划分等级，但这并不能真正解决问题，而只是回避了这个问题。
 
 Other games have taken a more original approach to the difficulty level problem: self-adjusting games. These games tailor themselves to the player; the more skilled the player, the harder the game gets. Max Payne by Remedy Entertainment is a game that claims to implement this (see Figure 8.21). The only problem that we can see with dynamic difficulty level adjustment is the possibility of abuse of the system. After all, what is to stop a skilled player deliberately playing badly just before he gets to a really tough section of the game so the game will go easier on him when he gets there? After he's through the softened-up section, he can resume blasting with his prior skill level until he comes up to another tough section.
 
-Figure 8.21. Max Payne.
+其他游戏采用了一种更新颖的方法来解决难度问题：自动调节。这些游戏会根据玩家的情况进行自我调整；玩家越熟练，游戏就越难。Remedy Entertainment 公司的《马克思·佩恩》就是一款声称实现了这一功能的游戏（见图 8.21）。我们认为，动态难度调整的唯一问题是系统可能被滥用。毕竟，有什么办法能阻止一个技术高超的玩家在进入游戏的真正难点之前故意打得很差，这样游戏就会在他进入难点时对他放松一些呢？当他通过了难度降低的部分后，他就可以继续以先前的技术水平进行横扫，直到进入另一个艰难的部分。
+
+Figure 8.21. Max Payne. 图 8.21. 《马克思·佩恩》
 
 graphics/08fig21.gif
 
 Generally, the standard difficulty levels are implemented by making the enemies tougher, and they are usually applied as a global modifier for all enemies. Another commonly used approach (sometimes in tandem with increasing toughness) is to make the enemies more numerous. For example, on a normal level, the statistics and number for an enemy might be equivalent to the easy level plus 15 percent, the hard level might be equivalent to the easy level plus 30 percent, and the nightmare level might be equivalent to the easy level plus 50 percent. That is to say, on the normal, hard, and nightmare levels, the enemy toughness or density increases by 15, 30, and 50 percent, respectively. Bear in mind that these are just arbitrary numbers plucked out of thin air; they may not be suitable or even applicable to your game. If you are designing a quiz game, for example, the idea of making the opponents 50-percent tougher is absolutely meaningless. Your only option is to grade questions for difficulty—which is not as easy as you may think, because of subjectivity—and group them into sets based on the difficulty levels that they have been assigned.
+
+一般来说，标准难度级别是通过提高敌人的韧性来实现的，而且通常是作为一种全局修改器应用于所有敌人。另一种常用的方法（有时与提高韧性同时使用）是增加敌人的数量。例如，在普通关卡中，敌人的统计数据和数量可能相当于简单关卡加 15%，困难关卡可能相当于简单关卡加 30%，而噩梦关卡可能相当于简单关卡加 50%。也就是说，在普通、困难和噩梦关卡中，敌人的韧性或密度会分别增加 15%、30% 和 50%。请注意，这些都是随便举例用到的数字，不一定适合或适用于你的游戏。例如，如果你正在设计一款智力竞赛游戏，那么将对手难度提高 50% 的想法是完全没有意义的。你唯一的选择就是对问题的难度进行分级——由于主观性，这并不像你想象的那么容易——然后根据所分配的难度级别将问题分成几组。
 
 Yet another mechanism is to increase the intelligence of enemy creatures by one means or another. In AI research conducted by Dr. John Laird at the University of Michigan, he was able to demonstrate that shortening the intervals between "looking around" on the part of Quake-bots contributed more to their success as players than any other tactic. They didn't have to have smarter strategies; they just had to have faster reaction times.
 
