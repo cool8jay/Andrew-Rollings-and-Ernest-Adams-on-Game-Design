@@ -644,7 +644,7 @@ Let's examine how we can achieve these aims in our game design. The following se
 
 让我们来看看如何在游戏设计中实现这些目标。下文将详细介绍每一点，并讨论实现方法。
 
-### Providing a Consistent Challenge 提供连贯的挑战
+### Providing a Consistent Challenge 提供持续的挑战
 
 The game should scale in difficulty smoothly as the player progresses into it. A number of games seem to miss this particular point, and in some cases, the midgame experience turns out to be substantially more difficult than the endgame.
 
@@ -776,21 +776,35 @@ Generally, the standard difficulty levels are implemented by making the enemies 
 
 Yet another mechanism is to increase the intelligence of enemy creatures by one means or another. In AI research conducted by Dr. John Laird at the University of Michigan, he was able to demonstrate that shortening the intervals between "looking around" on the part of Quake-bots contributed more to their success as players than any other tactic. They didn't have to have smarter strategies; they just had to have faster reaction times.
 
+另一种机制是通过某种方法提高敌方生物的智力。密歇根大学的约翰·莱尔德博士在人工智能研究中证明，缩短《雷神之锤》机器人“环顾四周”的时间间隔比其他任何战术都更有助于它们取得成功。它们不需要更聪明的策略，只需要更快的反应时间。
+
 Usually, deciding how to design and implement difficulty level settings is not particularly tricky. In most cases, there is either a de facto standard set of guidelines in place that the game designer can draw on, or it's obvious to the designer based on her knowledge of the design. In any case, choosing how to implement difficulty level settings is by no means the most taxing task the game designer faces.
+
+通常，决定如何设计和实施难度级别设置并不是一件特别棘手的事情。在大多数情况下，要么有一套事实上的标准准则可供游戏设计者借鉴，要么设计者根据自己的设计知识就能很明显地看出这一点。无论如何，选择如何实现难度级别设置绝不是游戏设计师面临的最繁重的任务。
 
 # Tools for Balancing 平衡的工具
 
 We have spoken at some length about the act of balancing games. In order to round off this chapter, we are now going to cover some of the techniques that the game designer can use to actually perform this balancing. We will also be exploring some new ideas for balancing games that, even though they are not currently in use, might be useful in the future.
 
+我们已经花了一些篇幅来讨论游戏平衡的问题。在本章的最后，我们将介绍游戏设计者在实际平衡游戏时可以使用的一些技巧。我们还将探讨一些平衡游戏的新想法，尽管这些想法目前还没有被使用，但在将来可能会有用。
+
 It is beyond the scope of this chapter to go into more than cursory details of these techniques. In some cases, however, they are adequately documented in other places and repeating that information here would be superfluous. Where this is the case, we will attempt to provide pointers to more information on the subject in the appendixes.
 
-## Design for Modification
+本章节的内容不包括对这些技术的深入细节进行详细讨论。然而，在某些情况下，它们已经在其他地方得到了充分的记录，因此在这里重复那些信息是多余的。在这种情况下，我们将尝试在附录中提供指向该主题更多信息的指引。
+
+## Design for Modification 为了修改而设计
 
 When designing a game, it is sensible to design a core set of rules that the game adheres to and then design the game entities to conform to those rules. This is often a simpler and more intuitive approach than designing entities that each requires its own special considerations. Not only does this make matters simpler when it comes to programming the game—the developers can concentrate on implementing the core rules and then adding entities on top of those core rules, rather than coding each entity separately—it also simplifies tweaking the design.
 
+在设计游戏时，明智的做法是先设计一套游戏所遵守的核心规则，然后再设计符合这些规则的游戏实体。这通常比设计每个实体都需要特别考虑的方法更简单、更直观。这不仅使游戏编程变得更简单——开发人员可以集中精力实施核心规则，然后在核心规则的基础上添加实体，而不是单独为每个实体编码——而且还简化了设计的调整。
+
 As long as the core rules are balanced, tweaking them slightly will probably not affect the balance in wild and unpredictable ways. However, if each entity adheres to a separate set of rules, then in all but the simplest games, modifying one entity is independent of any of the others, which could potentially cause balance problems.
 
+只要核心规则是平衡的，对其稍作调整可能不会对平衡产生不可预测的影响。但是，如果每个实体都遵守一套独立的规则，那么除了最简单的游戏外，修改一个实体就会独立于其他任何实体，这就有可能导致平衡问题。
+
 Take a game such as Ensemble's Age of Empires (see Figure 8.22). All the game entities are governed by the same rules; they have a large set of parameters used to configure those rules to distinguish each entity class. A change to one of these parameters does not require a corresponding code change. During development, the parameters were stored in a Paradox database. This allowed the designers to tweak parameters easily.
+
+以 Ensemble 的《帝国时代》（Age of Empires）为例（见图 8.22）。所有的游戏实体都受相同规则的支配；它们有一大组参数用于配置这些规则，以区分每个实体类别。更改其中一个参数不需要修改相应的代码。在开发过程中，这些参数被存储在 Paradox 数据库中。这使得设计人员可以轻松调整参数。
 
 Figure 8.22. Age of Empires.
 
@@ -798,73 +812,116 @@ graphics/08fig22.gif
 
 This is an excellent technique to facilitate the easy modification of game balance. Describing implementation techniques is beyond the scope of this book, but this separation of code and data also helps to enforce good development technique. The parameters can be stored in a database during development and then migrated into a custom format for the final release.
 
-### Tweaking and Experimental Methods
+这是便于修改游戏平衡的绝佳技术。对实现技术的描述超出了本书的范围，但代码和数据的分离也有助于执行良好的开发技术。在开发过程中，参数可以存储在数据库中，然后在最终发布时迁移到自定义格式中。
+
+### Tweaking and Experimental Methods 调整和实验方法
 
 One of the most important rules to bear in mind is that tweaking parameters randomly is an inefficient and wasteful way to modify balance. A brief digression into correct experimental method is required to ensure that you are making the best use of your time.
 
+需要牢记的最重要的规则之一是，随意调整参数是一种低效、浪费的平衡修正方法。为了确保充分利用时间，我们需要对正确的实验方法做一个简短的介绍。
+
 The first, and most important, point to remember is to modify only one parameter at a time. Although it may be tempting to tweak a whole bunch of parameters in order to force a result, unless you are extremely lucky, you won't get anything useful. And even if you do, you will have no idea which of the parameter tweaks got you there. Correct experimental method dictates that one parameter should be modified, and then the results should be checked. When initially modifying parameters, don't bother with small changes; Brian Reynolds (of Big Huge Games) suggests doubling or halving the parameter and seeing what it does. From there, you can iteratively move toward the ideal value as efficiently as possible. This makes sense. By changing by such a large factor, you can easily zero in on your optimum setting.
 
-## Design Prototyping
+首先，也是最重要的一点是，每次只修改一个参数。虽然为了强迫得到一个结果而修改一大堆参数可能很诱人，但除非你非常幸运，否则你不会得到任何有用的东西。即使你得到了，你也不知道是哪个参数的调整让你达到了目的。正确的实验方法是先修改一个参数，然后检查结果。在最初修改参数时，不要在意小的变动；布赖恩·雷诺兹（Big Huge Games 的创始人）建议将参数加倍或减半，看看效果如何。在此基础上，你可以尽可能高效地向理想值迭代。这是有道理的。通过如此大的因素改变，你可以很容易地找到最优设置。
+
+## Design Prototyping 设计原型
 
 Developing a prototype of the gameplay in a simple yet powerful programming language such as Blitz Basic (www.blitzbasic.com) can act as a very useful test bed for new gameplay techniques.
 
+用 Blitz Basic (www.blitzbasic.com) 这样一种简单但功能强大的编程语言开发游戏原型，可以作为新游戏技术非常有用的测试平台。
+
 There are two main reasons for using a language such as Blitz Basic for prototyping gameplay instead of a more complex language such as C++. The first of these reasons is the ease of use: C++ is complicated and has a steep learning curve. Blitz Basic is simple and has a low-entry barrier. It's easy to learn and is fairly intuitive for the nonprogrammer. A designer could reasonably be expected to pick up the basics in less than a week, and the benefits of being able to test out gameplay concepts without taking time away from developers are incalculable.
+
+使用 Blitz Basic 等语言而不是 C++ 等更复杂的语言来制作游戏原型有两个主要原因。第一个原因是易于使用：C++ 语言复杂，学习曲线陡峭。Blitz Basic 语言简单，入门门槛低。它易于学习，对非程序员来说相当直观。设计人员可以在一周内掌握基础知识，而无需占用开发人员的时间就能测试游戏概念，其好处是无法估量的。
 
 The second reason is that it is always a dangerous practice to code any form of prototype in the same language as the main development. The temptation to incorporate the prototype code into the main project can sometimes be overwhelming and is, without fail, a recipe for disaster.
 
-## Future Potential
+第二个原因是，用与主开发项目相同的语言编写任何形式的原型代码都是一种危险的做法。将原型代码并入主项目的诱惑有时会让人无法抗拒，而且必然会酿成大祸。
+
+## Future Potential 未来潜力
 
 We're going to finish this chapter with a little bit of a blue-sky wish list that we'd like to see. In the games industry, much effort is expended on new technology, but most of this effort is spent on producing in-your-face flashy results. Plumbing—the infrastructure and grunt work of development—just isn't considered as sexy.
 
+在本章的最后，我们将列出一份我们希望看到的理想愿望清单。在游戏行业，我们在新技术上花费了很多精力，但大部分精力都花在了制作炫酷的表面效果上。基础设施和开发的艰苦工作（管道工作）则被认为不够吸引人。
+
 Consider this: Manually tweaking parameters to balance a game is, at best, tedious and, at worst, an inefficient use of resources. Although we have not heard of any previous attempts to do so, we feel it would be worth considering the possibility of automating the process to some degree.
+
+考虑一下这个问题：手动调整参数以平衡游戏，往好了说是乏味，往坏了说是资源利用效率低下。虽然我们以前没有听说过有人尝试过这样做，但我们认为值得考虑在一定程度上实现流程自动化的可能性。
 
 In a number of cases, including most of the games that Blizzard Entertainment has produced, the patches for those games have addressed balance issues. One thing that we have considered—and we know of no companies that have tried this—is the possibility of collecting gameplay statistics from players and uploading them (with the player's permission, of course) to a central server, where the results from all the players can be analyzed to determine how well the game is balanced. A further feature could be the automatic downloading of any tweaks to the balance to the player's machine.
 
+在许多情况下，包括暴雪娱乐制作的大多数游戏在内，这些游戏的补丁都解决了平衡性问题。我们考虑过的一个问题是，收集玩家的游戏统计数据，并将其上传到中央服务器（当然要征得玩家的同意），然后对所有玩家的数据进行分析，以确定游戏的平衡性。另一个功能是自动将任何平衡调整下载到玩家的机器上。
+
 In a sense, half of the technology is already in place. Many games now feature auto-patching technology that automatically upgrades a game as soon as an update is available. It's not impossible to imagine that this technology could be implemented as a worthwhile investment if it were produced as a reusable module. There is certainly no reason why it couldn't even be used to customize the data downloaded for each player, based on a profile the player specifies: shift the balance to a harder position for the more advanced players, and vice versa for the novices.
+
+从某种意义上说，一半的技术已经到位。现在，许多游戏都采用了自动补丁技术，一旦有更新，游戏就会自动升级。如果将这种技术作为可重复使用的模块来生产，那么将其作为一项值得投资的技术来实施也不是不可能。当然，也没有理由说它不能用于根据玩家指定的配置文件，为每位玩家定制下载的数据：将平衡移到较困难的位置，以适应更高级的玩家，反之亦然。
 
 Whether any system such as this has been or will be implemented is not clear, but we feel that it would be a useful tool in the game designer arsenal. After all, it's very difficult to get game balance exactly right on the first few passes. A method by which we could continually tweak a game after release with minimal intervention would be an extremely exciting and useful development.
 
-Internal Economy Worksheet
+目前还不清楚这样的系统是否已经或将要实现，但我们认为这将是游戏设计者的一个有用工具。毕竟，游戏平衡很难在最初的几次尝试中就达到完全正确。如果有一种方法可以让我们在游戏发布后以最少的干预持续调整游戏，这将是一个非常令人兴奋和有用的开发技术。
 
-If the game involves conflict between opposing forces, are the capabilities of the forces symmetric or asymmetric? If they are asymmetric, in what ways do they differ, and how will they be balanced? By adjusting costs? By changing rules or probabilities to compensate?
+**Internal Economy Worksheet 内部经济工作表**
 
-Will the starting conditions be symmetric or asymmetric?
+1. If the game involves conflict between opposing forces, are the capabilities of the forces symmetric or asymmetric? If they are asymmetric, in what ways do they differ, and how will they be balanced? By adjusting costs? By changing rules or probabilities to compensate?\
+如果游戏涉及对立力量之间的冲突，那么这些力量的能力是对称的还是不对称的？如果是不对称，它们在哪些方面存在差异，又将如何实现平衡？是通过调整成本？还是通过改变规则或概率进行补偿？
 
-Are the relationships in the game largely transitive, intransitive, or a mixture? Do you intend to assign shadow costs to balance your transitive relationships?
+2. Will the starting conditions be symmetric or asymmetric?\
+起始条件是对称的还是不对称的？
 
-Try to devise a payoff matrix for your game, if possible. Do any dominant strategies appear?
+3. Are the relationships in the game largely transitive, intransitive, or a mixture? Do you intend to assign shadow costs to balance your transitive relationships?\
+游戏中的关系主要是传递关系、非传递关系还是两者的混合？你是否打算分配影子成本来平衡横向关系？
 
-Are the challenges in the game solvable only by predefined means, or can they be solved by emergent means?
+4. Try to devise a payoff matrix for your game, if possible. Do any dominant strategies appear?\
+如果可能的话，试着为你的游戏设计一个收益矩阵。是否出现了优势策略？
 
-Does the game include positive feedback? If so, what features will it include to avoid runaway victory for the first player who gets ahead? A time delay? Negative feedback? A random factor?
+5. Are the challenges in the game solvable only by predefined means, or can they be solved by emergent means?\
+游戏中的挑战是只能通过预定义的方法解决，还是可以通过涌现的方法解决？
 
-Is the player's goal in the game to restore, maintain, or destroy a balance of some kind?
+6. Does the game include positive feedback? If so, what features will it include to avoid runaway victory for the first player who gets ahead? A time delay? Negative feedback? A random factor?\
+游戏是否包含正反馈？如果是，它将包括哪些功能以避免第一个领先的玩家获得压倒性胜利？时间延迟？负反馈？随机因素？
 
-Do the game's challenges increase steadily in difficulty, or are there peaks and troughs, or spikes, in the difficulty level? If so, where are they?
+7. Is the player's goal in the game to restore, maintain, or destroy a balance of some kind?\
+玩家在游戏中的目标是恢复、维持还是破坏某种平衡？
 
-Does the game contain any elements that the player might perceive to be unfair? If the game must cheat in order to provide a decent challenge, can you disguise the cheating in such a way that the player does not notice it?
+8. Do the game's challenges increase steadily in difficulty, or are there peaks and troughs, or spikes, in the difficulty level? If so, where are they?\
+游戏中的挑战难度是稳步上升，还是会出现高峰和低谷，或者说是峰值？如果有，在哪里？
 
-How will the player know what to do next? What features does the game include to prevent stagnation?
+9. Does the game contain any elements that the player might perceive to be unfair? If the game must cheat in order to provide a decent challenge, can you disguise the cheating in such a way that the player does not notice it?\
+游戏中是否有玩家可能认为不公平的元素？如果游戏必须使用作弊手段才能提供像样的挑战，你能否将作弊伪装得让玩家察觉不到？
 
-To what degree is the player required to micromanage the game? Is the player obliged to look after trivia? Are there mechanisms by which the player can delegate some of these responsibilities to an automated process? If so, can the player be confident the automated process will make intelligent choices?
+10. How will the player know what to do next? What features does the game include to prevent stagnation?\
+玩家如何知道下一步该做什么？游戏有哪些功能可以防止停滞？
 
-What mechanisms, if any, will there be for changing the game's difficulty level? Hints? Shortcuts? Cheats? A difficulty setting? How will the difficulty setting change the nature of the challenges offered? Will it make the enemies tougher or weaker, smarter or more stupid? Will it add or remove challenges entirely?
+11. To what degree is the player required to micromanage the game? Is the player obliged to look after trivia? Are there mechanisms by which the player can delegate some of these responsibilities to an automated process? If so, can the player be confident the automated process will make intelligent choices?\
+玩家需要在多大程度上对游戏进行微观管理？玩家是否有义务照顾琐事？是否有机制可以让玩家将其中一些责任委托给自动程序？如果有，玩家是否有信心自动程序会做出明智的选择？
+
+12. What mechanisms, if any, will there be for changing the game's difficulty level? Hints? Shortcuts? Cheats? A difficulty setting? How will the difficulty setting change the nature of the challenges offered? Will it make the enemies tougher or weaker, smarter or more stupid? Will it add or remove challenges entirely?\
+如果有的话，有什么机制可以改变游戏的难度？提示？捷径？作弊？难度设置？难度设置将如何改变所提供挑战的性质？它会让敌人更强还是更弱，更聪明还是更愚蠢？会增加或完全删除挑战吗？
 
 # Putting It Together 总结
 
 Balancing a game is a complex and demanding task. This chapter has discussed a number of approaches to the problem of balancing gameplay. The following list summarizes these points.
 
+平衡游戏是一项复杂而艰巨的任务。本章讨论了解决游戏平衡问题的多种方法。以下列表总结了这些要点。
+
 A balanced game should:
 
-* Be internally consistent.
-* 
-* Ensure that victory is determined by player skill, not random factors.
-* 
-* Ensure that all players have access to the same or functionally equivalent core options.
-* 
-* Ensure that attributes for which the player pays with points are orthogonal.
+一个平衡的游戏应该：
 
-* Ensure that combination and emergence don't destroy the balance.
+* Be internally consistent.\
+具有内部一致性。
+
+* Ensure that victory is determined by player skill, not random factors.\
+确保胜利是由玩家的技能而不是随机因素决定的。
+
+* Ensure that all players have access to the same or functionally equivalent core options.\
+确保所有玩家都能使用相同或功能相当的核心选项。
+
+* Ensure that attributes for which the player pays with points are orthogonal.\
+确保玩家分配点数的属性是正交的。
+
+* Ensure that combination and emergence don't destroy the balance.\
+确保组合和涌现不会破坏平衡。
 
 * Provide a consistent challenge.\
 提供持续的挑战。
@@ -878,6 +935,9 @@ A balanced game should:
 * Avoid trivialities.\
 避免琐事。
 
-* Allow setting of difficulty level (where appropriate).
+* Allow setting of difficulty level (where appropriate).\
+允许设置难度级别（在适当的情况下）。
 
 We're not even going to pretend that this chapter is an all-encompassing, thorough treatment of game balance. The subject could take up a whole book by itself. What we have put forth here is a brief summary of the areas that interest us. There is no guarantee that you will find them as valuable as we have—in fact, it's probable that you have other methods for game balancing that work just as well, if not better, or that cover different situations that we have not covered because of space considerations. Our main aim in this chapter (and, in fact, in this book) is to get you thinking about these issues. Then, even if you don't agree with our conclusions (and feel free to email us stating your case), our aims will have been achieved.
+
+我们甚至不会假装本章是对游戏平衡的全面、深入的论述。这个主题本身就可以写一整本书。我们在此对我们感兴趣的领域进行了简要总结。我们并不保证你会发现这些方法和我们认为的一样有价值——实际上，你很可能有其他的游戏平衡方法，这些方法即使不是更好，也同样有效，或者涵盖了不同的情况，而由于篇幅的原因，我们没有涵盖这些方法。我们在本章（实际上也是本书）的主要目的是让你思考这些问题。然后，即使你不同意我们的结论（也欢迎通过电子邮件向我们陈述你的观点），我们的目标也已达成。
