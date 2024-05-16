@@ -85,7 +85,7 @@ In the following few sections, we are going to discuss balancing gameplay elemen
 
 For example, let's take a symmetrical game involving two players: red and blue. Each of these players has two strategies that it can use: R1, R2, B1, and B2.
 
-例如，让我们以一个对称游戏为例，游戏中有两名玩家：红方和蓝方。每个玩家都有两种策略可以使用： R1、R2、B1 和 B2。
+例如，让我们以一个对称游戏为例，游戏中有两名玩家：红方和蓝方。每个玩家都有两种策略可以使用：R1、R2、B1 和 B2。
 
 Let's say that R2 beats B1 with a payoff of 3, B2 beats R1 with a payoff of -2, B1 draws with R1, and R2 draws with B2, as shown in Table 8.1.
 
@@ -126,7 +126,7 @@ The difficulty in applying these concepts from classic game theory to real games
 
 The ideal solution to this would be to talk in terms of an idealized perfect player who only makes perfect decisions. Unfortunately, although that would result in mathematically correct games, they almost certainly would not be fun. The players of our games are real people, with different attitudes, abilities, likes, and dislikes, and we would be doing them (and ourselves) a great disservice by trying to shoehorn them into a particular box to fit some theory. And that's the biggest problem we have in balancing a game: No matter how much perfect math and science we can apply to the problem, it will only take us so far. The rest is up to us, as game designers. In fact, it's this final stage of game balancing that really distinguishes the greats of game design, such as Shigeru Miyamoto, Brian Reynolds, Sid Meier, and Dani Berry.
 
-解决这个问题的理想办法是用理想化的完美玩家来说话，他只会做出完美的决定。不幸的是，虽然这样做会产生数学上正确的游戏，但几乎可以肯定它们不会有趣。我们游戏中的玩家都是真实的人，他们有着不同的态度、能力、喜好和厌恶，如果我们试图把他们塞进一个特定的框框里来迎合某些理论，那就是对他们（和我们自己）的极大伤害。这就是我们在平衡游戏时遇到的最大问题： 无论我们能把多么完美的数学和科学应用到这个问题上，也只能做到这一步。剩下的就要靠我们游戏设计师自己了。事实上，正是游戏平衡的最后阶段让宫本茂、布莱恩·雷诺兹、席德·梅尔和丹妮·贝瑞等游戏设计大师脱颖而出。
+解决这个问题的理想办法是用理想化的完美玩家来说话，他只会做出完美的决定。不幸的是，虽然这样做会产生数学上正确的游戏，但几乎可以肯定它们不会有趣。我们游戏中的玩家都是真实的人，他们有着不同的态度、能力、喜好和厌恶，如果我们试图把他们塞进一个特定的框框里来迎合某些理论，那就是对他们（和我们自己）的极大伤害。这就是我们在平衡游戏时遇到的最大问题：无论我们能把多么完美的数学和科学应用到这个问题上，也只能做到这一步。剩下的就要靠我们游戏设计师自己了。事实上，正是游戏平衡的最后阶段让宫本茂、布莱恩·雷诺兹、席德·梅尔和丹妮·贝瑞等游戏设计大师脱颖而出。
 
 Let's look at a trivial example of a dominant strategy and then look at some real-world games that also have dominant strategies.
 
@@ -506,7 +506,7 @@ Another example is the venerable game of 8-ball pool: The more you get ahead, th
 
 Another solution to too much positive feedback is to include a random factor that gives the player who's behind a chance to catch up just through sheer luck: throwing double sixes in backgammon, for example. Of course, if the random factor is fair, it might put the player even further behind, too, but at least it adds variety and uncertainty to the game. But the random factor must not be too great, or it overrides the value of good play in the first place and discourages a good player. Why play well if the result amounts to flipping a coin anyway? Poker is a good example of a game with a well-balanced random factor: In any given game, randomness plays a large role, but smart players don't bet large amounts on a single game. Rather, they count on the cumulative effect of good play over many games to reward good players and take money from poor ones. The major factor that determines winners (averaged over a statistically significant number of games) is player skill.
 
-解决正反馈过多问题的另一个办法是加入随机因素，让落后的玩家有机会凭借运气追赶上来：例如，在双陆棋中扔双六。当然，如果随机因素是公平的，也可能会让玩家落后得更多，但至少增加了游戏的多样性和不确定性。但随机因素不能太大，否则就会抵消了好棋的价值，打击好棋手的积极性。如果结果就像掷硬币一样，那为什么还要玩得好？扑克就是随机因素平衡的一个很好的例子：在任何特定的游戏中，随机性都起着很大的作用，但聪明的玩家不会在单局游戏中下大注。相反，他们依靠多场比赛的良好发挥所产生的累积效应来奖励优秀的玩家，并从差劲的玩家手中夺走奖金。决定胜负的主要因素（在统计意义上的大量游戏中的平均值）是玩家的技术。
+解决正反馈过多问题的另一个办法是加入随机因素，让落后的玩家有机会凭借运气追赶上来：例如，在双陆棋中扔双六。当然，如果随机因素是公平的，也可能会让玩家落后得更多，但至少增加了游戏的多样性和不确定性。但随机因素不能太强，否则就会抵消玩得好的价值，打击优秀玩家的积极性。如果结果就像掷硬币一样，那为什么还要玩得好？扑克就是随机因素平衡的一个很好的例子：在任何特定的游戏中，随机性都起着很大的作用，但聪明的玩家不会在单局游戏中下大注。相反，他们依靠多场比赛的良好发挥所产生的累积效应来奖励优秀的玩家，并从差劲的玩家手中夺走奖金。决定胜负的主要因素（在统计意义上的大量游戏中的平均值）是玩家的技术。
 
 ## Summary of Static Balance 静态平衡总结
 
@@ -716,9 +716,11 @@ Stagnation is generally as unpleasant as it sounds and smells almost as bad in a
 
 In some cases, this is very difficult to avoid. A sprawling action-adventure has so many different combinations and configurations that it is difficult to anticipate exactly what the player may or may not try and do. However, it is still possible to give the players positive and negative feedback as they progress. The problem of stagnation can be tackled passively; that is, the designer can make sure that the clues about how to proceed are hidden in plain sight. The other alternative is to tackle stagnation actively: Have the game work out whether the player has been wandering around aimlessly and provide a few gentle nudges to guide him in the right direction.
 
-在某些情况下，这种情况很难避免。一个庞大的动作冒险游戏有如此多不同的组合和配置，以至于很难准确预测玩家可能会或可能不会尝试做什么。不过，还是有可能在玩家前进的过程中给予他们积极和消极的反馈。停滞不前的问题可以通过被动的方式来解决，也就是说，设计者可以确保将如何继续的线索隐藏在玩家的视线之内。另一种方法是主动解决停滞问题： 让游戏找出玩家是否一直在漫无目的地游荡，并提供一些温和的提示，引导玩家朝着正确的方向前进。
+在某些情况下，这种情况很难避免。一个庞大的动作冒险游戏有如此多不同的组合和配置，以至于很难准确预测玩家可能会或可能不会尝试做什么。不过，还是有可能在玩家前进的过程中给予他们积极和消极的反馈。停滞不前的问题可以通过被动的方式来解决，也就是说，设计者可以确保将如何继续的线索隐藏在玩家的视线之内。另一种方法是主动解决停滞问题：让游戏判断玩家是否一直在瞎转悠，并提供一些温和的提示，引导玩家朝着正确的方向前进。
 
 The key point is never to let the player feel bewildered. The players should always feel as if they know what their next move should be. It is no fun to bang your head up against a brick wall simply because you are completely and utterly stuck in a game. This ties in with our earlier piece of advice about making sure the player is adequately provided with information. If a player has to resort to outside assistance—whether by cheating, reading a strategy guide, or looking up the answers on the web—the game designer should view that as a failure of the design.
+
+关键是永远不要让玩家感到困惑。玩家应该始终感觉自己知道下一步该怎么走。仅仅因为在游戏中被完全彻底地困住而一头撞在砖墙上，这可不是什么好玩的事。这与我们之前提出的确保玩家获得足够信息的建议不谋而合。如果玩家不得不求助于外界的帮助--无论是通过作弊、阅读策略指南，还是在网上查找答案--游戏设计者应该将此视为设计的失败。
 
 ### Avoiding Trivialities
 
