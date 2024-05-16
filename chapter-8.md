@@ -860,43 +860,43 @@ Whether any system such as this has been or will be implemented is not clear, bu
 
 目前还不清楚这样的系统是否已经或将要实现，但我们认为这将是游戏设计者的一个有用工具。毕竟，游戏平衡很难在最初的几次尝试中就达到完全正确。如果有一种方法可以让我们在游戏发布后以最少的干预持续调整游戏，这将是一个非常令人兴奋和有用的开发技术。
 
-**Internal Economy Worksheet 内部经济工作表**
-
-1. If the game involves conflict between opposing forces, are the capabilities of the forces symmetric or asymmetric? If they are asymmetric, in what ways do they differ, and how will they be balanced? By adjusting costs? By changing rules or probabilities to compensate?\
-如果游戏涉及对立力量之间的冲突，那么这些力量的能力是对称的还是不对称的？如果是不对称，它们在哪些方面存在差异，又将如何实现平衡？是通过调整成本？还是通过改变规则或概率进行补偿？
-
-2. Will the starting conditions be symmetric or asymmetric?\
-起始条件是对称的还是不对称的？
-
-3. Are the relationships in the game largely transitive, intransitive, or a mixture? Do you intend to assign shadow costs to balance your transitive relationships?\
-游戏中的关系主要是传递关系、非传递关系还是两者的混合？你是否打算分配影子成本来平衡横向关系？
-
-4. Try to devise a payoff matrix for your game, if possible. Do any dominant strategies appear?\
-如果可能的话，试着为你的游戏设计一个收益矩阵。是否出现了优势策略？
-
-5. Are the challenges in the game solvable only by predefined means, or can they be solved by emergent means?\
-游戏中的挑战是只能通过预定义的方法解决，还是可以通过涌现的方法解决？
-
-6. Does the game include positive feedback? If so, what features will it include to avoid runaway victory for the first player who gets ahead? A time delay? Negative feedback? A random factor?\
-游戏是否包含正反馈？如果是，它将包括哪些功能以避免第一个领先的玩家获得压倒性胜利？时间延迟？负反馈？随机因素？
-
-7. Is the player's goal in the game to restore, maintain, or destroy a balance of some kind?\
-玩家在游戏中的目标是恢复、维持还是破坏某种平衡？
-
-8. Do the game's challenges increase steadily in difficulty, or are there peaks and troughs, or spikes, in the difficulty level? If so, where are they?\
-游戏中的挑战难度是稳步上升，还是会出现高峰和低谷，或者说是峰值？如果有，在哪里？
-
-9. Does the game contain any elements that the player might perceive to be unfair? If the game must cheat in order to provide a decent challenge, can you disguise the cheating in such a way that the player does not notice it?\
-游戏中是否有玩家可能认为不公平的元素？如果游戏必须使用作弊手段才能提供像样的挑战，你能否将作弊伪装得让玩家察觉不到？
-
-10. How will the player know what to do next? What features does the game include to prevent stagnation?\
-玩家如何知道下一步该做什么？游戏有哪些功能可以防止停滞？
-
-11. To what degree is the player required to micromanage the game? Is the player obliged to look after trivia? Are there mechanisms by which the player can delegate some of these responsibilities to an automated process? If so, can the player be confident the automated process will make intelligent choices?\
-玩家需要在多大程度上对游戏进行微观管理？玩家是否有义务照顾琐事？是否有机制可以让玩家将其中一些责任委托给自动程序？如果有，玩家是否有信心自动程序会做出明智的选择？
-
-12. What mechanisms, if any, will there be for changing the game's difficulty level? Hints? Shortcuts? Cheats? A difficulty setting? How will the difficulty setting change the nature of the challenges offered? Will it make the enemies tougher or weaker, smarter or more stupid? Will it add or remove challenges entirely?\
-如果有的话，有什么机制可以改变游戏的难度？提示？捷径？作弊？难度设置？难度设置将如何改变所提供挑战的性质？它会让敌人更强还是更弱，更聪明还是更愚蠢？会增加或完全删除挑战吗？
+> **Internal Economy Worksheet 内部经济工作表**
+> 
+> 1. If the game involves conflict between opposing forces, are the capabilities of the forces symmetric or asymmetric? If they are asymmetric, in what ways do they differ, and how will they be balanced? By adjusting costs? By changing rules or probabilities to compensate?\
+> 如果游戏涉及对立力量之间的冲突，那么这些力量的能力是对称的还是不对称的？如果是不对称，它们在哪些方面存在差异，又将如何实现平衡？是通过调整成本？还是通过改变规则或概率进行补偿？
+> 
+> 2. Will the starting conditions be symmetric or asymmetric?\
+> 起始条件是对称的还是不对称的？
+> 
+> 3. Are the relationships in the game largely transitive, intransitive, or a mixture? Do you intend to assign shadow costs to balance your transitive relationships?\
+> 游戏中的关系主要是传递关系、非传递关系还是两者的混合？你是否打算分配影子成本来平衡横向关系？
+> 
+> 4. Try to devise a payoff matrix for your game, if possible. Do any dominant strategies appear?\
+> 如果可能的话，试着为你的游戏设计一个收益矩阵。是否出现了优势策略？
+> 
+> 5. Are the challenges in the game solvable only by predefined means, or can they be solved by emergent means?\
+> 游戏中的挑战是只能通过预定义的方法解决，还是可以通过涌现的方法解决？
+> 
+> 6. Does the game include positive feedback? If so, what features will it include to avoid runaway victory for the first player who gets ahead? A time delay? Negative feedback? A random factor?\
+> 游戏是否包含正反馈？如果是，它将包括哪些功能以避免第一个领先的玩家获得压倒性胜利？时间延迟？负反馈？随机因素？
+> 
+> 7. Is the player's goal in the game to restore, maintain, or destroy a balance of some kind?\
+> 玩家在游戏中的目标是恢复、维持还是破坏某种平衡？
+> 
+> 8. Do the game's challenges increase steadily in difficulty, or are there peaks and troughs, or spikes, in the difficulty level? If so, where are they?\
+> 游戏中的挑战难度是稳步上升，还是会出现高峰和低谷，或者说是峰值？如果有，在哪里？
+> 
+> 9. Does the game contain any elements that the player might perceive to be unfair? If the game must cheat in order to provide a decent challenge, can you disguise the cheating in such a way that the player does not notice it?\
+> 游戏中是否有玩家可能认为不公平的元素？如果游戏必须使用作弊手段才能提供像样的挑战，你能否将作弊伪装得让玩家察觉不到？
+> 
+> 10. How will the player know what to do next? What features does the game include to prevent stagnation?\
+> 玩家如何知道下一步该做什么？游戏有哪些功能可以防止停滞？
+> 
+> 11. To what degree is the player required to micromanage the game? Is the player obliged to look after trivia? Are there mechanisms by which the player can delegate some of these responsibilities to an automated process? If so, can the player be confident the automated process will make intelligent choices?\
+> 玩家需要在多大程度上对游戏进行微观管理？玩家是否有义务照顾琐事？是否有机制可以让玩家将其中一些责任委托给自动程序？如果有，玩家是否有信心自动程序会做出明智的选择？
+> 
+> 12. What mechanisms, if any, will there be for changing the game's difficulty level? Hints? Shortcuts? Cheats? A difficulty setting? How will the difficulty setting change the nature of the challenges offered? Will it make the enemies tougher or weaker, smarter or more stupid? Will it add or remove challenges entirely?\
+> 如果有的话，有什么机制可以改变游戏的难度？提示？捷径？作弊？难度设置？难度设置将如何改变所提供挑战的性质？它会让敌人更强还是更弱，更聪明还是更愚蠢？会增加或完全删除挑战吗？
 
 # Putting It Together 总结
 
