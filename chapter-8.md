@@ -635,7 +635,7 @@ The aim of game balancing is to set up a balanced system for the player to exper
 避免停滞
 
 * Avoid trivialities\
-避免琐碎
+避免琐事
 
 * Allow setting of difficulty level (where appropriate)\
 允许设置难度级别（适当时）
@@ -716,31 +716,43 @@ Stagnation is generally as unpleasant as it sounds and smells almost as bad in a
 
 In some cases, this is very difficult to avoid. A sprawling action-adventure has so many different combinations and configurations that it is difficult to anticipate exactly what the player may or may not try and do. However, it is still possible to give the players positive and negative feedback as they progress. The problem of stagnation can be tackled passively; that is, the designer can make sure that the clues about how to proceed are hidden in plain sight. The other alternative is to tackle stagnation actively: Have the game work out whether the player has been wandering around aimlessly and provide a few gentle nudges to guide him in the right direction.
 
-在某些情况下，这种情况很难避免。一个庞大的动作冒险游戏有如此多不同的组合和配置，以至于很难准确预测玩家可能会或可能不会尝试做什么。不过，还是有可能在玩家前进的过程中给予他们积极和消极的反馈。停滞不前的问题可以通过被动的方式来解决，也就是说，设计者可以确保将如何继续的线索隐藏在玩家的视线之内。另一种方法是主动解决停滞问题：让游戏判断玩家是否一直在瞎转悠，并提供一些温和的提示，引导玩家朝着正确的方向前进。
+在某些情况下，这种情况很难避免。一个庞大的动作冒险游戏有如此多不同的组合和配置，以至于很难准确预测玩家可能会或可能不会尝试做什么。不过，还是有可能在玩家前进的过程中给予他们积极和消极的反馈。停滞不前的问题可以通过被动的方式来解决，也就是说，设计者可以确保将如何继续的线索隐藏在玩家的视线之内。另一种方法是主动解决停滞问题：让游戏判断玩家是否一直在漫无目的地游荡，并提供一些温和的提示，引导玩家朝着正确的方向前进。
 
 The key point is never to let the player feel bewildered. The players should always feel as if they know what their next move should be. It is no fun to bang your head up against a brick wall simply because you are completely and utterly stuck in a game. This ties in with our earlier piece of advice about making sure the player is adequately provided with information. If a player has to resort to outside assistance—whether by cheating, reading a strategy guide, or looking up the answers on the web—the game designer should view that as a failure of the design.
 
-关键是永远不要让玩家感到困惑。玩家应该始终感觉自己知道下一步该怎么走。仅仅因为在游戏中被完全彻底地困住而一头撞在砖墙上，这可不是什么好玩的事。这与我们之前提出的确保玩家获得足够信息的建议不谋而合。如果玩家不得不求助于外界的帮助--无论是通过作弊、阅读策略指南，还是在网上查找答案--游戏设计者应该将此视为设计的失败。
+关键是永远不要让玩家感到困惑。玩家应该始终感觉自己知道下一步该怎么走。因为在游戏中完全陷入了困境，只有不断碰壁，这样一点都不好玩。这与我们之前提出的确保玩家获得足够信息的建议相呼应。如果玩家不得不求助于外界帮助——无论是通过作弊、阅读攻略指南，还是在网上查找答案——游戏设计者应该将此视为设计的失败。
 
-### Avoiding Trivialities
+### Avoiding Trivialities 避免琐事
 
 Not many players actually want to be bogged down in the minutiae of myriad trivial decisions when they can be directing the big decisions at a higher level. Forcing the player to decide where the gold is stored when she is trying to build an army and plan a grand strategy is a form of slow torture. Who cares where the gold is stored—just store it.
 
+当玩家可以在更高的层面上指挥重大决策时，其实并没有多少玩家愿意被无数琐碎的决定所困扰。当玩家正试图组建一支军队并制定宏伟战略时，强迫他们决定黄金存放在哪里是一种难受的折磨。谁会在乎黄金存放在哪里，只管存放就是了。
+
 A trivial decision is a no-brainer decision. Any decision that has only one logical outcome, or where the outcome has no real effect on the game world, is trivial. The player should not be bothered with these. Let the computer handle it and, if necessary, inform the player afterward.
+
+琐碎的决定就是没有脑子的决定。任何只有一种逻辑结果的决定，或者结果对游戏世界没有实际影响的决定，都是琐事。玩家不应该被这些问题打扰。让电脑来处理，如有必要，事后再通知玩家。
 
 Sid Meier's Alpha Centauri handled this magnificently (see Figure 8.20). In this game, the player can choose to handle every decision in the game, from grand strategy all the way down to unit production and direction. In addition, the player can let a computer-controlled manager control the bases, and the player's units can be set to automatic control. The player has the choice to micromanage every aspect of the game, from the movements of an individual unit all the way up to the overall control of the planet. The important thing here is that the player is given the choice. Other games force the player to do all the micromanagement, whether they want to or not.
 
-Figure 8.20. Sid Meier's Alpha Centauri.
+《席德·梅尔的半人马座阿尔法》就很好地处理了这一点（见图 8.20）。在游戏中，玩家可以选择处理游戏中的每一个决策，从大战略一直到单位生产和方向。此外，玩家还可以让电脑控制的经理来控制基地，玩家的单位也可以设置为自动控制。玩家可以选择对游戏的方方面面进行微观管理，从单个单位的行动一直到对整个星球的控制。重要的是，玩家有选择权。而其他游戏则强迫玩家进行所有的微观管理，无论他们是否愿意。
+
+Figure 8.20. Sid Meier's Alpha Centauri. 图 8.20. 《席德·梅尔的半人马座阿尔法》。
 
 graphics/08fig20.gif
 
 Worse still, there are games that force completely trivial decisions on the player. If the player wants to choose whether to wear the blue tunic or the red tunic, then fine, but don't force that decision on him as a gameplay choice, unless it has some sort of direct relevance to the gameplay. For example, if the player's avatar needs to be disguised as a guard in the enemies' Red Guards, the blue tunic wouldn't help matters.
 
+更有甚者，有些游戏强迫玩家做出完全无关紧要的决定。如果玩家想选择穿蓝色外衣还是红色外衣，那没问题，但不要把这个决定强加给玩家作为游戏选择，除非它与游戏有某种直接关系。例如，如果玩家的化身需要伪装成敌人红卫兵中的一名卫兵，那么穿蓝色外衣就无济于事。
+
 To be fair, this sort of trivial decision doesn't crop up as blatantly as this; usually it appears in a more subtle form, disguising the fact that the decision has no value. Note that if this is done well, the trivial decision can actually add to the gameplay. It can add depth and flavor to an otherwise shallow game. If you do choose to use it, though, make sure that you use it with care. If you are caught, it will undermine your gameplay.
+
+公平地说，这种琐碎的决定不会像这样明目张胆地出现，通常会以一种更微妙的形式出现，掩盖该决定毫无价值的事实。需要注意的是，如果处理得当，琐碎的决定实际上可以增加游戏的可玩性。它可以为原本肤浅的游戏增添深度和韵味。不过，如果你真的选择使用它，一定要小心谨慎。如果被发现，就会破坏游戏性。
 
 For an example of how you could use trivial decisions, consider a fictional cops and robbers game. Your officer is patrolling the city as usual, on the lookout for crime, when suddenly he spots a group of suspicious-looking characters on the corner. He stops the car and they immediately run down an alleyway and vanish. Behind the scenes, these people never had any part in the gameplay; they were just flavor to give the impression of a bustling city. The player is not led too far down the wrong path—she is just given the impression that there is more to the city than meets the eye.
 
-### Setting the Difficulty Level
+关于如何使用琐碎决策的例子，请看一个虚构的警察与强盗游戏。你的警官像往常一样在城市里巡逻，提防犯罪，突然他在街角发现了一群形迹可疑的人。他停下车，这些人立刻跑进一条小巷消失了。在幕后，这些人从未参与过游戏，他们只是为了给人一种繁华都市的印象。玩家并没有被引向错误的道路--她只是觉得这座城市比想象的要复杂得多。
+
+### Setting the Difficulty Level 设置难度级别
 
 The first time the players of your game come across balance is when they select the difficulty level. The standard for difficulty levels seems to have evolved into three (or sometimes four) distinct settings: easy, normal, hard, and nightmare (or similar assignations), popularized by the original Doom from id Software.
 
@@ -843,17 +855,21 @@ A balanced game should:
 * Ensure that all players have access to the same or functionally equivalent core options.
 * 
 * Ensure that attributes for which the player pays with points are orthogonal.
-* 
+
 * Ensure that combination and emergence don't destroy the balance.
-* 
-* Provide a consistent challenge.
-* 
-* Provide the player with a perceivably fair playing experience.
-* 
-* Avoid stagnation. 避免停滞
-* 
-* Avoid trivialities.
-* 
+
+* Provide a consistent challenge.\
+提供持续的挑战。
+ 
+* Provide the player with a perceivably fair playing experience.\
+为玩家提供可感知的公平游戏体验。
+
+* Avoid stagnation.\
+避免停滞。
+
+* Avoid trivialities.\
+避免琐事。
+
 * Allow setting of difficulty level (where appropriate).
 
 We're not even going to pretend that this chapter is an all-encompassing, thorough treatment of game balance. The subject could take up a whole book by itself. What we have put forth here is a brief summary of the areas that interest us. There is no guarantee that you will find them as valuable as we have—in fact, it's probable that you have other methods for game balancing that work just as well, if not better, or that cover different situations that we have not covered because of space considerations. Our main aim in this chapter (and, in fact, in this book) is to get you thinking about these issues. Then, even if you don't agree with our conclusions (and feel free to email us stating your case), our aims will have been achieved.
