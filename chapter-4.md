@@ -277,9 +277,9 @@ Sometimes the call comes in the form of a message from a herald, a character arc
 
 有时，召唤会以预言家（一种人物原型）信息的形式出现。预言者不一定是主人公的盟友。事实上，充当传令者的角色可能会在游戏后期作为另一种角色原型再次出现，例如导师或影子。许多游戏中都有使用传令官传递召唤的例子。我们在此使用的具体例子是 Lionhead 的[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))。在这款游戏中，代表玩家善恶两面的两个导师角色争夺玩家的注意力。两个角色都号召玩家去冒险——一个站在善的一方，一个站在恶的一方。
 
-In other situations, the call to adventure isn't an explicit call. It can be the result of a void felt by the hero due to a lack of or a need for something. What that "something" is can be the choice of the game designer. For example, in Planescape: Torment, the call for adventure is lack of knowledge on the part of the hero. The fact that he is referred to as the Nameless One indicates the magnitude of the call.
+In other situations, the call to adventure isn't an explicit call. It can be the result of a void felt by the hero due to a lack of or a need for something. What that "something" is can be the choice of the game designer. For example, in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), the call for adventure is lack of knowledge on the part of the hero. The fact that he is referred to as the Nameless One indicates the magnitude of the call.
 
-在其他情况下，冒险的召唤并不是明确的。它可能是主人公由于缺乏或需要某种东西而感到空虚的结果。至于这个“东西”是什么，可以由游戏设计者来选择。例如，在《异域镇魂曲》中，主人公因缺乏知识而需要冒险。他被称为“无名者”这一事实表明了这一呼唤的严重性。
+在其他情况下，冒险的召唤并不是明确的。它可能是主人公由于缺乏或需要某种东西而感到空虚的结果。至于这个“东西”是什么，可以由游戏设计者来选择。例如，在[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中，主人公因缺乏知识而需要冒险。他被称为“无名者”这一事实表明了这一呼唤的严重性。
 
 The call to adventure does not need to be optional. The hero isn't always given a choice (even if the player is: He can choose to play or not to play). In Space Invaders, the call to adventure is the need to destroy all the aliens to prevent the player's own destruction.
 
@@ -313,9 +313,9 @@ In some cases, refusal of the call can be seen as a positive action. The call to
 
 ### The Meeting with the Mentor 与导师的会面
 
-The character archetype of mentor is discussed at length in the next chapter. You've already seen an example of a mentor in the previous section, when we discussed [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). Another example is Morte, the first character that the Nameless One encounters in Planescape: Torment. At the start of the game, Morte's main purpose is to provide the Nameless One with information about his location and situation. As the Nameless One progresses further, Morte provides further tips and helpful suggestions until he is more familiar with his surroundings.
+The character archetype of mentor is discussed at length in the next chapter. You've already seen an example of a mentor in the previous section, when we discussed [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). Another example is Morte, the first character that the Nameless One encounters in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment). At the start of the game, Morte's main purpose is to provide the Nameless One with information about his location and situation. As the Nameless One progresses further, Morte provides further tips and helpful suggestions until he is more familiar with his surroundings.
 
-下一章将详细讨论导师这一角色原型。在上一节讨论[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))时，你已经看到了导师的例子。另一个例子是莫尔特，他是无名者在《异域镇魂曲》中遇到的第一个角色。在游戏开始时，莫尔特的主要目的是向无名者提供有关他的位置和处境的信息。随着无名者的不断前进，莫尔特会提供更多的提示和有用的建议，直到他对周围环境更加熟悉为止。
+下一章将详细讨论导师这一角色原型。在上一节讨论[《黑与白》](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))时，你已经看到了导师的例子。另一个例子是莫尔特，他是无名者在[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中遇到的第一个角色。在游戏开始时，莫尔特的主要目的是向无名者提供有关他的位置和处境的信息。随着无名者的不断前进，莫尔特会提供更多的提示和有用的建议，直到他对周围环境更加熟悉为止。
 
 If the call to adventure is seen as the catalyst to the story, creating an impulse and motive where previously there were none, then the meeting with the mentor serves to give direction to these unleashed forces. When the hero decides to take action, it is the task of the mentor archetype to give the hero the information needed to choose which action to take.
 
@@ -331,9 +331,9 @@ After the hero has decided to leave the ordinary world, accepted the call to adv
 
 在主人公决定离开平凡的世界，接受冒险的召唤，并发现了需要做的事情之后，她仍然需要迈出第一步，投入到冒险中去。沃格勒将此称为“跨过门槛”，从安全舒适的普通世界进入危险奇特的特殊世界进行探险。
 
-This step is not always optional. Sometimes the hero is thrust into the special world against her will. For example, in Planescape: Torment, the amnesiac hero wakes into the special world at the start of the game, with only a few tattered memories of the ordinary world from which he came.
+This step is not always optional. Sometimes the hero is thrust into the special world against her will. For example, in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), the amnesiac hero wakes into the special world at the start of the game, with only a few tattered memories of the ordinary world from which he came.
 
-这一步并不总是可选的。有时，主人公是在违背自己意愿的情况下被推入特殊世界的。例如，在《异域镇魂曲》中，失忆的主人公在游戏一开始就进入了特殊世界，而他对自己来自的普通世界只有一些残缺不全的记忆。
+这一步并不总是可选的。有时，主人公是在违背自己意愿的情况下被推入特殊世界的。例如，在[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中，失忆的主人公在游戏一开始就进入了特殊世界，而他对自己来自的普通世界只有一些残缺不全的记忆。
 
 To enter the special world, the hero must mentally prepare, garner her courage, and perform a certain amount of symbolic loin girding to confidently enter the strange and unknown experiences ahead. Often the hero expresses misgivings, concerns, and fears but makes the crossing anyway. This is a good time to bond the player with the hero by creating a sense of concern. The threshold guardian archetype often comes into play here. This could be manifested as the hero's own misgivings, the fear of the hero's companions, a warning from the enemy who the hero seeks to defeat, or any combination of these.
 
@@ -419,9 +419,9 @@ After the ultimate shadow is defeated, the reward can be claimed. The reward can
 
 战胜终极阴影后，就可以领取奖励。奖励有多种形式，但并非都是正面的。有时，奖励可能是一种消极的选择，是主人公宁愿避免却无法或根本没想到的事情。
 
-More often, however, the reward is positive, even if it might not seem that way to the player. For example, the reward in Planescape: Torment is mortality and the promise of death. Although this might not seem like much of a reward to the player, to the hero—who has endured a long and painful cycle of continual death and rebirth—the ability to finally die and join his lover in the peace of eternal sleep is an ideal boon.
+More often, however, the reward is positive, even if it might not seem that way to the player. For example, the reward in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) is mortality and the promise of death. Although this might not seem like much of a reward to the player, to the hero—who has endured a long and painful cycle of continual death and rebirth—the ability to finally die and join his lover in the peace of eternal sleep is an ideal boon.
 
-但更常见的情况是，奖励是正面的，即使在玩家看来并非如此。例如，《异域镇魂曲》中的奖励就是死亡和死亡的承诺。虽然这对玩家来说可能算不上什么奖励，但对于经历了漫长而痛苦的不断死亡和重生循环的主人公来说，能够最终死去并与他的爱人在永恒的睡眠中团聚，是一种理想的恩赐。
+但更常见的情况是，奖励是正面的，即使在玩家看来并非如此。例如，[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中的奖励就是死亡和死亡的承诺。虽然这对玩家来说可能算不上什么奖励，但对于经历了漫长而痛苦的不断死亡和重生循环的主人公来说，能够最终死去并与他的爱人在永恒的睡眠中团聚，是一种理想的恩赐。
 
 Many games end at this point. Some of these show the remaining story as a final cut scene. For other games, this is merely the beginning of the final phase.
 

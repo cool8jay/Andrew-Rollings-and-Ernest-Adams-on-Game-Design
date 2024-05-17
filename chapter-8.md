@@ -181,9 +181,9 @@ An experienced player playing as the Soviet side could devote all of her energie
 
 一名经验丰富的苏联方玩家可以在游戏初期投入全部精力生产大量坦克，然后利用这些坦克大举进攻新生的敌方基地。面对毫无准备的对手，这样做几乎总能获胜。当然，由于其中涉及大量变量，我们不能肯定说这是一种优势策略，也就是说，无论对手怎么做，这都不一定是最佳策略，但肯定是接近占优势的策略。
 
-Another real-world example, again from a real-time strategy game, occurred because of relative unit strength mismatches. In the original Warcraft game from Blizzard Entertainment, the Orc player was almost always guaranteed victory if he was able to produce warlocks (see Figure 8.2). Once a warlock was in play, it could be used to create an army of powerful demons. This almost always guaranteed a win for the Orc player and was a strategy worth playing, whatever the opposing player did. In fact, we found that the only way to guarantee a fair game in the original Warcraft was to explicitly agree to disallow any magical warfare.
+Another real-world example, again from a real-time strategy game, occurred because of relative unit strength mismatches. In the original [Warcraft](https://en.wikipedia.org/wiki/Warcraft) game from Blizzard Entertainment, the Orc player was almost always guaranteed victory if he was able to produce warlocks (see Figure 8.2). Once a warlock was in play, it could be used to create an army of powerful demons. This almost always guaranteed a win for the Orc player and was a strategy worth playing, whatever the opposing player did. In fact, we found that the only way to guarantee a fair game in the original [Warcraft](https://en.wikipedia.org/wiki/Warcraft) was to explicitly agree to disallow any magical warfare.
 
-另一个现实世界中的例子同样来自于即时战略游戏，这是因为相对的单位实力不匹配造成的。在暴雪娱乐公司最初推出的《魔兽争霸》游戏中，如果半兽人玩家能够生产术士，那么他几乎总是能保证取得胜利（见图 8.2）。一旦有了术士，它就可以用来组建一支强大的恶魔大军。这几乎总能保证半兽人玩家获胜，无论对方玩家做什么，这都是值得一试的策略。事实上，我们发现在最初的《魔兽争霸》中，保证游戏公平的唯一方法就是明确同意不允许任何魔法战。
+另一个现实世界中的例子同样来自于即时战略游戏，这是因为相对的单位实力不匹配造成的。在暴雪娱乐公司最初推出的[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)游戏中，如果半兽人玩家能够生产术士，那么他几乎总是能保证取得胜利（见图 8.2）。一旦有了术士，它就可以用来组建一支强大的恶魔大军。这几乎总能保证半兽人玩家获胜，无论对方玩家做什么，这都是值得一试的策略。事实上，我们发现在最初的[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)中，保证游戏公平的唯一方法就是明确同意不允许任何魔法战。
 
 Figure 8.2. Warcraft. 图 8.2. 《魔兽争霸》。
 
@@ -487,9 +487,9 @@ Often, being ahead tends to make things easier for the player in that position a
 
 通常情况下，领先的一方往往会让处于该位置的一方更轻松，而另一方则更困难。这是一种正反馈，有助于领先的玩家。这就是《大富翁》中的“富者愈富，穷者愈穷”。你的钱越多，你就可以开更多的酒店，从而产生更多的钱，如此循环。这是一种可取的特性，只要它不会发生得太快，也不会让落后的玩家无从追赶。在国际象棋中，吃掉对方的棋子会给吃棋者带来一点优势：因为对方再也没有那个棋子可以玩了。但在日本象棋中，吃掉对方的棋子后，就会把它移到棋盘的自己一方，成为自己的棋子（尽管它变成了一个较弱的棋子）。这就赋予了额外的优势：不仅敌方没有了这颗棋子，自己也多了一颗棋子。如果在西洋棋中这样做，棋局确实会很短。
 
-Therefore, you want positive feedback so that the game will end eventually, but not too much. Most war games, for example Warcraft, don't let you take and use enemy factories; they only let you damage and destroy them. If you could use enemy factories to build armies, the game would become unbalanced too quickly.
+Therefore, you want positive feedback so that the game will end eventually, but not too much. Most war games, for example [Warcraft](https://en.wikipedia.org/wiki/Warcraft), don't let you take and use enemy factories; they only let you damage and destroy them. If you could use enemy factories to build armies, the game would become unbalanced too quickly.
 
-因此，你需要积极的反馈，这样游戏最终会结束，但又不能过多。大多数战争游戏，例如《魔兽争霸》，都不允许玩家占领和使用敌人的工厂，而只允许玩家破坏和摧毁它们。如果你可以使用敌人的工厂来建造军队，那么游戏很快就会失去平衡。
+因此，你需要积极的反馈，这样游戏最终会结束，但又不能过多。大多数战争游戏，例如[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)，都不允许玩家占领和使用敌人的工厂，而只允许玩家破坏和摧毁它们。如果你可以使用敌人的工厂来建造军队，那么游戏很快就会失去平衡。
 
 You need the keep the players in the balance sweet spot for as long as is practical in order to keep the game fun and let the underdogs have a chance to catch up. A game where the slightest advantage leads to a runaway victory for one player would not be fun. In summary, if you are going to use positive feedback loops in your design, make sure they have a reasonable response time delay before they kick into action.
 
