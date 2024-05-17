@@ -477,8 +477,7 @@ For example, in one of the games, there is a still that produces alcoholic bever
 
 例如，在其中一个游戏中，有一个生产酒精饮料的蒸馏酿酒厂。在酿酒厂里喝酒的快感是如此直接，以至于所有找到酿酒厂的诺恩都会呆在那里一醉方休。不幸的是，这并不像听起来那么有趣（好吧，反正不会持续太久）。他们喝醉了。他们摔倒。仅此而已。显然，这是一个不受欢迎的涌现例子。它并没有给游戏增添任何有趣的东西，事实上，它还减弱了游戏的趣味性。
 
-
-###= Feedback Loops 反馈循环
+### Feedback Loops 反馈循环
 
 The basic progression of a game is that it starts statically and dynamically balanced and then gets out of balance, first one way and then the other. It goes backward and forward like a seesaw, with one player ahead and then the other, until someone eventually gets so far ahead that it is impossible for the other to catch up.
 
