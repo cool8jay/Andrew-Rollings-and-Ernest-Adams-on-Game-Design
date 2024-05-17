@@ -6,9 +6,9 @@ Computer games generally have some sort of story attached to them as well. Somet
 
 电脑游戏一般也会附带一些故事。有时只是一段背景故事。在其他情况下，它是一个完全整合的故事线——游戏就是故事。
 
-In this chapter, we discuss some guidelines for constructing compelling stories and integrating them into game designs. To some extent, the importance of story integration is dependent on the type of game you are designing: Some games require more integration than others. For example, a simple game such as Space Invaders requires only a one-liner: "Aliens are invading Earth, and only you can stop them." Why? It doesn't matter. The player's imagination takes care of that. At the other end of the spectrum, adventure games such as Grim Fandango and Discworld Noir have a detailed and involving story line, as convoluted and structured as any novel. And, of course, we have the middle range—games in which story is important but is not the overriding gameplay feature. This concept is illustrated in Figure 4.1. As we progress across the story spectrum from left to right, the importance of the story increases. Examples of games such as this include Half-Life and Luigi's Mansion (shown in Figure 4.2).
+In this chapter, we discuss some guidelines for constructing compelling stories and integrating them into game designs. To some extent, the importance of story integration is dependent on the type of game you are designing: Some games require more integration than others. For example, a simple game such as Space Invaders requires only a one-liner: "Aliens are invading Earth, and only you can stop them." Why? It doesn't matter. The player's imagination takes care of that. At the other end of the spectrum, adventure games such as Grim Fandango and Discworld Noir have a detailed and involving story line, as convoluted and structured as any novel. And, of course, we have the middle range—games in which story is important but is not the overriding gameplay feature. This concept is illustrated in Figure 4.1. As we progress across the story spectrum from left to right, the importance of the story increases. Examples of games such as this include [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Luigi's Mansion (shown in Figure 4.2).
 
-在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏——在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括《半条命》和《路易吉洋楼》（如图 4.2 所示）。
+在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏——在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))和《路易吉洋楼》（如图 4.2 所示）。
 
 Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
@@ -18,9 +18,9 @@ Figure 4.2. Luigi's Mansion. 图 4.2. 《路易吉洋楼》。
 
 ![](.gitbook/assets/4.2.png)
 
-In Half-Life, the story is an important part of the flavor of the game, but aside from acting as a mechanism to allow the player to become more immersed in the game world, it bears no relevance to the actual gameplay. (And by this we mean that the gameplay of Half-Life is virtually identical to that of any other first-person shooter; it's just the story and setting that give it the edge.)
+In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), the story is an important part of the flavor of the game, but aside from acting as a mechanism to allow the player to become more immersed in the game world, it bears no relevance to the actual gameplay. (And by this we mean that the gameplay of Half-Life is virtually identical to that of any other first-person shooter; it's just the story and setting that give it the edge.)
 
-在《半条命》中，故事是游戏风情的重要组成部分，但除了作为一种机制让玩家更加沉浸于游戏世界之外，它与实际的游戏玩法毫无关联。(我们的意思是，《半条命》的游戏玩法与其他第一人称射击游戏几乎完全相同，只是故事和场景使其更具优势）。
+在[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，故事是游戏风情的重要组成部分，但除了作为一种机制让玩家更加沉浸于游戏世界之外，它与实际的游戏玩法毫无关联。(我们的意思是，[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))的游戏玩法与其他第一人称射击游戏几乎完全相同，只是故事和场景使其更具优势）。
 
 # Stories in Games 游戏里的故事
 
@@ -50,9 +50,9 @@ Not all games require a detailed and rigorous story. Often a couple of short par
 
 并非所有游戏都需要详细而严谨的故事。通常只需要几段简短的背景介绍即可。例如，像《异形战机》这样的游戏并不需要太多的故事情节。一个邪恶的银河帝国正在入侵，而你是唯一能阻止它的人。原创吗？不是。够用了吗？是的。
 
-If a game doesn't require a detailed backstory, there is nothing to be gained by adding one. Think carefully before you decide this, though; consider the difference that the addition of a story made to Half-Life. (For those of you who don't know, Half-Life was the first decent attempt at a first-person shooter with a strong backstory.)
+If a game doesn't require a detailed backstory, there is nothing to be gained by adding one. Think carefully before you decide this, though; consider the difference that the addition of a story made to [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). (For those of you who don't know, Half-Life was the first decent attempt at a first-person shooter with a strong backstory.)
 
-如果一款游戏不需要详细的背景故事，那么加入背景故事也不会有什么好处。不过，在做出这样的决定之前，请仔细考虑一下添加故事对《半条命》的影响。(对于那些不知道的人来说，《半条命》首次成功将故事融入到第一人称射击游戏当中。）
+如果一款游戏不需要详细的背景故事，那么加入背景故事也不会有什么好处。不过，在做出这样的决定之前，请仔细考虑一下添加故事对[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))的影响。(对于那些不知道的人来说，[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))首次成功将故事融入到第一人称射击游戏当中。）
 
 Games such as the Mario series often have simple backstories that are expanded upon during the game. The story line does not affect the gameplay to a restrictive degree, but it does provide direction and increases the interest level. By creating a loose story line that does not impact the gameplay, the designer increases the interest level by using the story line to involve the player in the plight of the characters.
 
@@ -195,9 +195,9 @@ Care must be taken with the backstory and how this story is revealed to the play
 
 必须注意背景故事以及如何向玩家揭示这个故事。不要一下子就说出来。没有什么比直接独白主人公的背景和动机更平淡无奇了。优雅地揭示背景故事要好得多。让玩家花点心思去拼凑。这样的体验更有成就感，也会让玩家觉得自己在揭秘故事的过程中有所收获。
 
-Foreshadowing is a powerful technique in storytelling. Consider an example from the introduction to Valve's Half-Life. The noninteractive opening scenes tell the story of Gordon Freeman, who has accepted a research position at the ultrasecretive Black Mesa research laboratory. As Gordon takes the underground monorail to the main security entrance, he gets a glimpse of the ordinary world of the research facility. At certain points throughout the journey, Gordon's attention is drawn to various constructs and facilities that will feature heavily in the special world when the catastrophic accident occurs. Another more explicit example of foreshadowing occurs at the point at which the accident occurs. When the experiment goes awry and the dimensional rift is opened, Gordon is transported to a variety of strange locations and glimpses strange alien landscapes and beings. This (unbeknownst to Gordon) is a taste of things to come.
+Foreshadowing is a powerful technique in storytelling. Consider an example from the introduction to Valve's [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). The noninteractive opening scenes tell the story of Gordon Freeman, who has accepted a research position at the ultrasecretive Black Mesa research laboratory. As Gordon takes the underground monorail to the main security entrance, he gets a glimpse of the ordinary world of the research facility. At certain points throughout the journey, Gordon's attention is drawn to various constructs and facilities that will feature heavily in the special world when the catastrophic accident occurs. Another more explicit example of foreshadowing occurs at the point at which the accident occurs. When the experiment goes awry and the dimensional rift is opened, Gordon is transported to a variety of strange locations and glimpses strange alien landscapes and beings. This (unbeknownst to Gordon) is a taste of things to come.
 
-在讲故事的过程中，预示是一种强大的技巧。请看 Valve 的《半条命》介绍中的一个例子。非交互式的开场场景讲述了戈登·弗里曼的故事，他接受了超神秘的黑梅萨研究实验室的研究职位。当戈登乘坐地下单轨列车前往主要安全入口时，他看到了研究设施的普通世界。在整个旅程中的某些时刻，戈登的注意力被吸引到各种建筑和设施上，这些建筑和设施将在灾难性事故发生时在特殊世界中大显身手。另一个更明确的预示例子发生在事故发生的时刻。当实验出现意外，维度裂缝被打开时，戈登被传送到各种奇怪的地方，并瞥见了奇怪的外星景观和生物。这（戈登并不知道）是对未来事物的预示。
+在讲故事的过程中，预示是一种强大的技巧。请看 Valve 的[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))介绍中的一个例子。非交互式的开场场景讲述了戈登·弗里曼的故事，他接受了超神秘的黑梅萨研究实验室的研究职位。当戈登乘坐地下单轨列车前往主要安全入口时，他看到了研究设施的普通世界。在整个旅程中的某些时刻，戈登的注意力被吸引到各种建筑和设施上，这些建筑和设施将在灾难性事故发生时在特殊世界中大显身手。另一个更明确的预示例子发生在事故发生的时刻。当实验出现意外，维度裂缝被打开时，戈登被传送到各种奇怪的地方，并瞥见了奇怪的外星景观和生物。这（戈登并不知道）是对未来事物的预示。
 
 Because foreshadowing is so powerful, it is very commonly used. Often in games that have boss characters, such as shoot 'em-ups, the boss character puts in brief cameo appearances throughout the level before appearing at the end of the level for the big confrontation. The various Star Wars games (an example of which is shown in Figure 4.3) that feature the Death Star often use this technique. The Death Star appears as part of the background graphics a couple of levels before the player is called upon to destroy it. As soon as it appears, ominously hanging in the distance like a small moon, the player knows that sooner or later he will be there.
 
@@ -227,9 +227,9 @@ Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
 ![](/.gitbook/assets/4.4.jpg)
 
-An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of Half-Life players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
+An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
 
-戈登·弗里曼在新工作中缺乏经验就是一个例子。戈登是一个绝密实验室的新员工。玩家对此可以感同身受。我们可以肯定，绝大多数《半条命》玩家也会对戈登的处境感到不知所措。精彩的开场镜头将这种敬畏感放大，并传递给玩家。通过这种方式，玩家和化身之间建立了一种联系。
+戈登·弗里曼在新工作中缺乏经验就是一个例子。戈登是一个绝密实验室的新员工。玩家对此可以感同身受。我们可以肯定，绝大多数[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))玩家也会对戈登的处境感到不知所措。精彩的开场镜头将这种敬畏感放大，并传递给玩家。通过这种方式，玩家和化身之间建立了一种联系。
 
 ### The Call to Adventure 冒险的召唤
 
@@ -401,9 +401,9 @@ The ordeal is the ultimate test: the fight with the nemesis. This is the culmina
 
 这场磨难是终极考验：与宿敌的搏斗。这是故事的巅峰之战。在此之前，主人公可能已经经历过一些严峻的考验，但这才是真正的考验。赌注很高，最终的奖励就在眼前。
 
-Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. Luigi's Mansion, Quake II, Half-Life, R-Type, and Diablo II are some of these. We're sure that you can add hundreds to the list.
+Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. Luigi's Mansion, Quake II, [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), R-Type, and Diablo II are some of these. We're sure that you can add hundreds to the list.
 
-许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。《路易吉洋楼》、《雷神之锤二》、《半条命》、《异形战机》和《暗黑破坏神二》都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
+许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。《路易吉洋楼》、《雷神之锤二》、[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))、《异形战机》和《暗黑破坏神二》都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
 
 During the ordeal, you might try to cement the player's bond with the hero further. This is sometimes achieved by making it appear as if the hero is almost defeated, before fighting back from seemingly impossible odds to defeat the enemy.
 
@@ -427,9 +427,9 @@ Many games end at this point. Some of these show the remaining story as a final 
 
 许多游戏到此就结束了。其中一些游戏用最后的过场动画来展示剩余的故事。对其他游戏来说，这仅仅是最终阶段的开始。
 
-Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In Half-Life, Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of Unreal. After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
+Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of Unreal. After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
 
-请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在《半条命》中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
+请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
 
 Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局。
 
@@ -477,9 +477,9 @@ However, a neatly tied-up story is not always desirable. Sometimes it is nice to
 
 然而，一个整齐划一的故事并不总是可取的。有时，留下一些悬念也不错。最受欢迎的故事结局形式之一是“新的开始”。在这种结局中，游戏结束后，故事仍在玩家的想象中继续。玩家会问：“接下来会发生什么？”这就为续集或续篇留下了伏笔。
 
-The most obvious example of this is Half-Life. The story line for this game contains a last-minute plot twist. Just when you think Gordon Freeman is about to escape, he is accosted by a man in black (who has been covertly watching Gordon during the entire game) and is offered two choices. We won't spoil the surprise for those of you who have not played the game to completion; suffice to say that it is certainly an unexpected twist. The reward in this case has mutated from freedom to something else entirely.
+The most obvious example of this is [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). The story line for this game contains a last-minute plot twist. Just when you think Gordon Freeman is about to escape, he is accosted by a man in black (who has been covertly watching Gordon during the entire game) and is offered two choices. We won't spoil the surprise for those of you who have not played the game to completion; suffice to say that it is certainly an unexpected twist. The reward in this case has mutated from freedom to something else entirely.
 
-最明显的例子就是《半条命》。这款游戏的故事线在最后一刻出现了情节转折。当你以为戈登·弗里曼即将逃脱时，一个黑衣人（在整个游戏过程中一直暗中监视着戈登）向他搭讪，并提供了两个选择。对于那些没有玩完游戏的人，我们就不剧透这个惊喜了；我们只想说，这肯定是一个意想不到的转折。在这种情况下，奖励从自由变成了完全不同的东西。
+最明显的例子就是[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))。这款游戏的故事线在最后一刻出现了情节转折。当你以为戈登·弗里曼即将逃脱时，一个黑衣人（在整个游戏过程中一直暗中监视着戈登）向他搭讪，并提供了两个选择。对于那些没有玩完游戏的人，我们就不剧透这个惊喜了；我们只想说，这肯定是一个意想不到的转折。在这种情况下，奖励从自由变成了完全不同的东西。
 
 # The Story Vehicle 故事载体
 
