@@ -205,9 +205,9 @@ Figure 8.3. Wolfenstein 3D. 图 8.3. 《德军总部 3D》。
 
 ![](.gitbook/assets/8.3.png)
 
-Occasionally, a bug in a game can be exploited to the benefit of the player. For example, in the game Super Turbo Street Fighter 2, the secret character Akuma is completely out of balance with the rest of the characters in the game (see Figure 8.4). This character has an unbeatable attack, the air fireball, which is so superior to the rest of the characters' attacks that they don't stand a chance. Using Akuma is the dominant strategy—if the opponent chooses any other character, she is pretty much assured a loss. If the opponent chooses Akuma also, then given equal skill levels, a draw is the likely outcome. The only option to ensure a fair result is to ban the use of that character in any serious competitive game. It's not that this is the only game that has an unbalanced character, but in other games, the superior character isn't so far out of balance that it ruins the game for other players.
+Occasionally, a bug in a game can be exploited to the benefit of the player. For example, in the game [Super Turbo Street Fighter 2](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo), the secret character Akuma is completely out of balance with the rest of the characters in the game (see Figure 8.4). This character has an unbeatable attack, the air fireball, which is so superior to the rest of the characters' attacks that they don't stand a chance. Using Akuma is the dominant strategy—if the opponent chooses any other character, she is pretty much assured a loss. If the opponent chooses Akuma also, then given equal skill levels, a draw is the likely outcome. The only option to ensure a fair result is to ban the use of that character in any serious competitive game. It's not that this is the only game that has an unbalanced character, but in other games, the superior character isn't so far out of balance that it ruins the game for other players.
 
-有时，游戏中的错误会被玩家利用，使其获益。例如，在游戏《超级街头霸王 2》中，秘密角色豪鬼与游戏中的其他角色完全不平衡（见图 8.4）。这个角色有一种无敌的攻击方式——空中火球，比其他角色的攻击方式高出一筹，让他们毫无胜算。使用豪鬼是优势策略——如果对手选择了其他任何角色，她都会输得很惨。如果对手也选择豪鬼，那么在技能水平相当的情况下，很可能会出现平局。要确保结果公平，唯一的选择就是禁止在任何严肃的竞技游戏中使用该角色。这并不是说只有这款游戏中存在不平衡的角色，但在其他游戏中，优势角色还不至于失衡到毁了其他玩家的游戏。
+有时，游戏中的错误会被玩家利用，使其获益。例如，在游戏[《超级街头霸王 2》](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo)中，秘密角色豪鬼与游戏中的其他角色完全不平衡（见图 8.4）。这个角色有一种无敌的攻击方式——空中火球，比其他角色的攻击方式高出一筹，让他们毫无胜算。使用豪鬼是优势策略——如果对手选择了其他任何角色，她都会输得很惨。如果对手也选择豪鬼，那么在技能水平相当的情况下，很可能会出现平局。要确保结果公平，唯一的选择就是禁止在任何严肃的竞技游戏中使用该角色。这并不是说只有这款游戏中存在不平衡的角色，但在其他游戏中，优势角色还不至于失衡到毁了其他玩家的游戏。
 
 Figure 8.4. Super Turbo Street Fighter 2. 图 8.4. 《超级街头霸王 2》。
 
@@ -269,13 +269,13 @@ Taken at face value, it would seem that transitive relationships are not very us
 
 从表面上看，传递关系似乎并没有什么用处。既然可以用 A，为什么还要用 C 呢？这就是需要平衡的地方。那么如何平衡这种关系呢？更有效的实体需要付出更高的代价。请注意，我们指的并不一定是直接的金钱、积分或分数成本；这种成本可能是派去获取珍贵实体的人的生命，也可能是玩家为获取实体所经历的考验和困难。我们无法直接量化这些间接成本，它们被称为“影子成本”，但它们应该足够高，以证明奖励的合理性。请注意，影子成本是许多其他因素的最终结果。它们可以衡量，但不能直接改变。
 
-Pure transitive relationships, without shadow costs to balance them out, lead to trivial and undemanding gameplay choices, which serve to undermine balance. However, shadow costs, together with the possibility of being knocked back down the ladder, allow for an interesting progression/regression dynamic that can lead to some taut and suspenseful gameplay. Care should be taken to ensure that the player can reestablish her previous level. Games such as Diablo from Blizzard Entertainment do this by allowing the player to retrieve her possessions from the corpse of the previous incarnation.
+Pure transitive relationships, without shadow costs to balance them out, lead to trivial and undemanding gameplay choices, which serve to undermine balance. However, shadow costs, together with the possibility of being knocked back down the ladder, allow for an interesting progression/regression dynamic that can lead to some taut and suspenseful gameplay. Care should be taken to ensure that the player can reestablish her previous level. Games such as [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) from Blizzard Entertainment do this by allowing the player to retrieve her possessions from the corpse of the previous incarnation.
 
-如果没有影子成本来平衡纯粹的传递关系，就会导致琐碎和不费力的游戏选择，从而破坏平衡。然而，影子成本加上被受挫的可能性，可以产生一种有趣的进步/退步动态，从而带来一些紧张而充满悬念的游戏。应注意确保玩家能重新达到之前的水平。暴雪娱乐公司出品的《暗黑破坏神》等游戏就是这样做的，它允许玩家从上一个化身的尸体上取回自己的物品。
+如果没有影子成本来平衡纯粹的传递关系，就会导致琐碎和不费力的游戏选择，从而破坏平衡。然而，影子成本加上被受挫的可能性，可以产生一种有趣的进步/退步动态，从而带来一些紧张而充满悬念的游戏。应注意确保玩家能重新达到之前的水平。暴雪娱乐公司出品的[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))等游戏就是这样做的，它允许玩家从上一个化身的尸体上取回自己的物品。
 
-Transitive relationships are very common in games, especially games such as first-person shooters. Think back to the original Doom from id Software. The player starts the game with a relatively weak pistol. Sure, the player can get a little way with it, but each monster takes more than one shot to dispatch, and initial progress is tricky. A little way into the game, the player finds a shotgun, which is a much more effective weapon. The player can now dispatch the monsters with relative ease, allowing him to get further into the game. Now the monsters become harder to kill, and shotgun ammunition becomes scarce.
+Transitive relationships are very common in games, especially games such as first-person shooters. Think back to the original [Doom](https://en.wikipedia.org/wiki/Doom_(franchise)) from id Software. The player starts the game with a relatively weak pistol. Sure, the player can get a little way with it, but each monster takes more than one shot to dispatch, and initial progress is tricky. A little way into the game, the player finds a shotgun, which is a much more effective weapon. The player can now dispatch the monsters with relative ease, allowing him to get further into the game. Now the monsters become harder to kill, and shotgun ammunition becomes scarce.
 
-传递关系在游戏中非常常见，尤其是第一人称射击游戏。回想一下 id Software 公司出品的原版《毁灭战士》。游戏开始时，玩家只有一把相对较弱的手枪。当然，玩家可以用它走一段路，但每只怪物都需要一枪以上才能击退，初期的进展非常棘手。游戏开始后，玩家发现了一把霰弹枪，这是一种更有效的武器。现在，玩家可以相对轻松地击退怪物，从而在游戏中继续前进。现在，怪物变得更难杀死，霰弹枪的弹药也变得越来越少。
+传递关系在游戏中非常常见，尤其是第一人称射击游戏。回想一下 id Software 公司出品的原版[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(franchise))。游戏开始时，玩家只有一把相对较弱的手枪。当然，玩家可以用它走一段路，但每只怪物都需要一枪以上才能击退，初期的进展非常棘手。游戏开始后，玩家发现了一把霰弹枪，这是一种更有效的武器。现在，玩家可以相对轻松地击退怪物，从而在游戏中继续前进。现在，怪物变得更难杀死，霰弹枪的弹药也变得越来越少。
 
 We're back where we started—with a relatively weak weapon—and we need to search for another stronger weapon to make the same progress we were making before. This is how the game draws us in and impels us to keep playing.
 
@@ -293,43 +293,43 @@ Any game that involves upgrading or augmenting the player's capabilities within 
 
 任何涉及在游戏中升级或增强玩家能力的游戏都会用到传递关系。我们可以想到很多以这种方式运行的游戏。例如：
 
-* Super Mario. A series of side-scrolling platform games (see Figure 8.6). The progression is of Mario's abilities. With the first mushroom, he doubles in size, and with subsequent items, his abilities improve further to include flying and invulnerability. These abilities are lost in stages when Mario collides with an enemy.\
-《超级马里奥》。这是一系列卷轴平台游戏（见图 8.6）。马里奥的能力在不断进步。有了第一个蘑菇，他的体型就会增加一倍，有了随后的物品，他的能力就会进一步提高，包括飞行和无敌。当马里奥与敌人相撞时，这些能力就会分阶段丧失。
+* [Super Mario](https://www.mariowiki.com/). A series of side-scrolling platform games (see Figure 8.6). The progression is of Mario's abilities. With the first mushroom, he doubles in size, and with subsequent items, his abilities improve further to include flying and invulnerability. These abilities are lost in stages when Mario collides with an enemy.\
+[《超级马里奥》](https://www.mariowiki.com/)。这是一系列卷轴平台游戏（见图 8.6）。马里奥的能力在不断进步。有了第一个蘑菇，他的体型就会增加一倍，有了随后的物品，他的能力就会进一步提高，包括飞行和无敌。当马里奥与敌人相撞时，这些能力就会分阶段丧失。
 
 Figure 8.6. Super Mario Advance. 图 8.6. 《超级马里奥Advance》
 
 ![](.gitbook/assets/8.6.png)
 
-* Legend of Zelda. A series of top-down arcade style role-playing games (except for the Nintendo 64 and GameCube versions, which were full 3D), as shown in Figure 8.7. Link (the hero) collects items to enhance his skills and stamina. The basis of the game is to solve the overall quest by adventuring through a series of dungeons. In general, the prize for each dungeon is a magical item that enhances Link's abilities. A nice little game design touch is that the ability upgraded is the ability that would have been most useful in traversing the dungeon in which it was secreted.\
-《塞尔达传说》。这是一系列俯视视角街机风格角色扮演游戏（任天堂 64 和 GameCube 版本除外，这些是全 3D 版本），如图 8.7 所示。林克（主人公）通过收集物品来增强自己的技能和体力。游戏的基础是通过在一系列地牢中冒险来完成整个任务。一般来说，每个地下城的奖品都是能增强林克能力的魔法物品。游戏设计的一个小亮点是，所提升的能力正是在探索隐藏该物品的地下城时最有用的那种能力。
+* [Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda). A series of top-down arcade style role-playing games (except for the Nintendo 64 and GameCube versions, which were full 3D), as shown in Figure 8.7. Link (the hero) collects items to enhance his skills and stamina. The basis of the game is to solve the overall quest by adventuring through a series of dungeons. In general, the prize for each dungeon is a magical item that enhances Link's abilities. A nice little game design touch is that the ability upgraded is the ability that would have been most useful in traversing the dungeon in which it was secreted.\
+[《塞尔达传说》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)。这是一系列俯视视角街机风格角色扮演游戏（任天堂 64 和 GameCube 版本除外，这些是全 3D 版本），如图 8.7 所示。林克（主人公）通过收集物品来增强自己的技能和体力。游戏的基础是通过在一系列地牢中冒险来完成整个任务。一般来说，每个地下城的奖品都是能增强林克能力的魔法物品。游戏设计的一个小亮点是，所提升的能力正是在探索隐藏该物品的地下城时最有用的那种能力。
 
 Figure 8.7. Legend of Zelda. 图 8.7. 《塞尔达传说》。
 
 ![](.gitbook/assets/8.7.png)
 
-* R-Type. A side-scrolling space-based shoot 'em-up (see Figure 8.8). As the player defeats enemies, they drop pods containing weapons upgrades for the player's ship. The cumulative upgrades are lost when your ship is destroyed.\
-《异形战机》。一款卷轴太空射击游戏（见图 8.8）。当玩家击败敌人时，敌人会掉落装有玩家飞船升级武器的吊舱。当你的飞船被摧毁时，累积的升级就会丢失。
+* [R-Type](https://en.wikipedia.org/wiki/R-Type). A side-scrolling space-based shoot 'em-up (see Figure 8.8). As the player defeats enemies, they drop pods containing weapons upgrades for the player's ship. The cumulative upgrades are lost when your ship is destroyed.\
+[《异形战机》](https://en.wikipedia.org/wiki/R-Type)。一款卷轴太空射击游戏（见图 8.8）。当玩家击败敌人时，敌人会掉落装有玩家飞船升级武器的吊舱。当你的飞船被摧毁时，累积的升级就会丢失。
 
 Figure 8.8. R-Type. 图 8.8. 《异形战机》
 
 ![](.gitbook/assets/8.8.png)
 
-* Diablo. An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.\
-《暗黑破坏神》一款等视距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
+* [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)). An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.\
+[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))一款等视距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
 
 Figure 8.9. Diablo. 图 8.9. 《暗黑破坏神》
 
 ![](.gitbook/assets/8.9.png)
 
-* Doom, Quake, Half-Life, and so on. First-person shooters (see Figure 8.10). As you progress through the game, successively better weapons can be found that scale the player's firepower with that of the enemy. You lose the advanced weapons when your avatar is killed.\
-《毁灭战士》，《雷神之锤》，《半条命》等。第一人称射击游戏（见图 8.10）。随着游戏进程的推进，玩家可以陆续找到更好的武器，使玩家的火力与敌人的火力相匹配。当你的化身被杀死时，你就会失去高级武器。
+* [《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(franchise)), [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)), [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), and so on. First-person shooters (see Figure 8.10). As you progress through the game, successively better weapons can be found that scale the player's firepower with that of the enemy. You lose the advanced weapons when your avatar is killed.\
+[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(franchise))，[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))，[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))等。第一人称射击游戏（见图 8.10）。随着游戏进程的推进，玩家可以陆续找到更好的武器，使玩家的火力与敌人的火力相匹配。当你的化身被杀死时，你就会失去高级武器。
 
 Figure 8.10. Doom. 图 8.10. 《毁灭战士》。
 
 ![](.gitbook/assets/8.10.png)
 
-* The Sims. A "family simulator" that lets the player build and furnish a house and manage the family living within it (see Figure 8.11). For each household item you can purchase, there are upgrades available that function more efficiently. The more money you spend on an item, the more efficiently it does its job—it could take up less space, be prettier, or perform a double function.\
-《模拟人生》是一款“家庭模拟器”，让玩家建造和布置房屋，并管理住在其中的家人（见图 8.11）。每购买一件家居用品，都可以升级以提高功能效率。你在一件物品上花的钱越多，它的工作效率就越高——它可以占用更少的空间，变得更漂亮，或者实现双重功能。
+* [The Sims](https://en.wikipedia.org/wiki/The_Sims). A "family simulator" that lets the player build and furnish a house and manage the family living within it (see Figure 8.11). For each household item you can purchase, there are upgrades available that function more efficiently. The more money you spend on an item, the more efficiently it does its job—it could take up less space, be prettier, or perform a double function.\
+[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)是一款“家庭模拟器”，让玩家建造和布置房屋，并管理住在其中的家人（见图 8.11）。每购买一件家居用品，都可以升级以提高功能效率。你在一件物品上花的钱越多，它的工作效率就越高——它可以占用更少的空间，变得更漂亮，或者实现双重功能。
 
 Figure 8.11. The Sims. 图 8.11. 《模拟人生》。
 
@@ -483,9 +483,9 @@ The basic progression of a game is that it starts statically and dynamically bal
 
 游戏的基本进程是，它从静态和动态平衡开始，然后失去平衡，先是偏向一方，然后又偏向另一方。它像跷跷板一样来回摆动，先是一个玩家领先，然后是另一个玩家领先，直到最终有人领先太多，以至于其他人不可能追赶上来。
 
-Often, being ahead tends to make things easier for the player in that position and harder for the other. This is positive feedback that helps the leading player. That is, "the rich get richer and the poor get poorer," as in Monopoly. The more money you have, the more hotels you can put up, which produces more money, and so on. This is a desirable trait as long as it doesn't happen too fast and doesn't leave the player who's behind with no way to catch up. In chess, taking an opponent's piece gives the taker a slight advantage: The other side doesn't have that piece to play with anymore. But in Japanese chess, when you take an opponent's piece, you move it to your side of the board, and it becomes your piece (although it turns into a weaker piece). This confers an additional advantage: Not only does the enemy not have that piece, but you have an extra piece to play with. If you did this with Western chess, the games would be very short indeed.
+Often, being ahead tends to make things easier for the player in that position and harder for the other. This is positive feedback that helps the leading player. That is, "the rich get richer and the poor get poorer," as in [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). The more money you have, the more hotels you can put up, which produces more money, and so on. This is a desirable trait as long as it doesn't happen too fast and doesn't leave the player who's behind with no way to catch up. In chess, taking an opponent's piece gives the taker a slight advantage: The other side doesn't have that piece to play with anymore. But in Japanese chess, when you take an opponent's piece, you move it to your side of the board, and it becomes your piece (although it turns into a weaker piece). This confers an additional advantage: Not only does the enemy not have that piece, but you have an extra piece to play with. If you did this with Western chess, the games would be very short indeed.
 
-通常情况下，领先的一方往往会让处于该位置的一方更轻松，而另一方则更困难。这是一种正反馈，有助于领先的玩家。这就是《大富翁》中的“富者愈富，穷者愈穷”。你的钱越多，你就可以开更多的酒店，从而产生更多的钱，如此循环。这是一种可取的特性，只要它不会发生得太快，也不会让落后的玩家无从追赶。在国际象棋中，吃掉对方的棋子会给吃棋者带来一点优势：因为对方再也没有那个棋子可以玩了。但在日本象棋中，吃掉对方的棋子后，就会把它移到棋盘的自己一方，成为自己的棋子（尽管它变成了一个较弱的棋子）。这就赋予了额外的优势：不仅敌方没有了这颗棋子，自己也多了一颗棋子。如果在西洋棋中这样做，棋局确实会很短。
+通常情况下，领先的一方往往会让处于该位置的一方更轻松，而另一方则更困难。这是一种正反馈，有助于领先的玩家。这就是[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))中的“富者愈富，穷者愈穷”。你的钱越多，你就可以开更多的酒店，从而产生更多的钱，如此循环。这是一种可取的特性，只要它不会发生得太快，也不会让落后的玩家无从追赶。在国际象棋中，吃掉对方的棋子会给吃棋者带来一点优势：因为对方再也没有那个棋子可以玩了。但在日本象棋中，吃掉对方的棋子后，就会把它移到棋盘的自己一方，成为自己的棋子（尽管它变成了一个较弱的棋子）。这就赋予了额外的优势：不仅敌方没有了这颗棋子，自己也多了一颗棋子。如果在西洋棋中这样做，棋局确实会很短。
 
 Therefore, you want positive feedback so that the game will end eventually, but not too much. Most war games, for example [Warcraft](https://en.wikipedia.org/wiki/Warcraft), don't let you take and use enemy factories; they only let you damage and destroy them. If you could use enemy factories to build armies, the game would become unbalanced too quickly.
 
@@ -590,9 +590,9 @@ If the player was to stop interacting with the system, the unbalancing force wou
 
 如果玩家停止与系统互动，不平衡力量就会获胜。游戏的定义是，理想状态是两种对立力量之间的平衡位置。这种游戏没有获胜条件。如果对立力量持续增加，玩家迟早会输。
 
-An example of a game that uses this interaction model is Tetris (see Figure 8.15). The player must attempt to keep the playing field clear of blocks, and the opposing force relentlessly tries to fill the playing field with blocks. Success depends on maintaining the balance between the opposing forces. As the difficulty level increases, the speed with which the opposing force attempts to fill the playing area with blocks increases, and the player must work faster and harder to maintain the balance.
+An example of a game that uses this interaction model is [Tetris](https://en.wikipedia.org/wiki/Tetris) (see Figure 8.15). The player must attempt to keep the playing field clear of blocks, and the opposing force relentlessly tries to fill the playing field with blocks. Success depends on maintaining the balance between the opposing forces. As the difficulty level increases, the speed with which the opposing force attempts to fill the playing area with blocks increases, and the player must work faster and harder to maintain the balance.
 
-《俄罗斯方块》（见图 8.15）就是使用这种互动模式的一个游戏实例。玩家必须努力使游戏场地上没有方块，而对方则毫不留情地用方块填满游戏场地。成功与否取决于能否保持双方力量的平衡。随着难度的增加，对方试图用方块填满游戏区域的速度也会加快，玩家必须更快、更努力地保持平衡。
+[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)（见图 8.15）就是使用这种互动模式的一个游戏实例。玩家必须努力使游戏场地上没有方块，而对方则毫不留情地用方块填满游戏场地。成功与否取决于能否保持双方力量的平衡。随着难度的增加，对方试图用方块填满游戏区域的速度也会加快，玩家必须更快、更努力地保持平衡。
 
 Figure 8.15. Tetris. 图 8.15. 俄罗斯方块
 
@@ -733,9 +733,9 @@ A trivial decision is a no-brainer decision. Any decision that has only one logi
 
 琐碎的决定就是没有脑子的决定。任何只有一种逻辑结果的决定，或者结果对游戏世界没有实际影响的决定，都是琐事。玩家不应该被这些问题打扰。让电脑来处理，如有必要，事后再通知玩家。
 
-Sid Meier's Alpha Centauri handled this magnificently (see Figure 8.20). In this game, the player can choose to handle every decision in the game, from grand strategy all the way down to unit production and direction. In addition, the player can let a computer-controlled manager control the bases, and the player's units can be set to automatic control. The player has the choice to micromanage every aspect of the game, from the movements of an individual unit all the way up to the overall control of the planet. The important thing here is that the player is given the choice. Other games force the player to do all the micromanagement, whether they want to or not.
+[Sid Meier's Alpha Centauri](https://en.wikipedia.org/wiki/Sid_Meier%27s_Alpha_Centauri) handled this magnificently (see Figure 8.20). In this game, the player can choose to handle every decision in the game, from grand strategy all the way down to unit production and direction. In addition, the player can let a computer-controlled manager control the bases, and the player's units can be set to automatic control. The player has the choice to micromanage every aspect of the game, from the movements of an individual unit all the way up to the overall control of the planet. The important thing here is that the player is given the choice. Other games force the player to do all the micromanagement, whether they want to or not.
 
-《席德·梅尔的半人马座阿尔法》就很好地处理了这一点（见图 8.20）。在游戏中，玩家可以选择处理游戏中的每一个决策，从大战略一直到单位生产和方向。此外，玩家还可以让电脑控制的经理来控制基地，玩家的单位也可以设置为自动控制。玩家可以选择对游戏的方方面面进行微观管理，从单个单位的行动一直到对整个星球的控制。重要的是，玩家有选择权。而其他游戏则强迫玩家进行所有的微观管理，无论他们是否愿意。
+[《席德·梅尔的半人马座阿尔法》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Alpha_Centauri)就很好地处理了这一点（见图 8.20）。在游戏中，玩家可以选择处理游戏中的每一个决策，从大战略一直到单位生产和方向。此外，玩家还可以让电脑控制的经理来控制基地，玩家的单位也可以设置为自动控制。玩家可以选择对游戏的方方面面进行微观管理，从单个单位的行动一直到对整个星球的控制。重要的是，玩家有选择权。而其他游戏则强迫玩家进行所有的微观管理，无论他们是否愿意。
 
 Figure 8.20. Sid Meier's Alpha Centauri. 图 8.20. 《席德·梅尔的半人马座阿尔法》。
 
@@ -755,17 +755,17 @@ For an example of how you could use trivial decisions, consider a fictional cops
 
 ### Setting the Difficulty Level 设置难度级别
 
-The first time the players of your game come across balance is when they select the difficulty level. The standard for difficulty levels seems to have evolved into three (or sometimes four) distinct settings: easy, normal, hard, and nightmare (or similar assignations), popularized by the original Doom from id Software.
+The first time the players of your game come across balance is when they select the difficulty level. The standard for difficulty levels seems to have evolved into three (or sometimes four) distinct settings: easy, normal, hard, and nightmare (or similar assignations), popularized by the original [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) from id Software.
 
-游戏玩家第一次接触到平衡的时候，就是他们选择难度级别的时候。难度级别的标准似乎已经演变成三种（有时是四种）不同的设置：简单、普通、困难和噩梦（或类似的分配），这在 id Software 公司的原版《毁灭战士》中得到了普及。
+游戏玩家第一次接触到平衡的时候，就是他们选择难度级别的时候。难度级别的标准似乎已经演变成三种（有时是四种）不同的设置：简单、普通、困难和噩梦（或类似的分配），这在 id Software 公司的原版[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))中得到了普及。
 
 Traditionally, not all games have difficulty level settings. For example, adventure games tend to have only one difficulty level—for no good reason, as far as we can see—as do online-only games, although for more sensible reasons. After all, how do you assign a difficulty level to a world made up of avatars for real people? You could segregate players with different experience levels into different areas, graded according to their abilities with tougher monsters and tougher spells, but this doesn't really solve the problem—it just sidesteps it.
 
 传统上，并非所有游戏都有难度设置。例如，冒险游戏往往只有一个难度级别，这没有什么好的理由，就我们所见，在线游戏也是如此，尽管理由更为合理。毕竟，如何为一个由真人化身组成的世界分配难度等级呢？你可以把不同经验等级的玩家分到不同的区域，根据他们对付更难的怪物和更难的法术的能力来划分等级，但这并不能真正解决问题，而只是回避了这个问题。
 
-Other games have taken a more original approach to the difficulty level problem: self-adjusting games. These games tailor themselves to the player; the more skilled the player, the harder the game gets. Max Payne by Remedy Entertainment is a game that claims to implement this (see Figure 8.21). The only problem that we can see with dynamic difficulty level adjustment is the possibility of abuse of the system. After all, what is to stop a skilled player deliberately playing badly just before he gets to a really tough section of the game so the game will go easier on him when he gets there? After he's through the softened-up section, he can resume blasting with his prior skill level until he comes up to another tough section.
+Other games have taken a more original approach to the difficulty level problem: self-adjusting games. These games tailor themselves to the player; the more skilled the player, the harder the game gets. [Max Payne](https://en.wikipedia.org/wiki/Max_Payne_(video_game)) by Remedy Entertainment is a game that claims to implement this (see Figure 8.21). The only problem that we can see with dynamic difficulty level adjustment is the possibility of abuse of the system. After all, what is to stop a skilled player deliberately playing badly just before he gets to a really tough section of the game so the game will go easier on him when he gets there? After he's through the softened-up section, he can resume blasting with his prior skill level until he comes up to another tough section.
 
-其他游戏采用了一种更新颖的方法来解决难度问题：自动调节。这些游戏会根据玩家的情况进行自我调整；玩家越熟练，游戏就越难。Remedy Entertainment 公司的《马克思·佩恩》就是一款声称实现了这一功能的游戏（见图 8.21）。我们认为，动态难度调整的唯一问题是系统可能被滥用。毕竟，有什么办法能阻止一个技术高超的玩家在进入游戏的真正难点之前故意打得很差，这样游戏就会在他进入难点时对他放松一些呢？当他通过了难度降低的部分后，他就可以继续以先前的技术水平进行横扫，直到进入另一个艰难的部分。
+其他游戏采用了一种更新颖的方法来解决难度问题：自动调节。这些游戏会根据玩家的情况进行自我调整；玩家越熟练，游戏就越难。Remedy Entertainment 公司的[《马克思·佩恩》](https://en.wikipedia.org/wiki/Max_Payne_(video_game))就是一款声称实现了这一功能的游戏（见图 8.21）。我们认为，动态难度调整的唯一问题是系统可能被滥用。毕竟，有什么办法能阻止一个技术高超的玩家在进入游戏的真正难点之前故意打得很差，这样游戏就会在他进入难点时对他放松一些呢？当他通过了难度降低的部分后，他就可以继续以先前的技术水平进行横扫，直到进入另一个艰难的部分。
 
 Figure 8.21. Max Payne. 图 8.21. 《马克思·佩恩》
 
@@ -803,11 +803,11 @@ As long as the core rules are balanced, tweaking them slightly will probably not
 
 只要核心规则是平衡的，对其稍作调整可能不会对平衡产生不可预测的影响。但是，如果每个实体都遵守一套独立的规则，那么除了最简单的游戏外，修改一个实体就会独立于其他任何实体，这就有可能导致平衡问题。
 
-Take a game such as Ensemble's Age of Empires (see Figure 8.22). All the game entities are governed by the same rules; they have a large set of parameters used to configure those rules to distinguish each entity class. A change to one of these parameters does not require a corresponding code change. During development, the parameters were stored in a Paradox database. This allowed the designers to tweak parameters easily.
+Take a game such as Ensemble's [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires) (see Figure 8.22). All the game entities are governed by the same rules; they have a large set of parameters used to configure those rules to distinguish each entity class. A change to one of these parameters does not require a corresponding code change. During development, the parameters were stored in a Paradox database. This allowed the designers to tweak parameters easily.
 
-以 Ensemble 的《帝国时代》（Age of Empires）为例（见图 8.22）。所有的游戏实体都受相同规则的支配；它们有一大组参数用于配置这些规则，以区分每个实体类别。更改其中一个参数不需要修改相应的代码。在开发过程中，这些参数被存储在 Paradox 数据库中。这使得设计人员可以轻松调整参数。
+以 Ensemble 的[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)为例（见图 8.22）。所有的游戏实体都受相同规则的支配；它们有一大组参数用于配置这些规则，以区分每个实体类别。更改其中一个参数不需要修改相应的代码。在开发过程中，这些参数被存储在 Paradox 数据库中。这使得设计人员可以轻松调整参数。
 
-Figure 8.22. Age of Empires.
+Figure 8.22. Age of Empires. 图 8.22. 《帝国时代》。
 
 ![](.gitbook/assets/8.22.png)
 
