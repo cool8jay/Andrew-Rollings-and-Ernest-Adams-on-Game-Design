@@ -264,9 +264,9 @@ Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 《盖茨堡战役》。
 
 ![](.gitbook/assets/6.14.jpg)
 
-Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's Warcraft and Westwood's Command and Conquer series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
+Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's [Warcraft](https://en.wikipedia.org/wiki/Warcraft) and Westwood's Command and Conquer series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
 
-由于其通用性，以单位和群体为基础的界面已经发展到可以让玩家轻松控制这些群体。暴雪公司的《魔兽争霸》和西木公司的《命令与征服》系列等游戏改良了 RTS 游戏的标准界面，现在大多数游戏都遵循这一标准。左键单击选择一个单位，然后右键单击一个对象，选择一个上下文相关的操作，让该单位对该对象执行操作，这已经成为大多数 RTS 游戏玩家熟悉的操作。最近，单击-拖动选择一组单位的功能（直接从 Windows 操作系统中借用的方法）也被加入到了游戏中。
+由于其通用性，以单位和群体为基础的界面已经发展到可以让玩家轻松控制这些群体。暴雪公司的[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)和西木公司的《命令与征服》系列等游戏改良了 RTS 游戏的标准界面，现在大多数游戏都遵循这一标准。左键单击选择一个单位，然后右键单击一个对象，选择一个上下文相关的操作，让该单位对该对象执行操作，这已经成为大多数 RTS 游戏玩家熟悉的操作。最近，单击-拖动选择一组单位的功能（直接从 Windows 操作系统中借用的方法）也被加入到了游戏中。
 
 However, as these games have become more complex, ways of managing that complexity become needed. This has prompted a divergence in the interfaces, especially with respect to the camera control mechanisms in those games that give the player control of the camera (although why the player would want to control the camera is beyond us—except in special situations, that should be a job for the computer).
 
