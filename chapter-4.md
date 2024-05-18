@@ -409,9 +409,9 @@ During the ordeal, you might try to cement the player's bond with the hero furth
 
 在经历磨难的过程中，你可以尝试进一步巩固玩家与主人公之间的联系。有时，可以通过让英雄看起来几乎被打败，然后在看似不可能的情况下奋起反击，打败敌人来达到这一目的。
 
-In the ordeal, the hero faces the ultimate shadow. Defeat means failure, final and absolute. Victory means claiming the reward and the ultimate success. However, sometimes achieving victory is possible in many ways and at many levels, not all of them immediately obvious. For example, in the case of games such as LucasArts' [Jedi Knight](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight) series, it could mean deciding whether to fight the ultimate nemesis.
+In the ordeal, the hero faces the ultimate shadow. Defeat means failure, final and absolute. Victory means claiming the reward and the ultimate success. However, sometimes achieving victory is possible in many ways and at many levels, not all of them immediately obvious. For example, in the case of games such as [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games)' [Jedi Knight](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight) series, it could mean deciding whether to fight the ultimate nemesis.
 
-在这场磨难中，英雄面对的是终极阴影。战败意味着彻底而绝对的失败，而胜利则意味着夺取奖励并获得最终的成功。然而，有时候取得胜利可以通过多种方式和多个层面实现，并非所有方式都是直白明显。例如，在 LucasArts 的[《绝地武士》](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight)系列等游戏中，这可能意味着决定是否与终极敌人作战。
+在这场磨难中，英雄面对的是终极阴影。战败意味着彻底而绝对的失败，而胜利则意味着夺取奖励并获得最终的成功。然而，有时候取得胜利可以通过多种方式和多个层面实现，并非所有方式都是直白明显。例如，在 [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games) 的[《绝地武士》](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight)系列等游戏中，这可能意味着决定是否与终极敌人作战。
 
 ### The Reward 奖励
 

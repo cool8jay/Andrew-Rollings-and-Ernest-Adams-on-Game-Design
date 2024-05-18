@@ -172,9 +172,9 @@ Figure 6.5. Escape from Monkey Island. 图 6.5. 《逃离猴岛》。
 
 ![](.gitbook/assets/6.5.jpg)
 
-There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is LucasArts's [Maniac Mansion: Day of the Tentacle](https://en.wikipedia.org/wiki/Day_of_the_Tentacle), shown in Figure 6.6.
+There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games)'s [Maniac Mansion: Day of the Tentacle](https://en.wikipedia.org/wiki/Day_of_the_Tentacle), shown in Figure 6.6.
 
-目前使用的界面主要有两种模式。第一种是基于文本或图标的分屏界面，玩家在屏幕的选择区选择操作，并在屏幕的结果区观看结果。LucasArts 公司的[《疯狂豪宅：触手也疯狂》](https://en.wikipedia.org/wiki/Day_of_the_Tentacle)就是采用这种形式的游戏，如图 6.6 所示。
+目前使用的界面主要有两种模式。第一种是基于文本或图标的分屏界面，玩家在屏幕的选择区选择操作，并在屏幕的结果区观看结果。[LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games) 公司的[《疯狂豪宅：触手也疯狂》](https://en.wikipedia.org/wiki/Day_of_the_Tentacle)就是采用这种形式的游戏，如图 6.6 所示。
 
 Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 《疯狂豪宅：触手也疯狂》
 

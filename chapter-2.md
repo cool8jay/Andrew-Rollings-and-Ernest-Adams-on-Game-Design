@@ -40,9 +40,9 @@ Figure 2.1. [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776) was
 
 ![](.gitbook/assets/2.1.jpg)
 
-You can't, of course, go stealing other people's intellectual property. Even if the Pirates of the Caribbean ride at Disneyland seems like the basis for a great game, you can't go ahead and make it without Disney's approval. But you can certainly make a lighthearted game about pirates—as LucasArts did with its [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series.
+You can't, of course, go stealing other people's intellectual property. Even if the Pirates of the Caribbean ride at Disneyland seems like the basis for a great game, you can't go ahead and make it without Disney's approval. But you can certainly make a lighthearted game about pirates—as [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games) did with its [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series.
 
-当然，你不能窃取他人的知识产权。即使迪士尼乐园的“加勒比海盗”游乐设施看起来是一款伟大游戏的基础，你也不能在没有迪士尼公司批准的情况下就去制作它。但你当然可以制作一款轻松愉快的海盗题材游戏——就像 LucasArts 的[《猴岛》](https://en.wikipedia.org/wiki/Monkey_Island)系列那样。
+当然，你不能窃取他人的知识产权。即使迪士尼乐园的“加勒比海盗”游乐设施看起来是一款伟大游戏的基础，你也不能在没有迪士尼公司批准的情况下就去制作它。但你当然可以制作一款轻松愉快的海盗题材游戏——就像 [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games) 的[《猴岛》](https://en.wikipedia.org/wiki/Monkey_Island)系列那样。
 
 You should also look beyond the usual science fiction and fantasy genres and beyond the usual sources. How about poetry? Beowulf's epic battle with the monster Grendel and then his even more terrible battle with Grendel's mother in a cave at the bottom of a lake sounds like the basis for a game. “The Charge of the Light Brigade” might make you wonder about cavalry tactics. What are the advantages and disadvantages? Would a game based on cavalry warfare be interesting to anyone? It's worth thinking about. The smash-hit game [The Sims](https://en.wikipedia.org/wiki/The_Sims) was partly inspired by a nonfiction book called A Pattern Language, which is about the way people's lives are affected by the design of their houses.
 
