@@ -1,8 +1,8 @@
-Using well-defined characters in games has been with us since the earliest days of computer gaming and is becoming increasingly sophisticated as time goes on. The days of anonymous blobs of pixels, such as the gunfighters in the early arcade game Gunfight (shown in Figure 5.1), are far behind us. Originally, it was fairly difficult to get any real characterization into a monochrome 32-pixel-high figure, but with the increasing capabilities of game hardware, the question of characterization becomes increasingly important. Note that text games had no such problem with characterization (but the graphical aspects were not at all important); the main practical limits that affected this particular genre were the skills of the author/designer.
+Using well-defined characters in games has been with us since the earliest days of computer gaming and is becoming increasingly sophisticated as time goes on. The days of anonymous blobs of pixels, such as the gunfighters in the early arcade game [Gun Fight](https://en.wikipedia.org/wiki/Gun_Fight) (shown in Figure 5.1), are far behind us. Originally, it was fairly difficult to get any real characterization into a monochrome 32-pixel-high figure, but with the increasing capabilities of game hardware, the question of characterization becomes increasingly important. Note that text games had no such problem with characterization (but the graphical aspects were not at all important); the main practical limits that affected this particular genre were the skills of the author/designer.
 
-自电脑游戏诞生之初，我们就开始在游戏中使用定义明确的角色，而且随着时间的推移，这些角色也变得越来越复杂。像早期街机游戏《枪战》（如图 5.1 所示）中的枪手那样，使用简单像素块的时代已经一去不复返了。最初，要在一个 32 像素高的单色角色形象中表现出真正的人物性格是相当困难的，但随着游戏硬件功能的不断增强，人物性格的问题变得越来越重要。需要注意的是，文字游戏在角色塑造方面不存在这样的问题（但图形方面并不重要）；影响这种特殊类型游戏的主要实际限制在于作者/设计者的技能。
+自电脑游戏诞生之初，我们就开始在游戏中使用定义明确的角色，而且随着时间的推移，这些角色也变得越来越复杂。像早期街机游戏[《枪战》](https://en.wikipedia.org/wiki/Gun_Fight)（如图 5.1 所示）中的枪手那样，使用简单像素块的时代已经一去不复返了。最初，要在一个 32 像素高的单色角色形象中表现出真正的人物性格是相当困难的，但随着游戏硬件功能的不断增强，人物性格的问题变得越来越重要。需要注意的是，文字游戏在角色塑造方面不存在这样的问题（但图形方面并不重要）；影响这种特殊类型游戏的主要实际限制在于作者/设计者的技能。
 
-Figure 5.1. Gunfight. 图 5.1. 《枪战》。
+Figure 5.1. Gun Fight. 图 5.1. 《枪战》。
 
 ![](/.gitbook/assets/5.1.png)
 
@@ -26,9 +26,9 @@ Let's take a look at art-driven design in a little more detail. Historically, ar
 
 ## Visual Design 视觉设计
 
-The design of the central character in Pac-Man was purely artistic. The game designer, Toru Iwatani, was allegedly inspired by a pizza with one slice removed. Other famous game characters were also born this way: Lara Croft started life as the artist's dream girl and quickly became the "larger than life" heroine that we all know today. (This is despite the fact that somebody with those "proportions" would be unlikely to be as athletic as that—and would most likely run into a few lower-back problems in later life. But this is the games industry: Realism doesn't matter—self-consistency does.)
+The design of the central character in [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) was purely artistic. The game designer, Toru Iwatani, was allegedly inspired by a pizza with one slice removed. Other famous game characters were also born this way: Lara Croft started life as the artist's dream girl and quickly became the "larger than life" heroine that we all know today. (This is despite the fact that somebody with those "proportions" would be unlikely to be as athletic as that—and would most likely run into a few lower-back problems in later life. But this is the games industry: Realism doesn't matter—self-consistency does.)
 
-《吃豆人》中，中心人物的设计纯粹是艺术性的。据称，游戏设计师岩谷彻的设计灵感来自于一块被削去一块的披萨。其他有名的游戏角色也是这样诞生的：劳拉·克劳馥一开始只是艺术家的梦中情人，但很快就成为了我们今天所熟知的“超凡脱俗”的女主角。(尽管拥有这样“身材比例”的人不可能有那么好的运动能力，而且很可能在日后的生活中患上一些腰背疾病。但这就是游戏产业：真实性并不重要，重要的是自我一致性）。
+[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)中，中心人物的设计纯粹是艺术性的。据称，游戏设计师岩谷彻的设计灵感来自于一块被削去一块的披萨。其他有名的游戏角色也是这样诞生的：劳拉·克劳馥一开始只是艺术家的梦中情人，但很快就成为了我们今天所熟知的“超凡脱俗”的女主角。(尽管拥有这样“身材比例”的人不可能有那么好的运动能力，而且很可能在日后的生活中患上一些腰背疾病。但这就是游戏产业：真实性并不重要，重要的是自我一致性）。
 
 Characters that are developed from a purely artistic source tend to be far more superficial and one-dimensional than those sourced from a story-based design. In fact, we could say that they are the bimbos (or himbos—no sexism here!) of the games industry. This is not necessarily a bad thing. For many games, we simply do not need well-developed characters. It's far better to leave the character as a blank slate and let the player impose his own personality. This can aid the sense of game immersion greatly and is often the superior method, compared to trying to force a player to accept the role of a fully fleshed-out character. Even those games in which the player has a predefined character tend to be deliberately scant on background details, just so that the player won't have to change personalities to fit into the hero's skin. A small paragraph of backstory might give the player some direction, but trying to force a player into a role that does not appeal to her is futile.
 
@@ -52,9 +52,9 @@ Cuteness works well, too. Some games attempt to bring out the player's protectiv
 
 可爱同样很有效。有些游戏试图激发玩家的保护欲。在这些游戏中，主人公几乎超自然地可爱，这使得玩家对主人公产生共鸣，就像自己喜欢的宠物或婴儿产生共鸣一样。
 
-Compared to fully grown animals, baby animals have large heads and eyes with respect to their body sizes. This can be exploited by a knowledgeable designer to create a "cute-appeal." Usually, this approach is aimed specifically at the younger game players. Targeting the younger gamer with the sexual approach would probably draw unwanted attention from the censors, so, for the most part, this is avoided. Super Monkey Ball (shown in Figure 5.2) uses the cute approach to good effect.
+Compared to fully grown animals, baby animals have large heads and eyes with respect to their body sizes. This can be exploited by a knowledgeable designer to create a "cute-appeal." Usually, this approach is aimed specifically at the younger game players. Targeting the younger gamer with the sexual approach would probably draw unwanted attention from the censors, so, for the most part, this is avoided. [Super Monkey Ball](https://en.wikipedia.org/wiki/Super_Monkey_Ball) (shown in Figure 5.2) uses the cute approach to good effect.
 
-与成年动物相比，幼年动物的头部和眼睛相对于其体型都比较大。知识渊博的设计师可以利用这一点来创造“可爱吸引力”。通常，这种方法专门针对年轻玩家。针对年轻玩家，以性吸引力为目标的策略很可能会引起审查机构的注意，因此，在大多数情况下，这种设计都是被避免的。《超级猴子球》（如图 5.2 所示）采用了可爱的方式，效果很好。
+与成年动物相比，幼年动物的头部和眼睛相对于其体型都比较大。知识渊博的设计师可以利用这一点来创造“可爱吸引力”。通常，这种方法专门针对年轻玩家。针对年轻玩家，以性吸引力为目标的策略很可能会引起审查机构的注意，因此，在大多数情况下，这种设计都是被避免的。[《超级猴子球》](https://en.wikipedia.org/wiki/Super_Monkey_Ball)（如图 5.2 所示）采用了可爱的方式，效果很好。
 
 Figure 5.2. Super Monkey Ball. 图 5.2. 《超级猴子球》。
 
@@ -76,9 +76,9 @@ Art styles vary wildly among different cultures, particularly for characters. Ja
 
 不同文化的艺术风格千差万别，尤其是人物形象。日本动漫中的人物通常眼睛很大，嘴巴很小，但有时喊叫时嘴巴会膨胀得很大，这在美国人看来很怪异。欧洲的卡通人物在美国人看来也常常是丑陋和怪异的。阿斯特里克斯和丁丁是两个例外。
 
-Care must be taken with the super-sensuality approach to character design because it can backfire badly. We're sure a few of you will remember Bubsy the Bobcat. Bubsy fell out of that oft-forgotten (and rightly so) area of design—market-driven "me too" character design. At the time Bubsy was spawned, there had been a run of successful games based around cute characters. The end result was a hideously cynical "cute" character in a stereotypically poor platform game à la Sonic. Note that we believe that Sonic was a brilliant platform game, as platform games go—attractive, quite variable from level to level, and relatively nonviolent. The Bubsy series of games (see Figure 5.4) was a pale imitation of this, and the designers didn't understand exactly what made the Sonic games so good. The character of Bubsy simply wasn't appealing enough to save them. Contrast this with a game series such as Crash Bandicoot, in which the games are good and the character is appealing.
+Care must be taken with the super-sensuality approach to character design because it can backfire badly. We're sure a few of you will remember [Bubsy the Bobcat](https://en.wikipedia.org/wiki/Bubsy) . Bubsy fell out of that oft-forgotten (and rightly so) area of design—market-driven "me too" character design. At the time Bubsy was spawned, there had been a run of successful games based around cute characters. The end result was a hideously cynical "cute" character in a stereotypically poor platform game à la [Sonic](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog). Note that we believe that [Sonic](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog) was a brilliant platform game, as platform games go—attractive, quite variable from level to level, and relatively nonviolent. The Bubsy series of games (see Figure 5.4) was a pale imitation of this, and the designers didn't understand exactly what made the [Sonic](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog) games so good. The character of Bubsy simply wasn't appealing enough to save them. Contrast this with a game series such as [Crash Bandicoot](https://en.wikipedia.org/wiki/Crash_Bandicoot), in which the games are good and the character is appealing.
 
-在使用超感官体验方法进行角色设计时必须小心，因为它可能会产生严重的反向效果。我们相信你们中的一些人还记得大笨猫。大笨猫属于那个经常被遗忘（理应如此）的设计领域——设计市场驱动的“跟风”角色设计。在《大笨猫》诞生的时候，已经有不少以可爱角色为题材的游戏大获成功。最终的结果是，在千篇一律的劣质平台游戏中，出现了一个玩世不恭的“可爱”角色，就像《索尼克》一样。请注意，我们认为《索尼克》是一款出色的平台游戏——吸引人、关卡设计多样，且相对非暴力。而大笨猫系列游戏（见图 5.4）则是对它的苍白模仿，设计者并没有完全理解《索尼克》出色的原因。大笨猫这个角色本身并不足以吸引人，无法拯救这个系列。与此形成鲜明对比的是像《古惑狼》这样的游戏系列，后者游戏本身很好，角色也很吸引人。
+在使用超感官体验方法进行角色设计时必须小心，因为它可能会产生严重的反向效果。我们相信你们中的一些人还记得大笨猫。大笨猫属于那个经常被遗忘（理应如此）的设计领域——设计市场驱动的“跟风”角色设计。在[《大笨猫》](https://en.wikipedia.org/wiki/Bubsy) 诞生的时候，已经有不少以可爱角色为题材的游戏大获成功。最终的结果是，在千篇一律的劣质平台游戏中，出现了一个玩世不恭的“可爱”角色，就像[《索尼克》](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog)一样。请注意，我们认为[《索尼克》](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog)是一款出色的平台游戏——吸引人、关卡设计多样，且相对非暴力。而大笨猫系列游戏（见图 5.4）则是对它的苍白模仿，设计者并没有完全理解[《索尼克》](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog)出色的原因。大笨猫这个角色本身并不足以吸引人，无法拯救这个系列。与此形成鲜明对比的是像[《古惑狼》](https://en.wikipedia.org/wiki/Crash_Bandicoot)这样的游戏系列，后者游戏本身很好，角色也很吸引人。
 
 Figure 5.4. Bubsy the Bobcat. 图 5.4. 《大笨猫》。
 
@@ -94,21 +94,21 @@ This form of design has a number of secondary contributing characteristics. The 
 
 这种设计形式有一些次要特点。首要的考虑因素是目标平台的限制。百万多边形渲染的三维模型可能看起来很棒，但 64 像素高的精灵看起来就不那么吸引人了。因此，美术驱动角色的外观（显然）会受到显示技术的影响。
 
-The design of the art-driven characters is dependent upon the flavor of the game. You have to consider the target audience when you're deciding upon the style of the characters. For example, the adjectives cute and scary will mean two different things to a 5-year-old and a 25-year-old. Resident Evil-style monsters certainly won't go down well in a Mario-esque style of adventure.
+The design of the art-driven characters is dependent upon the flavor of the game. You have to consider the target audience when you're deciding upon the style of the characters. For example, the adjectives cute and scary will mean two different things to a 5-year-old and a 25-year-old. [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil)-style monsters certainly won't go down well in a Mario-esque style of adventure.
 
-美术驱动角色的设计取决于游戏的风格。在决定角色风格时，必须考虑目标受众。例如，对于 5 岁的孩子和 25 岁的成年人来说，“可爱”和“可怕”这两个形容词意味着两种不同的东西。类似《生化危机》风格的怪物在类似《马里奥》风格的冒险游戏中肯定不受欢迎。
+美术驱动角色的设计取决于游戏的风格。在决定角色风格时，必须考虑目标受众。例如，对于 5 岁的孩子和 25 岁的成年人来说，“可爱”和“可怕”这两个形容词意味着两种不同的东西。类似[《生化危机》](https://en.wikipedia.org/wiki/Resident_Evil)风格的怪物在类似《马里奥》风格的冒险游戏中肯定不受欢迎。
 
-An interesting twist on this unwritten rule was presented in the form of Conker's Bad Fur Day, shown in Figure 5.6. Rare transplanted their cute children's characters into an adult-oriented game. Well, to be more accurate, it was a preteen vulgar, humor-oriented game but that's probably due to the difficulty of taking cute children's characters into an adult world. This form of toilet humor is very British in style and doesn't necessarily translate well to the rest of the world. Fighting the poo monster really appeals to only a certain subset of the intended audience. Note that the reverse would not apply—you couldn't put realistic Resident Evil-style characters in a children's game. It's a one-way transformation.
+An interesting twist on this unwritten rule was presented in the form of [Conker's Bad Fur Day](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day), shown in Figure 5.6. Rare transplanted their cute children's characters into an adult-oriented game. Well, to be more accurate, it was a preteen vulgar, humor-oriented game but that's probably due to the difficulty of taking cute children's characters into an adult world. This form of toilet humor is very British in style and doesn't necessarily translate well to the rest of the world. Fighting the poo monster really appeals to only a certain subset of the intended audience. Note that the reverse would not apply—you couldn't put realistic [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil)-style characters in a children's game. It's a one-way transformation.
 
-图 5.6 所示的《松鼠库克倒霉的一天》对这一不成文的规则进行了有趣的改动。Rare 公司把他们可爱的儿童角色移植到了一款面向成人的游戏中。更准确地说，这是一个面向青少年的、带有粗俗幽默元素的游戏，但这可能是因为将可爱的儿童角色带入成人世界存在困难。这种厕所幽默的风格非常具有英国特色，并不一定能够很好地翻译到世界其他地方。与“大便怪物”战斗，只能吸引一部分受众。请注意，反过来则不适用——你不能把《生化危机》式的逼真角色放到儿童游戏中。这是一种单向的转变。
+图 5.6 所示的[《松鼠库克倒霉的一天》](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day)对这一不成文的规则进行了有趣的改动。Rare 公司把他们可爱的儿童角色移植到了一款面向成人的游戏中。更准确地说，这是一个面向青少年的、带有粗俗幽默元素的游戏，但这可能是因为将可爱的儿童角色带入成人世界存在困难。这种厕所幽默的风格非常具有英国特色，并不一定能够很好地翻译到世界其他地方。与“大便怪物”战斗，只能吸引一部分受众。请注意，反过来则不适用——你不能把[《生化危机》](https://en.wikipedia.org/wiki/Resident_Evil)式的逼真角色放到儿童游戏中。这是一种单向的转变。
 
 Figure 5.6. Conker's Bad Fur Day. 图 5.6. 《松鼠库克倒霉的一天》。
 
 ![](/.gitbook/assets/5.6.png)
 
-Another series of games that has attempted the same sort of thing (although without the humor quotient) is Nintendo's Starfox series. Here, the hero, Fox McCloud, and supporting characters are anthropomorphized animals. This is a common approach in literature. Many stories have used this approach, with The Wind in the Willows being a well-known example.
+Another series of games that has attempted the same sort of thing (although without the humor quotient) is Nintendo's [Starfox](https://en.wikipedia.org/wiki/Star_Fox) series. Here, the hero, Fox McCloud, and supporting characters are anthropomorphized animals. This is a common approach in literature. Many stories have used this approach, with The Wind in the Willows being a well-known example.
 
-任天堂的《星际火狐》系列游戏也曾尝试过同样的做法（虽然没有幽默感）。在这个系列中，主人公福克斯·麦克劳德和配角都是拟人化的动物。这是文学作品中常见的手法。许多故事都采用了这种方法，《柳林风声》就是一个著名的例子。
+任天堂的[《星际火狐》](https://en.wikipedia.org/wiki/Star_Fox)系列游戏也曾尝试过同样的做法（虽然没有幽默感）。在这个系列中，主人公福克斯·麦克劳德和配角都是拟人化的动物。这是文学作品中常见的手法。许多故事都采用了这种方法，《柳林风声》就是一个著名的例子。
 
 ## Cute Sidekicks 可爱的帮手
 
@@ -116,9 +116,9 @@ Art-driven character design gives probably the most prominent common element in 
 
 美术驱动的角色设计可能提供了游戏设计中最突出的共同元素：可爱的主角，以及可能伴随的助手。
 
-This doesn't always jell as well as it should. For example, Sonic and Tails didn't work well together as a team because Sonic was much faster than Tails and kept running away from him. In other cases, alternative approaches give more success. Even though Banjo and Kazooie are separate entities, they were really only one player avatar; they just worked together inseparably. Link's fairy in the Zelda games served as a sort of tutorial and hint system. Morte in Planescape: Torment told the player a lot of background information in a funny, wise-guy style, but he was a character in his own right as well.
+This doesn't always jell as well as it should. For example, Sonic and Tails didn't work well together as a team because Sonic was much faster than Tails and kept running away from him. In other cases, alternative approaches give more success. Even though Banjo and Kazooie are separate entities, they were really only one player avatar; they just worked together inseparably. Link's fairy in the [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) games served as a sort of tutorial and hint system. Morte in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) told the player a lot of background information in a funny, wise-guy style, but he was a character in his own right as well.
 
-这并不总是那么完美。例如，索尼克和塔尔斯的团队合作并不顺利，因为索尼克比塔尔斯快得多，并且总是跑在他前面。在其他情况下，另辟蹊径则能取得更大的成功。尽管班卓和卡祖伊是独立的实体，但他们实际上只是一个玩家的化身；他们只是不可分割地一起工作。在《塞尔达》游戏中，林克的精灵充当了一种教程和提示系统。在《异域镇魂曲》中，莫特（Morte）以一种有趣、睿智的风格向玩家讲述了大量的背景信息，但他本身也是一个角色。
+这并不总是那么完美。例如，索尼克和塔尔斯的团队合作并不顺利，因为索尼克比塔尔斯快得多，并且总是跑在他前面。在其他情况下，另辟蹊径则能取得更大的成功。尽管班卓和卡祖伊是独立的实体，但他们实际上只是一个玩家的化身；他们只是不可分割地一起工作。在[《塞尔达》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)游戏中，林克的精灵充当了一种教程和提示系统。在[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中，莫特（Morte）以一种有趣、睿智的风格向玩家讲述了大量的背景信息，但他本身也是一个角色。
 
 Unfortunately, for cute-style characters at least, art-based design seems to have degenerated into an unoriginal money-chasing exercise. "Can we appeal to the kiddie demographic? Can we get the right mix of cute with 'tude?" Switch on the Cartoon Network for 30 minutes, and you'll see all the evidence you need: Powerpuff Girls, Dexter's Laboratory, Spongebob Squarepants, and the rest. You name it, it's there. The evidence is there in the games industry as well. Everyone's looking for the next big cute phenomenon. Check out Spyro the Dragon and Jak and Daxter, or any one of the plethora of other examples. It wouldn't be so bad if it were a new concept, but it's been around since the dawn of the industry. Figure 5.7 shows a fairly early example.
 
@@ -126,21 +126,19 @@ Unfortunately, for cute-style characters at least, art-based design seems to hav
 
 不幸的是，至少对于可爱风格的角色来说，基于美术的设计似乎已经退化成了一种缺乏原创性、追逐金钱的行为。“我们能吸引儿童群体吗？我们能正确地混合可爱与‘态度’吗？”打开卡通频道看 30 分钟，你就会看到所有你需要的证据：《飞天小女警》、《德克斯特的实验室》、《海绵宝宝》等等。你说得出的，那里都有。游戏行业也是如此。每个人都在寻找下一个大型的可爱现象。看看《小龙斯派罗》和《杰克与达克斯特》，或者无数其他例子中的任何一个。如果这是一个新概念，情况还不会这么糟糕，但它从游戏产业诞生以来就一直存在。图 5.7 展示了一个相当早期的例子。
 
-Figure 5.7. Head and Heels from Head over Heels. 图 5.7. 《头与脚跟》的头和高跟鞋。
+Figure 5.7. Head and Heels from Head over Heels. 图 5.7. 《狗狗迷宫》的头仔和脚仔。
 
 ![](/.gitbook/assets/5.7.png)
 
 These two characters, Head and Heels, are buddies fighting against the evil emperor. The only difference between these two and the majority of today's examples is the originality in the relationship between the two characters: Head and Heels are both symbiotic creatures. Head can jump and glide, and Heels can run fast. When they are linked together, they combine their abilities and can solve problems that would be impossible to achieve individually. The difference between Head and Heels and the rest of the cute brigade is that Head and Heels actually had unique characteristics that made an original difference to the gameplay.
 
-这两个人物，"头"和"脚跟"，是对抗邪恶皇帝的伙伴。这两个角色与今天大多数例子的唯一区别在于两个角色之间关系的独创性：头和高跟鞋都是共生生物。头 "可以跳跃和滑行，"脚后跟 "可以快速奔跑。当它们联结在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头和高跟鞋》与其他可爱游戏的不同之处在于，《头和高跟鞋》实际上具有独一无二的特性，使游戏玩法与众不同。
-
-这两个角色，“头”和“脚跟”，是对抗邪恶皇帝的伙伴。这两个角色与当今大多数例子之间的唯一区别在于两个角色之间关系的独特性：头和高跟鞋都是共生生物。头可以跳跃和滑翔，而脚跟可以快速奔跑。当它们连接在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头和脚跟与其他可爱角色组合的区别在于，头和脚跟实际上具有独特的特征，使游戏玩法与众不同。
+这两个角色，头仔和脚仔，是对抗邪恶皇帝的伙伴。这两个角色与当今大多数例子之间的唯一区别在于两个角色之间关系的独特性：头仔和脚仔都是共生生物。头仔可以跳跃和滑行，而脚仔可以快速奔跑。当它们连接在一起时，就能将各自的能力结合起来，解决单独行动无法解决的问题。头仔和脚仔与其他可爱角色组合的区别在于，头仔和脚仔跟实际上具有独一无二的特征，使游戏玩法与众不同。
 
 > **NOTE 注意**
 > 
 > To an extent, this was also true of Banjo and Kazooie. Even though they were implemented as a single avatar (much like Head and Heels when joined), each had individual abilities that complemented the other's.
 > 
-> 某种程度上，班卓和卡祖伊也是如此。尽管他们是作为一个化身（就像“头”和“脚跟”合体时一样）实现的，但每个化身都有各自的能力，与对方的能力相辅相成。
+> 某种程度上，班卓和卡祖伊也是如此。尽管他们是作为一个化身（就像头仔和脚仔合体时一样）实现的，但每个化身都有各自的能力，与对方的能力相辅相成。
 
 Most of the examples from today are just minor variations on a rather old theme. At least try to inject some originality into it. Don't just go for the "It's like Sonic, except that he's called Phaser and he's a Porcupine!" approach.
 
@@ -166,9 +164,9 @@ The best approach to developing a well-fleshed-out character is to start with th
 
 要塑造一个丰满的人物形象，最好的办法是从人物背后的故事入手，在考虑人物外貌之前，先塑造人物的特征和个性。通常美工人员更喜欢根据这样的详细描述进行创作；这能让他们真正理解角色并将其形象化。
 
-Even games that you would not expect to have fully developed characters can gain much by including them. Consider the multi-format title SSX Tricky , shown in Figure 5.8. This is an extreme sports snowboarding game that pays attention to character development. The player is allowed to make friends, foster rivalries, and enhance her character throughout the game. The addition of this storylike element enhances the game above the simple level of a straight sports game. The player chooses the preferred character and begins to identify with her. This causes a greater sense of immersion in the game--and best of all, it's not prescripted. The player can choose who to make friends with and who to antagonize, and it does have an effect on the gameplay. You can be sure that anyone who you make an enemy of will try their hardest to sabotage your run--and there will be a few sharp words exchanged at the finish line.
+Even games that you would not expect to have fully developed characters can gain much by including them. Consider the multi-format title [SSX Tricky](https://en.wikipedia.org/wiki/SSX_Tricky) , shown in Figure 5.8. This is an extreme sports snowboarding game that pays attention to character development. The player is allowed to make friends, foster rivalries, and enhance her character throughout the game. The addition of this storylike element enhances the game above the simple level of a straight sports game. The player chooses the preferred character and begins to identify with her. This causes a greater sense of immersion in the game--and best of all, it's not prescripted. The player can choose who to make friends with and who to antagonize, and it does have an effect on the gameplay. You can be sure that anyone who you make an enemy of will try their hardest to sabotage your run--and there will be a few sharp words exchanged at the finish line.
 
-即使是那些你不会想到会有完整的角色的游戏，也可以通过加入角色来获得很多东西。请看图 5.8 所示的跨平台游戏《疾风滑雪》。这是一款注重角色发展的极限运动单板滑雪游戏。在整个游戏过程中，玩家可以结交朋友、培养对手并强化自己的角色。这种故事性元素的加入使游戏超越了单纯的体育游戏。玩家选择了喜欢的角色，并开始认同她。这让玩家更有身临其境的感觉——最重要的是，这不是预设的。玩家可以选择与谁交朋友，与谁作对，这确实会对游戏产生影响。可以肯定的是，任何与你为敌的人都会竭力破坏你的比赛——在终点线上也会有一些尖锐的言语交锋。
+即使是那些你不会想到会有完整的角色的游戏，也可以通过加入角色来获得很多东西。请看图 5.8 所示的跨平台游戏[《疾风滑雪》](https://en.wikipedia.org/wiki/SSX_Tricky)。这是一款注重角色发展的极限运动单板滑雪游戏。在整个游戏过程中，玩家可以结交朋友、培养对手并强化自己的角色。这种故事性元素的加入使游戏超越了单纯的体育游戏。玩家选择了喜欢的角色，并开始认同她。这让玩家更有身临其境的感觉——最重要的是，这不是预设的。玩家可以选择与谁交朋友，与谁作对，这确实会对游戏产生影响。可以肯定的是，任何与你为敌的人都会竭力破坏你的比赛——在终点线上也会有一些尖锐的言语交锋。
 
 Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》。
 
@@ -178,13 +176,13 @@ Admittedly, it's not complex stuff—it could be taken further—but it's refres
 
 诚然，这并不是什么复杂的东西——它还可以更进一步——但令人耳目一新的是，这种尝试在以前闻所未闻的游戏中出现了。角色之间的互动是故事最有趣的方面之一，有时甚至比实际情节更有趣。虽然情节详细描述了故事的发展轨迹（我们将在下一章介绍），但角色之间的互动却增添了许多韵味和微妙之处，使精心制作的故事与五年级的英语作文不同。
 
-One of the major problems with the games industry when it comes to character design and story content is our unoriginality. We are quite content to plagiarize our characters wholesale from other media, and we are almost afraid to develop original characters in their own right. For example, Lara Croft is simply a female version of Indiana Jones, except that she doesn't have anything like the depth of Indy—his vulnerability, weak spots, and so on. If he is two-dimensional, then she is one-dimensional. Lara eminently demonstrates that not only are we ripping off the movies, we're also doing a bad job of ripping off the movies, as far as characterization goes.
+One of the major problems with the games industry when it comes to character design and story content is our unoriginality. We are quite content to plagiarize our characters wholesale from other media, and we are almost afraid to develop original characters in their own right. For example, Lara Croft is simply a female version of [Indiana Jones](https://en.wikipedia.org/wiki/Indiana_Jones), except that she doesn't have anything like the depth of Indy—his vulnerability, weak spots, and so on. If he is two-dimensional, then she is one-dimensional. Lara eminently demonstrates that not only are we ripping off the movies, we're also doing a bad job of ripping off the movies, as far as characterization goes.
 
-在角色设计和故事内容方面，游戏业的一个主要问题是我们缺乏原创性。我们很满足于全盘抄袭其他媒体中的角色，几乎不敢开发自己的原创角色。例如，劳拉·克劳馥只是女性版的《夺宝奇兵》，只是她没有印第那样的深度——他的弱点、缺陷等等。如果说他是二维的，那么她就是一维的。劳拉充分说明，就人物塑造而言，我们不仅在模仿电影，而且模仿得很糟糕。
+在角色设计和故事内容方面，游戏业的一个主要问题是我们缺乏原创性。我们很满足于全盘抄袭其他媒体中的角色，几乎不敢开发自己的原创角色。例如，劳拉·克劳馥只是女性版的[《夺宝奇兵》](https://en.wikipedia.org/wiki/Indiana_Jones)，只是她没有印第那样的深度——他的弱点、缺陷等等。如果说他是二维的，那么她就是一维的。劳拉充分说明，就人物塑造而言，我们不仅在模仿电影，而且模仿得很糟糕。
 
-Joanna Dark (from Perfect Dark) is a female version of James Bond (or any other secret agent you prefer). As the industry gets bigger, game designers can no longer borrow ideas wholesale from other industries. They will need to carry themselves as an original art form, unless they want to suffer the same fate as the British movie industry—meagerly surviving on borrowed concepts (and borrowed time). Of course, this is a black picture to paint and is unlikely to come about in the extreme case. The games industry has survived one big crash so far, back when Atari went down the pan, and the resulting slow consolidation of the bulk of the industry into a small group of giant conglomerated corporations has done little to aid creativity.
+Joanna Dark (from [Perfect Dark](https://en.wikipedia.org/wiki/Perfect_Dark)) is a female version of James Bond (or any other secret agent you prefer). As the industry gets bigger, game designers can no longer borrow ideas wholesale from other industries. They will need to carry themselves as an original art form, unless they want to suffer the same fate as the British movie industry—meagerly surviving on borrowed concepts (and borrowed time). Of course, this is a black picture to paint and is unlikely to come about in the extreme case. The games industry has survived one big crash so far, back when Atari went down the pan, and the resulting slow consolidation of the bulk of the industry into a small group of giant conglomerated corporations has done little to aid creativity.
 
-《完美黑暗》中的乔安娜·达克是女性版的詹姆斯·邦德（或其他你喜欢的特工）。随着产业规模的扩大，游戏设计师再也不能全盘借用其他行业的创意了。他们需要将自己作为一种原创的艺术形式，除非他们想遭受与英国电影业相同的命运——靠借来的概念（和借来的时间）勉强生存。当然，这是一个很悲观的描绘，在极端情况下不太可能出现。迄今为止，游戏产业只经历了一次大崩溃，那是在雅达利倒闭的时候，而随后导致大部分产业缓慢整合成一小群大型集团公司的格局，对创造力的促进作用微乎其微。
+[《完美黑暗》](https://en.wikipedia.org/wiki/Perfect_Dark)中的乔安娜·达克是女性版的詹姆斯·邦德（或其他你喜欢的特工）。随着产业规模的扩大，游戏设计师再也不能全盘借用其他行业的创意了。他们需要将自己作为一种原创的艺术形式，除非他们想遭受与英国电影业相同的命运——靠借来的概念（和借来的时间）勉强生存。当然，这是一个很悲观的描绘，在极端情况下不太可能出现。迄今为止，游戏产业只经历了一次大崩溃，那是在雅达利倒闭的时候，而随后导致大部分产业缓慢整合成一小群大型集团公司的格局，对创造力的促进作用微乎其微。
 
 ## Character Development 角色塑造
 
@@ -192,25 +190,25 @@ The primary indicator of good characters in any medium is how well they develop 
 
 在任何媒介中，优秀角色的首要指标是他们如何塑造和适应不断变化的环境。
 
-Language is a key cue to a character's personality. His grammar and vocabulary send all kinds of signals—about his social class, education, ethnic origin, and so on. These, in turn, connect with patterns—or stereotypes, if you prefer—in the player's mind. This is also true of the character's accent. One of the most interesting uses of this in recent years was in Starcraft, which drew on a variety of American accents to create several different types of characters. Although they did include the "redneck Southerner" stereotype, which was regrettable but practically inevitable, they also included the "Southern aristocrat" and "Western sheriff" speech patterns for Arcturus Mengsk and Jim Raynor, respectively; the laconic, monosyllabic diction of airline pilots for the Wraith pilots; a cheerful, competent Midwestern waitress for the pilots of the troop transports; and a sort of anarchic, gonzo biker for the Vulture riders. This gave the game a great deal of character and flavor that it would have otherwise lacked if it has used bland, undifferentiated voices.
+Language is a key cue to a character's personality. His grammar and vocabulary send all kinds of signals—about his social class, education, ethnic origin, and so on. These, in turn, connect with patterns—or stereotypes, if you prefer—in the player's mind. This is also true of the character's accent. One of the most interesting uses of this in recent years was in [Starcraft](https://en.wikipedia.org/wiki/StarCraft), which drew on a variety of American accents to create several different types of characters. Although they did include the "redneck Southerner" stereotype, which was regrettable but practically inevitable, they also included the "Southern aristocrat" and "Western sheriff" speech patterns for Arcturus Mengsk and Jim Raynor, respectively; the laconic, monosyllabic diction of airline pilots for the Wraith pilots; a cheerful, competent Midwestern waitress for the pilots of the troop transports; and a sort of anarchic, gonzo biker for the Vulture riders. This gave the game a great deal of character and flavor that it would have otherwise lacked if it has used bland, undifferentiated voices.
 
-语言是人物个性的关键线索。他的语法和词汇会发出各种信号——关于他的社会阶层、教育程度、民族血统等等。反过来，这些信号又与玩家头脑中的模式或刻板印象联系在一起。角色的口音也是如此。近年来，《星际争霸》中最有趣的用法之一就是利用各种美国口音创造出几种不同类型的角色。虽然游戏中包含了“南方乡巴佬”的刻板印象，这虽然令人遗憾，但实际上是不可避免的，但他们还分别为阿尔库图斯·蒙斯克和吉姆·雷诺加入了“南方贵族”和“西部警长”的语言模式；为幽灵战机飞行员加入了航空公司飞行员的生硬、单音节的发音；为运输机飞行员加入了开朗、干练的中西部女服务员；为秃鹫车手加入了一种无政府主义、古怪的摩托车手口音。这为游戏增添了许多特色和韵味，否则，如果使用平淡无奇的声音，游戏就会缺乏特色和韵味。
+语言是人物个性的关键线索。他的语法和词汇会发出各种信号——关于他的社会阶层、教育程度、民族血统等等。反过来，这些信号又与玩家头脑中的模式或刻板印象联系在一起。角色的口音也是如此。近年来，[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)中最有趣的用法之一就是利用各种美国口音创造出几种不同类型的角色。虽然游戏中包含了“南方乡巴佬”的刻板印象，这虽然令人遗憾，但实际上是不可避免的，但他们还分别为阿尔库图斯·蒙斯克和吉姆·雷诺加入了“南方贵族”和“西部警长”的语言模式；为幽灵战机飞行员加入了航空公司飞行员的生硬、单音节的发音；为运输机飞行员加入了开朗、干练的中西部女服务员；为秃鹫车手加入了一种无政府主义、古怪的摩托车手口音。这为游戏增添了许多特色和韵味，否则，如果使用平淡无奇的声音，游戏就会缺乏特色和韵味。
 
 If a character is flat and one-dimensional, then it shows. Sometimes this can be the desired effect, especially in the case of comedic computer games. Consider Duke Nukem, a muscle-bound, blond-haired, misogynist killing machine. You would not expect him to develop his sensitive side and start calling his mother halfway through the game. In this case, his one-dimensionality is funny—it's used well as part of the game. It also allows the player to easily slot himself into the role, knowing that it will remain consistent. This works so well because the player is glimpsing only a limited part of the life of Duke. For the player, it is part of the fun for him to play the role of a thinly motivated hero.
 
 如果一个角色是扁平的、单一的，那么它就会表现出来。有时这可能是有意为之的效果，尤其是在喜剧电脑游戏中。比如毁灭公爵，一个肌肉发达、金发碧眼、厌恶女性的杀人机器。你不会想到他会有敏感的一面，在游戏进行到一半时开始给母亲打电话。在这种情况下，他的单面性就显得很有趣——它被很好地用作游戏的一部分。这也让玩家可以轻松地将自己融入角色，并知道角色会保持一致。之所以效果如此之好，是因为玩家看到的只是杜克生活中有限的一部分。对玩家来说，扮演一个动机不纯的英雄角色也是乐趣之一。
 
-Of course, this is also dangerous ground to tread upon. This sort of thinking landed Doom an (undeserved) starring role in the lawsuits following the Columbine tragedy back in 1999. Notwithstanding the fact that blaming the escapist world of a computer game for encouraging this sort of tragedy is simple witch-hunting, we should be aware that the games industry is a prime target for litigation. Computer games are still looked upon as "entertainment for children," and even though this is no longer true, we need to do more to encourage the maturation of the art.
+Of course, this is also dangerous ground to tread upon. This sort of thinking landed [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) an (undeserved) starring role in the lawsuits following the Columbine tragedy back in 1999. Notwithstanding the fact that blaming the escapist world of a computer game for encouraging this sort of tragedy is simple witch-hunting, we should be aware that the games industry is a prime target for litigation. Computer games are still looked upon as "entertainment for children," and even though this is no longer true, we need to do more to encourage the maturation of the art.
 
-当然，这也是一个危险的领域。这种想法让《毁灭战士》在 1999 年科哥伦拜恩悲剧之后的诉讼中获得了（不应有的）主角地位。尽管指责电脑游戏的逃避现实的世界是助长这种悲剧的原因的做法是简单的找替罪羊行为，但我们应该意识到，游戏产业是诉讼的主要目标。电脑游戏仍被视为“儿童娱乐”，尽管这已不再真实，我们需要做更多的工作来促进这门艺术的成熟。
+当然，这也是一个危险的领域。这种想法让[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))在 1999 年科哥伦拜恩悲剧之后的诉讼中获得了（不应有的）主角地位。尽管指责电脑游戏的逃避现实的世界是助长这种悲剧的原因的做法是简单的找替罪羊行为，但我们应该意识到，游戏产业是诉讼的主要目标。电脑游戏仍被视为“儿童娱乐”，尽管这已不再真实，我们需要做更多的工作来促进这门艺术的成熟。
 
 {% hint style="info" %}
 译者注：1999 年 4 月 20 日，美国科罗拉多州杰佛逊郡哥伦拜恩高中发生重大校园枪击事件，一共造成行凶者在内 15 人死亡。调查发现，两名行凶者曾经在他们的个人网站上保存游戏《毁灭战士》的存档数据，于是人们开始关注游戏暴力和现实世界中暴力的关系。Witch-hunting，历史上出现过将无辜的女性指控为巫术的实践者，并因此遭受迫害。这些做法缺乏法律和道德基础，导致很多冤假错案。
 {% endhint %}
 
-One way to do this is to tackle serious subjects in a mature fashion, with the benefits of good character development and story lines. One way not to do it is to tackle serious subjects in an immature fashion, as Postal and, to a lesser extent, Soldier of Fortune did (see Figures 5.9 and 5.10).
+One way to do this is to tackle serious subjects in a mature fashion, with the benefits of good character development and story lines. One way not to do it is to tackle serious subjects in an immature fashion, as [Postal](https://en.wikipedia.org/wiki/Postal_(video_game)) and, to a lesser extent, [Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game)) did (see Figures 5.9 and 5.10).
 
-要做到这一点，一种方法是以成熟的方式处理严肃题材，并通过良好的人物塑造和故事线来实现。不这样做的一种方式是以不成熟的方式处理严肃题材，就像《喋血街头》以及在较小程度上《命运战士》所做的那样（见图 5.9 和 5.10）。
+要做到这一点，一种方法是以成熟的方式处理严肃题材，并通过良好的人物塑造和故事线来实现。不这样做的一种方式是以不成熟的方式处理严肃题材，就像[《喋血街头》](https://en.wikipedia.org/wiki/Postal_(video_game))以及在较小程度上[《命运战士》](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))所做的那样（见图 5.9 和 5.10）。
 
 Figure 5.9. Postal. 图 5.9. 《喋血街头》。
 
@@ -220,17 +218,17 @@ Figure 5.10. Soldier of Fortune. 图 5.10. 《命运战士》。
 
 ![](/.gitbook/assets/5.10.jpg)
 
-"The most notable feature in Postal is the violence, and this is definitely NOT a game for the kiddies. It even comes with the gaming version of an NC-17 rating, as well it should. You don't kill demon spawn or mutant dino-zombies. You're shooting at people, watching their blood spill onto the street, hearing them wail for mercy or to be put out of their misery. There's a button for execution; just stand over a victim moaning in pain and finish him off. And if things get too grisly, you can even end your own life via a shotgun to the head. This is really some unprecedented and uncensored violence, so parents beware."
+"The most notable feature in [Postal](https://en.wikipedia.org/wiki/Postal_(video_game)) is the violence, and this is definitely NOT a game for the kiddies. It even comes with the gaming version of an NC-17 rating, as well it should. You don't kill demon spawn or mutant dino-zombies. You're shooting at people, watching their blood spill onto the street, hearing them wail for mercy or to be put out of their misery. There's a button for execution; just stand over a victim moaning in pain and finish him off. And if things get too grisly, you can even end your own life via a shotgun to the head. This is really some unprecedented and uncensored violence, so parents beware."
 
-“《喋血街头》最显著的特点是暴力，这绝对不是一款适合儿童的游戏。它甚至带有游戏版的 NC-17 评级，这也是理所应当的。你不会杀死恶魔之卵或变异恐龙僵尸。你是在向人们开枪，看着他们的鲜血洒满街道，听着他们哀嚎着求饶或脱离苦海。游戏中有一个处决按钮，站在痛苦呻吟的受害者身旁，然后把他干掉。如果事情变得过于残忍，你甚至可以用猎枪爆头来结束自己的生命。这真是前所未有的未经审查的暴力游戏，家长们可要小心了。”
+“[《喋血街头》](https://en.wikipedia.org/wiki/Postal_(video_game))最显著的特点是暴力，这绝对不是一款适合儿童的游戏。它甚至带有游戏版的 NC-17 评级，这也是理所应当的。你不会杀死恶魔之卵或变异恐龙僵尸。你是在向人们开枪，看着他们的鲜血洒满街道，听着他们哀嚎着求饶或脱离苦海。游戏中有一个处决按钮，站在痛苦呻吟的受害者身旁，然后把他干掉。如果事情变得过于残忍，你甚至可以用猎枪爆头来结束自己的生命。这真是前所未有的未经审查的暴力游戏，家长们可要小心了。”
 
-”Extract from a web review of Postal on [www.gamerevolution.com](www.gamerevolution.com)
+”Extract from a web review of [Postal](https://en.wikipedia.org/wiki/Postal_(video_game)) on [www.gamerevolution.com](www.gamerevolution.com)
 
-"摘自 [www.gamerevolution.com](www.gamerevolution.com)《喋血街头》的评论
+"摘自 [www.gamerevolution.com](www.gamerevolution.com)[《喋血街头》](https://en.wikipedia.org/wiki/Postal_(video_game))的评论
 
-Soldier of Fortune's main advertising thrust was the ability to accurately shoot individual body parts. It's fine to have this as a game feature, as long as it's appropriately marketed. It should not be the primary focus of the advertising because it does not add much to the gameplay. The focus of the marketing should be the story and gameplay, not the realistic deaths. The game would still play the same (a standard first-person shooter) with or without the accurate body part–shooting capabilities. It's the difference between marketing a mature game and a murder simulator.
+[Soldier of Fortune](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))'s main advertising thrust was the ability to accurately shoot individual body parts. It's fine to have this as a game feature, as long as it's appropriately marketed. It should not be the primary focus of the advertising because it does not add much to the gameplay. The focus of the marketing should be the story and gameplay, not the realistic deaths. The game would still play the same (a standard first-person shooter) with or without the accurate body part–shooting capabilities. It's the difference between marketing a mature game and a murder simulator.
 
-《命运战士》的广告主旨是能够准确射击身体的各个部位。只要营销得当，将其作为游戏功能并无不妥。它不应该成为广告的主要焦点，因为它并没有给游戏增添多少乐趣。营销的重点应该是故事和游戏性，而不是逼真的死亡。无论有没有精确的身体部位射击功能，游戏的玩法都是一样的（标准的第一人称射击游戏）。这就是成熟游戏和杀人模拟器在营销上的区别。
+[《命运战士》](https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game))的广告主旨是能够准确射击身体的各个部位。只要营销得当，将其作为游戏功能并无不妥。它不应该成为广告的主要焦点，因为它并没有给游戏增添多少乐趣。营销的重点应该是故事和游戏性，而不是逼真的死亡。无论有没有精确的身体部位射击功能，游戏的玩法都是一样的（标准的第一人称射击游戏）。这就是成熟游戏和杀人模拟器在营销上的区别。
 
 That doesn't mean we can solve all these problems by making our characters shed a tear when they kill. In general, though, treating these subjects with a bit more care and attention will improve their perceived value to the outside world.
 
@@ -249,9 +247,9 @@ Developing believable characters is not a straightforward process. Although ther
 * The character needs to change and grow according to experience.
 角色需要根据经验变化和成长。
 
-These rules are fairly obvious. If a character does not interest the players, they aren't going to play the game. Similarly, if the players don't develop an affinity for the character over time, they will not be particularly sympathetic to the hero's plight—and, consequently, won't be particularly compelled to take part. Generally, the first two guidelines are followed pretty well—or, at least, attempts are made. The previously mentioned Bubsy the Bobcat fails on all counts.
+These rules are fairly obvious. If a character does not interest the players, they aren't going to play the game. Similarly, if the players don't develop an affinity for the character over time, they will not be particularly sympathetic to the hero's plight—and, consequently, won't be particularly compelled to take part. Generally, the first two guidelines are followed pretty well—or, at least, attempts are made. The previously mentioned [Bubsy the Bobcat](https://en.wikipedia.org/wiki/Bubsy) fails on all counts.
 
-这些规则相当明显。如果玩家对某个角色不感兴趣，他们就不会参与游戏。同样，如果玩家没有随着时间的推移对角色产生亲切感，他们就不会特别同情主人公的遭遇，因此也不会特别愿意参与游戏。一般来说，前两条准则都得到了很好的遵守，或者说，至少是做出了尝试。前面提到的《大笨猫》在所有方面都不合格。
+这些规则相当明显。如果玩家对某个角色不感兴趣，他们就不会参与游戏。同样，如果玩家没有随着时间的推移对角色产生亲切感，他们就不会特别同情主人公的遭遇，因此也不会特别愿意参与游戏。一般来说，前两条准则都得到了很好的遵守，或者说，至少是做出了尝试。前面提到的[《大笨猫》](https://en.wikipedia.org/wiki/Bubsy) 在所有方面都不合格。
 
 The third guideline is the one that seems to fall by the wayside. Although it is fairly easy to invent an interesting character that conforms to the first two guidelines, it's far more difficult to develop that character further so that it develops and grows realistically. If it were that easy, a lot more people would be writing best-selling novels.
 
@@ -297,9 +295,9 @@ According to classic literary theory, a number of character archetypes crop up i
 
 根据经典文学理论，大多数故事中都会以某种形式出现一些角色原型。本节将介绍这些原型，并描述他们的性质和作用。
 
-These archetype definitions are taken from Christopher Vogler's The Writer's Journey , a treatment of Joseph Campbell's Hero's Journey aimed at screenwriters , as discussed in the previous chapter.
+These archetype definitions are taken from Christopher Vogler's [The Writer's Journey](https://en.wikipedia.org/wiki/The_Writer%27s_Journey:_Mythic_Structure_for_Writers) , a treatment of Joseph Campbell's Hero's Journey aimed at screenwriters , as discussed in the previous chapter.
 
-这些原型定义摘自克里斯托弗·沃格勒的《作家之旅》一书，该书是对约瑟夫·坎贝尔的《英雄之旅》（Hero's Journey）的探讨，主要针对编剧，上一章已经讨论过。
+这些原型定义摘自克里斯托弗·沃格勒的[《作家之旅》](https://en.wikipedia.org/wiki/The_Writer%27s_Journey:_Mythic_Structure_for_Writers)一书，该书是对约瑟夫·坎贝尔的《英雄之旅》（Hero's Journey）的探讨，主要针对编剧，上一章已经讨论过。
 
 The common archetypes are not restricted to a single character in any particular story. The same character can play any number of different roles. For example, the character playing the mentor could also be an ally, a herald, a threshold guardian, or even a shadow at a different point in the story. This is how good drama is constructed.
 
@@ -311,9 +309,9 @@ The hero is traditionally the center of the story. In our case, the hero is the 
 
 英雄历来是故事的中心。在我们的游戏中，英雄就是玩家的化身。在文学作品中，英雄通常是有一个或多个问题的角色。故事讲述角色如何解决这些问题。这种看似简单的模式是所有故事的基础。一般来说，故事都围绕着冲突和冲突的解决展开。这就是英雄的作用所在。
 
-The most important thing to do with the hero is ensure that the players can identify with the character. The hero should have qualities that the players can appreciate and empathize with. The hero's goals should become the player's goals. How you choose to implement this depends very much on the nature of the hero. For example, in Oddworld: Munch's Odyssey, the two heroes, Abe and Munch (shown in Figure 5.12), certainly don't win any beauty awards, but they still appeal successfully to the player.
+The most important thing to do with the hero is ensure that the players can identify with the character. The hero should have qualities that the players can appreciate and empathize with. The hero's goals should become the player's goals. How you choose to implement this depends very much on the nature of the hero. For example, in [Oddworld: Munch's Odyssey](https://en.wikipedia.org/wiki/Oddworld:_Munch%27s_Oddysee), the two heroes, Abe and Munch (shown in Figure 5.12), certainly don't win any beauty awards, but they still appeal successfully to the player.
 
-英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在《奇异世界：芒奇历险记》中，两位英雄阿比和芒奇（如图 5.12 所示）肯定不会赢得任何选美奖项，但他们仍然成功地吸引了玩家。
+英雄最重要的一点是确保玩家能够认同这个角色。英雄应该具有玩家能够欣赏和同情的品质。英雄的目标应该成为玩家的目标。如何实现这一点在很大程度上取决于英雄的性质。例如，在[《奇异世界：芒奇历险记》](https://en.wikipedia.org/wiki/Oddworld:_Munch%27s_Oddysee)中，两位英雄阿比和芒奇（如图 5.12 所示）肯定不会赢得任何选美奖项，但他们仍然成功地吸引了玩家。
 
 Figure 5.12. Abe and Munch. 图 5.12. 阿比和芒奇。
 
@@ -323,9 +321,9 @@ There are a number of possible reasons for this. Note that both Abe and Munch fo
 
 这可能有多种原因。请注意，阿比和芒奇都遵循了前面提到的超感官体验准则，他们的大眼睛和大额头与婴儿的眼睛和额头如出一辙。尽管（或许正因为）他们的丑陋，以及他们是更丑陋的统治阶级中被奴役的弱势群体这一事实，他们还是吸引了众多玩家，并取得了令人惊讶的成功。对于开发者来说，这是令人惊讶的。然而，仔细研究一下阿比和芒奇的原型和特点（以及推出他们的游戏的质量）就会发现，他们的成功并不像最初看起来那么令人惊讶。
 
-Of course, as we stated in our guidelines, after the initial interest has been created, it has to be maintained. One of the primary methods for doing this is to make sure that the hero changes and grows during the course of the game. Depending on the style of the game, this could be a real growth—in personality and demeanor—or a more straightforward approach, such as with power-ups and improvement of characteristics. The latter method is far more common in games, although some games do make use of the former to some extent. Planescape: Torment is a specific example that springs to mind, even though it uses standard stats-pumping growth, too.
+Of course, as we stated in our guidelines, after the initial interest has been created, it has to be maintained. One of the primary methods for doing this is to make sure that the hero changes and grows during the course of the game. Depending on the style of the game, this could be a real growth—in personality and demeanor—or a more straightforward approach, such as with power-ups and improvement of characteristics. The latter method is far more common in games, although some games do make use of the former to some extent. [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) is a specific example that springs to mind, even though it uses standard stats-pumping growth, too.
 
-当然，正如我们在准则中所说，在最初的兴趣产生之后，还必须保持下去。做到这一点的主要方法之一就是确保英雄在游戏过程中不断变化和成长。根据游戏风格的不同，这可以是性格和举止上的真正成长，也可以是更直接的方法，比如使用能量升级和改进特性。后一种方法在游戏中更为常见，不过有些游戏也在一定程度上使用了前一种方法。我想到的一个具体例子就是《异域镇魂曲》，尽管它也使用了标准的属性增长。
+当然，正如我们在准则中所说，在最初的兴趣产生之后，还必须保持下去。做到这一点的主要方法之一就是确保英雄在游戏过程中不断变化和成长。根据游戏风格的不同，这可以是性格和举止上的真正成长，也可以是更直接的方法，比如使用能量升级和改进特性。后一种方法在游戏中更为常见，不过有些游戏也在一定程度上使用了前一种方法。我想到的一个具体例子就是[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)，尽管它也使用了标准的属性增长。
 
 The main defining characteristic of a hero in a story is that the hero performs most of the action and assumes the majority of the risk and responsibility. This doesn't mean that other characters can't take the mantle of hero temporarily. For example, in cut scenes, they might be shown sacrificing themselves for the hero.
 
@@ -335,25 +333,25 @@ Perversely, the hero doesn't necessarily have to be heroic: The antihero is also
 
 反之，英雄并不一定是英雄：反英雄也是一个经典主题。[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)系列游戏就采用了这种特殊形式，游戏的目的是摧毁正义的力量。
 
-Heroes are not always on their own. In some games, the "hero" is represented by a group of individuals: the hero team. These are common in role-playing games. Often, though less frequently nowadays, character development in hero teams is limited; in the case of role-playing games, they are computer-generated characters created and customized by the player. However, when hero teams are used in multi-player games (such as [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) and [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)), each player represents an individual hero. In single-player games, the player tends to pick a "favorite," and that character becomes her avatar. Sometimes games even mandate this choice for the player; examples of games that do this are Baldur's Gate, Planescape: Torment, and Anachronox (shown in Figure 5.13).
+Heroes are not always on their own. In some games, the "hero" is represented by a group of individuals: the hero team. These are common in role-playing games. Often, though less frequently nowadays, character development in hero teams is limited; in the case of role-playing games, they are computer-generated characters created and customized by the player. However, when hero teams are used in multi-player games (such as [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) and [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)), each player represents an individual hero. In single-player games, the player tends to pick a "favorite," and that character becomes her avatar. Sometimes games even mandate this choice for the player; examples of games that do this are [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate), [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), and [Anachronox](https://en.wikipedia.org/wiki/Anachronox) (shown in Figure 5.13).
 
-英雄并不总是单打独斗。在一些游戏中，“英雄”由一群人代表：英雄团队。这在角色扮演游戏中很常见。通常情况下，英雄团队中的角色塑造有限，但如今这种情况已较少见；在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))和[《暗黑破坏神2》](https://en.wikipedia.org/wiki/Diablo_II)）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个“最喜爱”的英雄，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；《博德之门》、《异域镇魂曲》和《源毒》（如图 5.13 所示）。
+英雄并不总是单打独斗。在一些游戏中，“英雄”由一群人代表：英雄团队。这在角色扮演游戏中很常见。通常情况下，英雄团队中的角色塑造有限，但如今这种情况已较少见；在角色扮演游戏中，英雄团队是由电脑生成的角色，由玩家创建和定制。不过，在多人游戏（如[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))和[《暗黑破坏神2》](https://en.wikipedia.org/wiki/Diablo_II)）中使用英雄团队时，每个玩家都代表一个独立的英雄。在单人游戏中，玩家往往会选择一个“最喜爱”的英雄，这个角色就会成为她的化身。有时，游戏甚至会强制要求玩家做出这样的选择；[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)、[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)和[《源毒》](https://en.wikipedia.org/wiki/Anachronox)（如图 5.13 所示）。
 
 Figure 5.13. Anachronox.  图 5.13. 《源毒》。
 
 ![](/.gitbook/assets/5.13.png)
 
-In fact, Tom Hall's Anachronox is one of two excellent games that came out of Ion Storm. ( Deus Ex is the other.) Unfortunately, by the time these games were released, the well had already been poisoned by the lamentable Daikatana (starting with the infamous "John Romero's about to make you his bitch" advertising campaign).
+In fact, [Tom Hall](https://en.wikipedia.org/wiki/Tom_Hall)'s [Anachronox](https://en.wikipedia.org/wiki/Anachronox) is one of two excellent games that came out of Ion Storm. ( [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) is the other.) Unfortunately, by the time these games were released, the well had already been poisoned by the lamentable [Daikatana](https://en.wikipedia.org/wiki/Daikatana) (starting with the infamous "John Romero's about to make you his bitch" advertising campaign).
 
-事实上，汤姆·霍尔的《毒源》是离子风暴推出的两款优秀游戏之一（另一款是《杀出重围》）。(不幸的是，当这些游戏发布时，这口井已经被可悲的《大刀》毒化了（从臭名昭著的“约翰·罗梅洛要把你变成他的婊子”广告宣传开始）。
+事实上，[汤姆·霍尔](https://en.wikipedia.org/wiki/Tom_Hall)的[《源毒》](https://en.wikipedia.org/wiki/Anachronox)是离子风暴推出的两款优秀游戏之一（另一款是[《杀出重围》](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))）。(不幸的是，当这些游戏发布时，这口井已经被可悲的[《大刀》](https://en.wikipedia.org/wiki/Daikatana)毒化了（从臭名昭著的“约翰·罗梅洛要把你变成他的婊子”广告宣传开始）。
 
-The hero of Anachronox, Sylvester (Sly) Boots, is a down-on-his-luck private detective who is being harassed by the local mob to pay back some debts. Sly Boots is a good example of a hero because, characteristically, a hero can be made more appealing by giving them a vulnerability. Heroes often have an inner problem and an outer problem. These can shift as the game progresses. The outer problem is the general quest that is the aim of the game. The inner problem is usually something personal to the hero. In Sly's case, his vulnerability is his debt. At the start of the game, Sly is being beaten to a pulp by a goon. His vulnerability is his lack of cash, so the first task for the player is to help him find a job. Initially, this is his outer problem. However, as the game progresses, this morphs into a grander quest to save the universe. Sly's inner problem is that he is a low-life. This affects the attitude of the other characters in the game toward him and serves to make the quest more difficult than it might have been otherwise. More important, it adds an extra dimension to the character that creates an air of believability.
+The hero of [Anachronox](https://en.wikipedia.org/wiki/Anachronox), Sylvester (Sly) Boots, is a down-on-his-luck private detective who is being harassed by the local mob to pay back some debts. Sly Boots is a good example of a hero because, characteristically, a hero can be made more appealing by giving them a vulnerability. Heroes often have an inner problem and an outer problem. These can shift as the game progresses. The outer problem is the general quest that is the aim of the game. The inner problem is usually something personal to the hero. In Sly's case, his vulnerability is his debt. At the start of the game, Sly is being beaten to a pulp by a goon. His vulnerability is his lack of cash, so the first task for the player is to help him find a job. Initially, this is his outer problem. However, as the game progresses, this morphs into a grander quest to save the universe. Sly's inner problem is that he is a low-life. This affects the attitude of the other characters in the game toward him and serves to make the quest more difficult than it might have been otherwise. More important, it adds an extra dimension to the character that creates an air of believability.
 
-《毒源》的主人公西尔维斯特（斯莱）·布茨是一名倒霉的私家侦探，他受到当地黑帮的骚扰，要求他偿还一些债务。斯莱·布茨是英雄的一个很好的例子，因为从特点上讲，英雄可以通过赋予其弱点而变得更有吸引力。英雄往往有内在的问题和外在的问题。随着游戏的进行，这些问题会发生变化。外在问题是游戏的总体目标。内在问题通常是英雄的个人问题。以斯莱为例，他的弱点就是他的债务。游戏一开始，斯莱就被一个恶棍打得鼻青脸肿。他的弱点是没有现金，因此玩家的第一个任务就是帮他找一份工作。起初，这是他的外在问题。然而，随着游戏的进行，这演变成了拯救宇宙的更宏大的任务。斯莱的内在问题是他是一个卑鄙小人。这影响了游戏中其他角色对他的态度，也增加了任务的难度。更重要的是，这为角色增添了一个额外的维度，营造出一种可信的氛围。
+[《源毒》](https://en.wikipedia.org/wiki/Anachronox)的主人公西尔维斯特（斯莱）·布茨是一名倒霉的私家侦探，他受到当地黑帮的骚扰，要求他偿还一些债务。斯莱·布茨是英雄的一个很好的例子，因为从特点上讲，英雄可以通过赋予其弱点而变得更有吸引力。英雄往往有内在的问题和外在的问题。随着游戏的进行，这些问题会发生变化。外在问题是游戏的总体目标。内在问题通常是英雄的个人问题。以斯莱为例，他的弱点就是他的债务。游戏一开始，斯莱就被一个恶棍打得鼻青脸肿。他的弱点是没有现金，因此玩家的第一个任务就是帮他找一份工作。起初，这是他的外在问题。然而，随着游戏的进行，这演变成了拯救宇宙的更宏大的任务。斯莱的内在问题是他是一个卑鄙小人。这影响了游戏中其他角色对他的态度，也增加了任务的难度。更重要的是，这为角色增添了一个额外的维度，营造出一种可信的氛围。
 
-In summary, the hero's outer problem can be stated as the aim of the game, whereas the inner problem is a character flaw or some other dark secret. The player might not even know the inner problem at the outset. Planescape: Torment uses this particular mechanism well.
+In summary, the hero's outer problem can be stated as the aim of the game, whereas the inner problem is a character flaw or some other dark secret. The player might not even know the inner problem at the outset. [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) uses this particular mechanism well.
 
-总之，主人公的外在问题可以说是游戏的目的，而内在问题则是性格缺陷或其他一些不可告人的秘密。玩家甚至可能一开始就不知道内心的问题。《异域镇魂曲》很好地运用了这一特殊机制。
+总之，主人公的外在问题可以说是游戏的目的，而内在问题则是性格缺陷或其他一些不可告人的秘密。玩家甚至可能一开始就不知道内心的问题。[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)很好地运用了这一特殊机制。
 
 ### Mentor 导师
 
@@ -361,9 +359,9 @@ The mentor is the guide character. It can come in many formats: the clichéd d w
 
 导师是指导角色。它有多种形式：老生常谈的睿智老人、超自然的助手，甚至是主人公自己内心的声音。大多数人脑海中最熟悉的例子就是欧比旺·克诺比（Obi Wan Kenobi）这个角色，以及他与即将成为绝地武士的卢克·天行者（Luke Skywalker）之间的关系。
 
-Anachronox uses the mentor archetype brilliantly: Boots' mentor is his dead secretary. After she dies in some unspecified accident , Sly had her brain digitized and stored in a small device called a "life-cursor" (which also doubles as the player's game control cursor). This allows her to continue to function as a secretary, with the added benefit of being hooked into the world's computer systems. This also allows her to manage the adventure bookkeeping, providing timely advice and hints to Sly, and acting as a story guide to seamlessly keep the hero within the bounds of the designer's gameplay plans.
+[Anachronox](https://en.wikipedia.org/wiki/Anachronox) uses the mentor archetype brilliantly: Boots' mentor is his dead secretary. After she dies in some unspecified accident , Sly had her brain digitized and stored in a small device called a "life-cursor" (which also doubles as the player's game control cursor). This allows her to continue to function as a secretary, with the added benefit of being hooked into the world's computer systems. This also allows her to manage the adventure bookkeeping, providing timely advice and hints to Sly, and acting as a story guide to seamlessly keep the hero within the bounds of the designer's gameplay plans.
 
-《毒源》出色地运用了导师原型：博茨的导师是他死去的秘书。在她死于某次不明事故后，斯莱将她的大脑数字化，并储存在一个名为“生命光标”的小型装置中（同时也是玩家的游戏控制光标）。这样，她就可以继续担任秘书一职，而且还能与世界上的计算机系统相连接。这也让她能够管理冒险的记账工作，为斯莱提供及时的建议和提示，并充当故事的引导者，将主人公完美地控制在设计者的游戏计划范围内。
+[《源毒》](https://en.wikipedia.org/wiki/Anachronox)出色地运用了导师原型：博茨的导师是他死去的秘书。在她死于某次不明事故后，斯莱将她的大脑数字化，并储存在一个名为“生命光标”的小型装置中（同时也是玩家的游戏控制光标）。这样，她就可以继续担任秘书一职，而且还能与世界上的计算机系统相连接。这也让她能够管理冒险的记账工作，为斯莱提供及时的建议和提示，并充当故事的引导者，将主人公完美地控制在设计者的游戏计划范围内。
 
 Mentors are not always positive. A mentor can also give bad advice deliberately designed to mislead the hero or to lead him down an evil path. A classic example of this form of "dark mentor" is the devilish advisor in Peter Molyneux's [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)).
 
@@ -375,9 +373,9 @@ The higher self is the hero as he aspires to be. It is the ideal form of the her
 
 更高的自我是英雄的理想。它是英雄的理想形态。在许多情况下，游戏的目的就是将英雄转变为更高的自我。当然，这并不是游戏的明确目标，通常只是完成游戏的副作用。
 
-There are many examples in role-playing of this particular motif. For example, the whole premise of Planescape: Torment is based on the transmutation of the Nameless One into his higher self. He is a character with amnesia but a distinct past, who seeks to regain his name and his memory. In the process of doing so, he might also have amends to make to people he has hurt in the past.
+There are many examples in role-playing of this particular motif. For example, the whole premise of [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) is based on the transmutation of the Nameless One into his higher self. He is a character with amnesia but a distinct past, who seeks to regain his name and his memory. In the process of doing so, he might also have amends to make to people he has hurt in the past.
 
-在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，《异域镇魂曲》的整个前提就是“无名者”转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
+在角色扮演游戏中，这种特殊主题的例子比比皆是。例如，[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)的整个前提就是“无名者”转变为更高的自我。他是一个患有失忆症但有着清晰过去的角色，他试图恢复自己的名字和记忆。在这个过程中，他可能还要对过去伤害过的人做出补偿。
 
 ### Allies 盟友
 
@@ -385,9 +383,9 @@ Allies are those characters placed in the game to aid the hero. Many games use t
 
 盟友是指在游戏中为英雄提供帮助的角色。许多游戏都使用盟友原型。盟友的目的是协助英雄完成任务，帮助完成那些如果没有援助就很难完成或几乎不可能完成的任务。韩·索罗是大多数人都知道的盟友原型的典型例子。
 
-We are sure you can think of many examples of this because it is one of the most common archetypes. An obvious example is the role of the scientists and security guards in Half-Life . In many instances, they team up with the hero, Gordon Freeman, to provide advice and help him get past obstacles, such as doors with retina scanner-based locks.
+We are sure you can think of many examples of this because it is one of the most common archetypes. An obvious example is the role of the scientists and security guards in [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). In many instances, they team up with the hero, Gordon Freeman, to provide advice and help him get past obstacles, such as doors with retina scanner-based locks.
 
-我们相信你能想到很多这样的例子，因为这是最常见的原型之一。一个明显的例子是《半条命》中科学家和保安的角色。在许多情况下，他们会与主人公戈登·弗里曼合作，为他提供建议并帮助他越过障碍，例如装有视网膜扫描仪锁的门。
+我们相信你能想到很多这样的例子，因为这是最常见的原型之一。一个明显的例子是[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中科学家和保安的角色。在许多情况下，他们会与主人公戈登·弗里曼合作，为他提供建议并帮助他越过障碍，例如装有视网膜扫描仪锁的门。
 
 ### Shape Shifter 变形人
 
@@ -399,9 +397,9 @@ For example, an ally or mentor could turn out to be a trickster or a shadow. A c
 
 例如，盟友或导师可能会变成骗子或阴影。一开始帮助玩家的角色可能会被证明是为了自己的利益而行动，最终在英雄的目的达到后背叛了英雄。
 
-An example of this archetype from classic literature is the evil queen in Snow White . She appears to Snow White as an ally and mentor (the wizened old woman with the apples) before revealing herself to be a shadow and a trickster when Snow White is poisoned. An example from a game is the White Lord from the old role-playing game Dungeon Master . The White Lord initially acts as a mentor/herald, tasking the adventurers to enter a dungeon and seek out and destroy the Black Lord. If they achieve this, then upon return to the surface, the White Lord declares that they have been tainted by the evil of the dungeon and attempts to destroy them (becoming a shadow).
+An example of this archetype from classic literature is the evil queen in Snow White . She appears to Snow White as an ally and mentor (the wizened old woman with the apples) before revealing herself to be a shadow and a trickster when Snow White is poisoned. An example from a game is the White Lord from the old role-playing game [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)). The White Lord initially acts as a mentor/herald, tasking the adventurers to enter a dungeon and seek out and destroy the Black Lord. If they achieve this, then upon return to the surface, the White Lord declares that they have been tainted by the evil of the dungeon and attempts to destroy them (becoming a shadow).
 
-经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的阴影和诡计。游戏中的一个例子是老式角色扮演游戏《迷宫魔兽》中的白魔王。白魔王最初扮演导师/预言家的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（变成了阴影）。
+经典文学作品中这种原型的一个例子是《白雪公主》中的邪恶皇后。她以盟友和导师的身份出现在白雪公主面前（拿着苹果的老妇人），然后在白雪公主被毒死后显露出自己的阴影和诡计。游戏中的一个例子是老式角色扮演游戏[《迷宫魔兽》](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game))中的白魔王。白魔王最初扮演导师/预言家的角色，要求冒险者进入地牢寻找并消灭黑魔王。如果他们完成了任务，那么在返回地面时，白魔王就会宣布他们已经被地牢中的邪恶所玷污，并试图消灭他们（变成了阴影）。
 
 ### Threshold Guardian 门槛守护者
 
@@ -429,9 +427,9 @@ For example, the hero often has to trick a threshold guardian into leaving the t
 
 ### Shadow 阴影
 
-The shadow is arguably the second most important character after the hero himself. In some stories, the shadow is elevated to the number-one rank. For example, Ritual Entertainment's Sin's main selling point was the shadow, Elexis Sinclaire, a beautiful, sexy CEO of a massive bio-tech corporation who happened to have a penchant for clothes and makeup that wouldn't appear out of place on a street-walking extra from the film Pretty Woman. Aside from the fact that the biographical details for Elexis Sinclaire (shown in Figure 5.14) are straight out of a (bad) schoolboy fantasy, the emphasis of the game is on her as the primary character in the game.
+The shadow is arguably the second most important character after the hero himself. In some stories, the shadow is elevated to the number-one rank. For example, Ritual Entertainment's [Sin](https://en.wikipedia.org/wiki/Sin_(video_game))'s main selling point was the shadow, Elexis Sinclaire, a beautiful, sexy CEO of a massive bio-tech corporation who happened to have a penchant for clothes and makeup that wouldn't appear out of place on a street-walking extra from the film [Pretty Woman](https://en.wikipedia.org/wiki/Pretty_Woman). Aside from the fact that the biographical details for Elexis Sinclaire (shown in Figure 5.14) are straight out of a (bad) schoolboy fantasy, the emphasis of the game is on her as the primary character in the game.
 
-阴影可以说是仅次于英雄本身的第二重要角色。在一些故事中，阴影被提升到了第一位。例如，Ritual Entertainment 公司的《罪》的主要卖点就是阴影埃莱克西斯·辛克莱尔，她是一家大型生物科技公司美丽、性感的首席执行官，同时还喜欢穿衣化妆，这与电影《风月俏佳人》中的街头女演员并无二致。除了埃莱克西斯·辛克莱尔的详细履历（如图 5.14 所示）直接来自（糟糕的）学生幻想之外，游戏的重点在于她是游戏中的主要角色。
+阴影可以说是仅次于英雄本身的第二重要角色。在一些故事中，阴影被提升到了第一位。例如，Ritual Entertainment 公司的[《罪》](https://en.wikipedia.org/wiki/Sin_(video_game))的主要卖点就是阴影埃莱克西斯·辛克莱尔，她是一家大型生物科技公司美丽、性感的首席执行官，同时还喜欢穿衣化妆，这与电影[《风月俏佳人》](https://en.wikipedia.org/wiki/Pretty_Woman)中的街头女演员并无二致。除了埃莱克西斯·辛克莱尔的详细履历（如图 5.14 所示）直接来自（糟糕的）学生幻想之外，游戏的重点在于她是游戏中的主要角色。
 
 Figure 5.14. Elexis Sinclaire. 图 5.14. 埃莱克西斯·辛克莱尔。
 
@@ -506,10 +504,10 @@ Of course, there is a flipside to this as well. Naming your characters in such a
 译者注：Ernest O'Scribe or Andrew Penn-Wielder，直译是欧内斯特·抄写员，安德鲁·笔·挥舞者。这种命名方式在《魔兽世界》里面很常见。
 {% endhint %}
 
-Names do not have to spell out explicitly the name of the character. For example, the name of the hero in Anachronox , Sylvester Boots, says little or nothing about the character. However his nickname, Sly, is altogether more revealing . Another example is Lara Croft. Although this does not immediately seem to indicate anything about the character, it does (to English sensibilities, at least) imply a degree of upper-class Englishness.
+Names do not have to spell out explicitly the name of the character. For example, the name of the hero in [Anachronox](https://en.wikipedia.org/wiki/Anachronox) , Sylvester Boots, says little or nothing about the character. However his nickname, Sly, is altogether more revealing . Another example is Lara Croft. Although this does not immediately seem to indicate anything about the character, it does (to English sensibilities, at least) imply a degree of upper-class Englishness.
 
-名字不一定要明确揭示出角色的身份。例如，《毒源》中的主人公西尔维斯特·布茨的名字几乎没有点明这个角色任何信息。然而，他的绰号“Sly”（斯莱，直译是狡猾）却更意味深长。另一个例子是劳拉·克劳馥。虽然名字也似乎不能立即说明角色的任何特征，但它确实（至少在英国人看来）暗示了一定程度的英国上流社会的气质。
+名字不一定要明确揭示出角色的身份。例如，[《源毒》](https://en.wikipedia.org/wiki/Anachronox)中的主人公西尔维斯特·布茨的名字几乎没有点明这个角色任何信息。然而，他的绰号“Sly”（斯莱，直译是狡猾）却更意味深长。另一个例子是劳拉·克劳馥。虽然名字也似乎不能立即说明角色的任何特征，但它确实（至少在英国人看来）暗示了一定程度的英国上流社会的气质。
 
-In short, the importance of character design on your game really depends on the nature of the game itself. However, the success of character-based franchises such as Duke Nukem, Oddworld, and the Mario Brothers certainly indicates that you should consider effective character design as one of your top game-design priorities.
+In short, the importance of character design on your game really depends on the nature of the game itself. However, the success of character-based franchises such as [Duke Nukem](https://en.wikipedia.org/wiki/Duke_Nukem), [Oddworld](https://en.wikipedia.org/wiki/Oddworld), and the Mario Brothers certainly indicates that you should consider effective character design as one of your top game-design priorities.
 
-总之，角色设计对游戏的重要性取决于游戏本身的性质。不过，《毁灭公爵》、《奇异世界》和《马里奥兄弟》等以角色为基础的成功无疑表明，你应该将鲜明的角色设计视为游戏设计的首要任务之一。
+总之，角色设计对游戏的重要性取决于游戏本身的性质。不过，[《毁灭公爵》](https://en.wikipedia.org/wiki/Duke_Nukem)、[《奇异世界》](https://en.wikipedia.org/wiki/Oddworld)和马里奥兄弟等以角色为基础的成功无疑表明，你应该将鲜明的角色设计视为游戏设计的首要任务之一。

@@ -6,9 +6,9 @@ Computer games generally have some sort of story attached to them as well. Somet
 
 电脑游戏一般也会附带一些故事。有时只是一段背景故事。在其他情况下，它是一个完全整合的故事线——游戏就是故事。
 
-In this chapter, we discuss some guidelines for constructing compelling stories and integrating them into game designs. To some extent, the importance of story integration is dependent on the type of game you are designing: Some games require more integration than others. For example, a simple game such as Space Invaders requires only a one-liner: "Aliens are invading Earth, and only you can stop them." Why? It doesn't matter. The player's imagination takes care of that. At the other end of the spectrum, adventure games such as Grim Fandango and Discworld Noir have a detailed and involving story line, as convoluted and structured as any novel. And, of course, we have the middle range—games in which story is important but is not the overriding gameplay feature. This concept is illustrated in Figure 4.1. As we progress across the story spectrum from left to right, the importance of the story increases. Examples of games such as this include [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and Luigi's Mansion (shown in Figure 4.2).
+In this chapter, we discuss some guidelines for constructing compelling stories and integrating them into game designs. To some extent, the importance of story integration is dependent on the type of game you are designing: Some games require more integration than others. For example, a simple game such as [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) requires only a one-liner: "Aliens are invading Earth, and only you can stop them." Why? It doesn't matter. The player's imagination takes care of that. At the other end of the spectrum, adventure games such as [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango) and [Discworld Noir](https://en.wikipedia.org/wiki/Discworld_Noir) have a detailed and involving story line, as convoluted and structured as any novel. And, of course, we have the middle range—games in which story is important but is not the overriding gameplay feature. This concept is illustrated in Figure 4.1. As we progress across the story spectrum from left to right, the importance of the story increases. Examples of games such as this include [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) and [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) (shown in Figure 4.2).
 
-在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像《太空侵略者》这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如《冥界狂想曲》和《碟形世界：无尽黑夜》的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏——在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))和《路易吉洋楼》（如图 4.2 所示）。
+在本章中，我们将讨论构建引人入胜的故事并将其融入游戏设计的一些指导原则。在某种程度上，故事整合的重要性取决于你所设计的游戏类型：有些游戏比其他游戏需要更多的整合。例如，像[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)这样的简单游戏只需要一句话：“外星人正在入侵地球，只有你能阻止他们”。为什么？这并不重要。玩家的想象力可以解决这个问题。在另一端，冒险游戏如[《冥界狂想曲》](https://en.wikipedia.org/wiki/Grim_Fandango)和[《碟形世界：无尽黑夜》](https://en.wikipedia.org/wiki/Discworld_Noir)的故事情节详尽而跌宕起伏，其曲折性和结构性不亚于任何小说。当然，我们还有位于中间的游戏——在这些游戏中，故事很重要，但并不是压倒一切的游戏特征。图 4.1 举例说明了这一概念。当我们从左到右跨越故事光谱时，故事的重要性就会增加。这样的游戏包括[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))和[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)（如图 4.2 所示）。
 
 Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
@@ -24,9 +24,9 @@ In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), the story 
 
 # Stories in Games 游戏里的故事
 
-The use of stories in games is a fundamental part of game design. A game without a story becomes an abstract construct. Of course, for some games, such as Tetris, this is ideal, but the vast majority are much improved by the addition of a story.
+The use of stories in games is a fundamental part of game design. A game without a story becomes an abstract construct. Of course, for some games, such as [Tetris](https://en.wikipedia.org/wiki/Tetris), this is ideal, but the vast majority are much improved by the addition of a story.
 
-在游戏中使用故事是游戏设计的基本组成部分。没有故事的游戏只是一种抽象的构架。当然，对于某些游戏（如《俄罗斯方块》）来说，这是理想的状态，但对于绝大多数游戏来说，加入故事会大大改善游戏的效果。
+在游戏中使用故事是游戏设计的基本组成部分。没有故事的游戏只是一种抽象的构架。当然，对于某些游戏（如[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)）来说，这是理想的状态，但对于绝大多数游戏来说，加入故事会大大改善游戏的效果。
 
 Over the course of the 20th century, story form and design have been researched. As always, research gravitates toward money, so the most significant portion of this research over the last few years has tended to be about Hollywood and the movie industry. The rewards for a hit movie are usually much greater than the equivalent rewards for a best-selling book, so this is where we find the most accessible information.
 
@@ -40,15 +40,15 @@ Previously, we mentioned the story spectrum as applied to games. At one end of t
 
 之前，我们提到了应用于游戏的故事光谱。在这个光谱的一端，我们有一个简单的背景故事——通常是简短的一句或一段话，为游戏设定主题。这通常是相当微小的东西，所以我们不会过多关注。然而，到了另一个极端，故事的重要性就会增加，在那些故事就是游戏的游戏中达到顶峰。在这种情况下，你会发现单一神话的重复元素，而在这种情况下，故事的结构和定义是最重要的。因此，我们将重点关注这一领域。
 
-Don't worry, though: All the concepts we discuss are equally applicable to the lighter end of the story spectrum. It's just that they are not as important for the success (or failure) of the game. If a game has a bad backstory, and the backstory has little impact on the game, then no one is really going to care. In fact, a number of games pride themselves on the absurdity of their (either real or implied) backstory. Consider Sega's Super Monkey Ball. The player's avatar is a monkey. In a ball. Collecting bananas. And as far as we can tell, that is the extent of the story, which is fine for that particular game. Any attempt to flesh it out further would be extraneous effort.
+Don't worry, though: All the concepts we discuss are equally applicable to the lighter end of the story spectrum. It's just that they are not as important for the success (or failure) of the game. If a game has a bad backstory, and the backstory has little impact on the game, then no one is really going to care. In fact, a number of games pride themselves on the absurdity of their (either real or implied) backstory. Consider Sega's [Super Monkey Ball](https://en.wikipedia.org/wiki/Super_Monkey_Ball). The player's avatar is a monkey. In a ball. Collecting bananas. And as far as we can tell, that is the extent of the story, which is fine for that particular game. Any attempt to flesh it out further would be extraneous effort.
 
-不过不用担心：我们讨论的所有概念同样适用于故事光谱上轻松的一端。只是它们对游戏的成功（或失败）没有那么重要罢了。如果一款游戏的背景故事很糟糕，而背景故事对游戏的影响又很小，那么就不会有人在乎。事实上，许多游戏都以其（真实或隐含的）背景故事的荒谬性而自豪。比如世嘉的《超级猴子球》。玩家的化身是一只猴子。关在一个球里。收集香蕉。据我们所知，这就是故事的全部内容，对这款游戏来说也没什么问题。任何进一步充实故事的尝试都是多余的。
+不过不用担心：我们讨论的所有概念同样适用于故事光谱上轻松的一端。只是它们对游戏的成功（或失败）没有那么重要罢了。如果一款游戏的背景故事很糟糕，而背景故事对游戏的影响又很小，那么就不会有人在乎。事实上，许多游戏都以其（真实或隐含的）背景故事的荒谬性而自豪。比如世嘉的[《超级猴子球》](https://en.wikipedia.org/wiki/Super_Monkey_Ball)。玩家的化身是一只猴子。关在一个球里。收集香蕉。据我们所知，这就是故事的全部内容，对这款游戏来说也没什么问题。任何进一步充实故事的尝试都是多余的。
 
 ## Simple Backstories 简单的背景故事
 
-Not all games require a detailed and rigorous story. Often a couple of short paragraphs just setting the background are required. For example, a game such as R-Type doesn't need much of a story line. An evil galactic empire is invading, and you're the only one who can stop it. Original? No. Good enough for the purpose? Yes.
+Not all games require a detailed and rigorous story. Often a couple of short paragraphs just setting the background are required. For example, a game such as [R-Type](https://en.wikipedia.org/wiki/R-Type) doesn't need much of a story line. An evil galactic empire is invading, and you're the only one who can stop it. Original? No. Good enough for the purpose? Yes.
 
-并非所有游戏都需要详细而严谨的故事。通常只需要几段简短的背景介绍即可。例如，像《异形战机》这样的游戏并不需要太多的故事情节。一个邪恶的银河帝国正在入侵，而你是唯一能阻止它的人。原创吗？不是。够用了吗？是的。
+并非所有游戏都需要详细而严谨的故事。通常只需要几段简短的背景介绍即可。例如，像[《异形战机》](https://en.wikipedia.org/wiki/R-Type)这样的游戏并不需要太多的故事情节。一个邪恶的银河帝国正在入侵，而你是唯一能阻止它的人。原创吗？不是。够用了吗？是的。
 
 If a game doesn't require a detailed backstory, there is nothing to be gained by adding one. Think carefully before you decide this, though; consider the difference that the addition of a story made to [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). (For those of you who don't know, Half-Life was the first decent attempt at a first-person shooter with a strong backstory.)
 
@@ -94,9 +94,9 @@ The theme of a story is the philosophical idea that the author is trying to expr
 
 ## The Monomyth and the Hero's Journey 单一神话与英雄之旅
 
-What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called The Hero with a Thousand Faces, exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
+What is this construct that we are calling the monomyth? In 1949, Joseph Campbell published a seminal work called [The Hero with a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces), exploring the interrelationship among the legends and myths of cultures throughout the world and extracting a complex pattern that all of these stories followed. This pattern, the monomyth, is called "The Hero's Journey" and describes a series of steps and sequences that the story follows, charting the progress of the story's hero. The archetypal character types—those that occur across all cultures and ages—are incumbent features of the hero's journey. These powerful archetypes are so innately recognizable by all individuals through Jung's concept of the collective unconscious that they have a familiar resonance that serves to strengthen and validate the story. We cover these in detail in the next chapter. The following quote summarizes Campbell's belief in the universal story form.
 
-什么是我们所说的“单一神话”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作《千面英雄》，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单一神话，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型——那些出现在所有文化和时代中的人物——是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
+什么是我们所说的“单一神话”？1949 年，约瑟夫·坎贝尔出版了一部开创性著作[《千面英雄》](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)，探讨了世界各地文化传说和神话之间的相互关系，总结出了所有这些故事都遵循的一个综合模式。这种模式，单一神话，被称为“英雄之旅”，描述了故事所遵循的一系列步骤和顺序，描绘了故事主人公的成长历程。原型人物类型——那些出现在所有文化和时代中的人物——是英雄之旅的固有特征。通过荣格的集体无意识概念，这些强大的原型是所有个体与生俱来就能识别的，因此它们会产生一种熟悉的共鸣，从而强化和认可故事。我们将在下一章详细介绍。下面这段话概括了坎贝尔对普遍故事形式的信念。
 
 {% hint style="info" %}
 译者注：hero，根据上下文来确定它翻译为“英雄”或是“主人公”，“主角”。唯一差别是，英雄需多了一些英勇行为、高尚品质等优秀的特点。
@@ -110,9 +110,9 @@ What is this construct that we are calling the monomyth? In 1949, Joseph Campbel
 
 ——约瑟夫·坎贝尔，《千面英雄》，1949 年
 
-Despite the excellence of Campbell's book, it can be somewhat heavy going, and for all but the most story-intensive games, it could be considered overkill. The Hero with a Thousand Faces is recommended as an essential addition to the game designer's reference library. For the purposes of this chapter, we want to make use of a slightly lighter analysis, one that has been updated with modern considerations and that presents the concepts in a clearer fashion.
+Despite the excellence of Campbell's book, it can be somewhat heavy going, and for all but the most story-intensive games, it could be considered overkill. [The Hero with a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces) is recommended as an essential addition to the game designer's reference library. For the purposes of this chapter, we want to make use of a slightly lighter analysis, one that has been updated with modern considerations and that presents the concepts in a clearer fashion.
 
-尽管坎贝尔的书非常出色，但它的内容可能有些繁重，对于除故事性最强的游戏之外的所有游戏来说，这本书可能会被认为是矫枉过正。建议将《千面英雄》作为游戏设计者的必备参考书。在本章中，我们希望使用稍微浅显一些的分析，这种分析已根据现代考虑因素进行了更新，并以更清晰的方式介绍了相关概念。
+尽管坎贝尔的书非常出色，但它的内容可能有些繁重，对于除故事性最强的游戏之外的所有游戏来说，这本书可能会被认为是矫枉过正。建议将[《千面英雄》](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)作为游戏设计者的必备参考书。在本章中，我们希望使用稍微浅显一些的分析，这种分析已根据现代考虑因素进行了更新，并以更清晰的方式介绍了相关概念。
 
 Fortunately, such a work exists. In 1993, screenwriter Christopher Vogler published the first edition of a book based on a seven-page pamphlet that he had been circulating around the Hollywood studio where he worked. This pamphlet, "A Practical Guide to the Hero's Journey," took the movie industry by storm, and the obvious step for Vogler was to expand the work and publish a book based on it. This book, The Writer's Journey, presents the concepts and ideas of the hero's journey in a concise and easily digestible form. It's not a perfect fit for our purposes, but it is an excellent start. As such, it forms the basis of our analysis of stories and comes heavily recommended. Any serious game designer needs to read this book thoroughly.
 
@@ -219,9 +219,9 @@ This is where you introduce the hero to the player. You want to make the player 
 
 这是向玩家介绍主人公的地方。你要让玩家认同主人公。这一点至关重要——如果做不到这一点，玩家就不会有玩游戏的冲动。做到这一点的方法有很多，但让玩家认同主人公的最有效方法可能就是利用玩家的情感。
 
-We discuss non–story-based methods of creating the bond between the player and the hero in the next chapter. For now, let's consider how you can use the story to accomplish the same task. Often in classical literature, the hero has a flaw or some mental or spiritual wound that the reader can empathize with. This doesn't necessarily mean that the hero needs to be an inmate of a mental asylum (although some games have used just that mechanism—American McGee's Alice, shown in Figure 4.4, was set in the fantasies of a female patient).
+We discuss non–story-based methods of creating the bond between the player and the hero in the next chapter. For now, let's consider how you can use the story to accomplish the same task. Often in classical literature, the hero has a flaw or some mental or spiritual wound that the reader can empathize with. This doesn't necessarily mean that the hero needs to be an inmate of a mental asylum (although some games have used just that mechanism—[American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee%27s_Alice), shown in Figure 4.4, was set in the fantasies of a female patient).
 
-我们将在下一章讨论在玩家和主人公之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制——图 4.4 中所示的《爱丽丝梦游魔境》就是以一位女病人的幻想为背景的）。
+我们将在下一章讨论在玩家和主人公之间建立联系的非故事性方法。现在，让我们考虑一下如何利用故事来完成同样的任务。在古典文学作品中，主人公通常都有缺点，或者有一些心理或精神上的创伤，让读者感同身受。这并不一定意味着主人公必须是精神病院的囚犯（尽管有些游戏正是采用了这种机制——图 4.4 中所示的[《爱丽丝梦游魔境》](https://en.wikipedia.org/wiki/American_McGee%27s_Alice)就是以一位女病人的幻想为背景的）。
 
 Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
@@ -253,25 +253,25 @@ The call to adventure is often the catalyst or trigger that initiates the story 
 
 冒险的召唤往往是故事线的催化剂或触发器。它可以有多种形式，我们将在这里详细介绍其中的一些。在一些故事中，主人公会接到多种召唤。然后，主人公的任务就是决定如何安排这些召唤的优先顺序——先回答哪些召唤，还是直接拒绝哪些召唤。在某些情况下，设计者已经决定了这些优先顺序，或者至少已经暗示了这些优先顺序。
 
-Ultima VII epitomizes this concept. The avatar really leaves his own world through an obelisk into the fictional world of Brittania. In a sense, there are two dimensions to the fiction in the game because the "real world" is the initial setting of a fictional story. This extra dimension adds tremendously to the game experience, by adding yet another level to the suspension of disbelief. When playing Ultima VII, the player is fully engaged in the game world and the character. When players occasionally do think about the "real world," it is often thoughts of the avatar's "real world," not their own. They empathize with the avatar's wish to return home. In other words, they're sympathetic to the plight of a fictional game character!
+[Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) epitomizes this concept. The avatar really leaves his own world through an obelisk into the fictional world of Brittania. In a sense, there are two dimensions to the fiction in the game because the "real world" is the initial setting of a fictional story. This extra dimension adds tremendously to the game experience, by adding yet another level to the suspension of disbelief. When playing [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate), the player is fully engaged in the game world and the character. When players occasionally do think about the "real world," it is often thoughts of the avatar's "real world," not their own. They empathize with the avatar's wish to return home. In other words, they're sympathetic to the plight of a fictional game character!
 
-《创世纪七》就是这一概念的缩影。化身真的通过方尖碑离开了自己的世界，进入了虚构的布里塔尼亚世界。从某种意义上说，游戏中的虚构有两个维度，因为“真实世界”是虚构故事的初始背景。这个额外的维度极大地增加了游戏体验，让玩家的信任感更上一层楼。在玩《创世纪七》时，玩家会全身心地投入到游戏世界和角色之中。当玩家偶尔想到“现实世界”时，往往想到的是化身的“现实世界”，而不是自己的世界。他们同情化身回家的愿望。换句话说，他们同情虚构游戏角色的困境！
+[《创世纪七》](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate)就是这一概念的缩影。化身真的通过方尖碑离开了自己的世界，进入了虚构的布里塔尼亚世界。从某种意义上说，游戏中的虚构有两个维度，因为“真实世界”是虚构故事的初始背景。这个额外的维度极大地增加了游戏体验，让玩家的信任感更上一层楼。在玩[《创世纪七》](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate)时，玩家会全身心地投入到游戏世界和角色之中。当玩家偶尔想到“现实世界”时，往往想到的是化身的“现实世界”，而不是自己的世界。他们同情化身回家的愿望。换句话说，他们同情虚构游戏角色的困境！
 
-Often the call to adventure is personal to the hero. Nintendo uses this technique a lot, particularly in the Mario series of games. For example, usually the Princess manages to get herself captured, and Mario, being the sterling sort of hero that he is, feels a burning urge to rescue her. This is a common thread running through the entire series of games. The call to adventure often involves family or friends in jeopardy. In Luigi's Mansion, Luigi is called upon to rescue his brother, who is lost inside a mysterious haunted house.
+Often the call to adventure is personal to the hero. Nintendo uses this technique a lot, particularly in the Mario series of games. For example, usually the Princess manages to get herself captured, and Mario, being the sterling sort of hero that he is, feels a burning urge to rescue her. This is a common thread running through the entire series of games. The call to adventure often involves family or friends in jeopardy. In [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion), Luigi is called upon to rescue his brother, who is lost inside a mysterious haunted house.
 
-冒险的召唤往往是主人公个人的。任天堂经常使用这种技巧，尤其是在马里奥系列游戏中。例如，通常公主会被抓走，而马里奥作为一个高尚的英雄，会有一种拯救公主的冲动。这是贯穿整个系列游戏的一条主线。在冒险的召唤中，家人或朋友往往处于危险之中。在《路易吉洋楼》中，路易吉被召唤去营救迷失在神秘鬼屋中的哥哥。
+冒险的召唤往往是主人公个人的。任天堂经常使用这种技巧，尤其是在马里奥系列游戏中。例如，通常公主会被抓走，而马里奥作为一个高尚的英雄，会有一种拯救公主的冲动。这是贯穿整个系列游戏的一条主线。在冒险的召唤中，家人或朋友往往处于危险之中。在[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)中，路易吉被召唤去营救迷失在神秘鬼屋中的哥哥。
 
 Of course, the call does not need to be on a level personal to the hero. External events are often used as a call to adventure. Some grand event happening on a large scale might act as the call. In these cases, only the hero's sense of decency (or other motivation, such as avarice) propels the hero into adventure.
 
 当然，这种召唤并不一定是对主人公个人的召唤。外部事件也经常被用作冒险的召唤。一些大规模发生的宏大事件可以作为召唤。在这种情况下，只有英雄的正义感（或其他动机，如贪婪）才能推动英雄去冒险。
 
-Temptation can always be used as a call. Many forms of temptation exist, but in games, it usually comes in the form of greed. There are various reasons for this. One is that sexual temptation does not make a very good theme for a game. A few games have tried to use this, but they were, for the most part, poor games, and in some cases, verged on the extremely distasteful, with Custer's Revenge (which can be seen with a Google search) being a particularly obnoxious (and classic) example.
+Temptation can always be used as a call. Many forms of temptation exist, but in games, it usually comes in the form of greed. There are various reasons for this. One is that sexual temptation does not make a very good theme for a game. A few games have tried to use this, but they were, for the most part, poor games, and in some cases, verged on the extremely distasteful, with [Custer's Revenge](https://en.wikipedia.org/wiki/Custer%27s_Revenge) (which can be seen with a Google search) being a particularly obnoxious (and classic) example.
 
-诱惑总是可以作为一种召唤。诱惑有很多种形式，但在游戏中，它通常以贪婪的形式出现。原因有很多。其一是性诱惑并不是一个很好的游戏主题。有些游戏曾试图使用这一主题，但它们大多是拙劣的游戏，有些甚至令人极为反感，《卡斯特的复仇》（谷歌搜索即可看到）就是一个特别令人讨厌（也是经典）的例子。
+诱惑总是可以作为一种召唤。诱惑有很多种形式，但在游戏中，它通常以贪婪的形式出现。原因有很多。其一是性诱惑并不是一个很好的游戏主题。有些游戏曾试图使用这一主题，但它们大多是拙劣的游戏，有些甚至令人极为反感，[《卡斯特的复仇》](https://en.wikipedia.org/wiki/Custer%27s_Revenge)（谷歌搜索即可看到）就是一个特别令人讨厌（也是经典）的例子。
 
-A far safer and more socially acceptable form of temptation is greed. (You've got to love capitalism!) For example, many games use the old "earn as much cash as possible" or "treasure hunting" paradigms as the call to adventure. Games such as Monopoly Tycoon (and, in fact, the majority of the tycoon-style games) use greed as the motivation to play. Remember, kiddies, greed is good! Even Luigi's Mansion uses treasure hunting as a secondary call (as do the majority of the other games in the series). The primary call is to rescue Mario, but the secondary call is to get rich in the process.
+A far safer and more socially acceptable form of temptation is greed. (You've got to love capitalism!) For example, many games use the old "earn as much cash as possible" or "treasure hunting" paradigms as the call to adventure. Games such as [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon) (and, in fact, the majority of the tycoon-style games) use greed as the motivation to play. Remember, kiddies, greed is good! Even [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) uses treasure hunting as a secondary call (as do the majority of the other games in the series). The primary call is to rescue Mario, but the secondary call is to get rich in the process.
 
-更安全、更能被社会所接受的诱惑形式是贪婪。(你一定会爱上资本主义的！）例如，许多游戏使用“尽可能多地赚取现金”或“寻宝”的老模式作为冒险的号召。《大富翁》等游戏（事实上，大多数大亨类游戏都是如此）将贪婪作为游戏的动机。记住，孩子们，贪婪是好的！即使是《路易吉洋楼》也将寻宝作为次要目的（该系列的大多数其他游戏也是如此）。首要目标是营救马里奥，次要目标是在这个过程中发财。
+更安全、更能被社会所接受的诱惑形式是贪婪。(你一定会爱上资本主义的！）例如，许多游戏使用“尽可能多地赚取现金”或“寻宝”的老模式作为冒险的号召。[《垄断大亨》](https://en.wikipedia.org/wiki/Monopoly_Tycoon)等游戏（事实上，大多数大亨类游戏都是如此）将贪婪作为游戏的动机。记住，孩子们，贪婪是好的！即使是[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)也将寻宝作为次要目的（该系列的大多数其他游戏也是如此）。首要目标是营救马里奥，次要目标是在这个过程中发财。
 
 Sometimes the call comes in the form of a message from a herald, a character archetype. The herald does not have to be an ally of the hero. In fact, the character acting as the herald might reappear as another character archetype later in the game, such as the mentor or the shadow. Examples of the use of the herald to deliver the call are present in many games. The specific example we will use here is Lionhead's [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)). In this game, two mentor characters representing the good and evil sides of the player vie for the player's attention. Both characters call the player to adventure—one on the side of good, and one on the side of evil.
 
@@ -281,9 +281,9 @@ In other situations, the call to adventure isn't an explicit call. It can be the
 
 在其他情况下，冒险的召唤并不是明确的。它可能是主人公由于缺乏或需要某种东西而感到空虚的结果。至于这个“东西”是什么，可以由游戏设计者来选择。例如，在[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)中，主人公因缺乏知识而需要冒险。他被称为“无名者”这一事实表明了这一呼唤的严重性。
 
-The call to adventure does not need to be optional. The hero isn't always given a choice (even if the player is: He can choose to play or not to play). In Space Invaders, the call to adventure is the need to destroy all the aliens to prevent the player's own destruction.
+The call to adventure does not need to be optional. The hero isn't always given a choice (even if the player is: He can choose to play or not to play). In [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders), the call to adventure is the need to destroy all the aliens to prevent the player's own destruction.
 
-对冒险的召唤不一定是可选的。主人公并不一定有选择权（即使玩家有：他可以选择玩或不玩）。在《太空入侵者》（Space Invaders）中，冒险的召唤就是需要消灭所有的外星人，以防止玩家自己被消灭。
+对冒险的召唤不一定是可选的。主人公并不一定有选择权（即使玩家有：他可以选择玩或不玩）。在[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)中，冒险的召唤就是需要消灭所有的外星人，以防止玩家自己被消灭。
 
 ### The Refusal of the Call 拒绝召唤
 
@@ -291,9 +291,9 @@ In the traditional monomyth form, the next stage after the call is the refusal. 
 
 在传统的单一神话结构中，呼唤之后的下一个阶段是拒绝。这个阶段表现了主人公拒绝离开她舒适的平凡世界的提议。这种拒绝并不一定表现为一个宏大的事件——通常，拒绝仅仅表现为主人公内心片刻的疑虑，或者短暂的叛逆情绪爆发。
 
-For a computer game, the call is usually not refused—especially if there is only one call. After all, if that were to occur, there would be no game. That is not to say that the refusal is never issued. Usually, however, it forms part of the initial background story, as is the case with Cutter Slade in Outcast. Cutter's response to the plea for assistance from the G-men is to turn away, slug back a shot of whiskey, and growl, "I'm retired." As an example of drama, this is far more involving than if he'd just leapt to attention and replied, "Yes sir, let's go." It's more believable and compelling, leaving the player wondering, "Will he or won't he?" even though we know he will. More important, it sets the stage for conflict. And conflict, as we all know, is interesting.
+For a computer game, the call is usually not refused—especially if there is only one call. After all, if that were to occur, there would be no game. That is not to say that the refusal is never issued. Usually, however, it forms part of the initial background story, as is the case with Cutter Slade in [Outcast](https://en.wikipedia.org/wiki/Outcast_(video_game)). Cutter's response to the plea for assistance from the G-men is to turn away, slug back a shot of whiskey, and growl, "I'm retired." As an example of drama, this is far more involving than if he'd just leapt to attention and replied, "Yes sir, let's go." It's more believable and compelling, leaving the player wondering, "Will he or won't he?" even though we know he will. More important, it sets the stage for conflict. And conflict, as we all know, is interesting.
 
-对于电脑游戏来说，召唤通常不会被拒绝，尤其是在只有一个召唤的情况下。毕竟，如果真的出现这种情况，游戏也就无从谈起。这并不是说从来没有拒绝过。不过，通常情况下，这种聚会构成了最初背景故事的一部分，《流放者》中的卡特·斯莱德就是如此。面对探员的求助，卡特的反应是转过身去，猛灌一口威士忌，然后咆哮道：“我已经退休了”。从戏剧性的角度看，这比他一跃而起，立正回答“是的，长官，我们走吧”更扣人心弦。这更可信，也更引人注目，让玩家不禁揣测：“他会去吗？还是不会？”尽管我们知道他最终会同意。更重要的是，这为冲突设置了舞台。而冲突，众所周知，是有趣的。
+对于电脑游戏来说，召唤通常不会被拒绝，尤其是在只有一个召唤的情况下。毕竟，如果真的出现这种情况，游戏也就无从谈起。这并不是说从来没有拒绝过。不过，通常情况下，这种聚会构成了最初背景故事的一部分，[《时空英豪》](https://en.wikipedia.org/wiki/Outcast_(video_game))中的卡特·斯莱德就是如此。面对探员的求助，卡特的反应是转过身去，猛灌一口威士忌，然后咆哮道：“我已经退休了”。从戏剧性的角度看，这比他一跃而起，立正回答“是的，长官，我们走吧”更扣人心弦。这更可信，也更引人注目，让玩家不禁揣测：“他会去吗？还是不会？”尽管我们知道他最终会同意。更重要的是，这为冲突设置了舞台。而冲突，众所周知，是有趣的。
 
 The refusal of the call is usually reserved for games that place more of an emphasis on story. For example, a call refusal would make little sense in a simple arcade game; it can be added to the backstory for additional flavor, but in general, it would have little effect on the gameplay.
 
@@ -343,9 +343,9 @@ To enter the special world, the hero must mentally prepare, garner her courage, 
 译者注：loin girding，古代近东人穿着束腰外衣，当男人从事苦役或者打仗时，束腰外衣的下摆常常会妨碍。因此，他们会把下摆卷起，将其塞入腰带或打结以使其远离地面。因此，“束紧腰”就是告诉他准备好艰苦工作或战斗。
 {% endhint %}
 
-The opening scene of Midway's Pac-Land (shown in Figure 4.6) shows Pac-Man leaving the ordinary world of his home and setting out of a strange road full of danger and mystery. The act of leaving the house and heading off through the dangerous ghost-infested path is the crossing of the first threshold.
+The opening scene of Midway's [Pac-Land](https://en.wikipedia.org/wiki/Pac-Land) (shown in Figure 4.6) shows Pac-Man leaving the ordinary world of his home and setting out of a strange road full of danger and mystery. The act of leaving the house and heading off through the dangerous ghost-infested path is the crossing of the first threshold.
 
-Midway的《吃豆人世界》（如图 4.6 所示）的开头场景显示，吃豆人离开了平凡的家庭世界，踏上了一条充满危险和神秘的陌生道路。离开家，穿过鬼魂出没的危险小路，就是跨过了第一道门槛。
+Midway的[《吃豆人世界》](https://en.wikipedia.org/wiki/Pac-Land)（如图 4.6 所示）的开头场景显示，吃豆人离开了平凡的家庭世界，踏上了一条充满危险和神秘的陌生道路。离开家，穿过鬼魂出没的危险小路，就是跨过了第一道门槛。
 
 Figure 4.6. Pac-Land. 图 4.6. 《吃豆人世界》。
 
@@ -361,13 +361,13 @@ The crossing of the threshold is the first test. In this phase, many more simila
 
 跨过门槛是第一个考验。在这一阶段，主人公将面临许多类似的考验。这一阶段通常是游戏故事中最长的阶段，也是游戏的主要部分。
 
-In this phase, the hero ventures forth into the special world and meets many of the character archetypes on the journey. For the majority of games, the character archetypes that the player meets are either allies, shadows, or tricksters. At the left edge of the story spectrum, you would expect to meet mainly shadows. For example, in Space Invaders, the player is alone against the alien onslaught—a hero surrounded by shadow.
+In this phase, the hero ventures forth into the special world and meets many of the character archetypes on the journey. For the majority of games, the character archetypes that the player meets are either allies, shadows, or tricksters. At the left edge of the story spectrum, you would expect to meet mainly shadows. For example, in [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders), the player is alone against the alien onslaught—a hero surrounded by shadow.
 
-在这一阶段，主人公会冒险进入特殊的世界，并在旅途中遇到许多角色原型。在大多数游戏中，玩家遇到的角色原型要么是盟友，要么是阴影，要么是骗子。在故事光谱的左边缘，你会遇到的主要是阴影。例如，在《太空入侵者》中，玩家孤身一人对抗外星入侵者——一个被阴影包围的英雄。
+在这一阶段，主人公会冒险进入特殊的世界，并在旅途中遇到许多角色原型。在大多数游戏中，玩家遇到的角色原型要么是盟友，要么是阴影，要么是骗子。在故事光谱的左边缘，你会遇到的主要是阴影。例如，在[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)中，玩家孤身一人对抗外星入侵者——一个被阴影包围的英雄。
 
-Slightly more complex games often provide allies, such as the fairies at the end of each Pac-Land level. In arcade-style games—those that place more emphasis on the action than the story—these are likely to be the only archetypes present. The player will go through a series of tests with successively more powerful shadows, to be given a brief respite when an ally occasionally shows up to replenish the hero's spirit and resolve. In some cases, the player might even encounter the trickster and shape-shifter archetypes in the form of false allies who turn out to be shadows after all.
+Slightly more complex games often provide allies, such as the fairies at the end of each [Pac-Land](https://en.wikipedia.org/wiki/Pac-Land) level. In arcade-style games—those that place more emphasis on the action than the story—these are likely to be the only archetypes present. The player will go through a series of tests with successively more powerful shadows, to be given a brief respite when an ally occasionally shows up to replenish the hero's spirit and resolve. In some cases, the player might even encounter the trickster and shape-shifter archetypes in the form of false allies who turn out to be shadows after all.
 
-稍微复杂一点的游戏通常会提供盟友，比如《吃豆人世界》每个关卡最后的仙女。在街机风格的游戏中——那些更强调动作而非剧情的游戏——这些可能是唯一的原型。玩家将经历一连串的考验，面对的是一个个越来越强大的阴影，偶尔会有一个盟友出现，补充英雄的精神和决心，让玩家得到短暂的喘息。在某些情况下，玩家甚至会遇到骗子和变形怪的原型，他们会假扮成盟友，但最终却变成了阴影。
+稍微复杂一点的游戏通常会提供盟友，比如[《吃豆人世界》](https://en.wikipedia.org/wiki/Pac-Land)每个关卡最后的仙女。在街机风格的游戏中——那些更强调动作而非剧情的游戏——这些可能是唯一的原型。玩家将经历一连串的考验，面对的是一个个越来越强大的阴影，偶尔会有一个盟友出现，补充英雄的精神和决心，让玩家得到短暂的喘息。在某些情况下，玩家甚至会遇到骗子和变形怪的原型，他们会假扮成盟友，但最终却变成了阴影。
 
 In a more complex game, where story is the biggest consideration, you would expect to see many more character archetypes during this phase of the game. For example, a role-playing game with a well-developed story line would be expected to use all of the major character archetypes many times over and in varying combinations.
 
@@ -401,17 +401,17 @@ The ordeal is the ultimate test: the fight with the nemesis. This is the culmina
 
 这场磨难是终极考验：与宿敌的搏斗。这是故事的巅峰之战。在此之前，主人公可能已经经历过一些严峻的考验，但这才是真正的考验。赌注很高，最终的奖励就在眼前。
 
-Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. Luigi's Mansion, Quake II, [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), R-Type, and Diablo II are some of these. We're sure that you can add hundreds to the list.
+Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion), Quake II, [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), [R-Type](https://en.wikipedia.org/wiki/R-Type), and [Diablo II](https://en.wikipedia.org/wiki/Diablo_II) are some of these. We're sure that you can add hundreds to the list.
 
-许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。《路易吉洋楼》、《雷神之锤二》、[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))、《异形战机》和《暗黑破坏神二》都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
+许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)、[《雷神之锤二》](https://en.wikipedia.org/wiki/Quake_II)、[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))、[《异形战机》](https://en.wikipedia.org/wiki/R-Type)和[《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
 
 During the ordeal, you might try to cement the player's bond with the hero further. This is sometimes achieved by making it appear as if the hero is almost defeated, before fighting back from seemingly impossible odds to defeat the enemy.
 
 在经历磨难的过程中，你可以尝试进一步巩固玩家与主人公之间的联系。有时，可以通过让英雄看起来几乎被打败，然后在看似不可能的情况下奋起反击，打败敌人来达到这一目的。
 
-In the ordeal, the hero faces the ultimate shadow. Defeat means failure, final and absolute. Victory means claiming the reward and the ultimate success. However, sometimes achieving victory is possible in many ways and at many levels, not all of them immediately obvious. For example, in the case of games such as LucasArts' Jedi Knight series, it could mean deciding whether to fight the ultimate nemesis.
+In the ordeal, the hero faces the ultimate shadow. Defeat means failure, final and absolute. Victory means claiming the reward and the ultimate success. However, sometimes achieving victory is possible in many ways and at many levels, not all of them immediately obvious. For example, in the case of games such as LucasArts' [Jedi Knight](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight) series, it could mean deciding whether to fight the ultimate nemesis.
 
-在这场磨难中，英雄面对的是终极阴影。战败意味着彻底而绝对的失败，而胜利则意味着夺取奖励并获得最终的成功。然而，有时候取得胜利可以通过多种方式和多个层面实现，并非所有方式都是直白明显。例如，在 LucasArts 的《绝地武士》系列等游戏中，这可能意味着决定是否与终极敌人作战。
+在这场磨难中，英雄面对的是终极阴影。战败意味着彻底而绝对的失败，而胜利则意味着夺取奖励并获得最终的成功。然而，有时候取得胜利可以通过多种方式和多个层面实现，并非所有方式都是直白明显。例如，在 LucasArts 的[《绝地武士》](https://en.wikipedia.org/wiki/Star_Wars:_Jedi_Knight)系列等游戏中，这可能意味着决定是否与终极敌人作战。
 
 ### The Reward 奖励
 
@@ -427,9 +427,9 @@ Many games end at this point. Some of these show the remaining story as a final 
 
 许多游戏到此就结束了。其中一些游戏用最后的过场动画来展示剩余的故事。对其他游戏来说，这仅仅是最终阶段的开始。
 
-Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of Unreal. After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
+Note that nothing says that the reward has to be the same one that the hero set out for at the beginning of the story. In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), Gordon Freeman initially sets out to escape from the alien-infested laboratory. By the end of the story, the stakes—and the potential reward for success—are much higher. The important thing is to make sure that the reward reflects the effort expended in reaching it. Nothing falls flat more than an insignificant reward—an excellent example of this being the ending of [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game)). After fighting the alien threat and escaping the planet, the player's avatar is left drifting in space as his escape pod runs out of fuel. The assumption is that you will eventually be rescued—or not (see Figure 4.7).
 
-请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——《虚幻》的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
+请注意，没有任何规定说奖励必须与主人公在故事开始时的出发点相同。在[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，戈登·弗里曼最初的目的是逃离外星人出没的实验室。到了故事的结尾，赌注和成功的潜在奖励都要高得多。重要的是要确保奖励能够反映出为实现奖励所付出的努力。没有什么比微不足道的奖励更让人失望了——[《虚幻》](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))的结局就是一个很好的例子。在与外星威胁战斗并逃离星球后，玩家的化身因逃生舱燃料耗尽而漂流在太空中。不知道最终会获救，还是不会（见图 4.7）。
 
 Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局。
 
@@ -441,9 +441,9 @@ With the reward won, the hero now has to prepare for the journey back to the ord
 
 获得奖励后，主人公现在要准备返回普通世界的旅程。冒险的经历已经改变了主人公，她可能很难（如果不是不可能）成功融入普通世界。正如我们所说，大多数游戏的互动故事都没有做到这一步——相反，它们会将这一故事元素和下面两个故事元素留到最后的过场动画中。
 
-Interplay's Fallout (shown in Figure 4.8) used this particular element to good effect. In this post-apocalyptic role-playing game, the hero was tasked with finding a replacement chip to the water processor to allow the vault-dwellers to continue living in their underground vault. The hero was sent out into the radioactive wilderness to find this chip and, after many adventures, successfully returned with the reward. Upon his return, he was not permitted to re-enter the vault. The vault elders claimed that he had been so changed by his journey that he was too dangerous to be allowed to live in the vault with the others. Hence, he was turned away from his old ordinary world. His special world became his new ordinary world.
+Interplay's [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game)) (shown in Figure 4.8) used this particular element to good effect. In this post-apocalyptic role-playing game, the hero was tasked with finding a replacement chip to the water processor to allow the vault-dwellers to continue living in their underground vault. The hero was sent out into the radioactive wilderness to find this chip and, after many adventures, successfully returned with the reward. Upon his return, he was not permitted to re-enter the vault. The vault elders claimed that he had been so changed by his journey that he was too dangerous to be allowed to live in the vault with the others. Hence, he was turned away from his old ordinary world. His special world became his new ordinary world.
 
-Interplay 的《辐射》（如图 4.8 所示）很好地利用了这一特殊元素。在这款末世角色扮演游戏中，主人公的任务是找到水处理器的替代芯片，让地窖居民继续生活在地下地窖中。主人公被派往放射性荒野寻找芯片，经过多次冒险后，他带着奖励成功返回。回来后，他被禁止再次进入地窖。保险库的长老们声称，他的旅程改变了他，让他和其他人一起住在保险库里太危险了。因此，他被赶出了原来的普通世界。他的特殊世界成了他新的普通世界。
+Interplay 的[《辐射》](https://en.wikipedia.org/wiki/Fallout_(video_game))（如图 4.8 所示）很好地利用了这一特殊元素。在这款末世角色扮演游戏中，主人公的任务是找到水处理器的替代芯片，让地窖居民继续生活在地下地窖中。主人公被派往放射性荒野寻找芯片，经过多次冒险后，他带着奖励成功返回。回来后，他被禁止再次进入地窖。保险库的长老们声称，他的旅程改变了他，让他和其他人一起住在保险库里太危险了。因此，他被赶出了原来的普通世界。他的特殊世界成了他新的普通世界。
 
 Figure 4.8. Fallout. 图 4.8. 《辐射》。
 
@@ -543,9 +543,9 @@ In this book, we've defined narrative to mean the noninteractive part of a compu
 
 在本书中，我们将“叙事”定义为电脑游戏故事中的非交互部分，即作为设计者和作者告诉玩家事情而不让他做任何事情的部分。这个定义忽略了文学理论和围绕现代创意写作的所有学术争论，但它符合我们的目的：讨论游戏中讲故事的本质以及互动和非互动元素之间的关系。
 
-From this definition, you can see that a game's story content can be divided into interactive and noninteractive parts: the gameplay and the narrative. These exist in inverse proportion to one another: The more you have of one, the less you have of the other. A novel or a movie has no gameplay; it is entirely narrative. A simple arcade game such as Space Invaders has no narrative; it is entirely gameplay. The majority of home computer and console games lie somewhere in between; they seek to strike a balance between gameplay and narrative. You, as the designer, must decide where that balance lies.
+From this definition, you can see that a game's story content can be divided into interactive and noninteractive parts: the gameplay and the narrative. These exist in inverse proportion to one another: The more you have of one, the less you have of the other. A novel or a movie has no gameplay; it is entirely narrative. A simple arcade game such as [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) has no narrative; it is entirely gameplay. The majority of home computer and console games lie somewhere in between; they seek to strike a balance between gameplay and narrative. You, as the designer, must decide where that balance lies.
 
-从这个定义中可以看出，游戏的故事内容可以分为互动和非互动两部分：游戏性和叙事性。这两部分的存在是互成反比的：其中一个部分越多，另一个部分就越少。小说或电影没有游戏性，完全是叙事性。一款简单的街机游戏，如《太空侵略者》，没有叙事性，完全是游戏性。大多数家用电脑和游戏机游戏介于两者之间；它们力求在游戏性和叙事性之间取得平衡。作为设计者，你必须决定平衡点在哪里。
+从这个定义中可以看出，游戏的故事内容可以分为互动和非互动两部分：游戏性和叙事性。这两部分的存在是互成反比的：其中一个部分越多，另一个部分就越少。小说或电影没有游戏性，完全是叙事性。一款简单的街机游戏，如[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)，没有叙事性，完全是游戏性。大多数家用电脑和游戏机游戏介于两者之间；它们力求在游戏性和叙事性之间取得平衡。作为设计者，你必须决定平衡点在哪里。
 
 ### The Role of Narrative 叙事的作用
 
@@ -583,9 +583,9 @@ The raison d'être of all computer gaming is interactivity: giving the player so
 
 ## Multi-Part Stories 多部分故事
 
-Not all stories are told in one session. The games industry has expressed much interest in the possibilities provided by episodic delivery. This can mean anything from a simple sequel to a hit game (as in the Final Fantasy series) or a properly episodic game such as the ill-fated Majestic from Electronic Arts.
+Not all stories are told in one session. The games industry has expressed much interest in the possibilities provided by episodic delivery. This can mean anything from a simple sequel to a hit game (as in the [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) series) or a properly episodic game such as the ill-fated [Majestic](https://en.wikipedia.org/wiki/Majestic_(video_game)) from Electronic Arts.
 
-并不是所有的故事都能一口气讲完。游戏业对分集交付提供的可能性表现出极大的兴趣。这可以是热门游戏的简单续集（如《最终幻想》系列），也可以是真正的分集游戏，如艺电公司命运多舛的《Majestic》。
+并不是所有的故事都能一口气讲完。游戏业对分集交付提供的可能性表现出极大的兴趣。这可以是热门游戏的简单续集（如[《最终幻想》](https://en.wikipedia.org/wiki/Final_Fantasy)系列），也可以是真正的分集游戏，如艺电公司命运多舛的[《宏伟》](https://en.wikipedia.org/wiki/Majestic_(video_game))。
 
 There are three main forms for episodic delivery; these are indicated in Figures 4.12, 4.13, and 4.14 and are discussed in the following sections.
 
@@ -627,9 +627,9 @@ If the serial comes to an end, it's usually because of the failure of the story,
 
 如果连续剧走到尽头，通常是因为故事失败了，要么是因为收视率或销量下降，要么是因为故事编剧没有了灵感（不过从电视上的一些肥皂剧来看，有些连续剧似乎甚至在这种致命打击之后仍然存活了下来）。一部连续剧的具体悲惨命运可以由它的结局来决定。如果结束得很突然，没有试图解决情节问题，那么销量或收视率肯定会下降。如果试图做一些收尾工作，那么这部连续剧很可能就自然结束了。与连续剧相对应的是肥皂剧，如《达拉斯》，或者是大多数人可能太年轻而不记得的老式周六早间连续剧，如《火箭侠》、《飞侠哥顿》和《无敌浩克》。
 
-You might be wondering why we're going to such lengths describing something that seems to apply only to television. With the advent of games such as Majestic and the continued rumbling of the industry on the subject of episodic (or Webisodic) games, it's a fair bet that we're going to be seeing attempts at providing some sort of interactive serials over the next few years. How successful these will be is open to argument, but being able to charge a monthly fee for new material is a very appealing honey pot. (Witness the success of EverQuest, with roughly 400,000 subscribers each shelling out $10 a month for access.) Figure 4.13 is a depiction of the structure of a serial.
+You might be wondering why we're going to such lengths describing something that seems to apply only to television. With the advent of games such as [Majestic](https://en.wikipedia.org/wiki/Majestic_(video_game)) and the continued rumbling of the industry on the subject of episodic (or Webisodic) games, it's a fair bet that we're going to be seeing attempts at providing some sort of interactive serials over the next few years. How successful these will be is open to argument, but being able to charge a monthly fee for new material is a very appealing honey pot. (Witness the success of [EverQuest](https://en.wikipedia.org/wiki/EverQuest), with roughly 400,000 subscribers each shelling out $10 a month for access.) Figure 4.13 is a depiction of the structure of a serial.
 
-你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着《Majestic》等游戏的出现，以及业界对剧情式（或网络剧）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（《无尽的任务》的成功就是最好的证明，它拥有大约 40 万名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
+你可能会奇怪，为什么我们要花这么大的篇幅来描述一些似乎只适用于电视的东西。随着[《宏伟》](https://en.wikipedia.org/wiki/Majestic_(video_game))等游戏的出现，以及业界对剧情式（或网络剧）游戏话题的持续热议，可以肯定的是，在接下来的几年里，我们将会看到有人尝试提供某种互动式连续剧。至于成功的可能性有多大，还有待商榷，但能够每月为新资料收费却是一个非常诱人的蜜罐（[《无尽的任务》](https://en.wikipedia.org/wiki/EverQuest)的成功就是最好的证明，它拥有大约 40 万名用户，每人每月支付 10 美元）。图 4.13 描述了连续剧的结构。
 
 ### Episodic Delivery 分集交付
 
@@ -674,11 +674,11 @@ The importance of story to a game tends to vary according to the complexity of t
 
 Actually, that's not quite true. Apart from technical limitations, there is no reason why a story cannot be fully interactive and still be satisfying. Star Trek's holodeck often featured realistic characters and story lines, which adapted realistically to the characters. Of course, we're still a long way from that, even at the most basic level. Chris Crawford's Erasmatron (available from [www.erasmatazz.com](www.erasmatazz.com)) makes bold strides in this direction, but there is still a long way to go.
 
-事实上，这并不完全正确。除了技术上的限制外，故事没有理由不能完全互动，而且还能令人满意。星际迷航》中的全息甲板经常出现逼真的人物和故事线，它们都能真实地适应人物。当然，即使在最基本的层面上，我们离这个目标还有很长的路要走。克里斯·克劳福德的《Erasmatron》（可从 [www.erasmatazz.com](www.erasmatazz.com) 上下载）在这方面迈出了大胆的步伐，但还有很长的路要走。
+事实上，这并不完全正确。除了技术上的限制外，故事没有理由不能完全互动，而且还能令人满意。《星际迷航》中的全息甲板经常出现逼真的人物和故事线，它们都能真实地适应人物。当然，即使在最基本的层面上，我们离这个目标还有很长的路要走。克里斯·克劳福德的《Erasmatron》（可从 [www.erasmatazz.com](www.erasmatazz.com) 上下载）在这方面迈出了大胆的步伐，但还有很长的路要走。
 
-As we've already stated, not all games need a well-developed story—or even a story at all. For those that do, the stories we've seen so far are generally not that strong. Even the best of them would not make good movies. Those games that have crossed over into movies have been (virtually without exception) poor. Consider the screen versions of Final Fantasy, Mortal Kombat, Super Mario Brothers, and Tomb Raider. Granted, the original story lines of the games were not that strong to begin with (with the possible exception of Final Fantasy), but watching the films, it becomes clear that they certainly weren't strong enough to support a film.
+As we've already stated, not all games need a well-developed story—or even a story at all. For those that do, the stories we've seen so far are generally not that strong. Even the best of them would not make good movies. Those games that have crossed over into movies have been (virtually without exception) poor. Consider the screen versions of [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy), [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat), [Super Mario Brothers](https://en.wikipedia.org/wiki/Super_Mario_Bros.), and [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider). Granted, the original story lines of the games were not that strong to begin with (with the possible exception of [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)), but watching the films, it becomes clear that they certainly weren't strong enough to support a film.
 
-我们已经说过，并非所有游戏都需要一个完善的故事，甚至根本不需要故事。对于那些需要故事的游戏，我们迄今为止看到的故事一般都不那么精彩。即使是最好的故事也无法拍成电影。那些被改编成电影的游戏（几乎无一例外）都很糟糕。比如《最终幻想》、《真人快打》、《超级马里奥兄弟》和《古墓丽影》的电影版。诚然，这些游戏的原始故事线本来就不是很强（《最终幻想》可能是个例外），但看了这些电影后，就会发现它们的故事线肯定不足以支撑一部电影。
+我们已经说过，并非所有游戏都需要一个完善的故事，甚至根本不需要故事。对于那些需要故事的游戏，我们迄今为止看到的故事一般都不那么精彩。即使是最好的故事也无法拍成电影。那些被改编成电影的游戏（几乎无一例外）都很糟糕。比如[《最终幻想》](https://en.wikipedia.org/wiki/Final_Fantasy)、[《真人快打》](https://en.wikipedia.org/wiki/Mortal_Kombat)、[《超级马里奥兄弟》](https://en.wikipedia.org/wiki/Super_Mario_Bros.)和[《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)的电影版。诚然，这些游戏的原始故事线本来就不是很强（[《最终幻想》](https://en.wikipedia.org/wiki/Final_Fantasy)可能是个例外），但看了这些电影后，就会发现它们的故事线肯定不足以支撑一部电影。
 
 The techniques presented in this chapter are useful for guiding your story development. Remember, however, that story creation is not a formulaic activity. A fair amount of grunt work and creativity still is required. In the words of Christopher Vogler, the hero's journey is a form, not a formula. That is, it's a pattern (one of many) that can be used to develop your game story.
 
