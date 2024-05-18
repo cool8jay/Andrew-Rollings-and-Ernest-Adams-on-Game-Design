@@ -54,9 +54,9 @@ Another example of a choice that is not directly a part of the gameplay is the p
 
 另一个不直接影响游戏性的选择是用户自定义“皮肤”在[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))系列和[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))等游戏中的盛行。玩家可以选择任何外观，但这纯粹是一种外观上的选择，通常不会对游戏产生什么影响（除非不道德的玩家利用这一点为自己谋利，故意选择一种能很好地伪装自己的皮肤——例如，在极端的情况下，选择一个移动的、会射击的箱子——或者强迫所有敌对玩家穿上能让自己更显眼的皮肤，例如纯白色）。
 
-Odysseus faced many challenges on his 20-year voyage to return home to his wife, Penelope, in Homer's Odyssey. Gordon Freeman (and, by proxy, the player) faces many challenges on his quest to escape from the Black Mesa Research Laboratory in Valve's [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). [Tetris](https://en.wikipedia.org/wiki/Tetris) players face challenges in their attempts to attain a higher score. Even Pac-Man faces challenges in his attempts to eat all the pellets in the maze while avoiding the evil ghosts bent on his destruction.
+Odysseus faced many challenges on his 20-year voyage to return home to his wife, Penelope, in Homer's Odyssey. Gordon Freeman (and, by proxy, the player) faces many challenges on his quest to escape from the Black Mesa Research Laboratory in Valve's [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)). [Tetris](https://en.wikipedia.org/wiki/Tetris) players face challenges in their attempts to attain a higher score. Even [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) faces challenges in his attempts to eat all the pellets in the maze while avoiding the evil ghosts bent on his destruction.
 
-在荷马史诗《奥德赛》中，奥德修斯为了回到妻子珀涅罗珀身边，在长达 20 年的航行中面临着许多挑战。在 Valve 的[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，戈登·弗里曼（也就是玩家）在逃离黑梅萨研究实验室的过程中面临着许多挑战。[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)的玩家在试图获得更高分的过程中也面临着挑战。就连《吃豆人》也面临着挑战，他既要吃掉迷宫中的所有豆子，又要避开一心想要消灭他的恶鬼。
+在荷马史诗《奥德赛》中，奥德修斯为了回到妻子珀涅罗珀身边，在长达 20 年的航行中面临着许多挑战。在 Valve 的[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))中，戈登·弗里曼（也就是玩家）在逃离黑梅萨研究实验室的过程中面临着许多挑战。[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)的玩家在试图获得更高分的过程中也面临着挑战。就连[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)也面临着挑战，他既要吃掉迷宫中的所有豆子，又要避开一心想要消灭他的恶鬼。
 
 The use of challenges is not perfect, but it'll do. An alternative to the use of the word challenges that we discussed in the past was ordeals, but this was found to be arguably too restrictive. Ideally, we'd like to use a word that indicates a concept somewhere between the two.
 
@@ -112,15 +112,15 @@ A game can contain many challenges of each different type. To save us the insani
 
 An explicit challenge is an intentional challenge specifically designed by the game designer. An example is the exact timing required to dodge the swinging pendulums in [Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena) (see Figure 7.4). This kind of challenge tends to be more immediate and intense than an implicit challenge.
 
-显性挑战是游戏设计者专门设计的有意挑战。例如，在[《雷神之锤 III 竞技场》](https://en.wikipedia.org/wiki/Quake_III_Arena)中，躲避摆动的钟摆需要准确把握时机（见图 7.4）。这种挑战往往比隐性挑战更直接、更激烈。
+显性挑战是游戏设计者专门设计的有意挑战。例如，在[《雷神之锤三竞技场》](https://en.wikipedia.org/wiki/Quake_III_Arena)中，躲避摆动的钟摆需要准确把握时机（见图 7.4）。这种挑战往往比隐性挑战更直接、更激烈。
 
-Figure 7.4. Quake III Arena. 图 7.4. 《雷神之锤 III 竞技场》
+Figure 7.4. Quake III Arena. 图 7.4. 《雷神之锤三竞技场》
 
 ![](.gitbook/assets/7.4.png)
 
-An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as Black Isle's [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate). Implicit challenges tend to be more drawn out and less focused than explicit challenges.
+An implicit challenge is one that is not specifically designed in; in other words, it is an emergent feature of the game design. An example of an implicit challenge is figuring out the most efficient way to distribute items among your group in a traditional computer role-playing game (CRPG) such as [Black Isle](https://en.wikipedia.org/wiki/Black_Isle_Studios)'s [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate). Implicit challenges tend to be more drawn out and less focused than explicit challenges.
 
-隐性挑战是指并非专门设计在内的挑战；换句话说，它是游戏设计中出现的衍生特性。隐性挑战的一个例子是在像黑岛工作室的[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)这样的传统电脑角色扮演游戏（CRPG）中，找出将物品在团队成员之间分配的最有效率的方式。隐性挑战往往比显性挑战更加持久且不那么集中。
+隐性挑战是指并非专门设计在内的挑战；换句话说，它是游戏设计中出现的衍生特性。隐性挑战的一个例子是在像[黑岛](https://en.wikipedia.org/wiki/Black_Isle_Studios)的[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)这样的传统电脑角色扮演游戏（CRPG）中，找出将物品在团队成员之间分配的最有效率的方式。隐性挑战往往比显性挑战更加持久且不那么集中。
 
 Having stated that the challenges present in games are mostly mental, let us take a closer look at the many forms these challenges can take. It's important to note that the following sections describe pure archetypal challenges; that is, they can be categorized as a simple challenge type, such as logic-based or reaction time-based. Not all challenges can be categorized so easily: The "challenge space" is not populated by a set of discrete points representing the archetypal pure challenge types, but instead is a smoothly varying continuum. Challenges can be hybridized (for example, a logic-based puzzle requiring a fast reaction time) and rarely—if at all—appear in their pure form.
 
@@ -224,9 +224,9 @@ Nowadays, memory-based challenges are commonly seen in children's software, and 
 
 如今，基于记忆的挑战通常出现在儿童软件中，即便如此，它们通常也与其他类型的挑战混合在一起。
 
-In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in Raven's [Voyager: Elite Force](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force) is an example of an implicit memory challenge.
+In fact, at the most basic level, it could be said that memory challenges are present in virtually every game; for example, remembering the layout of the complex tunnels onboard the Borg cube in [Raven](https://en.wikipedia.org/wiki/Raven_Software)'s [Voyager: Elite Force](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force) is an example of an implicit memory challenge.
 
-事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在渡鸦公司的[《航海家：精英力量》](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force)中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
+事实上，在最基本的层面上，可以说几乎每款游戏中都有记忆挑战；例如，在[渡鸦](https://en.wikipedia.org/wiki/Raven_Software)公司的[《航海家：精英力量》](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force)中记住博格立方体上复杂隧道的布局就是隐性记忆挑战的例子。
 
 ### Intelligence-Based Challenges 基于智力的挑战
 
@@ -346,9 +346,9 @@ Let us assume that there are no absolutes in morality. This implies that it is f
 
 让我们假设道德没有绝对性。这意味着，对道德挑战给出一个明确的对或错的答案，从根本上说是不正确的；这在很大程度上取决于情景、情绪状态和过去的经验，对一个人来说可能正确的答案，对另一个人来说会是完全错误。举个例子：偷窃是错误的。但是，如果不偷食物就会饿死，偷东西还是错误的么？答案因人而异。
 
-But how does this example apply to games? In many games, the player is asked to make such choices. Raven's [Voyager: Elite Force](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force) presents such a moral challenge early in the game: Should you save your teammate from the Borg and go against the captain's orders, jeopardizing the success of the mission?
+But how does this example apply to games? In many games, the player is asked to make such choices. [Raven](https://en.wikipedia.org/wiki/Raven_Software)'s [Voyager: Elite Force](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force) presents such a moral challenge early in the game: Should you save your teammate from the Borg and go against the captain's orders, jeopardizing the success of the mission?
 
-但这个例子如何应用于游戏呢？在许多游戏中，玩家都需要做出这样的选择。渡鸦公司的[《航海家：精英力量》](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force)在游戏初期就提出了这样的道德挑战：你是否应该从博格人手中救出你的队友，哪怕这会违背船长的命令，甚至危及任务的成功？
+但这个例子如何应用于游戏呢？在许多游戏中，玩家都需要做出这样的选择。[渡鸦](https://en.wikipedia.org/wiki/Raven_Software)公司的[《航海家：精英力量》](https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force)在游戏初期就提出了这样的道德挑战：你是否应该从博格人手中救出你的队友，哪怕这会违背船长的命令，甚至危及任务的成功？
 
 We examine examples of the various forms that moral challenges can take in more detail. Before we can do this, however, we need to further define our various levels of moral challenge. Note that this is subjective: Exactly what defines the differences among universal, cultural, and tribal designations depends on context and the personal views of the observer. In the case of game design, it means that our definitions directly depend on the scope of the game. For example, a game set in America (with no mention of the rest of the world) would treat the whole of America as the universe. From here, the divisions of cultural and tribal entities would depend entirely on the game designers. They are under no compulsion to stick to reality—after all, it is their game.
 
@@ -404,13 +404,13 @@ Figure 7.15. glTron.
 
 graphics/07fig15.jpg
 
-Games that rely on spatial awareness are usually 3D games. The challenge of representing a 3D world on a 2D surface, and the challenge to the player to make sense of that representation form the bulk of the spatial awareness problem. In many cases, the player receives aid in the form of a computer-generated map, but in other cases, such as Quake III, the player is left to his own devices to find his way around the world.
+Games that rely on spatial awareness are usually 3D games. The challenge of representing a 3D world on a 2D surface, and the challenge to the player to make sense of that representation form the bulk of the spatial awareness problem. In many cases, the player receives aid in the form of a computer-generated map, but in other cases, such as [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena), the player is left to his own devices to find his way around the world.
 
-依赖空间感的游戏通常都是三维游戏。在二维平面上表现三维世界的挑战，以及玩家如何理解这种表现形式的挑战，构成了空间感知问题的主要内容。在许多情况下，玩家会得到计算机生成的地图的帮助，但在其他情况下，例如在《雷神之锤 III》中，玩家只能靠自己在世界中寻找方向。
+依赖空间感的游戏通常都是三维游戏。在二维平面上表现三维世界的挑战，以及玩家如何理解这种表现形式的挑战，构成了空间感知问题的主要内容。在许多情况下，玩家会得到计算机生成的地图的帮助，但在其他情况下，例如在[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)中，玩家只能靠自己在世界中寻找方向。
 
-The types of games that usually rely heavily on spatial-awareness challenges are flight simulators, space-flying games, and 3D combat games (particularly Quake III and Unreal Tournament). To a lesser extent, 2D games that involve large playing areas, such as Age of Kings, also use spatial-awareness challenges.
+The types of games that usually rely heavily on spatial-awareness challenges are flight simulators, space-flying games, and 3D combat games (particularly [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena) and [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)). To a lesser extent, 2D games that involve large playing areas, such as Age of Kings, also use spatial-awareness challenges.
 
-飞行模拟器、太空飞行游戏和 3D 战斗游戏（尤其是《雷神之锤 III》和《虚幻竞技场》）通常是非常依赖空间感知挑战的游戏类型。在较小程度上，涉及较大游戏区域的 2D 游戏（如《王者世纪》）也使用空间感知挑战。
+飞行模拟器、太空飞行游戏和 3D 战斗游戏（尤其是[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)和[《虚幻竞技场》](https://en.wikipedia.org/wiki/Unreal_Tournament)）通常是非常依赖空间感知挑战的游戏类型。在较小程度上，涉及较大游戏区域的 2D 游戏（如《王者世纪》）也使用空间感知挑战。
 
 ### Coordination Challenges 协调挑战
 
@@ -462,9 +462,9 @@ Physical challenges are extremely rare in games. The input methods available for
 
 体力挑战在游戏中极为罕见。电脑游戏的输入方法并不适合体力活动——至少在不购买专门硬件的情况下是如此。
 
-Games such as Samba De Amigo and Dance Dance Revolution provide custom controller hardware, such as a special dance pad that enables the player to control the game by dancing on the pad. Others, such as Konami's Hypersport, don't use specialized hardware, relying on a standard joystick and, consequently, focusing the physical challenge to the hand and lower arm of the player.
+Games such as [Samba De Amigo](https://en.wikipedia.org/wiki/Samba_de_Amigo) and [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) provide custom controller hardware, such as a special dance pad that enables the player to control the game by dancing on the pad. Others, such as [Konami](https://en.wikipedia.org/wiki/Konami)'s [Hypersport](https://en.wikipedia.org/wiki/Hyper_Sports), don't use specialized hardware, relying on a standard joystick and, consequently, focusing the physical challenge to the hand and lower arm of the player.
 
-《欢乐桑巴》和《劲舞革命》等游戏提供了定制的控制器硬件，例如一个特殊的跳舞毯，玩家可以通过在垫子上跳舞来控制游戏。还有一些游戏，如科乐美公司的《超级运动会》，则不使用专门的硬件，而是使用标准的操纵杆，因此，将体力挑战集中在玩家的手和前臂上。
+[《欢乐桑巴》](https://en.wikipedia.org/wiki/Samba_de_Amigo)和[《劲舞革命》](https://en.wikipedia.org/wiki/Dance_Dance_Revolution)等游戏提供了定制的控制器硬件，例如一个特殊的跳舞毯，玩家可以通过在垫子上跳舞来控制游戏。还有一些游戏，如[科乐美](https://en.wikipedia.org/wiki/Konami)公司的[《超级运动会》](https://en.wikipedia.org/wiki/Hyper_Sports)，则不使用专门的硬件，而是使用标准的操纵杆，因此，将体力挑战集中在玩家的手和前臂上。
 
 Physical challenges are not often found in their pure form, and because of the expense and difficulty of including them in games, they are not often found at all.
 
@@ -496,9 +496,9 @@ Players normally get all the time they need to solve puzzles. Because different 
 
 玩家通常有足够的时间来解谜。由于不同的人脑力不同，要求在限定时间内解开谜题可能会使某些玩家无法完成游戏。
 
-A few games offer puzzles whose correct solution is not made clear at the outset. The player not only has to understand how the puzzle works, but also has to guess at the solution she is trying to achieve. We consider this a case of bad game design: It forces the player to solve the puzzle by trial and error alone because there's no way to tell when she's on the right track. Infidel was one such game. In the final puzzle at the end of the game, to open a stone sarcophagus, the player had to find 1 of 24 possible combinations of objects. There were no hints about which combination was correct; the player simply had to try them all.
+A few games offer puzzles whose correct solution is not made clear at the outset. The player not only has to understand how the puzzle works, but also has to guess at the solution she is trying to achieve. We consider this a case of bad game design: It forces the player to solve the puzzle by trial and error alone because there's no way to tell when she's on the right track. [Infidel](https://en.wikipedia.org/wiki/Infidel_(video_game)) was one such game. In the final puzzle at the end of the game, to open a stone sarcophagus, the player had to find 1 of 24 possible combinations of objects. There were no hints about which combination was correct; the player simply had to try them all.
 
-有几款游戏的谜题一开始就没有明确的正确答案。玩家不仅要了解谜题的工作原理，还要猜测自己想要得到的谜底。我们认为这是一种糟糕的游戏设计：它迫使玩家只能通过试错来解决谜题，因为玩家根本无法判断自己是否走在正确的道路上。《异教徒》就是这样一款游戏。在游戏结尾的最后一个谜题中，要打开石棺，玩家必须从 24 种可能的物体组合中找出一种。游戏中没有提示哪种组合是正确的，玩家只能尝试所有的组合。
+有几款游戏的谜题一开始就没有明确的正确答案。玩家不仅要了解谜题的工作原理，还要猜测自己想要得到的谜底。我们认为这是一种糟糕的游戏设计：它迫使玩家只能通过试错来解决谜题，因为玩家根本无法判断自己是否走在正确的道路上。[《异教徒》](https://en.wikipedia.org/wiki/Infidel_(video_game))就是这样一款游戏。在游戏结尾的最后一个谜题中，要打开石棺，玩家必须从 24 种可能的物体组合中找出一种。游戏中没有提示哪种组合是正确的，玩家只能尝试所有的组合。
 
 ### Exploration 探索
 
@@ -597,13 +597,13 @@ The fundamental challenge in any game based on conflict is survival. If characte
 
 任何基于冲突的游戏的基本挑战都是生存。如果游戏中的角色可以通过死亡或其他方式离开游戏场地，那么就必须保住他们的生命或有效游戏时间，否则就无法达成胜利条件。在少数游戏中，生存本身就是胜利条件，不需要其他成就，但在大多数游戏中，生存是获胜的必要条件，但不是充分条件。
 
-Survival is about defending one's self, but many games require that the player defend other things as well, especially things that cannot defend themselves. In chess, this is, of course, the king. This challenge requires that the player know not only the capabilities and vulnerabilities of his units, but also those of the thing he is protecting. He must be prepared to sacrifice valuable units to protect the vital item. Lemmings was an excellent game about sacrificing some units to preserve others.
+Survival is about defending one's self, but many games require that the player defend other things as well, especially things that cannot defend themselves. In chess, this is, of course, the king. This challenge requires that the player know not only the capabilities and vulnerabilities of his units, but also those of the thing he is protecting. He must be prepared to sacrifice valuable units to protect the vital item. [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)) was an excellent game about sacrificing some units to preserve others.
 
-生存是为了保护自己，但许多游戏也要求玩家保护其他事物，尤其是无法保护自己的事物。在国际象棋中，这当然就是国王。这一挑战要求玩家不仅要知道自己单位的能力和弱点，还要知道他要保护的事物的能力和弱点。他必须做好牺牲宝贵单位来保护重要物品的准备。《旅鼠》就是一款以牺牲某些单位来保护其他单位的优秀游戏。
+生存是为了保护自己，但许多游戏也要求玩家保护其他事物，尤其是无法保护自己的事物。在国际象棋中，这当然就是国王。这一挑战要求玩家不仅要知道自己单位的能力和弱点，还要知道他要保护的事物的能力和弱点。他必须做好牺牲宝贵单位来保护重要物品的准备。[《旅鼠》](https://en.wikipedia.org/wiki/Lemmings_(video_game))就是一款以牺牲某些单位来保护其他单位的优秀游戏。
 
-Another important gaming challenge, first used extensively in Thief: The Dark Project, is stealth—the ability to move undetected. This is an extremely valuable capacity in almost any kind of conflict, especially if the player is the underdog. War games occasionally pose challenges in which the victory condition cannot be achieved through combat but must be achieved through stealth. Thief was designed entirely around this premise. Players had to achieve their missions by stealth as much as possible and had to avoid discovery or combat if they could.
+Another important gaming challenge, first used extensively in [Thief: The Dark Project](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project), is stealth—the ability to move undetected. This is an extremely valuable capacity in almost any kind of conflict, especially if the player is the underdog. War games occasionally pose challenges in which the victory condition cannot be achieved through combat but must be achieved through stealth. [Thief](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project) was designed entirely around this premise. Players had to achieve their missions by stealth as much as possible and had to avoid discovery or combat if they could.
 
-另一项重要的游戏挑战是潜行——在不被发现的情况下移动的能力，《神偷：暗黑计划》中首次广泛使用的是隐身术——不被察觉的行动能力。这在几乎所有冲突中都是一种极其宝贵的能力，尤其是当玩家处于劣势时。战争游戏偶尔会提出一些挑战，其中的胜利条件不能通过战斗来实现，而必须通过潜行来实现。《神偷》就是完全围绕这一前提设计的。玩家必须尽可能通过潜行的方式完成任务，并尽可能避免被发现或战斗。
+另一项重要的游戏挑战是潜行——在不被发现的情况下移动的能力，[《神偷：暗黑计划》](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project)中首次广泛使用的是隐身术——不被察觉的行动能力。这在几乎所有冲突中都是一种极其宝贵的能力，尤其是当玩家处于劣势时。战争游戏偶尔会提出一些挑战，其中的胜利条件不能通过战斗来实现，而必须通过潜行来实现。[《神偷》](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project)就是完全围绕这一前提设计的。玩家必须尽可能通过潜行的方式完成任务，并尽可能避免被发现或战斗。
 
 The element of stealth introduces considerable complexity into the design and gameplay of war games. The simplest war games are traditionally games of "perfect information," in which both players know everything about one another. Imagine how difficult chess would be if there were an invisible piece somewhere on the board that could be discovered only by accident.
 
@@ -615,9 +615,9 @@ An economy is a system in which resources move around, either physically from pl
 
 经济是一个资源流动的系统，在这个系统中，资源可以在物理上从一个地方转移到另一个地方，也可以在概念上从一个所有者转移到另一个所有者。这并不一定意味着金钱；任何一种可以创造、移动、储存、赚取、交换或销毁的资源都可能涉及其中。大多数游戏都包含某种经济。即使是第一人称射击游戏也有一个简单的经济系统：弹药可以通过寻找或从死去的对手身上夺取来获得，并通过开火来消耗。被击中会消耗体力值，医疗包可以恢复体力值。设计师可以通过调整弹药和医疗包的数量使游戏变得更容易或更困难，而物资短缺的玩家必须以某种方式迎接获得更多物资的挑战。
 
-Economic challenges are defined in terms of the flow of resources. Some games, such as Theme Park, consist only of economic challenges; others, such as first-person shooters, combine both economic and conflict challenges.
+Economic challenges are defined in terms of the flow of resources. Some games, such as [Theme Park](https://en.wikipedia.org/wiki/Theme_Park_(video_game)), consist only of economic challenges; others, such as first-person shooters, combine both economic and conflict challenges.
 
-经济挑战是指资源流动方面的挑战。有些游戏（如《主题公园》）只包含经济挑战；有些游戏（如第一人称射击游戏）则同时包含经济挑战和冲突挑战。
+经济挑战是指资源流动方面的挑战。有些游戏（如[《主题公园》](https://en.wikipedia.org/wiki/Theme_Park_(video_game))）只包含经济挑战；有些游戏（如第一人称射击游戏）则同时包含经济挑战和冲突挑战。
 
 In many games, the challenge is simply to accumulate something: wealth, points, or anything else of intrinsic value. The object of the game might be to accumulate more money, plutonium, or widgets than your opponents. This is the basis of [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), of course, and many other games. The game challenges the player to understand the mechanisms by which wealth is created and to optimize them to his own advantage. In the case of [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), it's helpful to mortgage low-rent properties and use the cash to purchase high-rent ones because high-rent properties are the real source of wealth toward the end of the game. Players who understand this are at an advantage over those who don't.
 
@@ -674,9 +674,9 @@ There is a particular paradox known as the [Sorites Paradox](https://en.wikipedi
 
 有一个特殊的悖论被称为[“连续体悖论”](https://en.wikipedia.org/wiki/Sorites_paradox)或“堆悖论”。它涉及一堆沙子。观察者被问到沙子是否是一堆，答案是肯定的。然后拿走一粒沙子。重复这个问题，答案仍然是肯定的。这个过程一直持续下去，到了某一时刻，观察者会说这不再是一堆沙子了。接下来的问题是，为什么一粒沙子就能区分成堆和不成堆？观察者能说出界定一堆沙子的具体沙粒数量吗？这又回到了我们熟悉的“胡子论证”：为什么观察者的定义比另一个观察者的定义更好？
 
-The same applies to gameplay, although on a smaller and coarser-grained scale. In a gedanken experiment, we can look at a game and take away an element (or part thereof) of gameplay. (For example, we could disable Mario's ability to turn left in Mario 64.) We can then pose the question "Does it still have gameplay?" We can continue to remove elements or sub-elements and pose the same question. At some point, the game will be sufficiently crippled for the observer to say that it no longer has gameplay. This point will be different for every observer. Whose opinion is best? That's a question for the philosophers. In short, we cannot define exactly how many gameplay elements are required to make a game. We cannot even state with certainty which are required and which are superfluous. We can only state that, to have gameplay, we need some or all of these elements; to have a pile of sand, we need some or all of these grains.
+The same applies to gameplay, although on a smaller and coarser-grained scale. In a gedanken experiment, we can look at a game and take away an element (or part thereof) of gameplay. (For example, we could disable Mario's ability to turn left in [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64).) We can then pose the question "Does it still have gameplay?" We can continue to remove elements or sub-elements and pose the same question. At some point, the game will be sufficiently crippled for the observer to say that it no longer has gameplay. This point will be different for every observer. Whose opinion is best? That's a question for the philosophers. In short, we cannot define exactly how many gameplay elements are required to make a game. We cannot even state with certainty which are required and which are superfluous. We can only state that, to have gameplay, we need some or all of these elements; to have a pile of sand, we need some or all of these grains.
 
-同样的道理也适用于游戏性，只不过是在更小和更粗粒度的范围内。在一个思想实验中，我们可以观察一款游戏，然后去掉游戏中的一个元素（或其中的一部分）（例如，我们可以去掉《马里奥 64》中马里奥向左转弯能力）。然后我们可以提出一个问题：“它还具有游戏性吗？“我们可以继续移除元素或子元素，并提出同样的问题。到了某一个点时候，游戏就会被削弱到足以让观察者说它不再具有游戏性的程度。对于每个观察者来说，这个点都是不同的。谁的意见最好？这是一个留给哲学家的问题。简而言之，我们无法准确定义制作一款游戏需要多少游戏性元素。我们甚至无法确定哪些是必需的，哪些是多余的。我们只能说，要有游戏性，我们需要这些元素中的一些或全部；要有一堆沙子，我们需要一些或者全部沙粒。
+同样的道理也适用于游戏性，只不过是在更小和更粗粒度的范围内。在一个思想实验中，我们可以观察一款游戏，然后去掉游戏中的一个元素（或其中的一部分）（例如，我们可以去掉[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)中马里奥向左转弯能力）。然后我们可以提出一个问题：“它还具有游戏性吗？“我们可以继续移除元素或子元素，并提出同样的问题。到了某一个点时候，游戏就会被削弱到足以让观察者说它不再具有游戏性的程度。对于每个观察者来说，这个点都是不同的。谁的意见最好？这是一个留给哲学家的问题。简而言之，我们无法准确定义制作一款游戏需要多少游戏性元素。我们甚至无法确定哪些是必需的，哪些是多余的。我们只能说，要有游戏性，我们需要这些元素中的一些或全部；要有一堆沙子，我们需要一些或者全部沙粒。
 
 {% hint style="info" %}
 译者注：gedanken，德语，意思是“思想”。
