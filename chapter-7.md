@@ -402,7 +402,7 @@ Figure 7.14. Knot in 3D.
 
 Figure 7.15. glTron.
 
-graphics/07fig15.jpg
+![](.gitbook/assets/7.15.png)
 
 Games that rely on spatial awareness are usually 3D games. The challenge of representing a 3D world on a 2D surface, and the challenge to the player to make sense of that representation form the bulk of the spatial awareness problem. In many cases, the player receives aid in the form of a computer-generated map, but in other cases, such as [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena), the player is left to his own devices to find his way around the world.
 
