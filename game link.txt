@@ -1,3 +1,12 @@
+[Battlezone](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
+[《终极战区》](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
+
+[Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter)
+[《街头霸王》](https://en.wikipedia.org/wiki/Street_Fighter)
+
+[Dead or Alive 3](https://en.wikipedia.org/wiki/Dead_or_Alive_3)
+[《死或生三》](https://en.wikipedia.org/wiki/Dead_or_Alive_3)
+
 [Tom Hall](https://en.wikipedia.org/wiki/Tom_Hall)
 [汤姆·霍尔](https://en.wikipedia.org/wiki/Tom_Hall)
 
@@ -12,6 +21,9 @@
 
 [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)
 [《虚幻竞技场》](https://en.wikipedia.org/wiki/Unreal_Tournament)
+
+[Return to Castle Wolfenstein](https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein)
+[《重返狼堡》](https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein)
 
 [Myst](https://en.wikipedia.org/wiki/Myst)
 [《神秘岛》](https://en.wikipedia.org/wiki/Myst)
@@ -171,6 +183,11 @@
 
 《超级马里奥Advance》
 
+[Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game))
+[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_video_game)))
+
+[Commando](https://en.wikipedia.org/wiki/Commando_(video_game))
+
 [Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 [《塞尔达传说》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 
@@ -182,6 +199,9 @@
 
 [Sin](https://en.wikipedia.org/wiki/Sin_(video_game))
 [《罪》](https://en.wikipedia.org/wiki/Sin_(video_game))
+
+[Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
+[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)
 
 [The Sims](https://en.wikipedia.org/wiki/The_Sims)
 [《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)
