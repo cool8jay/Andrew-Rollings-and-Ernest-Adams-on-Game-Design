@@ -9,3 +9,4 @@
 * [Chapter 6. Creating the User Experience 创建用户体验](chapter-6.md)
 * [Chapter 7. Gameplay 游戏性](chapter-7.md)
 * [Chapter 8. The Internal Economy of Games and Game Balancing 游戏的内部经济和游戏平衡](chapter-8.md)
+* [Chapter 9. Action Games 动作游戏](chapter-9.md)
