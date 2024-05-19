@@ -4,7 +4,7 @@ Every game player is a potential game designer, and that means you.
 
 每个游戏玩家都是潜在的游戏设计师，这也包括你。
 
-When you were a kid, you probably started many a game of whiffle ball or Monopoly with a little negotiation over the rules. “If the ball gets stuck in a tree, it's an out,” “Chance and Community Chest fines go into a pool, and whoever lands on Free Parking gets the money,” and so on. Kids don't hesitate to change the rules of existing games to make them more enjoyable. The participatory nature of playing a game encourages us to think about, and sometimes modify, its rules—that is, its design. And that's just as true of video games, too. We've all played games that we thought could be improved by a few adjustments.
+When you were a kid, you probably started many a game of whiffle ball or Monopoly with a little negotiation over the rules. "If the ball gets stuck in a tree, it's an out," "Chance and Community Chest fines go into a pool, and whoever lands on Free Parking gets the money," and so on. Kids don't hesitate to change the rules of existing games to make them more enjoyable. The participatory nature of playing a game encourages us to think about, and sometimes modify, its rules—that is, its design. And that's just as true of video games, too. We've all played games that we thought could be improved by a few adjustments.
 
 当你还是个孩子的时候，你可能会在玩威浮球或大富翁游戏时，就游戏规则进行一番协商。“如果球卡在树上，那就是出局”，“机会和公益金的罚金都会进入一个池子，谁在免费停车上拿到了钱”，等等。孩子们会毫不犹豫地改变现有游戏的规则，使其更加有趣。玩游戏的参与性促使我们思考，有时甚至修改游戏规则，也就是游戏的设计。电子游戏也是如此。我们都玩过一些游戏，我们认为只要稍作调整就能改进游戏。
 
@@ -28,7 +28,7 @@ We offer a game design methodology intended to spur your thinking and get your c
 
 我们提供的游戏设计方法旨在激发你的思考，让你的创意源源不断。在本书中，你不会看到如何创造下一个《毁灭战士》或《俄罗斯方块》翻版的分步指导。相反，我们讨论了每个游戏设计师必须面对的核心问题，并提出了一系列问题，让你就脑海中的游戏自问自答。这些问题的答案将推动你从创意走向设计。
 
-One area that we have not addressed is level design. The reason for this is simple: There is no one standard way to design levels. Level design considerations are different for each genre of game, and we simply don't have the space to address them all properly. By examining the essential elements of a genre, we hope to give you the tools to design enjoyable levels, but the process itself is, as they say, “left as an exercise for the reader.”
+One area that we have not addressed is level design. The reason for this is simple: There is no one standard way to design levels. Level design considerations are different for each genre of game, and we simply don't have the space to address them all properly. By examining the essential elements of a genre, we hope to give you the tools to design enjoyable levels, but the process itself is, as they say, left as an exercise for the reader."
 
 我们尚未涉及的一个领域是关卡设计。原因很简单：没有一种标准的关卡设计方法。每种类型的游戏都有不同的关卡设计考虑因素，我们根本没有足够的篇幅来一一详述。通过研究某一类型游戏的基本要素，我们希望能为你提供设计愉快关卡的工具，但正如他们所说的那样，这个过程本身“留给读者练习”。
 
@@ -150,11 +150,11 @@ Finally, we believe that the essence of game design has little to do with the ga
 
 ## A Word About Pronouns 关于代词
 
-Because English doesn't include a gender-neutral pronoun applicable to humans, we have chosen to alternate, more or less randomly, between the use of “he” and “she” when speaking of indefinite individuals such as “the player” and “the designer.” After we have designated “the player” to be male or female in a given context, we retain that usage throughout the section in order to avoid confusion. We feel that constructions such as “s/he” and “he or she” are awkward and distracting. However, if you find yourself pulled up short by the idea of a female player of sports games or a male designer of Barbie games, that's all to the good. We don't believe that games should be segregated into pink genres for women and blue genres for men, and as a designer you should be aware that your game could be played by anyone, male or female.
+Because English doesn't include a gender-neutral pronoun applicable to humans, we have chosen to alternate, more or less randomly, between the use of "he" and "she" when speaking of indefinite individuals such as "the player" and "the designer." After we have designated "the player" to be male or female in a given context, we retain that usage throughout the section in order to avoid confusion. We feel that constructions such as "s/he" and "he or she" are awkward and distracting. However, if you find yourself pulled up short by the idea of a female player of sports games or a male designer of Barbie games, that's all to the good. We don't believe that games should be segregated into pink genres for women and blue genres for men, and as a designer you should be aware that your game could be played by anyone, male or female.
 
 由于英语缺乏适用于人类的性别中立代词，因此我们在谈论“玩家”和“设计师”等非特定个体时，或多或少随机交替使用“他”和“她”。一旦我们在特定情境中将“玩家”指定为男性或女性，我们就会在整个章节中保持这种用法以避免混淆。我们认为，“s/he”和“he or she”这样的结构很别扭，会分散注意力。不过，如果你发现自己被体育游戏的女性玩家或芭比娃娃游戏的男性设计师的想法所困扰，这也是好事。我们不认为游戏应该分为粉色的女性游戏和蓝色的男性游戏，作为一名设计师，你应该意识到你的游戏可以被任何人玩，无论男女。
 
-As for ourselves—well, we describe ourselves as “we.” Andrew wrote some chapters and Ernest wrote others, and then we swapped them around and traded comments and suggestions. But we haven't identified who wrote what; we each take responsibility for the whole book.
+As for ourselves—well, we describe ourselves as "we." Andrew wrote some chapters and Ernest wrote others, and then we swapped them around and traded comments and suggestions. But we haven't identified who wrote what; we each take responsibility for the whole book.
 
 至于我们自己，我们用“我们”来形容自己。安德鲁写了一些章节，欧内斯特写了另一些章节，然后我们互换章节并讨论意见和建议。但我们没有标注谁写了什么；我们每个人都对整本书负责。
 
