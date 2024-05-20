@@ -647,4 +647,4 @@ Even though many of the examples in this chapter have used "classic" action game
 
 In fact, the biggest change in action games during their lifespan so far has been their graphical complexity. Of course, only those designers that have understood the fundamental nature of action games have made the transition successfully, and they have done this in spite of—not because of—the more sophisticated graphical capabilities of the newer platforms.
 
-事实上，迄今为止，动作游戏最大的变化就是图形的复杂性。当然，只有那些了解动作游戏基本特性的设计者才能成功转型，他们之所有能成功，不是因为新平台拥有更复杂的图形能力，而是在新平台的支持下依然坚持游戏设计的核心原则和本质。
+事实上，迄今为止，动作游戏最大的变化就是图形的复杂性。当然，只有那些了解动作游戏基本特性的设计者才能成功转型，他们之所以能成功，不是因为新平台拥有更复杂的图形能力，而是在新平台的支持下依然坚持游戏设计的核心原则和本质。
