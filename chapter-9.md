@@ -36,7 +36,7 @@ Shooters make up the majority of action games. Shooter games (despite their desi
 
 Figure 9.1. Fighting games. 图 9.1. 格斗游戏。
 
-graphics/09fig01.jpg
+![](.gitbook/assets/9.1.png)
 
 Usually, this particular class of game presents a similar interface, showing both fighters onscreen at once. Even if a fighting game is portrayed in 3D, the main playing region is the vertical 2D plane defined by drawing a straight line between the two fighters. Thus, almost without exception, the "3D" fighting game is still played in a 2D sense, no matter how much eye candy is thrown your way. Of course, 3D isn't the main area of innovation in fighting games, although the added realism it can provide is certainly worthwhile. For the most part, the area of innovation in fighting games is in the realism of the characters, (including their interactions with each other and their reactions to injury), and the methods used to control the fighters—especially when considering how to handle special moves and combos. The main elements found within fighting games are variants of rock-paper-scissors (to handle the outcomes of playing certain moves against another) and the combo move.
 
@@ -44,15 +44,15 @@ Usually, this particular class of game presents a similar interface, showing bot
 
 Of course, the majority of games involving violence are actually "shooters." There are two broad classes that we will consider here: first-person shooters (FPS) such as [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena), [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament), and [Return to Castle Wolfenstein](https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein), and 2D shooters such as [R-Type](https://en.wikipedia.org/wiki/R-Type), Space Tripper, [Commando](https://en.wikipedia.org/wiki/Commando_(video_game)), [Gauntlet Legends](https://en.wikipedia.org/wiki/Gauntlet_Legends), [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders), [Robotron](https://en.wikipedia.org/wiki/Robotron:_2084), [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)), [Uridium](https://en.wikipedia.org/wiki/Uridium), and [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game)). Even though this list of games seems to include many that are not similar to the others, they all share the common attributes of an avatar, one or more ranged weapons, and a varying number of enemies. Each of the games take place in an arena designed to require a strategic use of the weapon(s) and of any other tools that the player's avatar may be provided with. Figures 9.2 to 9.5 show a selection of these games.
 
-当然，大多数涉及暴力的游戏实际上都是“射击游戏”。在此我们将考虑两大类游戏：第一人称射击游戏（FPS），如[《雷神之锤三》]((https://en.wikipedia.org/wiki/Quake_III_Arena))、[《虚幻竞技场》]((https://en.wikipedia.org/wiki/Unreal_Tournament))和[《重返狼堡》]((https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein))；以及 2D 射击游戏，如[《异形战机》](https://en.wikipedia.org/wiki/R-Type)、《Space Tripper》、[《战场之狼》](https://en.wikipedia.org/wiki/Commando_(video_game))、[《圣铠传说》](https://en.wikipedia.org/wiki/Gauntlet_Legends)、[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)、[《机器人大战》](https://en.wikipedia.org/wiki/Robotron:_2084)、[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_video_game)))、[《Uridium》](https://en.wikipedia.org/wiki/Uridium)和[《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))。尽管这份游戏清单中似乎有许多游戏与其他游戏并不相似，但它们都有一个共同的属性，即一个化身、一种或多种远程武器以及数量不等的敌人。每个游戏都是在一个竞技场中进行的，竞技场的设计要求玩家战略性地使用武器和其他工具。图 9.2 至图 9.5 展示了其中的一些游戏。
+当然，大多数涉及暴力的游戏实际上都是“射击游戏”。在此我们将考虑两大类游戏：第一人称射击游戏（FPS），如[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)、[《虚幻竞技场》](https://en.wikipedia.org/wiki/Unreal_Tournament))和[《重返狼堡》](https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein)；以及 2D 射击游戏，如[《异形战机》](https://en.wikipedia.org/wiki/R-Type)、《Space Tripper》、[《战场之狼》](https://en.wikipedia.org/wiki/Commando_(video_game))、[《圣铠传说》](https://en.wikipedia.org/wiki/Gauntlet_Legends)、[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)、[《机器人大战》](https://en.wikipedia.org/wiki/Robotron:_2084)、[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))、[《Uridium》](https://en.wikipedia.org/wiki/Uridium)和[《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))。尽管这份游戏清单中似乎有许多游戏与其他游戏并不相似，但它们都有一个共同的属性，即一个化身、一种或多种远程武器以及数量不等的敌人。每个游戏都是在一个竞技场中进行的，竞技场的设计要求玩家战略性地使用武器和其他工具。图 9.2 至图 9.5 展示了其中的一些游戏。
 
 Figure 9.2. Gauntlet and Gauntlet Legends. 图 9.2. 《Gauntlet》和《圣铠传说》
 
-graphics/09fig02.jpg
+![](.gitbook/assets/9.2.png)
 
 Figure 9.5. Uridium and Space Tripper. 图 9.5. 《Uridium》和《Space Tripper》
 
-graphics/09fig05.jpg
+![](.gitbook/assets/9.5.png)
 
 The reason that this particular range of 2D games has been chosen is that the gameplay has been enduring enough to have inspired modern updates. This implies that these games have some admirable qualities that we would do well to emulate. Of course, not all the updated versions have succeeded in capturing the gameplay of their parents as well as the designer might hope; in other cases, however, the gameplay matches or exceeds the original.
 
@@ -76,7 +76,7 @@ Similarly, the original [Robotron: 2084](https://en.wikipedia.org/wiki/Robotron:
 
 Figure 9.3. Robotron 2084 and Robotron X. 图 9.3. 《机器人大战：2084》和《机器人大战：X》。
 
-graphics/09fig03.gif
+![](.gitbook/assets/9.3.png)
 
 The strength of the Robotron gameplay meant that for many years, updates just didn't happen. In fact, you can still get pixel-perfect versions of Robotron 2084 for the PC, Gameboy Advance, and other consoles. The first updated version (that we know of) was more of a tribute to the original Robotron than an update—Super Smash TV, based around a TV show where the contestants battled hordes of attackers in single-screen arenas.
 
@@ -90,7 +90,7 @@ The advantage of the original Robotron was that all the action could be viewed o
 
 原版[《机器人大战：2084》](https://en.wikipedia.org/wiki/Robotron:_2084)的优势在于可以在屏幕上同时观看所有动作（使用单屏设计元素）。3D 升级版的俯拍镜头经常会遮挡部分游戏区域。这意味着偶尔你会被突然从镜头外区域出现的敌人杀死——这在原版游戏中是不可能的。这降低了游戏的可玩性，因为看不到屏幕外并不是玩家的错。在最初的[《机器人大战：2084》](https://en.wikipedia.org/wiki/Robotron:_2084)中，如果玩家死了，那就是他的错——所有的信息都在那里等着玩家去解读，所以如果他没能对情况做出足够快的反应以避免危险，他就没有任何借口。
 
-[Centipede]((https://en.wikipedia.org/wiki/Centipede_(1998_video_game)) is yet another classic arcade game from the early days (see Figure 9.4). This game is often lauded as an example of near-perfect gameplay. The elements of the game are set up in such a way as to balance out perfectly and exhibit many interesting emergent properties. The player has to make informed choices about when and how to clear the mushrooms—too many, and the centipede has an easier time reaching you and is harder to hit; too few, and more enemies appear to add more mushrooms.
+[Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game)) is yet another classic arcade game from the early days (see Figure 9.4). This game is often lauded as an example of near-perfect gameplay. The elements of the game are set up in such a way as to balance out perfectly and exhibit many interesting emergent properties. The player has to make informed choices about when and how to clear the mushrooms—too many, and the centipede has an easier time reaching you and is harder to hit; too few, and more enemies appear to add more mushrooms.
 
 [《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))是早期另一款经典街机游戏（见图 9.4）。这款游戏经常被称赞为近乎完美的游戏范例。游戏中的各个元素都设置得非常平衡，并表现出许多有趣的涌现特性。玩家必须对何时以及如何清除蘑菇做出明智的选择——蘑菇太多，蜈蚣就更容易接近你，也更难击中你；蘑菇太少，就会出现更多的敌人，增加更多的蘑菇。
 
@@ -100,7 +100,7 @@ The advantage of the original Robotron was that all the action could be viewed o
 
 Figure 9.4. Centipede and Centipede 3D. Figure 9.4. 《蜈蚣》和《蜈蚣3D》
 
-graphics/09fig04.jpg
+![](.gitbook/assets/9.4.png)
 
 Hasbro, flushed with the success of their [Frogger](https://en.wikipedia.org/wiki/Frogger) remake, which sold millions of copies, decided to try again with a new remake. The remake of Centipede added 3D graphics, and a story. Unfortunately, something was lost during the process, and the gameplay suffered as a consequence. Even the inclusion of a pseudo-3D version of the original arcade game failed to save this attempt at retro-chic. One of the keys behind the playability of the original Centipede (and, in fact, a consistent theme running through all successful action games) was that the player did not have to think in order to interpret what was on the screen. It was easy, and took place at a subconscious level: The centipede is one color, mushrooms are another color, and spiders are yet another color. Unfortunately, this use of color to provide information was lost in the update, where the emphasis was on the graphics appearing realistically textured and interesting. Unfortunately, that meant that the players' subconscious had to work that much harder to be able to determine what was happening onscreen. Combine this with the shift from a 2D fixed play-field to a fully scrolling 3D world, and it becomes fairly easy to understand why this update failed to maintain the standards set by the original.
 
@@ -110,9 +110,9 @@ Hasbro, flushed with the success of their [Frogger](https://en.wikipedia.org/wik
 译者注：[《青蛙过河》游玩视频](https://www.youtube.com/watch?v=WNrz9_Fe-Us&ab_channel=OldClassicRetroGaming)。
 {% endhint %}
 
-As shown in Figure 9.5, the space shooter is one of the oldest styles of games. From the venerable [Space Invaders]((https://en.wikipedia.org/wiki/Space_Invaders)) through to modern masterpieces such as Space Tripper, this has been a class of game that is consistently popular. One of the fondly remembered classic games from the days of 8-bit computers is [Uridium](https://en.wikipedia.org/wiki/Space_Invaders), a game that puts the player in a Manta assault craft on a one-man attack run against a fleet of enemy space stations. As the Manta flies from left to right, waves of aliens and missiles launched from the stations converge on the player. The space stations were huge, spanning several screen-widths, and so the player had to be aware of what was happening not only on the visible screen he could see, but also in the much larger region that he could not. This was a mechanic lifted straight from Williams' Defender, although [Uridium](https://en.wikipedia.org/wiki/Space_Invaders) is played from a top-down view, not a side view. This class of game requires extremely good reflexes on the part of the player, and additionally, the ability to form a mental model of what was happening outside the bounds of the screen. There are two main classes of scrolling shooter—those with fixed scrolling, where the screen would continuously scroll in one direction such as Irem's [R-Type](https://en.wikipedia.org/wiki/R-Type), and those with variable scrolling, where the player had some degree of control over the scroll direction.
+As shown in Figure 9.5, the space shooter is one of the oldest styles of games. From the venerable [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) through to modern masterpieces such as Space Tripper, this has been a class of game that is consistently popular. One of the fondly remembered classic games from the days of 8-bit computers is [Uridium](https://en.wikipedia.org/wiki/Space_Invaders), a game that puts the player in a Manta assault craft on a one-man attack run against a fleet of enemy space stations. As the Manta flies from left to right, waves of aliens and missiles launched from the stations converge on the player. The space stations were huge, spanning several screen-widths, and so the player had to be aware of what was happening not only on the visible screen he could see, but also in the much larger region that he could not. This was a mechanic lifted straight from Williams' Defender, although [Uridium](https://en.wikipedia.org/wiki/Space_Invaders) is played from a top-down view, not a side view. This class of game requires extremely good reflexes on the part of the player, and additionally, the ability to form a mental model of what was happening outside the bounds of the screen. There are two main classes of scrolling shooter—those with fixed scrolling, where the screen would continuously scroll in one direction such as Irem's [R-Type](https://en.wikipedia.org/wiki/R-Type), and those with variable scrolling, where the player had some degree of control over the scroll direction.
 
-如图 9.5 所示，太空射击游戏是最古老的游戏类型之一。从古老的[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)到现代杰作《Space Tripper》，这一类游戏一直深受玩家欢迎。[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是 8 位电脑时代的经典游戏之一，这款游戏让玩家驾驶 Manta 突击艇对敌方空间站舰队发起单人攻击。当 Manta 从左向右飞行时，一波波外星人和从空间站发射的导弹就会向玩家聚拢。空间站非常巨大，横跨数个屏幕宽度，因此玩家不仅要注意自己能看到的屏幕上发生的事情，还要注意自己看不到的更大区域内发生的事情。这是从威廉姆斯的[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_video_game)))中直接借鉴过来的机制，尽管[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是从俯视视角而非侧视视角进行游戏的。这类游戏要求玩家有极好的反应能力，此外，还要求玩家能对屏幕外发生的事情形成心理模型。滚动射击游戏主要分为两类——一类是固定滚动，即屏幕会沿着一个方向持续滚动，如 Irem 的[《异形战机》](https://en.wikipedia.org/wiki/R-Type)；另一类是可变滚动，即玩家可以在一定程度上控制滚动方向。
+如图 9.5 所示，太空射击游戏是最古老的游戏类型之一。从古老的[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)到现代杰作《Space Tripper》，这一类游戏一直深受玩家欢迎。[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是 8 位电脑时代的经典游戏之一，这款游戏让玩家驾驶 Manta 突击艇对敌方空间站舰队发起单人攻击。当 Manta 从左向右飞行时，一波波外星人和从空间站发射的导弹就会向玩家聚拢。空间站非常巨大，横跨数个屏幕宽度，因此玩家不仅要注意自己能看到的屏幕上发生的事情，还要注意自己看不到的更大区域内发生的事情。这是从威廉姆斯的[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))中直接借鉴过来的机制，尽管[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是从俯视视角而非侧视视角进行游戏的。这类游戏要求玩家有极好的反应能力，此外，还要求玩家能对屏幕外发生的事情形成心理模型。滚动射击游戏主要分为两类——一类是固定滚动，即屏幕会沿着一个方向持续滚动，如 Irem 的[《异形战机》](https://en.wikipedia.org/wiki/R-Type)；另一类是可变滚动，即玩家可以在一定程度上控制滚动方向。
 
 {% hint style="info" %}
 译者注：[《Space Tripper》游玩视频](https://www.youtube.com/watch?v=xXDg7nxHEOE&ab_channel=NinjaRyuPL)。
@@ -128,7 +128,7 @@ Figure 9.6 shows two examples of the logical extension of the 2D shooter—the 3
 
 Figure 9.6. Battlezone and Quake III. 图 9.6. 《终极战区》 和《雷神之锤三》。
 
-graphics/09fig06.jpg
+![](.gitbook/assets/9.6.png)
 
 {% hint style="info" %}
 译者注：[《终极战区》游玩视频](https://www.youtube.com/watch?v=Ctr54kopo8I&ab_channel=ShaneMcComas)。
@@ -154,7 +154,7 @@ Frogger, shown in Figure 9.7, was originally a highly successful arcade game rel
 
 Figure 9.7. Frogger and Frogger 3D. 图 9.7. 《青蛙过河》和《青蛙过河 3D》
 
-graphics/09fig07.jpg
+![](.gitbook/assets/9.7.png)
 
 Of course, the phenomenal success of the Frogger remake caused a scramble for licenses for further remakes, which the publishers viewed as a license to print money. Consequently, there have been a number of ill-advised and hastily conceived remakes released onto the market. [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) was one of the most successful games of its generation. Obviously, it could not escape being remade. One of the (many) remakes was [Pac-Man: Adventures in Time](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time). This update brought new additions to the game, including a story and a set of themed levels. Unfortunately, much in the same way as with [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game)), these additions diminished rather than added to the gameplay. However, [Pac-Man World 2](https://en.wikipedia.org/wiki/Pac-Man_World_2) on the Gamecube is an excellent use of the license.
 
@@ -170,7 +170,7 @@ Figure 9.8. Q*Bert and Q*Bert 3D. 图 9.8. 《Q伯特》和《Q伯特 3D》。
 译者注：[《Q伯特》游玩视频](https://www.youtube.com/watch?v=HKIbhaQfs-A&ab_channel=OldClassicRetroGaming)。
 {% endhint %}
 
-graphics/09fig08.jpg
+![](.gitbook/assets/9.8.png)
 
 # Design Elements 设计元素
 
@@ -216,13 +216,13 @@ Other (more difficult) games, such as Space Tripper, simply restart the level fr
 
 其他（难度更大的）游戏，如《Space Tripper》，则会在化身死亡后直接从头开始重新启动关卡。这种形式相当少见，因为它大大增加了游戏的挑战性，常常会让玩家感到沮丧。它要求玩家表现“完美”才能进入下一关。
 
-The final form of this design element is an amalgam between the first two. As the player progresses through the level, he reaches a number of predefined checkpoints. When the avatar dies, the level is reset to the last checkpoint that the player successfully achieved. An example of a classic game that uses this form is Moon Patrol, shown in Figure 9.9.
+The final form of this design element is an amalgam between the first two. As the player progresses through the level, he reaches a number of predefined checkpoints. When the avatar dies, the level is reset to the last checkpoint that the player successfully achieved. An example of a classic game that uses this form is [Moon Patrol](https://en.wikipedia.org/wiki/Moon_Patrol), shown in Figure 9.9.
 
-这一设计元素的最终形式是前两者的混合体。当玩家在关卡中前进时，他会到达一些预定义的检查点。当化身死亡时，关卡会重置到玩家成功到达的最后一个检查点。图 9.9 所示的《月球巡逻队》就是采用这种形式的经典游戏的一个例子。
+这一设计元素的最终形式是前两者的混合体。当玩家在关卡中前进时，他会到达一些预定义的检查点。当化身死亡时，关卡会重置到玩家成功到达的最后一个检查点。图 9.9 所示的[《月球巡逻队》](https://en.wikipedia.org/wiki/Moon_Patrol)就是采用这种形式的经典游戏的一个例子。
 
 Figure 9.9. Moon Patrol. 图 9.9. 《月球巡逻队》。
 
-graphics/09fig09.gif
+![](.gitbook/assets/9.9.png)
 
 ### Lives 生命
 
@@ -312,7 +312,7 @@ Defender was the first game to introduce the concept of the smart bomb (see Figu
 
 Figure 9.10. Defender.
 
-graphics/09fig10.gif
+![](.gitbook/assets/9.10.png)
 
 Usually, the player is given a strictly limited number of smart bombs, and opportunities to replace them are either extremely rare or non-existent. The function of the smart bomb is to clear the area immediately surrounding the player of enemies. Usually, this means that the visible area is cleared entirely of enemies, but the range cleared does vary dependent on the game. Smart bombs should be used by the player only in dire emergencies when there are no other options available. The scarcity of availability is the primary mechanism available to enforce this.
 
@@ -330,7 +330,7 @@ The first commonly known game to make use of the hyperspace element was Asteroid
 
 Figure 9.11. Asteroids.
 
-graphics/09fig11.gif
+![](.gitbook/assets/9.11.png)
 
 ### Waves 波次
 
@@ -366,7 +366,7 @@ Often, the boss character is themed after the environment (or vice versa). For e
 
 Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands. 图 9.12. Parasol Stars 和 Rainbow Islands 中的第一个老板。
 
-graphics/09fig12.jpg
+![](.gitbook/assets/9.12.png)
 
 Another boss design element that is used fairly frequently is to use a much bigger and stronger version of an enemy that the player has already encountered. The right side of Figure 9.12 shows a classic example, taken from Rainbow Islands. The first set of levels are garden themed (with the enemies being mainly insects and birds). One of the first enemies encountered is a spider. The boss character is simply a much larger version of that spider. This enhances the gameplay by allowing the player to predict some of the boss behavior, and gives him a small advantage in knowing what to expect—an advantage that would not be there if the boss was entirely unfamiliar, and the player had to learn his behavior from scratch.
 
@@ -378,7 +378,7 @@ Of course, many games aren't suited for such an unsubtle set of themed levels, b
 
 Figure 9.13. The general progression of an action game. 图 9.13. 动作游戏的一般进程。
 
-graphics/09fig13.gif
+![](.gitbook/assets/9.13.png)
 
 ### Wildcard Enemies 意外敌人
 
@@ -419,11 +419,11 @@ The monster generator isn't always visible: for example, enemy spawn points in g
 
 怪物生成器并不总是可见的：例如，[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))等游戏中的敌人重生点并不是明确的物体。相反，怪物只是在绿光闪烁中凭空出现，通常不在玩家的视线范围内。
 
-The difference between the use of monster generators in [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)) and [Doom]((https://en.wikipedia.org/wiki/Doom_(1993_video_game))) is substantial. In [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)), monster generators are an integral part of the gameplay—destroy the monster generators, and no more monsters will appear. Hence, the player has two main strategies: Fight the monsters, or destroy the generator. In terms of survival, the dominant strategy is to destroy the monster generators before they can spawn too many monsters, but if players are aiming for the high score, then they may hold off on destroying the monster generator until they have boosted their scores sufficiently. You can see in this case that the monster generators are not only an integral part of the gameplay, but they can play a strategic role too.
+The difference between the use of monster generators in [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)) and [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is substantial. In [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)), monster generators are an integral part of the gameplay—destroy the monster generators, and no more monsters will appear. Hence, the player has two main strategies: Fight the monsters, or destroy the generator. In terms of survival, the dominant strategy is to destroy the monster generators before they can spawn too many monsters, but if players are aiming for the high score, then they may hold off on destroying the monster generator until they have boosted their scores sufficiently. You can see in this case that the monster generators are not only an integral part of the gameplay, but they can play a strategic role too.
 
 在[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))和[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))中，怪物生成器的使用差别很大。在[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))中，怪物生成器是游戏不可或缺的一部分——摧毁怪物生成器，就不会再有怪物出现。因此，玩家有两种主要策略：与怪物搏斗，或者摧毁生成器。就生存而言，优势策略是在怪物生成器产生过多怪物之前将其摧毁，但如果玩家的目标是获得高分，那么他们可能会暂缓摧毁怪物生成器，直到他们的分数得到足够的提升。由此可见，怪物发生器不仅是游戏不可或缺的一部分，而且还能发挥战略作用。
 
-In [Doom]((https://en.wikipedia.org/wiki/Doom_(1993_video_game))), however, the monster generators are much more behind the scenes. All players know is that monsters are appearing—they are not given the opportunity to destroy the generators to prevent this from happening. The only sensible strategy under these circumstances is to avoid or destroy the monsters, and get to the level exit as quickly as possible.
+In [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)), however, the monster generators are much more behind the scenes. All players know is that monsters are appearing—they are not given the opportunity to destroy the generators to prevent this from happening. The only sensible strategy under these circumstances is to avoid or destroy the monsters, and get to the level exit as quickly as possible.
 
 然而，在[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))中，怪物生成器的却更加隐蔽。玩家只知道怪物正在出现，却没有机会摧毁生成器来阻止怪物出现。在这种情况下，唯一合理的策略就是避开或消灭怪物，并尽快到达关卡出口。
 
@@ -441,9 +441,9 @@ The dungeon exit signifies a transition within the game. Usually, this transitio
 
 地下城出口标志着游戏中的一个过渡。通常，这种过渡涉及到进入一个新的关卡，或当前关卡中的一个新区域。地牢出口设计元素通常被用作当前关卡的一个目标或子目标。在其他情况下，它只是一个辅助工具，允许玩家在尝试完成其他目标的同时在不同区域之间移动。
 
-The dungeon exit is usually guarded by enemies and/or is well-hidden. The strength of the guard force and the difficulty in locating an exit is usually in direct relationship to the benefits of locating it. A common variant on this element is to provide more than one exit to a certain level. One of these is the standard exit, which takes the player to the next level. The second is a warp exit, which will jump the player ahead several levels. This second exit (often visible when you find the first) is difficult to reach, and requires extra sacrifice on the part of the player. The reward is usually proportional to the level of sacrifice, and this particular variation has been used in many games—from Defender: Stargate (allowing experienced players to warp ahead to the more challenging levels) to Gauntlet (where alternative exits would jump the player ahead by a few levels for the same reasons as Stargate) to games such as Luigi's Mansion and the Super Mario series (where some levels have hidden exits that lead to secret areas). If there is a hidden exit, you may want to give the player a subtle clue. For example, in Super Mario World, levels with secret exits are shown as flashing red dots (rather than flashing yellow dots) on the world overview map.
+The dungeon exit is usually guarded by enemies and/or is well-hidden. The strength of the guard force and the difficulty in locating an exit is usually in direct relationship to the benefits of locating it. A common variant on this element is to provide more than one exit to a certain level. One of these is the standard exit, which takes the player to the next level. The second is a warp exit, which will jump the player ahead several levels. This second exit (often visible when you find the first) is difficult to reach, and requires extra sacrifice on the part of the player. The reward is usually proportional to the level of sacrifice, and this particular variation has been used in many games—from Defender: Stargate (allowing experienced players to warp ahead to the more challenging levels) to Gauntlet (where alternative exits would jump the player ahead by a few levels for the same reasons as Stargate) to games such as Luigi's Mansion and the Super Mario series (where some levels have hidden exits that lead to secret areas). If there is a hidden exit, you may want to give the player a subtle clue. For example, in [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World), levels with secret exits are shown as flashing red dots (rather than flashing yellow dots) on the world overview map.
 
-地牢出口通常有敌人把守和/或隐藏得很好。守卫力量的强弱和找到出口的难度通常与找到出口的收益直接相关。这一元素的常见变体是在某一层提供不止一个出口。其中一个是标准出口，将玩家带入下一关。第二个是传送出口，它将玩家提前跳过几个关卡。第二个出口（通常在找到第一个出口时就能看到）很难到达，需要玩家做出额外的牺牲。奖励通常与牺牲程度成正比，许多游戏都采用了这种特殊的变体——从《守卫者：星际之门》（允许有经验的玩家通过传送到更具挑战性的关卡）到《Gauntlet》（其中替代出口会因为与星际之门相同的原因让玩家提前几个关卡），再到《路易吉洋楼》和《超级马里奥》系列等游戏（有些关卡有通往秘密区域的隐藏出口）。如果有隐藏出口，你可能需要给玩家提供一个微妙的线索。例如，在《超级马里奥世界》中，有秘密出口的关卡在世界概览地图上会显示为闪烁的红点（而不是闪烁的黄点）。
+地牢出口通常有敌人把守和/或隐藏得很好。守卫力量的强弱和找到出口的难度通常与找到出口的收益直接相关。这一元素的常见变体是在某一层提供不止一个出口。其中一个是标准出口，将玩家带入下一关。第二个是传送出口，它将玩家提前跳过几个关卡。第二个出口（通常在找到第一个出口时就能看到）很难到达，需要玩家做出额外的牺牲。奖励通常与牺牲程度成正比，许多游戏都采用了这种特殊的变体——从《守卫者：星际之门》（允许有经验的玩家通过传送到更具挑战性的关卡）到《Gauntlet》（其中替代出口会因为与星际之门相同的原因让玩家提前几个关卡），再到《路易吉洋楼》和《超级马里奥》系列等游戏（有些关卡有通往秘密区域的隐藏出口）。如果有隐藏出口，你可能需要给玩家提供一个微妙的线索。例如，在[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)中，有秘密出口的关卡在世界概览地图上会显示为闪烁的红点（而不是闪烁的黄点）。
 
 ### Mini-Maps 小地图
 
@@ -467,25 +467,25 @@ Action games—being among the first of the genres—benefited well from the ear
 
 > **Case Study 9.1 A Flawed Victory Condition 案例研究 9.1 有缺陷的胜利条件**
 > 
-> In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably Pac-Man.\
+> In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man).\
 > 
-> 在有些游戏中，胜利条件是由于一个错误导致玩家无法继续前进。这种情况出奇地常见，因为这类游戏的开发者通常不会在游戏中测试那么深入。最著名的例子可能就是《吃豆人》了。
+> 在有些游戏中，胜利条件是由于一个错误导致玩家无法继续前进。这种情况出奇地常见，因为这类游戏的开发者通常不会在游戏中测试那么深入。最著名的例子可能就是[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)了。
 > 
-> For years, people have been attempting to get a perfect score on Pac-Man. In July of 1999, Billy Mitchell of Fort Lauderdale, Florida scored a perfect 3,333,360 points on a Pac-Man machine in Weirs Beach, New Hampshire. The perfect score is achieved by playing for six hours, through 256 levels of Pac-Man, eating every pellet, power-pill, blue ghost, and piece of fruit on every single level, without dying once. After the 256th level, the game freezes.\
+> For years, people have been attempting to get a perfect score on [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man). In July of 1999, Billy Mitchell of Fort Lauderdale, Florida scored a perfect 3,333,360 points on a Pac-Man machine in Weirs Beach, New Hampshire. The perfect score is achieved by playing for six hours, through 256 levels of Pac-Man, eating every pellet, power-pill, blue ghost, and piece of fruit on every single level, without dying once. After the 256th level, the game freezes.\
 > 
-> 多年来，人们一直试图在《吃豆人》中获得满分。1999 年 7 月，佛罗里达州劳德代尔堡的比利·米切尔（Billy Mitchell）在新罕布什尔州韦尔斯海滩（Weirs Beach）的吃豆人游戏机上取得了 3,333,360 分的满分。要想获得满分，就必须在 256 个关卡的吃豆人游戏中玩上 6 个小时，吃掉每个关卡中的所有颗粒、能量药丸、蓝色幽灵和水果，并且一次也不能死。玩到第 256 关后，游戏就会冻结。
+> 多年来，人们一直试图在[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)中获得满分。1999 年 7 月，佛罗里达州劳德代尔堡的比利·米切尔（Billy Mitchell）在新罕布什尔州韦尔斯海滩（Weirs Beach）的吃豆人游戏机上取得了 3,333,360 分的满分。要想获得满分，就必须在 256 个关卡的吃豆人游戏中玩上 6 个小时，吃掉每个关卡中的所有颗粒、能量药丸、蓝色幽灵和水果，并且一次也不能死。玩到第 256 关后，游戏就会冻结。
 > 
 > When he stepped away from the game after beating it, he said "I never have to play that darn game again…".\
 > 
 > 当他打完游戏离开时，他说：“我再也不用玩那个该死的游戏了……”。
 > 
-> What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as Golden Axe (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).\
+> What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as [Golden Axe](https://en.wikipedia.org/wiki/Golden_Axe_(video_game)) (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).\
 > 
-> 由此可以看出，动作游戏一般都有一个或零个胜利条件。它们被分为两大类：一类是有可能获胜的游戏，另一类是只可能获得最高分的游戏。大多数早期的动作游戏都属于后一类，这主要是由于内存的限制。后来，随着处理能力和存储能力的提高，开发人员开始在游戏中加入结构化的故事——有了故事，也就有了结局。《金斧》等游戏（如图 9.14 所示）都有明确的结局，在打败游戏末尾的大首领（在本例中是死亡加害者）之后，玩家的化身就会永远过上幸福的生活（当然，直到不可避免的续集出现为止）。
+> 由此可以看出，动作游戏一般都有一个或零个胜利条件。它们被分为两大类：一类是有可能获胜的游戏，另一类是只可能获得最高分的游戏。大多数早期的动作游戏都属于后一类，这主要是由于内存的限制。后来，随着处理能力和存储能力的提高，开发人员开始在游戏中加入结构化的故事——有了故事，也就有了结局。[《战斧》](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))等游戏（如图 9.14 所示）都有明确的结局，在打败游戏末尾的大首领（在本例中是死亡蝰蛇）之后，玩家的化身就会永远过上幸福的生活（当然，直到不可避免的续集出现为止）。
 > 
 > Figure 9.14. Golden Axe.
 > 
-> graphics/09fig14.gif
+> ![](.gitbook/assets/9.14.png)
 > 
 > As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.\
 > 
@@ -493,9 +493,9 @@ Action games—being among the first of the genres—benefited well from the ear
 
 ### Interaction Model 互动模式
 
-The primary model in action games is based purely on fast interactions—hand-eye coordination and reaction speed. The ability to think quickly and analyze situations almost instantaneously is favored as well. The player is usually given direct control over a single avatar. In order to efficiently translate the player's intent into actions within the game, the control methods for action games are usually extremely simple. Even so, various action games have attempted to implement more complex control schemes. The success of these games depended on the lengths to which players were prepared to go to learn the system. Games that succeed in this are usually the games that set the standards for new genres. For example, the [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) and [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) modes of interaction for FPS games are pretty much ubiquitous nowadays. Similarly, the Super Mario 64 control system has become the de facto standard control system for most console-based 3D platform games.
+The primary model in action games is based purely on fast interactions—hand-eye coordination and reaction speed. The ability to think quickly and analyze situations almost instantaneously is favored as well. The player is usually given direct control over a single avatar. In order to efficiently translate the player's intent into actions within the game, the control methods for action games are usually extremely simple. Even so, various action games have attempted to implement more complex control schemes. The success of these games depended on the lengths to which players were prepared to go to learn the system. Games that succeed in this are usually the games that set the standards for new genres. For example, the [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) and [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) modes of interaction for FPS games are pretty much ubiquitous nowadays. Similarly, the [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) control system has become the de facto standard control system for most console-based 3D platform games.
 
-动作游戏的主要模式完全基于快速互动——手眼协调和反应速度。快速思考和几乎瞬间分析情况的能力也受到青睐。玩家通常可以直接控制一个化身。为了有效地将玩家的意图转化为游戏中的行动，动作游戏的控制方法通常极为简单。即便如此，各种动作游戏还是试图采用更复杂的控制方案。这些游戏的成功与否，取决于玩家愿意花多大力气来学习这个系统。在这方面取得成功的游戏通常都为新的游戏类型设定了标准。例如，FPS 游戏的[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))和[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))交互模式如今几乎无处不在。同样，《超级马里奥 64》的控制系统已成为大多数基于控制台的 3D 平台游戏的实际标准控制系统。
+动作游戏的主要模式完全基于快速互动——手眼协调和反应速度。快速思考和几乎瞬间分析情况的能力也受到青睐。玩家通常可以直接控制一个化身。为了有效地将玩家的意图转化为游戏中的行动，动作游戏的控制方法通常极为简单。即便如此，各种动作游戏还是试图采用更复杂的控制方案。这些游戏的成功与否，取决于玩家愿意花多大力气来学习这个系统。在这方面取得成功的游戏通常都为新的游戏类型设定了标准。例如，FPS 游戏的[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))和[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))交互模式如今几乎无处不在。同样，[《超级马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)的控制系统已成为大多数基于控制台的 3D 平台游戏的实际标准控制系统。
 
 Often, the ability to analyze the situation in a particular game is a learned process developed through playing that particular game. In some cases, the skills learned playing one game can be applied to other games, with varying levels of transferability. For example, the skills learned when playing [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) can be transferred wholesale over to other games such as [Galaxian](https://en.wikipedia.org/wiki/Galaxian) and, to a lesser extent, [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game)). There are several levels to the nature of the skills developed by playing certain games, and these levels are linked to how domain-specific the skills are. For example, the skill of picking off the spider in Centipede is not that useful in many other action games. Conversely, the skill of navigating the player's avatar and picking off a target further up the screen is useful in a much wider range of games. Obviously, if similar games use similar control systems, then the cross-game transfer of these skills is that much easier.
 
@@ -533,76 +533,118 @@ In principle, user interface design for action games is extremely straightforwar
 
 原则上，动作游戏的用户界面设计是非常简单的。它应严格遵循 KISS（Keep It Simple, Stupid）原则。用户界面应尽可能简约。为了让玩家能够有效地进行游戏，他需要能够准确、快速地评估游戏环境。
 
-All the information that the player needs to be able to access in order to be effective at the game should be immediately present onscreen. Most action games require only a limited amount of information, so this isn't difficult to achieve. For example, the HUD (Heads-Up Display) for Quake III shows the minimum amount of information. Basically, it shows the player's current health, weapon, and amount of ammo. Don't try to show too much information to the player at one time. Not only does the player have to contend with the frantic action in the game, but he also has to pay attention to the indicators in the status panel. He should be able to do this at a glance, without having to work to interpret the information. Use simple schemes to get the required information across. One way you can do this is to use colors wherever possible to indicate changing situations, rather than textual or numerical methods. Another important situation to consider is when the player's attention needs to be attracted quickly to a changing status panel, especially when the panel is outside the main field of peripheral vision of the player; then he will be concentrating on the in-game action, not the status panel. If you need the player to notice something in the status panel, then you'll need to take appropriate measures. Within the main focus of view of the player, the eyes are sensitive to color and shape. Outside of this region, the eye is attuned to detect changes in contrast or color, so the easiest way to draw the attention of the player is to use a flashing or flickering indicator.
+All the information that the player needs to be able to access in order to be effective at the game should be immediately present onscreen. Most action games require only a limited amount of information, so this isn't difficult to achieve. For example, the HUD (Heads-Up Display) for[Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena) shows the minimum amount of information. Basically, it shows the player's current health, weapon, and amount of ammo. Don't try to show too much information to the player at one time. Not only does the player have to contend with the frantic action in the game, but he also has to pay attention to the indicators in the status panel. He should be able to do this at a glance, without having to work to interpret the information. Use simple schemes to get the required information across. One way you can do this is to use colors wherever possible to indicate changing situations, rather than textual or numerical methods. Another important situation to consider is when the player's attention needs to be attracted quickly to a changing status panel, especially when the panel is outside the main field of peripheral vision of the player; then he will be concentrating on the in-game action, not the status panel. If you need the player to notice something in the status panel, then you'll need to take appropriate measures. Within the main focus of view of the player, the eyes are sensitive to color and shape. Outside of this region, the eye is attuned to detect changes in contrast or color, so the easiest way to draw the attention of the player is to use a flashing or flickering indicator.
 
-玩家为了有效地进行游戏而需要获取的所有信息都应立即显示在屏幕上。大多数动作游戏只需要有限的信息量，因此要做到这一点并不难。例如，《雷神之锤 III》的 HUD（抬头显示器）就显示了最少量的信息。基本上，它会显示玩家当前的健康状况、武器和弹药数量。不要试图一次向玩家显示太多信息。玩家不仅要应对游戏中疯狂的动作，还要关注状态面板中的指示器。他应该能够一目了然地做到这一点，而不必费力去解读这些信息。使用简单的方案来传达所需的信息。其中一种方法是尽可能使用颜色来显示不断变化的情况，而不是使用文字或数字方法。另一个需要考虑的重要情况是，当玩家的注意力需要被快速吸引到不断变化的状态面板上时，尤其是当面板位于玩家的主要外围视野之外时；此时，玩家的注意力将集中在游戏中的操作上，而不是状态面板上。如果需要让玩家注意到状态面板中的某些内容，就需要采取适当的措施。在玩家的主要视线范围内，眼睛对颜色和形状非常敏感。而在这个区域之外，眼睛则能察觉到对比度或颜色的变化，因此吸引玩家注意力的最简单方法就是使用闪烁的指示灯。
+玩家为了有效地进行游戏而需要获取的所有信息都应立即显示在屏幕上。大多数动作游戏只需要有限的信息量，因此要做到这一点并不难。例如，[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)的 HUD（抬头显示器）就显示了最少量的信息。基本上，它会显示玩家当前的健康状况、武器和弹药数量。不要试图一次向玩家显示太多信息。玩家不仅要应对游戏中疯狂的动作，还要关注状态面板中的指示器。他应该能够一目了然地做到这一点，而不必费力去解读这些信息。使用简单的方案来传达所需的信息。其中一种方法是尽可能使用颜色来显示不断变化的情况，而不是使用文字或数字方式。另一个需要考虑的重要情况是，当玩家的注意力需要被快速吸引到不断变化的状态面板上时，尤其是当面板位于玩家的主要外围视野之外时；此时，玩家的注意力将集中在游戏中的操作上，而不是状态面板上。如果需要让玩家注意到状态面板中的某些内容，就需要采取适当的措施。在玩家的主要视线范围内，眼睛对颜色和形状非常敏感。而在这个区域之外，眼睛则能察觉到对比度或颜色的变化，因此吸引玩家注意力的最简单方法就是使用闪烁的指示灯。
 
 In some cases, additional information (too much to appear comfortably in one small status panel) is required. This should be avoided whenever possible, but when it is not possible to avoid, it must be handled carefully so as not to disrupt the flow of the game to the detriment of the player. If the player loses out by having to switch to a secondary map or status screen, then the enjoyment of the game is impacted. For example, in many FPS games, the level map is shown on a separate screen that obscures the main view. This means that the player has to be in a safe position to look at the map safely. Other games use a transparent overlay to display the same map information. Often, this is the ideal presentation method, as it allows the player to clearly see both the surrounding environment and the map. However, its effectiveness is limited if the map is so complex that it obscures the main view too much.
 
 在某些情况下，需要额外的信息（太多的信息无法在一个小的状态面板中显示）。这种情况应尽可能避免，但如果无法避免，则必须谨慎处理，以免扰乱游戏流程，对玩家造成损害。如果玩家不得不切换到辅助地图或状态屏幕，那么游戏的乐趣就会受到影响。例如，在许多 FPS 游戏中，关卡地图显示在一个单独的屏幕上，遮住了主视图。这意味着玩家必须处于安全位置才能安全地查看地图。其他游戏则使用透明覆盖层来显示相同的地图信息。通常，这是一种理想的显示方法，因为它能让玩家清楚地看到周围环境和地图。但是，如果地图过于复杂，遮挡了主视图，那么这种方法的效果就会受到限制。
 
-Another golden rule for action games is that the player avatar must be extremely easy to pick out. In the case of FPS games, this is easy—the avatar is the player, looking out through the screen. This is the exception, however. In every other type of action game, the avatar is displayed onscreen. In almost all cases, the avatar looks unique—it has a unique shape or position onscreen. However, the most effective way of ensuring that an avatar is easily discernable is use of color. For example, Lara Croft is the only entity onscreen in Tomb Raider wearing a light blue shirt. This means that if the player can see a splash of that particular light blue on the screen, then he is looking at Lara. This also means that Lara is immediately identifiable onscreen without any conscious thought process on the part of the player. In other games—for example, in the case of two-dimensional scrolling games—the avatar is often distinguished by position. It is always in the same absolute position—or at least on the same horizontal or vertical line—onscreen, and the world moves around it. This gives players a fixed point of reference about which to orient themselves.
+Another golden rule for action games is that the player avatar must be extremely easy to pick out. In the case of FPS games, this is easy—the avatar is the player, looking out through the screen. This is the exception, however. In every other type of action game, the avatar is displayed onscreen. In almost all cases, the avatar looks unique—it has a unique shape or position onscreen. However, the most effective way of ensuring that an avatar is easily discernible is use of color. For example, Lara Croft is the only entity onscreen in [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) wearing a light blue shirt. This means that if the player can see a splash of that particular light blue on the screen, then he is looking at Lara. This also means that Lara is immediately identifiable onscreen without any conscious thought process on the part of the player. In other games—for example, in the case of two-dimensional scrolling games—the avatar is often distinguished by position. It is always in the same absolute position—or at least on the same horizontal or vertical line—onscreen, and the world moves around it. This gives players a fixed point of reference about which to orient themselves.
 
-动作游戏的另一个黄金法则是，玩家的头像必须非常容易辨认。在 FPS 游戏中，这一点很容易做到--头像就是玩家，通过屏幕向外看。但这是个例外。在其他所有类型的动作游戏中，头像都显示在屏幕上。几乎在所有情况下，头像都是独一无二的--它在屏幕上有独特的形状或位置。然而，确保头像易于辨认的最有效方法就是使用颜色。例如，在《古墓丽影》中，劳拉是屏幕上唯一穿着浅蓝色衬衫的实体。这意味着，如果玩家能在屏幕上看到一抹特定的淡蓝色，那么他看到的就是劳拉。这也意味着，玩家无需任何有意识的思考过程，就能在屏幕上一眼认出劳拉。在其他游戏中，例如在二维滚动游戏中，头像通常是通过位置来区分的。头像始终处于屏幕上的同一绝对位置，或至少处于同一水平线或垂直线上，而世界则围绕头像移动。这样，玩家就有了一个固定的参照点来确定自己的方向。
+动作游戏的另一个黄金法则是，玩家的化身必须非常容易辨认。在 FPS 游戏中，这一点很容易做到——化身就是玩家，通过屏幕向外看。但这是个例外。在其他所有类型的动作游戏中，化身都显示在屏幕上。几乎在所有情况下，化身都是独一无二的——它在屏幕上有独特的形状或位置。然而，确保化身易于辨认的最有效方法就是使用颜色。例如，在[《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)中，劳拉是屏幕上唯一穿着浅蓝色衬衫的实体。这意味着，如果玩家能在屏幕上看到一抹特定的淡蓝色，那么他看到的就是劳拉。这也意味着，玩家无需任何有意识的思考过程，就能在屏幕上一眼认出劳拉。在其他游戏中，例如在二维卷轴游戏中，化身通常是通过位置来区分的。化身始终处于屏幕上的同一绝对位置，或至少处于同一水平线或垂直线上，而世界则围绕换身移动。这样，玩家就有了一个固定的参照点来确定自己的方向。
 
-Not only is it important to be able to pick out the avatar, but it is also extremely important to be able to quickly identify enemies. There are several mechanisms in use for this. The majority of action games use color schemes to achieve this. As mentioned previously, the avatar is often a unique color. An extension of this scheme is to ensure that enemies follow a common scheme of color or appearance. Think of the film Tron—you can easily identify the bad guys because they're the ones in red. The good guys are in blue. This is a throwback to the old spaghetti westerns where the good guys wore white and the bad guys wore black. A similar scheme can also be used for collectible items. In fact, an often-used scheme is to have the avatar predominantly one color and all collectibles another color, with the majority of the background yet another color. Anything else is an enemy. Of course, this is mainly used in older games, and is often tied to hardware limitations (as in Pac-Man). There is no reason to use this particular configuration, however, and it can be shuffled around, as long as it is consistent. For example, each level of Space Tripper uses unique color schemes for the enemies, collectibles, and avatar designed to have maximum contrast with the level scenery. In this way, it is easy for the player to analyze the playing environment as easily as possible. The only problem with this is the issue of color-blindness. Relying solely on color as a differentiating indicator excludes a significant section of potential game players. Use form and contrast in tandem with color to maximize the differentiation methods available to players. Of course, color blindness typically affects only 10% of males (and even fewer females), and usually only affects the ability to differentiate red from green (and dependent colors). Other colors (with little or no red/green component, such as shades of blue) are safe to use.
+Not only is it important to be able to pick out the avatar, but it is also extremely important to be able to quickly identify enemies. There are several mechanisms in use for this. The majority of action games use color schemes to achieve this. As mentioned previously, the avatar is often a unique color. An extension of this scheme is to ensure that enemies follow a common scheme of color or appearance. Think of the film Tron—you can easily identify the bad guys because they're the ones in red. The good guys are in blue. This is a throwback to the old spaghetti westerns where the good guys wore white and the bad guys wore black. A similar scheme can also be used for collectible items. In fact, an often-used scheme is to have the avatar predominantly one color and all collectibles another color, with the majority of the background yet another color. Anything else is an enemy. Of course, this is mainly used in older games, and is often tied to hardware limitations (as in [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)). There is no reason to use this particular configuration, however, and it can be shuffled around, as long as it is consistent. For example, each level of Space Tripper uses unique color schemes for the enemies, collectibles, and avatar designed to have maximum contrast with the level scenery. In this way, it is easy for the player to analyze the playing environment as easily as possible. The only problem with this is the issue of color-blindness. Relying solely on color as a differentiating indicator excludes a significant section of potential game players. Use form and contrast in tandem with color to maximize the differentiation methods available to players. Of course, color blindness typically affects only 10% of males (and even fewer females), and usually only affects the ability to differentiate red from green (and dependent colors). Other colors (with little or no red/green component, such as shades of blue) are safe to use.
 
-不仅要能认出头像，快速识别敌人也极为重要。有几种机制可用于此目的。大多数动作游戏都使用配色方案来实现这一点。如前所述，头像通常是一种独特的颜色。这种方案的延伸是确保敌人遵循一种共同的颜色或外观方案。想想电影《创战纪》--你很容易就能认出坏人，因为他们是穿红色衣服的。好人则穿蓝色衣服。这是对老式西部片的一种回溯，在老式西部片中，好人穿白色衣服，坏人穿黑色衣服。类似的方案也可用于收藏品。事实上，一种经常使用的方案是，头像以一种颜色为主，所有收藏品以另一种颜色为主，大部分背景则以另一种颜色为主。其他任何颜色都是敌人。当然，这主要是在老游戏中使用，而且往往与硬件限制有关（如《吃豆人》）。不过，没有理由一定要使用这种特定配置，只要保持一致，也可以随意改变。例如，《太空绊脚石》的每个关卡中的敌人、收藏品和头像都采用了独特的配色方案，旨在与关卡场景形成最大反差。这样，玩家就能轻松分析游戏环境。唯一的问题是色盲。仅仅依靠颜色作为区分指标，会将很大一部分潜在游戏玩家排除在外。将形式和对比度与颜色结合起来使用，可以最大限度地为玩家提供区分方法。当然，色盲通常只影响 10%的男性（女性则更少），而且通常只影响区分红色和绿色（以及从属色）的能力。其他颜色（很少或没有红/绿成分，如蓝色）可以放心使用。
+不仅要能认出化身，快速识别敌人也极为重要。有几种机制可用于此目的。大多数动作游戏都使用配色方案来实现这一点。如前所述，化身通常是一种独特的颜色。这种方案的延伸是确保敌人遵循一种共同的颜色或外观方案。想想电影《创战纪》——你很容易就能认出坏人，因为他们是穿红色衣服的。好人则穿蓝色衣服。这是对老式西部片的一种回溯，在老式西部片中，好人穿白色衣服，坏人穿黑色衣服。类似的方案也可用于收集品。事实上，一种经常使用的方案是，化身以一种颜色为主，所有收集品以另一种颜色为主，大部分背景则以另一种颜色为主。其他任何颜色都是敌人。当然，这主要是在老游戏中使用，而且往往与硬件限制有关（如[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)）。不过，没有理由一定要使用这种特定配置，只要保持一致，也可以随意改变。例如，《Space Tripper》的每个关卡中的敌人、收藏品和化身都采用了独特的配色方案，旨在与关卡场景形成最大反差。这样，玩家就能轻松分析游戏环境。唯一的问题是色盲。仅仅依靠颜色作为区分指标，会将很大一部分潜在游戏玩家排除在外。将形式和对比度与颜色结合起来使用，可以最大限度地为玩家提供区分方法。当然，色盲通常只影响 10%的男性（女性则更少），而且通常只影响区分红色和绿色（以及从属色）的能力。其他颜色（很少或没有红/绿成分，如蓝色）可以放心使用。
 
-Action games (with one notable exception) require simple controls. Because of the fast-action nature of these games, the controls should, wherever possible, directly translate to avatar actions—pushing left on the controls makes the avatar go left, pushing right makes the avatar go right, and so on. For 2D games, this is a fairly simple endeavor, but for first- or third-person 3D games, there is an additional complication caused by the third dimension. There will always be an extra level of indirection for the player to deal with, and the controls will not be as intuitive as a 2D game. Quake-style games, even though they have standardized on a fairly logically consistent control system, are by no means simple for a complete beginner. Learning to use the Quake-style interface is the biggest barrier to mass-market success for first-person 3D games. For example, consider the success of the Mario series of games on the early Nintendo console systems. Super Mario World on the SNES was a system-seller. On the strength of that game alone, Nintendo sold many SNES systems. However, the first 3D incarnation of the Mario series, Super Mario 64, was not as immediately successful, even though the control system was as close to optimal as could be hoped. It was helped somewhat by the sheer eye-candy and novelty value, but for the average player, it was nowhere near as "pick up and play" as the earlier games, partially due to the added complexity of managing the camera as well as Mario.
+Action games (with one notable exception) require simple controls. Because of the fast-action nature of these games, the controls should, wherever possible, directly translate to avatar actions—pushing left on the controls makes the avatar go left, pushing right makes the avatar go right, and so on. For 2D games, this is a fairly simple endeavor, but for first- or third-person 3D games, there is an additional complication caused by the third dimension. There will always be an extra level of indirection for the player to deal with, and the controls will not be as intuitive as a 2D game. [Quake](https://en.wikipedia.org/wiki/Quake_(video_game))-style games, even though they have standardized on a fairly logically consistent control system, are by no means simple for a complete beginner. Learning to use the Quake-style interface is the biggest barrier to mass-market success for first-person 3D games. For example, consider the success of the Mario series of games on the early Nintendo console systems. [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World) on the SNES was a system-seller. On the strength of that game alone, Nintendo sold many SNES systems. However, the first 3D incarnation of the Mario series, [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64), was not as immediately successful, even though the control system was as close to optimal as could be hoped. It was helped somewhat by the sheer eye-candy and novelty value, but for the average player, it was nowhere near as "pick up and play" as the earlier games, partially due to the added complexity of managing the camera as well as Mario.
 
-动作游戏（有一个明显的例外）需要简单的控制。由于这些游戏具有快速动作的性质，因此在任何可能的情况下，控制键都应直接转化为头像的动作--向左按控制键头像就会向左移动，向右按控制键头像就会向右移动，依此类推。对于 2D 游戏来说，这是一项相当简单的工作，但对于第一或第三人称 3D 游戏来说，三维空间带来了额外的复杂性。玩家需要处理的间接操作总是多了一层，控制也不如 2D 游戏直观。尽管 Quake 风格游戏采用了逻辑上相当一致的标准化控制系统，但对于初学者来说也绝不简单。学习使用 Quake 风格的界面是第一人称 3D 游戏成功进入大众市场的最大障碍。例如，早期任天堂游戏机系统上的马里奥系列游戏的成功。SNES 上的《超级马里奥世界》是一款系统畅销游戏。仅凭这款游戏，任天堂就卖出了许多 SNES 系统。然而，马里奥系列的第一个 3D 版本--《超级马里奥 64》并没有立即取得成功，尽管其控制系统已接近最佳状态。虽然这款游戏在一定程度上得益于它的炫目和新奇，但对于普通玩家来说，它远不如早期游戏那样 “拿起来就能玩”，部分原因是要管理摄像头和马里奥的复杂性增加了。
+动作游戏（有一个明显的例外）需要简单的控制。由于这些游戏具有快速动作的性质，因此在任何可能的情况下，控制键都应直接转化为化身的动作——向左按控制键化身就会向左移动，向右按控制键化身就会向右移动，依此类推。对于 2D 游戏来说，这是一项相当简单的工作，但对于第一或第三人称 3D 游戏来说，三维空间带来了额外的复杂性。玩家需要处理的间接操作总是多了一层，控制也不如 2D 游戏直观。尽管[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))风格游戏采用了逻辑上相当一致的标准化控制系统，但对于初学者来说也绝不简单。学习使用[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))风格的界面是第一人称 3D 游戏成功进入大众市场的最大障碍。例如，早期任天堂游戏机系统上的马里奥系列游戏的成功。SNES 上的[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)是一款系统畅销游戏。仅凭这款游戏，任天堂就卖出了许多 SNES 系统。然而，马里奥系列的第一个 3D 版本——[《超级马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)并没有立即取得成功，尽管其控制系统已接近最佳状态。虽然这款游戏在一定程度上得益于它的炫目和新奇，但对于普通玩家来说，它远不如早期游戏那样“拿起来就能玩”，部分原因是要管理摄像头和马里奥的复杂性增加了。
 
 The notable exception to the simple control systems mentioned previously is the specific sub-genre of fighting games. For these, moves such as walking, kicking, and punching are fairly straightforward to perform. But for the more complex and rewarding combo moves, those that can cause more damage to the opponent (and usually carry a correspondingly higher risk due to taking longer to perform), the player is expected to perform a long string of commands in the correct sequence in order to be able to pull off the advanced move.
 
-除了前面提到的简单控制系统外，格斗游戏这一特殊的子类型是个明显的例外。在这些游戏中，行走、踢腿和出拳等动作都相当简单。但对于那些更复杂、更有价值的连击动作，即那些能给对手造成更大伤害的动作（由于需要更长的时间来完成，风险通常也相应更高），玩家则需要按照正确的顺序执行一长串指令，才能完成高级动作。
+先前提到的简单控制系统的一个显著例外是格斗游戏这一特定子类型。在这些游戏中，行走、踢腿和出拳等动作都相当简单。但对于那些更复杂、收益更高的连击动作，即那些能给对手造成更大伤害的动作（由于需要更长的时间来完成，风险通常也相应更高），玩家则需要按照正确的顺序执行一长串指令，才能完成高级动作。
 
-At the other end of the spectrum are games in which the player's movements are directly emulated in the game. Without considering VR systems, a mass-market example of this is the arcade game Dance Dance Revolution. This is controlled by a set of footpads that the player has to dance upon in attempts to match the flashing icons that appear on the screen. Consequently, the player's avatar is controlled directly by the dancing (or more accurately, stomping) of the player.
-另一类游戏是在游戏中直接模拟玩家的动作。在不考虑 VR 系统的情况下，街机游戏《舞蹈革命》就是一个大众化的例子。这款游戏由一组脚垫控制，玩家必须在脚垫上跳舞，以配合屏幕上出现的闪烁图标。因此，玩家的头像直接受控于玩家的舞蹈（更准确地说，是跺脚）。
+At the other end of the spectrum are games in which the player's movements are directly emulated in the game. Without considering VR systems, a mass-market example of this is the arcade game [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution). This is controlled by a set of footpads that the player has to dance upon in attempts to match the flashing icons that appear on the screen. Consequently, the player's avatar is controlled directly by the dancing (or more accurately, stomping) of the player.
 
-Special Design Considerations for Action Games
+另一类游戏是在游戏中直接模拟玩家的动作。在不考虑 VR 系统的情况下，街机游戏[《劲舞革命》](https://en.wikipedia.org/wiki/Dance_Dance_Revolution)就是一个大众化的例子。这款游戏由一组脚垫控制，玩家必须在脚垫上跳舞，以配合屏幕上出现的闪烁图标。因此，玩家的化身直接受控于玩家的舞蹈（更准确地说，是跺脚）。
 
-动作游戏的特殊设计考虑因素
+# Special Design Considerations for Action Games 动作游戏的特殊设计考虑因素
 
-We've already covered most of the design considerations for action games in this chapter, but there is one important point that we have not yet considered. If we compare a game such as Defender with a game such as Super Mario World (aside from the cutesy graphics of the latter), when just watching them being played, one would appear to be more difficult than the other.
+We've already covered most of the design considerations for action games in this chapter, but there is one important point that we have not yet considered. If we compare a game such as [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)) with a game such as [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World) (aside from the cutesy graphics of the latter), when just watching them being played, one would appear to be more difficult than the other.
 
-在本章中，我们已经介绍了大部分动作游戏的设计注意事项，但有一点很重要，我们还没有考虑到。如果我们将《捍卫者》这样的游戏与《超级马里奥世界》这样的游戏进行比较（除了后者可爱的画面之外），在观看它们的游戏过程中，一个游戏似乎比另一个游戏更难。
+在本章中，我们已经介绍了大部分动作游戏的设计注意事项，但有一点很重要，我们还没有考虑到。如果我们将[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))这样的游戏与[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)这样的游戏进行比较（除了后者可爱的画面之外），在观看它们的游戏过程中，一个游戏似乎比另一个游戏更难。
 
-Defender is a very unforgiving game. It tolerates no mistakes on the part of the player. If the player makes a mistake, then the player loses a life. End of story.
+[Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)) is a very unforgiving game. It tolerates no mistakes on the part of the player. If the player makes a mistake, then the player loses a life. End of story.
 
-《保卫者》是一款非常无情的游戏。它容不得玩家犯任何错误。如果玩家犯错，就会失去一条命。故事结束。
+[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))是一款非常无情的游戏。它容不得玩家犯任何错误。如果玩家犯错，就会失去一条命。故事结束。
 
-Super Mario World, however, is a lot more tolerant of player mistakes. The difficulty of some of the tougher levels are on a par with those of Defender, so it's not just a simple matter of the game being easier to play. No, the difference between these two games is the "perceived difficulty." Determining the perceived difficulty of a game is fundamentally the answer to the following two questions: What is the learning curve for the beginning player? How difficult is it for the player to recover from mistakes?
+[Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World), however, is a lot more tolerant of player mistakes. The difficulty of some of the tougher levels are on a par with those of [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)), so it's not just a simple matter of the game being easier to play. No, the difference between these two games is the "perceived difficulty." Determining the perceived difficulty of a game is fundamentally the answer to the following two questions: What is the learning curve for the beginning player? How difficult is it for the player to recover from mistakes?
 
-而《超级马里奥世界》对玩家失误的容忍度要高得多。一些高难度关卡的难度与《保卫者》不相上下，因此这不仅仅是游戏更容易玩这么简单。不，这两款游戏的区别在于 “感知难度”。确定一款游戏的可感知难度，从根本上说就是要回答以下两个问题： 初学者的学习曲线是怎样的？玩家从错误中恢复过来的难度有多大？
+而[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)对玩家失误的容忍度要高得多。一些高难度关卡的难度与[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))不相上下，因此这不仅仅是游戏更容易玩这么简单。不，这两款游戏的区别在于“感知难度”。确定一款游戏的感知难度，从根本上说就是要回答以下两个问题：初学者的学习曲线是怎样的？玩家从错误中恢复过来的难度有多大？
 
-In Defender, the player is dropped into the thick of the action with no gentle introductions, and a mistake costs a life. In Super Mario World, the difficulty of the first few levels is gently ramped, and mistakes on the part of the player are tolerated. For example, if a player guides Mario too close to the edge of a platform, he has the chance to correct the error because Mario teeters on the edge for a second before dropping.
+In [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)), the player is dropped into the thick of the action with no gentle introductions, and a mistake costs a life. In [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World), the difficulty of the first few levels is gently ramped, and mistakes on the part of the player are tolerated. For example, if a player guides Mario too close to the edge of a platform, he has the chance to correct the error because Mario teeters on the edge for a second before dropping.
 
-在《保卫者》中，玩家一进入游戏就会被带入紧张刺激的战斗中，没有任何温柔的开场白，一次失误就会付出生命的代价。而在《超级马里奥世界》中，前几个关卡的难度是缓缓提升的，玩家犯错是可以被容忍的。例如，如果玩家引导马里奥太靠近平台边缘，他有机会纠正错误，因为马里奥会在边缘徘徊一秒钟才掉下来。
+在[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))中，玩家一进入游戏就会被带入紧张刺激的战斗中，没有任何温柔的开场白，一次失误就会付出生命的代价。而在[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)中，前几个关卡的难度是缓缓提升的，玩家犯错是可以被容忍的。例如，如果玩家操控马里奥太靠近平台边缘，他有机会纠正错误，因为马里奥会在边缘徘徊一秒钟才掉下来。
 
-The target market for a game often decides which of these two extremes it will follow. Defender was an arcade game, designed to generate maximum coin throughput. Super Mario World was aimed at young players, and as such was designed to be easily accessible—the clichéd "easy to learn and difficult to master."
+The target market for a game often decides which of these two extremes it will follow. [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)) was an arcade game, designed to generate maximum coin throughput. [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World) was aimed at young players, and as such was designed to be easily accessible—the clichéd "easy to learn and difficult to master."
 
-一款游戏的目标市场往往决定了它将遵循这两个极端中的哪一个。捍卫者》是一款街机游戏，旨在产生最大的硬币吞吐量。而《超级马里奥世界》的目标市场是年轻玩家，因此设计得很容易上手--老生常谈的 “易学难精”。
+一款游戏的目标市场往往决定了它将遵循这两个极端中的哪一个。[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))是一款街机游戏，旨在产生最大的硬币吞吐量（经济收益）。而[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)的目标市场是年轻玩家，因此设计得很容易上手——老生常谈的“易于上手，难于精通”。
 
-Action Game Worksheet 动作游戏工作表
+> **Action Game Worksheet 动作游戏工作表**
+>
+> As you design an action game, consider the following questions:
+> 在设计动作游戏时，请考虑以下问题：
+>
+> 1. Is this game a shooter or a non-shooter? If it is a non-shooter, what actions will the player take to defeat enemies?\
+> 这款游戏是射击游戏还是非射击游戏？如果是非射击游戏，玩家将采取什么行动来打败敌人？
+> 
+> 2. Is the world (not the display mechanism) essentially 2D or 3D? If the world is 2D, should the display mechanism be 2D also, or would the gameplay benefit from 3D graphics?\
+> 世界（不是显示机制）本质上是 2D 还是 3D 的？如果世界是 2D 的，那么显示机制也应该是 2D 的，还是说游戏会受益于 3D 图形？
+> 
+> 3. If the world is 2D, will the whole world be visible on the screen, or will it scroll? If it scrolls, in which direction(s) does it scroll?\
+> 如果世界是 2D 的，整个世界在屏幕上是可见的，还是可以滚动的？如果可以滚动，滚动的方向是什么？
+> 
+> 4. Does the player need a mini-map to see key offscreen elements of the world before they arrive onscreen? What about an automap for allowing him to record where he has been?\
+> 玩家是否需要一个小地图，以便在世界的关键元素出现在屏幕上之前就能看到它们？是否需要一个自动地图让玩家记录他去过的地方？
+> 
+> 5. What physical challenges will the game incorporate, and under what circumstances? Speed and reaction time? Accurate steering and aiming? Timing? Combo moves?\
+> 游戏将包含哪些体能挑战，在什么情况下？速度和反应时间？准确转向和瞄准？时机把控？连击动作？
+> 
+> 6. Will enemies appear in waves? Will there be monster generators or wildcard enemies to break up the regular progression of the waves?\
+> 敌人会一波一波地出现吗？是否会有怪物生成器或意外敌人来打破波次的常规进程？
+> 
+> 7. Will the game be broken into levels? What things will make one level different from another (landscape, enemies, speed, perspective, and so on)? Don't forget cosmetic items like music and architecture. Will levels end with a boss?\
+> 游戏会分成几个关卡吗？哪些因素会使一个关卡与另一个关卡有所不同（景观、敌人、速度、视角等）？别忘了音乐和建筑等装饰性物品。关卡最后是否会出现首领？
+> 
+> 8. How will the avatar's life be managed: as fixed lives, energy bars, or some combination? Can the player obtain more lives? If so, how?\
+> 如何管理化身的生命：固定生命、能量条还是某种组合？玩家能否获得更多生命？如果可以，如何获得？
+> 
+> 9. What power-ups will there be, if any? For each one you plan to incorporate, do the following: state what it does, what it looks like, what it sounds like when activated or how or where it is to be found or obtained, how common or rare it is, how long its effect lasts, and how the player will be able to identify it (by sight and the sound it makes).\
+> 如果有的话，会有哪些强化道具？对于你计划加入的每一种道具，请做以下说明：说明它的作用、外观、激活时的声音、如何或在哪里找到或获得、常见或稀有程度、效果持续时间，以及玩家如何识别它（通过视觉和声音）。
+> 
+> 10. Will the game give the player clues that allow him to anticipate challenges, or must the player depend entirely on trial-and-error to learn his way through it?\
+> 游戏是否会提供线索，让玩家预测挑战，还是玩家必须完全依靠试错来了解游戏？
+> 
+> 11. Does the game involve exploring unknown territory? If so, how linear or non-linear will it be? Traditional arcade and side-scrolling games gave little or no choice; games like [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon) offer considerable freedom.\
+> 游戏是否涉及探索未知领域？如果是，它的线性或非线性程度如何？传统的街机游戏和侧滚动游戏几乎没有选择余地，而像[《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)这样的游戏则提供了相当大的自由度。
+> 
+> 12. Is there a save-game or checkpoint mechanism that prevents the player from having to start over from the beginning?\
+> 是否有保存游戏或检查点机制，以免玩家从头开始？
+> 
+> 13. Is the player going to collect anything, in either large or small numbers? Can collected items be "exchanged" for anything useful, or is the player awarded anything when particular thresholds are reached?\
+> 玩家会收集大量或少量物品吗？收集到的物品是否可以“交换”任何有用的东西，或者当玩家收集到特定的数量门槛时是否会获得任何奖励？
+> 
+> 14. Is there a scoring mechanism? If so, how is it computed? Does it serve any function besides giving the player a record of achievement?\
+> 是否有计分机制？如果有，如何计算？除了给玩家提供成就记录外，还有其他功能吗？
+> 
+> 15. What "locked doors" will there be, and what "keys" will open them?\
+> 会有哪些“上锁的门”，用什么“钥匙”打开？
+> 
+> 16. Will the game have, or need, a tutorial mode? If not, how steep do you want the learning curve to be?\
+> 游戏会有或需要教程模式吗？如果没有，你希望学习曲线有多陡峭？
+> 
+> 17. Does the game have a victory condition other than simple survival? What is it?\
+> 除了简单的生存之外，游戏还有其他胜利条件吗？是什么条件？
 
-As you design an action game, consider the following questions:
-在设计动作游戏时，请考虑以下问题：
+# Putting It Together 总结
 
-1. Is this game a shooter or a non-shooter? If it is a non-shooter, what actions will the player take to defeat enemies?这款游戏是射击游戏还是非射击游戏？如果是非射击游戏，玩家将采取什么行动来打败敌人？
-2. Is the world (not the display mechanism) essentially 2D or 3D? If the world is 2D, should the display mechanism be 2D also, or would the gameplay benefit from 3D graphics?世界（不是显示机制）基本上是 2D 还是 3D 的？如果世界是二维的，那么显示机制也应该是二维的，还是说游戏会受益于三维图形？
-3. If the world is 2D, will the whole world be visible on the screen, or will it scroll? If it scrolls, in which direction(s) does it scroll?如果世界是二维的，整个世界在屏幕上是可见的，还是滚动的？如果滚动，滚动的方向是什么？
-4. Does the player need a mini-map to see key offscreen elements of the world before they arrive onscreen? What about an automap for allowing him to record where he has been?玩家是否需要一个小地图，以便在世界的关键元素出现在屏幕上之前就能看到它们？是否需要一个自动地图让玩家记录他去过的地方？
-5. What physical challenges will the game incorporate, and under what circumstances? Speed and reaction time? Accurate steering and aiming? Timing? Combo moves?游戏将包含哪些体能挑战，在什么情况下？速度和反应时间？准确转向和瞄准？计时？连击动作？
-6. Will enemies appear in waves? Will there be monster generators or wildcard enemies to break up the regular progression of the waves?敌人会一波一波地出现吗？是否会有怪物生成器或通配符敌人来打破波浪的常规进程？
-7. Will the game be broken into levels? What things will make one level different from another (landscape, enemies, speed, perspective, and so on)? Don't forget cosmetic items like music and architecture. Will levels end with a boss?游戏会分成几个关卡吗？哪些因素会使一个关卡与另一个关卡有所不同（景观、敌人、速度、视角等）？别忘了音乐和建筑等装饰性物品。关卡最后是否会出现老板？
-8. How will the avatar's life be managed: as fixed lives, energy bars, or some combination? Can the player obtain more lives? If so, how?如何管理化身的生命：固定生命、能量棒还是某种组合？玩家能否获得更多生命？如果可以，如何获得？
-9. What power-ups will there be, if any? For each one you plan to incorporate, do the following: state what it does, what it looks like, what it sounds like when activated or how or where it is to be found or obtained, how common or rare it is, how long its effect lasts, and how the player will be able to identify it (by sight and the sound it makes).如果有的话，会有哪些增强功能？对于你计划加入的每一种能力，请做以下说明：说明它的作用、外观、激活时的声音、如何或在哪里找到或获得、常见或稀有程度、效果持续时间，以及玩家如何识别它（通过视觉和声音）。
-10. Will the game give the player clues that allow him to anticipate challenges, or must the player depend entirely on trial-and-error to learn his way through it?游戏是否会提供线索，让玩家预测挑战，还是玩家必须完全依靠试错来了解游戏？
-11. Does the game involve exploring unknown territory? If so, how linear or non-linear will it be? Traditional arcade and side-scrolling games gave little or no choice; games like Spyro the Dragon offer considerable freedom.游戏是否涉及探索未知领域？如果是，它的线性或非线性程度如何？传统的街机游戏和侧滚动游戏几乎没有选择余地，而像《Spyro the Dragon》这样的游戏则提供了相当大的自由度。
-12. Is there a save-game or checkpoint mechanism that prevents the player from having to start over from the beginning?是否有保存游戏或检查点机制，防止玩家从头开始？
-13. Is the player going to collect anything, in either large or small numbers? Can collected items be "exchanged" for anything useful, or is the player awarded anything when particular thresholds are reached?玩家会收集大量或少量物品吗？收集到的物品是否可以 “交换 ”任何有用的东西，或者当玩家达到特定的门槛时是否会获得任何奖励？
-14. Is there a scoring mechanism? If so, how is it computed? Does it serve any function besides giving the player a record of achievement?是否有计分机制？如果有，如何计算？除了给玩家提供成就记录外，还有其他功能吗？
-15. What "locked doors" will there be, and what "keys" will open them?会有哪些 “上锁的门”，用什么 “钥匙 ”打开？会有哪些 “上锁的门”，用什么 “钥匙 ”打开？
-16. Will the game have, or need, a tutorial mode? If not, how steep do you want the learning curve to be?游戏会有或需要教程模式吗？如果没有，你希望学习曲线有多陡峭？
-17. Does the game have a victory condition other than simple survival? What is it?除了简单的生存之外，游戏还有其他胜利条件吗？是什么条件？
+Even though many of the examples in this chapter have used "classic" action games for examples—some of them being nearly twenty years old—this is one genre of game in which the core "gameplay" has remained essentially unchanged since the outset. The lessons that can be learned from an old game such as [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) or [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)) are the same as can be learned from a more recent action game example such as [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena). Sure, the rules have changed a bit, the gameplay has become slightly more complex, and the structure of the game has shifted more from "eternal play" as in Robotron (where the player is assailed by wave upon wave of enemies) to a more story-oriented approach, such as the Mario series (where there is a well-defined beginning, middle, and end). Even with these developments, the core essence of the action game remains unchanged.
+
+尽管本章中的许多示例都使用了“经典”动作游戏作为示例——其中一些已有近二十年的历史——但这是一种核心“玩法”从一开始就基本保持不变的游戏类型。从[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)或[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))等老游戏中汲取的经验教训，与从[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)等较新的动作游戏中汲取的经验教训是一样的。当然，游戏规则发生了一些变化，游戏玩法也略微复杂了一些，游戏结构也从《机器人大战》中的“永恒游戏”（玩家被一波又一波的敌人攻击）转变为更注重故事的方式，如《马里奥》系列（有明确的开头、中间和结尾）。即使有了这些发展，动作游戏的核心本质仍然没有改变。
+
+In fact, the biggest change in action games during their lifespan so far has been their graphical complexity. Of course, only those designers that have understood the fundamental nature of action games have made the transition successfully, and they have done this in spite of—not because of—the more sophisticated graphical capabilities of the newer platforms.
+
+事实上，迄今为止，动作游戏最大的变化就是图形的复杂性。当然，只有那些了解动作游戏基本特性的设计者才能成功转型，他们之所有能成功，不是因为新平台拥有更复杂的图形能力，而是在新平台的支持下依然坚持游戏设计的核心原则和本质。

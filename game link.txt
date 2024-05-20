@@ -1,3 +1,6 @@
+[Golden Axe](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))
+[《战斧》](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))
+
 [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))
 [《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))
 
@@ -225,8 +228,17 @@
 
 《超级马里奥Advance》
 
+[Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
+[《超级马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)
+
+[Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)
+[《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)
+
 [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game))
-[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_video_game)))
+[《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))
+
+[Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
+[《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
 
 [Commando](https://en.wikipedia.org/wiki/Commando_(video_game))
 
@@ -274,6 +286,6 @@
 [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
 [《无尽的任务》](https://en.wikipedia.org/wiki/EverQuest)
 
-[Ultima Online]((https://en.wikipedia.org/wiki/Ultima_Online))
+[Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online)
 [《网络创世纪》](https://en.wikipedia.org/wiki/Ultima_Online)
 
