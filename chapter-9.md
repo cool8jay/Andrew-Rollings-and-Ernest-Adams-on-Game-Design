@@ -467,30 +467,43 @@ Action games—being among the first of the genres—benefited well from the ear
 
 > **Case Study 9.1 A Flawed Victory Condition 案例研究 9.1 有缺陷的胜利条件**
 > 
-> In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably Pac-Man.
+> In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably Pac-Man.\
 > 
-For years, people have been attempting to get a perfect score on Pac-Man. In July of 1999, Billy Mitchell of Fort Lauderdale, Florida scored a perfect 3,333,360 points on a Pac-Man machine in Weirs Beach, New Hampshire. The perfect score is achieved by playing for six hours, through 256 levels of Pac-Man, eating every pellet, power-pill, blue ghost, and piece of fruit on every single level, without dying once. After the 256th level, the game freezes.
+> 在有些游戏中，胜利条件是由于一个错误导致玩家无法继续前进。这种情况出奇地常见，因为这类游戏的开发者通常不会在游戏中测试那么深入。最著名的例子可能就是《吃豆人》了。
 > 
-When he stepped away from the game after beating it, he said "I never have to play that darn game again…".
+> For years, people have been attempting to get a perfect score on Pac-Man. In July of 1999, Billy Mitchell of Fort Lauderdale, Florida scored a perfect 3,333,360 points on a Pac-Man machine in Weirs Beach, New Hampshire. The perfect score is achieved by playing for six hours, through 256 levels of Pac-Man, eating every pellet, power-pill, blue ghost, and piece of fruit on every single level, without dying once. After the 256th level, the game freezes.\
 > 
-What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as Golden Axe (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).
+> 多年来，人们一直试图在《吃豆人》中获得满分。1999 年 7 月，佛罗里达州劳德代尔堡的比利·米切尔（Billy Mitchell）在新罕布什尔州韦尔斯海滩（Weirs Beach）的吃豆人游戏机上取得了 3,333,360 分的满分。要想获得满分，就必须在 256 个关卡的吃豆人游戏中玩上 6 个小时，吃掉每个关卡中的所有颗粒、能量药丸、蓝色幽灵和水果，并且一次也不能死。玩到第 256 关后，游戏就会冻结。
+> 
+> When he stepped away from the game after beating it, he said "I never have to play that darn game again…".\
+> 
+> 当他打完游戏离开时，他说：“我再也不用玩那个该死的游戏了……”。
+> 
+> What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as Golden Axe (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).\
+> 
+> 由此可以看出，动作游戏一般都有一个或零个胜利条件。它们被分为两大类：一类是有可能获胜的游戏，另一类是只可能获得最高分的游戏。大多数早期的动作游戏都属于后一类，这主要是由于内存的限制。后来，随着处理能力和存储能力的提高，开发人员开始在游戏中加入结构化的故事——有了故事，也就有了结局。《金斧》等游戏（如图 9.14 所示）都有明确的结局，在打败游戏末尾的大首领（在本例中是死亡加害者）之后，玩家的化身就会永远过上幸福的生活（当然，直到不可避免的续集出现为止）。
 > 
 > Figure 9.14. Golden Axe.
 > 
 > graphics/09fig14.gif
 > 
-> As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.
+> As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.\
+> 
+> 因此，动作游戏是不寻常的，因为其胜利条件要么是非常明确的，玩家事先就知道；要么是完全不存在的，被包裹在一个无定形的目标中，永远无法实现，比如前面提到的[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)。找到介于这两种极端情况之间的游戏非常罕见，主要是因为这将游戏从纯粹的动作游戏推向了另一种完全不同的类型。
 
-
-### Interaction Model
+### Interaction Model 互动模式
 
 The primary model in action games is based purely on fast interactions—hand-eye coordination and reaction speed. The ability to think quickly and analyze situations almost instantaneously is favored as well. The player is usually given direct control over a single avatar. In order to efficiently translate the player's intent into actions within the game, the control methods for action games are usually extremely simple. Even so, various action games have attempted to implement more complex control schemes. The success of these games depended on the lengths to which players were prepared to go to learn the system. Games that succeed in this are usually the games that set the standards for new genres. For example, the Doom and Quake modes of interaction for FPS games are pretty much ubiquitous nowadays. Similarly, the Super Mario 64 control system has become the de facto standard control system for most console-based 3D platform games.
 
+动作游戏的主要模式完全基于快速互动--手眼协调和反应速度。快速思考和几乎瞬间分析情况的能力也受到青睐。玩家通常可以直接控制一个化身。为了有效地将玩家的意图转化为游戏中的行动，动作游戏的控制方法通常极为简单。即便如此，各种动作游戏还是试图采用更复杂的控制方案。这些游戏的成功与否，取决于玩家愿意花多大力气来学习这个系统。在这方面取得成功的游戏通常都为新的游戏类型设定了标准。例如，FPS 游戏的 Doom 和 Quake 交互模式如今几乎无处不在。同样，《超级马里奥 64》的控制系统已成为大多数基于控制台的 3D 平台游戏的实际标准控制系统。
+
 Often, the ability to analyze the situation in a particular game is a learned process developed through playing that particular game. In some cases, the skills learned playing one game can be applied to other games, with varying levels of transferability. For example, the skills learned when playing [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) can be transferred wholesale over to other games such as [Galaxians](https://en.wikipedia.org/wiki/Galaxian) and, to a lesser extent, Centipede. There are several levels to the nature of the skills developed by playing certain games, and these levels are linked to how domain-specific the skills are. For example, the skill of picking off the spider in Centipede is not that useful in many other action games. Conversely, the skill of navigating the player's avatar and picking off a target further up the screen is useful in a much wider range of games. Obviously, if similar games use similar control systems, then the cross-game transfer of these skills is that much easier.
 
-[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)
+通常情况下，分析特定游戏中局势的能力是在玩该特定游戏的过程中学会的。在某些情况下，玩一种游戏所学到的技能可以应用到其他游戏中，但可迁移性各不相同。例如，在玩[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)时学到的技能可以全盘转移到其他游戏中，如《Galaxians》，其次是《Centipede》。玩某些游戏所培养的技能的性质有几个层次，这些层次与技能的特定领域有关。例如，《蜈蚣》中 “干掉蜘蛛 ”的技能在许多其他动作游戏中并不那么有用。相反，在更多的游戏中，导航玩家的头像并击退屏幕上方目标的技能则有用得多。显然，如果同类游戏使用类似的控制系统，那么这些技能的跨游戏转移就会容易得多。
 
 Of course, the ability to analyze a complex play-situation instantaneously is of limited use if the player has poor hand-eye coordination and reaction times. Studies tend to be conflicted on whether games improve or reduce these attributes in regular players. Common sense seems to indicate that exercising a skill tends to improve it, but what the official line is on this matter depends on the flavor of this month's study.
+
+当然，如果玩家的手眼协调能力和反应速度较差，那么即时分析复杂游戏环境的能力就会受到限制。关于游戏是提高还是降低普通球员的这些属性，研究结果往往相互矛盾。常识似乎表明，锻炼技能往往会提高技能，但官方在这个问题上的说法取决于本月研究的侧重点。
 
 ## Perspective
 
