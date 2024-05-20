@@ -10,6 +10,18 @@
 [Super Mario Sunshine](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)
 [《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)
 
+
+[Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))
+[《圣铠传说》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))
+
+[Gauntlet Legends](https://en.wikipedia.org/wiki/Gauntlet_Legends)
+[《圣铠传说》](https://en.wikipedia.org/wiki/Gauntlet_Legends)
+
+这两个游戏，中文名重名
+
+[Space Tripper](https://www.old-games.com/download/9123/space-tripper)
+[《太空战将》](https://www.old-games.com/download/9123/space-tripper)
+
 [Frogger](https://en.wikipedia.org/wiki/Frogger)
 [《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)
 
@@ -237,6 +249,16 @@
 [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game))
 [《防卫者》](https://en.wikipedia.org/wiki/Defender_(1981_video_game))
 
+[Defender: Stargate](https://en.wikipedia.org/wiki/Stargate_(1981_video_game))
+[《防卫者：星际之门》](https://en.wikipedia.org/wiki/Stargate_(1981_video_game))
+就是Defender II
+
+[Rainbow Islands](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2)
+[《彩虹岛》](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2)
+
+[Parasol Stars](https://en.wikipedia.org/wiki/Parasol_Stars)
+[《阳伞之星》](https://en.wikipedia.org/wiki/Parasol_Stars)
+
 [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
 [《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
 
@@ -259,6 +281,8 @@
 
 [The Sims](https://en.wikipedia.org/wiki/The_Sims)
 [《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)
+
+[Sinistar](https://en.wikipedia.org/wiki/Sinistar)
 
 [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
 [《垄断大亨》](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
