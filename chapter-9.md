@@ -95,7 +95,7 @@ The advantage of the original Robotron was that all the action could be viewed o
 [《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))是早期另一款经典街机游戏（见图 9.4）。这款游戏经常被称赞为近乎完美的游戏范例。游戏中的各个元素都设置得非常平衡，并表现出许多有趣的涌现特性。玩家必须对何时以及如何清除蘑菇做出明智的选择——蘑菇太多，蜈蚣就更容易接近你，也更难击中你；蘑菇太少，就会出现更多的敌人，增加更多的蘑菇。
 
 {% hint style="info" %}
-译者注：[《蜈蚣》](https://www.youtube.com/watch?v=V7XEmf02zEM&t=4s&ab_channel=KlausS.)游玩视频。
+译者注：[《蜈蚣》游玩视频](https://www.youtube.com/watch?v=V7XEmf02zEM&t=4s&ab_channel=KlausS.)。
 {% endhint %}
 
 Figure 9.4. Centipede and Centipede 3D. Figure 9.4. 《蜈蚣》和《蜈蚣3D》
@@ -107,7 +107,7 @@ Hasbro, flushed with the success of their [Frogger](https://en.wikipedia.org/wik
 孩之宝公司成功重制了[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)，销售量高达数百万份，于是他们决定再次尝试新的重制。《蜈蚣》的重制版加入了 3D 图形和故事。遗憾的是，在这个过程中失去了一些东西，游戏性也因此受到了影响。即使加入了原街机游戏的伪 3D 版本，也未能挽救这款复古时尚的尝试。原版[《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))的可玩性背后的关键之一（事实上，这也是贯穿所有成功动作游戏的一贯主题）是玩家无需思考就能理解屏幕上的内容。这很容易，而且是在潜意识层面上进行的：蜈蚣是一种颜色，蘑菇是另一种颜色，蜘蛛又是另一种颜色。遗憾的是，这种利用颜色来提供信息的做法在更新版中消失了，因为更新版的重点是让画面呈现出逼真的质感和趣味性。不幸的是，这意味着玩家的潜意识必须付出更大的努力才能确定屏幕上发生了什么。再加上从 2D 固定游戏场地到全滚动 3D 世界的转变，我们就很容易理解为什么这次更新未能保持原版的标准了。
 
 {% hint style="info" %}
-译者注：[《青蛙过河》](https://www.youtube.com/watch?v=WNrz9_Fe-Us&ab_channel=OldClassicRetroGaming)游玩视频。
+译者注：[《青蛙过河》游玩视频](https://www.youtube.com/watch?v=WNrz9_Fe-Us&ab_channel=OldClassicRetroGaming)。
 {% endhint %}
 
 As shown in Figure 9.5, the space shooter is one of the oldest styles of games. From the venerable [Space Invaders]((https://en.wikipedia.org/wiki/Space_Invaders)) through to modern masterpieces such as Space Tripper, this has been a class of game that is consistently popular. One of the fondly remembered classic games from the days of 8-bit computers is [Uridium](https://en.wikipedia.org/wiki/Space_Invaders), a game that puts the player in a Manta assault craft on a one-man attack run against a fleet of enemy space stations. As the Manta flies from left to right, waves of aliens and missiles launched from the stations converge on the player. The space stations were huge, spanning several screen-widths, and so the player had to be aware of what was happening not only on the visible screen he could see, but also in the much larger region that he could not. This was a mechanic lifted straight from Williams' Defender, although [Uridium](https://en.wikipedia.org/wiki/Space_Invaders) is played from a top-down view, not a side view. This class of game requires extremely good reflexes on the part of the player, and additionally, the ability to form a mental model of what was happening outside the bounds of the screen. There are two main classes of scrolling shooter—those with fixed scrolling, where the screen would continuously scroll in one direction such as Irem's [R-Type](https://en.wikipedia.org/wiki/R-Type), and those with variable scrolling, where the player had some degree of control over the scroll direction.
@@ -115,7 +115,7 @@ As shown in Figure 9.5, the space shooter is one of the oldest styles of games. 
 如图 9.5 所示，太空射击游戏是最古老的游戏类型之一。从古老的[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)到现代杰作《Space Tripper》，这一类游戏一直深受玩家欢迎。[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是 8 位电脑时代的经典游戏之一，这款游戏让玩家驾驶 Manta 突击艇对敌方空间站舰队发起单人攻击。当 Manta 从左向右飞行时，一波波外星人和从空间站发射的导弹就会向玩家聚拢。空间站非常巨大，横跨数个屏幕宽度，因此玩家不仅要注意自己能看到的屏幕上发生的事情，还要注意自己看不到的更大区域内发生的事情。这是从威廉姆斯的[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_video_game)))中直接借鉴过来的机制，尽管[《Uridium》](https://en.wikipedia.org/wiki/Uridium)是从俯视视角而非侧视视角进行游戏的。这类游戏要求玩家有极好的反应能力，此外，还要求玩家能对屏幕外发生的事情形成心理模型。滚动射击游戏主要分为两类——一类是固定滚动，即屏幕会沿着一个方向持续滚动，如 Irem 的[《异形战机》](https://en.wikipedia.org/wiki/R-Type)；另一类是可变滚动，即玩家可以在一定程度上控制滚动方向。
 
 {% hint style="info" %}
-译者注：[《Space Tripper》](https://www.youtube.com/watch?v=xXDg7nxHEOE&ab_channel=NinjaRyuPL)游玩视频。
+译者注：[《Space Tripper》游玩视频](https://www.youtube.com/watch?v=xXDg7nxHEOE&ab_channel=NinjaRyuPL)。
 {% endhint %}
 
 Usually the degree of control was limited. Common configurations included horizontal, vertical, 4-way, 8-way, and multi-way scrolling. For players to be able to form the mental model required for successful play, a different technique is required for each of these types. The fixed scrolling games relied more often than not on memory. As well as reaction-time challenges, they also used memory challenges. A player learned the game as she played; if she got killed in a particular spot once, then she would learn the pattern of enemies for the next time around and hopefully wouldn't suffer the same fate. This was also used (although not to the same all-encompassing extent) in the variably scrolling games. In most cases, it certainly did the player no harm to remember the rough order of enemy attack, but the gameplay was not centered on that as a core mechanism. Instead, this class of game often provided players with a mini-map that displayed the game world in miniature, giving them an idea of what to expect to appear next on the edge of their screens. Space Tripper, from PomPom (www.pompom.org.uk), is a modern update of the archetypal scrolling shooter using 3D graphics and focuses on the core gameplay of the genre. Similar in concept to [Uridium](https://en.wikipedia.org/wiki/Space_Invaders), it succeeds by using the 3D graphics solely as a presentation method. The actual game makes little use of the third dimension—except occasionally for dramatic effect—and remains, for the most part, a 2D game. This is what makes it so effective—the developers have not succumbed to the temptation to make 3D an important part of the gameplay. For this style of fast-action game, it's hard enough maneuvering in 2D—to do so in 3D would be an order of magnitude more difficult.
@@ -131,7 +131,7 @@ Figure 9.6. Battlezone and Quake III. 图 9.6. 《终极战区》 和《雷神�
 graphics/09fig06.jpg
 
 {% hint style="info" %}
-译者注：[《终极战区》](https://www.youtube.com/watch?v=Ctr54kopo8I&ab_channel=ShaneMcComas)游玩视频。
+译者注：[《终极战区》游玩视频](https://www.youtube.com/watch?v=Ctr54kopo8I&ab_channel=ShaneMcComas)。
 {% endhint %}
 
 ## Non-Shooters 非射击游戏
@@ -144,9 +144,9 @@ Today, most games seem to be aimed at the typical male 25-35 demographic, but th
 
 如今，大多数游戏似乎都针对 25-35 岁的典型男性人群，但也有明显的例外。正如我们已经说过的，非暴力游戏似乎更吸引女性群体。我们认为，造成这种情况的原因之一是，去掉了暴力这一简单的选项，设计者就必须在如何提供游戏性方面多花一点心思。
 
-Notable "non-shooter" action games include Marble Madness, Lode Runner, Pac-Man, Chuckie Egg, the Mario games, Q*Bert, Super Monkey Ball 1 and 2, Pong, Donkey Kong, and Frogger. All these games have the same non-violence motif running through them (although the latter two are arguable). The primary reason for this is because the games were (to a greater or lesser extent, depending on the game) designed to be appealing to children, particularly in the case of the Mario series of games.
+Notable "non-shooter" action games include [Marble Madness](https://en.wikipedia.org/wiki/Marble_Madness), [Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner), [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man), [Chuckie Egg](https://en.wikipedia.org/wiki/Chuckie_Egg), the Mario games, [Q*Bert](https://en.wikipedia.org/wiki/Q*bert), Super Monkey Ball [1](https://en.wikipedia.org/wiki/Super_Monkey_Ball) and [2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2), [Pong](https://en.wikipedia.org/wiki/Pong), [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong), and [Frogger](https://en.wikipedia.org/wiki/Frogger). All these games have the same non-violence motif running through them (although the latter two are arguable). The primary reason for this is because the games were (to a greater or lesser extent, depending on the game) designed to be appealing to children, particularly in the case of the Mario series of games.
 
-著名的“非射击”动作游戏包括《疯狂大理石》、《Lode Runner》、《Pac-Man》、《Chuckie Egg》、《马里奥》、《Q*Bert》、《超级猴子球 1 和 2》、《Pong》、《大金刚》和[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)。所有这些游戏都贯穿着同样的非暴力主题（尽管后两款游戏还有待商榷）。主要原因是这些游戏（视游戏而定，或多或少）都是为了吸引儿童而设计的，尤其是马里奥系列游戏。
+著名的“非射击”动作游戏包括[《狂暴弹珠》](https://en.wikipedia.org/wiki/Marble_Madness)、[《淘金者》](https://en.wikipedia.org/wiki/Lode_Runner)、[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)、[《偷鸡蛋》](https://en.wikipedia.org/wiki/Chuckie_Egg)、《马里奥》、[《Q伯特》](https://en.wikipedia.org/wiki/Q*bert)、《超级猴子球》 [1](https://en.wikipedia.org/wiki/Super_Monkey_Ball) 和 [2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)、[《乓》](https://en.wikipedia.org/wiki/Pong)、[《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)和[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)。所有这些游戏都贯穿着同样的非暴力主题（尽管后两款游戏还有待商榷）。主要原因是这些游戏（视游戏而定，或多或少）都是为了吸引儿童而设计的，尤其是马里奥系列游戏。
 
 Frogger, shown in Figure 9.7, was originally a highly successful arcade game released back in 1981. The aim of the game was to get the world's only non-swimming frog family across a busy road and a logging river infested with crocodiles and fickle turtles. From these humble beginnings sprang one of the most successful series of remakes of all time. Hasbro's remake of Frogger (also shown in Figure 9.7) sold millions of copies, and was a mainstay of the software charts for many months after release. Interestingly enough, the developers focused on keeping the gameplay virtually unchanged, and just updated the presentation, increasing the variety of the levels available to the player. Frogger 2, released several years later, introduced a more structured game, while still remaining faithful to the core gameplay of the original.
 
@@ -156,9 +156,9 @@ Figure 9.7. Frogger and Frogger 3D. 图 9.7. 《青蛙过河》和《青蛙过�
 
 graphics/09fig07.jpg
 
-Of course, the phenomenal success of the Frogger remake caused a scramble for licenses for further remakes, which the publishers viewed as a license to print money. Consequently, there have been a number of ill-advised and hastily conceived remakes released onto the market. Pac-Man was one of the most successful games of its generation. Obviously, it could not escape being remade. One of the (many) remakes was Pac-Man: Adventures in Time. This update brought new additions to the game, including a story and a set of themed levels. Unfortunately, much in the same way as with Centipede, these additions diminished rather than added to the gameplay. However, Pac-Man World 2 on the Gamecube is an excellent use of the license.
+Of course, the phenomenal success of the Frogger remake caused a scramble for licenses for further remakes, which the publishers viewed as a license to print money. Consequently, there have been a number of ill-advised and hastily conceived remakes released onto the market. [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) was one of the most successful games of its generation. Obviously, it could not escape being remade. One of the (many) remakes was [Pac-Man: Adventures in Time](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time). This update brought new additions to the game, including a story and a set of themed levels. Unfortunately, much in the same way as with Centipede, these additions diminished rather than added to the gameplay. However, [Pac-Man World 2](https://en.wikipedia.org/wiki/Pac-Man_World_2) on the Gamecube is an excellent use of the license.
 
-当然，[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)重制版的巨大成功引发了对进一步重制版授权的争夺，出版商将此视为印钞许可证。因此，市场上出现了许多不明智、草率构思的重制版游戏。《吃豆人》是那个时代最成功的游戏之一。显然，它也难逃被重制的命运。《吃豆人：时空冒险》就是（众多）重制版之一。这次更新为游戏增添了新内容，包括一个故事和一组主题关卡。遗憾的是，与[《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))一样，这些新增内容不但没有增加游戏的可玩性，反而削弱了游戏的可玩性。不过，Gamecube 上的《吃豆人世界二》则是对这一授权的出色运用。
+当然，[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)重制版的巨大成功引发了对进一步重制版授权的争夺，出版商将此视为印钞许可证。因此，市场上出现了许多不明智、草率构思的重制版游戏。[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)是那个时代最成功的游戏之一。显然，它也难逃被重制的命运。[《吃豆人：时空冒险》](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time)就是（众多）重制版之一。这次更新为游戏增添了新内容，包括一个故事和一组主题关卡。遗憾的是，与[《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))一样，这些新增内容不但没有增加游戏的可玩性，反而削弱了游戏的可玩性。不过，Gamecube 上的[《吃豆人世界二》](https://en.wikipedia.org/wiki/Pac-Man_World_2)则是对这一授权的出色运用。
 
 Another phenomenally successful game was Q*Bert, initially released in 1982. This game placed a strange orange character on a pyramid of cubes, who was then chased by enemies including a cascade of balls and an evil snake named Coily. The object of the game was to change all the cubes to a target color by landing on them one or more times. The remake (shown on the right in Figure 9.8) followed the familiar pattern of adding a story and updating the presentation. Fortunately, due to the quasi-3D appearance of the original game, the gameplay translated well to the update, and the story doesn't affect the gameplay negatively, aside from minor issues caused by the entire playing area not being visible on the screen at one time.
 
@@ -167,92 +167,148 @@ Another phenomenally successful game was Q*Bert, initially released in 1982. Thi
 Figure 9.8. Q*Bert and Q*Bert 3D. 图 9.8. 《Q伯特》和《Q伯特 3D》。
 
 {% hint style="info" %}
-译者注：[《Q伯特》](https://www.youtube.com/watch?v=HKIbhaQfs-A&ab_channel=OldClassicRetroGaming)游玩视频。
+译者注：[《Q伯特》游玩视频](https://www.youtube.com/watch?v=HKIbhaQfs-A&ab_channel=OldClassicRetroGaming)。
 {% endhint %}
 
 graphics/09fig08.jpg
 
-# Design Elements
+# Design Elements 设计元素
 
 Action games are a good source of distinct design elements, mainly because their relative simplicity makes analysis of their game mechanics fairly easy compared to the more complex genres.
 
+动作游戏是独特设计元素的良好来源，这主要是因为与更复杂的游戏类型相比，动作游戏的相对简单性使得对其游戏机制的分析变得相当容易。
+
 What we are attempting to do when we are extracting design elements from games on a genre-by-genre basis is to form the basis of a genre-describing "meta-game." What we mean by meta-game is a description of an archetypal action game. Of course, such a construct is purely hypothetical. It would be pretty much impossible to actually produce a fully comprehensive document. So with this in mind, let's start with an analysis of the design elements that govern the rules of the game. These design elements are only a small subset of the whole, but the aim is to give a starting point for your own investigations into the gameplay mechanics of action games.
 
-## The Rules
+当我们从不同类型的游戏中提取设计元素时，我们所要做的就是形成一个描述类型的“元游戏”的基础。我们所说的元游戏就是对典型动作游戏的描述。当然，这种构建纯属假设。要想真正编写出一份全面的文件几乎是不可能的。因此，考虑到这一点，让我们从分析支配游戏规则的设计元素开始。这些设计元素只是整体中的一小部分，但目的是为你自己研究动作游戏的游戏机制提供一个起点。
+
+## The Rules 规则
 
 The rules of an action game describe the basic game mechanics. They are usually very simple because of the frenetic nature of the gameplay. Fundamentally, action games are games that require skill as the primary factor for play, not rote memorization of complex rules.
 
+动作游戏的规则描述了基本的游戏机制。由于游戏的狂热性质，规则通常非常简单。从根本上说，动作游戏是一种需要以技巧为主要因素的游戏，而不是死记硬背复杂规则的游戏。
+
 There are many design elements that we can examine here, and the following few sections will cover some of these. Note that words in bold indicate references to other design elements within this chapter.
 
-### Levels
+在这里，我们可以研究许多设计元素，下面几节将介绍其中的一些。请注意，粗体字表示本章中提到的其他设计元素。
+
+### Levels 关卡
 
 Action games are often split into a succession of levels. A level is a specifically defined area in the game arena, in which the objective for the player is to complete a specific task. When the task is finished, the level is complete. Each level is played until complete, and upon completion the player's avatar is moved to the next level, and play continues. Generally, the difficulty will increase with each subsequent level.
 
-Often, levels are grouped by theme. All the themed levels in the set will have a similar appearance and set of enemies. A set of themed levels usually ends with an encounter with a big boss. In some cases, the boss has to be defeated with the use of power-ups and/or skills that the player gained during the preceding level set.
+动作游戏通常分为一系列关卡。关卡是游戏竞技场中一个特定的区域，玩家的目标是完成特定的任务。任务完成后，关卡也就结束了。每个关卡都要玩到完成为止，完成后，玩家的化身就会被移动到下一个关卡，游戏继续进行。一般来说，每过一关，难度就会增加。
 
-### Checkpoints
+Often, levels are grouped by theme. All the themed levels in the set will have a similar appearance and set of enemies. A set of themed levels usually ends with an encounter with a **big boss**. In some cases, the boss has to be defeated with the use of **power-ups** and/or skills that the player gained during the preceding level set.
+
+关卡通常按主题分组。一组关卡中的所有主题关卡都会有相似的外观和敌人。一组主题关卡的最后通常会遇到一个**大首领**。在某些情况下，必须使用玩家在前一组关卡中获得的**强化道具**和/或技能才能打败首领。
+
+### Checkpoints 检查点
 
 If the nature of the game is such that the player progresses through a level, then the position that the player's avatar appears in after a life has been lost is often determined by the use of checkpoints.
 
+如果游戏的本质是让玩家在关卡中不断前进，那么玩家的化身在失去生命后出现的位置通常是由检查点决定的。
+
 The most straightforward form of checkpoint is that the avatar appears in the same location where it died, or in the case where that is impossible (for example, Mario falling into water), then it appears in the last safe location before it died (for example, the last platform that Mario was on before he fell in the water). The state of the level is unchanged—the avatar just reincarnates, and play continues.
+
+最直接的检查点形式是化身出现在死亡时的同一位置，如果不可能出现在同一位置（例如马里奥掉进水里），则化身会出现在死亡前的最后一个安全位置（例如马里奥掉进水里前的最后一个平台）。关卡的状态保持不变，化身只是复活，游戏继续进行。
 
 Other (more difficult) games, such as Space Tripper, simply restart the level from the beginning upon avatar death. This particular form is fairly rare, because it increases the game challenge significantly, and often causes player frustration. It requires that the player play a "perfect" level in order to progress to the next one.
 
+其他（难度更大的）游戏，如《Space Tripper》，则会在化身死亡后直接从头开始重新启动关卡。这种形式相当少见，因为它大大增加了游戏的挑战性，常常会让玩家感到沮丧。它要求玩家表现“完美”才能进入下一关。
+
 The final form of this design element is an amalgam between the first two. As the player progresses through the level, he reaches a number of predefined checkpoints. When the avatar dies, the level is reset to the last checkpoint that the player successfully achieved. An example of a classic game that uses this form is Moon Patrol, shown in Figure 9.9.
 
-Figure 9.9. Moon Patrol.
+这一设计元素的最终形式是前两者的混合体。当玩家在关卡中前进时，他会到达一些预定义的检查点。当化身死亡时，关卡会重置到玩家成功到达的最后一个检查点。图 9.9 所示的《月球巡逻队》就是采用这种形式的经典游戏的一个例子。
+
+Figure 9.9. Moon Patrol. 图 9.9. 《月球巡逻队》。
 
 graphics/09fig09.gif
 
-### Lives
+### Lives 生命
 
-The player's avatar is usually given a small number of reprieves from death. Initially, the number of lives provided usually ranges from between three and five. A life is lost by collision with an enemy or some other dangerous structure. Extra lives can be earned either by picking up a power-up or reaching a certain score threshold multiple. The player's avatar is usually invulnerable for a few seconds when reappearing after losing a life, in order for the player to gather his bearings. When all lives are lost, the game is over.
+The player's avatar is usually given a small number of reprieves from death. Initially, the number of lives provided usually ranges from between three and five. A life is lost by collision with an enemy or some other dangerous structure. Extra lives can be earned either by picking up a **power-up** or reaching a certain **score** threshold multiple. The player's avatar is usually invulnerable for a few seconds when reappearing after losing a life, in order for the player to gather his bearings. When all lives are lost, the game is over.
 
-Often, this design element appears in conjunction with the energy design element. If this occurs, then the avatar isn't destroyed immediately on contact with the enemy. Instead, energy is drained from the avatar. When all the energy is drained, a life is lost. When all lives are lost, the game is over.
+玩家的化身通常会有少量的免死金牌。最初提供的生命值通常在 3 到 5 之间。与敌人或其他危险建筑相撞会导致生命损失。额外的生命可以通过拾取**强化道具**或达到一定的**分数**阈值的倍数来获得。玩家的化身在失去生命后重新出现时通常会有几秒钟的无敌状态，以便玩家调整好状态。当玩家失去所有生命时，游戏就结束了。
 
-### Energy
+Often, this design element appears in conjunction with the **energy** design element. If this occurs, then the avatar isn't destroyed immediately on contact with the enemy. Instead, energy is drained from the avatar. When all the energy is drained, a life is lost. When all lives are lost, the game is over.
 
-The player's avatar is given a limited amount of energy, some of which is depleted when the avatar is injured. It can often be partially, or even fully, replenished by the use of a collectible or a power-up. When the avatar's energy is depleted, the game is over.
+这种设计元素通常与**能量**设计元素同时出现。如果这样，化身就不会在与敌人接触时立即被摧毁。相反，化身的能量会被消耗。当能量耗尽时，就会失去一条生命。生命耗尽后，游戏结束。
 
-This design element is sometimes used in conjunction with the lives design element. In this case, when the avatar's energy is depleted, one of the lives are lost. Sometimes the energy is spread over a number of physical features—for example, it can be a limited resource that is shuffled between shields and fuel, requiring the player to carefully balance resources.
+### Energy 能量
 
-### Time Limit
+The player's avatar is given a limited amount of energy, some of which is depleted when the avatar is injured. It can often be partially, or even fully, replenished by the use of a **collectible** or a **power-up**. When the avatar's energy is depleted, the game is over.
+
+玩家的化身拥有的能量有限，当化身受伤时，部分能量会被消耗。通常可以通过使用**收集品**或**强化道具**来补充部分甚至全部能量。当化身的能量耗尽时，游戏也就结束了。
+
+This design element is sometimes used in conjunction with the **lives** design element. In this case, when the avatar's energy is depleted, one of the lives are lost. Sometimes the energy is spread over a number of physical features—for example, it can be a limited resource that is shuffled between shields and fuel, requiring the player to carefully balance resources.
+
+这种设计元素有时会与**生命**设计元素结合使用。在这种情况下，当化身的能量耗尽时，就会失去一条生命。有时，能量会分散在一些物理特征上——例如，它可以是一种有限的资源，在护盾和燃料之间转换，要求玩家仔细平衡资源。
+
+### Time Limit 时间限制
 
 The time limit design element is indicated by the use of a timer that counts down from some initial value to zero. When the timer reaches zero, an action occurs that causes a major event in the game.
 
+时间限制设计元素是通过使用一个从某个初始值倒计时到零的计时器来表示的。当计时器到达零时，游戏中就会发生重大事件。
+
 The time limit is normally used in one of three ways. The first way is as a level timer. The player has a limited amount of time to complete the level, and if he fails to do so, the level is reset, and the player has to start again. Often, this is accompanied by a life loss and, if the level is finished with time left over, then this excess time is multiplied by a constant as a score bonus.
+
+时间限制通常有三种使用方式。第一种方式是关卡计时器。玩家在有限的时间内完成关卡，如果失败，关卡就会重置，玩家必须重新开始。通常情况下，玩家会损失一条生命，如果完成关卡后还有剩余时间，那么多余的时间会乘以一个常数作为分数奖励。
 
 The second use of the time limit design element is as the countdown to a catastrophe. The player has to achieve some task before the timer runs out, or the task will become much more difficult to achieve. This particular form is used in Sinistar. When the timer runs out, it means that the eponymous Sinistar has been built, and the player is in a lot of trouble.
 
-The third use of the time limit design element is to limit the effectiveness of power-ups. When the timer runs out, the temporary power-up that it governed is removed, and the player's avatar reverts to the normal state. Pac-Man's power pellets, which allow the Pac-Man to eat the ghosts for a limited time, are good examples of this form.
+时间限制设计元素的第二种用途是灾难倒计时。玩家必须在计时器耗尽之前完成某些任务，否则任务将变得更加难以完成。《Sinistar》中就采用了这种特殊形式。当计时器耗尽时，就意味着同名的 Sinistar 已经建成，玩家将面临巨大的麻烦。
 
-### Score
+The third use of the time limit design element is to limit the effectiveness of **power-ups**. When the timer runs out, the temporary power-up that it governed is removed, and the player's avatar reverts to the normal state. Pac-Man's power pellets, which allow the Pac-Man to eat the ghosts for a limited time, are good examples of this form.
+
+时间限制设计元素的第三个用途是限制**强化道具**效果。当定时器耗尽时，它所支配的临时能力就会被移除，玩家的化身就会恢复到正常状态。吃豆人的能量丸可以让吃豆人在有限的时间内吃掉幽灵，就是这种形式的很好例子。
+
+### Score 分数
 
 One feature that is often specific to action games is the score indicator. Often in an action game, the only indicator of progress is a score. It is how the player is intended to measure her success against others. Many types of games do not use the score pattern, but action games are pretty much centered around it.
 
-Scores are recorded in high-score tables for posterity, and to provide bragging rights for the very best players. Many games also reward skillful play with bonus scores and multipliers. The classic example of the score multiplier in action can be found in Pac-Man: After getting the power pill, the first ghost eaten earns 200 points, the next earns 400 points, then 800, and then 1600 respectively. Hence, skillful play is rewarded with higher and higher scores.
+动作游戏通常有一个特有的功能，那就是分数指示器。在动作游戏中，分数往往是衡量游戏进度的唯一指标。玩家可以通过分数来衡量自己与他人的差距。许多类型的游戏都不使用分数模式，但动作游戏几乎都以分数模式为中心。
 
-### Power-Ups
+Scores are recorded in high-score tables for posterity, and to provide bragging rights for the very best players. Many games also reward skillful play with bonus scores and multipliers. The classic example of the score multiplier in action can be found in [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man): After getting the power pill, the first ghost eaten earns 200 points, the next earns 400 points, then 800, and then 1600 respectively. Hence, skillful play is rewarded with higher and higher scores.
+
+分数被记录在高分榜中，供后人瞻仰，并为最优秀的玩家提供炫耀的资本。许多游戏还通过奖励分数和加倍来奖励技术高超的玩家。在[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)中可以找到分数加倍的经典例子：吃到能量药丸后，吃到的第一个幽灵可以获得 200 分，下一个可以获得 400 分，然后分别是 800 分和 1600 分。因此，玩得越熟练，分数就会越来越高。
+
+### Power-Ups 强化道具
 
 One of the staple design elements of action games is the power-up. As a reward for progress, the player is given the opportunity to increase the strength of his avatar. In the case of a shooter, this can come in the form of stronger weapons or shields.
 
+强化道具是动作游戏的主要设计元素之一。作为对玩家进步的奖励，玩家有机会增强其化身的实力。在射击游戏中，玩家可以获得更强的武器或护盾。
+
 Power-ups come in two main strains: permanent and temporary. A permanent power-up is one that remains with the avatar for the remainder of the game (or at least the current life or level). Space Tripper (and many other shoot 'em-ups) uses this model. Space Tripper is unique, however, in that when the avatar dies, only power-ups gained on that level are lost.
+
+强化道具主要有两种：永久强化道具和临时强化道具。永久强化道具是指在游戏剩余时间内（或至少在当前生命或等级中）一直伴随着化身的装备。《Space Tripper》（以及许多其他射击游戏）都采用了这种模式。不过，《Space Tripper》的独特之处在于，当化身死亡时，只有在该关卡中获得的强化道具才会丢失。
 
 Temporary power-ups are usually short lived (anything from a few seconds up to a couple of minutes) and provide the avatar with a powerful advantage for a short time (such as shields). The general rule is that the more powerful the advantage, the shorter the time it is available for. The Quad Damage power-up in Quake III is a perfect example of this. An alternative to the time limit is to allow a certain amount of usage. For example, shields may be used up after they are powered on for a certain period of time, or after a certain number of hits.
 
+临时强化道具通常持续时间很短（从几秒到几分钟不等），能在短时间内为角色提供强大的优势（如护盾）。一般规则是，优势越强大，可用时间越短。《雷神之锤三》中的四倍伤害强化功能就是一个很好的例子。时间限制的另一个替代方法是数量限制。例如，护盾可以在开启一段时间后用完，也可以在被击中一定次数后用完。
+
 One interesting aspect of power-ups that is used in quite a few games is the concept of power points. The player is awarded a certain number of "points" to spend on an upgrade, and then to a certain degree, the player is allowed to decide how he wants to upgrade his avatar. Space Tripper has two main weapons; the weapon that is currently selected is the one that is upgraded. Successful play requires that the player balance the upgrade points between both weapons.
 
-A specialized case of the power-up is the combo move. This is more often found in fighting games, and is a power-up that relies on the skill of the player to execute a sequence of commands with exact timing. The reward for success is a special move that devastates the opponent's defenses. The effectiveness of the move is often related to the difficulty of execution—a period of time in which the avatar is open to attack. Thus, more difficult combos carry higher risk.
+在很多游戏中都会用到强化道具，其中一个有趣的方面就是“能量点”的概念。玩家可以获得一定数量的 “点数”用于升级，然后在一定程度上，玩家可以决定如何升级自己的化身。《Space Tripper》有两种主要武器；当前选择的武器就是要升级的武器。要成功完成游戏，玩家需要在两种武器上合理分配升级点数。
 
-### Collectibles
+A specialized case of the power-up is the **combo move**. This is more often found in fighting games, and is a power-up that relies on the skill of the player to execute a sequence of commands with exact timing. The reward for success is a special move that devastates the opponent's defenses. The effectiveness of the move is often related to the difficulty of execution—a period of time in which the avatar is open to attack. Thus, more difficult combos carry higher risk.
+
+**连招**是一种特殊的强化道具方式。这在格斗游戏中比较常见，是一种依靠玩家的技能在准确的时间内执行一连串指令的强力技能。成功的奖励是一个能摧毁对手防御的特殊招式。招式的效果通常与执行的难度有关——即化身可以攻击的时间段。因此，难度越高的连招风险越大。
+
+### Collectibles 收集品
 
 Collectibles are bonus objects that allow the player to augment his score. They are not essential to the game, and are often used just to augment the player's score. The player is not penalized for failing to collect them, but if he can justify the risk, then the rewards are high.
 
+收集品是让玩家增加得分的奖励物品。它们对游戏并不是必需的，通常只是用来增加玩家的得分。玩家不会因为没有收集到它们而受到惩罚，但如果他认为值得冒险，那么奖励是很高的。
+
 In some cases, collectibles can unlock secret levels or cause special bonus events. For example, in Rainbow Islands, one means by which the player could kill enemies was by collapsing rainbows onto them. Enemies killed in this fashion deposited crystals that could be collected for bonus points. If these crystals were collected in the right order (red, orange, yellow, green, blue, indigo, violet), then a doorway to a secret level would be opened, which gave the player a huge score and a permanent secret power-up.
 
-### Smart Bombs
+在某些情况下，收集品可以解锁秘密关卡或引发特殊奖励事件。例如，在《彩虹岛》中，玩家杀死敌人的一种方法是将彩虹坍塌到敌人身上。以这种方式杀死的敌人会沉积水晶，收集这些水晶可以获得奖励积分。如果按照正确的顺序（红、橙、黄、绿、蓝、靛、紫）收集到这些水晶，就会打开通往秘密关卡的大门，玩家就能获得高分和永久性的秘密强化道具。
+
+### Smart Bombs 智能炸弹
 
 Defender was the first game to introduce the concept of the smart bomb (see Figure 9.10). Smart bombs are used to get the player out of a difficult situation when no other options are available.
+
+《保卫者》是第一个引入智能炸弹概念的游戏（见图 9.10）。在没有其他选择的情况下，智能炸弹可以帮助玩家摆脱困境。
 
 Figure 9.10. Defender.
 
@@ -260,11 +316,17 @@ graphics/09fig10.gif
 
 Usually, the player is given a strictly limited number of smart bombs, and opportunities to replace them are either extremely rare or non-existent. The function of the smart bomb is to clear the area immediately surrounding the player of enemies. Usually, this means that the visible area is cleared entirely of enemies, but the range cleared does vary dependent on the game. Smart bombs should be used by the player only in dire emergencies when there are no other options available. The scarcity of availability is the primary mechanism available to enforce this.
 
-### Hyperspace
+通常情况下，玩家获得的智能炸弹数量非常有限，更换炸弹的机会极少或根本不存在。智能炸弹的作用是清除玩家周围的敌人。通常情况下，这意味着可视区域内的敌人全部被清除，但清除范围因游戏而异。只有在走投无路的紧急情况下，玩家才能使用智能炸弹。可用性的稀缺性是实现这一点的主要机制。
+
+### Hyperspace 超空间
 
 Hyperspace is another mechanism for getting the player out of trouble. However, unlike the smart bomb, the hyperspace design element is just as likely to land the avatar in an equally difficult situation as it is to get it to safety.
 
+超空间是另一种让玩家摆脱困境的机制。然而，与智能炸弹不同的是，超空间的设计元素很可能会让玩家陷入同样困难的境地，也很可能会把玩家带到安全的地方。
+
 The first commonly known game to make use of the hyperspace element was Asteroids, shown in Figure 9.11. When the avatar was in immediate danger of being destroyed by an oncoming asteroid, the player could hit the hyperspace button, which would instantly move the player to another part of the screen. The amount of times the player can hyperspace is unlimited. This is because the usefulness of the hyperspace is balanced out by the chances that the avatar could appear in a worse situation than before. Hence, the choice of whether to use the hyperspace is tempered by the risks involved in doing so. Ironically, the more necessary it is to use it (the more debris of the playfield), the more risk there is to the player.
+
+图 9.11 所示的《小行星》是第一个使用超空间元素的广为人知的游戏。当化身处于被迎面而来的小行星摧毁的直接危险时，玩家可以点击超空间按钮，这将使玩家立即移动到屏幕的另一部分。玩家超空间的次数是无限的。这是因为超空间的作用会被化身可能出现在比之前更糟糕情况的几率所抵消。因此，在选择是否使用超空间时，要考虑到这样做的风险。具有讽刺意味的是，越有必要使用超空间（游戏区域的碎片越多），玩家面临的风险就越大。
 
 Figure 9.11. Asteroids.
 
@@ -282,103 +344,151 @@ With the first method, the layout and scheduled appearance times of the enemies 
 
 The second way of approaching wave formation is to make the enemies materialize randomly. Usually, there is some sort of algorithm determining which sort of enemies will appear, in order to maintain some sort of smooth difficulty progression. Often, the location and type of the enemy is selected from a small pool of variants for the particular level, as defined by the designer.
 
-
 第二种形成波次的方法是让敌人随机出现。通常，会有某种算法来决定哪种敌人会出现，以保持某种平稳的难度递增。通常情况下，敌人的位置和类型是从设计者为特定关卡设计的一小批变体中挑选出来的。
 
 With both methods, the general usage is as follows. Throughout a level, the enemies arrive in some sort of formation. These formations will vary in composition to include a selection of enemies appropriate to the current challenge level. As the game progresses further, the formation composition will include stronger enemies. In some cases, the earlier weaker enemies will be phased out of the line-up, because they will no longer provide an effective challenge to the player. The enemies increase in difficulty and numbers as the player progresses in an environment, reaching a peaked frenzy at the end of the level. After this point, the environment changes and the intensity reduces to the initial point or somewhere just a bit higher.
 
 这两种方法的一般用法如下。在整个关卡中，敌人会以某种队形出现。这些队形的组成会有所不同，包括与当前挑战级别相适应的敌人。随着游戏的深入，阵型的组成将包括更强大的敌人。在某些情况下，较早出现的弱小敌人会被淘汰出阵容，因为它们不再能给玩家带来有效的挑战。敌人的难度和数量会随着玩家在环境中的前进而增加，并在关卡结束时达到狂热的顶峰。在这之后，环境会发生变化，强度会降低到初始点或稍高一点的地方。
 
-### The Big Boss
+### The Big Boss 大首领
 
 A traditional staple of action games are the boss characters. In many games, the end of a group of themed levels is guarded by a large enemy—the boss character—who is significantly harder to fight than any of the previously encountered enemies.
 
+动作游戏的传统特色是首领角色。在许多游戏中，一组主题关卡的终点都有一个大型敌人——首领角色——他比之前遇到的任何敌人都要难打得多。
+
 Defeating the boss takes the player to a new set of levels, with a different theme. Boss characters often can't be hurt by normal methods and require a special attack method to be damaged. For example, they could be invincible at certain times (i.e., Piranha Plants in Super Mario Sunshine can be hurt only when their mouths are open) or can be hurt only by certain weapons.
+
+打败首领后，玩家将进入一组主题不同的新关卡。通常情况下，普通方法无法伤害首领，而需要使用特殊的攻击方法才能对其造成伤害。例如，他们可能在某些时候是无敌的（如《超级马里奥阳光》中的食人花只有在张开嘴巴时才能受到伤害），或者只能受到某些武器的伤害。
 
 Often, the boss character is themed after the environment (or vice versa). For example, the first set of levels in Parasol Stars are themed after musical instruments. The left side of Figure 9.12 shows the first boss, which is in keeping with the musical theme.
 
-Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands.
+通常情况下，首领角色是以环境为主题的（反之亦然）。例如，《伞星》中的第一组关卡就是以乐器为主题的。图 9.12 的左侧显示了与音乐主题一致的第一个首领。
+
+Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands. 图 9.12. Parasol Stars 和 Rainbow Islands 中的第一个老板。
 
 graphics/09fig12.jpg
 
 Another boss design element that is used fairly frequently is to use a much bigger and stronger version of an enemy that the player has already encountered. The right side of Figure 9.12 shows a classic example, taken from Rainbow Islands. The first set of levels are garden themed (with the enemies being mainly insects and birds). One of the first enemies encountered is a spider. The boss character is simply a much larger version of that spider. This enhances the gameplay by allowing the player to predict some of the boss behavior, and gives him a small advantage in knowing what to expect—an advantage that would not be there if the boss was entirely unfamiliar, and the player had to learn his behavior from scratch.
 
+另一个经常使用的首领设计元素是使用玩家已经遇到过的敌人的更大更强的版本。图 9.12 右侧显示的就是《彩虹岛》中的一个经典例子。第一组关卡以花园为主题（敌人主要是昆虫和鸟类）。首先遇到的敌人之一是一只蜘蛛。老板角色就是这只蜘蛛的放大版。这就增强了游戏的可玩性，让玩家可以预测首领的一些行为，并在知道该期待什么方面获得一点优势——如果首领完全不熟悉，玩家必须从头开始学习他的行为，就不会有这种优势了。
+
 Of course, many games aren't suited for such an unsubtle set of themed levels, but even so, the themed level and big boss are one of the mainstay design elements of action games. The pattern of a succession of levels increasing in difficulty and challenge to a climax with the boss, before starting again at a slightly lower difficulty level, is present in virtually every level-based action-based game today. This is shown in Figure 9.13.
 
-Figure 9.13. The general progression of an action game.
+当然，许多游戏并不适合这样一套不含蓄的主题关卡，但即便如此，主题关卡和大首领仍然是动作游戏的主流设计元素之一。如今，几乎所有以关卡为基础的动作类游戏都采用了这样的模式：关卡的难度和挑战性不断增加，最后达到高潮，出现大首领，然后再从难度稍低的关卡开始。如图 9.13 所示。
+
+Figure 9.13. The general progression of an action game. 图 9.13. 动作游戏的一般进程。
 
 graphics/09fig13.gif
 
-### Wildcard Enemies
+### Wildcard Enemies 意外敌人
 
 In order to break up the predictability of predefined waves, many games use a randomly spawned wildcard enemy to provide a fresh challenge to the player, and break up the predictability of wave-based gameplay.
 
+为了打破预定波次的可预测性，许多游戏都使用随机出现的意外敌人来为玩家提供新的挑战，并打破波次玩法的可预测性。
+
 For example, the Atari game Asteroids has predictable waves because, once they have appeared, the movement of the asteroids are completely deterministic—except at the instance where they are shot and break up into smaller asteroids. However, at random points during the wave, an enemy UFO appears and follows a non-deterministic path, shooting at the player.
 
-Another example is the Galaxian dive-bombers that break away from the main body of the wave and swoop down on the player's avatar. Wildcard enemies are usually a completely different class of enemy from level bosses, in that they are normally mixed in with normal enemies, and behave in a somewhat random or unexpected way.
+例如，雅达利游戏“小行星”中的波次是可以预测的，因为一旦小行星出现，它们的移动就完全确定了--除非它们被击中并碎裂成更小的小行星。然而，在波次中的某个随机时刻，一个敌对的 UFO 会出现，并沿着非确定的路径向玩家射击。
 
-### Locked Door and Key
+Another example is the [Galaxian](https://en.wikipedia.org/wiki/Galaxian) dive-bombers that break away from the main body of the wave and swoop down on the player's avatar. Wildcard enemies are usually a completely different class of enemy from level bosses, in that they are normally mixed in with normal enemies, and behave in a somewhat random or unexpected way.
+
+另一个例子是[《小蜜蜂》](https://en.wikipedia.org/wiki/Galaxian)的俯冲轰炸机，它们会脱离波次的主体，向玩家的化身俯冲下来。意外敌人通常是与关卡首领完全不同的一类敌人，他们通常与普通敌人混杂在一起，行为方式有些随机或出人意料。
+
+### Locked Door and Key 上锁的门和钥匙
 
 The player encounters a locked door that requires a key to open it. The key (which is not necessarily a physical key) is hidden somewhere in the level, and must be found in order to open the door.
 
-This is a common method used to partition levels, and to control the player's progress in order to manage the gameplay delivery. This particular design element is often strung together in a sequence of several overlapping instances, where a key is used to open a door to give access to another key, which in turn opens another door that the player encountered previously. Doom is a particularly good example of this.
+玩家会遇到一扇需要钥匙的上锁的门。钥匙（不一定是实体钥匙）藏在关卡的某个地方，必须找到钥匙才能打开门。
 
-This design element should be used with caution. If it is used too liberally, then it tends to make the gameplay feel clichéd, tedious, and old-fashioned. However, it can be very effective if some originality is applied to the design element, specifically in terms of how you implement the door/key mechanism. Remember, it doesn't have to be a traditional door and key. That would be boring, and has been done too many times. A door and key are just a conceptual representation of a construct that requires an effort (the key) on the part of the player to pass an obstacle (the door). A slightly more creative example is the use of this design element in Grand Theft Auto III. To open up new cities for play, certain difficult missions must be completed first.
+This is a common method used to partition levels, and to control the player's progress in order to manage the gameplay delivery. This particular design element is often strung together in a sequence of several overlapping instances, where a key is used to open a door to give access to another key, which in turn opens another door that the player encountered previously. [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is a particularly good example of this.
 
-### Monster Generators
+这是分隔关卡的常用方法，也是控制玩家进度以管理游戏交付的常用方法。这种特殊的设计元素通常由几个重叠的实例串联起来，用一把钥匙打开一扇门，就能获得另一把钥匙，而这把钥匙又能打开玩家之前遇到的另一扇门。[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+就是一个很好的例子。
 
-Gauntlet (and its various sequels) was one of the first games to feature a monster generator. The concept of a monster generator is simple: It's an object that generates fresh enemies to confront the player.
+This design element should be used with caution. If it is used too liberally, then it tends to make the gameplay feel clichéd, tedious, and old-fashioned. However, it can be very effective if some originality is applied to the design element, specifically in terms of how you implement the door/key mechanism. Remember, it doesn't have to be a traditional door and key. That would be boring, and has been done too many times. A door and key are just a conceptual representation of a construct that requires an effort (the key) on the part of the player to pass an obstacle (the door). A slightly more creative example is the use of this design element in [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III). To open up new cities for play, certain difficult missions must be completed first.
 
-The monster generator isn't always visible: for example, enemy spawn points in games such as Doom are not explicit objects. Instead, the monsters just appear out of thin air in a flash of green light—usually out of the sight of the player.
+这一设计元素应谨慎使用。如果使用得过于随意，往往会使游戏感觉老套、乏味和过时。不过，如果在设计元素中运用了一些独创性，特别是在如何实现门/钥匙机制方面，它也会非常有效。记住，不一定非要用传统的门和钥匙。那样会很无聊，而且已经被用过太多次了。门和钥匙只是一种概念上的构造，需要玩家付出努力（钥匙）才能通过障碍（门）。稍有创意的例子是[《侠盗猎车手三》](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)中对这一设计元素的使用。要打开新的城市供玩家游玩，必须先完成某些困难的任务。
 
-The difference between the use of monster generators in Gauntlet and Doom is substantial. In Gauntlet, monster generators are an integral part of the gameplay—destroy the monster generators, and no more monsters will appear. Hence, the player has two main strategies: Fight the monsters, or destroy the generator. In terms of survival, the dominant strategy is to destroy the monster generators before they can spawn too many monsters, but if players are aiming for the high score, then they may hold off on destroying the monster generator until they have boosted their scores sufficiently. You can see in this case that the monster generators are not only an integral part of the gameplay, but they can play a strategic role too.
+### Monster Generators 怪物生成器
 
-In Doom, however, the monster generators are much more behind the scenes. All players know is that monsters are appearing—they are not given the opportunity to destroy the generators to prevent this from happening. The only sensible strategy under these circumstances is to avoid or destroy the monsters, and get to the level exit as quickly as possible.
+[Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)) (and its various sequels) was one of the first games to feature a monster generator. The concept of a monster generator is simple: It's an object that generates fresh enemies to confront the player.
+
+[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))（及其各种续集）是最早采用怪物生成器的游戏之一。怪物生成器的概念很简单：怪物生成器的概念很简单：它是一个可以生成新敌人与玩家对抗的物体。
+
+The monster generator isn't always visible: for example, enemy spawn points in games such as [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) are not explicit objects. Instead, the monsters just appear out of thin air in a flash of green light—usually out of the sight of the player.
+
+怪物生成器并不总是可见的：例如，[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))等游戏中的敌人重生点并不是明确的物体。相反，怪物只是在绿光闪烁中凭空出现，通常不在玩家的视线范围内。
+
+The difference between the use of monster generators in [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)) and [Doom]((https://en.wikipedia.org/wiki/Doom_(1993_video_game))) is substantial. In [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)), monster generators are an integral part of the gameplay—destroy the monster generators, and no more monsters will appear. Hence, the player has two main strategies: Fight the monsters, or destroy the generator. In terms of survival, the dominant strategy is to destroy the monster generators before they can spawn too many monsters, but if players are aiming for the high score, then they may hold off on destroying the monster generator until they have boosted their scores sufficiently. You can see in this case that the monster generators are not only an integral part of the gameplay, but they can play a strategic role too.
+
+在[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))和[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))中，怪物生成器的使用差别很大。在[《Gauntlet》](https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game))中，怪物生成器是游戏不可或缺的一部分——摧毁怪物生成器，就不会再有怪物出现。因此，玩家有两种主要策略：与怪物搏斗，或者摧毁生成器。就生存而言，优势策略是在怪物生成器产生过多怪物之前将其摧毁，但如果玩家的目标是获得高分，那么他们可能会暂缓摧毁怪物生成器，直到他们的分数得到足够的提升。由此可见，怪物发生器不仅是游戏不可或缺的一部分，而且还能发挥战略作用。
+
+In [Doom]((https://en.wikipedia.org/wiki/Doom_(1993_video_game))), however, the monster generators are much more behind the scenes. All players know is that monsters are appearing—they are not given the opportunity to destroy the generators to prevent this from happening. The only sensible strategy under these circumstances is to avoid or destroy the monsters, and get to the level exit as quickly as possible.
+
+然而，在[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))中，怪物生成器的却更加隐蔽。玩家只知道怪物正在出现，却没有机会摧毁生成器来阻止怪物出现。在这种情况下，唯一合理的策略就是避开或消灭怪物，并尽快到达关卡出口。
 
 Monster generators—whether represented by a physical object or not—can have other attributes too. The most obvious of these is whether the generator will spawn an infinite number of monsters or just a limited amount before being spent. If the monster generator spawns infinitely, then you may want to consider the possibility of allowing the player to destroy it.
 
+怪物生成器——无论是否由实物表示——还可以有其他属性。其中最明显的是，生成器会无限量地生成怪物，还是在耗尽之前只生成有限数量的怪物。如果怪物生成器可以无限生成怪物，那么你可能需要考虑让玩家摧毁它的可能性。
+
 Another consideration is whether the monster generator will spawn only one type of enemy, or whether it has a range of enemies at its disposal. This can either be a static relationship or can be tied in with the difficulty level.
 
-### Dungeon Exits and Level Warps
+另一个考虑因素是怪物生成器是否只会生成一种类型的敌人，或者是否有一系列敌人供其使用。这可以是一种静态关系，也可以与难度级别挂钩。
+
+### Dungeon Exits and Level Warps 地下城出口和关卡传送门
 
 The dungeon exit signifies a transition within the game. Usually, this transition involves progressing to a new level, or a new area within the current level. The dungeon exit design element often is used as a goal or sub-goal of the current level. In other cases, it is merely an enabler, allowing the player to move between different areas while she attempts to complete other goals.
 
+地下城出口标志着游戏中的一个过渡。通常，这种过渡涉及到进入一个新的关卡，或当前关卡中的一个新区域。地牢出口设计元素通常被用作当前关卡的一个目标或子目标。在其他情况下，它只是一个辅助工具，允许玩家在尝试完成其他目标的同时在不同区域之间移动。
+
 The dungeon exit is usually guarded by enemies and/or is well-hidden. The strength of the guard force and the difficulty in locating an exit is usually in direct relationship to the benefits of locating it. A common variant on this element is to provide more than one exit to a certain level. One of these is the standard exit, which takes the player to the next level. The second is a warp exit, which will jump the player ahead several levels. This second exit (often visible when you find the first) is difficult to reach, and requires extra sacrifice on the part of the player. The reward is usually proportional to the level of sacrifice, and this particular variation has been used in many games—from Defender: Stargate (allowing experienced players to warp ahead to the more challenging levels) to Gauntlet (where alternative exits would jump the player ahead by a few levels for the same reasons as Stargate) to games such as Luigi's Mansion and the Super Mario series (where some levels have hidden exits that lead to secret areas). If there is a hidden exit, you may want to give the player a subtle clue. For example, in Super Mario World, levels with secret exits are shown as flashing red dots (rather than flashing yellow dots) on the world overview map.
 
-### Mini-Maps
+地牢出口通常有敌人把守和/或隐藏得很好。守卫力量的强弱和找到出口的难度通常与找到出口的收益直接相关。这一元素的常见变体是在某一层提供不止一个出口。其中一个是标准出口，将玩家带入下一关。第二个是传送出口，它将玩家提前跳过几个关卡。第二个出口（通常在找到第一个出口时就能看到）很难到达，需要玩家做出额外的牺牲。奖励通常与牺牲程度成正比，许多游戏都采用了这种特殊的变体——从《守卫者：星际之门》（允许有经验的玩家通过传送到更具挑战性的关卡）到《Gauntlet》（其中替代出口会因为与星际之门相同的原因让玩家提前几个关卡），再到《路易吉洋楼》和《超级马里奥》系列等游戏（有些关卡有通往秘密区域的隐藏出口）。如果有隐藏出口，你可能需要给玩家提供一个微妙的线索。例如，在《超级马里奥世界》中，有秘密出口的关卡在世界概览地图上会显示为闪烁的红点（而不是闪烁的黄点）。
+
+### Mini-Maps 小地图
 
 As action games became more complex, the play area began to span multiple screens of action, although the player still needed to be aware of what was going on in the game-world not visible onscreen.
 
+随着动作游戏变得越来越复杂，游戏区域开始跨越多个屏幕，但玩家仍然需要了解屏幕上看不到的游戏世界中发生的事情。
+
 The solution to this was to place a small dynamically updated map or radar display in the status display. There are several common configurations used for this. The original configuration was used in Defender and showed the entire game world to the player. Another configuration does not show the entire game world to the player, merely showing a zoomed-out view of the area surrounding the player. Williams' Sinistar used this approach, augmented with a text status line to notify the player of important events occurring outside of the scanner range.
+
+解决这个问题的办法就是在状态显示中上放置一个动态更新的小地图或雷达显示屏。有几种常用的配置。最初的配置用于《捍卫者》，向玩家显示整个游戏世界。另一种配置并不向玩家显示整个游戏世界，只是显示玩家周围区域的缩小视图。威廉姆斯的《Sinistar》就采用了这种方式，并辅以文字状态行，通知玩家在扫描仪范围之外发生的重要事件。
 
 A third configuration that we'll mention here—although it is used more often in other genres that are not so action oriented—is to have the map build up as the player explores. Areas that the player has not yet visited do not show up on the map. When the player visits them, they are drawn, and the map remains in the same form and is not updated further until the player revisits the area.
 
-## Victory Conditions
+我们在这里要提到的第三种配置——尽管它更多地应用于其他不那么以动作为导向的类型——是让地图随着玩家的探索而不断扩大。玩家尚未访问的区域不会显示在地图上。当玩家访问这些区域时，地图上就会显示这些区域，而地图则保持原样，直到玩家再次访问该区域时才会进一步更新。
+
+## Victory Conditions 胜利条件
 
 Action games—being among the first of the genres—benefited well from the early experimental years of the industry. The plots and settings of the early action games were many and varied, usually very original, and with the amount of extraneous story kept to a minimum; consequently, the nature of the victory conditions were for the most part simple and clear. The vast majority of games have a clear set of victory conditions, which are made clear to the player from the outset. In some cases—particularly in the case of action games—these victory conditions are illusory. For example, the accompanying blurb for Space Invaders talks about the player saving the Earth from the evil alien invaders. However, as anyone who has played the game is aware, after you've saved the Earth from one wave of evil invaders, another appears to take their place. And so on, ad infinitum, with each wave getting faster and more aggressive, until the player is overwhelmed.
 
-Case Study 9.1 A Flawed Victory Condition
+动作游戏是最早出现的游戏类型之一，在游戏业早期的试验阶段受益匪浅。早期动作游戏的情节和设置多种多样，通常都非常新颖，而且将无关故事的数量控制在最低限度；因此，胜利条件的性质大多简单明了。绝大多数游戏都有一套明确的胜利条件，玩家从一开始就能清楚地了解这些条件。在某些情况下，特别是在动作游戏中，这些胜利条件是虚幻的。例如，《太空入侵者》的附带说明中提到，玩家要从邪恶的外星入侵者手中拯救地球。然而，玩过这款游戏的人都知道，当你从一波邪恶入侵者手中拯救了地球之后，另一波邪恶入侵者又会取而代之。以此类推，无穷无尽，每波入侵者的速度越来越快，攻击性越来越强，直到玩家被淹没为止。
 
-In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably Pac-Man.
-
+> **Case Study 9.1 A Flawed Victory Condition 案例研究 9.1 有缺陷的胜利条件**
+> 
+> In some games, the victory condition is a result of a bug that prevents the player from progressing any further. This is surprisingly common, due to the fact that the developers of such games usually didn't test that far into the game. The most well-known example of this is probably Pac-Man.
+> 
 For years, people have been attempting to get a perfect score on Pac-Man. In July of 1999, Billy Mitchell of Fort Lauderdale, Florida scored a perfect 3,333,360 points on a Pac-Man machine in Weirs Beach, New Hampshire. The perfect score is achieved by playing for six hours, through 256 levels of Pac-Man, eating every pellet, power-pill, blue ghost, and piece of fruit on every single level, without dying once. After the 256th level, the game freezes.
-
+> 
 When he stepped away from the game after beating it, he said "I never have to play that darn game again…".
-
+> 
 What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as Golden Axe (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).
-
-Figure 9.14. Golden Axe.
-
-graphics/09fig14.gif
-
-As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.
+> 
+> Figure 9.14. Golden Axe.
+> 
+> graphics/09fig14.gif
+> 
+> As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.
 
 
 ### Interaction Model
 
 The primary model in action games is based purely on fast interactions—hand-eye coordination and reaction speed. The ability to think quickly and analyze situations almost instantaneously is favored as well. The player is usually given direct control over a single avatar. In order to efficiently translate the player's intent into actions within the game, the control methods for action games are usually extremely simple. Even so, various action games have attempted to implement more complex control schemes. The success of these games depended on the lengths to which players were prepared to go to learn the system. Games that succeed in this are usually the games that set the standards for new genres. For example, the Doom and Quake modes of interaction for FPS games are pretty much ubiquitous nowadays. Similarly, the Super Mario 64 control system has become the de facto standard control system for most console-based 3D platform games.
 
-Often, the ability to analyze the situation in a particular game is a learned process developed through playing that particular game. In some cases, the skills learned playing one game can be applied to other games, with varying levels of transferability. For example, the skills learned when playing Space Invaders can be transferred wholesale over to other games such as Galaxians and, to a lesser extent, Centipede. There are several levels to the nature of the skills developed by playing certain games, and these levels are linked to how domain-specific the skills are. For example, the skill of picking off the spider in Centipede is not that useful in many other action games. Conversely, the skill of navigating the player's avatar and picking off a target further up the screen is useful in a much wider range of games. Obviously, if similar games use similar control systems, then the cross-game transfer of these skills is that much easier.
+Often, the ability to analyze the situation in a particular game is a learned process developed through playing that particular game. In some cases, the skills learned playing one game can be applied to other games, with varying levels of transferability. For example, the skills learned when playing [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) can be transferred wholesale over to other games such as [Galaxians](https://en.wikipedia.org/wiki/Galaxian) and, to a lesser extent, Centipede. There are several levels to the nature of the skills developed by playing certain games, and these levels are linked to how domain-specific the skills are. For example, the skill of picking off the spider in Centipede is not that useful in many other action games. Conversely, the skill of navigating the player's avatar and picking off a target further up the screen is useful in a much wider range of games. Obviously, if similar games use similar control systems, then the cross-game transfer of these skills is that much easier.
+
+[《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)
 
 Of course, the ability to analyze a complex play-situation instantaneously is of limited use if the player has poor hand-eye coordination and reaction times. Studies tend to be conflicted on whether games improve or reduce these attributes in regular players. Common sense seems to indicate that exercising a skill tends to improve it, but what the official line is on this matter depends on the flavor of this month's study.
 

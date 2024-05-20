@@ -1,3 +1,9 @@
+[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong)
+[《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)
+
+[Frogger](https://en.wikipedia.org/wiki/Frogger)
+[《青蛙过河》](https://en.wikipedia.org/wiki/Frogger)
+
 [Battlezone](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
 [《终极战区》](https://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
 
@@ -64,11 +70,38 @@
 [Super Monkey Ball](https://en.wikipedia.org/wiki/Super_Monkey_Ball)
 [《超级猴子球》](https://en.wikipedia.org/wiki/Super_Monkey_Ball)
 
+[Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
+[《超级猴子球二》](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
+
+[Marble Madness](https://en.wikipedia.org/wiki/Marble_Madness)
+[《狂暴弹珠》](https://en.wikipedia.org/wiki/Marble_Madness)
+
+[Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner)
+[《淘金者》](https://en.wikipedia.org/wiki/Lode_Runner)
+
+[Chuckie Egg](https://en.wikipedia.org/wiki/Chuckie_Egg)
+[《偷鸡蛋》](https://en.wikipedia.org/wiki/Chuckie_Egg)
+
+[Q*Bert](https://en.wikipedia.org/wiki/Q*bert)
+[《Q伯特》](https://en.wikipedia.org/wiki/Q*bert)
+ 
+[Pong](https://en.wikipedia.org/wiki/Pong)
+[《乓》](https://en.wikipedia.org/wiki/Pong)
+
+[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong)
+[《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)
+
 [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider)
 [《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)
 
 [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
 [《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)
+
+[Pac-Man: Adventures in Time](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time)
+[《吃豆人：时空冒险》](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time)
+
+[Pac-Man World 2](https://en.wikipedia.org/wiki/Pac-Man_World_2)
+[《吃豆人世界二》](https://en.wikipedia.org/wiki/Pac-Man_World_2)
 
 [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat)
 [《真人快打》](https://en.wikipedia.org/wiki/Mortal_Kombat)
@@ -96,6 +129,9 @@
 
 [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
 [《太空侵略者》](https://en.wikipedia.org/wiki/Space_Invaders)
+
+[Galaxian](https://en.wikipedia.org/wiki/Galaxian)
+[《小蜜蜂》](https://en.wikipedia.org/wiki/Galaxian)
 
 [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
 [《辐射》](https://en.wikipedia.org/wiki/Fallout_(video_game))
@@ -149,8 +185,8 @@
 [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil)
 [《生化危机》](https://en.wikipedia.org/wiki/Resident_Evil)
 
-[Bubsy the Bobcat](https://en.wikipedia.org/wiki/Bubsy) 
-[《大笨猫》](https://en.wikipedia.org/wiki/Bubsy) 
+[Bubsy the Bobcat](https://en.wikipedia.org/wiki/Bubsy)
+[《大笨猫》](https://en.wikipedia.org/wiki/Bubsy)
 
 [id Software](https://en.wikipedia.org/wiki/Id_Software)
 
