@@ -44,7 +44,7 @@ Because an artificial pet doesn't have much of a challenge or a victory conditio
 
 Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 中的 Petz。
 
-> ![](.gitbook/assets/16.1.png)
+![](.gitbook/assets/16.1.png)
 
 ## The Sims 模拟人生
 
