@@ -10,7 +10,7 @@ Game design is the process of:
 
 * Imagining a game.
 * Defining the way it works.
-* Describing the elements that make up the game (conceptual, functional, artistic, and others).”
+* Describing the elements that make up the game (conceptual, functional, artistic, and others)."
 * Transmitting that information to the team that will build the game.
 
 游戏设计是以下过程的总称：
@@ -30,7 +30,7 @@ In spite of the long history of game design, surprisingly little study has been 
 
 ## Art, Science, or Craft? 艺术、科学还是手艺？
 
-Many people consider game design to be an art, drawing on a mysterious wellspring of creativity possessed only by a talented few. They think of the “big names” in the game industry—Peter Molyneux, Brian Moriarty, Roberta Williams—as artists, and they admire the vision and originality that such people bring to their games. They imagine that game designers spend their time indulging in flights of imagination, and they ignore or are not even aware of the long and painstaking work that real design requires.
+Many people consider game design to be an art, drawing on a mysterious wellspring of creativity possessed only by a talented few. They think of the "big names" in the game industry—Peter Molyneux, Brian Moriarty, Roberta Williams—as artists, and they admire the vision and originality that such people bring to their games. They imagine that game designers spend their time indulging in flights of imagination, and they ignore or are not even aware of the long and painstaking work that real design requires.
 
 许多人认为，游戏设计是一门艺术，它汲取了只有少数天才才能拥有的神秘的创造力源泉。他们把游戏行业中的“大腕”——彼得·莫利纽克斯、布莱恩·莫里亚蒂、罗伯塔·威廉姆斯——视为艺术家，钦佩他们为游戏带来的远见卓识和独创性。他们认为，游戏设计师的工作是让想象力天马行空，而忽略或者根本没有意识到真正的设计所需要的长期而艰苦的工作。
 
@@ -38,7 +38,7 @@ Other people who are more mathematically oriented see game design as a science. 
 
 另一些更注重数学的人则将游戏设计视为一门科学。他们专注于确定最佳游戏规则的方法，以及平衡复杂游戏的复杂程序。他们考虑的是方程式、关系和资源流动。对这些人来说，游戏设计是一套技术，是一个思考的过程。
 
-We believe both of these views are wrong, or at least incomplete. Game design is not purely an art because it is not primarily a means of aesthetic expression. “Artistry” comes into envisioning the initial concepts and ideas, but once that is done, it's time for the real work of defining and refining how the game will function. Nor is game design purely a science; it doesn't posit hypotheses or seek truth. It's not bound by rigorous standards of logic or formal methods. The goal of a game is to entertain through play, and designing a game requires both creativity and careful planning.
+We believe both of these views are wrong, or at least incomplete. Game design is not purely an art because it is not primarily a means of aesthetic expression. "Artistry" comes into envisioning the initial concepts and ideas, but once that is done, it's time for the real work of defining and refining how the game will function. Nor is game design purely a science; it doesn't posit hypotheses or seek truth. It's not bound by rigorous standards of logic or formal methods. The goal of a game is to entertain through play, and designing a game requires both creativity and careful planning.
 
 我们认为这两种观点都是错误的，至少是不全面的。游戏设计并不纯粹是一门艺术，因为它主要不是一种美学表达方式。“艺术性”来自于对最初概念和想法的构思，但一旦构思完成，真正的工作就开始了，那就是定义和完善游戏的功能。游戏设计也不是一门纯粹的科学；它不提出假设，也不寻求真理。它不受严格的逻辑标准或形式方法的约束。游戏的目的是通过玩耍来取乐，而设计游戏既需要创造力，也需要精心策划。
 
@@ -74,7 +74,7 @@ The creators of Quake, id software, acknowledged that the first Quake was just a
 
 雷神之锤的制作者 id software 承认，第一代雷神之锤只是一个技术演示。在[《雷神之锤二》](https://en.wikipedia.org/wiki/Quake_II)中，游戏性得到改进，呈现出一款不错的单人游戏，但在[《雷神之锤三》](https://en.wikipedia.org/wiki/Quake_III_Arena)中，我们又回到技术演示的状态。只能由第三方公司（如使用[《雷神之锤二》](https://en.wikipedia.org/wiki/Quake_II)引擎开发[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))的 Valve 公司）来利用这项技术制作游戏。
 
-Given the amount of money routinely sunk into these technological powerhouse products, it seems amazing that more money is not spent on producing a decent game design. In many cases, the game design is an amalgamation of the “best” ideas of the development team. This works so rarely that when it is successful, the process is widely publicized and the publicity gives the impression that this is the best way to design a game. You might have heard the saying a camel is a horse designed by committee. Nowhere is this more applicable than the game industry.
+Given the amount of money routinely sunk into these technological powerhouse products, it seems amazing that more money is not spent on producing a decent game design. In many cases, the game design is an amalgamation of the "best" ideas of the development team. This works so rarely that when it is successful, the process is widely publicized and the publicity gives the impression that this is the best way to design a game. You might have heard the saying a camel is a horse designed by committee. Nowhere is this more applicable than the game industry.
 
 这些技术标杆产品通常都投入大量资金，而钱却没有花在制作一个优秀的游戏设计上，这实在是不可思议。在许多情况下，游戏设计都是开发团队“最佳”想法的缝合体。这种方法成功的案例少之又少，一旦成功，其过程就会被广泛宣传，让世人误以为这是设计游戏最好的方式。你可能听说过这样一句话：骆驼是委员会设计出来的马。这句话用在游戏行业身上再贴切不过。
 
@@ -124,7 +124,7 @@ The rules that define the operation of the game world make up the core mechanics
 
 定义游戏世界运行的规则构成了游戏的核心机制，或者说是游戏的基础。
 
-The core mechanics are the translation of the designer's vision into a consistent set of rules that can be interpreted by a computer—or, more accurately, rules that can be interpreted by the people who write the software that is interpreted by the computer. Defining the core mechanics is the “science” part of game design. It is important not to confuse this with the technology of computer gaming. Although the core mechanics are implemented by creation of a mathematical (or computational) model of the abstract game world, the core mechanics describe the way the game works, not the way the software operates. In a noncomputerized game, we would simply call these the rules, but the rules of computer games are far more complex than the rules of any board or card game.
+The core mechanics are the translation of the designer's vision into a consistent set of rules that can be interpreted by a computer—or, more accurately, rules that can be interpreted by the people who write the software that is interpreted by the computer. Defining the core mechanics is the "science" part of game design. It is important not to confuse this with the technology of computer gaming. Although the core mechanics are implemented by creation of a mathematical (or computational) model of the abstract game world, the core mechanics describe the way the game works, not the way the software operates. In a noncomputerized game, we would simply call these the rules, but the rules of computer games are far more complex than the rules of any board or card game.
 
 核心机制是将设计者的构想转化为一套可由计算机解释的一致规则，或者更准确地说，是可由编写软件的人员解释的规则，而软件则由计算机解释。确定核心机制是游戏设计的“科学”部分。重要的是，不要将其与电脑游戏技术混为一谈。虽然核心机制是通过创建抽象游戏世界的数学（或计算）模型来实现的，但核心机制描述的是游戏的运行方式，而不是软件的运行方式。在非电脑游戏中，我们会简单地把这些称为规则，但电脑游戏的规则比任何棋盘游戏或纸牌游戏的规则都要复杂得多。
 
@@ -154,11 +154,11 @@ Narrative, as we use the term, means that part of the story that is told by you,
 
 我们所说的“叙事”是指由作者和设计者向玩家讲述的那部分故事。叙事是故事的非交互、呈现部分。[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)有故事，但不包含叙事。因为玩游戏是一个主动的过程，而听故事则是一个被动的过程，所以互动性和叙事性之间存在着内在的矛盾。我们将在后面更详细地讨论这一对立矛盾。
 
-Without a story, or some way for a player to implicitly form his own story, the game simply will not interest the player. As you probably remember from high school English classes, all stories feature dramatic tension: an unresolved issue, problem, or conflict that keeps the reader's attention and makes him want to read on. This is no less true of games than it is of novels or short stories. In the case of games, the dramatic tension often, though not always, arises from a challenge in the game that the player has not yet overcome. Whether the player makes up his own “story” or whether he reads or watches a scripted narrative, it's the primary hook that keeps the player playing. Many games try to aim for a middle ground: They provide a back story and let the player fill in the details—quite often by completing missions that drive the plot along.
+Without a story, or some way for a player to implicitly form his own story, the game simply will not interest the player. As you probably remember from high school English classes, all stories feature dramatic tension: an unresolved issue, problem, or conflict that keeps the reader's attention and makes him want to read on. This is no less true of games than it is of novels or short stories. In the case of games, the dramatic tension often, though not always, arises from a challenge in the game that the player has not yet overcome. Whether the player makes up his own "story" or whether he reads or watches a scripted narrative, it's the primary hook that keeps the player playing. Many games try to aim for a middle ground: They provide a back story and let the player fill in the details—quite often by completing missions that drive the plot along.
 
 如果没有故事，或者没有某种方式让玩家隐含地形成自己的故事，游戏根本不会引起玩家的兴趣。你可能还记得高中英语课堂上的内容，所有故事都具有戏剧张力：一个悬而未决的问题、难题或冲突，能吸引读者的注意力，让他想读下去。游戏与小说或短篇故事同样如此。就游戏而言，戏剧张力往往，尽管不全是，来自游戏中玩家尚未克服的挑战。无论玩家是自己编造“故事”，还是阅读或观看剧本叙述，这都是吸引玩家继续玩下去的主要诱因。许多游戏都试图寻求中间地带：他们提供一个背景故事，让玩家填补细节——通常是通过完成任务来推动情节发展。
 
-Narratives in games are often quite linear, unaffected by the player's actions and unchanging from one playing to the next. Many designers see this as a limitation, impeding the freedom of the player. In recent years, there has been a lot of discussion about nonlinearity in computer games and the improvements it would bring. As with many “new and improved” features of games, a certain amount of smoke and mirrors is involved in bringing nonlinearity to nontrivial narrative-based games. Automated storytelling is the holy grail of computer game design. Chris Crawford, designer of Balance of Power, has performed some work in this area with his Erasmatazz project (www.erasmatazz.com).
+Narratives in games are often quite linear, unaffected by the player's actions and unchanging from one playing to the next. Many designers see this as a limitation, impeding the freedom of the player. In recent years, there has been a lot of discussion about nonlinearity in computer games and the improvements it would bring. As with many "new and improved" features of games, a certain amount of smoke and mirrors is involved in bringing nonlinearity to nontrivial narrative-based games. Automated storytelling is the holy grail of computer game design. Chris Crawford, designer of Balance of Power, has performed some work in this area with his Erasmatazz project (www.erasmatazz.com).
 
 游戏中的叙事通常相当线性，不受玩家行为影响，在每一次游玩过程中都一成不变。许多设计者认为这是一种限制，妨碍了玩家的自由。近年来，关于电脑游戏中的非线性以及非线性带来的改进的讨论不绝于耳。与许多“新颖改进”的游戏特色一样，将非线性融入到非简单的叙事游戏中，需要一些障眼法。自动讲故事是电脑游戏设计的圣杯。《权力平衡》的设计者克里斯·克劳福德通过他的 Erasmatazz 项目（www.erasmatazz.com）在这方面做了一些工作。
 
@@ -170,7 +170,7 @@ There is still a long way to go before we have (or can provide) fully dynamic co
 
 在我们拥有（或能够提供）完全动态的计算机生成故事之前，还有很长的路要走。在此期间，我们将不得不继续使用传统的方法，让人类来编写故事。遗憾的是，创作非线性故事的工作量会随着故事线索的增多而呈指数级增长，并且通常会削弱故事的影响力。因此，故事情节紧凑的游戏通常都非常线性。事实上，某些类型的游戏会因剧本文字过多而受到影响。例如飞行模拟器和策略游戏试图给玩家一种超出脚本限制的自由幻觉，但当玩家做出脚本之外的意外举动而打破线性时，就会失败。
 
-A linear story does not have to be a disadvantage. The [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) series of games allows little room for variation from the main story—the only way to complete the game is to allow the story to carry you along, but they are still good games. Certain scripted events that are completely unalterable by the player push the story along—and the main challenge for the player is to fit in with these events, to become part of the story. Although this makes the story feel a bit unrealistic, it is nonetheless convincing enough to enthrall the player. We don't yet have the technology to create engaging and fully self-consistent nonlinear stories. We'll probably start to see real generic story-telling systems at about the same time we can say, “Good morning, computer,” and expect it to understand and answer us!
+A linear story does not have to be a disadvantage. The [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) series of games allows little room for variation from the main story—the only way to complete the game is to allow the story to carry you along, but they are still good games. Certain scripted events that are completely unalterable by the player push the story along—and the main challenge for the player is to fit in with these events, to become part of the story. Although this makes the story feel a bit unrealistic, it is nonetheless convincing enough to enthrall the player. We don't yet have the technology to create engaging and fully self-consistent nonlinear stories. We'll probably start to see real generic story-telling systems at about the same time we can say, "Good morning, computer," and expect it to understand and answer us!
 
 线性故事并不一定是缺点。[《最终幻想》](https://en.wikipedia.org/wiki/Final_Fantasy)系列游戏的主线故事几乎没有变化的余地——完成游戏的唯一方法就是让故事带着你走，但它们仍然是好游戏。玩家完全无法改变的某些剧本事件推动着故事的发展，而玩家面临的主要挑战就是如何融入这些事件，成为故事的一部分。虽然这让人感觉故事有点不真实，但却足以让玩家着迷。我们还不具备创造引人入胜、完全自洽的非线性故事的技术。也许在我们可以说“早上好，电脑”并期待它理解并回答我们的同时，才能看到真正的通用故事讲述系统！
 
@@ -188,19 +188,19 @@ Poor interactive design ruins many products. For example, a badly designed user 
 
 糟糕的交互设计会毁掉许多产品。例如，设计糟糕的用户界面严重影响了[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)的衍生产品[《烽火连天》](https://en.wikipedia.org/wiki/War_Wind)。它要求玩家只能通过右键点击来操作一系列嵌套的图标菜单。我们相信，你一定能找出自己的类似游戏清单，发现其中存在着诸如此类的关键设计缺陷。
 
-Interactivity (in the nonbuzz sense of the word) starts at the user interface. The user interface defines the “flavor” of your game. For example, the gameplay of [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) on the Nintendo 64 console is virtually identical to that of a 2D platform game such as the [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog) games on the Sega Genesis (or Megadrive, to those of you in Europe). You run, jump, collect goodies, and avoid the baddies. The user interface—the buttons you push to play the game—made Mario 64 stand out from its peers.
+Interactivity (in the nonbuzz sense of the word) starts at the user interface. The user interface defines the "flavor" of your game. For example, the gameplay of [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) on the Nintendo 64 console is virtually identical to that of a 2D platform game such as the [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog) games on the Sega Genesis (or Megadrive, to those of you in Europe). You run, jump, collect goodies, and avoid the baddies. The user interface—the buttons you push to play the game—made Mario 64 stand out from its peers.
 
 交互性（非流行词意义上的）始于用户界面。用户界面决定了游戏的“味道”。例如，任天堂 64 游戏机上的[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)与世嘉五代机上的[《刺猬索尼克》](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog)等 2D 平台游戏的玩法几乎完全相同。你在游戏中奔跑、跳跃、收集奖品、躲避坏人。[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)的用户界面——你按下的游戏按钮——让它在同类游戏中脱颖而出。
 
-Taking this to the extreme, there is nothing in [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) that couldn't be implemented as a text-based game with type-in commands such as “run left,” “jump right,” and “take coin.” Of course, it would be ridiculous to do this (even if the Nintendo 64 console had a keyboard)—the game would have sold close to zero copies. But the example shows that even though every other aspect of the game might be well designed (as it was in [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)), a good game requires a good user interface. Derivative games that arrived on the scene after the release of [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) didn't duplicate [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)'s excellent user interface and control system. Although they were similar in concept, they didn't reach that golden standard.
+Taking this to the extreme, there is nothing in [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) that couldn't be implemented as a text-based game with type-in commands such as "run left," "jump right," and "take coin." Of course, it would be ridiculous to do this (even if the Nintendo 64 console had a keyboard)—the game would have sold close to zero copies. But the example shows that even though every other aspect of the game might be well designed (as it was in [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)), a good game requires a good user interface. Derivative games that arrived on the scene after the release of [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) didn't duplicate [Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)'s excellent user interface and control system. Although they were similar in concept, they didn't reach that golden standard.
 
 更有甚者，[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)中没有任何东西不能以文字游戏的形式来实现，比如输入“向左跑”、“向右跳”和 “捡硬币”等命令。当然，这样做是非常荒谬的（即使任天堂 64 游戏机有键盘）——这样的游戏销量几乎为零。但这个例子说明，即使游戏的其他方面设计得再好（如[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)），一款好的游戏也需要一个好的用户界面。在[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)发布之后出现的衍生游戏并没有复制[《马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)出色的用户界面和控制系统。虽然它们的概念相似，但都没有达到黄金标准。
 
-A game's graphics are also important parts of the interactive component, although designers disagree about how important they are. Unfortunately, the prevailing commercial pressure compels many designers to concentrate on appearances. In general, far too much time is spent on getting the look of a game right at the expense of tuning its gameplay. A lot of nostalgic gamers have called for a return to the values of the “golden age” of gaming—the 1980s, when hardware limitations forced developers to concentrate on gameplay. Nowadays, however, the capabilities of new machines require that more effort be spent on presentation. The more effort spent on presentation, the more the player expects to see in the next game, resulting in a vicious positive-feedback cycle of player expectations boosting emphasis on presentation, which, in turn, boosts player expectations, and so on.
+A game's graphics are also important parts of the interactive component, although designers disagree about how important they are. Unfortunately, the prevailing commercial pressure compels many designers to concentrate on appearances. In general, far too much time is spent on getting the look of a game right at the expense of tuning its gameplay. A lot of nostalgic gamers have called for a return to the values of the "golden age" of gaming—the 1980s, when hardware limitations forced developers to concentrate on gameplay. Nowadays, however, the capabilities of new machines require that more effort be spent on presentation. The more effort spent on presentation, the more the player expects to see in the next game, resulting in a vicious positive-feedback cycle of player expectations boosting emphasis on presentation, which, in turn, boosts player expectations, and so on.
 
 游戏的图形也是交互要素的重要组成部分，尽管设计者们对图形的重要性有不同的看法。遗憾的是，普遍的商业压力迫使许多设计者把注意力集中在外观上。一般来说，人们花了太多的时间在游戏的外观上，而忽略了游戏性的调整。许多怀旧的游戏玩家呼吁回归游戏“黄金时代”的价值观——20 世纪 80 年代，当时硬件的限制迫使开发者将精力集中在游戏性上。但如今，新机器的性能要求开发者在表现形式上投入更多精力。在表现形式上花费的精力越多，玩家对下一款游戏的期望就越高，这就形成了一个恶性的正反馈循环：玩家的期望提高了对表现形式的重视程度，而表现形式又反过来提高了玩家的期望，如此循环往复。
 
-We've all had the experience of playing an action game really well, getting into a sort of “groove” in which your eyes and hands seem to meld with the machine. The best user interfaces allow you to immerse yourself in the game so deeply that you are no longer aware of the user interface at all—the infamous Tetris Trance. That's what well-designed interactivity does for a game.
+We've all had the experience of playing an action game really well, getting into a sort of "groove" in which your eyes and hands seem to meld with the machine. The best user interfaces allow you to immerse yourself in the game so deeply that you are no longer aware of the user interface at all—the infamous Tetris Trance. That's what well-designed interactivity does for a game.
 
 我们都曾有过玩动作游戏非常棒的经历，你的眼睛和双手似乎与机器融为一体，进入某种“入定”状态。最好的用户界面能让你深深地沉浸在游戏中，以至于你根本意识不到用户界面的存在——这就是臭名昭著的俄罗斯方块恍惚。这就是精心设计的互动性对游戏的作用。
 
@@ -220,7 +220,7 @@ Back in the days when a single person designed and wrote an entire computer game
 
 在一个人设计和编写整个电脑游戏的时代，这种做法其实并没有什么不妥。当时的程序非常小，即使在开发过程中想法发生了根本性的改变，程序员也能在几天内修改代码。游戏本身也足够简单，一两页纸就能描述清楚，因此开发人员并没有觉得需要一个正式的设计流程。
 
-In modern commercial game development, however, this kind of ad hoc approach is disastrous. Development teams often consist of 20 to 50 people. Millions of dollars are at stake. Critical release dates must be met to get the game on the shelves at a particular time—usually right before the Christmas shopping season. You can't build a game consisting of hundreds of megabytes of software, artwork, animations, movies, and sound files with a “let's try it and see” approach; a job of this scale calls for some sort of methodology. Different developers require different degrees of formality, but all serious game companies now insist on having some kind of written design before they start work.
+In modern commercial game development, however, this kind of ad hoc approach is disastrous. Development teams often consist of 20 to 50 people. Millions of dollars are at stake. Critical release dates must be met to get the game on the shelves at a particular time—usually right before the Christmas shopping season. You can't build a game consisting of hundreds of megabytes of software, artwork, animations, movies, and sound files with a "let's try it and see" approach; a job of this scale calls for some sort of methodology. Different developers require different degrees of formality, but all serious game companies now insist on having some kind of written design before they start work.
 
 然而，在现代商业游戏开发中，这种临时应变的方法是灾难性的。开发团队通常由 20 到 50 人组成，涉及数百万美元的资金投入。必须遵守关键的发布日期，使游戏在特定时间上架——通常是在圣诞节购物季之前。你不可能用“走一步看一步”的方法来制作一款由数百兆字节的程序、插画、动画、电影和声音文件组成的游戏；如此规模的工作需要某种方法论。不同的开发者对正规程度的要求不同，但现在所有严肃的游戏公司都坚持在开工前要有某种形式的书面设计。
 
@@ -230,11 +230,11 @@ As we said before, a key part of game design is transmitting the design to other
 
 > **Idea Versus Design Decision** 创意与设计决策
 >
-> Here's an idea: “Basilisks should protect their eggs.”
+> Here's an idea: "Basilisks should protect their eggs."
 >
 > 这是一个想法："蛇怪应该保护它们的蛋。"
 >
-> Here's a design decision: “Whenever they have eggs in their nests, female basilisks will not move beyond visual range from the nest. If an enemy approaches within 50 meters of the nest, the basilisk will abandon any other activity and return to the nest to defend the eggs. She will not leave as long as a living enemy threatens the eggs, and will even defend the eggs to her own death.”
+> Here's a design decision: "Whenever they have eggs in their nests, female basilisks will not move beyond visual range from the nest. If an enemy approaches within 50 meters of the nest, the basilisk will abandon any other activity and return to the nest to defend the eggs. She will not leave as long as a living enemy threatens the eggs, and will even defend the eggs to her own death."
 >
 > 这是一个设计决定：“只要巢中有卵，雌性蛇怪就不会离开巢的可视范围。如果有敌人接近巢穴 50 米范围内，蛇怪就会放弃任何其他活动，返回巢穴保护蛋。只要有活着的敌人威胁到鸟蛋，它就不会离开，甚至会拼死保护鸟蛋。”
 >
@@ -256,7 +256,7 @@ This section is a short introduction to the various types of documents a game de
 * 游戏综述（10-20 页）
 * 游戏脚本（50-200 页）
 
-The following sections briefly discuss these documents. Appendix A, “Sample Design Documents,” contains samples (or pointers to samples) of each one and discusses their contents and formatting in much more detail.
+The following sections briefly discuss these documents. Appendix A, "Sample Design Documents," contains samples (or pointers to samples) of each one and discusses their contents and formatting in much more detail.
 
 下文将简要讨论这些文档。附录 A“设计文档样本”包含每种文档的样本（或样本指向），并对其内容和格式进行了更详细的讨论。
 
@@ -266,7 +266,7 @@ Writing the high-concept document is the first step after scribbling down the in
 
 撰写高概念文档是写下初步构思后的第一步。其目的是表达游戏的基本精神。正如简历的目的是让你获得面试机会一样，高概念文档的目的也是让你能获得制作人或发行商高管的青睐。它把你的主要想法写在纸上，一小块一小块的，让他能在几分钟内读完。就像简历一样，它应该简短——不超过两到四页。高概念文文最多需要一周的时间，其中四天用于思考，一天用于写作。
 
-If possible, try to begin the document with a single, punchy sentence—the high concept itself—that describes the game in a nutshell. Unfortunately, publishing executives have notoriously short attention spans and a great many calls on their time. You need to grab them as quickly as possible. The high concept for [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776) might have been, “Automotive vigilantes defend America's oil supply with heavily armed 1970s muscle cars in a high-octane, 3D action game.”
+If possible, try to begin the document with a single, punchy sentence—the high concept itself—that describes the game in a nutshell. Unfortunately, publishing executives have notoriously short attention spans and a great many calls on their time. You need to grab them as quickly as possible. The high concept for [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776) might have been, "Automotive vigilantes defend America's oil supply with heavily armed 1970s muscle cars in a high-octane, 3D action game."
 
 如果可能的话，尽量在文件的开头用一个简洁有力的句子——高概念本身——概括地描述游戏。不幸的是，发行商的高管们都是出了名的注意力不集中，而且他们的时间很紧。你需要尽快抓住他们的注意力。[《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)的高概念可能是：“3D 动作游戏，汽车守夜人用全副武装的 20 世纪 70 年代高标号肌肉车保卫美国的石油供应。”
 
@@ -318,15 +318,15 @@ The initial treatment is still a simple document—almost a brochure that sums u
 
 #### The Game Script 游戏脚本
 
-The game script (or “bible”) is the largest and the last in this series. It's not a sales tool; it's much too large and comprehensive for that. It's intended to document design decisions, not to persuade anyone of anything. The game script is the definitive reference for all matters relating to the structure and organization of the game, what the player does and sees—the gameplay. It should also cover the game storyline, characters, user interface, and rules of play. It should answer all possible questions (except for technical ones) about the game.
+The game script (or "bible") is the largest and the last in this series. It's not a sales tool; it's much too large and comprehensive for that. It's intended to document design decisions, not to persuade anyone of anything. The game script is the definitive reference for all matters relating to the structure and organization of the game, what the player does and sees—the gameplay. It should also cover the game storyline, characters, user interface, and rules of play. It should answer all possible questions (except for technical ones) about the game.
 
-游戏脚本（或 "圣经"）是本系列中最大的，也是最后一个。它不是一个销售工具，因为它太庞大、太全面了。它的目的是记录设计决策，而不是说服任何人。游戏脚本是与游戏结构和组织、玩家所做所见——游戏玩法——相关的所有事项的权威参考资料。它还应涵盖游戏故事情节、角色、用户界面和游戏规则。游戏脚本应回答所有与游戏有关的问题（技术问题除外）。
+游戏脚本（或“圣经”）是本系列中最大的，也是最后一个。它不是一个销售工具，因为它太庞大、太全面了。它的目的是记录设计决策，而不是说服任何人。游戏脚本是与游戏结构和组织、玩家所做所见——游戏玩法——相关的所有事项的权威参考资料。它还应涵盖游戏故事情节、角色、用户界面和游戏规则。游戏脚本应回答所有与游戏有关的问题（技术问题除外）。
 
 The game script does not include the technical design. It documents the creative, conceptual, and functional aspects of the game, and it should include technical specifications where necessary. However, it does not address how the game is built or implemented in software. The technical design document, if there is one, is usually based on the game script and is written by the lead programmer or technical director for the game. Technical design is beyond the scope of this book. If you want to know more about technical design, read Game Architecture and Design (New Riders Publishing, 2004).
 
 游戏脚本不包括技术设计。它记录了游戏的创意、概念和功能方面，必要时还应包括技术规格。但是，它并不涉及如何用软件构建或实现游戏。技术设计文档（如果有的话）通常以游戏脚本为基础，由首席程序员或游戏技术总监撰写。技术设计超出了本书的范围。如果你想了解更多关于技术设计的信息，请阅读《游戏架构与设计》（New Riders Publishing, 2004）。
 
-As a good rule of thumb, the game script should enable you to “play” the game. That is, it should specify the rules of play in enough detail that you could, in theory, play the game without the use of computer—maybe as a (complicated) board game or table-top role-playing game. This doesn't mean you should actually sit down and play it as such, but it should theoretically be possible to do so, just based on the game script document. Sitting down and playing paper versions of game ideas is a very inexpensive way of getting valuable feedback on your game design. For designers without huge teams and equally huge budgets, we heartily encourage paper-play testing.
+As a good rule of thumb, the game script should enable you to "play" the game. That is, it should specify the rules of play in enough detail that you could, in theory, play the game without the use of computer—maybe as a (complicated) board game or table-top role-playing game. This doesn't mean you should actually sit down and play it as such, but it should theoretically be possible to do so, just based on the game script document. Sitting down and playing paper versions of game ideas is a very inexpensive way of getting valuable feedback on your game design. For designers without huge teams and equally huge budgets, we heartily encourage paper-play testing.
 
 一个好的经验法则是，游戏脚本应能让你“玩”游戏。也就是说，游戏脚本应该足够详细地说明游戏规则，使你理论上可以不使用电脑玩游戏——也许是（复杂的）棋盘游戏或桌面角色扮演游戏。这并不意味着你真的要坐下来玩，但从理论上来说，仅凭游戏脚本文档就可以做到这一点。坐下来玩纸质版的游戏创意，是获得游戏设计宝贵反馈的一种非常廉价的方式。对于没有庞大团队和巨额预算的设计者来说，我们衷心鼓励纸质游戏测试。
 
@@ -340,9 +340,9 @@ Like all crafts, game design requires both talent and skill. Talent is innate, b
 
 与所有手艺一样，游戏设计需要天赋和技能。天赋是与生俱来的，而技能则是后天习得的。熟练的工匠对自己的工作要求、工作工具、工作材料和工作成果了如指掌。对于一个高效的游戏设计师来说，需要具备广泛的技能基础。
 
-> “One of the most difficult tasks people can perform, however much others may despise it, is the invention of good games….”
+> "One of the most difficult tasks people can perform, however much others may despise it, is the invention of good games…"
 >
-> "无论别人如何鄙视，人们所能完成的最困难的任务之一，就是发明出好游戏.……"。
+> "无论别人如何鄙视，人们所能完成的最困难的任务之一，就是发明出好游戏……"
 >
 > —C.G. Jung
 >
@@ -352,7 +352,7 @@ Perhaps because the ideal skill set for an effective game designer is so extensi
 
 也许是因为高效游戏设计师的理想技能组合是如此广泛、多样和定义不清，游戏设计师职位的要求经常被低估。许多开发团队把游戏设计看作是项目技术负责人的又一项任务，或者是整个团队共同完成的一项工作。实际上，有效的游戏设计所需的技能要比一般的技术主管广泛得多。这并不意味着程序员不能成为游戏设计师；这只是说，要成为一名游戏设计师，你需要的远不止编程技能。
 
-The following sections discuss some of the skills that are most useful for the professional game designer. Don't be discouraged if you don't possess all of them. That does not mean that game design is not for you. It's a wish list—the characteristics we would like to see in a hypothetical (but certainly nonexistent!) “perfect designer.”
+The following sections discuss some of the skills that are most useful for the professional game designer. Don't be discouraged if you don't possess all of them. That does not mean that game design is not for you. It's a wish list—the characteristics we would like to see in a hypothetical (but certainly nonexistent!) "perfect designer."
 
 下文将讨论一些对专业游戏设计师最有用的技能。如果你不具备所有这些技能，也不要气馁。这并不意味着游戏设计不适合你。这是一份愿望清单——我们希望在假想的（但肯定不存在的！）“完美设计师”身上看到的特征。
 
@@ -362,11 +362,11 @@ A game exists in an artificial universe, a make-believe place governed by make-b
 
 游戏存在于一个人造宇宙中，一个由虚构规则支配的虚构世界。想象力对于创造这个地方至关重要。幸运的是，这对大多数人来说都不是问题。即使你觉得想象力不是你的强项，也有可能发展和提高想象力。当然，这并不是一个新概念。从下面的摘录中就可以看出，它已经存在了几百年：
 
-“Thou shouldst regard various walls which are covered with all manner of spots, or stone of different composition. If thou hast any capacity for discovery, thou mayest behold there things which resemble various landscapes decked with mountains, rivers, cliffs, trees, large plains, hills and valley of many sort. Thou canst also behold all manner of battles, life-like positions of strange, unfamiliar figures, expressions of face, costumes, and numberless things which thou mayest put into good and perfect form…
+"Thou shouldst regard various walls which are covered with all manner of spots, or stone of different composition. If thou hast any capacity for discovery, thou mayest behold there things which resemble various landscapes decked with mountains, rivers, cliffs, trees, large plains, hills and valley of many sort. Thou canst also behold all manner of battles, life-like positions of strange, unfamiliar figures, expressions of face, costumes, and numberless things which thou mayest put into good and perfect form…
 
 “你应该看看各种污渍斑斑的墙壁或者五光十色的石头。如果你有发现的能力，你可以看到其中似乎真有各种风景，高山、河流、悬崖、树木、大片平原、丘陵和峡谷。你还能见到各种战争、陌生人物栩栩如生的姿势、表情、服饰以及无数可能组成完整形象的事物……
 
-Do not despise this opinion of mine when I counsel thee sometimes not to let it appear burdensome to thee to pause and look at the spots on walls, or the ashes in the fire, or the clouds, or mud, or other such places; thou wilt make very wonderful discoveries in them, if thou observest them rightly... For through confused and undefined things the mind is awakened to new discoveries. But take heed, first, that thou understandest how to shape well all the members of the things that thou wishest to represent, for instance, the limbs of living beings, as also the parts of a landscape, namely the stones, trees, and the like.”
+Do not despise this opinion of mine when I counsel thee sometimes not to let it appear burdensome to thee to pause and look at the spots on walls, or the ashes in the fire, or the clouds, or mud, or other such places; thou wilt make very wonderful discoveries in them, if thou observest them rightly... For through confused and undefined things the mind is awakened to new discoveries. But take heed, first, that thou understandest how to shape well all the members of the things that thou wishest to represent, for instance, the limbs of living beings, as also the parts of a landscape, namely the stones, trees, and the like."
 
 切莫轻视我的意见，我得提醒你们，时时驻足凝视污墙、火焰余烬、云彩、污泥以及诸如此类的事物，于你并不困难，只要思索得当，你确能收获奇妙的发现……通过混乱和朦胧的事物的刺激，心灵会被唤醒，从而有新的发现。但你首先必须知晓如何将你希望表现的物体的各部分，比如动物的肢体，或风景画的各要素诸如岩石、树木等等画好才成。”
 
@@ -396,7 +396,7 @@ Deduction isn't ordinarily thought of as imagination, but it can lead to new and
 
 演绎通常不被认为是想象力，但它能带来意想不到的新想法。演绎是从你做出的创意决定到其可能后果的推理过程。例如，如果你设计了一个没有牲畜的前工业化农业社区，那么田地的面积和农业生产率必然受到限制。马和牛可以比人类拉犁和运载更远的货物。有限的粮食供应反过来又会影响人口增长率，如此等等。这些细节都是通过推理得出的。
 
-Nor does imagination consist only of the ability to think of things that are completely new. It's also valuable to be able to look at an old idea and apply a new spin to it, to breathe new life into it with a fresh approach. Too many people in the game industry see something old and familiar and dismiss it. Instead they should think, “How can this be made better? How might this be more interesting?” J.K. Rowling does this brilliantly in her Harry Potter novels. They're full of imaginative twists on old ideas about witches and wizards. She still has witches flying on broomsticks, but she invented the sport of Quidditch, which is played while flying on them.
+Nor does imagination consist only of the ability to think of things that are completely new. It's also valuable to be able to look at an old idea and apply a new spin to it, to breathe new life into it with a fresh approach. Too many people in the game industry see something old and familiar and dismiss it. Instead they should think, "How can this be made better? How might this be more interesting?" J.K. Rowling does this brilliantly in her Harry Potter novels. They're full of imaginative twists on old ideas about witches and wizards. She still has witches flying on broomsticks, but she invented the sport of Quidditch, which is played while flying on them.
 
 想象力也不仅仅指创造全新事物的能力。审视一个旧有观念，赋予其新的诠释，用新颖的方式为其注入活力，这同样弥足珍贵。在游戏行业中，有太多的人看到熟悉的旧事物就不屑一顾。相反，他们应该思考：“如何把它做得更好？如何让它更有趣？”J.K.罗琳在她的《哈利·波特》小说中就巧妙地做到了这一点。她的小说充满了对女巫和巫师这个古老题材的奇思妙想。她保留了让女巫骑着扫帚飞行的设定，但却发明了魁地奇这项骑着扫帚进行的运动。
 
@@ -466,7 +466,7 @@ Let's take an example: Most people's idea of pirates comes from swashbuckling Er
 
 让我们举个例子：大多数人对海盗的印象来自埃洛尔·弗林的传奇冒险电影，詹姆斯·马修·巴利（或者是迪士尼）的《彼得·潘》，以及芝麻街的《金银岛》。
 
-If you're designing a game based on piracy on the high seas, then exact historical detail isn't going to be what they expect—a game based on venereal disease, scurvy, maggot-infested food that has to be eaten in the dark so the crew can't see what they're eating, starvation, brutality, and the “consequences” of dark and lonely nights on a female-free boat won't make a particularly interesting (or even tasteful) game.
+If you're designing a game based on piracy on the high seas, then exact historical detail isn't going to be what they expect—a game based on venereal disease, scurvy, maggot-infested food that has to be eaten in the dark so the crew can't see what they're eating, starvation, brutality, and the "consequences" of dark and lonely nights on a female-free boat won't make a particularly interesting (or even tasteful) game.
 
 如果你要设计一款以公海海盗为题材的游戏，那么准确的历史细节并不是他们所期望的——一款以性病、坏血病、必须在黑暗中吃的生蛆的食物——这样船员们就看不到他们吃的是什么、饥饿、残暴以及在没有女性的船上度过黑暗而孤独的夜晚的“后果”为题材的游戏并不会让人觉得特别有趣（甚至有品味）。
 
@@ -484,7 +484,7 @@ The professional game designer must have good writing skills. This means being c
 
 专业游戏设计师必须具备良好的写作技巧。这意味着要清晰、简洁、准确、鲜明，最重要的是要具有可读性。除了要为每个设计撰写几份详细的文档外，你可能还需要编写故事叙述或对话——尤其是在预算不足以聘请编剧的情况下。
 
-Writing comes in several forms, and we briefly discuss some of these here. (We go into more detail in Chapter 4, “Storytelling and Narrative,” and the appendixes.)
+Writing comes in several forms, and we briefly discuss some of these here. (We go into more detail in Chapter 4, "Storytelling and Narrative," and the appendixes.)
 
 写作有多种形式，我们在此简要讨论其中的几种。(我们将在第四章“讲故事与叙事”和附录中详细介绍）。
 
@@ -492,7 +492,7 @@ Writing comes in several forms, and we briefly discuss some of these here. (We g
   技术写作是记录设计的过程，为开发做准备。游戏中所有可能出现的问题都必须有明确而精准的答案。例如，如果一个农场有一个农民，每周生产一个单位的食物，那么有五个农民的农场是生产五个单位的食物，还是额外的农民消耗额外的食物？农民自己消耗的食物会计算在内吗？一个农场最多能容纳多少农民？如果所有农民都在一次突袭中被杀，农场会怎样？如果农场没有立即被摧毁，空置的建筑是否可以被新的农民重新占用吗？农场到底是怎么建成的？农民从哪里来？速度如何？玩家需要管理耕种过程吗，还是农民会自行耕种？农民能战斗吗？等等等等。
 * Fiction writing (narrative) is useful for the manual, background material; character descriptions; introductory, transitional, and finale material; as well as other bodies of text, such as mission briefings.\
   小说写作（叙事）适用于手册、背景材料、人物描写、开场、过渡和结尾材料，以及任务简报等其他文本。
-* Dialogue writing (drama) is needed for audio voiceovers and cinematic material. Unfortunately, in most games the dialogue is even cornier than 1970s television shows, and the acting is as bad or worse. Try to avoid clichés, and use grammar and vocabulary that match each character's personality. If you have an ear for regional dialects, it can add real variety to your game, but, again, avoid stereotypes such as “dumb rednecks” or “brassy New Yorkers.” The game [Starcraft](https://en.wikipedia.org/wiki/StarCraft) made excellent use of the subtle variety of southern American dialects, including proud aristocrats, gruff old generals, obnoxious bikers, and cheerful mechanics.\
+* Dialogue writing (drama) is needed for audio voiceovers and cinematic material. Unfortunately, in most games the dialogue is even cornier than 1970s television shows, and the acting is as bad or worse. Try to avoid clichés, and use grammar and vocabulary that match each character's personality. If you have an ear for regional dialects, it can add real variety to your game, but, again, avoid stereotypes such as "dumb rednecks" or "brassy New Yorkers." The game [Starcraft](https://en.wikipedia.org/wiki/StarCraft) made excellent use of the subtle variety of southern American dialects, including proud aristocrats, gruff old generals, obnoxious bikers, and cheerful mechanics.\
   画外旁白和电影场景需要对白写作（戏剧）。遗憾的是，大多数游戏中的对话甚至比 20 世纪 70 年代的电视节目还要老套，演技也同样糟糕甚至更差。尽量避免陈词滥调，使用符合每个角色个性的语法和词汇。如果你能听懂各地方言，就能为你的游戏增添真正的多样性，但同样要避免“愚蠢的乡巴佬”或“粗鲁的纽约人”等刻板印象。[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)这款游戏就很好地利用了美国南部各种微妙的方言，包括骄傲的贵族、粗鲁的老将军、令人讨厌的摩托车手和开朗的机械师。
 
 The greatest game design acumen in the world will be useless to you unless you can effectively communicate your ideas. As a designer, you will often need to evangelize your design at several different levels. In the professional setting, you will initially need to present your design to a publisher. Following that, you need to obtain buy-in from the team that will develop the game. This can be done in person or in writing, but the result is the same. You will need to be able to transmit your enthusiasm for the game as well as go into mind-boggling detail of its finer points to allow the development team to be able to create a game from your vision.
@@ -501,7 +501,7 @@ The greatest game design acumen in the world will be useless to you unless you c
 
 ### Drawing Skills 绘画技能
 
-Some skill at basic drawing and sketching is highly valuable, although not absolutely required for a designer if you have a concept artist to work with. The saying “A picture is worth a thousand words” is never more true than when you are trying to impart a game idea. The vast majority of computer games rely heavily on visual content, and drawings are essential when pitching a product to a third party. Game-publishing executives will be interested in a hot concept, a hot market, or a hot license, but only pictures get them excited. The images are the hook on which the executives will hang everything else that they hear. Otherwise, you can talk about concepts forever and they won't remember a thing when you leave the room because they don't have a visual hook to hang it on. The images will remain in their memories long after they forget the details.
+Some skill at basic drawing and sketching is highly valuable, although not absolutely required for a designer if you have a concept artist to work with. The saying "A picture is worth a thousand words" is never more true than when you are trying to impart a game idea. The vast majority of computer games rely heavily on visual content, and drawings are essential when pitching a product to a third party. Game-publishing executives will be interested in a hot concept, a hot market, or a hot license, but only pictures get them excited. The images are the hook on which the executives will hang everything else that they hear. Otherwise, you can talk about concepts forever and they won't remember a thing when you leave the room because they don't have a visual hook to hang it on. The images will remain in their memories long after they forget the details.
 
 虽然对于拥有概念美术师合作的游戏设计师来说，基本绘图和素描技巧并非绝对必要，但掌握一些这类技能仍然非常宝贵。俗话说“一图胜千言”，这句话在传达游戏创意时再正确不过了。绝大多数电脑游戏在很大程度上都依赖于视觉内容，在向第三方推销产品时，图画是必不可少的。游戏发行高管们会对热门概念、热门市场或热门授权感兴趣，但只有画面能让他们兴奋。图片就像一个挂钩，发行商会将他们听到的所有其他内容都挂在这个挂钩之上。否则，即便你滔滔不绝地谈论概念，但当你离开房间时，他们什么也记不住，因为他们没有视觉挂钩。在他们忘记细节之后，图像仍会留在他们的记忆中。
 

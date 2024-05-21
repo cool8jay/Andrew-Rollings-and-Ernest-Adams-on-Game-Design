@@ -38,9 +38,9 @@ This quality of rich artificial intelligence distinguishes artificial pets from 
 
 这种丰富的人工智能特性使人造宠物有别于其他类型的人造生命，后者的个体具有简单的规则，但群体作为一个整体会发展出突发特性。人造宠物可能具有一些只有在存在一段时间后才会出现的特性，但通常这些特性都是预先编程好的，并不是真正的突发特性。
 
-Because an artificial pet doesn't have much of a challenge or a victory condition (apart from training it to do something specific), it's a software toy rather than a game. ("Software toy" is a term coined by Will Wright, the original designer of Sim City, for entertainment software that you just play around with, without trying to defeat an opponent or achieve victory.) The entertainment of an artificial pet comes from watching it do things and interacting with it. In Petz, shown in Figure 16.1, you can see three cats, all of which are interacting with things in their environments. One is simply sitting on a rug, but it knows that it is a rug and has chosen to sit on it rather than somewhere else. An artificial pet has a large number of behaviors that the player sees repeatedly, and others that occur more rarely. Part of balancing it—making sure that the player doesn't get bored with it—is making sure that these rare behaviors occur often enough that the player does get to see them but doesn't take them for granted.
+Because an artificial pet doesn't have much of a challenge or a victory condition (apart from training it to do something specific), it's a software toy rather than a game. ("Software toy" is a term coined by Will Wright, the original designer of [Sim City](https://en.wikipedia.org/wiki/SimCity), for entertainment software that you just play around with, without trying to defeat an opponent or achieve victory.) The entertainment of an artificial pet comes from watching it do things and interacting with it. In Petz, shown in Figure 16.1, you can see three cats, all of which are interacting with things in their environments. One is simply sitting on a rug, but it knows that it is a rug and has chosen to sit on it rather than somewhere else. An artificial pet has a large number of behaviors that the player sees repeatedly, and others that occur more rarely. Part of balancing it—making sure that the player doesn't get bored with it—is making sure that these rare behaviors occur often enough that the player does get to see them but doesn't take them for granted.
 
-因为人造宠物没有太多的挑战或胜利条件（除了训练它做一些特定的事情），所以它只是一个软件玩具，而不是游戏。(“软件玩具”是由《模拟城市》的原设计者威尔·赖特（Will Wright）创造的一个术语，指的是那些你只是随便玩玩，而不试图打败对手或取得胜利的娱乐软件）。人造宠物的娱乐性来自于观察它的行为和与它的互动。在图 16.1 所示的 Petz 中，你可以看到三只猫，它们都在与周围的事物互动。其中一只猫只是坐在一块地毯上，但它知道这是一块地毯，并选择坐在上面而不是其他地方。人造宠物有大量玩家会反复看到的行为，而其他行为则很少出现。为了确保玩家不会对它感到厌倦，平衡它的部分工作就是确保这些罕见行为出现的频率足以让玩家看到它们，但又不会认为它们是理所当然的。
+因为人造宠物没有太多的挑战或胜利条件（除了训练它做一些特定的事情），所以它只是一个软件玩具，而不是游戏。(“软件玩具”是由[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)的原设计者威尔·赖特创造的一个术语，指的是那些你只是随便玩玩，而不试图打败对手或取得胜利的娱乐软件）。人造宠物的娱乐性来自于观察它的行为和与它的互动。在图 16.1 所示的 Petz 中，你可以看到三只猫，它们都在与周围的事物互动。其中一只猫只是坐在一块地毯上，但它知道这是一块地毯，并选择坐在上面而不是其他地方。人造宠物有大量玩家会反复看到的行为，而其他行为则很少出现。为了确保玩家不会对它感到厌倦，平衡它的部分工作就是确保这些罕见行为出现的频率足以让玩家看到它们，但又不会认为它们是理所当然的。
 
 Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 中的 Petz。
 
@@ -206,28 +206,28 @@ Scott Kim is a designer who creates puzzles for the print media, web sites, and 
 设计一个序列 现在是时候将所有谜题排成一个序列了。最明显的排列方式是由易到难的线性或加速序列，但在实际操作中，这种排列方式会让人感到疲惫和气馁。更好的排列方式是锯齿形，一会儿变难，一会儿变简单，如此反复。当然，你也可以让玩家自由选择不按顺序玩谜题，或者让她自己去争取。你还需要考虑谜题之间的过渡，让她继续下一个谜题。战争游戏和角色扮演游戏通常通过故事线来实现这一点。或者，玩家可以在常规谜题之间做一个元谜题，这样可以激励她完成整个游戏。
 
 8. Pay attention to presentation. Finally, of course, there are all the other details of game design: sound, graphical style, animation, user interface elements, story line (if any), and so on. If you're used to designing other kinds of games, it might be tempting to move this to an earlier point in the process, but with puzzle games, the puzzles are 90% of the battle. Get them right first, and the rest won't be nearly as hard.\
-注意表现形式。最后，当然还有游戏设计的所有其他细节：音效、图形风格、动画、用户界面元素、故事线（如果有的话）等等。如果你习惯于设计其他类型的游戏，可能会很想把这部分移到流程的前面，但对于益智游戏来说，谜题是战斗的 90%。先把谜题设计好，剩下的就不会那么难了。
+注意表现形式。最后，当然还有游戏设计的所有其他细节：音效、图形风格、动画、用户界面元素、故事线（如果有的话）等等。如果你习惯于设计其他类型的游戏，可能会想在这个过程中更早地考虑这些，但对于益智游戏来说，谜题是战斗的 90%。先把谜题设计好，剩下的就不会那么难了。
 
 ## What Computers Bring to Puzzles 计算机给谜题带来了什么
 
-Computers enable us to make a lot of puzzles that would be impossible or very expensive to create in the real world—all the mechanical parts in The Incredible Machine, for example. But even if a puzzle is physically possible, the computer can add a number of useful features to make the gameplay easier and more enjoyable.
+Computers enable us to make a lot of puzzles that would be impossible or very expensive to create in the real world—all the mechanical parts in [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine), for example. But even if a puzzle is physically possible, the computer can add a number of useful features to make the gameplay easier and more enjoyable.
 
-计算机使我们能够制作出许多在现实世界中不可能完成或非常昂贵的谜题--例如《不可思议的机器》中的所有机械零件。但是，即使一个谜题在物理上是可行的，计算机也可以添加一些有用的功能，让游戏变得更简单、更有趣。
+计算机使我们能够制作出许多在现实世界中不可能完成或非常昂贵的谜题——例如[《不可思议的机器》](https://en.wikipedia.org/wiki/The_Incredible_Machine)中的所有机械零件。但是，即使一个谜题在物理上是可行的，计算机也可以添加一些有用的功能，让游戏变得更简单、更有趣。
 
-* Enable nonphysical or awkward moves. The computer can let players do things that don't correspond to physical actions in the real world—for example, changing the color of something. You can also let the player control several things at once with just one key, something that would be awkward to do in a physical implementation.\
-启用非物理或笨拙的动作。电脑可以让玩家做一些与现实世界中的物理动作不对应的事情--例如，改变某些东西的颜色。你还可以让玩家只用一个键就能同时控制几件事情，而这在物理实现中是很难做到的。
+* **Enable nonphysical or awkward moves.** The computer can let players do things that don't correspond to physical actions in the real world—for example, changing the color of something. You can also let the player control several things at once with just one key, something that would be awkward to do in a physical implementation.\
+**启用非物理或笨拙的动作。**电脑可以让玩家做一些与现实世界中的物理动作不对应的事情——例如，改变某些东西的颜色。你还可以让玩家只用一个键就能同时控制几件事情，而这在物理实现中是很难做到的。
 
-* Include computation features. You can use the computing power available to automatically generate new puzzles, find solutions to the current puzzle, or generate hints about what the player should do next.\
-包含计算功能。你可以利用现有的计算能力自动生成新的谜题，找到当前谜题的解决方案，或者生成关于玩家下一步该做什么的提示。
+* **Include computation features.** You can use the computing power available to automatically generate new puzzles, find solutions to the current puzzle, or generate hints about what the player should do next.\
+**包含计算功能。**你可以利用现有的计算能力自动生成新的谜题，找到当前谜题的解决方案，或者生成关于玩家下一步该做什么的提示。
 
-* Enforce the rules. In a lot of physical puzzles, it's up to the player to enforce the rules on himself. Sometimes players make mistakes and break the rules accidentally. A computer game can make sure that never happens.\
-执行规则。在很多物理谜题中，玩家需要自己执行规则。有时玩家会犯错，不小心破坏了规则。电脑游戏可以确保这种情况永远不会发生。
+* **Enforce the rules.** In a lot of physical puzzles, it's up to the player to enforce the rules on himself. Sometimes players make mistakes and break the rules accidentally. A computer game can make sure that never happens.\
+**执行规则。**在很多物理谜题中，玩家需要自己执行规则。有时玩家会犯错，不小心破坏了规则。电脑游戏可以确保这种情况永远不会发生。
 
-* Undo and record moves. This very useful feature for games involves moving objects around in a sequence, as in Solitaire.\
-撤销和记录移动。这项非常有用的功能适用于按顺序移动物体的游戏，如纸牌游戏。
+* **Undo and record moves.** This very useful feature for games involves moving objects around in a sequence, as in Solitaire.\
+**撤销和记录移动。**这项非常有用的功能适用于按顺序移动物体的游戏，如纸牌游戏。
 
-* Structure the experience. The computer allows you to present the experience in a particular order, if necessary, passing automatically from one phase to another, if that's what your game requires. In the real world, the player would be looking at the instructions and saying, "Let's see, what am I supposed to do next?"\
-安排体验的结构。如果有必要，电脑允许你按照特定的顺序展示体验，自动从一个阶段过渡到另一个阶段，如果你的游戏需要这样的话。在现实世界中，玩家会看着说明说："让我想想，接下来我该怎么做？
+* **Structure the experience.** The computer allows you to present the experience in a particular order, if necessary, passing automatically from one phase to another, if that's what your game requires. In the real world, the player would be looking at the instructions and saying, "Let's see, what am I supposed to do next?"\
+**安排体验的结构。**如果有必要，电脑允许你按照特定的顺序展示体验，自动从一个阶段过渡到另一个阶段，如果你的游戏需要这样的话。在现实世界中，玩家会看着说明说：“让我想想，接下来我该怎么做？”
 
 * Teach. You can include tutorial modes and step-by-step instructions to help your player get into the game.\
 教学。你可以在游戏中加入教程模式和逐步说明，帮助玩家进入游戏。
@@ -254,7 +254,7 @@ Of course, sometimes games contain bugs that allow a player to cheat in some way
 
 > **Case Study: The Incredible Machine**
 
-> The Incredible Machine is an excellent example of a puzzle game that is imaginative and clever and that has sold really well. In fact, it's not just a game, but a whole game franchise, with five editions so far. The current version is called Return of the Incredible Machine: Contraptions, and it's published by Sierra Entertainment (formerly Sierra On-Line).
+> [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) is an excellent example of a puzzle game that is imaginative and clever and that has sold really well. In fact, it's not just a game, but a whole game franchise, with five editions so far. The current version is called [Return of the Incredible Machine: Contraptions](https://en.wikipedia.org/wiki/Return_of_the_Incredible_Machine:_Contraptions), and it's published by Sierra Entertainment (formerly Sierra On-Line).
 
 > The game consists of a series of puzzles, each of which involves building a Rube Goldberg–like machine to accomplish a certain task. Each machine is constructed in a two-dimensional space upon which a variety of mechanical devices can be placed. (Some of these devices are actually animals, which can be frightened by noises or lured by food.) A few objects are already in position at the beginning of the puzzle, and the victory condition states what the player is trying to accomplish (for example, pop the balloon). The player is given a limited number of additional devices to place in the area. The object is to place them and hook them up in such a way that when the machine is set in motion, the goal is achieved. Playing the game consists of adding elements to the machine, trying them out, adjusting them, trying again, and so on. Figure 16.2 shows one of the scenarios in The Incredible Machine. The goal is given at the left. Available parts are in the area beneath the main workspace.
 
