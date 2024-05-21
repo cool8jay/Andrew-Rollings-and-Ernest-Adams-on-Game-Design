@@ -14,33 +14,35 @@ Artificial life is a branch of computer science research, just as artificial int
 
 The most famous (though not the first) A-life game is called simply Life and was created by a mathematician named John Conway. It depicts cellular automata, simulated beings that "live" on a grid. All they do is survive, reproduce, and die according to three very simple rules. When people first began playing with the game, they quickly discovered that it had a number of emergent properties even though it had such simple rules. Certain patterns of cells could move across the grid ("gliders"), and some ("glider guns") could even generate an endless stream of new cells.
 
-最有名的（尽管不是第一个）人造生命游戏名为“简单生活”，由数学家约翰-康威（John Conway）创造。它描述的是细胞自动机，一种 “生活 ”在网格上的模拟生命。它们所做的一切就是按照三个非常简单的规则生存、繁殖和死亡。当人们第一次开始玩这个游戏时，他们很快就发现，尽管游戏规则如此简单，但它却具有许多突发特性。某些图案的细胞可以在网格中移动（“滑行器”），有些细胞（“滑行枪”）甚至可以产生无穷无尽的新细胞。
+最有名的（尽管不是第一个）人造生命游戏叫做《生命》，由数学家约翰·康威创造。它描述的是细胞自动机，一种“生活”在网格上的模拟生命。它们所做的一切就是按照三个非常简单的规则生存、繁殖和死亡。当人们第一次开始玩这个游戏时，他们很快发现，尽管游戏规则如此简单，但它却具有许多突发特性。某些图案的细胞可以在网格中移动（“滑行者”），有些细胞（“滑行枪”）甚至可以产生无尽的新细胞流。
 
 Because they're intended for entertainment rather than research, commercial A-life games implement only a subset of what A-life research investigates. There aren't any commercial A-life games about observing thousands of generations of one-celled animals evolving in an environment, for example. Typically, A-life games are about maintaining and growing a manageable population of organisms, each of which is unique.
 
 由于商业 A-life游戏的目的是娱乐而非研究，因此它们只能实现 A-life研究的一部分。例如，没有任何商业 A-life游戏是关于观察数千代单细胞动物在环境中进化的。通常情况下，A-life 游戏是关于维持和发展一个可管理的生物群体，每个生物群体都是独一无二的。
 
+因为商业 A-life 游戏的目的是娱乐而不是研究，所以它们只实现了 A-life 研究所调查内容的一个子集。例如，没有任何商业 A-life 游戏是关于观察成千上万代单细胞动物在环境中进化的。通常，A-life 游戏是关于维持和增长一个可管理的有机体种群，每个有机体都是独一无二的。
+
 ## Artificial Pets 人造宠物
 
 One subcategory of artificial life game is the artificial pet. Artificial pets are simulated animals that live on your computer, either in an environment of their own or on your desktop. They can be simulations of real animals, as in the Petz series developed by PF.Magic, or fantasy ones like the Tamagotchi, a tiny and very simple computer game built into a keychain.
 
-人造宠物是人造生命游戏的一个子类别。人造宠物是生活在电脑上的仿真动物，它们可以生活在自己的环境中，也可以生活在电脑桌面上。它们可以是真实动物的模拟（如 PF.Magic 开发的 Petz 系列），也可以是幻想出来的动物（如 Tamagotchi，一种内置在钥匙链中的非常简单的小型电脑游戏）。
+人造宠物是人造生命游戏的一个子类别。人造宠物是生活在电脑上的仿真动物，它们可以生活在自己的环境中，也可以生活在电脑桌面上。它们可以是真实动物的模拟（如 PF.Magic 开发的 Petz 系列），也可以是幻想出来的动物，比如拓麻歌子，一种内置在钥匙链中的非常简单的小型电脑游戏。
 
 Artificial pets are almost always cute. The nature of their gameplay concentrates on training and maintenance, and watching them do endearing things. They seldom reproduce or die, and the player usually wants to interact with only one or two at once. (Games about whole populations of organisms, in which they do reproduce and die, are discussed in the section "Genetic A-Life Games," later in this chapter.)
 
-人造宠物几乎都很可爱。它们的游戏性质集中于训练和维护，以及看它们做可爱的事情。它们很少繁殖或死亡，玩家通常只想同时与一两只宠物互动。(本章后面的 “基因 A-生命游戏 ”部分将讨论有关整个生物群体的游戏，在这些游戏中，生物会繁殖和死亡）。
+人造宠物几乎都很可爱。它们的游戏玩法集中于训练和维护，以及看它们做可爱的事情。它们很少繁殖或死亡，玩家通常只想同时与一两只宠物互动。(本章后面的“基因 A-Life 游戏”部分将讨论有关整个生物群体的游戏，在这些游戏中，生物会繁殖和死亡）。
 
 If the player is going to spend much time looking at an artificial pet, then the pet needs to have quite a lot of AI: a variety of things that stimulate it and behaviors that it exhibits. An artificial pet should have a number of emotions, or moods, that the player can learn by observation and can influence by interacting with it somehow. It also needs to interact meaningfully with others of its own kind: teasing, playing, grooming, fighting, and so on. Above all, it needs to be able to learn, so there must be a way for the player to show it how to do things. The learning process must not be too long (or the player will get frustrated and think his pet is stupid) or too short (or the player will run through everything he can teach it very quickly). (Tamagotchi, being so tiny and inexpensive, are obviously an exception to this principle!)
 
-如果玩家要花很多时间观察人工宠物，那么宠物就需要有大量的人工智能：各种刺激它的事物和它表现出来的行为。人工宠物应该有一些情绪或心情，玩家可以通过观察了解这些情绪或心情，也可以通过与宠物互动来影响这些情绪或心情。它还需要与其他同类进行有意义的互动：戏弄、玩耍、梳理毛发、打斗等等。最重要的是，它必须能够学习，因此必须有一种方法让玩家向它展示如何做事。学习过程不能太长（否则玩家会感到沮丧，认为自己的宠物很愚蠢），也不能太短（否则玩家会很快把能教给它的东西都教完）。(塔莫吉因为体积小、价格便宜，显然是这一原则的例外！）。
+如果玩家要花很多时间观察人造宠物，那么宠物就需要有大量的人工智能：各种刺激它的事物和它表现出来的行为。人造宠物应该有一些情绪或心情，玩家可以通过观察了解这些情绪或心情，也可以通过与宠物互动来影响这些情绪或心情。它还需要与其他同类进行有意义的互动：逗趣、玩耍、梳理毛发、打斗等等。最重要的是，它必须能够学习，因此必须有一种方法让玩家向它展示如何做事。学习过程不能太长（否则玩家会感到沮丧，认为自己的宠物很愚蠢），也不能太短（否则玩家会很快把能教给它的东西都教完）。(拓麻歌子因为体积小、价格便宜，显然是这一原则的例外！）。
 
 This quality of rich artificial intelligence distinguishes artificial pets from other kinds of A-life, in which individuals have simple rules but the population as a whole develops emergent properties. Artificial pets can have properties that appear only after they have been around for a while, but typically these are preprogrammed and are not truly emergent.
 
-这种丰富的人工智能特性使人工宠物有别于其他类型的人造生命，后者的个体具有简单的规则，但群体作为一个整体会发展出突发性的特性。人工宠物可能具有一些只有在存在一段时间后才会出现的特性，但通常这些特性都是预先编程好的，并不是真正的突发特性。
+这种丰富的人工智能特性使人造宠物有别于其他类型的人造生命，后者的个体具有简单的规则，但群体作为一个整体会发展出突发特性。人造宠物可能具有一些只有在存在一段时间后才会出现的特性，但通常这些特性都是预先编程好的，并不是真正的突发特性。
 
 Because an artificial pet doesn't have much of a challenge or a victory condition (apart from training it to do something specific), it's a software toy rather than a game. ("Software toy" is a term coined by Will Wright, the original designer of Sim City, for entertainment software that you just play around with, without trying to defeat an opponent or achieve victory.) The entertainment of an artificial pet comes from watching it do things and interacting with it. In Petz, shown in Figure 16.1, you can see three cats, all of which are interacting with things in their environments. One is simply sitting on a rug, but it knows that it is a rug and has chosen to sit on it rather than somewhere else. An artificial pet has a large number of behaviors that the player sees repeatedly, and others that occur more rarely. Part of balancing it—making sure that the player doesn't get bored with it—is making sure that these rare behaviors occur often enough that the player does get to see them but doesn't take them for granted.
 
-因为人工宠物没有太多的挑战或胜利条件（除了训练它做一些特定的事情），所以它只是一个软件玩具，而不是游戏。(软件玩具 "是由《模拟城市》的原设计者威尔-赖特（Will Wright）创造的一个术语，指的是那些你只是随便玩玩，而不试图打败对手或取得胜利的娱乐软件）。人工宠物的娱乐性来自于观察它的行为和与它的互动。在图 16.1 所示的 Petz 中，你可以看到三只猫，它们都在与周围的事物互动。其中一只猫只是坐在一块地毯上，但它知道这是一块地毯，并选择坐在上面而不是其他地方。人工宠物有大量玩家会反复看到的行为，而其他行为则很少出现。为了确保玩家不会对它感到厌倦，平衡它的部分工作就是确保这些罕见行为出现的频率足以让玩家看到它们，但又不会认为它们是理所当然的。
+因为人造宠物没有太多的挑战或胜利条件（除了训练它做一些特定的事情），所以它只是一个软件玩具，而不是游戏。(“软件玩具”是由《模拟城市》的原设计者威尔·赖特（Will Wright）创造的一个术语，指的是那些你只是随便玩玩，而不试图打败对手或取得胜利的娱乐软件）。人造宠物的娱乐性来自于观察它的行为和与它的互动。在图 16.1 所示的 Petz 中，你可以看到三只猫，它们都在与周围的事物互动。其中一只猫只是坐在一块地毯上，但它知道这是一块地毯，并选择坐在上面而不是其他地方。人造宠物有大量玩家会反复看到的行为，而其他行为则很少出现。为了确保玩家不会对它感到厌倦，平衡它的部分工作就是确保这些罕见行为出现的频率足以让玩家看到它们，但又不会认为它们是理所当然的。
 
 Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 中的 Petz。
 
@@ -50,35 +52,35 @@ graphics/16fig01.gif
 
 The Sims is almost the only game of its kind. There was one game a bit like it, Little Computer People, many years ago on the Commodore 64, but it wasn't nearly as rich as The Sims. If The Sims can be said to belong to a class, it is a virtual dollhouse: It simulates a family in a suburban home. You can make the people move around, cause them to complete certain tasks, tell them when to go to bed and when to get up, and so on. You can indirectly influence their relationships by making them talk to each other—the big difference is that you can't decide what they say, and you can't guarantee that they will like each other. Each simulated person has her own personality, likes, and dislikes.
 
-《模拟人生》几乎是唯一一款同类游戏。多年前在 Commodore 64 上曾出现过一款与之有点类似的游戏，即《小小电脑人》（Little Computer People），但其内容远不及《模拟人生》丰富。如果说《模拟人生》属于一个类别，那它就是一个虚拟娃娃屋： 它模拟了一个家庭在郊区的住所。你可以让这些人四处走动，让他们完成某些任务，告诉他们什么时候睡觉，什么时候起床，等等。你可以让他们相互交谈，从而间接影响他们之间的关系--最大的区别在于，你不能决定他们说什么，也不能保证他们会喜欢对方。每个模拟人都有自己的个性、喜好和厌恶。
+《模拟人生》几乎它类型下的唯一一款游戏。多年前在 Commodore 64 上曾出现过一款与之有点类似的游戏，即《小小电脑人》，但其内容远不及《模拟人生》丰富。如果说《模拟人生》属于一个类别，那它就是一个虚拟娃娃屋： 它模拟了一个家庭在郊区的住所。你可以让这些人四处走动，让他们完成某些任务，告诉他们什么时候睡觉，什么时候起床，等等。你可以让他们相互交谈，从而间接影响他们之间的关系——最大的区别在于，你不能决定他们说什么，也不能保证他们会喜欢对方。每个模拟人都有自己的个性、喜好和厌恶。
 
 One of the best things about The Sims is that there are multiple ways to play with it. It's sort of a cross between an artificial pet and a construction and management simulation. You need money to build additions to the house and to buy new furniture for it. The family has to earn that money by at least one member having a job. You can spend quite a lot of time in the buying-and-building mode, if you can afford it, which has nothing at all to do with artificial life. Some players, the particularly goal-oriented ones, really concentrate on this aspect, working hard to construct a mansion and fill it with luxuries. Others are more interested in the interactions among the people. In Figure 8.11 in Chapter 8, "The Internal Economy of Games and Game Balancing," you can see two sims dancing in their kitchen. This might have been spontaneous behavior, but it was more likely in response to an instruction given by the player.
 
-《模拟人生》最棒的一点就是有多种玩法。它是一种介于人工宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在 “购买和建造 ”模式中花费大量时间，这与人造生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在第 8 章 “游戏的内部经济和游戏平衡 ”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
+《模拟人生》最棒的一点就是有多种玩法。它是一种介于人造宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在“购买和建造”模式中花费大量时间，这与人造生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在第 8 章“游戏的内部经济和游戏平衡”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
 
 ### Needs 需求
 
 The main challenge of The Sims is to manage this group of slightly incompetent people and to improve their career prospects by teaching them things that will help them get better jobs. Each person, called a "sim," has eight needs that she must meet on an ongoing basis: hunger, comfort, hygiene, bladder, energy level, fun, social interaction, and room (which, in effect, means uncrowded, attractive surroundings). These needs drive her behavior. When a sim feels a need, she takes actions to meet it somehow. If the need goes unmet for too long, the sim becomes unhappy and can even die (in the case of hunger). Each sim always has a queue of things to do to meet her current needs, unless they're all met at the moment. The player can also give the sim orders, in effect inserting a behavior at the front of the queue. This need-based AI is at the heart of most simple behavior simulations, whether of people or animals; if implemented properly, it works very well.
 
-《模拟人生》的主要挑战在于如何管理这群略显无能的人，并通过教导他们一些事情来改善他们的职业前景，帮助他们找到更好的工作。每个被称为 “模拟人生 ”的人都有八种必须不断满足的需求：饥饿、舒适、卫生、膀胱、能量水平、乐趣、社交互动和房间（实际上就是指不拥挤、有吸引力的环境）。这些需求驱动着模拟人的行为。当模拟人感觉到某种需求时，她就会采取行动来满足这种需求。如果需求长期得不到满足，模拟人就会变得不快乐，甚至会死亡（在饥饿的情况下）。每个模拟人都有一连串的事情要做，以满足她当前的需求，除非这些需求目前都得到了满足。玩家还可以向模拟人下达命令，实际上就是在队列的前面插入一个行为。这种基于需求的人工智能是大多数简单行为模拟（无论是人还是动物）的核心；如果实施得当，效果会非常好。
+《模拟人生》的主要挑战在于如何管理这群略显无能的人，并通过教导他们一些事情来改善他们的职业前景，帮助他们找到更好的工作。每个被称为“模拟人”的人都有八种必须不断满足的需求：饥饿、舒适、卫生、膀胱、能量水平、乐趣、社交互动和空间（实际上就是指不拥挤、有吸引力的环境）。这些需求驱动着模拟人的行为。当模拟人感觉到某种需求时，她就会采取行动来满足这种需求。如果需求长期得不到满足，模拟人就会变得不快乐，甚至会死亡（在饥饿的情况下）。每个模拟人都有一连串的事情要做，以满足她当前的需求，除非这些需求目前都得到了满足。玩家还可以向模拟人下达命令，实际上就是在队列的前面插入一个行为。这种基于需求的人工智能是大多数简单行为模拟（无论是人还是动物）的核心；如果实施得当，效果会非常好。
 
 ### Skills 技能
 
 Unlike with an artificial pet, it isn't necessary to teach the sims by repeatedly showing them something. Instead, the trick is finding the time for them to improve their skills, which they can do by a variety of means. The sims have six skills: cooking, repair, charisma, body (physical strength and dexterity), logic, and creativity. These skills influence the jobs that they can take and, consequently, the amount of money that they can earn. Unfortunately, the sims are so busy and do everything so slowly that often they don't get enough leisure time to study or work out. The game is very much an exercise in time management.
 
-与人工宠物不同，没有必要通过反复向模拟人展示某些东西来教导他们。相反，关键是要抽出时间来提高它们的技能，它们可以通过各种方法来做到这一点。模拟人有六种技能：烹饪、修理、魅力、身体（体力和灵活性）、逻辑和创造力。这些技能会影响他们可以从事的工作，进而影响他们可以赚到的钱。不幸的是，模拟人太忙了，做任何事情都很慢，常常没有足够的闲暇时间学习或锻炼。这款游戏在很大程度上就是时间管理的练习。
+与人造宠物不同，没有必要通过反复向模拟人展示某些东西来教导他们。相反，关键是要抽出时间来提高它们的技能，它们可以通过各种方法来做到这一点。模拟人有六种技能：烹饪、修理、魅力、身体（体力和灵活性）、逻辑和创造力。这些技能会影响他们可以从事的工作，进而影响他们可以赚到的钱。不幸的是，模拟人太忙了，做任何事情都很慢，常常没有足够的闲暇时间学习或锻炼。这款游戏在很大程度上就是时间管理的练习。
 
 ### Personalities 个性
 
 Unlike almost every other computer game, The Sims tries to simulate relationships among individual people. These relationships are not terribly sophisticated, but they do include such concepts as jealousy, anger, and love. Each sim's personality is defined by five key variables: neat, outgoing, active, playful, and nice. These determine how they react to one another and whether they're likely to get along. The Sims also encourages the player to develop friendships among his fellow sims because career advancement is conditional upon having a certain number of friends.
 
-与几乎所有其他电脑游戏不同，《模拟人生》试图模拟人与人之间的关系。这些关系并不复杂，但确实包括嫉妒、愤怒和爱等概念。每个模拟人的个性都由五个关键变量定义：整洁、外向、活跃、爱玩和友善。这些变量决定了他们彼此间的反应，以及他们是否可能和睦相处。模拟人生》还鼓励玩家与其他模拟人建立友谊，因为拥有一定数量的朋友是职业发展的条件。
+与几乎所有其他电脑游戏不同，《模拟人生》试图模拟人与人之间的关系。这些关系并不复杂，但确实包括嫉妒、愤怒和爱等概念。每个模拟人的个性都由五个关键变量定义：整洁、外向、活跃、爱玩和友善。这些变量决定了他们彼此间的反应，以及他们是否可能和睦相处。《模拟人生》还鼓励玩家与其他模拟人建立友谊，因为拥有一定数量的朋友是职业发展的条件。
 
 ### The Success of The Sims 《模拟人生》的成功
 
 The Sims has been a huge success, which we believe it owes to two things. First, it enables the player to exercise his creativity in a familiar sphere: the ordinary suburban home. In addition to building and furnishing a house, players can design their own "skins" for the sims, creating people who look like themselves (or anyone else). The game actually offers more creative play than Sim City or Sim Tower, for example, just because there are more different kinds of things to do. Players can also take photographs of their houses and store them in albums, along with written commentary that they supply, effectively creating illustrated stories. And they can share all these things over the Internet. The game offers more scope for personal creativity on the part of the player than just about any other on the market.
 
-《模拟人生》获得了巨大成功，我们认为这归功于两点。首先，它让玩家能够在一个熟悉的领域发挥自己的创造力：普通的郊区住宅。除了建造和布置房屋，玩家还可以为模拟人设计自己的 “皮肤”，创造与自己（或其他人）相似的人。与《模拟城市》或《模拟大厦》等游戏相比，这款游戏实际上提供了更多的创意玩法，因为有更多不同的事情可以做。玩家还可以为自己的房子拍照，并将其存储在相册中，同时附上自己提供的文字评论，从而有效地创作出图文并茂的故事。他们还可以通过互联网分享所有这些内容。与市场上的其他游戏相比，这款游戏为玩家提供了更多的个人创造空间。
+《模拟人生》获得了巨大成功，我们认为这归功于两点。首先，它让玩家能够在一个熟悉的领域发挥自己的创造力：普通的郊区住宅。除了建造和布置房屋，玩家还可以为模拟人设计自己的“皮肤”，创造与自己（或其他人）相似的人。与《模拟城市》或《模拟大厦》等游戏相比，这款游戏实际上提供了更多的创意玩法，因为有更多不同的事情可以做。玩家还可以为自己的房子拍照，并将其存储在相册中，同时附上自己提供的文字评论，从而有效地创作出图文并茂的故事。他们还可以通过互联网分享所有这些内容。与市场上的其他游戏相比，这款游戏为玩家提供了更多的个人创造空间。
 
 The second reason for the success of The Sims is that it is about human relationships. The player's immediate objective in playing The Sims is to make sure his sims' physical needs are met, but his secondary, longer-term objective is to meet the sims' mental or emotional needs: fun, social interaction, and quality living space. The need for social interaction is considerably more complex because it involves building relationships with other people rather than simply interacting with objects, and those social interactions can produce emergent properties. Players enjoy watching and influencing these interactions. In fact, the player's imagination plays a very large role in the game, just as it does in playing with dolls. The sims are not terribly complex simulations, but players give them names and personalities and ascribe many more characteristics to them than they actually possess. This quality of imaginative play is actually another form of creativity that contributes strongly to its success, especially among female players.
 
