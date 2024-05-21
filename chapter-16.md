@@ -108,13 +108,13 @@ As for quantitative values such as weight, in humans, they tend to be controlled
 
 Mutation is a change to a gene that occurs as a result of some environmental factor. Radiation is well known as being mutagenic; so are some chemicals. Mutation has the benefit that it introduces random new values into the gene pool. Bear in mind that mutation doesn't normally affect the individual whose genes are mutated; it affects only his offspring. Of course, some of these changes can be detrimental or even lethal to the individual that inherits them. For the purposes of your game, you probably don't want to allow lethal mutations—those that produce miscarriages or stillborn offspring. If your creatures' gestation period is long, it wastes time and doesn't add anything of value to the gene pool.
 
-突变是由于某些环境因素导致基因发生变化。众所周知，辐射具有诱变性；某些化学物质也具有诱变性。突变的好处是可以在基因库中引入随机的新值。要知道，基因突变通常不会影响基因变异的个体，只会影响其后代。当然，有些变化可能会对继承这些变化的个体有害，甚至致命。在游戏中，你可能不希望出现致命的变异--那些会导致流产或死胎的变异。如果你的生物妊娠期很长，就会浪费时间，而且不会给基因库增加任何价值。
+突变是由于某些环境因素导致基因发生变化。众所周知，辐射具有诱变性；某些化学物质也具有诱变性。突变的好处是可以在基因库中引入随机的新值。要知道，基因突变通常不会影响基因变异的个体，只会影响其后代。当然，有些变化可能会对继承这些变化的个体有害，甚至致命。在游戏中，你可能不希望出现致命的变异——那些会导致流产或死胎的变异。如果你的生物妊娠期很长，就会浪费时间，而且不会给基因库增加任何价值。
 
 ### Life Span, Maturity, and Natural Selection 寿命、成熟度和自然选择
 
 Each of your creatures needs a natural life span, or your population will explode. (In Creatures, the life span of a Norn is about 30 real-time minutes.) If you want your population to evolve through natural selection—that is, to become better adapted to its environment—then your creatures also need a period of immaturity, when they are not fertile, followed by a period of maturity, when they are. Natural selection works only if it kills off creatures with maladaptive genes before they are old enough to reproduce. If creatures could reproduce immediately after they were born, maladaptive genes would never leave the gene pool. For example, suppose that a creature's genes are such that it is unable to recognize food. This creature should die of starvation very soon. Whatever genetic values determine its food-recognition ability are clearly maladaptive. However, if it can reproduce immediately, those genes will be passed on. For natural selection to take place, you will have to design environmental hazards or other mechanisms (such as starvation) that tend to kill off young individuals with poor genes before they get the chance to pass on those genes.
 
-你的每种生物都需要有一个自然寿命，否则你的种群就会爆炸（在《生物》中，诺恩的寿命大约为 30 实时分钟）。(在《生物》中，诺恩的寿命大约为 30 实时分钟。）如果你想让你的生物种群通过自然选择进化，也就是更好地适应环境，那么你的生物也需要一个不成熟期，也就是没有生育能力的时期，然后是成熟期，也就是有生育能力的时期。自然选择只有在具有不适应性基因的生物长大到足以繁衍后代之前将其杀死，才能发挥作用。如果生物在出生后就能立即繁殖，那么不适应的基因就永远不会离开基因库。例如，假设某种生物的基因导致它无法识别食物。这种生物应该很快就会饿死。决定它识别食物能力的基因值显然是不适应的。但是，如果它能立即繁殖，这些基因就会遗传下去。要进行自然选择，就必须设计环境危害或其他机制（如饥饿），在基因较差的年轻个体有机会传递这些基因之前，将它们杀死。
+你的每种生物都需要有一个自然寿命，否则你的种群就会爆炸（在《生物》中，诺恩的寿命大约为现实世界的 30 分钟）。如果你想让你的生物种群通过自然选择进化，也就是更好地适应环境，那么你的生物也需要一个不成熟期，也就是没有生育能力的时期，然后是成熟期，也就是有生育能力的时期。自然选择只有在具有不适应性基因的生物长大到足以繁衍后代之前将其杀死，才能发挥作用。如果生物在出生后就能立即繁殖，那么不适应的基因就永远不会离开基因库。例如，假设某种生物的基因导致它无法识别食物。这种生物应该很快就会饿死。决定它识别食物能力的基因值显然是不适应的。但是，如果它能立即繁殖，这些基因就会遗传下去。要进行自然选择，就必须设计环境危害或其他机制（如饥饿），在基因较差的年轻个体有机会传递这些基因之前，将它们杀死。
 
 (One of the reasons there are so many diseases associated with aging in humans is that those diseases catch you only after you have had the chance to reproduce. There's no natural selection against genes for arthritis and osteoporosis because those are diseases that occur later in life, after people have already had children.)
 
@@ -122,17 +122,17 @@ Each of your creatures needs a natural life span, or your population will explod
 
 If there's one thing we know about evolution, it's that it's very slow—at least, if it works purely through random mutation and natural selection (evidence is growing to suggest that it's more complex than that). The life span of the Norns in Creatures is really too long for the player to breed hundreds of generations. If you want evolution to be a part of your game, you'll need to find ways of making it work nonrandomly or keep the life span of your creatures very short. Of course, the shorter the lifespan is, the less chance a given creature has to exhibit an interesting behavior, so there's a balance to be struck.
 
-如果说我们对进化有什么认识的话，那就是它非常缓慢--至少，如果它纯粹是通过随机变异和自然选择来实现的话（越来越多的证据表明，进化比随机变异和自然选择更复杂）。生物》中诺恩斯的寿命实在是太长了，玩家不可能培育出数百代的诺恩斯。如果你想让进化成为游戏的一部分，就必须想办法让它非随机地发挥作用，或者让生物的寿命非常短。当然，生命周期越短，特定生物表现出有趣行为的机会就越少，因此需要取得平衡。
+如果说我们对进化有什么认识的话，那就是它非常缓慢——至少，如果它纯粹是通过随机变异和自然选择来实现的话（越来越多的证据表明，进化比随机变异和自然选择更复杂）。《生物》中诺恩的寿命实在是太长了，玩家不可能培育出数百代的诺恩。如果你想让进化成为游戏的一部分，就必须想办法让它非随机地发挥作用，或者让生物的寿命非常短。当然，生命周期越短，特定生物表现出有趣行为的机会就越少，因此需要取得平衡。
 
 ### Inheritance of Acquired Characteristics 后天特征的遗传
 
 > Long ago, in the morning of the world, the first zebra was pure white. But one day, there was a great fire amid the grasses of the savanna. The zebra stood deep in a pond for safety. When she came out, she was very wet. And as she passed through the burned grasses and reeds on the shore of the pond, the cinders left black stripes all along her sides. And from that day to this, all zebras have had black stripes along their sides.\
 > 
-> 很久以前，在世界的早晨，第一匹斑马是纯白色的。但是有一天，草原上的草丛中发生了一场大火。为了安全起见，斑马站在池塘深处。当它出来的时候，全身都湿透了。当它穿过池塘边被烧焦的草丛和芦苇时，焦炭在它的两侧留下了黑色的条纹。从那天起，所有斑马的体侧都有了黑色条纹。
+> 很久以前，在世界的早晨，第一匹斑马是纯白色的。但是有一天，草原上的草丛中发生了一场大火。为了安全起见，斑马站在池塘深处。当它出来的时候，全身都湿透了。当它穿过池塘边被烧焦的草丛和芦苇时，灰烬在它的两侧留下了黑色的条纹。从那天起，所有斑马的体侧都有了黑色条纹。
 
 Inheritance of acquired characteristics is a fancy term for this old children's-story idea. People used to think it was how evolution worked—if giraffes stretched up their necks to get food, the next generation of giraffes would have slightly longer necks, and so on. In fact, the opposite is true: Giraffes with short necks tend to starve without reproducing, leaving only giraffes with long necks in the gene pool. The outcome is the same, but the mechanism is entirely different. Stretching your neck doesn't change your genes.
 
-后天特征的遗传是这个古老的儿童故事观点的一个华丽术语。人们曾经认为这是进化的原理--如果长颈鹿伸长脖子去觅食，那么下一代长颈鹿的脖子就会稍长，以此类推。事实上，情况恰恰相反： 脖子短的长颈鹿往往不会繁衍后代就会饿死，基因库中只剩下脖子长的长颈鹿。结果是一样的，但机制却完全不同。伸长脖子并不会改变你的基因。
+后天特征的遗传是这个古老的儿童故事观点的一个华丽术语。人们曾经认为这是进化的原理——如果长颈鹿伸长脖子去觅食，那么下一代长颈鹿的脖子就会稍长，以此类推。事实上，情况恰恰相反：脖子短的长颈鹿往往不会繁衍后代就会饿死，基因库中只剩下脖子长的长颈鹿。结果是一样的，但机制却完全不同。伸长脖子并不会改变你的基因。
 
 However, you're designing a computer game. There's no reason you can't include inheritance of acquired characteristics if you want to. If the player pours blue ink over one of his creatures, that could change the creature's genes to produce blue offspring. In fact, this provides a convenient way for the player to do his own genetic engineering. Instead of fiddling with the creature's genes in a rather artificial user interface, he can fiddle with the creature directly to change its genes.
 
@@ -146,13 +146,13 @@ Notice that learned information is also an acquired characteristic. Humans are n
 
 Alternatively, the creatures could store the information in their brains and then begin to teach each other. Of course, you could allow the content of the teaching to change over time, producing behaviors slightly different from what the player originally intended. If certain teachings produce adaptive behavior, they themselves could be selected for, just as genes are. (The notion that ideas behave the way genes do is called memetics and is a highly controversial topic in academic circles. We're talking about computer games, however, and we can do whatever we like.)
 
-或者，生物可以将信息储存在大脑中，然后开始互相教授。当然，你也可以允许教学内容随着时间的推移而改变，从而产生与玩家最初意图略有不同的行为。如果某些教学内容能产生适应性行为，那么它们本身就会被选择，就像基因一样。(观念的行为方式与基因的行为方式相同的观点被称为记忆学，在学术界是一个极具争议的话题）。不过，我们现在讨论的是电脑游戏，我们可以为所欲为）。
+或者，生物可以将信息储存在大脑中，然后开始互相教授。当然，你也可以允许教学内容随着时间的推移而改变，从而产生与玩家最初意图略有不同的行为。如果某些教学内容能产生适应性行为，那么它们本身就会被选择，就像基因一样。(观念的行为方式与基因的行为方式相同的观点被称为记忆学，在学术界是一个极具争议的话题。不过，我们现在讨论的是电脑游戏，我们可以为所欲为）。
 
 ### How Many Sexes? 有几种性别？
 
 Sexual reproduction has the advantage over asexual reproduction in that it mixes up the genes and creates unique new individuals, which might be better adapted to their environment. You don't have to restrict your number of sexes to two, but it is the most efficient mechanism. Two is a convenient number of sexes because it has the maximum probability that two individuals of opposite sexes will find each other when roaming around their habitat.
 
-有性生殖比无性生殖更有优势，因为有性生殖可以混合基因，创造出独特的新个体，从而更好地适应环境。你不必把性别数量限制在两个，但这是最有效的机制。两只雌雄个体是一个很方便的数目，因为它有最大的概率让两只雌雄个体在它们的栖息地漫游时找到彼此。
+有性生殖比无性生殖更有优势，因为有性生殖可以混合基因，创造出独特的新个体，从而更好地适应环境。你不必把性别数量限制在两个，但这是最有效的机制。两种性别是很方便的，因为它有最大的概率让两个不同性别的个体在它们的栖息地漫游时会找到彼此。
 
 Here's an example. Let's assume that you have equal numbers of each sex in the population, and it takes a certain amount of time for a given individual to find another one and determine whether it is a member of the opposite sex. In a two-sex species, there's a 50-50 chance that any other individual is of the opposite sex; that's not bad odds. But if three sexes are required for reproduction, it is harder for all three to find each other. A given individual would need to find two others, which takes longer, and the odds aren't as good, either. Suppose that I'm of sex A, and I need to find two other creatures of sexes B and C, respectively. When I find the first one, the chance is one third that it is also of sex A (no use to me) and two thirds that it is of sex B or C, either of which will do for now. Let's suppose that it's of sex B. Now the two of us have to go hunt for another creature of sex C. The chance of any given creature being of sex C is only one third. So, the total probability that I'll find members of the sexes I need when I bump into two random individuals is only two ninths (2/3 x 1/3) instead of 50%. And of course, it gets worse the more sexes you have.
 
@@ -160,10 +160,9 @@ Here's an example. Let's assume that you have equal numbers of each sex in the p
 
 You don't have to stick to that rule of having equal numbers of each sex, however. Beehives contain one fertile female (the queen), hundreds of infertile females (the workers), and a few fertile males (the drones). The sex of creatures need not be determined by their genes, either. The sex of many reptiles is determined by the temperatures of their eggs during gestation. Eggs at the top of the pile, nearer the sun, develop into females; the cooler ones at the bottom develop into males.
 
-
 不过，你不必拘泥于男女数量相等的规则。蜂箱里有一只能生育的雌蜂（蜂王）、数百只不能生育的雌蜂（工蜂）和几只能生育的雄蜂（雄蜂）。生物的性别也不一定由基因决定。许多爬行动物的性别是由其妊娠期卵的温度决定的。位于卵堆顶端、靠近阳光的卵发育成雌性，而位于卵堆底部、温度较低的卵则发育成雄性。
 
-### What Does the Player Do?
+### What Does the Player Do? 玩家做什么？
 
 A genetic A-life game might not seem to have much for the player to do: Wind it up and watch it go. However, there is actually a fair number of things she might do. For example, she can create completely new individuals and add them to the population to observe how their genes influence the population. She can add and remove environmental hazards that would tend to weed out certain genes. She can play with the rate and nature of mutation by adding or modifying mutagenic objects or areas of the environment. She can also mate particular individuals to select for particular characteristics (with animals, this is considered useful and is called breeding; with people, it is considered evil and is called eugenics).
 
@@ -173,7 +172,7 @@ A genetic A-life game might not seem to have much for the player to do: Wind it 
 
 Many single-player computer games contain puzzles. In action games, you often have to figure out the boss opponent's weakness. Adventure games are full of puzzles, frequently about obtaining inaccessible objects or getting information from other people. Even first-person shooters have the occasional puzzle, figuring out how to get past locked doors and other obstacles. Puzzle design is an essential element of game design, and it's harder than it sounds.
 
-许多单人电脑游戏都包含谜题。在动作游戏中，你经常需要找出对手老大的弱点。冒险游戏中充满了谜题，经常是为了获得无法接近的物品或从其他人那里获取信息。即使是第一人称射击游戏也会偶尔出现谜题，比如如何穿过上锁的门和其他障碍。谜题设计是游戏设计的一个基本要素，它比听起来更难。
+许多单人电脑游戏都包含谜题。在动作游戏中，你经常需要找出首领敌人的弱点。冒险游戏中充满了谜题，经常是为了获得无法接近的物品或从其他人那里获取信息。即使是第一人称射击游戏也会偶尔出现谜题，比如如何穿过上锁的门和其他障碍。谜题设计是游戏设计的一个基本要素，它比听起来更难。
 
 Puzzle games are games that are primarily about puzzle solving, sometimes without incorporating the puzzles into a story line or larger goal. That doesn't mean that they're a random collection, however. Puzzle games are usually variations on a single theme. To be a commercial success, a puzzle game needs to be challenging (but not too hard), visually attractive, and, above all, enjoyable to play with. It also needs to be fresh and large enough to justify spending the money on. Although solitaire card games such as FreeCell belong in the class of puzzle games, unless you sell a lot of them together as a collection, people are unlikely to want to pay for them.
 
