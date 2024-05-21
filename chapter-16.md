@@ -278,6 +278,10 @@ Of course, sometimes games contain bugs that allow a player to cheat in some way
 > 3. Allow players to design their own puzzles. Any time players can build their own elements, it adds value to the game and helps create a community of devoted fans. Players can exchange their puzzles by email, post them on web sites, run tournaments, and enjoy all kinds of other activities, all of which is free publicity for the game.\
 > 允许玩家自己设计谜题。任何时候，只要玩家能够构建自己的元素，就能为游戏增添价值，并有助于创建一个由忠实粉丝组成的社区。玩家可以通过电子邮件交流自己的谜题，在网站上发布谜题，举办锦标赛，享受各种其他活动，所有这些都是对游戏的免费宣传。
 
+{% hint style="info" %}
+译者注：[《弹珠掉落》游玩视频](https://www.youtube.com/watch?v=q0_6wkCFyC4&list=PL697F2EB01AB11EE7&ab_channel=marbledropbr)。
+{% endhint %}
+
 # Games for Girls 女孩的游戏
 
 The game industry has always been overwhelmingly male, and male developers have tended to design games that they themselves would like (or would have liked when they were boys). For most of the industry's history, no one made an effort to design games specifically for girls, or to even to think much about what kinds of games girls would like. It was a Catch-22 situation: If you proposed a game for girls to a publisher, you would be met with the reply, "Girls don't play video games." But, of course, the reason they didn't play video games was that there weren't many games they liked to play—or, at least, that was the general perception. (Further research showed that this was an unfounded stereotype; far more girls played games than people realized, even though no one was considering their interests.)
