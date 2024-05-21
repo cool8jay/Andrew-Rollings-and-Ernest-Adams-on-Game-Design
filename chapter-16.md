@@ -214,8 +214,8 @@ Computers enable us to make a lot of puzzles that would be impossible or very ex
 
 计算机使我们能够制作出许多在现实世界中不可能完成或非常昂贵的谜题——例如[《不可思议的机器》](https://en.wikipedia.org/wiki/The_Incredible_Machine)中的所有机械零件。但是，即使一个谜题在物理上是可行的，计算机也可以添加一些有用的功能，让游戏变得更简单、更有趣。
 
-* **Enable nonphysical or awkward moves.** The computer can let players do things that don't correspond to physical actions in the real world—for example, changing the color of something. You can also let the player control several things at once with just one key, something that would be awkward to do in a physical implementation.\
-**启用非物理或笨拙的动作。**电脑可以让玩家做一些与现实世界中的物理动作不对应的事情——例如，改变某些东西的颜色。你还可以让玩家只用一个键就能同时控制几件事情，而这在物理实现中是很难做到的。
+* **Enable nonphysical or awkward moves.**The computer can let players do things that don't correspond to physical actions in the real world—for example, changing the color of something. You can also let the player control several things at once with just one key, something that would be awkward to do in a physical implementation.\
+**启用非物理或困难的动作。**电脑可以让玩家做一些与现实世界中的物理动作不对应的事情——例如，改变某些东西的颜色。你还可以让玩家只用一个键就能同时控制几件事情，而这在物理实现中是很难做到的。
 
 * **Include computation features.** You can use the computing power available to automatically generate new puzzles, find solutions to the current puzzle, or generate hints about what the player should do next.\
 **包含计算功能。**你可以利用现有的计算能力自动生成新的谜题，找到当前谜题的解决方案，或者生成关于玩家下一步该做什么的提示。
@@ -230,23 +230,23 @@ Computers enable us to make a lot of puzzles that would be impossible or very ex
 **安排体验的结构。**如果有必要，电脑允许你按照特定的顺序展示体验，自动从一个阶段过渡到另一个阶段，如果你的游戏需要这样的话。在现实世界中，玩家会看着说明说：“让我想想，接下来我该怎么做？”
 
 * Teach. You can include tutorial modes and step-by-step instructions to help your player get into the game.\
-教学。你可以在游戏中加入教程模式和逐步说明，帮助玩家进入游戏。
+**教学。**你可以在游戏中加入教程模式和逐步说明，帮助玩家进入游戏。
 
 * Utilize bells and whistles. Obviously, with sound and animation, you can make a puzzle much more aesthetically interesting on the computer than it would be as a physical object.\
-利用铃声和口哨声。很明显，通过声音和动画，你可以让电脑上的谜题比实物上的谜题更有美感。
+**利用附加功能。**很明显，通过声音和动画，你可以让电脑上的谜题比实物上的谜题更有美感。
 
 * Enable online play. The computer lets players compete against one another, compare solutions, and be part of a puzzle-solving community.\
-启用在线游戏。玩家可以在电脑上相互竞争，比较解题方法，并成为解谜社区的一员。
+**启用在线游戏。**玩家可以在电脑上相互竞争，比较解题方法，并成为解谜社区的一员。
 
 ## Checking the Victory Condition 检查胜利条件
 
 Bear in mind that players don't always find the solution to a puzzle the same way that you did when you invented it. There might be more than one path to the goal. When your game is checking to see whether the puzzle has been solved, you should test only to see if the player has met the victory condition you gave her, not that she has done it in the way you expected. Otherwise, you've cheated her, and she'll be very frustrated. She's managed to get to the correct solution state, but your game refuses to recognize it.
 
-请记住，玩家并不总是能像你一样找到谜题的答案。通往目标的路径可能不止一条。当游戏检测谜题是否被解开时，你应该只检测玩家是否满足了你给她设定的胜利条件，而不是她是否按照你预期的方式完成了任务。否则，你就欺骗了她，她会非常沮丧。她已经成功进入了正确的解题状态，但你的游戏却拒绝承认这一点。
+记住，玩家找到谜题的解决方案并不总是和你当初发明它时的方式相同。达到目标可能不止一条路径。当你的游戏检查谜题是否被解决时，你应该只测试玩家是否达到了你给她的胜利条件，而不是她是否以你预期的方式完成。否则，你就欺骗了她，她会非常沮丧。她已经成功地找到了正确的解决方案，但你的游戏却拒绝承认。
 
 This problem occurred in the game [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776). It wasn't a puzzle game, but one of the levels did contain a puzzle of sorts. The player was driving an armed and armored car around in an area enclosed by a concrete wall, and the victory condition for winning the level stated that (among other things) it was necessary to get out of the enclosed area somehow. The game's designers had put in a hidden ramp, which they wanted players to find and use to drive out of the area. However, players of the game discovered that there was another way to get out. If a player dropped a land mine near the wall and then drove toward it at full speed, the force of the explosion would lift the car high enough to clear the wall, and the car would fly over it and out. Unfortunately, the software didn't test for the solution state given: Is the car outside the wall? Instead, it tested to see if the ramp was being used. If a player got out without using the ramp, it didn't know that the level was finished, even though the victory condition had been met.
 
-这个问题出现在游戏[《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)中。这并不是一款益智游戏，但其中一个关卡确实包含了一个谜题。玩家驾驶着一辆武装装甲车在一个被水泥墙围起来的区域内行驶，而关卡的胜利条件是（除其他事项外）必须以某种方式离开这个被围起来的区域。游戏的设计者设置了一个隐藏的斜坡，他们希望玩家找到并利用这个斜坡驶出该区域。然而，游戏的玩家发现，还有另一种方法可以出去。如果玩家在墙壁附近投下一枚地雷，然后全速驶向墙壁，爆炸的威力就会将汽车掀起足够高的高度，使汽车越过墙壁飞出去。遗憾的是，软件并没有测试给出的解决方案状态： 汽车是否在墙外？而是测试斜坡是否被使用。如果玩家没有使用斜坡就冲了出去，那么即使胜利条件已经满足，软件也不知道关卡已经完成。
+这个问题出现在游戏[《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)中。这并不是一款益智游戏，但其中一个关卡确实包含了一个谜题。玩家驾驶着一辆武装装甲车在一个被水泥墙围起来的区域内行驶，而关卡的胜利条件是（除其他事项外）必须以某种方式离开这个被围起来的区域。游戏的设计者设置了一个隐藏的斜坡，他们希望玩家找到并利用这个斜坡驶出该区域。然而，游戏的玩家发现，还有另一种方法可以出去。如果玩家在墙壁附近投下一枚地雷，然后全速驶向墙壁，爆炸的威力就会将汽车掀起足够高的高度，使汽车越过墙壁飞出去。遗憾的是，软件并没有测试给定的解决方案状态：汽车是否在墙外？而是测试是否使用了斜坡。如果玩家没有使用斜坡就冲了出去，那么即使胜利条件已经满足，它也不知道关卡已经完成。
 
 Of course, sometimes games contain bugs that allow a player to cheat in some way and reach a solution by a means that's completely outside the rules. In [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776), however, the trick with the land mine wasn't a bug; it was just an innovative solution that the designers didn't consider. When the software is checking the victory condition, be sure it's checking the solution state that you told the player to achieve, not the way in which he achieved it.
 
