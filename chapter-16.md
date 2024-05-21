@@ -42,7 +42,7 @@ Because an artificial pet doesn't have much of a challenge or a victory conditio
 
 因为人造宠物没有太多的挑战或胜利条件（除了训练它做一些特定的事情），所以它只是一个软件玩具，而不是游戏。(“软件玩具”是由[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)的原设计者威尔·赖特创造的一个术语，指的是那些你只是随便玩玩，而不试图打败对手或取得胜利的娱乐软件）。人造宠物的娱乐性来自于观察它的行为和与它的互动。在图 16.1 所示的 [《宠物》](https://en.wikipedia.org/wiki/Petz) 中，你可以看到三只猫，它们都在与周围的事物互动。其中一只猫只是坐在一块地毯上，但它知道这是一块地毯，并选择坐在上面而不是其他地方。人造宠物有大量玩家会反复看到的行为，而其他行为则很少出现。为了确保玩家不会对它感到厌倦，平衡它的部分工作就是确保这些罕见行为出现的频率足以让玩家看到它们，但又不会认为它们是理所当然的。
 
-Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 中的 Petz。
+Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 的 《宠物》。
 
 ![](.gitbook/assets/16.1.png)
 
