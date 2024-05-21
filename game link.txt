@@ -19,6 +19,12 @@
 [Sim City](https://en.wikipedia.org/wiki/SimCity)
 [《模拟城市》](https://en.wikipedia.org/wiki/SimCity)
 
+[Sim Tower](https://en.wikipedia.org/wiki/SimTower)
+[《模拟大厦》](https://en.wikipedia.org/wiki/SimTower)
+
+[Little Computer People](https://en.wikipedia.org/wiki/Little_Computer_People)
+[《小小电脑人》](https://en.wikipedia.org/wiki/Little_Computer_People)
+
 [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776)
 [《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)
 
@@ -322,6 +328,9 @@
 [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game))
 [《旅鼠》](https://en.wikipedia.org/wiki/Lemmings_(video_game))
 
+[Petz](https://en.wikipedia.org/wiki/Petz)
+[《宠物》](https://en.wikipedia.org/wiki/Petz)
+
 [Blue Byte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte)
 
 [Legacy of Kain: Soul Reaver](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver)
@@ -337,3 +346,9 @@
  
  [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter)
  [《杰克与达克斯特》](https://en.wikipedia.org/wiki/Jak_and_Daxter)
+ 
+ [Marble Drop](https://en.wikipedia.org/wiki/Marble_Drop)
+ [《弹珠掉落》](https://en.wikipedia.org/wiki/Marble_Drop)
+ 
+ [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series))
+ [《生物》](https://en.wikipedia.org/wiki/Creatures_(video_game_series))

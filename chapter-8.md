@@ -467,7 +467,7 @@ As with all tools, emergence has to be used with care. In the prior example, the
 
 For example, a series of artificial life games, the [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series)) series from CyberLife, relies heavily on emergence (see Figure 8.13). The behavior of the life-forms, the Norns, is determined by a neural network. Although this is a prime example of emergence, it also gives us an example of why emergence isn't the universal panacea it is claimed to be. The problem stems from the fact that Norns learn by positive and negative reinforcement: If something feels good, they'll keep doing it, and if something feels bad, they won't. There's nothing inherently wrong with this—in fact, it's probably the only sensible approach, because it seems to work well enough in the real world. However, within the simplified world of the Norns, it has some unfortunate side effects.
 
-例如，CyberLife 公司推出的人工生命游戏[生物](https://en.wikipedia.org/wiki/Creatures_(video_game_series))系列就在很大程度上依赖于涌现（见图 8.13）。生命体“诺恩”的行为是由神经网络决定的。虽然这是涌现的一个典型例子，但它也给我们提供了一个例子，说明为什么涌现并不像人们所说的那样是万能的。问题源于诺恩通过正强化和负强化来学习：如果感觉良好，他们就会继续做，如果感觉不好，他们就不会做。这本身并没有什么问题，事实上，这可能是唯一合理的方法，因为它在现实世界中似乎足够有效。然而，在简化的诺恩世界中，它却有一些令人遗憾的副作用。
+例如，CyberLife 公司推出的人工生命游戏[《生物》](https://en.wikipedia.org/wiki/Creatures_(video_game_series))系列就在很大程度上依赖于涌现（见图 8.13）。生命体“诺恩”的行为是由神经网络决定的。虽然这是涌现的一个典型例子，但它也给我们提供了一个例子，说明为什么涌现并不像人们所说的那样是万能的。问题源于诺恩通过正强化和负强化来学习：如果感觉良好，他们就会继续做，如果感觉不好，他们就不会做。这本身并没有什么问题，事实上，这可能是唯一合理的方法，因为它在现实世界中似乎足够有效。然而，在简化的诺恩世界中，它却有一些令人遗憾的副作用。
 
 Figure 8.13. Creatures. 图 8.13. 生物
 
