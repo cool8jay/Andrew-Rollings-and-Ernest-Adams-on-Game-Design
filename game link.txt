@@ -4,9 +4,6 @@
 [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))
 [《蜈蚣》](https://en.wikipedia.org/wiki/Centipede_(1998_video_game))
 
-[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong)
-[《大金刚》](https://en.wikipedia.org/wiki/Donkey_Kong)
-
 [Super Mario Sunshine](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)
 [《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)
 
@@ -39,6 +36,12 @@
 
 [Dead or Alive 3](https://en.wikipedia.org/wiki/Dead_or_Alive_3)
 [《死或生三》](https://en.wikipedia.org/wiki/Dead_or_Alive_3)
+
+[The Settlers](https://en.wikipedia.org/wiki/The_Settlers)
+[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)
+
+[The Settlers III](https://en.wikipedia.org/wiki/The_Settlers_III)
+[《工人物语三》](https://en.wikipedia.org/wiki/The_Settlers_III)
 
 [Tom Hall](https://en.wikipedia.org/wiki/Tom_Hall)
 [汤姆·霍尔](https://en.wikipedia.org/wiki/Tom_Hall)
@@ -282,9 +285,6 @@
 [Sin](https://en.wikipedia.org/wiki/Sin_(video_game))
 [《罪》](https://en.wikipedia.org/wiki/Sin_(video_game))
 
-[Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
-[《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)
-
 [Sinistar](https://en.wikipedia.org/wiki/Sinistar)
 
 [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
@@ -316,3 +316,4 @@
 [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online)
 [《网络创世纪》](https://en.wikipedia.org/wiki/Ultima_Online)
 
+[Blue Byte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte)
