@@ -44,7 +44,7 @@ Because an artificial pet doesn't have much of a challenge or a victory conditio
 
 Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 中的 Petz。
 
-graphics/16fig01.gif
+> ![](.gitbook/assets/16.1.png)
 
 ## The Sims 模拟人生
 
@@ -263,7 +263,7 @@ Of course, sometimes games contain bugs that allow a player to cheat in some way
 >  游戏由一系列谜题组成，每个谜题都涉及建造一个类似鲁布·戈德堡的机器来完成某项任务。每台机器都建在一个二维空间里，上面可以放置各种机械装置。(其中一些装置实际上是动物，它们可以被噪音吓到或被食物引诱）。谜题开始时，一些物体已经就位，胜利条件说明了玩家要完成的任务（例如，戳破气球）。玩家被给予有限数量的额外装置来放置在区域内。游戏的目的是放置这些装置并将它们连接起来，当机器开始运转时，目标就达到了。玩游戏的过程包括在机器上添加元素、尝试、调整、再尝试，等等。图 16.2 显示了[《不可思议的机器》](https://en.wikipedia.org/wiki/The_Incredible_Machine)中的一个场景。目标位于左侧。可用部件位于主工作区下方的区域。
 > Figure 16.2. The Incredible Machine. 图 16.2. 《不可思议的机器》。
 > 
-> graphics/16fig02.gif
+> ![](.gitbook/assets/16.2.png)
 > 
 > Scott Kim has identified three key design decisions that he feels have made [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) the prototypical construction puzzle game.
 > 
@@ -278,83 +278,139 @@ Of course, sometimes games contain bugs that allow a player to cheat in some way
 > 3. Allow players to design their own puzzles. Any time players can build their own elements, it adds value to the game and helps create a community of devoted fans. Players can exchange their puzzles by email, post them on web sites, run tournaments, and enjoy all kinds of other activities, all of which is free publicity for the game.\
 > 允许玩家自己设计谜题。任何时候，只要玩家能够构建自己的元素，就能为游戏增添价值，并有助于创建一个由忠实粉丝组成的社区。玩家可以通过电子邮件交流自己的谜题，在网站上发布谜题，举办锦标赛，享受各种其他活动，所有这些都是对游戏的免费宣传。
 
-# Games for Girls
+# Games for Girls 女孩的游戏
 
 The game industry has always been overwhelmingly male, and male developers have tended to design games that they themselves would like (or would have liked when they were boys). For most of the industry's history, no one made an effort to design games specifically for girls, or to even to think much about what kinds of games girls would like. It was a Catch-22 situation: If you proposed a game for girls to a publisher, you would be met with the reply, "Girls don't play video games." But, of course, the reason they didn't play video games was that there weren't many games they liked to play—or, at least, that was the general perception. (Further research showed that this was an unfounded stereotype; far more girls played games than people realized, even though no one was considering their interests.)
 
+游戏行业一直以来都是男性占主导地位，男性开发者倾向于设计他们自己会喜欢的游戏（或者当他们还是男孩时会喜欢的游戏）。在游戏行业的大部分历史中，没有人专门为女孩设计游戏，甚至没有人考虑过女孩会喜欢什么样的游戏。这是一个自相矛盾的局面：如果你向出版商推荐一款针对女孩的游戏，你会得到这样的回答：“女孩不玩电子游戏。”当然，她们不玩电子游戏的原因是她们喜欢玩的游戏不多——至少，这是普遍的看法。(进一步的研究表明，这是毫无根据的刻板印象；玩游戏的女孩比人们意识到的要多得多，尽管没有人考虑到她们的兴趣）。
+
 In the mid-1990s, a number of people realized that girls represented an untapped market, and several companies were set up to exploit it. One in particular, Purple Moon, did a great deal of research to try to discover how girls play games and what kinds of games they would like. Unfortunately, the games that Purple Moon published on the basis of this research took little time to finish, and they offered less value for the money than most other games did. They didn't sell very well, and eventually Purple Moon got into financial trouble and was sold to Mattel, the toy company. Industry attention waned, and games for girls ceased to be a major subject of debate.
+
+20 世纪 90 年代中期，一些人意识到女孩是一个尚未开发的市场，于是成立了几家公司来开发这个市场。其中，紫月公司（Purple Moon）做了大量研究，试图发现女孩是如何玩游戏的，以及她们喜欢什么样的游戏。遗憾的是，紫月公司根据这些研究成果出版的游戏耗时甚短，性价比也不如其他大多数游戏。这些游戏的销量并不理想，最终紫月公司陷入了财务困境，被卖给了玩具公司美泰。业界的关注度逐渐减弱，女孩游戏也不再是人们争论的焦点。
 
 However, we think it's an area worth discussing because some people are continuing to make money with games for girls, and this remains an underserved market. Remember, however, that we're talking about girls, not women. Adults are more diverse than children are: They live in a larger world, and they've been exposed to more things and have a wider variety of interests. Don't make the assumption that what applies to girls also applies to women generally.
 
-## Mattel's Approach
+然而，我们认为这是一个值得讨论的领域，因为有些人仍在通过女孩游戏赚钱，而这仍然是一个服务不足的市场。但请记住，我们谈论的是女孩，而不是女性。成年人比儿童更加多样化：他们生活在更广阔的世界里，接触的事物更多，兴趣也更广泛。不要假设适用于女孩的东西也适用于一般女性。
+
+## Mattel's Approach 美泰的方法
 
 If you want to make games specifically for girls, as opposed to games that appeal to children of both sexes, you have to ask yourself what girls are especially interested in—and, perhaps more important, what they're not interested in. For the answer, you need look no farther than Mattel. Mattel is the manufacturer of Barbie®, the single most famous toy for girls in the world. Mattel has had great success developing games for girls because it understands its target market. (Mattel doesn't publish software itself anymore, but it licenses its brands to others.)
 
+如果你想专门为女孩制作游戏，而不是吸引男女儿童的游戏，你就必须问问自己，女孩对什么特别感兴趣——也许更重要的是，她们对什么不感兴趣。要想知道答案，美泰是不二之选。美泰是芭比娃娃的制造商，芭比娃娃是世界上最著名的女孩玩具。美泰在为女孩开发游戏方面取得了巨大成功，因为它了解自己的目标市场。(美泰不再自己发布软件，而是将其品牌授权给其他公司）。
+
 Part of the reason for Barbie's success is that she follows a proven, time-tested formula. She is aimed a core age group from four to eight years old; after that, girls' interests change, and Mattel does not try for a one-size-fits-all approach. The company has no social agenda and makes no claim of political correctness.
 
-Jesyca Durchin is the owner of the consulting company Nena Media (www.nenamedia.com), which creates media content for young girls, and is a former executive producer for Mattel. At the 2000 Game Developers' Conference, she gave an extremely useful summary of what she had learned about how girls in this age group play games:
+芭比娃娃之所以成功，部分原因在于她遵循了一个经过时间考验的成熟模式。她的目标群体是 4 至 8 岁的核心年龄段；在此之后，女孩的兴趣会发生变化，美泰公司不会尝试一刀切的方法。该公司没有社会议程，也不声称政治正确。
 
-> **Developing Games for Girls**
+Jesyca Durchin is the owner of the consulting company Nena Media ([www.nenamedia.com](www.nenamedia.com)), which creates media content for young girls, and is a former executive producer for Mattel. At the 2000 Game Developers' Conference, she gave an extremely useful summary of what she had learned about how girls in this age group play games:
 
-> Girls Have a Wide Variety of Interests
+杰西卡·达奇是咨询公司 Nena Media ([www.nenamedia.com](www.nenamedia.com)) 的所有人，该公司专门为年轻女孩制作媒体内容，她还曾担任过美泰公司的执行制作人。在 2000 年的游戏开发者大会上，她对自己了解到的这个年龄段的女孩是如何玩游戏的进行了非常有用的总结：
 
+> **Developing Games for Girls 为女孩开发游戏**
+>
+> Girls Have a Wide Variety of Interests 女孩的兴趣多种多样
+>
 > It is vital to identify what type of girl is interested in your type of game. Girls are much more fragmented in their interests than boys. Girls change more rapidly, and their emotional and intellectual growth happens differently. A girl will have different needs in her playtime almost every year of her childhood—loosely defining childhood to be ages 4 to 14.
-
+> 
+> 确定哪种类型的女孩对你的游戏感兴趣至关重要。女孩的兴趣要比男孩分散得多。女孩的变化更快，她们的情感和智力成长也不同。女孩几乎在童年的每一年都会有不同的游戏需求——童年可宽泛地定义为 4 至 14 岁。
+>
 > Hinge Interactivity on Proven Play Patterns
-
+> 
+> 将互动性建立在成熟的游戏模式之上
+>
 > A play pattern is a traditional and almost instinctual way a child will approach an object or an activity to entertain her. Girls traditionally value the following:
-
+> 
+> 游戏模式是一种传统的、近乎本能的方式，孩子会用这种方式来对待一件物品或一项活动，以此来娱乐自己。女孩历来重视以下方面：
+>
 > * Fashion play
-
+> 时尚游戏
+>
 > * Glamour play
-
+> 魅力游戏
+>
 > * Nurture play
-
+> 培养游戏
+>
 > * Adventure play
-
+> 冒险游戏
+>
 > * Action/twitch play
-
+> 动作/反应游戏
+>
 > * Collection play
-
+> 收集游戏
+>
 > * Communication/social play
-
+> 交流/社交游戏
+>
 > As well as exercising their own imaginations, girls like to reproduce daily life in play. Barbie is a vehicle for projecting adult activities into a child's world. Don't be afraid of open-ended or non–goal-oriented play.
-
-> **Girls Like Stuff**
-
+> 
+> 除了发挥自己的想象力，女孩们还喜欢在游戏中再现日常生活。芭比娃娃是将成人活动投射到孩子世界的载体。不要害怕开放式或无目标的游戏。
+>
+> **Girls Like Stuff 女孩喜欢的东西**
+>
 > Stuff is what the girl can collect, display, or take away from the product. It is incredibly important for the girl to feel there is a reason for her to play. In some ways, collecting stuff replaces the concept of scoring in traditional boy's software. Collecting each one of a variety of shells, for example, is more interesting than trying to achieve a high, but abstract, numerical score.
-
-> **Create Environments That Are Attractive to Girls**
-
+>
+> 物品是女孩可以收集、展示或带走的东西。让女孩感觉到玩游戏是有原因的，这一点非常重要。在某种程度上，收集物品取代了传统男孩软件中的得分概念。例如，收集各种贝壳，比试图获得一个高分但抽象的数字分数更有趣。
+>
+> **Create Environments That Are Attractive to Girls 创造对女孩有吸引力的环境**
+>
 > Girls like environments that are reality-based but either are beautiful or make sense to the story line. Symmetry and color coherency are important to girls. Not everything has to be pink, purple, and pretty, but each environment should give the girl the feeling of being in another place. Girls (and boys) are highly imaginative, and they will create alternative story lines in their own heads. Be aware that the girl's imagination will influence her view of your environment.
-
-> **Girls Appreciate Sensual Interfaces**
-
+>
+> 女孩喜欢基于现实的环境，但要么美观，要么对故事情节有意义。对称性和色彩一致性对女孩来说很重要。并不是所有的东西都必须是粉色、紫色和漂亮的，但每个环境都应让女孩有身临其境的感觉。女孩（和男孩）的想象力都很丰富，她们会在自己的脑海中创造出不同的故事情节。要知道，女孩的想象力会影响她对环境的看法。
+>
+> **Girls Appreciate Sensual Interfaces 女孩欣赏感性的界面**
+>
 > Girls tend to respond more positively to what I refer to as the sensual interface. They need colorful, sound-driven interfaces that "feel" good. The interface needs to feel magical and needs to have what I call the brrrring factor. Don't give girls a group of identical gray pushbuttons, no matter how logically organized they may be; give them buttons that ring and change shape and color.
-
-> **Extend the Play from Existing Toys or Media into Software**
-
+> 
+> 女孩往往对我所说的感性界面有更积极的反应。她们需要色彩丰富、声音驱动、“感觉”良好的界面。界面需要有神奇的感觉，需要有我所说的“刺激”因素。不要给女孩们一组完全相同的灰色按钮，不管它们的逻辑组织有多么合理；要给她们一些会响、会改变形状和颜色的按钮。
+>
+> **Extend the Play from Existing Toys or Media into Software 将现有玩具或媒体的玩法扩展到软件中**
+>
 > Branding is becoming more and more important in the business of software. It is doubly important in the girl's software business because girls are still just getting involved in viewing the computer as an entertainment tool. Branding is important to rising above all the muck.
-
-> **Don't Be Ashamed of Your Work**
-
+>
+> 在软件行业中，品牌变得越来越重要。在女孩的软件业务中，这一点加倍重要，因为女孩们还刚刚开始将电脑视为一种娱乐工具。要想在芸芸众生中脱颖而出，品牌建设非常重要。
+>
+> **Don't Be Ashamed of Your Work 不要为自己的工作感到羞愧**
+>
 > If you're embarrassed by what you're doing, it will show. Do it wholeheartedly or don't do it at all. Girls can tell if you're ashamed of making games for them. If you're uncomfortable using terms like "hair play" or "relationship games," don't bother.
+> 
+> 如果你对自己的工作感到羞愧，就会表现出来。要么全心全意地做，要么就别做。女孩们可以看出你是否因为为她们制作游戏而感到羞愧。如果你对使用“头发游戏”或“关系游戏”这样的术语感到不自在，那就别费心了。
 
-
-## A Few Misconceptions
+## A Few Misconceptions 一些误解
 
 Because people see fewer girls playing hard-core games than boys, they have tended to jump to conclusions about what girls want.
 
-* Girls don't like computer games because computers are techie. This is patently false. Although most girls and women generally are less fascinated by the technical details of computers than boys and men are, that doesn't discourage them from playing computer games any more than automotive specifications discourage them from driving cars.
+因为人们看到玩硬核游戏的女孩比男孩少，所以往往会对女孩的需求妄下结论。
 
-* Girls don't like violence. No, what girls don't like is nonstop, meaningless violence. It's not so much that they're repulsed by it as that they're bored by it. It doesn't stimulate their imaginations. If you've seen one explosion, you've seen them all.
+* Girls don't like computer games because computers are techie. This is patently false. Although most girls and women generally are less fascinated by the technical details of computers than boys and men are, that doesn't discourage them from playing computer games any more than automotive specifications discourage them from driving cars.\
+女孩不喜欢电脑游戏，因为电脑是高科技产品。这显然是错误的。虽然大多数女孩和女性对电脑技术细节的着迷程度普遍低于男孩和男性，但这并不妨碍她们玩电脑游戏，就像汽车技术规范并不妨碍她们驾驶汽车一样。
 
-* Girls want everything to be happy and sweet. Not true. Ever see a group of girls setting up a party and planning to exclude someone? Girls are perfectly capable of being deliberately hurtful. If you read books written specifically for girls, you'll see that they're not just saccharine from one end to the other. Girls like stories filled with mystery, suspense, even danger—but again, it has to be meaningful, not just random or pointless.
+* Girls don't like violence. No, what girls don't like is nonstop, meaningless violence. It's not so much that they're repulsed by it as that they're bored by it. It doesn't stimulate their imaginations. If you've seen one explosion, you've seen them all.\
+女孩不喜欢暴力。不，女孩不喜欢的是无休止的、毫无意义的暴力。与其说她们排斥暴力，不如说她们厌烦暴力。暴力无法激发她们的想象力。如果你看过一次爆炸，那你就看过了所有的爆炸。
 
-* Girls don't like to be scared. This is only partially true. Jesyca Durchin makes a useful distinction between spooky and scary. Girls like things that are spooky but not scary. The abandoned house that contains a clue to the mystery, or the carnival at night, are spooky. Walking through dark streets with a murderer on the loose is scary. Spooky is about the possibility of being startled or frightened; scary is about the possibility of being hurt or killed.
+* Girls want everything to be happy and sweet. Not true. Ever see a group of girls setting up a party and planning to exclude someone? Girls are perfectly capable of being deliberately hurtful. If you read books written specifically for girls, you'll see that they're not just saccharine from one end to the other. Girls like stories filled with mystery, suspense, even danger—but again, it has to be meaningful, not just random or pointless.\
+女孩们希望一切都幸福甜蜜。不是这样的。你见过一群女孩在开派对的时候计划把谁排除在外吗？女孩们完全可以故意伤害别人。如果你读过专门为女孩写的书，你就会发现它们并不是从头到尾都是糖衣炮弹。女孩喜欢充满神秘、悬念甚至危险的故事——但同样，这些故事必须是有意义的，而不是随意的或毫无意义的。
 
-## A Final Note
+* Girls don't like to be scared. This is only partially true. Jesyca Durchin makes a useful distinction between spooky and scary. Girls like things that are spooky but not scary. The abandoned house that contains a clue to the mystery, or the carnival at night, are spooky. Walking through dark streets with a murderer on the loose is scary. Spooky is about the possibility of being startled or frightened; scary is about the possibility of being hurt or killed.\
+女孩不喜欢被惊吓。这只说对了一部分。杰西卡·达奇对“诡异”和“恐怖”做了有用的区分。女孩喜欢阴森但不恐怖的东西。包含神秘线索的废弃房屋或夜晚的嘉年华都是阴森恐怖的。而在杀人犯逍遥法外的黑暗街道上行走则是可怕的。阴森是指可能受到惊吓或恐惧；可怕是指可能受到伤害或死亡。
+
+## A Final Note 最后说明
 
 Bear in mind that these are generalities. In her 1989 book Gender Blending, Holly Devor quoted studies that showed that as many as 50% of heterosexual women identified themselves has having been tomboys as children. We wouldn't claim that the characteristics described previously appeal to all girls, but they certainly appeal to many. You should take them into consideration if you're trying to make a game for them.
 
+请记住，这些都是概括性的。霍利·德沃尔在其 1989 年出版的《性别混合》一书中引用的研究表明，多达 50%的异性恋女性认为自己小时候是假小子。我们不敢说前面描述的特征对所有女孩都有吸引力，但肯定对很多女孩有吸引力。如果你想为她们制作一款游戏，就应该考虑到这些特点。
+
 Some developers, both male and female, are repulsed by the idea of making games about hair and clothing and makeup; they feel that this perpetuates a stereotype of femininity. Although there's some merit in that argument, goodness knows that a vastly larger number of games perpetuate a much more unfortunate stereotype of masculinity: They depict men (and reward players) who are violent, greedy, wanton, and monomaniacal. To condemn games for girls on the basis that they're stereotypical is to establish an unfair double standard.
+
+一些开发者，无论是男性还是女性，都对制作关于发型、服装和化妆的游戏感到反感；他们认为这延续了对女性的刻板印象。虽然这种说法有一定道理，但天知道有更多的游戏在延续一种更不幸的男性刻板印象：它们描绘的男性（以及奖励玩家）是暴力、贪婪、恣意妄为和癫狂的。以刻板印象为由谴责女孩的游戏，是建立了不公平的双重标准。
+
+# Putting It Together 总结
+
+We've divided our book into genres because there are distinct differences in the ways various genres are designed. An action game for the Nintendo GameCube has very little in common with a construction and management simulation for the PC: The target market is different, the user interface is different, and the internal economy of the game is different. This chapter has been a bit of a catchall for other categories that don't get as much attention.
+
+我们将本书分为不同类型，是因为各种类型的设计方式存在明显差异。任天堂 GameCube 的动作游戏与 PC 的建筑和管理模拟游戏几乎没有共同之处：目标市场不同，用户界面不同，游戏的内部经济也不同。本章就像一个大杂汇，涵盖了其他一些不太受关注的类别。
+
+We strongly encourage you not to become a slave to these divisions. It's true that some genres don't mix well—an adventure gamer will be annoyed if you suddenly make her play an action game—but we will only fully exploit the possibilities of our medium by testing its boundaries, not by remaining within safe little pigeonholes. Ultimately, what matters is that your game is entertaining and rewarding to play. If you have a game in mind that doesn't fit one of these categories, you might have a harder time persuading jaded industry executives to fund it, but try not to compromise your vision if you can. Both your game and the players will be better off for it.
+
+我们强烈建议你不要成为这样划分的奴隶。的确，有些类型不能很好地融合在一起，比如冒险游戏玩家会因为你突然让她玩动作游戏而恼火，但我们只有通过测试游戏的界限，而不是停留在安全的小鸽子笼里，才能充分发挥游戏媒介的可能性。归根结底，最重要的是你的游戏具有娱乐性，玩起来有成就感。如果你心目中的游戏不符合这些类别中的任何一类，那么你可能很难说服厌倦的行业高管为其提供资金，但如果可以的话，尽量不要妥协你的愿景。你的游戏和玩家都会因此而受益。
