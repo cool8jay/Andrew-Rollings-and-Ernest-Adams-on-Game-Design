@@ -169,7 +169,7 @@ A genetic A-life game might not seem to have much for the player to do: Wind it 
 
 基因 A-Life 游戏似乎没有太多玩家可做的事情：给它上发条，看着它走。然而，玩家实际上可以做很多事情。例如，她可以创造全新的个体，并将其添加到种群中，观察它们的基因如何影响种群。她可以添加或移除会淘汰某些基因的环境危害。她可以通过添加或改变环境中的致突变物体或区域来改变突变的速度和性质。她还可以让特定的个体交配，以选择特定的特征（对于动物，这被认为是有益的，被称为育种；对于人，这被认为是邪恶的，被称为优生学）。
 
-# Puzzle Games 解谜游戏
+# Puzzle Games 益智游戏
 
 Many single-player computer games contain puzzles. In action games, you often have to figure out the boss opponent's weakness. Adventure games are full of puzzles, frequently about obtaining inaccessible objects or getting information from other people. Even first-person shooters have the occasional puzzle, figuring out how to get past locked doors and other obstacles. Puzzle design is an essential element of game design, and it's harder than it sounds.
 
@@ -177,7 +177,7 @@ Many single-player computer games contain puzzles. In action games, you often ha
 
 Puzzle games are games that are primarily about puzzle solving, sometimes without incorporating the puzzles into a story line or larger goal. That doesn't mean that they're a random collection, however. Puzzle games are usually variations on a single theme. To be a commercial success, a puzzle game needs to be challenging (but not too hard), visually attractive, and, above all, enjoyable to play with. It also needs to be fresh and large enough to justify spending the money on. Although solitaire card games such as FreeCell belong in the class of puzzle games, unless you sell a lot of them together as a collection, people are unlikely to want to pay for them.
 
-解谜游戏是以解谜为主要内容的游戏，有时并没有将谜题融入故事线或更大的目标中。但这并不意味着它们是随机的集合。解谜游戏通常是单一主题的变体。要想在商业上取得成功，益智游戏必须具有挑战性（但又不能太难）、视觉效果吸引人，最重要的是玩起来要愉快。此外，它还需要有足够的新鲜感和足够大的规模，以证明花钱购买是值得的。尽管像 FreeCell 这样的纸牌接龙游戏也属于益智游戏的范畴，但除非你把大量的纸牌游戏作为一个系列出售，否则人们不太可能愿意花钱购买。
+益智游戏是以解谜为主要内容的游戏，有时并没有将谜题融入故事线或更大的目标中。但这并不意味着它们是随机的集合。益智游戏通常是单一主题的变体。要想在商业上取得成功，益智游戏必须具有挑战性（但又不能太难）、视觉效果吸引人，最重要的是玩起来要愉快。此外，它还需要有足够的新鲜感和足够大的规模，以证明花钱购买是值得的。尽管像 FreeCell 这样的纸牌接龙游戏也属于益智游戏的范畴，但除非你把大量的纸牌游戏作为一个系列出售，否则人们不太可能愿意花钱购买。
 
 ## Scott Kim's Eight Steps  斯科特·金的八个步骤
 
@@ -198,7 +198,7 @@ Scott Kim is a designer who creates puzzles for the print media, web sites, and 
 定义规则。这是谜题设计的关键部分。大多数谜题都有四个方面的特征：棋盘（是网格？ 是网络？ 是不规则的？ 还是根本就没有棋盘？）、棋子（形状如何？上面有什么图画？它们还有什么其他属性？它们来自哪里？）、走棋（允许走什么，不允许走什么？它们是连续的还是同时的？它们有什么副作用？），以及目标或胜利条件（是否必须完全匹配，还是部分匹配也可以？）
 
 5. Construct the puzzles. A puzzle challenges the player to get from a problem to a solution, but, of course, the path isn't simple. Every puzzle requires that the player make choices, some of which lead to dead ends. In an adventure game, each puzzle appears in a larger context (the story) that gives it meaning, and solving it advances the plot somehow. Some puzzle games also offer an overall plot of sorts or won't let you try the next puzzle until you've completed the current one. Good puzzles require insight from the player, that "Aha!" moment that occurs when the player realizes how the puzzle works and how to solve it. But you mustn't require an insight that's too obscure, or it will feel unfair. If you tell the player that he's in a maze, it's unfair for the only solution to be to knock down the walls unless you indicate somehow that this is possible.\
-构建谜题。谜题挑战玩家从问题到解决方案的过程，当然，这个过程并不简单。每个谜题都要求玩家做出选择，其中有些选择会导致死胡同。在冒险游戏中，每道谜题都会出现在一个更大的背景（故事）中，赋予谜题以意义，而解开谜题则会以某种方式推动情节的发展。有些解谜游戏还提供某种整体情节，或者在完成当前谜题之前不让玩家尝试下一个谜题。好的谜题需要玩家的洞察力，当玩家意识到谜题的工作原理和解题方法时，就会出现 “啊哈！”的那一刻。但是你不能要求玩家提供过于晦涩难懂的见解，否则会让人感觉不公平。如果你告诉玩家他在一个迷宫里，那么唯一的解决办法就是推倒墙壁，这是不公平的，除非你以某种方式表明这是可能的。
+构建谜题。谜题挑战玩家从问题到解决方案的过程，当然，这个过程并不简单。每个谜题都要求玩家做出选择，其中有些选择会导致死胡同。在冒险游戏中，每道谜题都会出现在一个更大的背景（故事）中，赋予谜题以意义，而解开谜题则会以某种方式推动情节的发展。有些益智游戏还提供某种整体情节，或者在完成当前谜题之前不让玩家尝试下一个谜题。好的谜题需要玩家的洞察力，当玩家意识到谜题的工作原理和解题方法时，就会出现 “啊哈！”的那一刻。但是你不能要求玩家提供过于晦涩难懂的见解，否则会让人感觉不公平。如果你告诉玩家他在一个迷宫里，那么唯一的解决办法就是推倒墙壁，这是不公平的，除非你以某种方式表明这是可能的。
 
 6. Test. Testing tells you several things. It tells you whether the puzzle is too easy or too hard (this can be difficult to predict in advance), and it also tells you whether it's fun in the first place. It helps you find out if there are alternate solutions that you didn't think of, and it helps you discover errors in the rules. And, of course, it lets people try out the user interface. Because puzzle actions tend to be repetitive, it's important that the interface be smooth and not frustrating.\
 测试。测试能告诉你一些事情。它能告诉你谜题是太容易了还是太难了（这很难提前预测），还能告诉你谜题是否有趣。它还能帮助你发现是否存在你没有想到的其他解决方案，帮助你发现规则中的错误。当然，它还能让人们试用用户界面。因为谜题操作往往是重复性的，所以界面的流畅性和不令人沮丧就显得尤为重要。
@@ -207,7 +207,7 @@ Scott Kim is a designer who creates puzzles for the print media, web sites, and 
 设计一个序列 现在是时候将所有谜题排成一个序列了。最明显的排列方式是由易到难的线性或加速序列，但在实际操作中，这种排列方式会让人感到疲惫和气馁。更好的排列方式是锯齿形，一会儿变难，一会儿变简单，如此反复。当然，你也可以让玩家自由选择不按顺序玩谜题，或者让她自己去争取。你还需要考虑谜题之间的过渡，让她继续下一个谜题。战争游戏和角色扮演游戏通常通过故事线来实现这一点。或者，玩家可以在常规谜题之间做一个元谜题，这样可以激励她完成整个游戏。
 
 8. Pay attention to presentation. Finally, of course, there are all the other details of game design: sound, graphical style, animation, user interface elements, story line (if any), and so on. If you're used to designing other kinds of games, it might be tempting to move this to an earlier point in the process, but with puzzle games, the puzzles are 90% of the battle. Get them right first, and the rest won't be nearly as hard.\
-注意表现形式。最后，当然还有游戏设计的所有其他细节：音效、图形风格、动画、用户界面元素、故事线（如果有的话）等等。如果你习惯于设计其他类型的游戏，可能会很想把这部分移到流程的前面，但对于解谜游戏来说，谜题是战斗的 90%。先把谜题设计好，剩下的就不会那么难了。
+注意表现形式。最后，当然还有游戏设计的所有其他细节：音效、图形风格、动画、用户界面元素、故事线（如果有的话）等等。如果你习惯于设计其他类型的游戏，可能会很想把这部分移到流程的前面，但对于益智游戏来说，谜题是战斗的 90%。先把谜题设计好，剩下的就不会那么难了。
 
 ## What Computers Bring to Puzzles 计算机给谜题带来了什么
 
@@ -247,7 +247,7 @@ Bear in mind that players don't always find the solution to a puzzle the same wa
 
 This problem occurred in the game Interstate '76. It wasn't a puzzle game, but one of the levels did contain a puzzle of sorts. The player was driving an armed and armored car around in an area enclosed by a concrete wall, and the victory condition for winning the level stated that (among other things) it was necessary to get out of the enclosed area somehow. The game's designers had put in a hidden ramp, which they wanted players to find and use to drive out of the area. However, players of the game discovered that there was another way to get out. If a player dropped a land mine near the wall and then drove toward it at full speed, the force of the explosion would lift the car high enough to clear the wall, and the car would fly over it and out. Unfortunately, the software didn't test for the solution state given: Is the car outside the wall? Instead, it tested to see if the ramp was being used. If a player got out without using the ramp, it didn't know that the level was finished, even though the victory condition had been met.
 
-这个问题出现在游戏《76 号州际公路》中。这并不是一款解谜游戏，但其中一个关卡确实包含了一个谜题。玩家驾驶着一辆武装装甲车在一个被水泥墙围起来的区域内行驶，而关卡的胜利条件是（除其他事项外）必须以某种方式离开这个被围起来的区域。游戏的设计者设置了一个隐藏的斜坡，他们希望玩家找到并利用这个斜坡驶出该区域。然而，游戏的玩家发现，还有另一种方法可以出去。如果玩家在墙壁附近投下一枚地雷，然后全速驶向墙壁，爆炸的威力就会将汽车掀起足够高的高度，使汽车越过墙壁飞出去。遗憾的是，软件并没有测试给出的解决方案状态： 汽车是否在墙外？而是测试斜坡是否被使用。如果玩家没有使用斜坡就冲了出去，那么即使胜利条件已经满足，软件也不知道关卡已经完成。
+这个问题出现在游戏《76 号州际公路》中。这并不是一款益智游戏，但其中一个关卡确实包含了一个谜题。玩家驾驶着一辆武装装甲车在一个被水泥墙围起来的区域内行驶，而关卡的胜利条件是（除其他事项外）必须以某种方式离开这个被围起来的区域。游戏的设计者设置了一个隐藏的斜坡，他们希望玩家找到并利用这个斜坡驶出该区域。然而，游戏的玩家发现，还有另一种方法可以出去。如果玩家在墙壁附近投下一枚地雷，然后全速驶向墙壁，爆炸的威力就会将汽车掀起足够高的高度，使汽车越过墙壁飞出去。遗憾的是，软件并没有测试给出的解决方案状态： 汽车是否在墙外？而是测试斜坡是否被使用。如果玩家没有使用斜坡就冲了出去，那么即使胜利条件已经满足，软件也不知道关卡已经完成。
 
 Of course, sometimes games contain bugs that allow a player to cheat in some way and reach a solution by a means that's completely outside the rules. In Interstate '76, however, the trick with the land mine wasn't a bug; it was just an innovative solution that the designers didn't consider. When the software is checking the victory condition, be sure it's checking the solution state that you told the player to achieve, not the way in which he achieved it.
 
