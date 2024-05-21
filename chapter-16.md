@@ -10,7 +10,7 @@ Because we're covering several genres in this chapter, we don't have room to exp
 
 Artificial life is a branch of computer science research, just as artificial intelligence is. Artificial life, or A-life, as it is sometimes called, involves modeling biological processes, often to simulate the life cycles of living things. A-life researchers hope to discover new ways of using computers by using biological mechanisms—mutation and natural selection, for example—rather than algorithmic ones. In particular, A-life is the study of emergent properties, unanticipated qualities or behaviors that arise out of the interaction of complex systems. Life itself is considered an emergent property of the planet Earth.
 
-人造生命和人工智能一样，是计算机科学研究的一个分支。人造生命（有时也称作 A-life）涉及生物过程建模，通常是为了模拟生物的生命周期。人造生命研究人员希望通过使用生物机制——例如突变和自然选择——而不是算法机制，发现使用计算机的新方法。具体而言，A-life 是对突发特性的研究，即复杂系统相互作用产生的意料之外的品质或行为。生命本身就被认为是地球的突发特性。
+人造生命和人工智能一样，是计算机科学研究的一个分支。人造生命（有时也称作 A-life）涉及生物过程建模，通常是为了模拟生物的生命周期。人造生命研究人员希望通过使用生物机制——例如突变和自然选择——而不是算法机制，发现使用计算机的新方法。具体而言，人造生命是对突发特性的研究，即复杂系统相互作用产生的意料之外的品质或行为。生命本身就被认为是地球的突发特性。
 
 The most famous (though not the first) A-life game is called simply Life and was created by a mathematician named John Conway. It depicts cellular automata, simulated beings that "live" on a grid. All they do is survive, reproduce, and die according to three very simple rules. When people first began playing with the game, they quickly discovered that it had a number of emergent properties even though it had such simple rules. Certain patterns of cells could move across the grid ("gliders"), and some ("glider guns") could even generate an endless stream of new cells.
 
@@ -18,9 +18,7 @@ The most famous (though not the first) A-life game is called simply Life and was
 
 Because they're intended for entertainment rather than research, commercial A-life games implement only a subset of what A-life research investigates. There aren't any commercial A-life games about observing thousands of generations of one-celled animals evolving in an environment, for example. Typically, A-life games are about maintaining and growing a manageable population of organisms, each of which is unique.
 
-由于商业 A-life游戏的目的是娱乐而非研究，因此它们只能实现 A-life研究的一部分。例如，没有任何商业 A-life游戏是关于观察数千代单细胞动物在环境中进化的。通常情况下，A-life 游戏是关于维持和发展一个可管理的生物群体，每个生物群体都是独一无二的。
-
-因为商业 A-life 游戏的目的是娱乐而不是研究，所以它们只实现了 A-life 研究所调查内容的一个子集。例如，没有任何商业 A-life 游戏是关于观察成千上万代单细胞动物在环境中进化的。通常，A-life 游戏是关于维持和增长一个可管理的有机体种群，每个有机体都是独一无二的。
+因为商业人造生命游戏的目的是娱乐而非研究，所以它们只实现了人造生命研究所调查内容的一个子集。例如，没有任何商业人造生命游戏是关于观察成千上万代单细胞动物在环境中进化的。通常，人造生命游戏是关于维持和发展一个可管理的生物种群，每个生物群体都是独一无二的。
 
 ## Artificial Pets 人造宠物
 
@@ -30,7 +28,7 @@ One subcategory of artificial life game is the artificial pet. Artificial pets a
 
 Artificial pets are almost always cute. The nature of their gameplay concentrates on training and maintenance, and watching them do endearing things. They seldom reproduce or die, and the player usually wants to interact with only one or two at once. (Games about whole populations of organisms, in which they do reproduce and die, are discussed in the section "Genetic A-Life Games," later in this chapter.)
 
-人造宠物几乎都很可爱。它们的游戏玩法集中于训练和维护，以及看它们做可爱的事情。它们很少繁殖或死亡，玩家通常只想同时与一两只宠物互动。(本章后面的“基因 A-Life 游戏”部分将讨论有关整个生物群体的游戏，在这些游戏中，生物会繁殖和死亡）。
+人造宠物几乎都很可爱。它们的游戏玩法集中于训练和维护，以及看它们做可爱的事情。它们很少繁殖或死亡，玩家通常只想同时与一两只宠物互动。(本章后面的“基因人造生命游戏”部分将讨论有关整个生物群体的游戏，在这些游戏中，生物会繁殖和死亡）。
 
 If the player is going to spend much time looking at an artificial pet, then the pet needs to have quite a lot of AI: a variety of things that stimulate it and behaviors that it exhibits. An artificial pet should have a number of emotions, or moods, that the player can learn by observation and can influence by interacting with it somehow. It also needs to interact meaningfully with others of its own kind: teasing, playing, grooming, fighting, and so on. Above all, it needs to be able to learn, so there must be a way for the player to show it how to do things. The learning process must not be too long (or the player will get frustrated and think his pet is stupid) or too short (or the player will run through everything he can teach it very quickly). (Tamagotchi, being so tiny and inexpensive, are obviously an exception to this principle!)
 
@@ -84,23 +82,23 @@ The Sims has been a huge success, which we believe it owes to two things. First,
 
 The second reason for the success of The Sims is that it is about human relationships. The player's immediate objective in playing The Sims is to make sure his sims' physical needs are met, but his secondary, longer-term objective is to meet the sims' mental or emotional needs: fun, social interaction, and quality living space. The need for social interaction is considerably more complex because it involves building relationships with other people rather than simply interacting with objects, and those social interactions can produce emergent properties. Players enjoy watching and influencing these interactions. In fact, the player's imagination plays a very large role in the game, just as it does in playing with dolls. The sims are not terribly complex simulations, but players give them names and personalities and ascribe many more characteristics to them than they actually possess. This quality of imaginative play is actually another form of creativity that contributes strongly to its success, especially among female players.
 
-《模拟人生》成功的第二个原因是它与人际关系有关。玩家玩《模拟人生》的直接目标是确保模拟人生的生理需求得到满足，而次要的、长期的目标则是满足模拟人生的心理或情感需求：乐趣、社交互动和高质量的生活空间。社交互动的需求要复杂得多，因为它涉及到与其他人建立关系，而不仅仅是与物品互动，而且这些社交互动可以产生新的属性。玩家喜欢观察和影响这些互动。事实上，玩家的想象力在游戏中起着非常重要的作用，就像玩洋娃娃一样。模拟人偶并不是非常复杂的模拟物，但玩家会给它们起名字、赋予个性，并赋予它们比实际拥有的更多的特征。这种充满想象力的游戏实际上是另一种形式的创造力，这也是它取得成功的重要原因，尤其是在女性玩家中。
+《模拟人生》成功的第二个原因是它与人际关系有关。玩家玩《模拟人生》的直接目标是确保模拟人的生理需求得到满足，而次要的、长期的目标则是满足模拟人的心理或情感需求：乐趣、社交互动和高质量的生活空间。社交互动的需求要复杂得多，因为它涉及到与其他人建立关系，而不仅仅是与物品互动，而且这些社交互动可以产生新的属性。玩家喜欢观察和影响这些互动。事实上，玩家的想象力在游戏中起着非常重要的作用，就像玩洋娃娃一样。模拟人并不是非常复杂的模拟物，但玩家会给它们起名字、赋予个性，并赋予它们比实际拥有的更多的特征。这种充满想象力的游戏实际上是另一种形式的创造力，这也是它取得成功的重要原因，尤其是在女性玩家中。
 
 ## Genetic A-Life Games 基因人造生命游戏
 
-Some A-life games are about managing a population of creatures over time. Rather than concentrating so much on individuals, the object of the game is to achieve certain things with the population as a whole. By far, the most successful of these is the Creatures series from Creature Labs (formerly Cyberlife). In Creatures, you manage a small group of beings called Norns. Norns have a certain amount of AI, and they can be taught things through repetition, like the animals in Petz. Norns also have distinct genetic characteristics. Unlike either the people in The Sims or the animals in Petz, they have a limited life span, so the game is about breeding generation after generation of Norns and exploring and manipulating their world indirectly through them.
+Some A-life games are about managing a population of creatures over time. Rather than concentrating so much on individuals, the object of the game is to achieve certain things with the population as a whole. By far, the most successful of these is the [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series)) series from Creature Labs (formerly Cyberlife). In [Creatures](https://en.wikipedia.org/wiki/Creatures_(video_game_series)), you manage a small group of beings called Norns. Norns have a certain amount of AI, and they can be taught things through repetition, like the animals in Petz. Norns also have distinct genetic characteristics. Unlike either the people in The Sims or the animals in Petz, they have a limited life span, so the game is about breeding generation after generation of Norns and exploring and manipulating their world indirectly through them.
 
-有些人造生命游戏是关于长期管理生物种群的。游戏的目标不是集中在个体上，而是通过整个群体实现某些目标。迄今为止，这类游戏中最成功的当属 Creature Labs（前身为 Cyberlife）的 Creatures 系列。在《Creatures》中，你要管理一小群名为 “Norns ”的生物。Norns具有一定的人工智能，它们可以像《Petz》中的动物一样，通过重复学习来掌握知识。Norns 还具有明显的遗传特征。与《模拟人生》中的人或《宠物小精灵》中的动物不同，它们的寿命有限，因此游戏的目的就是培育出一代又一代的 “Norns”，并通过它们间接地探索和操纵自己的世界。
+有些人造生命游戏是关于长期管理生物种群的。游戏的目标不是集中在个体上，而是通过整个群体实现某些目标。迄今为止，这类游戏中最成功的当属 Creature Labs（前身为 Cyberlife）的 [《生物》](https://en.wikipedia.org/wiki/Creatures_(video_game_series)) 系列。在[《生物》](https://en.wikipedia.org/wiki/Creatures_(video_game_series))中，你要管理一小群名为“诺恩”的生物。诺恩具有一定的人工智能，它们可以像《Petz》中的动物一样，通过重复学习来掌握知识。诺恩还具有明显的遗传特征。与《模拟人生》中的人或《Petz》中的动物不同，它们的寿命有限，因此游戏的目的就是培育出一代又一代的诺恩，并通过它们间接地探索和操纵它们的世界。
 
 ### Designing a Genome 设计基因组
 
 To create a game in which you crossbreed creatures and get new, unique individuals, you need to devise a genome: a set of descriptors (genes) that define all the important characteristics of the creature. These characteristics should include everything about the creature that can vary from individual to individual: shape, size, coloration, and so on. You can leave out details that are common to all creatures. For example, if all your creatures will have two eyes and that will never change, there's no need to store a gene called Number of Eyes. Genes can have any number of possible values, from two (striped or spotted?) to floating-point numbers (height of creature in meters).
 
-要制作一款能让生物杂交并获得新的独特个体的游戏，您需要设计一个基因组：一组定义生物所有重要特征的描述符（基因）。这些特征应包括生物个体间可能存在差异的所有方面：形状、大小、颜色等。您可以省略所有生物共有的细节。例如，如果所有生物都有两只眼睛，而且永远不会改变，那么就没有必要存储名为 “眼睛数量 ”的基因。基因可以有任意数量的可能值，从两个（条纹或斑点？）到浮点数（生物的高度，以米为单位）。
+要制作一款能让生物杂交并获得新的独特个体的游戏，你需要设计一个基因组：一组定义生物所有重要特征的描述符（基因）。这些特征应包括生物个体间可能存在差异的所有方面：形状、大小、颜色等。你可以省略所有生物共有的细节。例如，如果所有生物都有两只眼睛，而且永远不会改变，那么就没有必要存储名为“眼睛数量”的基因。基因可以有任意数量的可能值，从两个（条纹或斑点？）到浮点数（生物的高度，以米为单位）。
 
 When two individuals reproduce, they mix their genes somehow, and you will need to define how this is done. For a quantitative value such as height, the initial temptation is to average them. Don't do this. Within a very few generations, all your creatures will be the same height, or very nearly. In fact, human genetics works differently. We have not one value for each characteristic, but two, one inherited from the mother and one from the father. These two values are called alleles. If a person's two alleles for the same trait don't match, one of them dominates according to a rule (the allele for brown eyes dominates the allele for blue, so people with one brown allele and one blue allele will have brown eyes). When a human reproduces, one of the two alleles is chosen at random to go on to the next generation. This means that it's possible for a brown-eyed person to still pass on the allele for blue eyes. Otherwise, the allele for blue eyes would disappear from the population almost immediately.
 
-当两个个体繁衍后代时，他们会以某种方式混合基因，你需要定义如何做到这一点。对于身高这样的定量值，最初的诱惑是将它们平均。不要这样做。在几代人的时间内，你的所有生物都会身高相同，或者非常接近。事实上，人类遗传学的工作原理与此不同。我们的每个特征不是一个值，而是两个值，一个是从母亲那里遗传来的，一个是从父亲那里遗传来的。这两个值被称为等位基因。如果一个人同一特征的两个等位基因不匹配，其中一个等位基因就会根据规则占优势（棕色眼睛的等位基因占优势，蓝色眼睛的等位基因占优势，所以有一个棕色等位基因和一个蓝色等位基因的人会有棕色眼睛）。当人类繁衍后代时，两个等位基因中的一个会被随机选中，传给下一代。这就意味着，棕色眼睛的人仍有可能遗传给蓝色眼睛的等位基因。否则，蓝眼睛等位基因几乎会立即从人群中消失。
+当两个个体繁衍后代时，它们会以某种方式混合基因，你需要定义如何做到这一点。对于身高这样的定量值，最初的诱惑是将它们平均。不要这样做。在几代人的时间内，你的所有生物都会身高相同，或者非常接近。事实上，人类遗传学的工作原理与此不同。我们的每个特征不是一个值，而是两个值，一个是从母亲那里遗传来的，一个是从父亲那里遗传来的。这两个值被称为等位基因。如果一个人同一特征的两个等位基因不匹配，其中一个等位基因就会根据规则占优势（例如，棕色眼睛的等位基因比蓝色基因占主导地位，所以有一个棕色等位基因和一个蓝色等位基因的人会有棕色眼睛）。当人类繁衍后代时，两个等位基因中的一个会被随机选中，传给下一代。这就意味着，棕色眼睛的人仍有可能遗传蓝色眼睛的等位基因。否则，蓝色眼睛等位基因几乎会立即从人群中消失。
 
 As for quantitative values such as weight, in humans, they tend to be controlled by multiple genes and influenced by environmental factors as well. You can define these mechanisms any way you like; you certainly don't have to do it the way humans do. As research goes on, geneticists are finding that mechanisms for genetic recombination and expression are quite complex and vary a lot even within a single species.
 
@@ -110,7 +108,7 @@ As for quantitative values such as weight, in humans, they tend to be controlled
 
 Mutation is a change to a gene that occurs as a result of some environmental factor. Radiation is well known as being mutagenic; so are some chemicals. Mutation has the benefit that it introduces random new values into the gene pool. Bear in mind that mutation doesn't normally affect the individual whose genes are mutated; it affects only his offspring. Of course, some of these changes can be detrimental or even lethal to the individual that inherits them. For the purposes of your game, you probably don't want to allow lethal mutations—those that produce miscarriages or stillborn offspring. If your creatures' gestation period is long, it wastes time and doesn't add anything of value to the gene pool.
 
-突变是由于某些环境因素导致基因发生变化。众所周知，辐射具有诱变性；某些化学物质也具有诱变性。突变的好处是可以在基因库中引入随机的新值。要知道，基因突变通常不会影响基因变异的个体，只会影响其后代。当然，有些变化可能会对继承这些变化的个体有害，甚至致命。在游戏中，您可能不希望出现致命的变异--那些会导致流产或死胎的变异。如果你的生物妊娠期很长，就会浪费时间，而且不会给基因库增加任何价值。
+突变是由于某些环境因素导致基因发生变化。众所周知，辐射具有诱变性；某些化学物质也具有诱变性。突变的好处是可以在基因库中引入随机的新值。要知道，基因突变通常不会影响基因变异的个体，只会影响其后代。当然，有些变化可能会对继承这些变化的个体有害，甚至致命。在游戏中，你可能不希望出现致命的变异--那些会导致流产或死胎的变异。如果你的生物妊娠期很长，就会浪费时间，而且不会给基因库增加任何价值。
 
 ### Life Span, Maturity, and Natural Selection 寿命、成熟度和自然选择
 
@@ -163,13 +161,13 @@ Here's an example. Let's assume that you have equal numbers of each sex in the p
 You don't have to stick to that rule of having equal numbers of each sex, however. Beehives contain one fertile female (the queen), hundreds of infertile females (the workers), and a few fertile males (the drones). The sex of creatures need not be determined by their genes, either. The sex of many reptiles is determined by the temperatures of their eggs during gestation. Eggs at the top of the pile, nearer the sun, develop into females; the cooler ones at the bottom develop into males.
 
 
-不过，您不必拘泥于男女数量相等的规则。蜂箱里有一只能生育的雌蜂（蜂王）、数百只不能生育的雌蜂（工蜂）和几只能生育的雄蜂（雄蜂）。生物的性别也不一定由基因决定。许多爬行动物的性别是由其妊娠期卵的温度决定的。位于卵堆顶端、靠近阳光的卵发育成雌性，而位于卵堆底部、温度较低的卵则发育成雄性。
+不过，你不必拘泥于男女数量相等的规则。蜂箱里有一只能生育的雌蜂（蜂王）、数百只不能生育的雌蜂（工蜂）和几只能生育的雄蜂（雄蜂）。生物的性别也不一定由基因决定。许多爬行动物的性别是由其妊娠期卵的温度决定的。位于卵堆顶端、靠近阳光的卵发育成雌性，而位于卵堆底部、温度较低的卵则发育成雄性。
 
 ### What Does the Player Do?
 
 A genetic A-life game might not seem to have much for the player to do: Wind it up and watch it go. However, there is actually a fair number of things she might do. For example, she can create completely new individuals and add them to the population to observe how their genes influence the population. She can add and remove environmental hazards that would tend to weed out certain genes. She can play with the rate and nature of mutation by adding or modifying mutagenic objects or areas of the environment. She can also mate particular individuals to select for particular characteristics (with animals, this is considered useful and is called breeding; with people, it is considered evil and is called eugenics).
 
-基因 A-Life 游戏似乎没有太多玩家可做的事情：给它上发条，看着它走。然而，玩家实际上可以做很多事情。例如，她可以创造全新的个体，并将其添加到种群中，观察它们的基因如何影响种群。她可以添加或移除会淘汰某些基因的环境危害。她可以通过添加或改变环境中的致突变物体或区域来改变突变的速度和性质。她还可以让特定的个体交配，以选择特定的特征（对于动物，这被认为是有益的，被称为育种；对于人，这被认为是邪恶的，被称为优生学）。
+基因人造生命游戏似乎没有太多玩家可做的事情：给它上发条，看着它走。然而，玩家实际上可以做很多事情。例如，她可以创造全新的个体，并将其添加到种群中，观察它们的基因如何影响种群。她可以添加或移除会淘汰某些基因的环境危害。她可以通过添加或改变环境中的致突变物体或区域来改变突变的速度和性质。她还可以让特定的个体交配，以选择特定的特征（对于动物，这被认为是有益的，被称为育种；对于人，这被认为是邪恶的，被称为优生学）。
 
 # Puzzle Games 益智游戏
 
@@ -194,7 +192,7 @@ Scott Kim is a designer who creates puzzles for the print media, web sites, and 
 简化。假设你有一个谜题创意：在拥挤的停车场有效地停放不同大小的车辆，这样当有人要求你取车时，你必须尽可能少地移动其他车辆。要让这项任务变得有趣，就必须将其简化到最基本的程度。首先，找出最基本、最棘手的核心技能（在本例中，就是快速规划空间），并将精力集中于此。其次，消除任何无关的细节。例如，不要让玩家担心撞车。第三，使部件统一。与其让汽车的形状和大小无限变化，不如让它们按照正方形网格排列成几种标准类型。最后，简化控制。弄清基本动作是什么，然后设计出只需少量操作就能实现这些动作的控件。
 
 3. Create a construction set. The only way to be sure that a puzzle concept works is to play it, but obviously you don't want to code up the whole game before you know whether it's fun. You can build a paper prototype or a simple version in something like Macromedia Flash to see if it works. The rule designer can play with it to tweak the rules, and later the level designer can use it to build levels. You can also code a construction set into the final game so that players can construct puzzles for each other.\ 
-创建一个建筑套件。要确定一个谜题概念是否可行，唯一的办法就是玩一玩，但显然你不想在知道它是否有趣之前就把整个游戏编好。你可以用纸做一个原型，或者用 Macromedia Flash 做一个简单的版本，看看是否可行。规则设计者可以用它来调整规则，之后关卡设计者可以用它来构建关卡。您还可以在最终的游戏中加入一个构造集，这样玩家们就可以互相构造谜题了。
+创建一个建筑套件。要确定一个谜题概念是否可行，唯一的办法就是玩一玩，但显然你不想在知道它是否有趣之前就把整个游戏编好。你可以用纸做一个原型，或者用 Macromedia Flash 做一个简单的版本，看看是否可行。规则设计者可以用它来调整规则，之后关卡设计者可以用它来构建关卡。你还可以在最终的游戏中加入一个构造集，这样玩家们就可以互相构造谜题了。
 
 4. Define the rules. This is the key part of puzzle design. Most puzzles are characterized in terms of four things: the board (Is it a grid? A network? Is it irregular? Or is there no board at all?), the pieces (How are they shaped? What pictures are on them? What other attributes do they have? Where do they come from?), the moves (What is allowed and what is not? Are they sequential or simultaneous? What side effects do they have?), and the goal or victory condition (Does it have to be an exact match, or will a partial one do?).\
 定义规则。这是谜题设计的关键部分。大多数谜题都有四个方面的特征：棋盘（是网格？ 是网络？ 是不规则的？ 还是根本就没有棋盘？）、棋子（形状如何？上面有什么图画？它们还有什么其他属性？它们来自哪里？）、走棋（允许走什么，不允许走什么？它们是连续的还是同时的？它们有什么副作用？），以及目标或胜利条件（是否必须完全匹配，还是部分匹配也可以？）
@@ -245,7 +243,7 @@ Computers enable us to make a lot of puzzles that would be impossible or very ex
 
 Bear in mind that players don't always find the solution to a puzzle the same way that you did when you invented it. There might be more than one path to the goal. When your game is checking to see whether the puzzle has been solved, you should test only to see if the player has met the victory condition you gave her, not that she has done it in the way you expected. Otherwise, you've cheated her, and she'll be very frustrated. She's managed to get to the correct solution state, but your game refuses to recognize it.
 
-请记住，玩家并不总是能像您一样找到谜题的答案。通往目标的路径可能不止一条。当游戏检测谜题是否被解开时，您应该只检测玩家是否满足了您给她设定的胜利条件，而不是她是否按照您预期的方式完成了任务。否则，你就欺骗了她，她会非常沮丧。她已经成功进入了正确的解题状态，但你的游戏却拒绝承认这一点。
+请记住，玩家并不总是能像你一样找到谜题的答案。通往目标的路径可能不止一条。当游戏检测谜题是否被解开时，你应该只检测玩家是否满足了你给她设定的胜利条件，而不是她是否按照你预期的方式完成了任务。否则，你就欺骗了她，她会非常沮丧。她已经成功进入了正确的解题状态，但你的游戏却拒绝承认这一点。
 
 This problem occurred in the game Interstate '76. It wasn't a puzzle game, but one of the levels did contain a puzzle of sorts. The player was driving an armed and armored car around in an area enclosed by a concrete wall, and the victory condition for winning the level stated that (among other things) it was necessary to get out of the enclosed area somehow. The game's designers had put in a hidden ramp, which they wanted players to find and use to drive out of the area. However, players of the game discovered that there was another way to get out. If a player dropped a land mine near the wall and then drove toward it at full speed, the force of the explosion would lift the car high enough to clear the wall, and the car would fly over it and out. Unfortunately, the software didn't test for the solution state given: Is the car outside the wall? Instead, it tested to see if the ramp was being used. If a player got out without using the ramp, it didn't know that the level was finished, even though the victory condition had been met.
 
