@@ -1,16 +1,16 @@
 This chapter is about a few game genres that aren't as popular as the ones we've already covered: artificial life, puzzle games, and games for girls. That doesn't mean there's anything wrong with them; they have produced some extremely successful games. In fact, because there are fewer games in these categories, the market isn't crowded with look-alike products. Working in one of these genres, you actually have a better chance of creating something distinctly new. However, you might have trouble persuading a conservative producer that a really good puzzle game is a better bet than yet another first-person shooter.
 
-本章将介绍几种并不流行的游戏类型：人造生命、益智游戏和女孩游戏。但这并不意味着它们有什么问题，它们也曾推出过一些非常成功的游戏。事实上，由于这些类别的游戏数量较少，市场上并不充斥着外形相似的产品。在这些类型中工作，你实际上更有机会创造出与众不同的新产品。不过，你可能很难说服保守的制作人，让他们相信一款真正优秀的益智游戏比另一款第一人称射击游戏更好。
+本章讨论了一些游戏类型，它们没有我们之前提到的那些类型那么流行，它们是：人造生命、益智游戏和女孩游戏。但这并不意味着它们有什么问题，它们也曾推出过一些极为成功的游戏。事实上，由于这些类别的游戏数量较少，市场上没有充斥着千篇一律的产品。在这些类型中创作，你实际上更有机会创造出与众不同的新产品。不过，你可能很难说服保守的制作人，让他相信一款真正优秀的益智游戏比另一款第一人称射击游戏更好。
 
 Because we're covering several genres in this chapter, we don't have room to explore the elements of each one; instead, we'll just hit the highlights.
 
-在本章中，我们将介绍几种类型的游戏，因此没有时间逐一探讨每种游戏的要素；我们将重点介绍几种类型的游戏。
+因为我们在这一章中涵盖了几种类型，我们没有足够的空间去深入探讨每一种类型的元素；相反，我们只会突出重点。
 
 # Artificial Life Games 人造生命
 
 Artificial life is a branch of computer science research, just as artificial intelligence is. Artificial life, or A-life, as it is sometimes called, involves modeling biological processes, often to simulate the life cycles of living things. A-life researchers hope to discover new ways of using computers by using biological mechanisms—mutation and natural selection, for example—rather than algorithmic ones. In particular, A-life is the study of emergent properties, unanticipated qualities or behaviors that arise out of the interaction of complex systems. Life itself is considered an emergent property of the planet Earth.
 
-人工生命和人工智能一样，是计算机科学研究的一个分支。人工生命（有时也称作 A-life）涉及生物过程建模，通常是为了模拟生物的生命周期。人工生命研究人员希望通过使用生物机制--例如突变和自然选择--而不是算法机制，发现使用计算机的新方法。具体而言，A-life 是对突发特性的研究，即复杂系统相互作用产生的意料之外的品质或行为。生命本身就被认为是地球的新兴属性。
+人造生命和人工智能一样，是计算机科学研究的一个分支。人造生命（有时也称作 A-life）涉及生物过程建模，通常是为了模拟生物的生命周期。人造生命研究人员希望通过使用生物机制——例如突变和自然选择——而不是算法机制，发现使用计算机的新方法。具体而言，A-life 是对突发特性的研究，即复杂系统相互作用产生的意料之外的品质或行为。生命本身就被认为是地球的突发特性。
 
 The most famous (though not the first) A-life game is called simply Life and was created by a mathematician named John Conway. It depicts cellular automata, simulated beings that "live" on a grid. All they do is survive, reproduce, and die according to three very simple rules. When people first began playing with the game, they quickly discovered that it had a number of emergent properties even though it had such simple rules. Certain patterns of cells could move across the grid ("gliders"), and some ("glider guns") could even generate an endless stream of new cells.
 
@@ -36,7 +36,7 @@ If the player is going to spend much time looking at an artificial pet, then the
 
 This quality of rich artificial intelligence distinguishes artificial pets from other kinds of A-life, in which individuals have simple rules but the population as a whole develops emergent properties. Artificial pets can have properties that appear only after they have been around for a while, but typically these are preprogrammed and are not truly emergent.
 
-这种丰富的人工智能特性使人工宠物有别于其他类型的人工生命，后者的个体具有简单的规则，但群体作为一个整体会发展出突发性的特性。人工宠物可能具有一些只有在存在一段时间后才会出现的特性，但通常这些特性都是预先编程好的，并不是真正的突发特性。
+这种丰富的人工智能特性使人工宠物有别于其他类型的人造生命，后者的个体具有简单的规则，但群体作为一个整体会发展出突发性的特性。人工宠物可能具有一些只有在存在一段时间后才会出现的特性，但通常这些特性都是预先编程好的，并不是真正的突发特性。
 
 Because an artificial pet doesn't have much of a challenge or a victory condition (apart from training it to do something specific), it's a software toy rather than a game. ("Software toy" is a term coined by Will Wright, the original designer of Sim City, for entertainment software that you just play around with, without trying to defeat an opponent or achieve victory.) The entertainment of an artificial pet comes from watching it do things and interacting with it. In Petz, shown in Figure 16.1, you can see three cats, all of which are interacting with things in their environments. One is simply sitting on a rug, but it knows that it is a rug and has chosen to sit on it rather than somewhere else. An artificial pet has a large number of behaviors that the player sees repeatedly, and others that occur more rarely. Part of balancing it—making sure that the player doesn't get bored with it—is making sure that these rare behaviors occur often enough that the player does get to see them but doesn't take them for granted.
 
@@ -54,7 +54,7 @@ The Sims is almost the only game of its kind. There was one game a bit like it, 
 
 One of the best things about The Sims is that there are multiple ways to play with it. It's sort of a cross between an artificial pet and a construction and management simulation. You need money to build additions to the house and to buy new furniture for it. The family has to earn that money by at least one member having a job. You can spend quite a lot of time in the buying-and-building mode, if you can afford it, which has nothing at all to do with artificial life. Some players, the particularly goal-oriented ones, really concentrate on this aspect, working hard to construct a mansion and fill it with luxuries. Others are more interested in the interactions among the people. In Figure 8.11 in Chapter 8, "The Internal Economy of Games and Game Balancing," you can see two sims dancing in their kitchen. This might have been spontaneous behavior, but it was more likely in response to an instruction given by the player.
 
-《模拟人生》最棒的一点就是有多种玩法。它是一种介于人工宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在 “购买和建造 ”模式中花费大量时间，这与人工生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在第 8 章 “游戏的内部经济和游戏平衡 ”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
+《模拟人生》最棒的一点就是有多种玩法。它是一种介于人工宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在 “购买和建造 ”模式中花费大量时间，这与人造生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在第 8 章 “游戏的内部经济和游戏平衡 ”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
 
 ### Needs 需求
 
