@@ -19,6 +19,12 @@
 
 这两个游戏，中文名重名
 
+[Sim City](https://en.wikipedia.org/wiki/SimCity)
+[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)
+
+[Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776)
+[《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)
+
 [Space Tripper](https://www.old-games.com/download/9123/space-tripper)
 [《太空战将》](https://www.old-games.com/download/9123/space-tripper)
 
@@ -278,9 +284,6 @@
 
 [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
 [《太空入侵者》](https://en.wikipedia.org/wiki/Space_Invaders)
-
-[The Sims](https://en.wikipedia.org/wiki/The_Sims)
-[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)
 
 [Sinistar](https://en.wikipedia.org/wiki/Sinistar)
 
