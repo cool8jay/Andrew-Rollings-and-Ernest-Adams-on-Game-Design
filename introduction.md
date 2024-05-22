@@ -22,7 +22,7 @@ We wrote this book to answer that question, specifically for people who want to 
 
 Andrew Rollings and Ernest Adams on Game Design contains our combined thoughts on the important issues that relate to designing games. We don't claim that it's the final word on game design. No book could be. We have chosen to address areas that we believe are important and under-served, and we don't expect everyone to agree with us on every point. That's the beauty and the terror of game design: There are no right answers.
 
-《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》包含了我们对游戏设计相关重要问题的综合思考。我们并不宣称这是游戏设计方面的定论。没有一本书可以做到这一点。我们选择了一些我们认为重要且未得到充分关注的领域，我们并不期望每个人都同意我们的观点。这正是游戏设计的美妙和可怕之处： 没有正确的答案。
+《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》包含了我们对游戏设计相关重要问题的综合思考。我们并不宣称这是游戏设计方面的定论。没有一本书可以做到这一点。我们选择了一些我们认为重要且未得到充分关注的领域，我们并不期望每个人都同意我们的观点。这正是游戏设计的美妙和可怕之处：没有正确的答案。
 
 We offer a game design methodology intended to spur your thinking and get your creative juices flowing. In this book, you will not find step-by-step instructions on how to create the next Doom or Tetris clone. Instead, we discuss the central issues that every game designer must face, and we pose a series of questions for you to ask yourself about the game that's in your head. The answers to those questions will move you along the path from idea to design.
 
