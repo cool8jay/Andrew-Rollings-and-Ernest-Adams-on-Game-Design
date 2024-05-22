@@ -200,7 +200,7 @@ Action games are often split into a succession of levels. A level is a specifica
 
 Often, levels are grouped by theme. All the themed levels in the set will have a similar appearance and set of enemies. A set of themed levels usually ends with an encounter with a **big boss**. In some cases, the boss has to be defeated with the use of **power-ups** and/or skills that the player gained during the preceding level set.
 
-关卡通常按主题分组。一组关卡中的所有主题关卡都会有相似的外观和敌人。一组主题关卡的最后通常会遇到一个**大首领**。在某些情况下，必须使用玩家在前一组关卡中获得的**强化道具**和/或技能才能打败首领。
+关卡通常按主题分组。一组关卡中的所有主题关卡都会有相似的外观和敌人。一组主题关卡的最后通常会遇到一个**大头目**。在某些情况下，必须使用玩家在前一组关卡中获得的**强化道具**和/或技能才能打败头目。
 
 ### Checkpoints 检查点
 
@@ -350,19 +350,19 @@ With both methods, the general usage is as follows. Throughout a level, the enem
 
 这两种方法的一般用法如下。在整个关卡中，敌人会以某种队形出现。这些队形的组成会有所不同，包括与当前挑战级别相适应的敌人。随着游戏的深入，阵型的组成将包括更强大的敌人。在某些情况下，较早出现的弱小敌人会被淘汰出阵容，因为它们不再能给玩家带来有效的挑战。敌人的难度和数量会随着玩家在环境中的前进而增加，并在关卡结束时达到狂热的顶峰。在这之后，环境会发生变化，强度会降低到初始点或稍高一点的地方。
 
-### The Big Boss 大首领
+### The Big Boss 大头目
 
 A traditional staple of action games are the boss characters. In many games, the end of a group of themed levels is guarded by a large enemy—the boss character—who is significantly harder to fight than any of the previously encountered enemies.
 
-动作游戏的传统特色是首领角色。在许多游戏中，一组主题关卡的终点都有一个大型敌人——首领角色——他比之前遇到的任何敌人都要难打得多。
+动作游戏的传统特色是头目角色。在许多游戏中，一组主题关卡的终点都有一个大型敌人——头目角色——他比之前遇到的任何敌人都要难打得多。
 
 Defeating the boss takes the player to a new set of levels, with a different theme. Boss characters often can't be hurt by normal methods and require a special attack method to be damaged. For example, they could be invincible at certain times (i.e., Piranha Plants in [Super Mario Sunshine](https://en.wikipedia.org/wiki/Super_Mario_Sunshine) can be hurt only when their mouths are open) or can be hurt only by certain weapons.
 
-打败首领后，玩家将进入一组主题不同的新关卡。通常情况下，普通方法无法伤害首领，而需要使用特殊的攻击方法才能对其造成伤害。例如，他们可能在某些时候是无敌的（如[《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)中的食人花只有在张开嘴巴时才能受到伤害），或者只能受到某些武器的伤害。
+打败头目后，玩家将进入一组主题不同的新关卡。通常情况下，普通方法无法伤害头目，而需要使用特殊的攻击方法才能对其造成伤害。例如，他们可能在某些时候是无敌的（如[《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)中的食人花只有在张开嘴巴时才能受到伤害），或者只能受到某些武器的伤害。
 
 Often, the boss character is themed after the environment (or vice versa). For example, the first set of levels in [Parasol Stars](https://en.wikipedia.org/wiki/Parasol_Stars) are themed after musical instruments. The left side of Figure 9.12 shows the first boss, which is in keeping with the musical theme.
 
-通常情况下，首领角色是以环境为主题的（反之亦然）。例如，[《阳伞之星》](https://en.wikipedia.org/wiki/Parasol_Stars)中的第一组关卡就是以乐器为主题的。图 9.12 的左侧显示了与音乐主题一致的第一个首领。
+通常情况下，头目角色是以环境为主题的（反之亦然）。例如，[《阳伞之星》](https://en.wikipedia.org/wiki/Parasol_Stars)中的第一组关卡就是以乐器为主题的。图 9.12 的左侧显示了与音乐主题一致的第一个头目。
 
 Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands. 图 9.12. Parasol Stars 和 Rainbow Islands 中的第一个老板。
 
@@ -370,11 +370,11 @@ Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands. 图 9.12. Pa
 
 Another boss design element that is used fairly frequently is to use a much bigger and stronger version of an enemy that the player has already encountered. The right side of Figure 9.12 shows a classic example, taken from [Rainbow Islands](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2). The first set of levels are garden themed (with the enemies being mainly insects and birds). One of the first enemies encountered is a spider. The boss character is simply a much larger version of that spider. This enhances the gameplay by allowing the player to predict some of the boss behavior, and gives him a small advantage in knowing what to expect—an advantage that would not be there if the boss was entirely unfamiliar, and the player had to learn his behavior from scratch.
 
-另一个经常使用的首领设计元素是使用玩家已经遇到过的敌人的更大更强的版本。图 9.12 右侧显示的就是[《彩虹岛》](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2)中的一个经典例子。第一组关卡以花园为主题（敌人主要是昆虫和鸟类）。首先遇到的敌人之一是一只蜘蛛。老板角色就是这只蜘蛛的放大版。这就增强了游戏的可玩性，让玩家可以预测首领的一些行为，并在知道该期待什么方面获得一点优势——如果首领完全不熟悉，玩家必须从头开始学习他的行为，就不会有这种优势了。
+另一个经常使用的头目设计元素是使用玩家已经遇到过的敌人的更大更强的版本。图 9.12 右侧显示的就是[《彩虹岛》](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2)中的一个经典例子。第一组关卡以花园为主题（敌人主要是昆虫和鸟类）。首先遇到的敌人之一是一只蜘蛛。老板角色就是这只蜘蛛的放大版。这就增强了游戏的可玩性，让玩家可以预测头目的一些行为，并在知道该期待什么方面获得一点优势——如果头目完全不熟悉，玩家必须从头开始学习他的行为，就不会有这种优势了。
 
 Of course, many games aren't suited for such an unsubtle set of themed levels, but even so, the themed level and big boss are one of the mainstay design elements of action games. The pattern of a succession of levels increasing in difficulty and challenge to a climax with the boss, before starting again at a slightly lower difficulty level, is present in virtually every level-based action-based game today. This is shown in Figure 9.13.
 
-当然，许多游戏并不适合这样一套不含蓄的主题关卡，但即便如此，主题关卡和大首领仍然是动作游戏的主流设计元素之一。如今，几乎所有以关卡为基础的动作类游戏都采用了这样的模式：关卡的难度和挑战性不断增加，最后达到高潮，出现大首领，然后再从难度稍低的关卡开始。如图 9.13 所示。
+当然，许多游戏并不适合这样一套不含蓄的主题关卡，但即便如此，主题关卡和大头目仍然是动作游戏的主流设计元素之一。如今，几乎所有以关卡为基础的动作类游戏都采用了这样的模式：关卡的难度和挑战性不断增加，最后达到高潮，出现大头目，然后再从难度稍低的关卡开始。如图 9.13 所示。
 
 Figure 9.13. The general progression of an action game. 图 9.13. 动作游戏的一般进程。
 
@@ -392,7 +392,7 @@ For example, the Atari game Asteroids has predictable waves because, once they h
 
 Another example is the [Galaxian](https://en.wikipedia.org/wiki/Galaxian) dive-bombers that break away from the main body of the wave and swoop down on the player's avatar. Wildcard enemies are usually a completely different class of enemy from level bosses, in that they are normally mixed in with normal enemies, and behave in a somewhat random or unexpected way.
 
-另一个例子是[《小蜜蜂》](https://en.wikipedia.org/wiki/Galaxian)的俯冲轰炸机，它们会脱离波次的主体，向玩家的化身俯冲下来。意外敌人通常是与关卡首领完全不同的一类敌人，他们通常与普通敌人混杂在一起，行为方式有些随机或出人意料。
+另一个例子是[《小蜜蜂》](https://en.wikipedia.org/wiki/Galaxian)的俯冲轰炸机，它们会脱离波次的主体，向玩家的化身俯冲下来。意外敌人通常是与关卡头目完全不同的一类敌人，他们通常与普通敌人混杂在一起，行为方式有些随机或出人意料。
 
 ### Locked Door and Key 上锁的门和钥匙
 
@@ -481,7 +481,7 @@ Action games—being among the first of the genres—benefited well from the ear
 > 
 > What can be derived from this is the observation that action games generally have one or zero victory conditions. They are split into two broad classes: those that are possible to win, and those where it is possible only to attain the highest score. Most early action games were of the latter class—mainly due to memory constraints. In later years, when the processing power and storage capabilities increased, developers began incorporating structured stories into their games—and with stories, come endings. Games such as [Golden Axe](https://en.wikipedia.org/wiki/Golden_Axe_(video_game)) (shown in Figure 9.14) had definite endings where, after the defeat of the big bad end-of-game boss (in this case, Death Adder), the players' avatars lived happily ever after (until the inevitable sequel comes along, of course).\
 > 
-> 由此可以看出，动作游戏一般都有一个或零个胜利条件。它们被分为两大类：一类是有可能获胜的游戏，另一类是只可能获得最高分的游戏。大多数早期的动作游戏都属于后一类，这主要是由于内存的限制。后来，随着处理能力和存储能力的提高，开发人员开始在游戏中加入结构化的故事——有了故事，也就有了结局。[《战斧》](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))等游戏（如图 9.14 所示）都有明确的结局，在打败游戏末尾的大首领（在本例中是死亡蝰蛇）之后，玩家的化身就会永远过上幸福的生活（当然，直到不可避免的续集出现为止）。
+> 由此可以看出，动作游戏一般都有一个或零个胜利条件。它们被分为两大类：一类是有可能获胜的游戏，另一类是只可能获得最高分的游戏。大多数早期的动作游戏都属于后一类，这主要是由于内存的限制。后来，随着处理能力和存储能力的提高，开发人员开始在游戏中加入结构化的故事——有了故事，也就有了结局。[《战斧》](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))等游戏（如图 9.14 所示）都有明确的结局，在打败游戏末尾的大头目（在本例中是死亡蝰蛇）之后，玩家的化身就会永远过上幸福的生活（当然，直到不可避免的续集出现为止）。
 > 
 > Figure 9.14. Golden Axe.
 > 
@@ -607,7 +607,7 @@ The target market for a game often decides which of these two extremes it will f
 > 敌人会一波一波地出现吗？是否会有怪物生成器或意外敌人来打破波次的常规进程？
 > 
 > 7. Will the game be broken into levels? What things will make one level different from another (landscape, enemies, speed, perspective, and so on)? Don't forget cosmetic items like music and architecture. Will levels end with a boss?\
-> 游戏会分成几个关卡吗？哪些因素会使一个关卡与另一个关卡有所不同（景观、敌人、速度、视角等）？别忘了音乐和建筑等装饰性物品。关卡最后是否会出现首领？
+> 游戏会分成几个关卡吗？哪些因素会使一个关卡与另一个关卡有所不同（景观、敌人、速度、视角等）？别忘了音乐和建筑等装饰性物品。关卡最后是否会出现头目？
 > 
 > 8. How will the avatar's life be managed: as fixed lives, energy bars, or some combination? Can the player obtain more lives? If so, how?\
 > 如何管理化身的生命：固定生命、能量条还是某种组合？玩家能否获得更多生命？如果可以，如何获得？

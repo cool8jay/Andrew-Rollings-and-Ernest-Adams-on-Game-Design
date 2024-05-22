@@ -172,7 +172,7 @@ A genetic A-life game might not seem to have much for the player to do: Wind it 
 
 Many single-player computer games contain puzzles. In action games, you often have to figure out the boss opponent's weakness. Adventure games are full of puzzles, frequently about obtaining inaccessible objects or getting information from other people. Even first-person shooters have the occasional puzzle, figuring out how to get past locked doors and other obstacles. Puzzle design is an essential element of game design, and it's harder than it sounds.
 
-许多单人电脑游戏都包含谜题。在动作游戏中，你经常需要找出首领敌人的弱点。冒险游戏中充满了谜题，经常是为了获得无法接近的物品或从其他人那里获取信息。即使是第一人称射击游戏也会偶尔出现谜题，比如如何穿过上锁的门和其他障碍。谜题设计是游戏设计的一个基本要素，它比听起来更难。
+许多单人电脑游戏都包含谜题。在动作游戏中，你经常需要找出头目敌人的弱点。冒险游戏中充满了谜题，经常是为了获得无法接近的物品或从其他人那里获取信息。即使是第一人称射击游戏也会偶尔出现谜题，比如如何穿过上锁的门和其他障碍。谜题设计是游戏设计的一个基本要素，它比听起来更难。
 
 Puzzle games are games that are primarily about puzzle solving, sometimes without incorporating the puzzles into a story line or larger goal. That doesn't mean that they're a random collection, however. Puzzle games are usually variations on a single theme. To be a commercial success, a puzzle game needs to be challenging (but not too hard), visually attractive, and, above all, enjoyable to play with. It also needs to be fresh and large enough to justify spending the money on. Although solitaire card games such as [FreeCell](https://en.wikipedia.org/wiki/FreeCell)  belong in the class of puzzle games, unless you sell a lot of them together as a collection, people are unlikely to want to pay for them.
 

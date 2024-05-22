@@ -51,3 +51,282 @@ Although the RTS game breathed new life into the strategy genre, and although ti
 Aside from growing more complex, prettier, and larger over the years, the fundamental design of the RTS has remained virtually unchanged since the beginning.
 
 多年来，RTS 除了变得更复杂、更漂亮、更庞大之外，其基本设计从一开始就几乎没有变化。
+
+# The Common Elements of Strategy Games 策略游戏的共同要素
+
+Strategy games, whether turn-based or real-time, all feature a core management mechanic. The primary factors that influence whether a strategy game is compelling are listed here:
+
+策略游戏，无论是回合制还是即时制，都有一个核心管理机制。下面列出了影响策略游戏是否引人注目的主要因素：
+
+* **The theme.** For example, not many people will be interested in managing a colony of nematodes. Strategy games tend to have themes with sweeping importance, such as conquest (Age of Kings), exploration (Sid Meier's Colonization), or trade (the Tycoon series of games).\
+
+**主题。**例如，没有多少人会对管理线虫群感兴趣。策略游戏的主题往往具有广泛的重要性，如征服（《国王时代》）、探索（《席德·梅尔的殖民》）或贸易（《大亨》系列游戏）。
+
+* **The presentation layer.** By nature, strategy games often have extremely complicated underlying mechanics. Consequently, the design of the player interface to the game is critical. The interface can organize and simplify this complexity for a player or, if not handled well, can make the game overwhelming and confusing.\
+
+**表现层。**从本质上讲，策略游戏的基本机制往往极其复杂。因此，游戏玩家界面的设计至关重要。界面可以为玩家组织和简化这种复杂性，否则，如果处理不当，就会使游戏变得令人不知所措和困惑。
+
+* **The perspective.** Strategy games have traditionally used only a few perspectives for the player to experience the game world. Most strategy games tend toward grand-scale manipulation of the game world, but a few require the player to control a small group or a single avatar. The games that implement the latter option tend to place a greater emphasis on arcade action and real-time activities.\
+
+**视角** 策略游戏传统上只使用几个视角让玩家体验游戏世界。大多数战略游戏都倾向于大范围地操纵游戏世界，但也有少数游戏要求玩家控制一个小团体或单个化身。采用后一种方式的游戏往往更强调街机操作和实时活动。
+
+## Themes 主题
+
+Strategy game themes are often derived from one or more of the following basic activities, which lend themselves well to implementation on a range of scales: conquest, exploration, and trade. More often than not, a strategy game blends these three activities. The extent to which any particular activity is dominant over the other determines the overall flavor of the game. However, the three activities are usually mutually interdependent.
+
+策略游戏的主题通常来自于以下一种或多种基本活动，这些活动非常适合在各种规模的游戏中实施：征服、探索和贸易。更常见的情况是，策略游戏融合了这三种活动。某项活动对其他活动的主导程度决定了游戏的整体风格。不过，这三种活动通常是相互依存的。
+
+For example, [Starcraft](https://en.wikipedia.org/wiki/StarCraft) uses conquest as its primary mechanism. Exploration and trade do feature in the game, but only as an enabler for the player to conquer more effectively. The player must explore the area to be conquered and set up resource-processing plants to allow resources to be traded for weapons and units.
+
+例如，[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)以征服为主要机制。探索和贸易的确是游戏的特色，但只是作为玩家更有效征服的辅助手段。玩家必须探索要征服的地区，并建立资源加工厂，以便用资源换取武器和单位。
+
+Sid Meier's Colonization is primarily about exploration; the basic goal of the player is to explore the new world. Secondary aims are to settle colonies and subsequently defend those colonies from attacks by the displaced natives and the other colonizing nationalities. In this game, the three primary activities of conquest, exploration, and trade are quite evenly distributed. However, the enabler for conquest and trade is exploration. You can't trade or conquer before you've explored who to conquer or trade with.
+
+席德·梅尔的殖民游戏以探索为主；玩家的基本目标是探索新世界。次要目标是建立殖民地，然后保卫这些殖民地，抵御流离失所的当地人和其他殖民国家的攻击。在这款游戏中，征服、探索和贸易这三项主要活动的分布相当均匀。然而，征服和贸易的推动力是探索。在探索出征服或贸易对象之前，你无法进行贸易或征服。
+
+Hasbro's [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon) focuses on trade as the game's main activities. Players are required to trade to increase their value, while simultaneously preventing their opponents from increasing their value. Exploration is not really used in [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), but it could be argued that the competitive nature of the game implies that conquest is a small part of it: You can win only by defeating your opponents.
+
+孩之宝公司的[《垄断大亨》](https://en.wikipedia.org/wiki/Monopoly_Tycoon)将贸易作为游戏的主要活动。玩家需要通过贸易来提高自身价值，同时阻止对手提高自身价值。[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))中并没有真正使用探索，但可以说，游戏的竞争性质意味着征服是游戏的一小部分：只有击败对手才能获胜。
+
+As we've mentioned, the roots of the strategy game can easily be traced back to the board game. In fact, board games make an excellent starting point to discuss the features of computer strategy games—their rule-sets are simple enough to grasp in entirety, and observations on the effectiveness of these rule-sets scale well to apply equally effectively to the more complex computer strategy game. Consequently, we examine each of these three core activities in more detail, using board games as examples.
+
+正如我们所提到的，策略游戏的根源很容易追溯到棋盘游戏。事实上，棋盘游戏是讨论电脑策略游戏特点的绝佳切入点——它们的规则集非常简单，足以让人完全掌握，而对这些规则集有效性的观察也同样适用于更为复杂的电脑策略游戏。因此，我们将以棋盘游戏为例，对这三种核心活动逐一进行更详细的研究。
+
+### Conquest 征服
+
+Conquest is the most immediately engaging activity in strategy games. On many levels, it directly appeals to the (mostly male) players' psyches and allows the player to command great armies, lead crack squads into dangerous territory, or become the evil dictator that they always dreamed of being. Consequently, due to the mainly male player demographic, the majority of computer strategy games released to this point have been heavily based around conquest.
+
+征服是策略游戏中最能直接吸引玩家的活动。在许多层面上，它直接迎合了玩家（大多为男性）的心理，让玩家可以指挥强大的军队，带领精锐部队进入危险的领土，或者成为他们一直梦想成为的邪恶独裁者。因此，由于玩家以男性为主，迄今为止推出的大多数电脑战略游戏都以征服为主要内容。
+
+Conquest—at least, in the physical sense—is facilitated by allowing the player to engage in conflict with one or more foes. The mechanisms for regulating and resolving conflict between entities in strategy games have been well-studied and understood. In fact, Game Theory, a respected scientific field, is devoted entirely to understanding and resolving the outcome of conflict under known conditions.
+
+征服——至少是物理意义上的征服——是通过允许玩家与一个或多个敌人发生冲突来实现的。在策略游戏中，调节和解决实体间冲突的机制已经得到了很好的研究和理解。事实上，博弈论作为一个备受推崇的科学领域，完全致力于理解和解决已知条件下的冲突结果。
+
+The essence of conflict is a contest between two or more opponents, each with an inherent set of attributes that are used to determine the outcome. Often, to achieve game balance, these conflict relationships are resolved with the use of an SPS (Scissors-Paper-Stone) mechanism, with an early example coming from [The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War): knights beat barbarians, barbarians beat archers, archers beat knights. This approach is simple and—if implemented well—guarantees a fair relationship between all the conflicting entities. The use of the SPS mechanism is also a telling reminder of the board-game origin of the modern computer strategy game, although the computer allows for much more complex relationships, including compound relationships. Computers are ideal for handling this sort of complexity automatically—board games that attempt to implement this level of detail in their rules seem to get bogged down in a morass of rules. Of course, some people like tabletop war-games that last for weeks on end—but they are in the minority. Much of this material was covered in Chapter 8, "The Internal Economy of Games and Game Balancing," but we'll be extending that discussion here to cover the specifics of conflict in strategy games.
+
+冲突的本质是两个或两个以上对手之间的较量，每个对手都有一套固有属性，用来决定胜负。通常情况下，为了实现游戏平衡，这些冲突关系是通过使用 SPS（剪刀-纸-石头）机制来解决的，早期的例子来自[《战争上古艺术》](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War)：骑士击败野蛮人，野蛮人击败弓箭手，弓箭手击败骑士。这种方法简单易行，如果实施得当，可以保证所有冲突实体之间的公平关系。SPS 机制的使用也让人联想到现代电脑策略游戏的棋盘游戏起源，尽管电脑允许更复杂的关系，包括复合关系。计算机非常适合自动处理这种复杂性——试图在规则中实现这种细节的棋盘游戏似乎会陷入规则的泥潭。当然，有些人喜欢持续数周的桌面战争游戏，但他们毕竟是少数。[第八章](chapter-8.md)“游戏的内部经济和游戏平衡”中已经介绍了其中的许多内容，但我们将在此延伸讨论策略游戏中冲突的具体细节。
+
+Consider an imaginary contest between two players, each with a squad of men, as shown in Figure 10.2. The red player has a squad of archers, and the blue player has a squad of horsemen. Typically, in a one-on-one battle between the two squads, the blue player will be victorious. That is because the horsemen can ride down the archers en masse before they can cause too much damage. Archers are less effective at close range; consequently, as long as the blue player can get through the initial barrage of arrows, he is assured victory. In terms of unit equality, we can say that one horseman will strongly tend to beat one archer. Given no other variation is parameters, this rule is inviolate: Horsemen beat archers.
+
+如图 10.2 所示，假设有两个玩家在比赛，每个玩家都有一队人马。红色方有一队弓箭手，蓝色方有一队骑兵。通常情况下，在两个小队一对一的战斗中，蓝方玩家会取得胜利。这是因为骑兵可以在弓箭手造成过多伤害之前将其一举击倒。弓箭手在近距离的效果较差；因此，只要蓝方玩家能穿过最初的箭雨，就能确保胜利。在单位相等的情况下，我们可以说一个骑兵极有可能击败一个弓箭手。在没有其他参数变化的情况下，这一规则是不可动摇的：骑兵击败弓箭手。
+
+Figure 10.2. Red versus blue: Blue is victorious! 图 10.2. 红色对蓝色：蓝方获胜！
+
+graphics/10fig02.gif
+
+The red player is obviously not impressed by the outcome of this skirmish and decides to replace his archers with peasants. The peasants line up in formation, as shown in Figure 10.3, and are soundly beaten by the horsemen, who can deal out damage far more efficiently than the peasants. The result is the same: Blue wins. From this, we can say with certainty that, given no other variation in parameters, horsemen beat peasants.
+
+红方显然对这场小规模战斗的结果不以为然，决定用农民替换弓箭手。农民排成队列，如图 10.3 所示，结果被骑兵打得落花流水，因为骑兵的伤害效率远高于农民。结果还是一样：蓝方获胜。由此，我们可以肯定地说，在参数没有其他变化的情况下，骑兵会击败农民。
+
+Figure 10.3. Red versus blue: Blue is victorious again! 图 10.3. 红色对蓝色：蓝方再次获胜！
+
+graphics/10fig03.gif
+
+However, let's assume that the red player replaces two thirds of his archers with peasants. He places his peasants in a row facing the horsemen, and his archers remain at a safe distance behind the peasants, as shown in Figure 10.4. Now, to reach the archers, the blue player's horseman must first defeat the peasants. While they are doing so, the archers are free to rain arrows on the horsemen, causing much more damage than the archers from the previous encounter. The delay caused by the peasants allows the archers to pick off the horsemen. The net result: Red victory. This is an example of compound SPS effects—in other words, the whole is greater than the sum. Archers alone get slaughtered by the heavily armed and faster horsemen, as do peasants. When used together, their combined strength and weakness overlap to create more than a match for the beleaguered horsemen.
+
+然而，我们假设红方将三分之二的弓箭手换成了农民。如图 10.4 所示，他将农民面向骑兵排成一排，而弓箭手则保持在农民后面的安全距离。现在，蓝方玩家的骑兵要想接近弓箭手，必须先打败农民。此时，弓箭手可以自由地向骑兵射出箭雨，造成的伤害比之前遭遇的弓箭手要高得多。农民造成的延迟让弓箭手得以射杀骑兵。最终结果：红方获胜。这是一个 SPS 复合效果的例子——换句话说，整体大于总和。弓箭手和农民一样，都会被全副武装、速度更快的骑兵屠杀。当他们一起使用时，他们的强项和弱项叠加在一起，就能与被围困的骑兵相抗衡。
+
+Figure 10.4. Red versus blue: Red is victorious! 图 10.4. 红色对蓝色：红色获胜！
+
+graphics/10fig04.gif
+
+This is an obviously simplified example, but the results scale up from the squad level to the scale of grand armies—the same rules apply. Of course, this result brings some additional complications to the SPS model. With combination effects such as this, you now have to consider placement and other factors—consider the result if the red player had switched the positions of the archers and peasants, as shown in Figure 10.5. Then the compound effect would have been wasted—instead of each type of unit covering for the others weakness, the converse would be true.
+
+这显然是一个简化的示例，但其结果可以从小队级扩展到大军级——规则依然适用。当然，这一结果给 SPS 模型带来了一些额外的复杂因素。考虑一下如果红方调换弓箭手和农民的位置，结果会如何，如图 10.5 所示。那么复合效果就会被浪费——不是每种单位都能弥补其他单位的弱点，而是发生相反的情况。
+
+Figure 10.5. Red versus blue: Red's big mistake! 图 10.5. 红色与蓝色： 红方的大错！
+
+graphics/10fig05.gif
+
+A detailed discussion of the relative merits of formations is beyond the scope of this book, but it is interesting to realize that explicit formation rules do not need to be explicitly implemented in the game design. In fact, outside of a few remote situations, you should never explicitly design such a high-level set of rules into your game. Concentrate on the lower-level individual unit parameters, and the higher-level features such as formation effectiveness will emerge from those.
+
+详细讨论阵型的相对优点超出了本书的讨论范围，但值得注意的是，明确的阵型规则并不需要在游戏设计中明确实施。事实上，除了极少数情况外，你不应该在游戏中明确设计这样一套高层次的规则。将注意力集中在低级别的单个单位参数上，而诸如编队效果等高级别的特征将从这些参数中产生。
+
+In the four red versus blue examples we have just discussed, you will notice that there is no need for the conflict-resolution rules to be explicitly built in. Instead, the following set of individual unit rules will produce the desired results:
+
+在我们刚才讨论的四个红蓝对战的例子中，你会注意到没有必要明确内置冲突解决规则。相反，下面这套单个单位规则就能产生所需的结果：
+
+* Archers are lightly armored and move at a reasonably quick rate. They need a minimum combat distance of 10 yards, and they deal average damage per second.\
+弓箭手是轻装甲部队，移动速度相当快。他们需要 10 码的最小战斗距离，每秒造成的伤害是普通水平。
+
+* Horsemen are heavily armored and move quickly. They can engage only in close combat, and they deal above average damage per second.\
+骑兵身披重甲，移动迅速。他们只能进行近战，每秒造成的伤害高于普通水平。
+
+* Peasants are medium armored and move slowly. They can engage only in close combat, and they deal average damage per second.\
+农民有中等装甲，移动缓慢。他们只能近战，每秒造成的伤害是普通水平。
+
+Assume that a unit dealing above average damage causes only slightly greater damage than a unit dealing average damage. A factor of 1.5 differentiating the two damage levels would be suitable. Any greater than that, and there is a fair chance that the defending peasants in Figure 10.4 would be finished off quickly enough to allow the horsemen through to defeat the archers.
+
+假设造成高于普通伤害的单位造成的伤害仅略高于造成普通伤害的单位。将这两种伤害等级区分为 1.5 倍是合适的。如果超过这个系数，图 10.4 中防守的农民很有可能很快就会被干掉，从而允许骑兵通过去击败弓箭手。
+
+The nature of the parameters used to define the abilities very much depends on the nature of the units and the environment they are in. For example, the turning arc of an individual foot soldier is not really an important consideration and can be safely ignored. However, in Taldren's Starfleet Command III, shown in Figure 10.6, the turning arc of a starship is an extremely important factor—you cannot fire on an opponent if your available weapon is facing the wrong way. This can make the difference between victory and defeat if your starship cannot turn quickly enough to return fire. Of course, this could have made for an extremely frustrating and arbitrary game if the designers had not had the foresight to build in an exception clause: The player has the option of choosing to perform a high-risk "rapid turn" (which brings to mind images of shaking cameras and aging actors throwing themselves around a set in synchronization), the success of which depends on the skill of the helmsman and the amount of time since that particular maneuver was last performed.
+
+用于定义能力的参数的性质在很大程度上取决于部队的性质和所处的环境。例如，单个步兵的转弯弧度并不是一个重要的考虑因素，可以放心地忽略不计。然而，在图 10.6 所示的 Taldren 的《星际舰队指令 III》中，星舰的转弯弧度是一个极其重要的因素——如果你的可用武器朝向错误，你就无法向对手开火。如果您的星舰不能迅速转向以进行还击，那么这将决定胜负。当然，如果设计者没有先见之明，没有在游戏中加入例外条款，这可能会使游戏变得极其令人沮丧和武断：玩家可以选择进行高风险的“快速转向”（这会让人联想到晃动的摄像机和老态龙钟的演员们在布景中同步旋转的画面），成功与否取决于舵手的技能和上次进行该特定操作的时间。
+
+Figure 10.6. Taldren's Starfleet Command III. 图 10.6. 塔尔德伦的《星际舰队指令 III》。
+
+graphics/10fig06.gif
+
+Conflict does not necessarily have to involve physical combat. Whereas RTS games and "simpler" strategy games tend to focus on the combat aspects, the more advanced and progressive games tend to keep combat as a "last resort" option, more closely mirroring reality. For example, Civilization III uses diplomacy as another method of introducing conflict to the game. In real life, diplomacy is considered to be the "polite face" of war; in Civilization III, it is no different. The response of the enemy leaders to your diplomatic overtures depends in large part on whether you have the force to back up your tough words. Of course, diplomacy isn't all about trash-talk and "who-has-the-biggest-missile" contests—it also allows for the formation of diplomatic alliances and missions of peace. Somehow, though (and maybe it's just the way we play the game), the fine words of friendship are soon forgotten once the alliance has outlived its usefulness.
+
+冲突并不一定涉及肉搏。RTS 游戏和“较简单”的战略游戏倾向于把重点放在战斗方面，而更先进、更前卫的游戏则倾向于把战斗作为 “最后手段”，更加贴近现实。例如，《文明 III》将外交作为游戏中引入冲突的另一种方法。在现实生活中，外交被认为是战争的“礼貌面孔”；在《文明 III》中也不例外。敌方领导人对你的外交姿态的反应在很大程度上取决于你是否有足够的武力来支持你的强硬言论。当然，外交并不全是垃圾话和“谁拥有最大的导弹”的竞赛——它还允许建立外交联盟和和平使命。但不知何故（也许这只是我们玩游戏的方式），一旦联盟失去作用，美好的友谊之词很快就会被遗忘。
+
+The use of diplomacy is more suited to a slower-paced strategy game—designed to be played over a long period of (game) time. The extra nuance and depth that it can add to an otherwise bog-standard strategy game is well worth the extra time and effort spent designing and implementing a worthwhile diplomacy system. Diplomacy gives the player an extra degree of freedom, and this allows for the creation of more devious and interesting game plans than would be possible otherwise. Diplomacy, in this case, is a catch-all term we are using to also include actions such as espionage and spying.
+
+外交的使用更适合节奏较慢的策略游戏——设计为长（游戏）时间进行。外交系统可以为一款普通的策略游戏增添细微差别和深度，因此值得花费额外的时间和精力来设计和实施一个有价值的外交系统。外交为玩家提供了额外的自由度，这使得玩家可以创造出比其他方式更狡猾、更有趣的游戏计划。在这里，“外交”是一个包罗万象的术语，也包括间谍和刺探等行为。
+
+### Exploration 探索
+
+Games that focus on exploration often use the conquest activity in almost equal parts. Consider [X-Com: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown), which depicted the secretive invasion of Earth by aliens. In this way, it was both familiar and unfamiliar. Players were aware of the map of the Earth, but the location of hidden alien bases and UFO landing sites was a mystery until the player sent out a squad of XCOM soldiers to investigate the site.
+
+以探索为主题的游戏通常会在几乎相同的部分中使用征服活动。比如[《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)，它描述了外星人秘密入侵地球的故事。这样，它既熟悉又陌生。玩家知道地球的地图，但隐藏的外星人基地和不明飞行物着陆点的位置却是个谜，直到玩家派出一队 XCOM 士兵前往调查。
+
+Like conflict, exploration isn't just a physical phenomenon. XCOM is a particularly good example of this. First, investigating alien bases and landing sites requires physical exploration—the entire area is shrouded in darkness, revealed only when the player's soldiers gain line of sight (LOS) on an area. This approach to implementing exploration is used in most strategy games (known as "the fog of war"), with minor variations here and there, as shown in Figure 10.7. The physical exploration of the area reveals aliens scouting the area, who do not hesitate to fire on the soldiers using their superior weaponry. In Figure 10.7, the bright area shown is the currently visible area, the dimmed area is the explored but not currently visible region, and the black area is land that remains unexplored.
+
+与冲突一样，探索也不仅仅是一种物理现象。XCOM 就是一个特别好的例子。首先，调查外星基地和着陆点需要物理探索——整个区域都笼罩在黑暗之中，只有当玩家的士兵获得某个区域的视线（LOS）时才会显现出来。如图 10.7 所示，大多数战略游戏都采用了这种探索方法（称为 “战争迷雾”），只是在某些地方略有不同。在对该区域进行物理探索时，会发现有外星人在侦察该区域，他们会毫不犹豫地使用优势武器向士兵开火。在图 10.7 中，明亮区域为当前可见区域，暗淡区域为已探索但当前不可见区域，黑色区域为未探索区域。
+
+Figure 10.7. The fog of war (from Warcraft III). 图 10.7. 战争迷雾（来自《魔兽争霸三》）。
+
+graphics/10fig07.jpg
+
+If the soldiers defeat the aliens at a site cleanly enough to be able to recover some of their advanced technology, the second form of exploration comes into effect. The XCOM squad takes the technology back to the base, and the player can assign researchers to unlock the secrets of the alien technology. When they have discovered how the alien technology functions, the XCOM experts can duplicate it, giving the player a better chance against the stronger aliens with even better technology.
+
+如果士兵们在某一地点干净利落地击败了外星人，从而能够回收一些外星人的先进技术，那么第二种探索方式就会生效。XCOM 小队将技术带回基地，玩家可以指派研究人员解开外星技术的秘密。当他们发现了外星技术的功能之后，XCOM 专家就可以复制这种技术，从而让玩家有更大的机会对抗拥有更先进技术的更强大的外星人。
+
+Again, this is a common mechanism for allowing the exploration of nonphysical frontiers—in this case, the frontiers of science. Like the fog of war, this mechanism has also been around long enough to acquire its own name: the "tech-tree." An example of this, from the game Natural Selection ([www.naturalselection.org](www.naturalselection.org)), is shown in Figure 10.8.
+
+同样，这也是一种允许探索非物理疆界的常见机制——这里指的是科学疆界。和战争迷雾一样，这种机制也存在了很长时间，以至于有了自己的名字：“科技树”。图 10.8 是游戏《自然选择》（www.naturalselection.org）中的一个例子。
+
+Figure 10.8. A tech-tree from Natural Selection. 图 10.8. 《自然选择》中的科技树。
+
+graphics/10fig08.gif
+
+XCOM: Enemy Unknown was by no means the first computer strategy game to implement a tech-tree, and it has been used in virtually every computer strategy game ever since. Usually, when a particular mechanism has been used this much, it becomes stale through overuse. Fortunately, though, in the case of the tech-tree, it is such a general concept that it rarely seems stale. Of course, it's also true that no one has come up with a better idea yet.
+
+The tech-tree serves other purposes in a game as well. Mainly, it serves as a means of limiting and rationing the spread of technology. This can be used to pace the game effectively so that the progression from (for example) stone age to iron age to machine age can be managed in a somewhat realistic fashion.
+
+Of course, this technique can also be misused. In most RTS games, the single-player campaigns limit which technology upgrades are available on a certain level. This is a rather heavy-handed way of ensuring that the campaign balance is maintained and that the difficulty level progresses smoothly. This approach prevents the more experienced player from blitzing the earlier levels by upgrading his units to a greater level than the (usually scripted) computer opposition.
+
+The problem with this approach is that the implementation of an artificial upgrade barrier really jars the suspension of disbelief. The player ends up wondering why she could not upgrade her units to the next level, especially when it was possible to do so on the previous level. There are methods available to alleviate this problem, although none of them is an ideal solution.
+
+The first and most obvious method is to maintain consistency. When a player has gained the knowledge of an upgrade, then that knowledge should never be taken away temporarily (for example, with levels of an RTS that disallow certain units without a good reason, even though the player previously was able to create those units).
+
+The second method by which the designer can justify preventing access to certain units is to provide an excuse. For example, the pre-mission blurb could state, "Advanced cybermarines are not available in this environment, due to the risk of the increased power consumption of their enhanced exoskeleton armor causing a chain reaction in the methanogenic gas atmosphere," or "Flying units are disallowed in this mission due to the risk of being detected by the enemy's early warning system." What works for Star Trek script writers will also work for you as a designer.
+
+The third—and, in our opinion, best—method is not to disallow any previously accessible upgrades. Instead, vary the shadow costs of the units that you want to prevent the use of on a level-by-level basis. For example, if the advanced cybermarine requires a larger quantity of a certain resource, then make that resource extremely scarce. Better still, make it a choice between a certain unit or structure that is required to achieve victory. Be upfront about this: State it in the mission objectives. Then, if the player wastes all his resources on building cybermarines instead of achieving the mission, he will have only himself to blame. Another way that the shadow costs can be varied for a particular unit (or class of units) is to make sure that the enemy is extremely proficient in taking out that kind of unit. For example, if you want to disallow flying units, then arm the computer opponent with extremely effective antiaircraft weaponry; above all, make it clear to the player that this is why his strategy is failing. (We find that opponent taunts are a wonderfully sarcastic way to achieve this.)
+
+Many other variations of this method can be used, and they are all preferable to the first two methods. The key benefit of this third method is that it does not directly prevent the player from deploying a certain kind of unit—it just makes sure that it is not wise to do so under certain circumstances. This is a restriction that the player can actually appreciate and accept as part of the game, rather than something that appears to be an arbitrary decision by the game designer to hack a mission into place.
+
+### Trade 贸易
+
+The whole conflict/trade/exploration (physical and tech-tree–based) concept is the basic overarching play mechanic of strategy games—particularly turn-based games. In real-time games, the higher-level aspects of conflict are toned down to a more visceral level and the importance of trade is greatly diminished.
+
+Usually in RTS, trade is handled simply: Resources such as gold or oil are mined using worker units and are directly exchanged for more units. In this way, an extremely simplistic wartime economy is set up. The important thing to realize is that the economics of a strategy game do not need to be realistic—they must be merely consistent with the world in which it is based. For example, to be completely realistic, the troops in Warcraft would require supply lines to maintain them. However, this is not feasible because it would add unnecessary complexity to the game. Instead, resources are decentralized and can be used from anywhere on the map: Food produced on farms is magically eaten by units, even if they are on the other side of the world.
+
+This decentralization of resources can cause certain balance problems in games if they are not carefully handled. For example, one particular weakness of this genre of game (which we first spotted in Age of Empires) is the "amoeba problem."
+
+In Age of Empires, it is possible to send a lone peasant into an inaccessible area and build a structure, such as a barracks. Assuming that it is not spotted, this structure can immediately start producing troops right on the enemy doorstep, with no regard for supply lines or resource distribution. Clearly, this amoebic invasion is unrealistic and effectively weakens the game. Players of Age of Empires and other similar games generally have certain expectations of adherence to reality, and this exceeds those expectations.
+
+Unfortunately, forcing players of an RTS to deal with supply-line issues is not a good solution. In his regular design column for U.K.–based Develop magazine, Dave Morris postulated a potential solution for this: Reward the player for maintaining the supply line (by enabling units to heal/self-repair in the field), but don't explicitly punish the player for not maintaining the supply line. It's difficult enough having to handle the battle, without having to handle the supply as well. A solution for this (which has been at least partially implemented in one RTS to date) is to use influence maps to indicate the areas to which resources are distributed. Two out of the three races in StarCraft use a limited form of influence map to indicate where their influence has spread. The Protoss power beacons (used to provide power to the Protoss structures) have a limited radius of power distribution, and the Zerg Creep provides a nutrient-rich building surface for the Zerg to grow their organic structures. Interestingly, the human player has no such restrictions.
+
+Slower-paced strategy games allow the player to focus a lot more on trade and other aspects of resource distribution, and allow this to become a much more integral part of the game. For example, consider the territory map shown in Figure 10.9.
+
+Figure 10.9. Resource distribution across a territory.
+
+graphics/10fig09.gif
+
+Town B has access to a forest—it has a road (supply line) leading directly to the forest, providing a ready source of lumber. This allows Town B to build wood-based units, such as catapults. Town A is linked to Town B via a road. This means that there is a readily available supply route between Town A and Town B. Hence, Town A has exactly the same production capabilities as Town B. Anything that is available to Town A is also available to Town B, and vice versa. Town C is a newly built town. No roads have been built to Town C, so it will not have access to the resources of Towns A and B until a linking road is built.
+
+This is the approach taken by Civilization III. Of course, it's still not an entirely accurate solution—materials are assumed to travel instantaneously along the roads. (It's interesting to note, though, that previous iterations of the Civilization series did implement trade caravans, but Civilization III abstracted these to improve gameplay.)
+
+Not only do supply lines make gameplay that much more involving—it's not just a case of cranking out units and killing the world—but they also add a dimension to the range of possible attacks that a player can perform on an enemy. If you want to sack an enemy city, it makes sense to cut off the supply lines to the rest of the enemy empire (by destroying the road), thus preventing the soon-to-be attacked city from building the more advanced units to defend itself. In Civilization III, destroying the road also serves another purpose: It slows down the passage of reinforcement units from other cities and thus increases the chances of a successful siege.
+
+The depth of your economy depends on the pace of the game. However you choose to implement your economy, you should realize that the economy is the cornerstone of your game—even if it appears to be just a minor part of your design, the economy provides you with the easiest and most flexible range of methods for altering the game balance, by altering the costs (both direct and shadow) of performing operations within the game world.
+
+Remember, though, that when it comes to the true costs of operations, the raw unit of the economy is a function of effort and effectiveness. Effort is the amount of raw material (including time) required of the player to produce a unit; effectiveness is the usefulness of that unit relative to all other units available in the game.
+
+### Setting
+
+The choice of setting for your strategy game, although not as important as the underlying gameplay mechanisms behind it, is still a vital consideration. If the same underlying gameplay is dressed up with a different setting, it can feel like a totally different game. The core mechanics of a strategy game are the closest thing we have to a universal game-construction kit. You can transplant them into many different settings and get a different game.
+
+The choice of setting is highly dependent on your target market. Thus far, the three most common settings for strategy games have been historical, sci-fi, and contemporary (the latter particularly in the case of business-based strategy games).
+
+For games with a more militaristic setting, the present day is not necessarily the best choice, unless you're willing to court controversy and risk negative public opinion. Although this could gain your game some degree of notoriety, unless the game itself is a superlative addition to the gaming world (think Grand Theft Auto III), the disadvantages of such exposure will greatly outweigh any advantages—especially when it comes to your next game.
+
+Sci-fi settings are a good choice, but unless you have a compelling world to present, you run the risk of falling flat. The danger with sci-fi is that it is so easy to add weird and fantastical components without stopping to think whether you should add them. This is the Star Trek syndrome, and we hate to think of the difficulties presented to game designers who have to design for the Star Trek universe.
+
+If you ever watch the Star Trek: The Next Generation series, you will understand what we mean: Captain Picard and crew always have a solution for a problem, no matter what the odds are. If they're not inverting the phase inducers, they're inducing the phase inverters to beat some otherwise insurmountable problem. The problem with technology is that it too easy to see it as a panacea—and that can cause consistency dilemmas. If a self-consistent futuristic technology is to allow one thing, such as autoregenerating force weapons, then why wouldn't the technology be adaptable to provide a force shield to protect a unit from harm indefinitely?
+
+Historical settings offer rich pickings for strategy game design. Consequently, many strategy games are set in the past—either portrayed accurately or set in the realms of mythology. The danger here is in mediocrity through familiarity. So many games have been set in the past that we are running out of room. There are not so many more areas of history left that resonate with the modern game player. However, we believe there is still room for original approaches within this area. For example, gangster games, such as Eidos' Gangsters and Gangsters II, were (at the time) fresh takes on 20th-century history.
+
+### Interaction Model
+
+For strategy games, the interaction model for the player tends to be on the large scale. Rarely will you find a strategy game with a single avatar, although the PC version of Battlezone (not to be confused with the original coin-op) is a notable exception. Generally, the player is given a godlike view of the game world, indirectly controlling the units under his command. The true interaction model, in this instance, is related to the scale of the world. How many units does the player indirectly control? Is it a small squad, or is it a large army?
+
+The feel of a small squad is much more personal and intimate than a large army. The personalities of the units can be explored more, and the player tends to care more about the individual fates of his units. Also, with smaller groups, individual character progression (in terms of improvements in skill and ability) can be dealt with more thoroughly. The XCOM series of games had particular strengths in the area—the player controlled several small squads of soldiers. This number (about 20 on average) was small enough for the player to be able to keep a handle on each individual member. Incidentally, in these games, the player could also build up a team of noncombat players because the scientists that research the alien technology are all recruited individually by the player.
+
+For larger-scale games, it would be too hard for the player to keep track of every single unit in the army. Some games do attempt to do so, and usually this is in one of two ways. The first of these methods is to dramatically simplify unit progression (such as Recruit, Veteran, and Elite, as in Civilization III) so that it can be fairly easily understood. The other approach, which is taken by Warcraft III, is to nominate certain units as Hero units. These units are easily distinguished from normal units and are effectively like a squad within an army. The player can easily focus his attention on the small number of heroes relative to the total number of units in his army.
+
+Yet another interaction model that is prevalent in strategy games is the abstraction model. In this form, there is no physical representation of the player—or the player's forces—in the game world. Instead, the player deals with the data and statistics both directly and indirectly. This last model is more often seen with business-based strategy games such as RollerCoaster Tycoon. In this game, the player has no avatar. She deals directly with the game world and can see the results of her actions both by examining the visual representation of her theme park and by reading the statistics and reports provided. RollerCoaster Tycoon is also discussed in Chapter 14, "Construction and Management Simulations." RollerCoaster Tycoon is barely different from Age of Empires (as one example) in that respect. In both games, you build buildings and tell your units what to do. In RollerCoaster Tycoon, your units are simply repairmen, janitors, and other service people. In both games, you have no single avatar, but you view the whole world.
+
+### Perspective
+
+Almost without exception, up until about the year 2000, the primary perspectives used for strategy games were either 2D top-down or, more recently, 3D isometric views, usually tile-based. With the advent of powerful 3D graphics cards, a few strategy games appeared in full 3D, but usually these were gimmicks. Mostly, the use of 3D is limited to isometric—the 3D hardware is used just to give it a little extra flair.
+
+Even with the most powerful graphics card, the most important part of a strategy game is the ability for the player to get the big picture. The player cannot strategize effectively if he is forced to focus on the view from one avatar's perspective—as in Activision's Battlezone. That's why real-life generals stand in little tents pushing toy soldiers around on 2D maps.
+
+Even the use of tile-based game worlds is almost always used within the strategy genre because it lends itself well to tactical thinking. (It also lends itself well to programming, but that's beyond the scope of this book.) If a player can think in terms of consistent regions as having particular properties, that allows her to form her internal mental model of the game world that much easier. By simplifying this, we remove one more obstacle separating the game and the player.
+
+### User Interface
+
+The user interface to a strategy game (as with many other game genres) can make or break it. The difficulty in the case of a strategy game is that often the game must seamlessly present the player with different scales of information. This is a difficult task to achieve without breaking the flow of the game.
+
+Most strategy games take an approach based on a familiar paradigm. They present the data in windows, much in the same manner as a windowed operating system. Usually this is not a fully featured window system. Hence, it can be a little confusing to the novice player, who might not initially understand why he cannot perform the same actions with the game windows as he is allowed to with his operating system windows.
+
+This problem could be side-stepped by using the windows provided by the operating system to present the game, but, understandably, no designer wants her game to look like just another business or productivity application. It certainly does nothing for immersion.
+
+So, assuming that you take a windowed approach, try to ensure that, within reason, it behaves as the player would expect. Make buttons clear, concise, and recognizable. If possible, provide context-sensitive commands—that is, commands that appear only when appropriate. Another good thing to consider is the possibility of providing separate levels of command—a beginners mode and an advanced mode—so that the player can issue command with a finer grain as she becomes more experienced. Ensure that commands are well separated by area of functionality. SimCity 4 does a fantastic job with the user interface. All of the commands are separated by functionality into an intuitive nested sequence of menus. At the top level, the player can choose between mayor mode and god mode. Mayor mode provides standard commands (segregated into functional areas, such as roads, power, water, civic buildings, and land zoning) that pertain to the building of the city. God mode provides another unrelated set of commands that allow the player to unleash all sorts of fantastical and supernatural events upon her unsuspecting sims. Technically, SimCity 4 is a construction and management simulation, but for the purposes of our discussion here, the interface shares a lot in common with strategy games and is valid for this example.
+
+Above all, remember to cater to both experienced and inexperienced players. Inexperienced players will want clear and easy ways to find commands, while more advanced players will merely want quick access. For the advanced players, provide keyboard shortcuts for every command in the game.
+
+### Designing Opponents
+
+Designing opponents in strategy games is a subject of much research and investigation. Various approaches have been tried, including standard hierarchical Finite State Machines (hFSMs), neural nets, and genetic algorithms.
+
+The problem with these latter two is that it is difficult to guarantee a consistent result, and it is even more difficult to diagnose why a particular result occurred. In the tight time constraints of most game-development cycles, no one really has the time to determine why an essentially opaque AI system isn't working properly.
+
+The system that has had the most success so far is the goal-oriented hFSM system. With this approach, the AI chooses a top-level goal, such as "Take and hold this hill" or "Increase customer satisfaction," and delegates the tasks required to achieve the overall goal to subordinate hFSMs, which further delegate down to the individual unit level. It's similar to an army or any other hierarchical power structure, such as a corporation. The boss states the high-level goal and hands it down to his divisional managers. These managers translate the high-level goal into something meaningful for their division and then hand it down to their supervisors. The supervisors further transform these subgoals into meaningful tasks for their staff and partition out the work. From there, the staff members are free to interpret their tasks and to accomplish them as they see fit (within reason).
+
+This approach has several elegant and pleasing features, the most notable of which is a controlled use of emergence. This approach also lends itself well to design. It is conceivable to design the rough pattern of an AI opponent on paper in this fashion. Of course, unless you are extremely lucky or unbelievably talented, it will still require much tweaking after it is implemented, but it should be possible for you, the designer, to at least communicate your overall goals for the AI to the developers. For more fundamental information on balance and tuning, refer back to Chapter 8.
+
+> **Strategy Game Worksheet 策略游戏工作表**
+> 
+> When beginning the design of a strategy game, consider the following questions:
+> 
+> 1. Is the game turn-based or real-time? The answer to this question will have tremendous consequences for the nature and feel of the gameplay.
+> 
+> 2. Is the game world 2D (as in checkers), 2.5D (as in Starcraft), or fully 3D (as in Populous: The Beginning)? Will the game offer a perspective other than the usual aerial one?
+> 
+> 3. Which of the classic themes (conquest, exploration, trade) will the game include? Remember that it can include any or all, and that "conquest" does not necessarily mean "combat."
+> 
+> 4. Some games, like Go, are about control of territory rather than destruction of units per se. If this is true of your game, how is territory seized and how is it retained (or retaken)? What methods are used to indicate to the player who owns a particular region?
+> 
+> 5. If the game involves units in combat, what are the units and what are their key characteristics (strength, speed, range, reloading time) and limitations? Is there a scissors-paper-stone model to balance them; if not, what discourages the player from always choosing the "most-effective" unit?
+> 
+> 6. Is the player given a fixed number of units at the beginning, as with most strategy board games like chess, or is there a production mechanism? If there is a production mechanism, what are the production times and costs of each unit, and what (if anything) is consumed by production? If something is consumed by production, where does it come from in the first place?
+> 
+> 7. Real-time strategy games are prone to certain dominant strategies: the "tank rush" of Command & Conquer and the race for resources in two-player Dungeon Keeper. In both cases, these blunt approaches tend to overwhelm more subtle strategic details. Can you devise means of predicting and avoiding them?
+> 
+> 8. Does the game include a technology tree? If so, what is it and what causes the player to move along it (time, expenditure, collection of points, and so on)? What does it add to the player's experience of the game?
+> 
+> 9. Does the game include logistics (maintenance of supply lines)? What supplies must be provided, and what happens if supply lines are broken?
+> 
+> 10. What is the game's setting, if any? If the units are unfamiliar to the player, what visual cues or other cues will you use to indicate the difference between, for example, a dragoon, a cuirassier, and a grenadier?
+> 
+> 11. Is the game a large-scale one, with hundreds or thousands of units, or a small-scale one with tens of units? How will this affect the player's perception of them? What user interface features will be needed to manage them?
+> 
+> 12. How much can the player see? Will the game offer perfect information like chess, an exploration feature in which the landscape is unknown until explored, or a "fog of war" feature in which regions unobserved by a unit cannot be seen?
+> 
+> 13. If you can get hold of a copy, take a look at the level editor supplied with Warcraft III. Which of the level-building features (triggers, timed events, and so on) would you like to include in your game?
+> 
+> 14. Strategy games require particularly powerful AI, especially if the game is supposed to play in general circumstances and not just pre-built and pre-balanced levels. Given the rules of the game, what goals should the AI work toward, and how should they choose the actions to achieve those goals?

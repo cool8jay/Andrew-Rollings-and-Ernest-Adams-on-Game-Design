@@ -201,7 +201,7 @@ Foreshadowing is a powerful technique in storytelling. Consider an example from 
 
 Because foreshadowing is so powerful, it is very commonly used. Often in games that have boss characters, such as shoot 'em-ups, the boss character puts in brief cameo appearances throughout the level before appearing at the end of the level for the big confrontation. The various Star Wars games (an example of which is shown in Figure 4.3) that feature the Death Star often use this technique. The Death Star appears as part of the background graphics a couple of levels before the player is called upon to destroy it. As soon as it appears, ominously hanging in the distance like a small moon, the player knows that sooner or later he will be there.
 
-因为预示的作用非常强大，所以它被非常普遍地使用。通常，在有首领角色的游戏（如射击类游戏）中，首领角色会在整个关卡中短暂客串，然后在关卡结束时出现，与玩家展开激烈的正面对抗。以“死星”为特色的各种《星球大战》游戏（如图 4.3 所示）经常使用这种技巧。在玩家被要求摧毁死星之前的几个关卡中，死星会作为背景画面的一部分出现。它一出现，就像一个小月亮一样不祥地悬挂在远处，玩家就知道自己迟早会去那里。
+因为预示的作用非常强大，所以它被非常普遍地使用。通常，在有头目角色的游戏（如射击类游戏）中，头目角色会在整个关卡中短暂客串，然后在关卡结束时出现，与玩家展开激烈的正面对抗。以“死星”为特色的各种《星球大战》游戏（如图 4.3 所示）经常使用这种技巧。在玩家被要求摧毁死星之前的几个关卡中，死星会作为背景画面的一部分出现。它一出现，就像一个小月亮一样不祥地悬挂在远处，玩家就知道自己迟早会去那里。
 
 Figure 4.3. Star Wars: Rogue Squadron II. 图 4.3. 《星球大战：侠盗中队 II》。
 
@@ -403,7 +403,7 @@ The ordeal is the ultimate test: the fight with the nemesis. This is the culmina
 
 Many games follow this pattern. In fact, any game that has a succession of levels punctuated by increasingly powerful boss enemies for the player to defeat follows this pattern. [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion), Quake II, [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), [R-Type](https://en.wikipedia.org/wiki/R-Type), and [Diablo II](https://en.wikipedia.org/wiki/Diablo_II) are some of these. We're sure that you can add hundreds to the list.
 
-许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人首领越来越强大，就会遵循这种模式。[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)、[《雷神之锤二》](https://en.wikipedia.org/wiki/Quake_II)、[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))、[《异形战机》](https://en.wikipedia.org/wiki/R-Type)和[《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
+许多游戏都遵循这种模式。事实上，任何游戏，只要关卡层层递进，玩家要打败的敌人头目越来越强大，就会遵循这种模式。[《路易吉洋楼》](https://en.wikipedia.org/wiki/Luigi%27s_Mansion)、[《雷神之锤二》](https://en.wikipedia.org/wiki/Quake_II)、[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))、[《异形战机》](https://en.wikipedia.org/wiki/R-Type)和[《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)都是这样的游戏。我们相信，你还可以将数百种游戏添加到列表中。
 
 During the ordeal, you might try to cement the player's bond with the hero further. This is sometimes achieved by making it appear as if the hero is almost defeated, before fighting back from seemingly impossible odds to defeat the enemy.
 

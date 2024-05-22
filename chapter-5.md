@@ -407,7 +407,7 @@ The threshold guardian is another very common archetype used across the whole sp
 
 The most obvious example is the classic end-of-level boss used in virtually every arcade game since the Creation. A more subtle use of this archetype does not use force to dissuade the hero. It could be voiced by the hero's own self-doubt, or the warnings and ministrations of a mentor character. Consider the role of Yoda in The Empire Strikes Back . Although he acted as a mentor in training young Luke in the ways of the force, he also cautioned strongly against Luke leaving to face Darth Vader. Luke's training had not been completed, and he was not yet ready to face his nemesis.
 
-最明显的例子就是《创世纪》以来几乎所有街机游戏中都会出现的经典关卡终结首领。这种原型还有一种更巧妙的用法，即不使用武力来劝阻英雄。它可以是英雄自己的自我怀疑，也可以是导师角色的警告和教诲。考虑一下《帝国反击战》中尤达的角色。虽然他以导师的身份训练年轻的卢克掌握力量之道，但他也强烈警告卢克不要去面对达斯·维达。卢克的训练尚未完成，他还没有准备好面对他的克星。
+最明显的例子就是《创世纪》以来几乎所有街机游戏中都会出现的经典关卡终结头目。这种原型还有一种更巧妙的用法，即不使用武力来劝阻英雄。它可以是英雄自己的自我怀疑，也可以是导师角色的警告和教诲。考虑一下《帝国反击战》中尤达的角色。虽然他以导师的身份训练年轻的卢克掌握力量之道，但他也强烈警告卢克不要去面对达斯·维达。卢克的训练尚未完成，他还没有准备好面对他的克星。
 
 ### Trickster 骗子
 
