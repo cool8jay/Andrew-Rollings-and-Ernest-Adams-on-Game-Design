@@ -261,7 +261,7 @@ One important consideration for realistic characters is based on the diagram sho
 
 Figure 5.11. Character growth cycle. 图 5.11. 角色成长周期。
 
-![](/.gitbook/assets/5.11.gif)
+![](/.gitbook/assets/5.11.png)
 
 The common character growth cycle that is tied in with the Hero's Journey advises how to manage the growth of the hero character. The hero starts with a limited awareness of himself and his situation. As the story unfolds, the hero's awareness increases to a point at which he realizes that a change is necessary. At this point, the hero often exhibits a reluctance to change—the point at which he would be leaving his ordinary world and entering the special world—and has to dedicate himself to overcoming his reluctance. The point at which the hero has committed himself to change usually signals the end of the first act of the story.
 
