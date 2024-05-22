@@ -10,4 +10,5 @@
 * [Chapter 7. Gameplay 游戏性](chapter-7.md)
 * [Chapter 8. The Internal Economy of Games and Game Balancing 游戏的内部经济和游戏平衡](chapter-8.md)
 * [Chapter 9. Action Games 动作游戏](chapter-9.md)
+* [Chapter 10. Strategy Games 策略游戏](chapter-10.md)
 * [Chapter 16. Artificial Life, Puzzle Games, and Other Genres 人造生命，益智游戏和其它类型](chapter-16.md)
