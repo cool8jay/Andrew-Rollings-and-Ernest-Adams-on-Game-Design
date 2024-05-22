@@ -32,16 +32,22 @@ As a general rule, pure strategy games tend to be turn-based rather than real-ti
 在"min-max"策略中，玩家尝试最小化可能的最大损失（minimize the maximum loss），或者在某些情况下，最大化可能的最小收益（maximize the minimum gain）。换句话说，玩家在制定策略时会考虑最坏的情况，并试图在这个最坏情况下实现最佳结果。
 {% endhint %}
 
-An offshoot of the turn-based strategy game concept is the real-time strategy (RTS) genre. Westwood's Dune II is considered to be the first true real-time strategy game, although we believe that the game Battlemaster (screens from which are shown in Figure 10.1), released in 1990 for the Commodore Amiga and Atari ST computers, marks the true origin of the RTS genre.
+An offshoot of the turn-based strategy game concept is the real-time strategy (RTS) genre. [Westwood](https://en.wikipedia.org/wiki/Westwood_Studios)'s [Dune II](https://en.wikipedia.org/wiki/Dune_II) is considered to be the first true real-time strategy game, although we believe that the game [Battle Master](https://en.wikipedia.org/wiki/Battle_Master) (screens from which are shown in Figure 10.1), released in 1990 for the Commodore Amiga and Atari ST computers, marks the true origin of the RTS genre.
 
-回合制战略游戏概念的一个分支是实时战略（RTS）类型。韦斯特伍德的《沙丘 II》被认为是第一款真正意义上的即时战略游戏，不过我们认为，1990 年在 Commodore Amiga 和 Atari ST 电脑上发布的游戏《Battlemaster》（其画面如图 10.1 所示）才是即时战略类型的真正起源。
+回合制战略游戏概念的一个分支是实时战略（RTS）类型。[西木工作室](https://en.wikipedia.org/wiki/Westwood_Studios)的[《沙丘二》](https://en.wikipedia.org/wiki/Dune_II)被认为是第一款真正意义上的即时战略游戏，不过我们认为，1990 年在 Commodore Amiga 和 Atari ST 电脑上发布的游戏[《Battle Master》](https://en.wikipedia.org/wiki/Battle_Master)（其画面如图 10.1 所示）才是即时战略类型的真正起源。
 
-Figure 10.1. Battlemaster. 图 10.1. Battlemaster.
+Figure 10.1. Battle Master. 图 10.1. 《Battle Master》。
 
-graphics/10fig01.jpg
+![](.gitbook/assets/10.1.png)
 
 RTS games are differentiated from pure strategy games in that time is a constant pressure. There are no "turns" during which the player can ponder his moves—everything happens at once. Consequently, reaction time and quick action are as important as strategic thinking.
 
-Although the RTS game breathed new life into the strategy genre, and although titles such as Dune II, Warcraft, and Age of Empires propelled it into mass-market acceptance, there has been little innovation to maintain this momentum over the past few years.
+RTS 游戏不同于纯粹的策略游戏，因为时间是一种持续的压力。游戏中没有“回合”，玩家无暇仔细琢磨自己的行动，所有事情都是一气呵成。因此，反应时间和快速行动与战略思维同样重要。
+
+Although the RTS game breathed new life into the strategy genre, and although titles such as [Dune II](https://en.wikipedia.org/wiki/Dune_II), [Warcraft](https://en.wikipedia.org/wiki/Warcraft), and [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires) propelled it into mass-market acceptance, there has been little innovation to maintain this momentum over the past few years.
+
+尽管 RTS 游戏为战略类型游戏注入了新的活力，尽管[《沙丘二》](https://en.wikipedia.org/wiki/Dune_II)、[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)和[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)等游戏推动了战略类型游戏进入大众市场，但在过去几年中，几乎没有什么创新来保持这种势头。
 
 Aside from growing more complex, prettier, and larger over the years, the fundamental design of the RTS has remained virtually unchanged since the beginning.
+
+多年来，RTS 除了变得更复杂、更漂亮、更庞大之外，其基本设计从一开始就几乎没有变化。
