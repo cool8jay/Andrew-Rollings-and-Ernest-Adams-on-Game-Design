@@ -426,7 +426,7 @@ Emergence is the action of simple rules combining to produce complex results. Th
 > "We ended up with a game that I didn't know how to win. I didn't know which were the best strategies or tactics, even though I designed all the game's systems. That is what makes a good strategy game."\
 > “我们最终完成了一个我不知道如何取胜的游戏。尽管游戏的所有系统都是我设计的，但我不知道哪些是最好的战略或战术。这才是一款好的策略游戏。”
 > 
-> —Julian Gollop, referring to [X-Com: UFO Defense](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)\
+> —Julian Gollop, referring to [XCom: UFO Defense](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)\
 > 朱利安·戈洛普在谈到[《幽浮：UFO 防御》](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)时说道
 
 Of course, the phenomenon of emergence is not restricted to the domain of the computer. Emergence is ubiquitous in nature. Literally everything you see, touch, taste, hear, and feel is a direct result of emergence. From a few simple rules, the amazing complexity of the universe emerges. The motion of the planets is accurately predicted by the general theory of relativity, our genetic code determines our body shape and size, and a few simple electrochemical interactions in our brains produce our consciousness and personality.
@@ -608,7 +608,7 @@ Actually, this is almost identical to the first interaction model. It's really j
 
 实际上，这与第一种互动模式几乎完全相同。这其实只是一个语义问题。这取决于由谁来定义一个系统是否平衡。不过，保留这种区别还是很有用的。需要注意的是，破坏平衡并不一定意味着系统必须陷入混乱——尽管这是一种有效的解释，而且在很多游戏中都曾使用过。此外，它也可能意味着玩家必须从一个平衡点转移到另一个平衡点。
 
-An example of a game that uses this interaction model is [X-Com: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) (see Figure 8.16). The Earth has been invaded by evil aliens (aren't they all?) who seem intent on using it for their own nefarious purposes. This is the first equilibrium point. The task of the player is to rid the Earth of the evil aliens, hence moving the system to a new alien-free equilibrium.
+An example of a game that uses this interaction model is [XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) (see Figure 8.16). The Earth has been invaded by evil aliens (aren't they all?) who seem intent on using it for their own nefarious purposes. This is the first equilibrium point. The task of the player is to rid the Earth of the evil aliens, hence moving the system to a new alien-free equilibrium.
 
 [《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)（见图 8.16）就是一个使用这种交互模式的游戏实例。邪恶的外星人入侵了地球（它们不都是邪恶的么？）这是第一个平衡点。玩家的任务是将邪恶的外星人赶出地球，从而使系统进入一个新的无外星人平衡点。
 
