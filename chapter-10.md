@@ -161,7 +161,7 @@ Assume that a unit dealing above average damage causes only slightly greater dam
 
 The nature of the parameters used to define the abilities very much depends on the nature of the units and the environment they are in. For example, the turning arc of an individual foot soldier is not really an important consideration and can be safely ignored. However, in Taldren's Starfleet Command III, shown in Figure 10.6, the turning arc of a starship is an extremely important factor—you cannot fire on an opponent if your available weapon is facing the wrong way. This can make the difference between victory and defeat if your starship cannot turn quickly enough to return fire. Of course, this could have made for an extremely frustrating and arbitrary game if the designers had not had the foresight to build in an exception clause: The player has the option of choosing to perform a high-risk "rapid turn" (which brings to mind images of shaking cameras and aging actors throwing themselves around a set in synchronization), the success of which depends on the skill of the helmsman and the amount of time since that particular maneuver was last performed.
 
-用于定义能力的参数的性质在很大程度上取决于部队的性质和所处的环境。例如，单个步兵的转弯弧度并不是一个重要的考虑因素，可以放心地忽略不计。然而，在图 10.6 所示的 Taldren 的《星际舰队指令 III》中，星舰的转弯弧度是一个极其重要的因素——如果你的可用武器朝向错误，你就无法向对手开火。如果您的星舰不能迅速转向以进行还击，那么这将决定胜负。当然，如果设计者没有先见之明，没有在游戏中加入例外条款，这可能会使游戏变得极其令人沮丧和武断：玩家可以选择进行高风险的“快速转向”（这会让人联想到晃动的摄像机和老态龙钟的演员们在布景中同步旋转的画面），成功与否取决于舵手的技能和上次进行该特定操作的时间。
+用于定义能力的参数的性质在很大程度上取决于部队的性质和所处的环境。例如，单个步兵的转弯弧度并不是一个重要的考虑因素，可以放心地忽略不计。然而，在图 10.6 所示的 Taldren 的《星际舰队指令 III》中，星舰的转弯弧度是一个极其重要的因素——如果你的可用武器朝向错误，你就无法向对手开火。如果你的星舰不能迅速转向以进行还击，那么这将决定胜负。当然，如果设计者没有先见之明，没有在游戏中加入例外条款，这可能会使游戏变得极其令人沮丧和武断：玩家可以选择进行高风险的“快速转向”（这会让人联想到晃动的摄像机和老态龙钟的演员们在布景中同步旋转的画面），成功与否取决于舵手的技能和上次进行该特定操作的时间。
 
 Figure 10.6. Taldren's Starfleet Command III. 图 10.6. 塔尔德伦的《星际舰队指令 III》。
 
@@ -177,7 +177,7 @@ The use of diplomacy is more suited to a slower-paced strategy game—designed t
 
 ### Exploration 探索
 
-Games that focus on exploration often use the conquest activity in almost equal parts. Consider [X-Com: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown), which depicted the secretive invasion of Earth by aliens. In this way, it was both familiar and unfamiliar. Players were aware of the map of the Earth, but the location of hidden alien bases and UFO landing sites was a mystery until the player sent out a squad of XCOM soldiers to investigate the site.
+Games that focus on exploration often use the conquest activity in almost equal parts. Consider [XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown), which depicted the secretive invasion of Earth by aliens. In this way, it was both familiar and unfamiliar. Players were aware of the map of the Earth, but the location of hidden alien bases and UFO landing sites was a mystery until the player sent out a squad of XCOM soldiers to investigate the site.
 
 以探索为主题的游戏通常会在几乎相同的部分中使用征服活动。比如[《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)，它描述了外星人秘密入侵地球的故事。这样，它既熟悉又陌生。玩家知道地球的地图，但隐藏的外星人基地和不明飞行物着陆点的位置却是个谜，直到玩家派出一队 XCOM 士兵前往调查。
 
@@ -201,49 +201,87 @@ Figure 10.8. A tech-tree from Natural Selection. 图 10.8. 《自然选择》中
 
 graphics/10fig08.gif
 
-XCOM: Enemy Unknown was by no means the first computer strategy game to implement a tech-tree, and it has been used in virtually every computer strategy game ever since. Usually, when a particular mechanism has been used this much, it becomes stale through overuse. Fortunately, though, in the case of the tech-tree, it is such a general concept that it rarely seems stale. Of course, it's also true that no one has come up with a better idea yet.
+[XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) was by no means the first computer strategy game to implement a tech-tree, and it has been used in virtually every computer strategy game ever since. Usually, when a particular mechanism has been used this much, it becomes stale through overuse. Fortunately, though, in the case of the tech-tree, it is such a general concept that it rarely seems stale. Of course, it's also true that no one has come up with a better idea yet.
+
+[《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)绝不是第一款采用科技树的电脑策略游戏，从那以后，几乎所有的电脑策略游戏都采用了科技树。通常情况下，当一种特定的机制被使用得如此之多时，它就会因为过度使用而变得陈旧。不过幸运的是，就技术树而言，它是一个非常普遍的概念，因此很少显得陈旧。当然，也确实还没有人提出更好的想法。
 
 The tech-tree serves other purposes in a game as well. Mainly, it serves as a means of limiting and rationing the spread of technology. This can be used to pace the game effectively so that the progression from (for example) stone age to iron age to machine age can be managed in a somewhat realistic fashion.
 
+科技树在游戏中还有其他作用。主要是作为限制和配给技术传播的一种手段。这可以有效地控制游戏的节奏，使从石器时代（例如）到铁器时代再到机器时代的发展在一定程度上符合现实。
+
 Of course, this technique can also be misused. In most RTS games, the single-player campaigns limit which technology upgrades are available on a certain level. This is a rather heavy-handed way of ensuring that the campaign balance is maintained and that the difficulty level progresses smoothly. This approach prevents the more experienced player from blitzing the earlier levels by upgrading his units to a greater level than the (usually scripted) computer opposition.
+
+当然，这种技巧也可能被滥用。在大多数 RTS 游戏中，单人战役都会限制在某一关卡可以获得哪些技术升级。这是一种相当笨拙的方式，目的是确保战役的平衡性和难度的顺利进行。这种方法可以防止经验丰富的玩家将自己的单位升级到比电脑对手（通常是程序设定好的）更高的水平，从而在较早的关卡中大获全胜。
 
 The problem with this approach is that the implementation of an artificial upgrade barrier really jars the suspension of disbelief. The player ends up wondering why she could not upgrade her units to the next level, especially when it was possible to do so on the previous level. There are methods available to alleviate this problem, although none of them is an ideal solution.
 
+这种方法的问题在于，人为设置升级障碍确实会破坏玩家的信任感。玩家最终会想，为什么不能将自己的单位升级到下一级，尤其是在上一级可以升级的情况下。有一些方法可以缓解这个问题，尽管它们都不是理想的解决方案。
+
 The first and most obvious method is to maintain consistency. When a player has gained the knowledge of an upgrade, then that knowledge should never be taken away temporarily (for example, with levels of an RTS that disallow certain units without a good reason, even though the player previously was able to create those units).
+
+第一个也是最明显的方法是保持一致性。当玩家获得了升级的知识后，这种知识就不应该被暂时剥夺（例如，在 RTS 的关卡中，虽然玩家之前可以创建某些单位，但在没有充分理由的情况下，这些关卡不允许玩家创建这些单位）。
 
 The second method by which the designer can justify preventing access to certain units is to provide an excuse. For example, the pre-mission blurb could state, "Advanced cybermarines are not available in this environment, due to the risk of the increased power consumption of their enhanced exoskeleton armor causing a chain reaction in the methanogenic gas atmosphere," or "Flying units are disallowed in this mission due to the risk of being detected by the enemy's early warning system." What works for Star Trek script writers will also work for you as a designer.
 
+设计者阻止使用某些单位的第二种方法是提供一个借口。例如，任务前的介绍可以这样说：“在这种环境下无法使用先进的网络陆战队员，因为它们的增强型外骨骼装甲的耗电量增加，有可能在甲烷气体环境中引起连锁反应”，或者“由于有被敌人的预警系统发现的风险，在这次任务中不允许使用飞行单位”。对《星际迷航》编剧有用的东西，对作为设计师的你也同样有用。
+
 The third—and, in our opinion, best—method is not to disallow any previously accessible upgrades. Instead, vary the shadow costs of the units that you want to prevent the use of on a level-by-level basis. For example, if the advanced cybermarine requires a larger quantity of a certain resource, then make that resource extremely scarce. Better still, make it a choice between a certain unit or structure that is required to achieve victory. Be upfront about this: State it in the mission objectives. Then, if the player wastes all his resources on building cybermarines instead of achieving the mission, he will have only himself to blame. Another way that the shadow costs can be varied for a particular unit (or class of units) is to make sure that the enemy is extremely proficient in taking out that kind of unit. For example, if you want to disallow flying units, then arm the computer opponent with extremely effective antiaircraft weaponry; above all, make it clear to the player that this is why his strategy is failing. (We find that opponent taunts are a wonderfully sarcastic way to achieve this.)
 
+第三种方法，也是我们认为最好的一种方法，就是不禁止任何以前可以使用的升级。取而代之的是，逐级改变你想阻止使用的单位的影子成本。例如，如果先进的网络陆战队员需要更多的某种资源，那么就让这种资源变得极其稀缺。更好的办法是，在取得胜利所需的某种单位或建筑之间做出选择。这一点要提前说明：在任务目标中说明这一点。这样一来，如果玩家把所有资源都浪费在建造网络陆战队员上，而不是去完成任务，那就只能怪他自己了。另一种可以改变特定单位（或单位类别）影子成本的方法是，确保敌人非常精通如何消灭这类单位。例如，如果你想禁止飞行单位，那么就用极其有效的防空武器来武装电脑对手；最重要的是，要让玩家明白，这就是他的战略失败的原因。(我们发现，对手的嘲讽是实现这一目的的绝妙讽刺方式）。
+
 Many other variations of this method can be used, and they are all preferable to the first two methods. The key benefit of this third method is that it does not directly prevent the player from deploying a certain kind of unit—it just makes sure that it is not wise to do so under certain circumstances. This is a restriction that the player can actually appreciate and accept as part of the game, rather than something that appears to be an arbitrary decision by the game designer to hack a mission into place.
+
+这种方法还可以有许多其他变体，它们都比前两种方法更可取。第三种方法的主要优点在于，它并不直接阻止玩家部署某种单位，而只是确保在某些情况下这样做是不明智的。玩家可以真正理解并接受这种限制，并将其视为游戏的一部分，而不是游戏设计者为完成任务而随意做出的决定。
 
 ### Trade 贸易
 
 The whole conflict/trade/exploration (physical and tech-tree–based) concept is the basic overarching play mechanic of strategy games—particularly turn-based games. In real-time games, the higher-level aspects of conflict are toned down to a more visceral level and the importance of trade is greatly diminished.
 
-Usually in RTS, trade is handled simply: Resources such as gold or oil are mined using worker units and are directly exchanged for more units. In this way, an extremely simplistic wartime economy is set up. The important thing to realize is that the economics of a strategy game do not need to be realistic—they must be merely consistent with the world in which it is based. For example, to be completely realistic, the troops in Warcraft would require supply lines to maintain them. However, this is not feasible because it would add unnecessary complexity to the game. Instead, resources are decentralized and can be used from anywhere on the map: Food produced on farms is magically eaten by units, even if they are on the other side of the world.
+整个冲突/贸易/探索（基于物理和科技树）概念是策略游戏——尤其是回合制游戏——的基本玩法机制。在即时制游戏中，冲突的高级层面被淡化到更直观的程度，贸易的重要性也大大降低。
 
-This decentralization of resources can cause certain balance problems in games if they are not carefully handled. For example, one particular weakness of this genre of game (which we first spotted in Age of Empires) is the "amoeba problem."
+Usually in RTS, trade is handled simply: Resources such as gold or oil are mined using worker units and are directly exchanged for more units. In this way, an extremely simplistic wartime economy is set up. The important thing to realize is that the economics of a strategy game do not need to be realistic—they must be merely consistent with the world in which it is based. For example, to be completely realistic, the troops in [Warcraft](https://en.wikipedia.org/wiki/Warcraft) would require supply lines to maintain them. However, this is not feasible because it would add unnecessary complexity to the game. Instead, resources are decentralized and can be used from anywhere on the map: Food produced on farms is magically eaten by units, even if they are on the other side of the world.
 
-In Age of Empires, it is possible to send a lone peasant into an inaccessible area and build a structure, such as a barracks. Assuming that it is not spotted, this structure can immediately start producing troops right on the enemy doorstep, with no regard for supply lines or resource distribution. Clearly, this amoebic invasion is unrealistic and effectively weakens the game. Players of Age of Empires and other similar games generally have certain expectations of adherence to reality, and this exceeds those expectations.
+通常在即时战略游戏中，贸易的处理很简单：使用工人单位开采黄金或石油等资源，然后直接换取更多的单位。这样，一个极其简单的战时经济就建立起来了。重要的是要认识到，战略游戏的经济学并不一定要逼真——它们必须与游戏所基于的世界相一致。例如，如果要完全逼真，[《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)中的部队就需要补给线来维持。然而，这并不可行，因为这会给游戏增加不必要的复杂性。相反，资源是分散的，可以在地图上的任何地方使用：农场生产的食物会被部队神奇地吃掉，即使它们在世界的另一端。
 
-Unfortunately, forcing players of an RTS to deal with supply-line issues is not a good solution. In his regular design column for U.K.–based Develop magazine, Dave Morris postulated a potential solution for this: Reward the player for maintaining the supply line (by enabling units to heal/self-repair in the field), but don't explicitly punish the player for not maintaining the supply line. It's difficult enough having to handle the battle, without having to handle the supply as well. A solution for this (which has been at least partially implemented in one RTS to date) is to use influence maps to indicate the areas to which resources are distributed. Two out of the three races in StarCraft use a limited form of influence map to indicate where their influence has spread. The Protoss power beacons (used to provide power to the Protoss structures) have a limited radius of power distribution, and the Zerg Creep provides a nutrient-rich building surface for the Zerg to grow their organic structures. Interestingly, the human player has no such restrictions.
+This decentralization of resources can cause certain balance problems in games if they are not carefully handled. For example, one particular weakness of this genre of game (which we first spotted in [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires)) is the "amoeba problem."
+
+如果处理不当，资源的这种分散性可能会在游戏中造成某些平衡问题。例如，这种类型游戏的一个特殊弱点（我们在[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)中首次发现）就是 “变形虫问题”。
+
+In [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires), it is possible to send a lone peasant into an inaccessible area and build a structure, such as a barracks. Assuming that it is not spotted, this structure can immediately start producing troops right on the enemy doorstep, with no regard for supply lines or resource distribution. Clearly, this amoebic invasion is unrealistic and effectively weakens the game. Players of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires) and other similar games generally have certain expectations of adherence to reality, and this exceeds those expectations.
+
+在[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)中，玩家可以派一个孤独的农民到一个人迹罕至的地方建造一个建筑，比如兵营。如果没有被发现，这个建筑就可以在敌人家门口立即开始生产部队，而无需考虑补给线或资源分配。显然，这种变形虫式的入侵是不现实的，而且实际上削弱了游戏的可玩性。[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)和其他类似游戏的玩家一般都对游戏是否贴近现实有一定的期望，而这款游戏却超出了他们的期望。
+
+Unfortunately, forcing players of an RTS to deal with supply-line issues is not a good solution. In his regular design column for U.K.–based Develop magazine, Dave Morris postulated a potential solution for this: Reward the player for maintaining the supply line (by enabling units to heal/self-repair in the field), but don't explicitly punish the player for not maintaining the supply line. It's difficult enough having to handle the battle, without having to handle the supply as well. A solution for this (which has been at least partially implemented in one RTS to date) is to use influence maps to indicate the areas to which resources are distributed. Two out of the three races in [Starcraft](https://en.wikipedia.org/wiki/StarCraft) use a limited form of influence map to indicate where their influence has spread. The Protoss power beacons (used to provide power to the Protoss structures) have a limited radius of power distribution, and the Zerg Creep provides a nutrient-rich building surface for the Zerg to grow their organic structures. Interestingly, the human player has no such restrictions.
+
+遗憾的是，强迫 RTS 玩家处理补给线问题并不是一个好的解决方案。戴夫·莫里斯在他为英国《Develop》杂志定期撰写的设计专栏中提出了一个潜在的解决方案：奖励维持补给线的玩家（通过让单位在战场上治疗/自我修复），但不要明确惩罚不维持补给线的玩家。要处理战斗已经很困难了，还得处理补给问题。解决这个问题的方法（迄今为止至少有一款 RTS 已部分实现）是使用势力范围图来指示资源分配的区域。在[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)的三个种族中，有两个种族使用了有限形式的势力范围图来指示其势力范围的分布。神族动力信标（用于为神族建筑提供能源）有一个有限的能源分布半径，而虫族菌毯则为虫族提供了一个营养丰富的建筑表面，供虫族生长有机建筑。有趣的是，人族却没有这样的限制。
 
 Slower-paced strategy games allow the player to focus a lot more on trade and other aspects of resource distribution, and allow this to become a much more integral part of the game. For example, consider the territory map shown in Figure 10.9.
 
-Figure 10.9. Resource distribution across a territory.
+节奏较慢的策略游戏可以让玩家更加关注贸易和资源分配的其他方面，并使其成为游戏中更加不可或缺的一部分。例如，请看图 10.9 所示的领土地图。
+
+Figure 10.9. Resource distribution across a territory. 图 10.9. 领土上的资源分布。
 
 graphics/10fig09.gif
 
 Town B has access to a forest—it has a road (supply line) leading directly to the forest, providing a ready source of lumber. This allows Town B to build wood-based units, such as catapults. Town A is linked to Town B via a road. This means that there is a readily available supply route between Town A and Town B. Hence, Town A has exactly the same production capabilities as Town B. Anything that is available to Town A is also available to Town B, and vice versa. Town C is a newly built town. No roads have been built to Town C, so it will not have access to the resources of Towns A and B until a linking road is built.
 
-This is the approach taken by Civilization III. Of course, it's still not an entirely accurate solution—materials are assumed to travel instantaneously along the roads. (It's interesting to note, though, that previous iterations of the Civilization series did implement trade caravans, but Civilization III abstracted these to improve gameplay.)
+城镇 B 可以进入森林——它有一条直接通往森林的道路（补给线），可以提供现成的木材来源。这使得 B 城镇可以建造木制单位，如弹投石机。城镇 A 通过一条公路与城镇 B 相连。这意味着 A 镇和 B 镇之间有一条现成的供应路线。因此，A 镇的生产能力与 B 镇完全相同。C 镇是一个新建的城镇。C 镇尚未修建道路，因此在修建连接道路之前，它无法获得 A 镇和 B 镇的资源。
 
-Not only do supply lines make gameplay that much more involving—it's not just a case of cranking out units and killing the world—but they also add a dimension to the range of possible attacks that a player can perform on an enemy. If you want to sack an enemy city, it makes sense to cut off the supply lines to the rest of the enemy empire (by destroying the road), thus preventing the soon-to-be attacked city from building the more advanced units to defend itself. In Civilization III, destroying the road also serves another purpose: It slows down the passage of reinforcement units from other cities and thus increases the chances of a successful siege.
+This is the approach taken by [Civilization III](https://en.wikipedia.org/wiki/Civilization_III). Of course, it's still not an entirely accurate solution—materials are assumed to travel instantaneously along the roads. (It's interesting to note, though, that previous iterations of the [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) series did implement trade caravans, but [Civilization III](https://en.wikipedia.org/wiki/Civilization_III) abstracted these to improve gameplay.)
+
+这就是[《文明三》](https://en.wikipedia.org/wiki/Civilization_III)所采用的方法。当然，这仍然不是一个完全准确的解决方案——物资沿道路运输被假定为瞬时发生。(不过值得注意的是，[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))系列的前几代作品中确实有贸易商队，但[《文明三》](https://en.wikipedia.org/wiki/Civilization_III)中为了提升游戏性将这一部分进行了抽象化处理。）
+
+Not only do supply lines make gameplay that much more involving—it's not just a case of cranking out units and killing the world—but they also add a dimension to the range of possible attacks that a player can perform on an enemy. If you want to sack an enemy city, it makes sense to cut off the supply lines to the rest of the enemy empire (by destroying the road), thus preventing the soon-to-be attacked city from building the more advanced units to defend itself. In [Civilization III](https://en.wikipedia.org/wiki/Civilization_III), destroying the road also serves another purpose: It slows down the passage of reinforcement units from other cities and thus increases the chances of a successful siege.
+
+补给线不仅让游戏的参与性大大增加——不仅仅是制造单位和杀戮世界，而且还为玩家可能对敌人发动的攻击范围增加了一个维度。如果你想洗劫敌方的一座城市，那么切断通往敌方帝国其他地方的补给线（通过摧毁道路），从而阻止即将被攻击的城市建造更先进的单位来保卫自己，这是很有意义的。在[《文明三》](https://en.wikipedia.org/wiki/Civilization_III)中，摧毁道路还有另一个作用：它可以减缓其他城市增援部队的通行速度，从而增加攻城成功的几率。
 
 The depth of your economy depends on the pace of the game. However you choose to implement your economy, you should realize that the economy is the cornerstone of your game—even if it appears to be just a minor part of your design, the economy provides you with the easiest and most flexible range of methods for altering the game balance, by altering the costs (both direct and shadow) of performing operations within the game world.
 
+经济的深度取决于游戏的节奏。无论你选择如何实现经济，你都应该意识到经济是游戏的基石——即使它在你的设计中似乎只是一个次要部分，但经济通过改变在游戏世界中进行操作的成本（包括直接成本和影子成本），为你提供了改变游戏平衡的最简单、最灵活的方法。
+
 Remember, though, that when it comes to the true costs of operations, the raw unit of the economy is a function of effort and effectiveness. Effort is the amount of raw material (including time) required of the player to produce a unit; effectiveness is the usefulness of that unit relative to all other units available in the game.
+
+但请记住，当涉及到操作的真实成本时，经济的原始单位是耗费和效率的函数。耗费是指玩家生产一个单位所需的原材料量（包括时间）；效率是指该单位相对于游戏中所有其他单位的有用性。
 
 ### Setting
 
