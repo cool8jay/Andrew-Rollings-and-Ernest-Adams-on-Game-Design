@@ -283,23 +283,37 @@ Remember, though, that when it comes to the true costs of operations, the raw un
 
 但请记住，当涉及到操作的真实成本时，经济的原始单位是耗费和效率的函数。耗费是指玩家生产一个单位所需的原材料量（包括时间）；效率是指该单位相对于游戏中所有其他单位的有用性。
 
-### Setting
+### Setting 背景设定
 
 The choice of setting for your strategy game, although not as important as the underlying gameplay mechanisms behind it, is still a vital consideration. If the same underlying gameplay is dressed up with a different setting, it can feel like a totally different game. The core mechanics of a strategy game are the closest thing we have to a universal game-construction kit. You can transplant them into many different settings and get a different game.
 
+策略游戏的设定选择虽然不如其背后的基本游戏机制那么重要，但仍然是一个重要的考虑因素。如果用不同的设定来包装同样的基本玩法，就会让人感觉是完全不同的游戏。策略游戏的核心机制是我们拥有的最具通用性的游戏构建工具。你可以把它们移植到许多不同的设定中，获得不同的游戏。
+
 The choice of setting is highly dependent on your target market. Thus far, the three most common settings for strategy games have been historical, sci-fi, and contemporary (the latter particularly in the case of business-based strategy games).
+
+选择何种设定在很大程度上取决于你的目标市场。迄今为止，策略游戏最常见的三种背景分别是历史、科幻和现代（后者尤其适用于以商业为基础的战略游戏）。
 
 For games with a more militaristic setting, the present day is not necessarily the best choice, unless you're willing to court controversy and risk negative public opinion. Although this could gain your game some degree of notoriety, unless the game itself is a superlative addition to the gaming world (think Grand Theft Auto III), the disadvantages of such exposure will greatly outweigh any advantages—especially when it comes to your next game.
 
+对于军国主义色彩较浓的游戏来说，当代并不一定是最佳选择，除非你愿意引起争议，冒着负面舆论的风险。虽然这可能会让你的游戏获得一定程度的恶名，但除非游戏本身是游戏界的超级精品（想想《侠盗猎车手 3》），否则这种曝光的弊将远大于利——尤其是在下一款游戏时。
+
 Sci-fi settings are a good choice, but unless you have a compelling world to present, you run the risk of falling flat. The danger with sci-fi is that it is so easy to add weird and fantastical components without stopping to think whether you should add them. This is the Star Trek syndrome, and we hate to think of the difficulties presented to game designers who have to design for the Star Trek universe.
+
+科幻背景是一个不错的选择，但除非你有一个引人入胜的世界，否则就有可能平淡无奇。科幻游戏的危险在于，它很容易加入奇异和幻想的元素，而不考虑是否应该添加它们。这就是“星际迷航”综合症，我们不愿想象游戏设计师在为《星际迷航》宇宙设计时所面临的困难。
 
 If you ever watch the Star Trek: The Next Generation series, you will understand what we mean: Captain Picard and crew always have a solution for a problem, no matter what the odds are. If they're not inverting the phase inducers, they're inducing the phase inverters to beat some otherwise insurmountable problem. The problem with technology is that it too easy to see it as a panacea—and that can cause consistency dilemmas. If a self-consistent futuristic technology is to allow one thing, such as autoregenerating force weapons, then why wouldn't the technology be adaptable to provide a force shield to protect a unit from harm indefinitely?
 
-Historical settings offer rich pickings for strategy game design. Consequently, many strategy games are set in the past—either portrayed accurately or set in the realms of mythology. The danger here is in mediocrity through familiarity. So many games have been set in the past that we are running out of room. There are not so many more areas of history left that resonate with the modern game player. However, we believe there is still room for original approaches within this area. For example, gangster games, such as Eidos' Gangsters and Gangsters II, were (at the time) fresh takes on 20th-century history.
+如果你看过《星际迷航：下一代》系列，你就会明白我们的意思：无论遇到什么困难，皮卡德船长和船员们总有办法解决问题。如果他们不是在反转相位感应器，就是在诱导相位反转器来打败一些原本无法解决的问题。技术的问题在于，人们很容易将其视为万能药——这可能会导致一致性困境。如果一种自洽的未来技术只允许做一件事，比如自动再生的力场武器，那么为什么这项技术不能适应地提供一个力场护盾，无限期地保护一个单位不受伤害呢？
 
-### Interaction Model
+Historical settings offer rich pickings for strategy game design. Consequently, many strategy games are set in the past—either portrayed accurately or set in the realms of mythology. The danger here is in mediocrity through familiarity. So many games have been set in the past that we are running out of room. There are not so many more areas of history left that resonate with the modern game player. However, we believe there is still room for original approaches within this area. For example, gangster games, such as Eidos' [Gangsters](https://en.wikipedia.org/wiki/Gangsters:_Organized_Crime) and [Gangsters II](https://en.wikipedia.org/wiki/Gangsters_2), were (at the time) fresh takes on 20th-century history.
+
+历史背景为策略游戏设计提供了丰富的素材。因此，许多策略游戏都以过去为背景——或是准确描绘，或是以神话为背景。这里的危险在于因熟悉而平庸。以过去为背景的游戏太多了，我们已经没有空间了。能够引起现代游戏玩家共鸣的历史领域已经不多了。不过，我们认为在这一领域仍有原创空间。例如，黑帮游戏，如 Eidos 的[教父](https://en.wikipedia.org/wiki/Gangsters:_Organized_Crime)和[教父二](https://en.wikipedia.org/wiki/Gangsters_2)，（在当时）是对 20 世纪历史的全新诠释。
+
+### Interaction Model 互动模式
 
 For strategy games, the interaction model for the player tends to be on the large scale. Rarely will you find a strategy game with a single avatar, although the PC version of Battlezone (not to be confused with the original coin-op) is a notable exception. Generally, the player is given a godlike view of the game world, indirectly controlling the units under his command. The true interaction model, in this instance, is related to the scale of the world. How many units does the player indirectly control? Is it a small squad, or is it a large army?
+
+对于策略游戏来说，玩家的互动模式往往是大规模的。虽然 PC 版的《终极战区》（不要与最初的投币游戏混淆）是个明显的例外，但很少能找到只有一个化身的策略游戏。一般来说，玩家在游戏世界中拥有上帝般的视角，间接控制着自己麾下的单位。在这种情况下，真正的互动模式与世界的规模有关。玩家间接控制多少个单位？是一个小队，还是一支大军？
 
 The feel of a small squad is much more personal and intimate than a large army. The personalities of the units can be explored more, and the player tends to care more about the individual fates of his units. Also, with smaller groups, individual character progression (in terms of improvements in skill and ability) can be dealt with more thoroughly. The XCOM series of games had particular strengths in the area—the player controlled several small squads of soldiers. This number (about 20 on average) was small enough for the player to be able to keep a handle on each individual member. Incidentally, in these games, the player could also build up a team of noncombat players because the scientists that research the alien technology are all recruited individually by the player.
 
