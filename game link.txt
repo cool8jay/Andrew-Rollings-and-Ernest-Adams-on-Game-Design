@@ -16,8 +16,11 @@
 
 这两个游戏，中文名重名
 
-[Sim City](https://en.wikipedia.org/wiki/SimCity)
+[SimCity](https://en.wikipedia.org/wiki/SimCity)
 [《模拟城市》](https://en.wikipedia.org/wiki/SimCity)
+
+[SimCity 4](https://en.wikipedia.org/wiki/SimCity_4)
+[《模拟城市四》](https://en.wikipedia.org/wiki/SimCity_4)
 
 [Sim Tower](https://en.wikipedia.org/wiki/SimTower)
 [《模拟大厦》](https://en.wikipedia.org/wiki/SimTower)
@@ -52,8 +55,15 @@
 [Tom Hall](https://en.wikipedia.org/wiki/Tom_Hall)
 [汤姆·霍尔](https://en.wikipedia.org/wiki/Tom_Hall)
 
+[《Warcraft III》](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
+[《魔兽争霸三》](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)
+
 [Warcraft](https://en.wikipedia.org/wiki/Warcraft)
 [《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)
+系列
+
+
+
 
 [Starcraft](https://en.wikipedia.org/wiki/StarCraft)
 [《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)
@@ -301,6 +311,9 @@
 [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
 [《垄断大亨》](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
 
+[RollerCoaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon)
+[《过山车大亨》](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon)
+
 [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game))
 [《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))
 
@@ -367,6 +380,10 @@
  [XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)
 [《幽浮：未知敌人》](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown)
 
+
+[XCOM](https://en.wikipedia.org/wiki/XCOM)
+[《幽浮》](https://en.wikipedia.org/wiki/XCOM)
+系列
 
 [Gangsters](https://en.wikipedia.org/wiki/Gangsters:_Organized_Crime)
 [教父](https://en.wikipedia.org/wiki/Gangsters:_Organized_Crime)
