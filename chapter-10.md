@@ -367,40 +367,64 @@ Above all, remember to cater to both experienced and inexperienced players. Inex
 
 Designing opponents in strategy games is a subject of much research and investigation. Various approaches have been tried, including standard hierarchical Finite State Machines (hFSMs), neural nets, and genetic algorithms.
 
+在策略游戏中设计对手是一个需要进行大量研究和调查的课题。人们尝试了各种方法，包括标准分层有限状态机（hFSMs）、神经网络和遗传算法。
+
 The problem with these latter two is that it is difficult to guarantee a consistent result, and it is even more difficult to diagnose why a particular result occurred. In the tight time constraints of most game-development cycles, no one really has the time to determine why an essentially opaque AI system isn't working properly.
+
+后两种方法的问题在于，很难保证结果的一致性，而且更难诊断特定结果出现的原因。在大多数游戏开发周期时间紧迫的情况下，没有人真正有时间去确定为什么一个本质上不透明的人工智能系统不能正常工作。
 
 The system that has had the most success so far is the goal-oriented hFSM system. With this approach, the AI chooses a top-level goal, such as "Take and hold this hill" or "Increase customer satisfaction," and delegates the tasks required to achieve the overall goal to subordinate hFSMs, which further delegate down to the individual unit level. It's similar to an army or any other hierarchical power structure, such as a corporation. The boss states the high-level goal and hands it down to his divisional managers. These managers translate the high-level goal into something meaningful for their division and then hand it down to their supervisors. The supervisors further transform these subgoals into meaningful tasks for their staff and partition out the work. From there, the staff members are free to interpret their tasks and to accomplish them as they see fit (within reason).
 
-This approach has several elegant and pleasing features, the most notable of which is a controlled use of emergence. This approach also lends itself well to design. It is conceivable to design the rough pattern of an AI opponent on paper in this fashion. Of course, unless you are extremely lucky or unbelievably talented, it will still require much tweaking after it is implemented, but it should be possible for you, the designer, to at least communicate your overall goals for the AI to the developers. For more fundamental information on balance and tuning, refer back to Chapter 8.
+迄今为止，最成功的系统是以目标为导向的 hFSM 系统。采用这种方法时，人工智能会选择一个最高级别的目标，如“攻占并守住这座山头”或“提高客户满意度”，然后将实现总体目标所需的任务分配给下属的 hFSM，而 hFSM 会进一步将任务分配到各个单位。这类似于军队或任何其他等级权力结构，如公司。老板提出高层目标，并将其下达给各部门经理。这些经理将高层目标转化为对本部门有意义的目标，然后再下达给他们的主管。主管进一步将这些子目标转化为对其员工有意义的任务，并将工作分工。在此基础上，员工可以自由解释他们的任务，并按照他们认为合适的方式（在合理的范围内）完成任务。
+
+This approach has several elegant and pleasing features, the most notable of which is a controlled use of emergence. This approach also lends itself well to design. It is conceivable to design the rough pattern of an AI opponent on paper in this fashion. Of course, unless you are extremely lucky or unbelievably talented, it will still require much tweaking after it is implemented, but it should be possible for you, the designer, to at least communicate your overall goals for the AI to the developers. For more fundamental information on balance and tuning, refer back to [Chapter 8](chapter-8.md).
+
+这种方法有几个优雅而令人愉悦的特点，其中最显著的是有节制地使用涌现。这种方法也非常适合设计。可以想象，用这种方法可以在纸上设计出人工智能对手的大致模式。当然，除非你运气极佳或天赋异禀，否则在实现后仍需要进行大量调整，但作为设计者，你至少可以将你对人工智能的总体目标传达给开发人员。有关平衡和调整的更多基本信息，请参阅[第八章](chapter-8.md)。
 
 > **Strategy Game Worksheet 策略游戏工作表**
 > 
 > When beginning the design of a strategy game, consider the following questions:
 > 
-> 1. Is the game turn-based or real-time? The answer to this question will have tremendous consequences for the nature and feel of the gameplay.
+> 开始设计策略游戏时，请考虑以下问题：
 > 
-> 2. Is the game world 2D (as in checkers), 2.5D (as in Starcraft), or fully 3D (as in Populous: The Beginning)? Will the game offer a perspective other than the usual aerial one?
+> 1. Is the game turn-based or real-time? The answer to this question will have tremendous consequences for the nature and feel of the gameplay.\
+>游戏是回合制还是实时制？这个问题的答案将对游戏的性质和感觉产生巨大影响。
 > 
-> 3. Which of the classic themes (conquest, exploration, trade) will the game include? Remember that it can include any or all, and that "conquest" does not necessarily mean "combat."
+> 2. Is the game world 2D (as in checkers), 2.5D (as in [Starcraft](https://en.wikipedia.org/wiki/StarCraft)), or fully 3D (as in [Populous: The Beginning](https://en.wikipedia.org/wiki/Populous:_The_Beginning))? Will the game offer a perspective other than the usual aerial one?\
+>游戏世界是 2D（如跳棋）、2.5D（如[《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)），还是全 3D（如[《上帝也疯狂：开天辟地》](https://en.wikipedia.org/wiki/Populous:_The_Beginning)）？除了通常的空中视角，游戏还会提供其他视角吗？
+>
+> 3. Which of the classic themes (conquest, exploration, trade) will the game include? Remember that it can include any or all, and that "conquest" does not necessarily mean "combat."\
+>游戏将包含哪些经典主题（征服、探索、贸易）？请记住，它可以包含任何主题，也可以包含所有主题，而且“征服”并不一定意味着“战斗”。
 > 
-> 4. Some games, like Go, are about control of territory rather than destruction of units per se. If this is true of your game, how is territory seized and how is it retained (or retaken)? What methods are used to indicate to the player who owns a particular region?
+> 4. Some games, like Go, are about control of territory rather than destruction of units per se. If this is true of your game, how is territory seized and how is it retained (or retaken)? What methods are used to indicate to the player who owns a particular region?\
+> 有些游戏，如围棋，是关于领土的控制，而不是单位本身的破坏。如果你的游戏确实如此，那么领土是如何夺取的，又是如何保留（或夺回）的？用什么方法向玩家表明谁拥有某个特定区域？
 > 
-> 5. If the game involves units in combat, what are the units and what are their key characteristics (strength, speed, range, reloading time) and limitations? Is there a scissors-paper-stone model to balance them; if not, what discourages the player from always choosing the "most-effective" unit?
+> 5. If the game involves units in combat, what are the units and what are their key characteristics (strength, speed, range, reloading time) and limitations? Is there a scissors-paper-stone model to balance them; if not, what discourages the player from always choosing the "most-effective" unit?\
+> 如果游戏涉及战斗单位，那么有哪些单位，它们的主要特点（力量、速度、射程、装填时间）和限制是什么？是否有 “剪刀——石头——布”的平衡模式；如果没有，如何避免玩家总是选择“最有效”的单位？
 > 
-> 6. Is the player given a fixed number of units at the beginning, as with most strategy board games like chess, or is there a production mechanism? If there is a production mechanism, what are the production times and costs of each unit, and what (if anything) is consumed by production? If something is consumed by production, where does it come from in the first place?
+> 6. Is the player given a fixed number of units at the beginning, as with most strategy board games like chess, or is there a production mechanism? If there is a production mechanism, what are the production times and costs of each unit, and what (if anything) is consumed by production? If something is consumed by production, where does it come from in the first place?\
+> 是像国际象棋等大多数策略棋类游戏一样，一开始就给玩家固定数量的单位，还是有一个生产机制？如果有生产机制，那么每个单位的生产时间和成本是多少？如果生产消耗了什么，那么它又从何而来？
 > 
-> 7. Real-time strategy games are prone to certain dominant strategies: the "tank rush" of Command & Conquer and the race for resources in two-player Dungeon Keeper. In both cases, these blunt approaches tend to overwhelm more subtle strategic details. Can you devise means of predicting and avoiding them?
+> 7. Real-time strategy games are prone to certain dominant strategies: the "tank rush" of [Command and Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) and the race for resources in two-player [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). In both cases, these blunt approaches tend to overwhelm more subtle strategic details. Can you devise means of predicting and avoiding them?\
+> 即时战略游戏很容易出现某些优势策略：[《命令与征服》](https://en.wikipedia.org/wiki/Command_%26_Conquer)中的 “坦克快攻”和[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中的双人资源竞赛。在这两种情况下，这些直截了当的方法往往会压倒更微妙的战略细节。你能设计出预测和避免它们的方法吗？
 > 
-> 8. Does the game include a technology tree? If so, what is it and what causes the player to move along it (time, expenditure, collection of points, and so on)? What does it add to the player's experience of the game?
+> 8. Does the game include a technology tree? If so, what is it and what causes the player to move along it (time, expenditure, collection of points, and so on)? What does it add to the player's experience of the game?\
+> 游戏包含科技树吗？如果有，它是什么？是什么原因导致玩家沿着它前进（时间、花费、收集点数等等）？它给玩家的游戏体验带来了什么？
 > 
-> 9. Does the game include logistics (maintenance of supply lines)? What supplies must be provided, and what happens if supply lines are broken?
+> 9. Does the game include logistics (maintenance of supply lines)? What supplies must be provided, and what happens if supply lines are broken?\
+> 游戏是否包括后勤（补给线的维护）？必须提供哪些补给，如果补给线断了会怎样？
 > 
-> 10. What is the game's setting, if any? If the units are unfamiliar to the player, what visual cues or other cues will you use to indicate the difference between, for example, a dragoon, a cuirassier, and a grenadier?
+> 10. What is the game's setting, if any? If the units are unfamiliar to the player, what visual cues or other cues will you use to indicate the difference between, for example, a dragoon, a cuirassier, and a grenadier?\
+> 如果有，游戏的背景设定是什么？如果玩家不熟悉这些单位，你将使用什么视觉提示或其他提示来区分龙骑兵、铠甲兵和榴弹兵？
 > 
-> 11. Is the game a large-scale one, with hundreds or thousands of units, or a small-scale one with tens of units? How will this affect the player's perception of them? What user interface features will be needed to manage them?
+> 11. Is the game a large-scale one, with hundreds or thousands of units, or a small-scale one with tens of units? How will this affect the player's perception of them? What user interface features will be needed to manage them?\
+> 游戏是拥有成百上千个单位的大规模游戏，还是只有几十个单位的小规模游戏？这将如何影响玩家对它们的感知？管理它们需要哪些用户界面功能？
 > 
-> 12. How much can the player see? Will the game offer perfect information like chess, an exploration feature in which the landscape is unknown until explored, or a "fog of war" feature in which regions unobserved by a unit cannot be seen?
+> 12. How much can the player see? Will the game offer perfect information like chess, an exploration feature in which the landscape is unknown until explored, or a "fog of war" feature in which regions unobserved by a unit cannot be seen?\
+> 玩家能看到多少？游戏会像国际象棋一样提供完全信息，还是会提供探索功能，即在探索之前对地形一无所知，还是会提供“战争迷雾”功能，即无法看到单位未观察到的区域？
 > 
-> 13. If you can get hold of a copy, take a look at the level editor supplied with Warcraft III. Which of the level-building features (triggers, timed events, and so on) would you like to include in your game?
+> 13. If you can get hold of a copy, take a look at the level editor supplied with [《Warcraft III》](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos). Which of the level-building features (triggers, timed events, and so on) would you like to include in your game?\
+> 如果你能得到一份副本，请看看[《魔兽争霸三》](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos)附带的关卡编辑器。你希望在游戏中加入哪些关卡构建功能（触发器、定时事件等）？
 > 
-> 14. Strategy games require particularly powerful AI, especially if the game is supposed to play in general circumstances and not just pre-built and pre-balanced levels. Given the rules of the game, what goals should the AI work toward, and how should they choose the actions to achieve those goals?
+> 14. Strategy games require particularly powerful AI, especially if the game is supposed to play in general circumstances and not just pre-built and pre-balanced levels. Given the rules of the game, what goals should the AI work toward, and how should they choose the actions to achieve those goals?\
+> 策略游戏需要特别强大的人工智能，尤其是如果游戏应该在一般情况下进行，而不仅仅是预建和预平衡的关卡。考虑到游戏规则，人工智能应该朝着什么目标努力，又应该如何选择行动来实现这些目标？

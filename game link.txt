@@ -25,6 +25,9 @@
 [Sim Tower](https://en.wikipedia.org/wiki/SimTower)
 [《模拟大厦》](https://en.wikipedia.org/wiki/SimTower)
 
+[Populous: The Beginning](https://en.wikipedia.org/wiki/Populous:_The_Beginning)
+[《上帝也疯狂：开天辟地》](https://en.wikipedia.org/wiki/Populous:_The_Beginning)
+
 [Little Computer People](https://en.wikipedia.org/wiki/Little_Computer_People)
 [《小小电脑人》](https://en.wikipedia.org/wiki/Little_Computer_People)
 
@@ -62,11 +65,15 @@
 [《魔兽争霸》](https://en.wikipedia.org/wiki/Warcraft)
 系列
 
-
-
-
 [Starcraft](https://en.wikipedia.org/wiki/StarCraft)
 [《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)
+
+[Command and Conquer: Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)
+[《命令与征服：红色警戒》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)
+
+[Command and Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer)
+[《命令与征服》](https://en.wikipedia.org/wiki/Command_%26_Conquer)
+系列
 
 [Super Turbo Street Fighter 2](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo)
 [《超级街头霸王 2》](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo)
