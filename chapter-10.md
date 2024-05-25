@@ -60,15 +60,15 @@ Strategy games, whether turn-based or real-time, all feature a core management m
 
 * **The theme.** For example, not many people will be interested in managing a colony of nematodes. Strategy games tend to have themes with sweeping importance, such as conquest (Age of Kings), exploration (Sid Meier's Colonization), or trade (the Tycoon series of games).\
 
-**主题。**例如，没有多少人会对管理线虫群感兴趣。策略游戏的主题往往具有广泛的重要性，如征服（《国王时代》）、探索（《席德·梅尔的殖民》）或贸易（《大亨》系列游戏）。
+	**主题。**例如，没有多少人会对管理线虫群感兴趣。策略游戏的主题往往具有广泛的重要性，如征服（《国王时代》）、探索（《席德·梅尔的殖民》）或贸易（《大亨》系列游戏）。
 
 * **The presentation layer.** By nature, strategy games often have extremely complicated underlying mechanics. Consequently, the design of the player interface to the game is critical. The interface can organize and simplify this complexity for a player or, if not handled well, can make the game overwhelming and confusing.\
 
-**表现层。**从本质上讲，策略游戏的基本机制往往极其复杂。因此，游戏玩家界面的设计至关重要。界面可以为玩家组织和简化这种复杂性，否则，如果处理不当，就会使游戏变得令人不知所措和困惑。
+	**表现层。**从本质上讲，策略游戏的基本机制往往极其复杂。因此，游戏玩家界面的设计至关重要。界面可以为玩家组织和简化这种复杂性，否则，如果处理不当，就会使游戏变得令人不知所措和困惑。
 
 * **The perspective.** Strategy games have traditionally used only a few perspectives for the player to experience the game world. Most strategy games tend toward grand-scale manipulation of the game world, but a few require the player to control a small group or a single avatar. The games that implement the latter option tend to place a greater emphasis on arcade action and real-time activities.\
 
-**视角** 策略游戏传统上只使用几个视角让玩家体验游戏世界。大多数战略游戏都倾向于大范围地操纵游戏世界，但也有少数游戏要求玩家控制一个小团体或单个化身。采用后一种方式的游戏往往更强调街机操作和实时活动。
+	**视角。** 策略游戏传统上只使用几个视角让玩家体验游戏世界。大多数战略游戏都倾向于大范围地操纵游戏世界，但也有少数游戏要求玩家控制一个小团体或单个化身。采用后一种方式的游戏往往更强调街机操作和实时活动。
 
 ## Themes 主题
 
