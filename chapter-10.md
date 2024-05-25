@@ -1,6 +1,6 @@
 The origin of strategy games is rooted in their close cousins, board games. If there is any format of game that is closest to the original pre-computer form (where that existed), it is the strategy game. This chapter is the most PC-centric chapter in the entire book, but for good reason: Most strategy games are released for the PC. Console efforts so far have been few and far between.
 
-策略游戏起源于它们的近亲——棋盘游戏。如果说有什么游戏形式最接近电脑前的原始形式（如果有的话），那就是策略游戏了。本章是全书中最以 PC 为中心的一章，但这是有道理的：大多数策略游戏都是针对 PC 发布的，而在游戏机上的策略游戏少之又少。
+策略游戏起源于它们的近亲——桌游。如果说有什么游戏形式最接近电脑前的原始形式（如果有的话），那就是策略游戏了。本章是全书中最以 PC 为中心的一章，但这是有道理的：大多数策略游戏都是针对 PC 发布的，而在游戏机上的策略游戏少之又少。
 
 The benefits that the computer has brought to the strategy game genre include the capability to impartially manage complex rule-sets that would be next to impossible for a human to manage without bogging down the game to a level at which it is no longer fun to play.
 
@@ -16,7 +16,7 @@ The archetypal example of a computer strategy game is the [Civilization](https:/
 
 Intriguingly, the computer game [Civilization III](https://en.wikipedia.org/wiki/Civilization_III) has made a rare transition: from a computer game to a board game. [Civilization III: The Board Game](https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-the-boardgame) was released in October 2002, featuring three sets of rules (basic, standard, and advanced) and 784 plastic miniature pieces. Not surprisingly, Civilization III: The Board Game is significantly more complex than [Advanced Civilization](https://en.wikipedia.org/wiki/Advanced_Civilization), the board game that the original Sid Meier's [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) game was based on in the first place. This is good evidence that although translating and enhancing board games to the computer is an excellent method of producing compelling and fun strategy games, the converse is not necessarily true.
 
-耐人寻味的是，电脑游戏[《文明三》](https://en.wikipedia.org/wiki/Civilization_III)罕见地实现了从电脑游戏到棋盘游戏的转变。[《文明三：棋盘游戏》](https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-the-boardgame)于 2002 年 10 月发行，有三套规则（基本规则、标准规则和高级规则）和 784 个塑料小棋子。毫不奇怪，[《文明三：棋盘游戏》](https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-the-boardgame)要比[《高级文明》](https://en.wikipedia.org/wiki/Advanced_Civilization)复杂得多，而[《高级文明》](https://en.wikipedia.org/wiki/Advanced_Civilization)正是席德·梅尔的[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))游戏的原型。这充分证明，虽然将棋盘游戏转换到电脑上并对其进行改进，是制作引人入胜且有趣的策略游戏的绝佳方法，但反之亦然。
+耐人寻味的是，电脑游戏[《文明三》](https://en.wikipedia.org/wiki/Civilization_III)罕见地实现了从电脑游戏到桌游的转变。[《文明三：棋盘游戏》](https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-the-boardgame)于 2002 年 10 月发行，有三套规则（基本规则、标准规则和高级规则）和 784 个塑料小棋子。毫不奇怪，[《文明三：棋盘游戏》](https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-the-boardgame)要比[《高级文明》](https://en.wikipedia.org/wiki/Advanced_Civilization)复杂得多，而[《高级文明》](https://en.wikipedia.org/wiki/Advanced_Civilization)正是席德·梅尔的[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))游戏的原型。这充分证明，虽然将桌游转换到电脑上并对其进行改进，是制作引人入胜且有趣的策略游戏的绝佳方法，但反之亦然。
 
 However, the comparative simplicity of the rules of computer-based strategy games (compared to other genres) lends itself to a good analysis of the effectiveness of the rules of play. In essence, strategy games are the easiest genre in which to generate a consistent and balanced rule-set. That is not to say that they are easier to design. However, the rules are easier to analyze for balance, mainly due to the discrete turn-based nature of the gameplay that most strategy games exhibit.
 
@@ -24,7 +24,7 @@ However, the comparative simplicity of the rules of computer-based strategy game
 
 As a general rule, pure strategy games tend to be turn-based rather than real-time. Strategic thinking, at least in the arena of gameplay, does not lend itself well to real-time action. The player often prefers to mull over his moves, considering the impact of one choice over another. In board games, this can result in frustrating "analysis paralysis," in which one player spends a large amount of time min-maxing his move and breaks the flow of the game. Fortunately, computers are infinitely patient, so this sort of behavior should be tolerated—although it should not be required by the game design.
 
-一般来说，纯策略游戏倾向于回合制而非即时制。至少在游戏领域，战略思维并不适合实时操作。玩家通常更喜欢琢磨自己的行动，考虑一个选择对另一个选择的影响。在棋盘游戏中，这可能会导致令人沮丧的“分析瘫痪”，即一名玩家花费大量时间对自己的棋步进行最小化，从而破坏了游戏的流畅性。幸运的是，计算机有无限的耐心，因此这种行为应该被容忍——尽管游戏设计不应该要求这样做。
+一般来说，纯策略游戏倾向于回合制而非即时制。至少在游戏领域，战略思维并不适合实时操作。玩家通常更喜欢琢磨自己的行动，考虑一个选择对另一个选择的影响。在桌游中，这可能会导致令人沮丧的“分析瘫痪”，即一名玩家花费大量时间对自己的棋步进行最小化，从而破坏了游戏的流畅性。幸运的是，计算机有无限的耐心，因此这种行为应该被容忍——尽管游戏设计不应该要求这样做。
 
 {% hint style="info" %}
 译者注：min-max，是一种策略，通常用于游戏理论和决策过程中，尤其是在那些涉及竞争和优化决策的场景中。这个术语是由数学家约翰·冯·诺伊曼在博弈论的背景下提出的。
@@ -90,7 +90,7 @@ Hasbro's [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon) focuse
 
 As we've mentioned, the roots of the strategy game can easily be traced back to the board game. In fact, board games make an excellent starting point to discuss the features of computer strategy games—their rule-sets are simple enough to grasp in entirety, and observations on the effectiveness of these rule-sets scale well to apply equally effectively to the more complex computer strategy game. Consequently, we examine each of these three core activities in more detail, using board games as examples.
 
-正如我们所提到的，策略游戏的根源很容易追溯到棋盘游戏。事实上，棋盘游戏是讨论电脑策略游戏特点的绝佳切入点——它们的规则集非常简单，足以让人完全掌握，而对这些规则集有效性的观察也同样适用于更为复杂的电脑策略游戏。因此，我们将以棋盘游戏为例，对这三种核心活动逐一进行更详细的研究。
+正如我们所提到的，策略游戏的根源很容易追溯到桌游。事实上，桌游是讨论电脑策略游戏特点的绝佳切入点——它们的规则集非常简单，足以让人完全掌握，而对这些规则集有效性的观察也同样适用于更为复杂的电脑策略游戏。因此，我们将以桌游为例，对这三种核心活动逐一进行更详细的研究。
 
 ### Conquest 征服
 
@@ -104,7 +104,7 @@ Conquest—at least, in the physical sense—is facilitated by allowing the play
 
 The essence of conflict is a contest between two or more opponents, each with an inherent set of attributes that are used to determine the outcome. Often, to achieve game balance, these conflict relationships are resolved with the use of an SPS (Scissors-Paper-Stone) mechanism, with an early example coming from [The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War): knights beat barbarians, barbarians beat archers, archers beat knights. This approach is simple and—if implemented well—guarantees a fair relationship between all the conflicting entities. The use of the SPS mechanism is also a telling reminder of the board-game origin of the modern computer strategy game, although the computer allows for much more complex relationships, including compound relationships. Computers are ideal for handling this sort of complexity automatically—board games that attempt to implement this level of detail in their rules seem to get bogged down in a morass of rules. Of course, some people like tabletop war-games that last for weeks on end—but they are in the minority. Much of this material was covered in Chapter 8, "The Internal Economy of Games and Game Balancing," but we'll be extending that discussion here to cover the specifics of conflict in strategy games.
 
-冲突的本质是两个或两个以上对手之间的较量，每个对手都有一套固有属性，用来决定胜负。通常情况下，为了实现游戏平衡，这些冲突关系是通过使用 SPS（剪刀-纸-石头）机制来解决的，早期的例子来自[《战争上古艺术》](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War)：骑士击败野蛮人，野蛮人击败弓箭手，弓箭手击败骑士。这种方法简单易行，如果实施得当，可以保证所有冲突实体之间的公平关系。SPS 机制的使用也让人联想到现代电脑策略游戏的棋盘游戏起源，尽管电脑允许更复杂的关系，包括复合关系。计算机非常适合自动处理这种复杂性——试图在规则中实现这种细节的棋盘游戏似乎会陷入规则的泥潭。当然，有些人喜欢持续数周的桌面战争游戏，但他们毕竟是少数。[第八章](chapter-8.md)“游戏的内部经济和游戏平衡”中已经介绍了其中的许多内容，但我们将在此延伸讨论策略游戏中冲突的具体细节。
+冲突的本质是两个或两个以上对手之间的较量，每个对手都有一套固有属性，用来决定胜负。通常情况下，为了实现游戏平衡，这些冲突关系是通过使用 SPS（剪刀-纸-石头）机制来解决的，早期的例子来自[《战争上古艺术》](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War)：骑士击败野蛮人，野蛮人击败弓箭手，弓箭手击败骑士。这种方法简单易行，如果实施得当，可以保证所有冲突实体之间的公平关系。SPS 机制的使用也让人联想到现代电脑策略游戏的桌游起源，尽管电脑允许更复杂的关系，包括复合关系。计算机非常适合自动处理这种复杂性——试图在规则中实现这种细节的桌游似乎会陷入规则的泥潭。当然，有些人喜欢持续数周的桌面战争游戏，但他们毕竟是少数。[第八章](chapter-8.md)“游戏的内部经济和游戏平衡”中已经介绍了其中的许多内容，但我们将在此延伸讨论策略游戏中冲突的具体细节。
 
 Consider an imaginary contest between two players, each with a squad of men, as shown in Figure 10.2. The red player has a squad of archers, and the blue player has a squad of horsemen. Typically, in a one-on-one battle between the two squads, the blue player will be victorious. That is because the horsemen can ride down the archers en masse before they can cause too much damage. Archers are less effective at close range; consequently, as long as the blue player can get through the initial barrage of arrows, he is assured victory. In terms of unit equality, we can say that one horseman will strongly tend to beat one archer. Given no other variation is parameters, this rule is inviolate: Horsemen beat archers.
 
@@ -112,7 +112,7 @@ Consider an imaginary contest between two players, each with a squad of men, as 
 
 Figure 10.2. Red versus blue: Blue is victorious! 图 10.2. 红色对蓝色：蓝方获胜！
 
-graphics/10fig02.gif
+![](.gitbook/assets/10.2.gif)
 
 The red player is obviously not impressed by the outcome of this skirmish and decides to replace his archers with peasants. The peasants line up in formation, as shown in Figure 10.3, and are soundly beaten by the horsemen, who can deal out damage far more efficiently than the peasants. The result is the same: Blue wins. From this, we can say with certainty that, given no other variation in parameters, horsemen beat peasants.
 
@@ -120,7 +120,7 @@ The red player is obviously not impressed by the outcome of this skirmish and de
 
 Figure 10.3. Red versus blue: Blue is victorious again! 图 10.3. 红色对蓝色：蓝方再次获胜！
 
-graphics/10fig03.gif
+![](.gitbook/assets/10.3.gif)
 
 However, let's assume that the red player replaces two thirds of his archers with peasants. He places his peasants in a row facing the horsemen, and his archers remain at a safe distance behind the peasants, as shown in Figure 10.4. Now, to reach the archers, the blue player's horseman must first defeat the peasants. While they are doing so, the archers are free to rain arrows on the horsemen, causing much more damage than the archers from the previous encounter. The delay caused by the peasants allows the archers to pick off the horsemen. The net result: Red victory. This is an example of compound SPS effects—in other words, the whole is greater than the sum. Archers alone get slaughtered by the heavily armed and faster horsemen, as do peasants. When used together, their combined strength and weakness overlap to create more than a match for the beleaguered horsemen.
 
@@ -128,7 +128,7 @@ However, let's assume that the red player replaces two thirds of his archers wit
 
 Figure 10.4. Red versus blue: Red is victorious! 图 10.4. 红色对蓝色：红色获胜！
 
-graphics/10fig04.gif
+![](.gitbook/assets/10.4.gif)
 
 This is an obviously simplified example, but the results scale up from the squad level to the scale of grand armies—the same rules apply. Of course, this result brings some additional complications to the SPS model. With combination effects such as this, you now have to consider placement and other factors—consider the result if the red player had switched the positions of the archers and peasants, as shown in Figure 10.5. Then the compound effect would have been wasted—instead of each type of unit covering for the others weakness, the converse would be true.
 
@@ -136,7 +136,7 @@ This is an obviously simplified example, but the results scale up from the squad
 
 Figure 10.5. Red versus blue: Red's big mistake! 图 10.5. 红色与蓝色： 红方的大错！
 
-graphics/10fig05.gif
+![](.gitbook/assets/10.5.gif)
 
 A detailed discussion of the relative merits of formations is beyond the scope of this book, but it is interesting to realize that explicit formation rules do not need to be explicitly implemented in the game design. In fact, outside of a few remote situations, you should never explicitly design such a high-level set of rules into your game. Concentrate on the lower-level individual unit parameters, and the higher-level features such as formation effectiveness will emerge from those.
 
@@ -165,7 +165,7 @@ The nature of the parameters used to define the abilities very much depends on t
 
 Figure 10.6. Taldren's Starfleet Command III. 图 10.6. 塔尔德伦的《星际舰队指令 III》。
 
-graphics/10fig06.gif
+![](.gitbook/assets/10.6.png)
 
 Conflict does not necessarily have to involve physical combat. Whereas RTS games and "simpler" strategy games tend to focus on the combat aspects, the more advanced and progressive games tend to keep combat as a "last resort" option, more closely mirroring reality. For example, Civilization III uses diplomacy as another method of introducing conflict to the game. In real life, diplomacy is considered to be the "polite face" of war; in Civilization III, it is no different. The response of the enemy leaders to your diplomatic overtures depends in large part on whether you have the force to back up your tough words. Of course, diplomacy isn't all about trash-talk and "who-has-the-biggest-missile" contests—it also allows for the formation of diplomatic alliances and missions of peace. Somehow, though (and maybe it's just the way we play the game), the fine words of friendship are soon forgotten once the alliance has outlived its usefulness.
 
@@ -187,7 +187,7 @@ Like conflict, exploration isn't just a physical phenomenon. XCOM is a particula
 
 Figure 10.7. The fog of war (from Warcraft III). 图 10.7. 战争迷雾（来自《魔兽争霸三》）。
 
-graphics/10fig07.jpg
+![](.gitbook/assets/10.7.png)
 
 If the soldiers defeat the aliens at a site cleanly enough to be able to recover some of their advanced technology, the second form of exploration comes into effect. The XCOM squad takes the technology back to the base, and the player can assign researchers to unlock the secrets of the alien technology. When they have discovered how the alien technology functions, the XCOM experts can duplicate it, giving the player a better chance against the stronger aliens with even better technology.
 
@@ -199,7 +199,7 @@ Again, this is a common mechanism for allowing the exploration of nonphysical fr
 
 Figure 10.8. A tech-tree from Natural Selection. 图 10.8. 《自然选择》中的科技树。
 
-graphics/10fig08.gif
+![](.gitbook/assets/10.8.gif)
 
 [XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) was by no means the first computer strategy game to implement a tech-tree, and it has been used in virtually every computer strategy game ever since. Usually, when a particular mechanism has been used this much, it becomes stale through overuse. Fortunately, though, in the case of the tech-tree, it is such a general concept that it rarely seems stale. Of course, it's also true that no one has come up with a better idea yet.
 
@@ -261,7 +261,7 @@ Slower-paced strategy games allow the player to focus a lot more on trade and ot
 
 Figure 10.9. Resource distribution across a territory. 图 10.9. 领土上的资源分布。
 
-graphics/10fig09.gif
+![](.gitbook/assets/10.9.gif)
 
 Town B has access to a forest—it has a road (supply line) leading directly to the forest, providing a ready source of lumber. This allows Town B to build wood-based units, such as catapults. Town A is linked to Town B via a road. This means that there is a readily available supply route between Town A and Town B. Hence, Town A has exactly the same production capabilities as Town B. Anything that is available to Town A is also available to Town B, and vice versa. Town C is a newly built town. No roads have been built to Town C, so it will not have access to the resources of Towns A and B until a linking road is built.
 
@@ -428,3 +428,25 @@ This approach has several elegant and pleasing features, the most notable of whi
 > 
 > 14. Strategy games require particularly powerful AI, especially if the game is supposed to play in general circumstances and not just pre-built and pre-balanced levels. Given the rules of the game, what goals should the AI work toward, and how should they choose the actions to achieve those goals?\
 > 策略游戏需要特别强大的人工智能，尤其是如果游戏应该在一般情况下进行，而不仅仅是预建和预平衡的关卡。考虑到游戏规则，人工智能应该朝着什么目标努力，又应该如何选择行动来实现这些目标？
+
+# Putting It Together 总结
+
+Covering all aspects of the whole genre of strategy games in a single chapter is an impossible task. Thus, here we have focused on the core mechanic behind all strategy games: the triumvirate of conflict, exploration, and trade. An excellent example is [The Settlers of Catan](https://en.wikipedia.org/wiki/Catan), shown in Figure 10.10.
+
+在一章中涵盖整个策略游戏类型的所有方面是不可能完成的任务。因此，在此我们将重点放在所有策略游戏背后的核心机制上：冲突、探索和贸易的三驾马车。图 10.10 所示的[《卡坦》](https://en.wikipedia.org/wiki/Catan)就是一个很好的例子。
+
+Figure 10.10. The Settlers of Catan. Figure 10.10. 《卡坦》。
+
+![](.gitbook/assets/10.10.png)
+
+The rules of this board game are exceptionally concise and very well balanced. Trade, conflict, and exploration are all included in equal measure. Examination and understanding of these rules—how and why they work so well—will form an excellent basis for the design of your own strategy game, no matter what format or genre.
+
+这款桌游的规则异常简洁，而且非常平衡。贸易、冲突和探索都包含在其中。研究和理解这些规则——它们是如何以及为何如此有效——将为你设计自己的策略游戏奠定良好的基础，无论游戏的形式或类型如何。
+
+At any rate, [The Settlers of Catan](https://en.wikipedia.org/wiki/Catan) should be considered required coursework for anyone planning to design a strategy game.
+
+无论如何，[《卡坦》](https://en.wikipedia.org/wiki/Catan)都应被视为计划设计策略游戏的人的必修课程。
+
+The three elements of trade, conflict, and exploration are the foundation of the strategy game, the lowest level upon which the rest of the game is based. If you plan to design a strategy game, a good way to start is to examine the mechanics of a good board game. Board games are simple enough for a single person to grasp the entire rule-set and, consequently, lend themselves well to analysis.
+
+贸易、冲突和探索这三个要素是策略游戏的基础，是游戏其余部分所依赖的最底层。如果你打算设计一款策略游戏，一个好的开始就是研究一款好的桌游的机制。桌游非常简单，一个人就能掌握全部规则，因此非常适合分析。
