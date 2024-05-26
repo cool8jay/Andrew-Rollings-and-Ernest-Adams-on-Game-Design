@@ -103,8 +103,15 @@
 [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
 [《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
 
+[The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
+[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
+
 [Nox](https://en.wikipedia.org/wiki/Nox_(video_game))
 [《救世传说》](https://en.wikipedia.org/wiki/Nox_(video_game))
+
+[Arcanum: Of Steamworks and Magick Obscura](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)
+[《奥秘：蒸汽与魔法》](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)
+
 
 [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)
 [《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)
@@ -206,6 +213,13 @@
 
 [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game))
 [《辐射》](https://en.wikipedia.org/wiki/Fallout_(video_game))
+
+[Fallout 2](https://en.wikipedia.org/wiki/Fallout_2)
+[《辐射二》](https://en.wikipedia.org/wiki/Fallout_2)
+
+[Fallout](https://en.wikipedia.org/wiki/Fallout_(franchise))
+[《辐射》](https://en.wikipedia.org/wiki/Fallout_(franchise))
+系列
 
 [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
 [《杀出重围》](https://en.wikipedia.org/wiki/Deus_Ex_(video_game))
@@ -359,6 +373,9 @@
 
 [Ultima Online](https://en.wikipedia.org/wiki/Ultima_Online)
 [《网络创世纪》](https://en.wikipedia.org/wiki/Ultima_Online)
+
+[Ultima Underworld II: Labyrinth of Worlds](https://en.wikipedia.org/wiki/Ultima_Underworld_II:_Labyrinth_of_Worlds)
+[《创世纪地下世界 II ：迷宫世界》 ](https://en.wikipedia.org/wiki/Ultima_Underworld_II:_Labyrinth_of_Worlds)
 
 [Lemmings 3D](https://en.wikipedia.org/wiki/3D_Lemmings)
 [《旅鼠 3D》](https://en.wikipedia.org/wiki/3D_Lemmings)

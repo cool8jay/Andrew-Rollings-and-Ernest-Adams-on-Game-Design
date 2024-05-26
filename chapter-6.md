@@ -196,7 +196,7 @@ We are not going to include games such as [Ion Storm](https://en.wikipedia.org/w
 
 Role-playing games (RPGs), for the most part, have had roughly the same user interface since day one. This isn't necessarily a good thing. In fact, there is a lot about the standard role-playing game interface that we do not like, but aside from incremental improvements, it seems to be a case of using what works well enough, although a notable exception is the starting interface for [Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). Your character is defined by your responses to questions posed by interactive characters in the opening part of the game.
 
-角色扮演游戏（RPG）从诞生之日起，其用户界面大多大致相同。这未必是件好事。事实上，标准的角色扮演游戏界面有很多我们不喜欢的地方，但除了渐进式的改进之外，似乎都是用什么好用就用什么，不过[《上古卷轴：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)的起始界面是个明显的例外。你的角色是由你对游戏开头部分互动角色所提问题的回答来定义的。
+角色扮演游戏（RPG）从诞生之日起，其用户界面大多大致相同。这未必是件好事。事实上，标准的角色扮演游戏界面有很多我们不喜欢的地方，但除了渐进式的改进之外，似乎都是用什么好用就用什么，不过[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)的起始界面是个明显的例外。你的角色是由你对游戏开头部分互动角色所提问题的回答来定义的。
 
 The generic role-playing game interface comes in three sections: the character generation screen, the in-game screen, and the inventory screen. These do not seem to have changed much since the inception of the genre, but their forms have been modified and refined somewhat.
 
