@@ -96,11 +96,21 @@
 [Diablo II](https://en.wikipedia.org/wiki/Diablo_II)
 [《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)
 
+[Diablo](https://en.wikipedia.org/wiki/Diablo_(series))
+[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(series))
+系列
+
 [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
 [《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)
 
+[Nox](https://en.wikipedia.org/wiki/Nox_(video_game))
+[《救世传说》](https://en.wikipedia.org/wiki/Nox_(video_game))
+
 [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)
 [《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)
+
+[Police Quest](https://en.wikipedia.org/wiki/Police_Quest)
+[《警察故事》](https://en.wikipedia.org/wiki/Police_Quest)
 
 [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
 [《虚幻》](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
@@ -400,3 +410,10 @@
 
 [Gangsters II](https://en.wikipedia.org/wiki/Gangsters_2)
 [教父二](https://en.wikipedia.org/wiki/Gangsters_2)
+
+
+[Nethack](https://en.wikipedia.org/wiki/NetHack)
+[《迷宫骇客》](https://en.wikipedia.org/wiki/NetHack)
+
+[Swords and Circuitry](https://www.amazon.com/Swords-Circuitry-Designers-Role-Playing-Development/dp/0761532994)
+[《剑与电》](https://book.douban.com/subject/2690975/)
