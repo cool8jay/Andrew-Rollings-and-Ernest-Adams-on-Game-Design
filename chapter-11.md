@@ -4,6 +4,7 @@ Computer role-playing games (CRPGs), like their cousin, the strategy game, are a
 
 * Configurable player-characters that improve with experience\
 可配置的玩家角色，随着经验的增加而不断改进
+
 * Strong storylines\
 强烈的故事情节
 
@@ -81,18 +82,25 @@ Here are some alternatives to the "save the world" storyline:
 
 * Find and punish the person responsible for a loved one's murder ([Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate)).\
 找到并惩罚杀害亲人的凶手（[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)）。
+
 * Learn the secret behind your hidden parentage (Star Wars).\
 了解隐藏在你父母背后的秘密（《星球大战》）。
+
 * Rescue the kidnapped princess (Mario).\
 营救被绑架的公主（马里奥）。
+
 * Find and reassemble the long-lost pieces of the magic thingy ([Nox](https://en.wikipedia.org/wiki/Nox_(video_game))).\
 找到并重新组装失落已久的魔法碎片（[《救世传说》](https://en.wikipedia.org/wiki/Nox_(video_game))）。
+
 * Destroy the dangerous object (Lord of the Rings).\
 摧毁危险物品（魔戒）。
+
 * Kill the marauding monster (Beowulf).\
 杀死掠夺的怪物（《贝奥武夫》）。
+
 * Transport the valuable thingy past the people trying to seize it (Mad Max).\
 将贵重物品运过试图夺取它的人（《疯狂的麦克斯》）。
+
 * Try and get back home ([Nox](https://en.wikipedia.org/wiki/Nox_(video_game))).\
 尝试回家（[《救世传说》](https://en.wikipedia.org/wiki/Nox_(video_game))）。
 
@@ -285,7 +293,7 @@ Each of these segments represents an important interface to the game. Although t
 
 The player needs the ability to manage her characters. Most CRPGs use a system based on an old paper RPG to handle their game mechanic, and so it is during character generation and maintenance that the "bare bones" of the system are so often visible.
 
-玩家需要管理角色的能力。大多数 CRPG 都使用基于旧式纸上 RPG 的系统来处理游戏机制，因此在角色生成和维护过程中，系统的 “裸露部分”往往一览无余。
+玩家需要管理角色的能力。大多数 CRPG 都使用基于旧式纸上 RPG 的系统来处理游戏机制，因此在角色生成和维护过程中，系统的“裸露部分”往往一览无余。
 
 Character attributes are usually generated in terms of die rolls and displayed in a numeric form. Often, if the player does not like what is rolled, there is a button provided for re-rolling the dice. Although it does vary from game to game, there is a stock set of attributes that most games use: Strength, Dexterity, Wisdom, Stamina, Intelligence, and Charisma. These are based on the original AD&D (Advanced Dungeons and Dragons) character statistics. All the basic character development decisions, and some in-game decisions, are based on tests against some combination of these. These tests are usually done via simulated die roll. For example consider the following hypothetical situation: Jonny Rock, the warrior, wants to smash down a door. He has a strength of 17, and the GM rules that he must roll three D6 (six-sided dice). If he rolls higher than his strength, he fails to break the door. If he rolls lower than his strength, then the door splinters to pieces.
 
@@ -383,17 +391,19 @@ Originally, CRPGs were essentially top-down affairs, as shown earlier in Figure 
 
 Figure 11.4. Ultima Underworld II. Figure 11.4. 《创世纪地下世界二》。
 
-![](.gitbook/assets/11.4.gif)
+![](.gitbook/assets/11.4.png)
 
-Figure 11.5. Wasteland.
+Figure 11.5. Wasteland. 图 11.5. 《荒野游侠》
 
-![](.gitbook/assets/11.5.jpg)
+![](.gitbook/assets/11.5.png)
 
-Since the advent of hardware-assisted 3D technology, there have been many more instances of 3D-accelerated CRPGs. Some of these have been fully first-person 3D, such as Elder Scrolls III: Morrowind (although it does also provide a third-person view, shown in Figure 11.6). More CRPGs, however, have stuck to the classic third-person isometric approach, such as Baldur's Gate: Dark Alliance on the PS2, or Neverwinter Nights (shown in Figure 11.7).
+Since the advent of hardware-assisted 3D technology, there have been many more instances of 3D-accelerated CRPGs. Some of these have been fully first-person 3D, such as [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) (although it does also provide a third-person view, shown in Figure 11.6). More CRPGs, however, have stuck to the classic third-person isometric approach, such as [Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance) on the PS2, or [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) (shown in Figure 11.7).
+
+自从硬件辅助 3D 技术问世以来，3D 加速的 CRPG 游戏层出不穷。其中有些是完全第一人称的 3D 游戏，如[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)（虽然它也提供了第三人称视角，如图 11.6 所示）。不过，更多的 CRPG 采用了经典的第三人称等距视角，如 PS2 上的[《博德之门：黑暗联盟》](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance)或者[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)（如图 11.7 所示）。
 
 Figure 11.6. Elder Scrolls III: Morrowind. 图 11.7. 《上古卷轴三：晨风》。
 
-![](.gitbook/assets/11.6.gif)
+![](.gitbook/assets/11.6.png)
 
 Figure 11.7. Neverwinter Nights. 图 11.7. 《无冬之夜》。
 
@@ -403,16 +413,63 @@ Figure 11.7. Neverwinter Nights. 图 11.7. 《无冬之夜》。
 > 
 > When beginning the design of a CRPG, consider the following questions:
 > 
-> 在设计CRPG时，考虑下列问题：
+> 在开始设计 CRPG 时，考虑下列问题：
 > 
-> 1. Which type of game are you going to create? Is it going to be heavy on story (as in Planescape:Torment), or will character advancement and combat be the main thrust (as in Nethack)?
-> 2. If it is story based, then how are you going to structure the quests? One big overarching quest with mini side-quests, or a more free-form approach? This will have an impact on the difficulty of production and the feel of the game.
-> 3. What is the setting for your game? Are you going for the standard sci-fi/fantasy fare, or are you using something else? Are you using a licensed work? Are you convinced that what you have is different, yet recognizable enough to be compelling?
-> 4. How will your world function? What are the underlying rules for the way the world works? Are they self-consistent and logical? Are they based on a pre-existing system (as in Baldur's Gate)?
-> 5. Is the player going to be given a group of avatars, or will he be responsible for a single avatar? Will his character be configurable (as in Arcanum), or will he be forced to take a pre-defined role (as in Anachronox)?
-> 6. What will be the primary focus of your game? Will it be uncovering the story, improving the player's character, or combat and exploration? The majority of games attempt to cover all these bases equally, but some exceptional ones have focused more on one aspect, such as Anachronox and Diablo II. This affects the pace of your game.
-> 7. Considering interactivity with non-player characters: Is your game intended to be short, but deep (as in Fallout) or sprawling, but shallow (as in Diablo II)? This has an impact on whether your player considers herself to be immersed in a world, or playing a story.
-> 8. What will be the perspective used in your game? Will you use standard isometric 3D (as in Fallout) or will you use a fully 3D engine (as in Elder Scrolls III: Morrowind)? Will you use something else entirely?
-> 9. Is your game going to include a magic system? How is this magic system going to be constructed? Will it be based on pre-existing concepts, familiar regimes (such as Law/Chaos/Good/Evil), or something completely new? Will it be internally self-consistent or not? How will it be balanced with nonmagic forces within the game?
-> 10. How will you handle inventory management within the game?
-> 11. And finally, will your player's character end up saving the world? Are you sure you want to do that? Can you think of anything slightly more original (as in Planescape: Torment)?
+> 1. Which type of game are you going to create? Is it going to be heavy on story (as in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)), or will character advancement and combat be the main thrust (as in [Nethack](https://en.wikipedia.org/wiki/NetHack))?\
+> 你打算制作哪种类型的游戏？是以故事为主（如 [《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)），还是以角色成长和战斗为主（如[《迷宫骇客》](https://en.wikipedia.org/wiki/NetHack)）？
+> 
+> 2. If it is story based, then how are you going to structure the quests? One big overarching quest with mini side-quests, or a more free-form approach? This will have an impact on the difficulty of production and the feel of the game.\
+> 如果它以故事为基础，那么你打算如何安排任务？一个带有小型支线任务的大型总体任务，还是一种更加自由的方式？这将影响制作难度和游戏感觉。
+> 
+> 3. What is the setting for your game? Are you going for the standard sci-fi/fantasy fare, or are you using something else? Are you using a licensed work? Are you convinced that what you have is different, yet recognizable enough to be compelling?\
+> 游戏的背景设定是什么？是采用标准的科幻/奇幻风格，还是采用其他风格？是否使用授权作品？你是否确信你所拥有的与众不同，但又有足够的辨识度来吸引人？
+> 
+> 4. How will your world function? What are the underlying rules for the way the world works? Are they self-consistent and logical? Are they based on a pre-existing system (as in [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate))?\
+> 你的世界将如何运作？世界运行的基本规则是什么？它们是否自洽、合乎逻辑？它们是否基于已有的系统（如[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)）？
+> 
+> 5. Is the player going to be given a group of avatars, or will he be responsible for a single avatar? Will his character be configurable (as in [Arcanum: Of Steamworks and Magick Obscura](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)), or will he be forced to take a pre-defined role (as in [Anachronox](https://en.wikipedia.org/wiki/Anachronox))?\
+> 玩家将获得一组化身，还是只负责一个化身？他的角色是可以配置的（如[《奥秘：蒸汽与魔法》](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)），还是被迫扮演一个预先设定的角色（如[《源毒》](https://en.wikipedia.org/wiki/Anachronox)）？
+> 
+> 6. What will be the primary focus of your game? Will it be uncovering the story, improving the player's character, or combat and exploration? The majority of games attempt to cover all these bases equally, but some exceptional ones have focused more on one aspect, such as [Anachronox](https://en.wikipedia.org/wiki/Anachronox) and [Diablo II](https://en.wikipedia.org/wiki/Diablo_II). This affects the pace of your game.\
+> 游戏的主要焦点是什么？是挖掘故事情节、完善玩家角色，还是战斗和探索？绝大多数游戏都试图涵盖所有这些方面，但也有一些出色的游戏更侧重于某一方面，如[《源毒》](https://en.wikipedia.org/wiki/Anachronox)和[《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)。这会影响游戏的节奏。
+> 
+> 7. Considering interactivity with non-player characters: Is your game intended to be short, but deep (as in [Fallout](https://en.wikipedia.org/wiki/Fallout_(franchise))) or sprawling, but shallow (as in [Diablo II](https://en.wikipedia.org/wiki/Diablo_II))? This has an impact on whether your player considers herself to be immersed in a world, or playing a story.\
+> 考虑与非玩家角色的互动性：你的游戏是要短小但有深度（如[《辐射》](https://en.wikipedia.org/wiki/Fallout_(franchise))），还是要庞大但肤浅（如[《暗黑破坏神二》](https://en.wikipedia.org/wiki/Diablo_II)）？这将影响玩家是否认为自己沉浸在一个世界中，还是在玩一个故事。
+>
+> 8. What will be the perspective used in your game? Will you use standard isometric 3D (as in [Fallout](https://en.wikipedia.org/wiki/Fallout_(franchise))) or will you use a fully 3D engine (as in [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind))? Will you use something else entirely?\
+> 你的游戏将采用什么视角？是使用标准的等距三维视角（如[《辐射》](https://en.wikipedia.org/wiki/Fallout_(franchise))），还是使用全三维引擎（如[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)）？你会使用其他完全不同的视角吗？
+>
+> 9. Is your game going to include a magic system? How is this magic system going to be constructed? Will it be based on pre-existing concepts, familiar regimes (such as Law/Chaos/Good/Evil), or something completely new? Will it be internally self-consistent or not? How will it be balanced with nonmagic forces within the game?\
+> 你的游戏会包含魔法系统吗？如何构建这个魔法系统？是基于已有的概念、熟悉的制度（如“法则/混沌/善/恶”），还是全新的东西？它在内部是否自洽？它将如何与游戏中的非魔法力量平衡？
+> 
+> 10. How will you handle inventory management within the game?\
+> 如何处理游戏中的库存管理？
+> 
+> 11. And finally, will your player's character end up saving the world? Are you sure you want to do that? Can you think of anything slightly more original (as in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment))?\
+> 最后，你的玩家角色最终会拯救世界吗？你确定要这么做吗？你能想出什么稍微新颖一点的点子吗（就像[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)那样）？
+
+# Putting It Together 总结
+
+The design of a CRPG is not a small undertaking. Aside from the fact that putting together a complex and believable world is an extremely difficult task, the amount of effort that goes into the design is extremely high when compared to other types of games.
+
+CRPG 的设计工作非同小可。除了组建一个复杂而可信的世界是一项极其艰巨的任务之外，与其他类型的游戏相比，设计所花费的精力也是极其巨大的。
+
+A recent trend with CRPGs, evidenced by Neverwinter Nights, Elder Scrolls III: Morrowind, and Arcanum: Of Steamworks and Magic Obscura, is the provision of an editor with the game to allow the more involved players to create their own scripted adventures in the game world.
+
+最近，CRPG 游戏呈现出一种趋势，[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)、[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)和[《奥秘：蒸汽与魔法》](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)就是证明的例子，在游戏中提供了一个编辑器，让更多的玩家可以在游戏世界中创造自己的冒险脚本。
+
+This is a trend to be encouraged, because it extends the longevity of the game, which in turn increases sales. Neverwinter Nights has taken this to the extreme, and allows players to actively run the game, editing an adventure in real-time as other players journey through it.
+
+这是一个值得鼓励的趋势，因为它可以延长游戏的寿命，进而提高销量。[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)将这一点发挥到了极致，允许玩家主动运行游戏，在其他玩家进行游戏时实时编辑冒险。
+
+While this is currently the pinnacle of CRPG design, there is still a long way to go. There is, in our opinion, an overly heavy reliance on the old pen-and-paper rules. Although they are useful as a basis, there are better solutions available for CRPGs. It does nothing for casual players to see "+20 Pushback" appear onscreen during combat. It only reminds them that they are just playing a game.
+
+虽然这是目前 CRPG 设计的顶峰，但还有很长的路要走。在我们看来，对旧式纸笔规则的依赖过于严重。虽然这些规则可以作为基础，但对于 CRPG 来说，还有更好的解决方案。在战斗过程中，看到屏幕上出现 “+20 推回 ”的字样对休闲玩家来说毫无用处。这只会提醒他们，他们只是在玩游戏。
+
+Another, more fundamental problem, only partially solved by the active GMing allowed by Neverwinter Nights, is the scripted nature of gameplay. It isn't true role-playing. The player isn't allowed to do absolutely anything, as they would be in the pen-and-paper game. This latter problem isn't something that will be solved anytime soon; suffice it to say that until we have true AI and dynamic content generation technologies available to us, all CRPGs are really only fixed-story games. As a designer of CRPGs, it's your job to arrange the smoke and mirrors successfully so that players feel that they are in a living, breathing world with the freedom to do what they want.
+
+另一个更根本的问题是游戏的脚本性质，[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)中允许的主动 GM 只能解决部分问题。这不是真正的角色扮演。玩家不能像在纸笔游戏中那样随心所欲。在我们拥有真正的人工智能和动态内容生成技术之前，所有的 CRPG 实际上都只是固定故事的游戏。作为 CRPG 的设计者，你的工作就是成功地安排好这些烟雾和镜像，让玩家感觉到他们是在一个活生生的世界里，可以自由地做他们想做的事情。
+
+The true CRPG would allow the player to do absolutely anything, anytime, anyplace, but we're years, possibly decades, away from that level of technology.
+
+真正的 CRPG 可以让玩家在任何时间、任何地点做任何事情，但我们离这种技术水平还有数年甚至数十年的距离。
