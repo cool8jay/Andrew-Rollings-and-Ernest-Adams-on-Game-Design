@@ -454,11 +454,11 @@ The design of a CRPG is not a small undertaking. Aside from the fact that puttin
 
 CRPG 的设计工作非同小可。除了组建一个复杂而可信的世界是一项极其艰巨的任务之外，与其他类型的游戏相比，设计所花费的精力也是极其巨大的。
 
-A recent trend with CRPGs, evidenced by Neverwinter Nights, Elder Scrolls III: Morrowind, and Arcanum: Of Steamworks and Magic Obscura, is the provision of an editor with the game to allow the more involved players to create their own scripted adventures in the game world.
+A recent trend with CRPGs, evidenced by [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights), [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind), and [Arcanum: Of Steamworks and Magick Obscura](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura), is the provision of an editor with the game to allow the more involved players to create their own scripted adventures in the game world.
 
 最近，CRPG 游戏呈现出一种趋势，[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)、[《上古卷轴三：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)和[《奥秘：蒸汽与魔法》](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)就是证明的例子，在游戏中提供了一个编辑器，让更多的玩家可以在游戏世界中创造自己的冒险脚本。
 
-This is a trend to be encouraged, because it extends the longevity of the game, which in turn increases sales. Neverwinter Nights has taken this to the extreme, and allows players to actively run the game, editing an adventure in real-time as other players journey through it.
+This is a trend to be encouraged, because it extends the longevity of the game, which in turn increases sales. [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) has taken this to the extreme, and allows players to actively run the game, editing an adventure in real-time as other players journey through it.
 
 这是一个值得鼓励的趋势，因为它可以延长游戏的寿命，进而提高销量。[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)将这一点发挥到了极致，允许玩家主动运行游戏，在其他玩家进行游戏时实时编辑冒险。
 
@@ -466,7 +466,7 @@ While this is currently the pinnacle of CRPG design, there is still a long way t
 
 虽然这是目前 CRPG 设计的顶峰，但还有很长的路要走。在我们看来，对旧式纸笔规则的依赖过于严重。虽然这些规则可以作为基础，但对于 CRPG 来说，还有更好的解决方案。在战斗过程中，看到屏幕上出现 “+20 推回 ”的字样对休闲玩家来说毫无用处。这只会提醒他们，他们只是在玩游戏。
 
-Another, more fundamental problem, only partially solved by the active GMing allowed by Neverwinter Nights, is the scripted nature of gameplay. It isn't true role-playing. The player isn't allowed to do absolutely anything, as they would be in the pen-and-paper game. This latter problem isn't something that will be solved anytime soon; suffice it to say that until we have true AI and dynamic content generation technologies available to us, all CRPGs are really only fixed-story games. As a designer of CRPGs, it's your job to arrange the smoke and mirrors successfully so that players feel that they are in a living, breathing world with the freedom to do what they want.
+Another, more fundamental problem, only partially solved by the active GMing allowed by [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights), is the scripted nature of gameplay. It isn't true role-playing. The player isn't allowed to do absolutely anything, as they would be in the pen-and-paper game. This latter problem isn't something that will be solved anytime soon; suffice it to say that until we have true AI and dynamic content generation technologies available to us, all CRPGs are really only fixed-story games. As a designer of CRPGs, it's your job to arrange the smoke and mirrors successfully so that players feel that they are in a living, breathing world with the freedom to do what they want.
 
 另一个更根本的问题是游戏的脚本性质，[《无冬之夜》](https://en.wikipedia.org/wiki/Neverwinter_Nights)中允许的主动 GM 只能解决部分问题。这不是真正的角色扮演。玩家不能像在纸笔游戏中那样随心所欲。在我们拥有真正的人工智能和动态内容生成技术之前，所有的 CRPG 实际上都只是固定故事的游戏。作为 CRPG 的设计者，你的工作就是成功地安排好这些烟雾和镜像，让玩家感觉到他们是在一个活生生的世界里，可以自由地做他们想做的事情。
 
