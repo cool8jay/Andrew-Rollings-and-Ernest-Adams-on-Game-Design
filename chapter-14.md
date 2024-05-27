@@ -400,7 +400,7 @@ If you're going to design a hybrid game, we encourage you to design the economic
 > 
 > When beginning the design of a construction and management simulation, consider the following questions:
 > 
-> 开始设计施工和管理模拟时，请考虑以下问题：
+> 开始设计建设和管理模拟游戏时，请考虑以下问题：
 >
 > 1. What process is the player going to manage? What actions will the player take in managing that process?\
 > 玩家要管理什么流程？玩家在管理该流程时将采取哪些行动？
