@@ -1,10 +1,10 @@
 Construction and management simulations are games about processes. The player's goal is not to defeat an enemy, but to build something within the context of an ongoing process. The better the player understands and controls the process, the more success he will have at building.
 
-建筑和管理模拟游戏是关于过程的游戏。玩家的目标不是打败敌人，而是在一个持续的过程中建造一些东西。玩家对过程的理解和控制越好，就越能在建造过程中取得成功。
+建设和管理模拟游戏是关于过程的游戏。玩家的目标不是打败敌人，而是在一个持续的过程中建造一些东西。玩家对过程的理解和控制越好，就越能在建造过程中取得成功。
 
 The first really successful computerized construction and management simulation (which we refer to as a CMS from now on) was [SimCity](https://en.wikipedia.org/wiki/SimCity). We'll look at it in some detail later in the chapter. [SimCity](https://en.wikipedia.org/wiki/SimCity) proved that computer games don't need high-speed action or violence to be a success; it succeeded in part because it didn't have those things and appealed to a broad audience.
 
-第一个真正成功的计算机化建筑和管理模拟游戏（我们从现在开始称之为 CMS）是[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。我们将在本章稍后部分详细介绍它。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)证明，电脑游戏不需要高速动作或暴力就能获得成功；它之所以成功，部分原因在于它没有这些东西，而且吸引了广大的受众。
+第一个真正成功的计算机化建设和管理模拟游戏（我们从现在开始称之为 CMS）是[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。我们将在本章稍后部分详细介绍它。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)证明，电脑游戏不需要高速动作或暴力就能获得成功；它之所以成功，部分原因在于它没有这些东西，而且吸引了广大的受众。
 
 At the end of this chapter, we also have a section called "Pure Business Simulations," devoted to games in which the player doesn't really "construct" anything, and another section called "Hybrid Games," about games that are a hybrid of CMS and war games, such as [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). Military strategy is addressed in [Chapter 10](chapter-10.md), "Strategy Games," but some of these hybrid games include interesting economic elements as well; we'll refer to them throughout this chapter, where appropriate.
 
@@ -132,7 +132,7 @@ Random disasters are another way to force the player to act. [SimCity](https://e
 > 
 > Although it isn't the oldest CMS, the spiritual father of them all is [SimCity](https://en.wikipedia.org/wiki/SimCity), published by Maxis (now a part of Electronic Arts). Sim City was originally designed for the Commodore 64, although it was most successful on the IBM PC, and the first version of the game is now playable for free on the Web. (Visit [http://simcity.ea.com/play/simcity_classic.php](http://simcity.ea.com/play/simcity_classic.php) if you're interested.) It was followed by a host of other games in the same mold: SimAnt, SimTower, SimFarm, and so on, which met with varying success.\
 > 
-> 虽然它不是最古老的 CMS，但所有这类游戏的的精神之父是 Maxis（现在是 Electronic Arts 的一部分）发行的[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)最初是为 Commodore 64 设计的，但它在 IBM PC 上的表现最为成功。(如果您有兴趣，请访问 [http://simcity.ea.com/play/simcity_classic.php](http://simcity.ea.com/play/simcity_classic.php)。）之后又推出了大量同类游戏：《模拟蚂蚁》、《模拟大楼》、《模拟农场》等等，它们取得的成功各不相同。
+> 虽然它不是最古老的 CMS，但所有这类游戏的的精神之父是 Maxis（现在是 Electronic Arts 的一部分）发行的[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)最初是为 Commodore 64 设计的，但它在 IBM PC 上的表现最为成功。(如果你有兴趣，请访问 [http://simcity.ea.com/play/simcity_classic.php](http://simcity.ea.com/play/simcity_classic.php)。）之后又推出了大量同类游戏：《模拟蚂蚁》、《模拟大楼》、《模拟农场》等等，它们取得的成功各不相同。
 > 
 > The object of [SimCity](https://en.wikipedia.org/wiki/SimCity) is to build a city and attract people (called sims) to live and work there. The basic economic unit is money, which the player can spend in various ways to improve the city. The player's primary job is to zone tracts of land into one of three types: residential, commercial, or industrial. As people move into the city, these areas begin to be occupied and to produce tax revenue, thereby replenishing the city's coffers. This produces a straightforward positive feedback loop: Zoning costs money, but occupied zones produce more money, thereby enabling the player to do more zoning.\
 > 
@@ -158,68 +158,109 @@ Random disasters are another way to force the player to act. [SimCity](https://e
 > 
 > graphics/14fig04.jpg
 
-
 ## Setting 设定
 
-It's easy enough to say that CMSs are about a process, but the process has to be meaningfully displayed on a computer screen, and it must fire the player's imagination. Most CMSs take place in the context of a physical space, usually a two-dimensional world in which buildings or other objects can be constructed. Caesar is about building an ancient Roman town, so the setting is a landscape near a river. Civilization is about exploring a world while at the same time advancing a civilization both culturally and technologically, so its setting is an entire continent, or several of them.
+It's easy enough to say that CMSs are about a process, but the process has to be meaningfully displayed on a computer screen, and it must fire the player's imagination. Most CMSs take place in the context of a physical space, usually a two-dimensional world in which buildings or other objects can be constructed. Caesar is about building an ancient Roman town, so the setting is a landscape near a river. [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)) is about exploring a world while at the same time advancing a civilization both culturally and technologically, so its setting is an entire continent, or several of them.
+
+说 CMS 是关于一个过程很容易，但这个过程必须在电脑屏幕上有意义地显示出来，而且必须激发玩家的想象力。大多数 CMS 都发生在一个物理空间中，通常是一个可以建造建筑物或其他物体的二维世界。《凯撒》讲述的是建造一座古罗马城镇的故事，因此游戏背景是河流附近的风景。[《文明》](https://en.wikipedia.org/wiki/Civilization_(series))的主题是探索一个世界，同时在文化和技术上推动一个文明的发展，因此它的背景是整个大陆或几个大陆。
 
 A few pure business simulations don't take place in a physical setting, and they're discussed at the end of the chapter.
 
-## Gameplay
+有几款纯商业模拟游戏不在物理环境中进行，本章最后将讨论它们。
+
+## Gameplay 游戏性
 
 The challenges in a CMS are largely economic. The player must understand how the internal economy of the game works and how to manipulate it to produce economic growth. Growth provides the resources required for the construction that is usually the overall goal of the game.
 
-### Indirect Control
+CMS 中的挑战主要是经济方面的。玩家必须了解游戏的内部经济是如何运作的，以及如何操纵它来实现经济增长。经济增长为建设提供所需资源，而建设通常是游戏的总体目标。
+
+### Indirect Control 间接控制
 
 A war game is a game of direct control. The players tell their troops exactly where to go and what to do, and they do it. The simulated soldiers have little or no autonomous behavior or artificial intelligence. If told to stand and wait someplace, they'll wait there forever.
 
+战争游戏是一种直接控制游戏。玩家告诉他们的部队去哪里、做什么，他们就照办。模拟士兵几乎没有自主行为或人工智能。如果让他们站在某个地方等待，他们就会永远等在那里。
+
 The majority of CMSs, on the other hand, are games of indirect control. The game simulates a process, and the player can alter that process only in limited ways. The process must be manipulated indirectly, and the player has to learn how the controls affect its inner workings. If there are simulated individuals in the game (see the "Simulating Individuals" section later in this chapter), for the most part, they can be controlled only indirectly. They have a behavior model that governs what they do, and it responds to stimuli, but they can't be given direct orders.
+
+另一方面，大多数 CMS 是间接控制游戏。游戏模拟一个过程，而玩家只能以有限的方式改变这个过程。这个过程必须通过间接的方式来操纵，玩家必须了解控制是如何影响其内部运作的。如果游戏中存在模拟的个体（请参阅本章后面的“模拟个体”部分），在大多数情况下，他们也只能被间接控制。他们有一个行为模型来控制自己的行为，并对刺激做出反应，但不能直接向他们下达命令。
 
 However, the dividing line between direct and indirect control is a fuzzy one. Certain player activities, such as choosing the location of new construction, will be direct. Others, such as trying to boost sales by reducing prices, will be indirect. Reducing prices is direct, but the (hoped for) consequent rise in sales is indirect.
 
-### Construction
+然而，直接控制和间接控制之间的界限并不明显。某些玩家活动，如选择新建筑的地点，是直接控制。其他活动，如试图通过降价来提高销售额，则是间接的。降价是直接的，但（希望的）随之而来的销售额增长是间接的。
+
+### Construction 建造
 
 Construction itself isn't the challenge in a CMS; the challenge is in obtaining the resources needed for the construction. Construction is the part of the game that lets the player exercise her imagination and create something unique and personal. Accordingly, you, as the designer, need to find a way to make this easy and enjoyable.
 
+在 CMS 中，建造本身并不是挑战，挑战在于获得建造所需的资源。在游戏中，“建造”是让玩家发挥想象力、创造独特个性的部分。因此，作为设计者，你需要想办法让玩家轻松愉快地完成这项工作。
+
 Construction mechanisms in CMSs tend to be one of two types: buy or design-and-build. When the player buys an object (a segment of wall, say), the resources to build it are deducted from stockpiles, and the object immediately appears in a designated location. This lets her build rapidly, adding pieces like using Lego bricks. You should use this mechanism if construction is the primary activity in your game. If so, it needs to be easy and continuous, not something the player has to wait for. This is how Sim City worked: Zoning property and constructing civic amenities such as police stations and airports happened instantly because it was the primary activity in the game.
+
+CMS 中的建造机制通常有两种：购买或设计，然后建造。当玩家购买一件物品（例如一段墙壁）时，用于建造它的资源就会从库存中扣除，物品会立即出现在指定位置。这样，玩家就可以像使用乐高积木一样，快速添加建筑材料。如果建造是游戏中的主要活动，就应该使用这种机制。如果是这样，它就需要简单且连续，而不是让玩家等待。《模拟城市》就是这样运作的：因为这是游戏中的主要活动，所以房产分区和警察局、机场等市政设施的建造都是瞬间发生的。
 
 The design-and-build mechanism is more often seen in games in which the player does a little construction, then some management, then more construction, and so on. In design-and-build, the player marks out an area where new construction will appear. The game often displays the new building in a ghostly, semitransparent form to indicate that it is under construction. However, it takes time to build. If the game includes simulated people, you might be able to see them at work on it; if those people go away or die for some reason, the building might be left in a partially completed state.
 
+设计-建造机制更多出现在游戏中，玩家在游戏中先进行少量建造，然后进行一些管理，接着进行更多建造，如此循环。在“设计-建造”游戏中，玩家会划出一个区域，在那里会出现新的建筑。游戏通常会以幽灵般的半透明形式显示新建筑，以表明它正在建造中。不过，建造过程需要时间。如果游戏中有模拟人，你可能会看到他们正在施工；如果这些人因某种原因离开或死亡，建筑物可能会处于部分完工的状态。
+
 In design-and-build, you don't have to remove all the required resources from storage at once because the construction takes place over time. In The Settlers, wood and stone had to be physically transported a little at a time from stockpiles to the construction site. This puts an extra burden on the player to manage his resource flow, but it does give him more control. In contrast, [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires) deducted the resources necessary for construction immediately when it was designed. They drained out of the game rather than being transported to the site. Although this was unrealistic, it meant that the player could build something only after he definitely had enough resources for it, and he didn't have to worry about moving things around all the time.
+
+在“设计-建造”游戏中，你不必一次性从仓库中取出所有需要的资源，因为建造是随着时间的推移而进行的。而在《工人物语》中，木材和石材必须每次从仓库中一点点运到建筑工地。这给玩家带来了管理资源流的额外负担，但也给了玩家更多的控制权。相比之下，[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)在设计时就会立即扣除建造所需的资源。它们从游戏中流出，而不是被运到工地。虽然这不现实，但这意味着玩家只有在确定有足够的资源后才能建造东西，而不必担心一直搬来搬去。
 
 [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) was particularly interesting because construction was actually excavation: It took place underground, and the player couldn't see the area he was excavating into. Excavations often led into immovable rock or to existing caves, underground rivers, or pools of lava. It was also irreversible: When an area had been excavated, there was no way to close it up again. This encouraged players to be cautious. Suddenly excavating into an area full of enemy creatures was a major hazard of the game.
 
-### Demolition
+[《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper) 特别有趣，因为它实际上是一种挖掘工程：挖掘是在地下进行的，玩家看不到挖掘的区域。挖掘通常会进入不可移动的岩石或已有洞穴、地下河流或熔岩池。挖掘也是不可逆的：当一个区域被挖掘出来后，就无法再将其封闭。这促使玩家谨慎行事。突然挖掘到一个充满敌方生物的区域是游戏的一大危险。
+
+### Demolition 拆除
 
 In addition to letting your players construct things, you might need to give them a way to demolish things. A big part of the fun of a CMS is building your city, theme park, or whatever the way you want to build it. If a construction decision is irreversible, it means whatever the player is building can get only bigger, never smaller, and the player cannot change his mind or react to new circumstances. This might be okay for strategy games (many war games, for example, allow you to build factories and defenses but not demolish them), but in CMSs, it prevents the player from exercising his full creative freedom; hence, the need for a demolition feature.
 
+除了让玩家建造东西，你可能还需要给他们一种拆除东西的方法。CMS 的一大乐趣就是按照自己的意愿建造城市、主题公园或其他任何东西。如果建造决定是不可逆的，这就意味着玩家正在建造的东西只能变大，不能变小，而且玩家不能改变主意或对新情况做出反应。这对于策略游戏来说也许没什么问题（例如，许多战争游戏允许玩家建造工厂和防御设施，但却不允许拆除它们），但在 CMS 中，这就会妨碍玩家充分发挥其创造性自由；因此，就需要拆除功能。
+
 You should consider whether you want demolition to cost something, cost nothing, or actually earn money. If it costs money to demolish something, you are, in effect, penalizing the player for changing his mind and perhaps encouraging him to plan more carefully in the future. He has lost not only his initial construction cost for the item, but the demolition costs as well. If it costs nothing, the player has lost only his construction costs. If he actually gets something back, it's usually called "selling" the item rather than demolishing it, and it further reduces the price the player pays for changing his mind. If he can sell it back for exactly as much as he paid, there is no net cost at all for building a thing and destroying it later. This is rare in CMSs because it removes some of the challenge. Players can build madly, secure in the knowledge that they can always get their money back by selling.
+
+你应该考虑一下，你是希望拆除需要花钱，还是不花钱，抑或是真的能赚钱。如果拆卸物品需要花钱，那么实际上你是在惩罚玩家改变主意，也许是在鼓励他今后更谨慎地计划。他不仅损失了物品的初始建造成本，还损失了拆除费用。如果不花一分钱，玩家损失的只是建造成本。如果他真的拿回了一些东西，这通常被称为“出售”物品，而不是拆除物品，这也进一步降低了玩家因改变主意而付出的代价。如果他能以与付出相同的价格将物品卖出，那么建造一件物品并在之后将其销毁就完全没有净成本了。这在内容管理系统中并不多见，因为它消除了一些挑战。玩家可以疯狂地建造，因为他们知道卖掉总能把钱赚回来。
 
 A player must never be able to sell an item back to the computer for more than he paid for it, unless he has expended further resources to upgrade it somehow. If the players can buy from and sell to the computer at will, and there exists any mechanism by which they can sell something for more than they paid for it, they will exploit this ruthlessly, piling up huge fortunes by endlessly buying and reselling and ignoring the rest of the game. There are various ways to prevent this. One is to make sure that it is simply impossible to make a profit; all sales must be for less than the original purchase price. If you want players to be able to make a limited profit, you have to place limits on the amount of buying and selling they can do. The computer can refuse to sell items to them after a while or can refuse to buy them back. The computer itself can have a limited amount of money and be unable to buy if it has run out. And in a multi-player game, you can let players buy and sell at a profit to one another, but not to the computer itself. Transactions among the players don't change the total amount of money in the game; it's selling things back to the computer that have the potential for abuse.
 
-### Victory Conditions
+除非玩家花费了更多的资源对物品进行升级，否则绝不能以高于其支付的价格将物品卖回给电脑。如果玩家可以随意向电脑购买和出售物品，而且存在任何机制可以让他们以高于其支付的价格出售物品，那么他们就会无情地利用这一点，通过无休止地购买和转售来积累巨额财富，而忽略游戏的其他部分。防止这种情况的方法有很多。一种是确保玩家根本无法获利；所有销售都必须低于原始购买价格。如果想让玩家获得有限的利润，就必须限制他们的买卖量。电脑可以在一段时间后拒绝向玩家出售物品，也可以拒绝回购。电脑本身的资金也可能是有限的，如果用完了就无法购买。在多人游戏中，可以让玩家互相买卖并获利，但不能让他们从电脑身上获利。玩家之间的交易并不会改变游戏中的资金总额，而把东西卖回给电脑才有可能被滥用。
+
+### Victory Conditions 胜利条件
 
 A good many CMSs have no victory condition; the player simply builds whatever she likes as effectively as she can within the constraints of the system. These games might well have a loss condition, however: total depletion of resources (or, in monetary terms, bankruptcy). This is the loss condition in Monopoly, for example. Victory in Monopoly consists simply of bankrupting all the other players.
 
+很多 CMS 都没有胜利条件；玩家只需在系统限制范围内尽可能有效地建造自己喜欢的东西。不过，这些游戏很可能有一个失败条件：资源完全耗尽（或者用货币术语来说，破产）。例如，这就是《大富翁》中的失败条件。在《大富翁》中，胜利仅仅是让所有其他玩家破产。
+
 If you do want to define a victory condition, it's best to do it in the context of a scenario of some kind. Give the player a partially constructed city (or whatever) and a set of initial conditions, and then define the victory condition as achieving some other condition. It could be as simple as, "To win, your enterprise must be worth $5 billion," but it can be as complex as you like. You can also start the player in rapidly deteriorating conditions and challenge her to turn them around or simply to survive for a certain length of time.
 
-### Competition Modes
+如果你确实想定义一个胜利条件，最好是在某种场景下进行。给玩家一个部分建成的城市（或其他）和一组初始条件，然后将胜利条件定义为达到其他条件。可以简单到“要想获胜，你的企业必须价值 50 亿美元”，但也可以非常复杂。你也可以让玩家在迅速恶化的条件下开始游戏，并挑战她扭转局面或仅仅生存一定的时间。
+
+### Competition Modes 竞争模式
 
 CMSs are almost always single-player games. It's possible to make them two-player or even multi-player, but it's not a natural way to play. CMSs encourage planning and thought, not frantic action. If the players are competing for the same resources, it becomes a race to see who can grab the most, ignoring the other aspects of the game. If the players are separate and have symmetric starting and victory conditions, the game tends to be about optimizing efficiency. If the conditions are asymmetric, the game will be difficult to balance.
 
+CMS 几乎都是单人游戏。双人甚至多人游戏也是可能的，但这并不是一种自然的游戏方式。CMS 鼓励计划和思考，而不是疯热的行动。如果玩家们都在争夺相同的资源，那么游戏就会变成一场看谁能抢到最多资源的竞赛，而忽略了游戏的其他方面。如果玩家是分开的，并且有对称的开始和胜利条件，那么游戏就会倾向于优化效率。如果条件不对称，游戏就难以平衡。
+
 CMSs let the player be playful, to build and experiment in the world you've given him. That's seldom consistent with competition. One major exception is in hybrid games, those that have a military element as well as construction and management elements. They're discussed in the "Hybrid Games" section later in this chapter.
 
-## The Player's Role
+CMS 能让玩家尽情玩耍，在你给他的世界里建造和实验。这很少与竞争相关联。混合型游戏是一个主要的例外，这类游戏既有军事元素，也有建造和管理元素。本章后面的“混合游戏”部分将对其进行讨论。
+
+## The Player's Role 玩家的角色
 
 When designing any game, the first question you have to ask yourself is, what is the player going to do? The answer to this question usually arises out of a clear statement of the player's role in the game: pilot, general, adventurer, irradiated hedgehog, and so on. In a CMS, however, it's less easy to define the player's role because it seldom corresponds to an actual job in real life. The mayor of a city doesn't really lay out its streets or make zoning decisions personally.
 
+在设计任何游戏时，你必须问自己的第一个问题是：玩家要做什么？要回答这个问题，通常需要明确说明玩家在游戏中的角色：飞行员、将军、冒险家、辐照刺猬等等。然而，在 CMS 中，玩家角色的定义就不那么容易了，因为它很少与现实生活中的实际工作相对应。一个城市的市长并不会亲自规划街道或做出分区决定。
+
 This is one of the few genres in which we don't think you have to define the player's role in familiar terms. You still have to concern yourself with what the player is going to do, of course, but it doesn't matter that much what you call him.
 
-### Interaction Model
+我们认为，这是为数不多的不需要用我们熟悉的术语来定义玩家角色的游戏类型之一。当然，你仍然需要考虑玩家要做什么，但叫他什么并不重要。
+
+### Interaction Model 交互模型
 
 The player is almost always omniscient in a CMS because she needs to see what is happening all over the game world. It's difficult to control a global process from a local perspective. Most CMSs don't give the player any kind of avatar. Those that do usually make it temporary. If the player is building a city or a space station or some other structure, she could well want to see what it would look like from the perspective of someone inside it. For example, in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper), it is possible for the player to "possess" a creature in her dungeon: to take control of that creature and walk around the dungeon in the first-person perspective (see Figure 14.5), seeing through its eyes. However, this feature is mostly cosmetic. It is occasionally useful in the military aspects of the game, but not at all in the management aspects. In short, we think the "down inside" view is a fun one and the player will enjoy it, but the primary interaction model in a CMS needs to be omnipresent.
 
-Figure 14.5. Dungeon Keeper 2, omnipresent view (top) and inside view (bottom).
+在 CMS 中，玩家几乎总是无所不知的，因为她需要看到游戏世界中发生的一切。从局部视角控制全局进程是很困难的。大多数内容管理系统都不会给玩家提供任何化身。那些提供化身的系统通常都是临时性的。如果玩家正在建造一座城市、一个空间站或其他建筑，她很可能会想看看从里面的人的角度看会是什么样子。例如，在 [《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)中，玩家可以“附身”地牢中的生物：控制该生物，以第一人称视角在地牢中走动（见图 14.5），通过它的眼睛来观察。不过，这一功能主要是装饰性的。它在游戏的军事方面偶尔有用，但在管理方面却完全没用。总之，我们认为“从内部”视角很有趣，玩家也会喜欢，但内容管理系统中的主要交互模式必须无所不在。
+
+Figure 14.5. Dungeon Keeper 2, omnipresent view (top) and inside view (bottom). 图 14.5. 《地下城守护者 2》，全方位视图（上）和内部视图（下）。
 
 graphics/14fig05.gif
 
@@ -227,19 +268,124 @@ graphics/14fig05.gif
 
 Because CMSs aren't trying to create an illusion of reality in the way that first-person shooters or flight simulators are, their user interfaces can be more "computerlike," using pull-down menus and rows of buttons along the edges of the screen. In a CMS, the emphasis is more on convenience than verisimilitude.
 
+由于 CMS 并不像第一人称射击游戏或飞行模拟器那样试图营造真实的幻觉，因此其用户界面可能更像“电脑”，使用下拉菜单和屏幕边缘的一排按钮。在 CMS 中，强调的是方便性而不是真实性。
+
 ### Perspective 视角
 
 The user's perspective in a CMS naturally depends on what's being simulated. Most CMSs simulate a process taking place over a land area—whether it's a city, a farm, or an entire planet. As a result, they tend to use an isometric perspective and enable you to view the world from one of four angles. The isometric perspective requires little CPU time, an advantage even in these days of 3D hardware accelerators, because CMSs do a lot more computation behind the scenes than other kinds of games. Its disadvantage, at least from a development standpoint, is that your art team will have to draw sprites of everything in the game from four different perspectives—and still more if you offer multiple zoom levels. It also doesn't let the player zoom in to any degree he likes. CMSs are sometimes frustrating in that the closest-in zoom level is a little too close, and the next one out is a little too far out.
 
+用户在 CMS 中的视角自然取决于模拟的内容。大多数 CMS 模拟的是在陆地上发生的过程——无论是城市、农场还是整个星球。因此，它们倾向于使用等距视角，让你可以从四个角度之一来观察世界。等距视角只需要很少的 CPU 时间，即使在 3D 硬件加速的今天也是一个优势，因为 CMS 在幕后要比其他类型的游戏进行更多的计算。它的缺点是，至少从开发的角度来看，美术团队必须从四个不同的角度为游戏中的所有内容绘制精灵，如果提供多种缩放级别，则绘制的精灵数量会更多。此外，它还不能让玩家随意放大。CMS 有时会让人感到沮丧，因为最靠近的缩放级别有点太近，而下一个缩放级别又有点太远。
+
 If your game simulates a process taking place in a three-dimensional space, you might find it useful to divide the space into layers (either physical or conceptual) to make it easier for the player to navigate around and view. It's also helpful to provide a button that returns the camera instantly to a default perspective so that the player can reorient himself if he gets lost.
+
+如果你的游戏模拟的是一个在三维空间中发生的过程，你可能会发现将空间划分为不同的层次（物理层次或概念层次）是非常有用的，这样可以让玩家更容易浏览和查看。此外，提供一个按钮让摄像机立即返回到默认视角也很有帮助，这样玩家在迷失方向时就可以重新定位。
 
 ### Analysis Tools 分析工具
 
 In a CMS, the player is trying to understand and control a mathematical model. To do this, she needs convenient access to key variables within the model. You should display the most important scalar (single-value) variables—for example, the amount of money she has to work with at the moment—on the screen at all times. The display can be in digits, if that's most appropriate, or a bar graph or some other kind of monitoring device, depending on the nature of the simulation.
 
+在 CMS 中，玩家试图理解和控制一个数学模型。为此，她需要方便地访问模型中的关键变量。你应该随时在屏幕上显示最重要的标量（单值）变量——例如，她目前可以使用的资金数额。如果最合适的话，可以用数字显示，也可以用条形图或其他监测设备显示，这取决于模拟的性质。
+
 Often the player needs to know not only the current value of a variable, but also how that variable has changed over time. This lets her track trends and respond to them before trouble occurs. In Theme Park, a business simulation about building and managing (surprise!) theme parks, visitors came in, spent a while in the park, and left again. The player could see them wandering around, but it was difficult to get a sense of the park's popularity just by counting heads. One of the information pop-ups available was a graph that showed how the population had changed over the past 1, 3, or 12 game years.
+
+通常情况下，玩家不仅需要知道变量的当前值，还需要知道该变量随时间的变化情况。这可以让她跟踪趋势，并在问题发生之前做出反应。在《主题公园》这一有关主题公园建设和管理（令人吃惊！）的商业模拟游戏中，游客来到公园，在公园里待上一段时间，然后又离开。玩家可以看到他们四处游荡，但很难通过数人头来了解公园的受欢迎程度。弹出的信息之一是一张图表，显示过去 1、3 或 12 游戏年的人口变化情况。
 
 With vector (multivalued) variables, you'll need a different approach. In Caesar, for example, every area of the Roman town that the player was trying to build needed a water supply of some sort. The amount of water available was therefore a vector; it had a separate value for each square on the grid. There were a variety of types of water supplies (wells, pipes, fountains, and so on), and each provided water to a given area around it. In the game's default perspective, showing all the buildings of the town, the player could see the structure supplying the water, but it was difficult for her to visualize exactly how far its coverage extended. To get a clearer picture, she could bring up a different view that hid most of the buildings and instead showed only the amount of water available in each area. The different values were indicated as squares in different shades of blue, from light blue, indicating very little water, to dark blue, indicating plenty. If an area had no water supply, there was no blue at all. The water supply buildings themselves were left visible on the map as landmarks.
 
+对于矢量（多值）变量，你 需要采用不同的方法。例如，在《凯撒》中，玩家试图建造的罗马城镇的每个区域都需要某种形式的供水。因此，可用水量是一个矢量；网格上的每个方格都有一个单独的值。水源有多种类型（水井、水管、喷泉等），每种类型都能为其周围的特定区域供水。在游戏的默认视角下，玩家可以看到城镇的所有建筑，也可以看到供水结构，但很难想象它的覆盖范围到底有多广。为了获得更清晰的画面，她可以调出另一个视角，将大部分建筑隐藏起来，只显示每个区域的供水量。不同的数值以不同深浅的蓝色方格表示，从表示水量极少的浅蓝色到表示水量充足的深蓝色。如果一个地区没有供水，则没有任何蓝色。供水建筑本身作为地标留在地图上。
+
 These sorts of analysis tools are essential to give the player an understanding of what's going on inside the simulation. Sim City had several: fire danger, crime, pollution, and so on. They allow the player to quickly locate trouble spots and take remedial action. These kinds of map overlays should not be a snapshot at a moment in time, but should be continuously updated by the simulation. That way, the player can watch them for a while and tell whether particular situations are getting better or worse—and, most important, whether her actions are having the desired effect.
 
+这些分析工具对于让玩家了解模拟中发生的事情至关重要。《模拟城市》中就有几种：火灾危险、犯罪、污染等等。它们可以让玩家快速找到问题点并采取补救措施。这类地图覆盖不应是某一时刻的快照，而应由模拟不断更新。这样，玩家就可以观察一段时间，判断特定情况是在变好还是变坏——最重要的是，她的行动是否产生了预期效果。
+
+# Special Design Considerations for CMSs CMS 的特殊设计考虑因素
+
+The following sections discuss some design considerations particular to construction and management simulations.
+
+以下各节将讨论建设和管理模拟游戏的一些特殊设计考虑因素。
+
+## Simulating Individuals 模拟个体
+
+Many CMSs simulate the behavior of a group of people (or, in the case of SimAnt, ants) within an environment that the player is managing. If it's a very large number of people, as in the original Sim City, behavior is usually modeled statistically and separate values are not kept for each person. However, you might want to simulate the actions of unique individuals that the player can see moving around and doing whatever it is that they do in your world. This will make your game a good deal more entertaining because there will be more for the player to see and because he can follow particular individuals around to watch what they do. It appeals to a sort of voyeuristic impulse and makes the consequences of the player's decisions seem more personal. It's particularly affecting when the player can actually see people who are unhappy packing up and leaving.
+
+许多内容管理系统都会模拟玩家所管理的环境中一群人（在 SimAnt 中则是蚂蚁）的行为。如果人数非常多，就像最初的《模拟城市》那样，通常会对行为进行统计建模，而不会为每个人保留单独的数值。不过，您可能希望模拟独特的个人行为，让玩家看到他们在您的世界中四处走动，做着任何事情。这将使您的游戏更具娱乐性，因为玩家可以看到更多的东西，还可以跟随特定的人观看他们的行为。这迎合了一种偷窥的冲动，并使玩家的决定所产生的后果显得更加个人化。当玩家看到那些不开心的人打包离开时，这种感觉尤其强烈。
+
+Modeling particular individuals rather than statistical aggregates adds considerably to your design job. You will need to create a behavioral model, usually including a scalar degree of happiness or unhappiness, and a set of needs that the person desires to have fulfilled. Various behaviors or circumstances can fulfill those needs. In some cases, the individual will be able to take an autonomous action that fulfills the need (driving from home to work fulfills the need to get to work); whereas in others, the player will have to provide something to fulfill the need (building a school provides educational opportunities). If a need goes unfulfilled, either through a problem that arises within the simulation (traffic jams prevent the person getting to work) or the player failing to act (no school has been built), there should be a negative consequence of some kind (the simulated person becomes unhappy).
+
+为特定的个人建模，而不是为统计集合建模，会大大增加设计工作的难度。您需要创建一个行为模型，通常包括幸福或不幸福的标度，以及个人希望得到满足的一系列需求。各种行为或环境都可以满足这些需求。在某些情况下，个人能够采取自主行动来满足需求（从家里开车去上班满足了上班的需求）；而在另一些情况下，参与者必须提供一些东西来满足需求（建一所学校提供教育机会）。如果某项需求没有得到满足，无论是由于模拟中出现的问题（交通堵塞阻碍了人们上班），还是由于玩家没有采取行动（没有建造学校），都会产生某种负面后果（模拟人变得不快乐）。
+
+Modeling individuals relieves you of the job of creating a statistical model because the behavior of the individuals collectively provides the statistics. However, balancing it will be a much more intricate job. You will probably discover emergent behaviors, unanticipated consequences of design decisions. Some of these will be fascinating and almost seem like intelligence, but others will clearly be degenerate: people locked in a tight behavioral loop, for example, only ever doing one or two things because your needs mechanism isn't balanced properly.
+
+个人建模可以减轻创建统计模型的工作，因为个人的行为共同提供了统计数据。然而，平衡它将是一项复杂得多的工作。你很可能会发现突发行为，即设计决策的意外后果。其中有些会很吸引人，几乎看起来就像智能一样，但有些显然是退化的：例如，人们被锁定在一个紧密的行为循环中，永远只做一两件事，因为你的需求机制没有平衡好。
+
+Behavioral modeling is too big of a subject for us to address comprehensively here, and we suggest that you consult the bibliography at the end of this book for further reading.
+
+行为建模是一个很大的课题，我们无法在此全面论述，建议您参阅本书末尾的参考书目，以便进一步阅读。
+
+### Mind Reading 读心术
+
+If the individuals you're simulating are visible on the screen and the player can select one with the mouse, you can offer another useful analysis tool: mind reading. To let the player know what's in that individual's mind, pop up an icon or even a whole dialog box showing his internal state: current goal, degree of happiness, or whatever other data might be useful to the player. This lets the player get a quick, rough sense of how the people are feeling without having to turn to a statistical analysis screen.
+如果您模拟的人在屏幕上可见，而且玩家可以用鼠标选择其中一个，那么您就可以提供另一种有用的分析工具：读心术。为了让玩家了解这个人的想法，可以弹出一个图标甚至整个对话框，显示他的内心状态：当前目标、快乐程度或其他任何对玩家有用的数据。这样，玩家就可以快速、粗略地了解人们的感受，而不必转到统计分析界面。
+
+> **Case Study: Theme Park, a Disgusting Example of Positive Feedback 案例研究：主题公园，积极反馈的恶心范例**
+> 
+> In Bullfrog Productions's CMS called Theme Park, the player was supposed to build a single theme park, ride by ride, into an empire of theme parks around the world. In addition to buying the rides, which attracted visitors, the player built shops and restaurants to extract money from them and hired maintenance and cleaning staff to keep the rides working and the park clean.
+> 
+> 在牛蛙制作公司开发的名为 “主题公园 ”的 CMS 中，玩家要把一个单一的主题公园，通过一个个游乐设施，建设成一个遍布全球的主题公园帝国。除了购买游乐设施吸引游客外，玩家还要建造商店和餐馆从中牟利，并雇佣维护和清洁人员来保持游乐设施的运行和公园的清洁。
+>
+> Each visitor to the park had a number of characteristics: how much money he had, how hungry or thirsty he was, and so on. One of these characteristics was "current degree of nausea." If a visitor became nauseated enough, he would vomit, leaving a mess on the ground that had to be cleaned up. Nausea could be caused by three things. Two of these were riding a particularly violent ride and being near an unclean bathroom. The third cause of nausea was—you guessed it—being near someone else's vomit. If the park was crowded and the player hadn't hired enough cleaning staff to keep the bathrooms clean and the vomit cleaned up, the result was chain-reaction vomiting by the visitors. This did nothing for the reputation of the park and tended to hurt future sales, but it did inject a degree of juvenile humor into what was otherwise a fairly straightforward business simulation.
+
+## Advisors
+
+Another tool commonly found in CMSs is the advisor: a simulated character who pops up and gives the player advice from time to time (see Figure 14.6). Because problems are often localized in one area of the map, the player might be looking at another area when one occurs and not see it until it has grown severe. An advisor can warn of problem conditions wherever they occur. You should also consider including a screen button or menu item that jumps the screen to the most recently reported problem.
+
+Figure 14.6. Theme Park World. Note the advisor in the lower-right corner.
+
+graphics/14fig06.gif
+
+In addition to warning of emergencies, an advisor can give the player information about the general state of the game. "The people need more food," he can say, or "Prices are too high." This lets the player know of global problems without having to consult the analysis tools.
+
+To design an advisor, define both the local and the global problems that you think are important to let the player know about; then set the threshold levels at which the advisor will pop up. If the advisor is going to interrupt the player or say something aloud, don't set these thresholds too low, or the constant interruptions will become irritating. You should also make it possible for the player to turn off the advisor or to consult it only when wanted. Playing without the advisor adds an extra challenge to the game.
+
+You can also create an advisor that consists only of an indicator that remains constantly on the screen, displaying the most urgent global need at the moment.
+
+## Pure Business Simulations
+
+A game like Theme Park World is a business simulation because it's about attracting customers and making profits. It's the building aspect of it that makes it a CMS. But there are also pure business simulations in which you construct only a financial fortune, not a visible world. The game Hollywood Mogul, for example, is about the business of making movies, but it consists only of a series of menu screens about hiring stars and making deals. The player never sees a set or a camera. Mr. Bigshot, shown in Figure 14.7, is a fairly simple stock market simulation.
+
+Figure 14.7. Mr. Bigshot.
+
+graphics/14fig07.gif
+
+Most of the challenges of designing a pure business simulation are the same as for any other management sim: You must devise an economy and mechanisms for manipulating it. The real trick is to find some way of making the subject visually interesting. Spreadsheets and pie charts have limited appeal, so if you're going to do a management simulation without a construction element, you should try to give it some kind of a setting or to find a visual representation of the process that will make it attractive and compelling. Mr. Bigshot accomplishes this with lots of animation, voiceover narration, music, and cartoon characters representing the player's opponents; as the player, you feel rather like a contestant on a TV game show.
+
+By contrast, Capitalism II (see Figure 14.8) is a huge, sprawling business sim covering all kinds of products and industries. In addition to showing pictures of them and all the raw materials that go into them, the game allows players to construct or purchase buildings in cities, so there's an attractive Sim City-like view as well.
+
+Figure 14.8. Capitalism II.
+
+graphics/14fig08.gif
+
+Business simulations will never have the pulse-pounding excitement of a first-person shooter, but they can be highly enjoyable games. As the designer, you'll need to work closely with the art director to make the essentially numeric nature of their gameplay more lively.
+
+## Hybrid Games
+
+Civilization, Age of Empires, Dungeon Keeper, and The Settlers are all good examples of hybrid games: crosses between a CMS and a war game. In addition to their economic challenges, they all feature exploration and military challenges, varying somewhat from one game to another. The military aspect of The Settlers is quite simple, as it must be, given that the economic aspect is exceedingly complex. Age of Empires emphasizes warfare and military research more and is more of a real-time strategy game than a CMS, especially because natural resources are limited. Its people can be controlled directly, too. Dungeon Keeper is initially about constructing a dungeon, but in the later stages of each mission, it's actually about recruiting and training a balanced army, and then taking that army into battle. Control is a curious hybrid of direct and indirect: Creatures have a distinct behavior model, but they will obey orders as long as they're happy. (If they're unhappy, they might disobey or even desert.) However, Dungeon Keeper retains its economic challenges throughout: It's one of the very few games in which the soldiers have to be paid, fed, and given a place to sleep.
+
+If you're going to design a hybrid game, we encourage you to design the economic simulation first (unless it's really simple) and then add the other elements afterward. Because the other aspects of the game usually depend on the underlying economy, a mistake in the economic design can easily ruin the rest of the game. For example, a war game that includes an economy for weapons production might lose all its strategic challenge if the player is able to produce weapons too quickly. The player will exploit his economic strength and overwhelm the opposition with sheer numbers rather than strategic skill.
+
+> **Construction and Management Simulation Worksheet**
+> 
+> 1. When beginning the design of a construction and management simulation, consider the following questions:
+> 2. What process is the player going to manage? What actions will the player take in managing that process?
+> 3. What resources exist in this process? For each resource, how is it produced, consumed, stored, transported, and converted into other resources? Is it tangible, intangible, or a hybrid? Is it limited or unlimited? What determines its production and consumption rates?
+> 4. Which resources can the player manipulate and which can she not?
+> 5. Will the process settle into a static or dynamic equilibrium, or will it run down if not tended by the player? Will disasters affect it?
+> 6. What will be player be constructing, and what function does the constructed item have? Will objects be purchased whole or designed and built over time? For each item that the player can construct, what does it cost and how long does it take to build?
+> 7. Can the player demolish or sell things that she builds? Does this cost or earn resources for the player?
+> 8. Will the game have scenarios with victory conditions? What are they like?
+> 9. What is the player's perspective and interaction model with the game? Is there a way to "get inside" the things she builds?
+> 10. What analysis tools are provided to help her understand the workings of the simulation?
+> 11. Is the simulated population modeled as individuals or as a statistical aggregate? If they are individuals, what is their behavior model? Are there multiple types of individuals? Can the player read their minds?
+> 12. Will the game have advisors? What will they advise about?
+> 13. Is this game a pure business simulation? Accounting and finance are often considered rather dull, so what makes this compelling? Does the game have a setting? If not, how can it be made visually interesting?
+> 14. Is the game a hybrid with other sorts of games? What other elements in the game make it a hybrid (strategic problems, action challenges, puzzles, and so on)? How do they affect the way the game is controlled?
