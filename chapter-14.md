@@ -36,19 +36,19 @@ Similarly, most CMSs don't require a resource to be physically transported to be
 
 同样，大多数 CMS 都不需要通过实际运输来消耗资源，它只需从仓库中消失即可。在[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)中建造建筑时，玩家不需要把石头从储藏坑运到建筑工地。这为玩家减轻了额外的管理负担。
 
-One game that treats all resources as tangible, including money, is The Settlers from Blue Byte Software. In The Settlers, every kind of resource (and there are many) must be transported from where it is produced, either to storage areas or directly to places where it is consumed. Grain, for example, must be carried from the grain farm to the windmill for grinding, the flour must be carried from the windmill to the bakery, and the bread must be carried from the bakery to the mines, where the miners eat it.
+One game that treats all resources as tangible, including money, is [The Settlers](https://en.wikipedia.org/wiki/The_Settlers) from Blue Byte Software. In [The Settlers](https://en.wikipedia.org/wiki/The_Settlers), every kind of resource (and there are many) must be transported from where it is produced, either to storage areas or directly to places where it is consumed. Grain, for example, must be carried from the grain farm to the windmill for grinding, the flour must be carried from the windmill to the bakery, and the bread must be carried from the bakery to the mines, where the miners eat it.
 
-Blue Byte Software 公司出品的《工人物语》是一款将包括金钱在内的所有资源都视为有形资源的游戏。在《工人物语》中，每一种资源（有很多）都必须从生产地运输到储存地或直接运到消费地。例如，谷物必须从谷物农场运到风车碾磨，面粉必须从风车运到面包房，面包必须从面包房运到矿井，然后矿工们在矿井里食用。
+Blue Byte Software 公司出品的[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)是一款将包括金钱在内的所有资源都视为有形资源的游戏。在[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)中，每一种资源（有很多）都必须从生产地运输到储存地或直接运到消费地。例如，谷物必须从谷物农场运到风车碾磨，面粉必须从风车运到面包房，面包必须从面包房运到矿井，然后矿工们在矿井里食用。
 
 ### Sources 来源
 
-Every resource, intangible or tangible, must have one or more sources—that is, ways in which they come into the game. In Monopoly, for example, money comes into the game from the bank. All the players start with a certain amount of money, and they get more each time they pass Go. They can also mortgage their properties for money, and they might get more money from the bank through the actions of the Chance and Community Chest cards.
+Every resource, intangible or tangible, must have one or more sources—that is, ways in which they come into the game. In [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), for example, money comes into the game from the bank. All the players start with a certain amount of money, and they get more each time they pass Go. They can also mortgage their properties for money, and they might get more money from the bank through the actions of the Chance and Community Chest cards.
 
-每种资源，无论是无形的还是有形的，都必须有一个或多个来源，即它们进入游戏的方式。例如，在《大富翁》中，钱是从银行进入游戏的。所有玩家一开始都有一定数量的钱，每次通过“Go”都会得到更多。他们还可以抵押自己的房产换取资金，并通过“机会”牌和“社区宝箱”卡片的行动从银行获得更多钱。
+每种资源，无论是无形的还是有形的，都必须有一个或多个来源，即它们进入游戏的方式。例如，在[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))中，钱是从银行进入游戏的。所有玩家一开始都有一定数量的钱，每次路过“Go”都会得到更多钱。他们还可以抵押自己的房产换取资金，并通过“机会”牌和“社区宝箱”卡片的行动从银行获得更多钱。
 
-Unlike Monopoly, which is turn-based, CMSs usually have a production rate for each resource. This production rate can be fixed or variable, and rates can be different at different sources—that is, some sources might produce the resource faster than others.
+Unlike [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), which is turn-based, CMSs usually have a production rate for each resource. This production rate can be fixed or variable, and rates can be different at different sources—that is, some sources might produce the resource faster than others.
 
-与回合制的《大富翁》不同，CMS 通常为每种资源设定一个生产率。该生产率可以是固定的，也可以是可变的，而且不同来源的生产率可能不同——也就是说，有些来源的资源生产速度可能比其他来源快。
+与回合制的[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))不同，CMS 通常为每种资源设定一个生产率。该生产率可以是固定的，也可以是可变的，而且不同来源的生产率可能不同——也就是说，有些来源的资源生产速度可能比其他来源快。
 
 Finally, regardless of production rate, sources can be limited or unlimited. A particular source might contain a limited amount of a resource and might cease production when it is depleted. If the entire game contains only a limited amount (that is, all possible sources contain limited amounts), the game can be said to be closed-ended. The game must eventually end or fail when the essential resource is gone. On the other hand, if the amount of the resource is unlimited, the game is open-ended—it can continue indefinitely. Dungeon Keeper again provides examples of both. Gold mines in [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper) produced only a certain amount of gold. Because various activities consumed gold, eventually the dungeon must run out of money. Some dungeons, however, contained gem mines as well as gold mines (a misnomer because what they actually produced was also gold). The difference was that a gem mine could never be exhausted. It continued to produce gold indefinitely.
 
@@ -58,76 +58,108 @@ Finally, regardless of production rate, sources can be limited or unlimited. A p
 
 A drain is an activity that consumes resources. The two most common drains in CMSs are construction, building or buying new things to serve some purpose, and maintenance, ongoing spending required to prevent loss or decay. Construction happens only when the player wants it. Maintenance can be player-controlled, but it is often an automatic function that occurs whether the player wants it to or not.
 
-消耗是指消耗资源的活动。CMS 中最常见的两种消耗是建造和维护，前者是指建造或购买新的东西来达到某种目的，后者是指为防止资源流失或腐化而持续进行的支出。建造只有在玩家需要时才会发生。维护可以由玩家控制，但通常是一种自动功能，无论玩家是否愿意都会发生。
+消耗是指消耗资源的活动。CMS 中最常见的两种消耗是建造和维护，前者是指建造或购买新的东西来达到某种目的，后者是指为防止资源流失或衰减而持续进行的支出。建造只有在玩家需要时才会发生。维护可以由玩家控制，但通常是一种自动功能，无论玩家是否愿意都会发生。
 
-Because resources are valuable, the player wants to know why a resource is disappearing from the world and what she is "getting" to compensate for its loss. In Monopoly, players get money from the bank by passing Go—in effect, for no reason at all—but whenever a player has to give money back to the bank, a reason is given: The player has been fined, has to pay certain expenses, and so on.
+Because resources are valuable, the player wants to know why a resource is disappearing from the world and what she is "getting" to compensate for its loss. In [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), players get money from the bank by passing Go—in effect, for no reason at all—but whenever a player has to give money back to the bank, a reason is given: The player has been fined, has to pay certain expenses, and so on.
 
-因为资源是有价值的，所以玩家想知道为什么某种资源会从世界上消失，以及她 “得到 ”了什么来补偿资源的损失。在《大富翁》游戏中，玩家通过 “下棋 ”从银行获得钱财--实际上是毫无理由的--但每当玩家必须把钱还给银行时，都会给出一个理由： 但每当玩家必须把钱还给银行时，银行都会给出一个理由：玩家被罚款了，必须支付某些费用，等等。
+因为资源是有价值的，所以玩家想知道为什么某种资源会从世界上消失，以及她“得到”了什么来补偿资源的损失。在[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))游戏中，玩家路过“Go”就能从银行获得钱——实际上是毫无理由的——但每当玩家必须把钱还给银行时，都会给出一个理由：玩家被罚款了，必须支付一定费用，等等。
 
 Maintenance seems like a sort of meaningless cost. It bothers some players, who would rather buy something once and never have to worry about it again. If you characterize it as a "rental" rather than a purchase, it makes more sense to them. Paying employees is a good example of a maintenance cost. You can't own employees; you can only pay their wages on an ongoing basis.
 
-维护似乎是一种毫无意义的成本。这让一些玩家感到困扰，他们宁愿只买一次东西，然后再也不用担心了。如果把它说成是 “租赁 ”而不是购买，对他们来说就更有意义了。支付员工工资就是维护成本的一个很好的例子。你不能拥有员工，只能持续支付他们的工资。
+维护似乎是一种毫无意义的成本。这让一些玩家感到困扰，他们宁愿只买一次东西，然后再也不用担心了。如果把它说成是“租赁”而不是购买，对他们来说就更有意义了。支付员工工资就是维护成本的一个很好的例子。你不能拥有员工，只能持续支付他们的工资。
 
-### Converters
+### Converters 转换器
 
-A converter is a location or activity that turns one or more resources into another. In effect, it drains one resource while serving as the source for another at the same time. The Settlers is full of converters (see Figure 14.1). The bakery, for example, turns flour and water into bread. The iron smelter takes iron ore and coal (or charcoal) and produces iron bars. In designing a converter, you must specify the input-to-output ratio between resources consumed and resources produced, as well as its production rate. For example, the windmill in The Settlers converts grain into flour at a rate of one to one: One bag of grain produces one bag of flour; none is wasted. This takes 15 or 20 seconds to do. The iron smelter turns one load of ore into one iron bar, consuming one load of coal in the process. However, if it is using charcoal instead of coal, it requires three loads of charcoal for each iron bar because charcoal is less efficient than coal. (That's the given reason, anyway; the real game-design reason is that charcoal is an unlimited resource because it comes from wood, which is renewable, whereas coal has to be mined and eventually runs out. To discourage players from simply using charcoal for everything, the designers made it a less efficient mechanism.)
+A converter is a location or activity that turns one or more resources into another. In effect, it drains one resource while serving as the source for another at the same time. [The Settlers](https://en.wikipedia.org/wiki/The_Settlers) is full of converters (see Figure 14.1). The bakery, for example, turns flour and water into bread. The iron smelter takes iron ore and coal (or charcoal) and produces iron bars. In designing a converter, you must specify the input-to-output ratio between resources consumed and resources produced, as well as its production rate. For example, the windmill in [The Settlers](https://en.wikipedia.org/wiki/The_Settlers) converts grain into flour at a rate of one to one: One bag of grain produces one bag of flour; none is wasted. This takes 15 or 20 seconds to do. The iron smelter turns one load of ore into one iron bar, consuming one load of coal in the process. However, if it is using charcoal instead of coal, it requires three loads of charcoal for each iron bar because charcoal is less efficient than coal. (That's the given reason, anyway; the real game-design reason is that charcoal is an unlimited resource because it comes from wood, which is renewable, whereas coal has to be mined and eventually runs out. To discourage players from simply using charcoal for everything, the designers made it a less efficient mechanism.)
 
-Figure 14.1. The Settlers III. The iron smelter is in the center. The coal and iron ore mines are immediately below.
+转换器是将一种或多种资源转化为另一种资源的地点或活动。实际上，它在消耗一种资源的同时，也是另一种资源的来源。[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)中有很多转换器（见图 14.1）。例如，面包店可以把面粉和水变成面包。炼铁厂利用铁矿石和煤（或木炭）生产铁条。在设计转换器时，你必须明确消耗的资源和生产的资源之间的投入产出比以及生产率。例如，[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)中的风车以一比一的比率将谷物转化为面粉：一袋谷物生产一袋面粉，没有任何浪费。这需要 15 或 20 秒的时间。炼铁厂将一批矿石转化为一根铁棒，在此过程中会消耗一块煤。但是，如果用木炭代替煤炭，每块铁条就需要三块木炭，因为木炭的效率比煤炭低。(这是给出的原因，真正的游戏设计原因是木炭是一种无限资源，因为它来自木材，而木材是可再生的，而煤炭必须开采，最终会枯竭。为了阻止玩家简单地使用木炭来做任何事情，设计者让木炭成为了一种效率较低的机制。）
+
+Figure 14.1. The Settlers III. The iron smelter is in the center. The coal and iron ore mines are immediately below. 图 14.1. 《工人物语三》。中间是炼铁厂。下面是煤矿和铁矿。
 
 graphics/14fig01.gif
 
-### Deadlocks
+### Deadlocks 死锁
 
-A deadlock is a condition that occurs when you need a resource to construct a production mechanism to produce more of the same resource, or when two processes are each waiting for the other to complete. The chicken-and-egg problem is a classic deadlock. To use an example from a real game, in The Settlers, a player must have stone to build a stonecutter's hut, which then produces more stone. Ordinarily, the game starts with some stone already in storage, so if the player builds a stonecutter's hut right away, it will produce the stone needed for other activities. However, if the player uses up all her stored stone constructing other buildings, she might not have enough to build a stonecutter's hut, and she will be in a deadlock. Fortunately, The Settlers gives players a way to break the deadlock: They can demolish another building and get back enough stone to build a stonecutter's hut after all.
+A deadlock is a condition that occurs when you need a resource to construct a production mechanism to produce more of the same resource, or when two processes are each waiting for the other to complete. The chicken-and-egg problem is a classic deadlock. To use an example from a real game, in [The Settlers](https://en.wikipedia.org/wiki/The_Settlers), a player must have stone to build a stonecutter's hut, which then produces more stone. Ordinarily, the game starts with some stone already in storage, so if the player builds a stonecutter's hut right away, it will produce the stone needed for other activities. However, if the player uses up all her stored stone constructing other buildings, she might not have enough to build a stonecutter's hut, and she will be in a deadlock. Fortunately, [The Settlers](https://en.wikipedia.org/wiki/The_Settlers) gives players a way to break the deadlock: They can demolish another building and get back enough stone to build a stonecutter's hut after all.
 
-In designing a CMS, you need to watch out for deadlocks, which can occur whenever there's a loop in the production process. To avoid deadlocks, either avoid such loops or provide an alternative source for one of the resources, even if its value is minimal. This is the point of collecting $200 when you pass Go in Monopoly. If you have no properties, you can't earn money by collecting rent, but if you can't collect rent, you can't buy properties. Monopoly solves this by giving the players money to start with and by giving them $200 every time they pass Go. As the game progresses, that $200 becomes less significant, but it is enough to break a deadlock.
+当你需要一种资源来构建生产机制以生产更多相同资源时，或者当两个进程都在等待对方完成时，就会出现死锁。鸡和蛋的问题就是典型的死锁。举个真实游戏中的例子，在[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)中，玩家必须拥有石头才能建造石匠小屋，然后生产更多的石头。通常情况下，游戏开始时已经储存了一些石头，因此如果玩家立即建造一座石匠小屋，就能生产出其他活动所需的石头。但是，如果玩家在建造其他建筑时用完了所有储存的石头，那么她可能就没有足够的石头来建造石匠小屋了，这样她就会陷入死锁。幸运的是，[《工人物语》](https://en.wikipedia.org/wiki/The_Settlers)为玩家提供了打破僵局的方法：他们可以拆除另一栋建筑，取回足够的石料来建造石匠小屋。
 
-### Static and Dynamic Equilibrium
+In designing a CMS, you need to watch out for deadlocks, which can occur whenever there's a loop in the production process. To avoid deadlocks, either avoid such loops or provide an alternative source for one of the resources, even if its value is minimal. This is the point of collecting \\$200 when you pass Go in [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)). If you have no properties, you can't earn money by collecting rent, but if you can't collect rent, you can't buy properties. [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)) solves this by giving the players money to start with and by giving them \\$200 every time they pass Go. As the game progresses, that \\$200 becomes less significant, but it is enough to break a deadlock.
+
+在设计 CMS 时，你需要注意死锁，因为只要生产流程出现循环，就会出现死锁。为了避免死锁，要么避免这种循环，要么为其中一种资源提供替代来源，即使它的价值很小。这就是[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))中路过“Go”时领取 200 美元的意义所在。如果你没有房产，你就不能通过收租赚钱，但如果你不能收租，你就不能买房。[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))解决这个问题的方法是，一开始就给玩家钱，每次路过“Go”时都给他们 200 美元。随着游戏的进行，这 200 美元的作用会越来越小，但也足以打破僵局。
+
+### Static and Dynamic Equilibrium 静态和动态平衡
 
 It's possible to design a system in such a way that, left alone, it returns to a state of equilibrium. Static equilibrium is a state in which everything remains constantly the same: Resources are flowing steadily around without any significant change anywhere. Dynamic equilibrium occurs when the system fluctuates through a cycle. It's constantly changing, but it eventually returns to a starting point and begins again.
 
+可以设计一个系统，使其在没有外力干预的情况下自行回到平衡状态。静态平衡是一种所有事物都保持不变的状态：资源稳定流动，任何地方都没有显著变化。当系统在一个周期内波动时，就会出现动态平衡。它不断变化，但最终会回到起点并重新开始。
+
 Here's an example of static equilibrium. Suppose you have a miller grinding wheat to make flour, and a baker baking bread from the flour. If the bakery consumes the flour at exactly the same rate at which the mill produces it, then the amount of flour in the world at any one time will remain static. If we then perturb the system by stopping the bakery for a while, the flour will build up. When the bakery restarts, the amount of flour available will be static at the new level. The system returns to equilibrium because the key factors—the production and consumption rates of the mill and the bakery—are the same (see Figure 14.2).
 
-Figure 14.2. An example of static equilibrium.
+下面是一个静态平衡的例子。假设一个磨坊工人磨小麦做面粉，一个面包师用面粉烤面包。如果面包店消耗面粉的速度与磨坊生产面粉的速度完全相同，那么世界上任何时候的面粉量都将保持静态。如果我们暂时停止面包店，对系统进行扰动，面粉就会增加。当面包店重新开张时，面粉的供应量将保持在新的水平上。由于关键因素——面粉厂和面包店的生产率和消耗率——相同，系统恢复平衡（见图 14.2）。
+
+Figure 14.2. An example of static equilibrium. 图 14.2. 静态平衡示例。
 
 graphics/14fig02.gif
 
 Now let's suppose that there's only one person who has to do both jobs herself. She mills for a while, then she bakes for a while, then she mills again, and so on. This is an example of dynamic equilibrium: Things are changing all the time, but they always return to the same state after a while because the process is cyclic. If we tell the woman to stop baking and only mill for a while, and then resume baking again later, again the flour builds up. When she resumes baking, the system settles into a new state of dynamic equilibrium (see Figure 14.3).
 
-Figure 14.3. A new state of dynamic equilibrium.
+现在我们假设只有一个人需要同时做这两份工作。她先碾磨一会儿，然后烘烤一会儿，接着再碾磨，以此类推。这就是一个动态平衡的例子：事情一直在变化，但由于过程是循环往复的，所以一段时间后总会回到原来的状态。如果我们让这位妇女停止烘焙，只磨粉一段时间，然后再继续烘焙，那么面粉又会堆积起来。当她重新开始烘焙时，系统就会进入新的动态平衡状态（见图 14.3）。
+
+Figure 14.3. A new state of dynamic equilibrium. 图 14.3. 动态平衡的新状态。
 
 graphics/14fig03.gif
 
 When a CMS settles into a static equilibrium, players can easily judge the effect of their actions on the system by making one small change and watching the results. This makes the game easy to learn and play. Dynamic equilibrium is more difficult for players to handle. With the system in constant flux, it's hard to tell whether what they're seeing is the result of a natural process or something they've done. We have a similar problem making ecological decisions about our planet. For many years, people believed that the environment should be in a state of static equilibrium: that there should always be exactly enough plants for the herbivores and exactly enough herbivores for the carnivores, and any deviation from this was caused by environmental mismanagement. More recently, we've come to realize that there are natural fluctuations in the sizes of animal populations and that big changes are not necessarily the result of human actions; they can occur in the ordinary course of events. This makes environmental management all the more difficult.
 
+当 CMS 进入静态平衡后，玩家只需做出一个小小的改变并观察结果，就能轻松判断自己的行为对系统的影响。这使得游戏易学易玩。对于玩家来说，动态平衡则更难处理。由于系统在不断变化，玩家很难分清他们所看到的是自然过程还是他们所做的事情的结果。我们在对地球进行生态决策时也会遇到类似的问题。多年来，人们一直认为环境应该处于静态平衡状态：食草动物应该有足够的植物，食肉动物应该有足够的食草动物，任何偏离这种状态的行为都是环境管理不善造成的。最近，我们逐渐认识到，动物种群的数量存在自然波动，巨大的变化并不一定是人类行为的结果，它们可能在正常的事件过程中发生。这使得环境管理变得更加困难。
+
 If your system does settle into a state of equilibrium, static or dynamic, it takes the pressure off the player to do anything. She can simply watch it go for a while and make adjustments when she feels like it. Some CMSs do work that way, but most give the player more of a challenge. Rather than settling into equilibrium, there is an imbalance somewhere. Entropy in the system causes it to "run down" unless the player takes action to keep it going. To use our milling/baking metaphor, perhaps the player has to personally keep the mill supplied with wheat. If the player doesn't keep an eye on the wheat supply, both milling and baking come to a halt.
+
+如果你的系统确实进入了静态或动态的平衡状态，那么玩家就没有任何压力去做任何事情了。她只需静观其变，并在自己喜欢的时候做出调整。有些 CMS 的确是这样，但大多数 CMS 给玩家带来的挑战更大。系统并没有达到平衡，而是在某个地方出现了失衡。系统中的熵会导致系统“衰竭”，除非玩家采取行动使其继续运转。用我们的“磨粉/烘焙”来比喻，也许玩家必须亲自维持磨坊的小麦供应。如果玩家不注意小麦的供应，磨粉和烘焙都会停止。
 
 Whether your system settles into equilibrium or runs down without player action, one thing is certain: The player should always have to do something to obtain growth—he should have to press on the gas pedal of your game, as it were. If the system can grow of its own accord, there's no reason for the player to interfere. This is the player's essential challenge: figuring out how to produce growth using the many levers and knobs that you have given him. In effect, the player is himself an element of the simulation, and growth should be dependent on his active participation.
 
-### Disasters
+无论你的系统是进入了平衡状态，还是在没有玩家行动的情况下衰退，有一点是肯定的：玩家总是必须做些什么才能获得增长——他必须踩下游戏的油门。如果系统能够自行成长，玩家就没有理由进行干预。这就是玩家面临的基本挑战：如何利用你给他的许多杠杆和旋钮来实现增长。实际上，玩家本身就是模拟系统中的一个元素，系统的成长应该取决于玩家的积极参与。
 
-Random disasters are another way to force the player to act. Sim City tends to settle into a very slow decline if left alone, chiefly because the roads become worn out. To put more pressure on the player, fires, tornadoes and monster invasions crop up periodically, doing considerable damage. If the player does not take action to repair the damage, the city eventually dwindles down to nothing as a result of repeated disasters.
+### Disasters 灾难
 
-> Case Study: Sim City
+Random disasters are another way to force the player to act. [SimCity](https://en.wikipedia.org/wiki/SimCity) tends to settle into a very slow decline if left alone, chiefly because the roads become worn out. To put more pressure on the player, fires, tornadoes and monster invasions crop up periodically, doing considerable damage. If the player does not take action to repair the damage, the city eventually dwindles down to nothing as a result of repeated disasters.
+
+随机灾难是迫使玩家采取行动的另一种方式。如果任其发展，[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)往往会缓慢衰退，这主要是因为道路变得破旧不堪。为了给玩家带来更大的压力，火灾、龙卷风和怪物入侵会定期出现，造成相当大的破坏。如果玩家不采取行动修复破坏，城市最终会在反复的灾难中逐渐衰败。
+
+> **Case Study: Sim City 案例研究：《模拟城市》**
 > 
-> Although it isn't the oldest CMS, the spiritual father of them all is Sim City, published by Maxis (now a part of Electronic Arts). Sim City was originally designed for the Commodore 64, although it was most successful on the IBM PC, and the first version of the game is now playable for free on the Web. (Visit http://simcity.ea.com/play/simcity_classic.php if you're interested.) It was followed by a host of other games in the same mold: SimAnt, SimTower, SimFarm, and so on, which met with varying success.
+> Although it isn't the oldest CMS, the spiritual father of them all is [SimCity](https://en.wikipedia.org/wiki/SimCity), published by Maxis (now a part of Electronic Arts). Sim City was originally designed for the Commodore 64, although it was most successful on the IBM PC, and the first version of the game is now playable for free on the Web. (Visit [http://simcity.ea.com/play/simcity_classic.php](http://simcity.ea.com/play/simcity_classic.php) if you're interested.) It was followed by a host of other games in the same mold: SimAnt, SimTower, SimFarm, and so on, which met with varying success.\
 > 
-> The object of Sim City is to build a city and attract people (called sims) to live and work there. The basic economic unit is money, which the player can spend in various ways to improve the city. The player's primary job is to zone tracts of land into one of three types: residential, commercial, or industrial. As people move into the city, these areas begin to be occupied and to produce tax revenue, thereby replenishing the city's coffers. This produces a straightforward positive feedback loop: Zoning costs money, but occupied zones produce more money, thereby enabling the player to do more zoning.
+> 虽然它不是最古老的 CMS，但所有这类游戏的的精神之父是 Maxis（现在是 Electronic Arts 的一部分）发行的[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)最初是为 Commodore 64 设计的，但它在 IBM PC 上的表现最为成功。(如果您有兴趣，请访问 [http://simcity.ea.com/play/simcity_classic.php](http://simcity.ea.com/play/simcity_classic.php)。）之后又推出了大量同类游戏：《模拟蚂蚁》、《模拟大楼》、《模拟农场》等等，它们取得的成功各不相同。
 > 
-> The positive feedback is kept in check by other demands on the city's purse. Sims will not move into any zoned region; it has to have other benefits as well. Every zoned region requires electricity, and the player has to buy power plants and electrical lines to provide it. The sims also need a way to travel from the residential to the industrial zones to work and to the commercial zones to shop. This requires a road and a rail network, which also cost money. If the roads are inadequate to meet the traffic, or if the sims have to travel too far to work, they will begin to move out of the city, with a resulting loss of tax revenue. Finally, when the city reaches certain population thresholds, the sims begin to demand expensive amenities: a sports stadium, an airport, and so on. Again, if these are not provided, the sims begin to leave.
+> The object of [SimCity](https://en.wikipedia.org/wiki/SimCity) is to build a city and attract people (called sims) to live and work there. The basic economic unit is money, which the player can spend in various ways to improve the city. The player's primary job is to zone tracts of land into one of three types: residential, commercial, or industrial. As people move into the city, these areas begin to be occupied and to produce tax revenue, thereby replenishing the city's coffers. This produces a straightforward positive feedback loop: Zoning costs money, but occupied zones produce more money, thereby enabling the player to do more zoning.\
 > 
-> In addition to the electricity, roads, and civic amenities, there are other cost centers. Fires break out from time to time; if left unchecked, they destroy the buildings and leave the land unzoned. To combat this, the player has to build and maintain fire stations. Industrial areas are a source of crime, which depresses property values and reduces tax revenues. Crime can be suppressed by building police stations, at yet more cost. Industrial areas and roads also cause air pollution, which further depresses the value of nearby residential property. There is no way to reduce air pollution; you simply have to keep industrial and residential areas separate.
+> [《模拟城市》](https://en.wikipedia.org/wiki/SimCity)的目标是建造一座城市，吸引人们（称为模拟人）到那里生活和工作。基本经济单位是金钱，玩家可以通过各种方式使用金钱来改善城市。玩家的主要工作是将土地划分为三种类型：住宅、商业或工业。随着人们迁入城市，这些区域开始被占用并产生税收，从而补充城市的国库。这就产生了一个直接的正反馈循环：分区需要花费资金，但被占用的区域会产生更多的资金，从而使玩家能够进行更多的分区。
 > 
-> The vital calculations in the game are the ones that determine whether people move into the city or move out, and how valuable a given zone is. The more valuable a zone is, the higher its population density becomes and the more tax revenues it produces. The player can build parks and situate residential zones near woods and rivers to increase their attractiveness.
+> The positive feedback is kept in check by other demands on the city's purse. Sims will not move into any zoned region; it has to have other benefits as well. Every zoned region requires electricity, and the player has to buy power plants and electrical lines to provide it. The sims also need a way to travel from the residential to the industrial zones to work and to the commercial zones to shop. This requires a road and a rail network, which also cost money. If the roads are inadequate to meet the traffic, or if the sims have to travel too far to work, they will begin to move out of the city, with a resulting loss of tax revenue. Finally, when the city reaches certain population thresholds, the sims begin to demand expensive amenities: a sports stadium, an airport, and so on. Again, if these are not provided, the sims begin to leave.\
 > 
-> Although Sim City is now an old game, it serves as an excellent model to study (see Figure 14.4). Because it was designed for low-performance machines, it couldn't be too complex, and its internal economy is reasonably easy to understand.
+> 对城市资金的其他需求抑制了正反馈。模拟市民不会迁入任何一个分区，因为它还必须有其他好处。每个分区都需要电力，玩家必须购买发电厂和电线来提供电力。模拟市民还需要从住宅区前往工业区工作，以及前往商业区购物。这就需要公路和铁路网络，这也需要花钱。如果道路不能满足交通需求，或者模拟市民上班的路程太远，他们就会开始迁出城市，从而造成税收损失。最后，当城市人口达到一定的临界值时，模拟人开始要求提供昂贵的设施：体育场、机场等。同样，如果不提供这些设施，模拟人就会开始离开。
 > 
-> Figure 14.4. The original Sim City, showing industrial, commercial, and residential zones.
+> In addition to the electricity, roads, and civic amenities, there are other cost centers. Fires break out from time to time; if left unchecked, they destroy the buildings and leave the land unzoned. To combat this, the player has to build and maintain fire stations. Industrial areas are a source of crime, which depresses property values and reduces tax revenues. Crime can be suppressed by building police stations, at yet more cost. Industrial areas and roads also cause air pollution, which further depresses the value of nearby residential property. There is no way to reduce air pollution; you simply have to keep industrial and residential areas separate.\
+> 
+> 除了电力、道路和市政设施，还有其他成本中心。火灾时有发生；如果任其发展，不仅会毁坏建筑，还会使土地失去用途。为此，玩家需要建造和维护消防站。工业区是犯罪的源头，会降低财产价值，减少税收。可以通过建造警察局来遏制犯罪，但成本更高。工业区和道路还会造成空气污染，进一步降低附近住宅的价值。没有办法减少空气污染，只能将工业区和住宅区分开。
+> 
+> The vital calculations in the game are the ones that determine whether people move into the city or move out, and how valuable a given zone is. The more valuable a zone is, the higher its population density becomes and the more tax revenues it produces. The player can build parks and situate residential zones near woods and rivers to increase their attractiveness.\
+> 
+> 游戏中的关键计算是决定人们是否迁入城市或迁出，以及某个区域的价值有多大。一个区域的价值越高，人口密度就越大，税收也就越多。玩家可以在森林和河流附近建造公园和住宅区，以增加其吸引力。
+> 
+> Although [SimCity](https://en.wikipedia.org/wiki/SimCity) is now an old game, it serves as an excellent model to study (see Figure 14.4). Because it was designed for low-performance machines, it couldn't be too complex, and its internal economy is reasonably easy to understand.\
+> 
+> 虽然[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)已经是一款老游戏，但它仍然是一个很好的研究模型（见图 14.4）。因为它是为低性能机器设计的，所以不会太复杂，其内部经济也相当容易理解。
+> 
+> Figure 14.4. The original Sim City, showing industrial, commercial, and residential zones. 图 14.4. 最初的《模拟城市》，显示了工业区、商业区和住宅区。
 > 
 > graphics/14fig04.jpg
 
 
-## Setting
+## Setting 设定
 
 It's easy enough to say that CMSs are about a process, but the process has to be meaningfully displayed on a computer screen, and it must fire the player's imagination. Most CMSs take place in the context of a physical space, usually a two-dimensional world in which buildings or other objects can be constructed. Caesar is about building an ancient Roman town, so the setting is a landscape near a river. Civilization is about exploring a world while at the same time advancing a civilization both culturally and technologically, so its setting is an entire continent, or several of them.
 
