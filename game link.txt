@@ -120,7 +120,6 @@
 [Arcanum: Of Steamworks and Magick Obscura](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)
 [《奥秘：蒸汽与魔法》](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura)
 
-
 [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)
 [《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)
 
@@ -268,6 +267,9 @@
 
 [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper)
 [《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)
+
+[Dungeon Keeper 2](https://en.wikipedia.org/wiki/Dungeon_Keeper_2)
+[《地下城守护者二》](https://en.wikipedia.org/wiki/Dungeon_Keeper_2)
 
 [Sega's Bass Fishing](https://en.wikipedia.org/wiki/Sega_Bass_Fishing)
 [《世嘉钓鱼高手》](https://en.wikipedia.org/wiki/Sega_Bass_Fishing)
