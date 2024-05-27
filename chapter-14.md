@@ -40,9 +40,11 @@ One game that treats all resources as tangible, including money, is The Settlers
 
 Blue Byte Software 公司出品的《工人物语》是一款将包括金钱在内的所有资源都视为有形资源的游戏。在《工人物语》中，每一种资源（有很多）都必须从生产地运输到储存地或直接运到消费地。例如，谷物必须从谷物农场运到风车碾磨，面粉必须从风车运到面包房，面包必须从面包房运到矿井，然后矿工们在矿井里食用。
 
-### Sources
+### Sources 来源
 
 Every resource, intangible or tangible, must have one or more sources—that is, ways in which they come into the game. In Monopoly, for example, money comes into the game from the bank. All the players start with a certain amount of money, and they get more each time they pass Go. They can also mortgage their properties for money, and they might get more money from the bank through the actions of the Chance and Community Chest cards.
+
+每种资源，无论是无形的还是有形的，都必须有一个或多个来源，即它们进入游戏的方式。例如，在《大富翁》中，钱是从银行进入游戏的。所有玩家一开始都有一定数量的钱，每次通过“Go”都会得到更多。他们还可以抵押自己的房产换取资金，并通过“机会”牌和“社区宝箱”卡片的行动从银行获得更多钱。
 
 Unlike Monopoly, which is turn-based, CMSs usually have a production rate for each resource. This production rate can be fixed or variable, and rates can be different at different sources—that is, some sources might produce the resource faster than others.
 
