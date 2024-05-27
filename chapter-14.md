@@ -308,11 +308,11 @@ The following sections discuss some design considerations particular to construc
 
 Many CMSs simulate the behavior of a group of people (or, in the case of SimAnt, ants) within an environment that the player is managing. If it's a very large number of people, as in the original Sim City, behavior is usually modeled statistically and separate values are not kept for each person. However, you might want to simulate the actions of unique individuals that the player can see moving around and doing whatever it is that they do in your world. This will make your game a good deal more entertaining because there will be more for the player to see and because he can follow particular individuals around to watch what they do. It appeals to a sort of voyeuristic impulse and makes the consequences of the player's decisions seem more personal. It's particularly affecting when the player can actually see people who are unhappy packing up and leaving.
 
-许多内容管理系统都会模拟玩家所管理的环境中一群人（在 SimAnt 中则是蚂蚁）的行为。如果人数非常多，就像最初的《模拟城市》那样，通常会对行为进行统计建模，而不会为每个人保留单独的数值。不过，您可能希望模拟独特的个人行为，让玩家看到他们在您的世界中四处走动，做着任何事情。这将使您的游戏更具娱乐性，因为玩家可以看到更多的东西，还可以跟随特定的人观看他们的行为。这迎合了一种偷窥的冲动，并使玩家的决定所产生的后果显得更加个人化。当玩家看到那些不开心的人打包离开时，这种感觉尤其强烈。
+许多 CMS 都会模拟玩家所管理的环境中一群人（在《模拟蚂蚁》中则是蚂蚁）的行为。如果人数非常多，就像最初的《模拟城市》那样，通常会对行为进行统计建模，而不会为每个人保留单独的数值。不过，你可能希望模拟独特的个人行为，让玩家看到他们在你的世界中四处走动，做着任何事情。这将使你的游戏更具娱乐性，因为玩家可以看到更多的东西，还可以跟随特定的人观看他们的行为。这迎合了一种偷窥的冲动，并使玩家的决定所产生的后果显得更加个人化。当玩家看到那些不开心的人打包离开时，这种感觉尤其强烈。
 
 Modeling particular individuals rather than statistical aggregates adds considerably to your design job. You will need to create a behavioral model, usually including a scalar degree of happiness or unhappiness, and a set of needs that the person desires to have fulfilled. Various behaviors or circumstances can fulfill those needs. In some cases, the individual will be able to take an autonomous action that fulfills the need (driving from home to work fulfills the need to get to work); whereas in others, the player will have to provide something to fulfill the need (building a school provides educational opportunities). If a need goes unfulfilled, either through a problem that arises within the simulation (traffic jams prevent the person getting to work) or the player failing to act (no school has been built), there should be a negative consequence of some kind (the simulated person becomes unhappy).
 
-为特定的个人建模，而不是为统计集合建模，会大大增加设计工作的难度。您需要创建一个行为模型，通常包括幸福或不幸福的标度，以及个人希望得到满足的一系列需求。各种行为或环境都可以满足这些需求。在某些情况下，个人能够采取自主行动来满足需求（从家里开车去上班满足了上班的需求）；而在另一些情况下，参与者必须提供一些东西来满足需求（建一所学校提供教育机会）。如果某项需求没有得到满足，无论是由于模拟中出现的问题（交通堵塞阻碍了人们上班），还是由于玩家没有采取行动（没有建造学校），都会产生某种负面后果（模拟人变得不快乐）。
+为特定的个人建模，而不是为统计集合建模，会大大增加设计工作的难度。你需要创建一个行为模型，通常包括幸福或不幸福的标度，以及个人希望得到满足的一系列需求。各种行为或环境都可以满足这些需求。在某些情况下，个人能够采取自主行动来满足需求（从家里开车去上班满足了上班的需求）；而在另一些情况下，参与者必须提供一些东西来满足需求（建一所学校提供教育机会）。如果某项需求没有得到满足，无论是由于模拟中出现的问题（交通堵塞阻碍了人们上班），还是由于玩家没有采取行动（没有建造学校），都会产生某种负面后果（模拟人变得不快乐）。
 
 Modeling individuals relieves you of the job of creating a statistical model because the behavior of the individuals collectively provides the statistics. However, balancing it will be a much more intricate job. You will probably discover emergent behaviors, unanticipated consequences of design decisions. Some of these will be fascinating and almost seem like intelligence, but others will clearly be degenerate: people locked in a tight behavioral loop, for example, only ever doing one or two things because your needs mechanism isn't balanced properly.
 
@@ -320,72 +320,129 @@ Modeling individuals relieves you of the job of creating a statistical model bec
 
 Behavioral modeling is too big of a subject for us to address comprehensively here, and we suggest that you consult the bibliography at the end of this book for further reading.
 
-行为建模是一个很大的课题，我们无法在此全面论述，建议您参阅本书末尾的参考书目，以便进一步阅读。
+行为建模是一个很大的课题，我们无法在此全面论述，建议你参阅本书末尾的参考书目，以便进一步阅读。
 
 ### Mind Reading 读心术
 
 If the individuals you're simulating are visible on the screen and the player can select one with the mouse, you can offer another useful analysis tool: mind reading. To let the player know what's in that individual's mind, pop up an icon or even a whole dialog box showing his internal state: current goal, degree of happiness, or whatever other data might be useful to the player. This lets the player get a quick, rough sense of how the people are feeling without having to turn to a statistical analysis screen.
-如果您模拟的人在屏幕上可见，而且玩家可以用鼠标选择其中一个，那么您就可以提供另一种有用的分析工具：读心术。为了让玩家了解这个人的想法，可以弹出一个图标甚至整个对话框，显示他的内心状态：当前目标、快乐程度或其他任何对玩家有用的数据。这样，玩家就可以快速、粗略地了解人们的感受，而不必转到统计分析界面。
+
+如果你模拟的人在屏幕上可见，而且玩家可以用鼠标选择其中一个，那么你就可以提供另一种有用的分析工具：读心术。为了让玩家了解这个人的想法，可以弹出一个图标甚至整个对话框，显示他的内心状态：当前目标、快乐程度或其他任何对玩家有用的数据。这样，玩家就可以快速、粗略地了解人们的感受，而不必转到统计分析界面。
 
 > **Case Study: Theme Park, a Disgusting Example of Positive Feedback 案例研究：主题公园，积极反馈的恶心范例**
 > 
 > In Bullfrog Productions's CMS called Theme Park, the player was supposed to build a single theme park, ride by ride, into an empire of theme parks around the world. In addition to buying the rides, which attracted visitors, the player built shops and restaurants to extract money from them and hired maintenance and cleaning staff to keep the rides working and the park clean.
 > 
-> 在牛蛙制作公司开发的名为 “主题公园 ”的 CMS 中，玩家要把一个单一的主题公园，通过一个个游乐设施，建设成一个遍布全球的主题公园帝国。除了购买游乐设施吸引游客外，玩家还要建造商店和餐馆从中牟利，并雇佣维护和清洁人员来保持游乐设施的运行和公园的清洁。
+> 在牛蛙制作公司开发的名为《主题公园》的 CMS 中，玩家要把一个单一的主题公园，通过一个个游乐设施，建设成一个遍布全球的主题公园帝国。除了购买游乐设施吸引游客外，玩家还要建造商店和餐馆从中牟利，并雇佣维护和清洁人员来保持游乐设施的运行和公园的清洁。
 >
 > Each visitor to the park had a number of characteristics: how much money he had, how hungry or thirsty he was, and so on. One of these characteristics was "current degree of nausea." If a visitor became nauseated enough, he would vomit, leaving a mess on the ground that had to be cleaned up. Nausea could be caused by three things. Two of these were riding a particularly violent ride and being near an unclean bathroom. The third cause of nausea was—you guessed it—being near someone else's vomit. If the park was crowded and the player hadn't hired enough cleaning staff to keep the bathrooms clean and the vomit cleaned up, the result was chain-reaction vomiting by the visitors. This did nothing for the reputation of the park and tended to hurt future sales, but it did inject a degree of juvenile humor into what was otherwise a fairly straightforward business simulation.
+> 
+> 公园里的每个游客都有一些特征：他有多少钱、他有多饿或多渴，等等。其中一个特征是 “当前的恶心程度”。如果游客恶心到一定程度，他就会呕吐，在地上留下必须清理的脏物。引起恶心的原因有三种。其中两种是乘坐特别剧烈的游乐设施和靠近不干净的卫生间。导致恶心的第三个原因是--你猜对了--靠近别人的呕吐物。如果乐园里人很多，而乐园方又没有雇佣足够的清洁人员来保持卫生间的清洁和呕吐物的清理，那么结果就是游客的连锁呕吐。这对公园的声誉毫无益处，而且往往会损害未来的销售，但它确实为原本相当简单的商业模拟注入了一定程度的稚嫩幽默。
 
-## Advisors
+## Advisors 顾问
 
 Another tool commonly found in CMSs is the advisor: a simulated character who pops up and gives the player advice from time to time (see Figure 14.6). Because problems are often localized in one area of the map, the player might be looking at another area when one occurs and not see it until it has grown severe. An advisor can warn of problem conditions wherever they occur. You should also consider including a screen button or menu item that jumps the screen to the most recently reported problem.
 
-Figure 14.6. Theme Park World. Note the advisor in the lower-right corner.
+内容管理系统中另一个常见的工具是顾问：一个不时出现并向玩家提供建议的模拟角色（见图 14.6）。由于问题往往集中在地图的某个区域，当问题发生时，玩家可能正在查看另一个区域，直到问题变得严重时才发现。顾问可以在出现问题的地方发出警告。你还应该考虑加入一个屏幕按钮或菜单项，使屏幕跳转到最近报告的问题。
+
+Figure 14.6. Theme Park World. Note the advisor in the lower-right corner. 图 14.6. 主题公园世界。注意右下角的顾问。
 
 graphics/14fig06.gif
 
 In addition to warning of emergencies, an advisor can give the player information about the general state of the game. "The people need more food," he can say, or "Prices are too high." This lets the player know of global problems without having to consult the analysis tools.
 
+除了警告紧急情况，顾问还可以向玩家提供有关游戏总体状况的信息。他可以说 “人们需要更多的食物”，或者 “物价太高了”。这样，玩家就可以知道全局性的问题，而无需查阅分析工具。
+
 To design an advisor, define both the local and the global problems that you think are important to let the player know about; then set the threshold levels at which the advisor will pop up. If the advisor is going to interrupt the player or say something aloud, don't set these thresholds too low, or the constant interruptions will become irritating. You should also make it possible for the player to turn off the advisor or to consult it only when wanted. Playing without the advisor adds an extra challenge to the game.
+
+要设计一个顾问，首先要定义你认为应该让玩家知道的本地和全局问题；然后设定顾问弹出的阈值水平。如果顾问会打断玩家或大声说一些话，就不要把阈值设得太低，否则不断的打断会让人恼火。你还应该让玩家可以关闭顾问，或者只在需要时才咨询。在没有顾问的情况下进行游戏会给游戏增加额外的挑战。
 
 You can also create an advisor that consists only of an indicator that remains constantly on the screen, displaying the most urgent global need at the moment.
 
-## Pure Business Simulations
+你还可以创建一个仅由指示器组成的顾问，该指示器会持续显示在屏幕上，显示当前最紧迫的全球需求。
+
+## Pure Business Simulations 纯商业模拟
 
 A game like Theme Park World is a business simulation because it's about attracting customers and making profits. It's the building aspect of it that makes it a CMS. But there are also pure business simulations in which you construct only a financial fortune, not a visible world. The game Hollywood Mogul, for example, is about the business of making movies, but it consists only of a series of menu screens about hiring stars and making deals. The player never sees a set or a camera. Mr. Bigshot, shown in Figure 14.7, is a fairly simple stock market simulation.
 
-Figure 14.7. Mr. Bigshot.
+像《主题公园世界》这样的游戏之所以是商业模拟游戏，是因为它以吸引顾客和赚取利润为目的。它的建设方面使其成为一款 CMS。但也有一些纯粹的商业模拟游戏，在这些游戏中，你只需构建一个财务财富，而不是一个可见的世界。例如，《好莱坞大亨》（Hollywood Mogul）这款游戏是关于电影制作的，但其中只有一系列关于聘请明星和进行交易的菜单屏幕。玩家永远看不到布景或摄影机。Bigshot 先生》如图 14.7 所示，是一款相当简单的股票市场模拟游戏。
+
+Figure 14.7. Mr. Bigshot. 图 14.7. 大人物先生
 
 graphics/14fig07.gif
 
 Most of the challenges of designing a pure business simulation are the same as for any other management sim: You must devise an economy and mechanisms for manipulating it. The real trick is to find some way of making the subject visually interesting. Spreadsheets and pie charts have limited appeal, so if you're going to do a management simulation without a construction element, you should try to give it some kind of a setting or to find a visual representation of the process that will make it attractive and compelling. Mr. Bigshot accomplishes this with lots of animation, voiceover narration, music, and cartoon characters representing the player's opponents; as the player, you feel rather like a contestant on a TV game show.
 
+设计纯粹的商业模拟游戏所面临的大部分挑战与其他任何管理模拟游戏都是一样的：你必须设计出一种经济和操纵经济的机制。真正的诀窍在于找到某种方法，使主题在视觉上变得有趣。电子表格和饼状图的吸引力有限，所以如果你要做一个没有建筑元素的管理模拟，你应该尝试给它某种设置，或者找到一种可视化的过程表现形式，使其具有吸引力和说服力。Bigshot 先生》通过大量动画、配音解说、音乐和代表玩家对手的卡通人物来实现这一点；作为玩家，你感觉自己就像电视游戏节目中的参赛者。
+
 By contrast, Capitalism II (see Figure 14.8) is a huge, sprawling business sim covering all kinds of products and industries. In addition to showing pictures of them and all the raw materials that go into them, the game allows players to construct or purchase buildings in cities, so there's an attractive Sim City-like view as well.
 
-Figure 14.8. Capitalism II.
+相比之下，《资本论 II》（见图 14.8）是一款庞大的商业模拟游戏，涵盖了各种产品和行业。除了展示这些产品和行业的图片以及所有原材料外，游戏还允许玩家在城市中建造或购买建筑，因此也有一个类似模拟城市的吸引人的视角。
+
+Figure 14.8. Capitalism II. 图 14.8. 资本主义 II
 
 graphics/14fig08.gif
 
 Business simulations will never have the pulse-pounding excitement of a first-person shooter, but they can be highly enjoyable games. As the designer, you'll need to work closely with the art director to make the essentially numeric nature of their gameplay more lively.
 
-## Hybrid Games
+商业模拟游戏永远不会像第一人称射击游戏那样令人心跳加速，但它们可以是非常令人愉快的游戏。作为设计师，你需要与艺术总监密切合作，让本质上以数字为载体的游戏更加生动活泼。
+
+## Hybrid Games 混合游戏
 
 Civilization, Age of Empires, Dungeon Keeper, and The Settlers are all good examples of hybrid games: crosses between a CMS and a war game. In addition to their economic challenges, they all feature exploration and military challenges, varying somewhat from one game to another. The military aspect of The Settlers is quite simple, as it must be, given that the economic aspect is exceedingly complex. Age of Empires emphasizes warfare and military research more and is more of a real-time strategy game than a CMS, especially because natural resources are limited. Its people can be controlled directly, too. Dungeon Keeper is initially about constructing a dungeon, but in the later stages of each mission, it's actually about recruiting and training a balanced army, and then taking that army into battle. Control is a curious hybrid of direct and indirect: Creatures have a distinct behavior model, but they will obey orders as long as they're happy. (If they're unhappy, they might disobey or even desert.) However, Dungeon Keeper retains its economic challenges throughout: It's one of the very few games in which the soldiers have to be paid, fed, and given a place to sleep.
 
+《文明》、《帝国时代》、《地下城守护者》和《工人物语》都是混合游戏的典范：CMS 和战争游戏的混合体。除了经济方面的挑战外，它们还都具有探索和军事方面的挑战，只是各款游戏之间略有不同。定居者》的军事方面非常简单，因为它的经济方面非常复杂。帝国时代》更强调战争和军事研究，更像是一款即时战略游戏，而不是 CMS，尤其是因为自然资源是有限的。游戏中的人也可以直接控制。地牢守护者》最初是关于建造一个地牢，但在每个任务的后期，它实际上是关于招募和训练一支均衡的军队，然后带着这支军队投入战斗。控制是直接和间接的奇妙混合体：生物有独特的行为模式，但只要它们高兴，就会服从命令。(然而，《地下城守护者》自始至终保留了其经济挑战性：它是为数不多的需要为士兵支付薪水、提供食物和睡觉场所的游戏之一。
+
 If you're going to design a hybrid game, we encourage you to design the economic simulation first (unless it's really simple) and then add the other elements afterward. Because the other aspects of the game usually depend on the underlying economy, a mistake in the economic design can easily ruin the rest of the game. For example, a war game that includes an economy for weapons production might lose all its strategic challenge if the player is able to produce weapons too quickly. The player will exploit his economic strength and overwhelm the opposition with sheer numbers rather than strategic skill.
 
-> **Construction and Management Simulation Worksheet**
+如果你要设计一款混合游戏，我们建议你先设计经济模拟（除非非常简单），然后再添加其他元素。因为游戏的其他方面通常都依赖于底层经济，经济设计上的失误很容易毁掉游戏的其他部分。例如，如果玩家能够过快地生产武器，那么包含武器生产经济的战争游戏可能会失去所有的战略挑战性。玩家会利用自己的经济实力，以数量而非战略技巧压倒对手。
+
+> **Construction and Management Simulation Worksheet 建设与管理模拟游戏工作表**
 > 
-> 1. When beginning the design of a construction and management simulation, consider the following questions:
-> 2. What process is the player going to manage? What actions will the player take in managing that process?
-> 3. What resources exist in this process? For each resource, how is it produced, consumed, stored, transported, and converted into other resources? Is it tangible, intangible, or a hybrid? Is it limited or unlimited? What determines its production and consumption rates?
-> 4. Which resources can the player manipulate and which can she not?
-> 5. Will the process settle into a static or dynamic equilibrium, or will it run down if not tended by the player? Will disasters affect it?
-> 6. What will be player be constructing, and what function does the constructed item have? Will objects be purchased whole or designed and built over time? For each item that the player can construct, what does it cost and how long does it take to build?
-> 7. Can the player demolish or sell things that she builds? Does this cost or earn resources for the player?
-> 8. Will the game have scenarios with victory conditions? What are they like?
-> 9. What is the player's perspective and interaction model with the game? Is there a way to "get inside" the things she builds?
-> 10. What analysis tools are provided to help her understand the workings of the simulation?
-> 11. Is the simulated population modeled as individuals or as a statistical aggregate? If they are individuals, what is their behavior model? Are there multiple types of individuals? Can the player read their minds?
-> 12. Will the game have advisors? What will they advise about?
-> 13. Is this game a pure business simulation? Accounting and finance are often considered rather dull, so what makes this compelling? Does the game have a setting? If not, how can it be made visually interesting?
-> 14. Is the game a hybrid with other sorts of games? What other elements in the game make it a hybrid (strategic problems, action challenges, puzzles, and so on)? How do they affect the way the game is controlled?
+> When beginning the design of a construction and management simulation, consider the following questions:
+> 
+> 开始设计施工和管理模拟时，请考虑以下问题：
+>
+> 1. What process is the player going to manage? What actions will the player take in managing that process?\
+> 玩家要管理什么流程？玩家在管理该流程时将采取哪些行动？
+> 
+> 2. What resources exist in this process? For each resource, how is it produced, consumed, stored, transported, and converted into other resources? Is it tangible, intangible, or a hybrid? Is it limited or unlimited? What determines its production and consumption rates?\
+> 该流程中有哪些资源？对于每种资源，它是如何生产、消耗、储存、运输以及转化为其他资源的？是有形的、无形的，还是混合的？它是有限的还是无限的？是什么决定了它的生产率和消耗率？
+> 
+> 3. Which resources can the player manipulate and which can she not?\
+> 玩家可以操作哪些资源，不能操作哪些？
+> 
+> 4. Will the process settle into a static or dynamic equilibrium, or will it run down if not tended by the player? Will disasters affect it?\
+> 这个过程是会进入静态或动态平衡，还是如果玩家不加以控制就会衰退？灾难会影响它吗？
+> 
+> 5. What will be player be constructing, and what function does the constructed item have? Will objects be purchased whole or designed and built over time? For each item that the player can construct, what does it cost and how long does it take to build?
+> 玩家将建造什么，建造的物品有什么功能？物品是整体购买，还是长期设计和建造？玩家可以建造的每件物品的成本是多少？
+> 
+> 6. Can the player demolish or sell things that she builds? Does this cost or earn resources for the player?\
+> 玩家可以拆除或出售自己建造的物品吗？这需要花费玩家的资源还是为玩家赚取资源？
+> 
+> 7. Will the game have scenarios with victory conditions? What are they like?\
+> 游戏中是否会有附带胜利条件的场景？它们是什么样的？
+> 
+> 8. What is the player's perspective and interaction model with the game? Is there a way to "get inside" the things she builds?\
+> 玩家与游戏的视角和互动模式是什么？是否有办法 “进入 ”她所建造的东西？
+> 
+> 9. What analysis tools are provided to help her understand the workings of the simulation?\
+> 提供了哪些分析工具来帮助她了解模拟的工作原理？
+> 
+> 10. Is the simulated population modeled as individuals or as a statistical aggregate? If they are individuals, what is their behavior model? Are there multiple types of individuals? Can the player read their minds?\
+> 模拟人口是作为个体建模还是作为统计总体建模？如果是个体，其行为模式是什么？是否有多种类型的个体？玩家能否读懂他们的思想？
+> 
+> 11. Will the game have advisors? What will they advise about?\
+> 游戏中会有顾问吗？他们会提供哪些建议？
+> 
+> 12. Is this game a pure business simulation? Accounting and finance are often considered rather dull, so what makes this compelling? Does the game have a setting? If not, how can it be made visually interesting?\
+> 这款游戏是纯粹的商业模拟游戏吗？会计和金融通常被认为相当枯燥，那么是什么让这款游戏引人注目？游戏有设定吗？如果没有，如何让它在视觉上更有趣？
+> 
+> 13. Is the game a hybrid with other sorts of games? What other elements in the game make it a hybrid (strategic problems, action challenges, puzzles, and so on)? How do they affect the way the game is controlled?\
+> 该游戏是其他类型游戏的混合体吗？游戏中还有哪些其他元素（战略问题、动作挑战、谜题等）使其成为混合体？它们如何影响游戏的控制方式？
+
+# Putting It Together 总结
+
+Construction and management simulations seldom have splashy graphics, pounding music, or moments of high drama (except when disaster strikes). Instead, they call for observation, contemplation, and planning. To many gamers, that sounds terribly dull. Yet good CMSs are enormously popular and can make fortunes even without the latest 3D graphics. RollerCoaster Tycoon was a perfect example. What appeals about a CMS is not an adrenaline rush, but the fact that the player gets to make something of his own. Working carefully, tending and tweaking, he can build a tiny settlement on the banks of the Tiber into the glorious city that was Rome. Not the original Rome or the game designer's Rome, but his Rome—Rome as it would have been if he had been emperor. That's a different kind of achievement from blasting all the aliens in sight or winning a sports championship. The desire to create is at the heart of all CMS players. To design a CMS, first understand that desire.
+
+建设和管理模拟很少有华丽的画面、震撼的音乐或戏剧性的时刻（除非发生灾难）。相反，它们需要的是观察、思考和计划。对许多游戏玩家来说，这听起来非常沉闷。然而，优秀的内容管理系统却大受欢迎，即使没有最新的 3D 图形，也能赚得盆满钵满。《过山车大亨》就是一个完美的例子。内容管理系统吸引人的地方不是让人肾上腺素飙升，而是让玩家可以制作属于自己的东西。他可以小心翼翼地工作、打理和调整，将台伯河畔的一个小定居点建成辉煌的罗马城。不是最初的罗马，也不是游戏设计者的罗马，而是他的罗马——如果他当了皇帝，就会是这样的罗马。这是一种不同于射杀所有外星人或赢得体育冠军的成就。创造的欲望是所有内容管理系统参与者的核心。要设计内容管理系统，首先要了解这种欲望。
