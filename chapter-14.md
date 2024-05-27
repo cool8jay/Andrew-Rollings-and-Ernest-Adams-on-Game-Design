@@ -406,16 +406,16 @@ If you're going to design a hybrid game, we encourage you to design the economic
 > 玩家要管理什么流程？玩家在管理该流程时将采取哪些行动？
 > 
 > 2. What resources exist in this process? For each resource, how is it produced, consumed, stored, transported, and converted into other resources? Is it tangible, intangible, or a hybrid? Is it limited or unlimited? What determines its production and consumption rates?\
-> 该流程中有哪些资源？对于每种资源，它是如何生产、消耗、储存、运输以及转化为其他资源的？是有形的、无形的，还是混合的？它是有限的还是无限的？是什么决定了它的生产率和消耗率？
+> 该流程中有哪些资源？对于每种资源，它是如何生产、消耗、储存、运输以及转化为其他资源的？是有形的、无形的，还是混合的？它是有限的还是无限的？什么决定了它的生产率和消耗率？
 > 
 > 3. Which resources can the player manipulate and which can she not?\
 > 玩家可以操作哪些资源，不能操作哪些？
 > 
 > 4. Will the process settle into a static or dynamic equilibrium, or will it run down if not tended by the player? Will disasters affect it?\
-> 这个过程是会进入静态或动态平衡，还是如果玩家不加以控制就会衰退？灾难会影响它吗？
+> 这个过程是会进入静态或是动态平衡，还是如果玩家不加以控制就会衰退？灾难会影响它吗？
 > 
 > 5. What will be player be constructing, and what function does the constructed item have? Will objects be purchased whole or designed and built over time? For each item that the player can construct, what does it cost and how long does it take to build?
-> 玩家将建造什么，建造的物品有什么功能？物品是整体购买，还是长期设计和建造？玩家可以建造的每件物品的成本是多少？
+> 玩家将建造什么，建造的物品有什么功能？物品是整体购买/设计和长期建造？玩家可以建造的每件物品的成本是多少，建造需要多长时间？
 > 
 > 6. Can the player demolish or sell things that she builds? Does this cost or earn resources for the player?\
 > 玩家可以拆除或出售自己建造的物品吗？这需要花费玩家的资源还是为玩家赚取资源？
@@ -424,10 +424,10 @@ If you're going to design a hybrid game, we encourage you to design the economic
 > 游戏中是否会有附带胜利条件的场景？它们是什么样的？
 > 
 > 8. What is the player's perspective and interaction model with the game? Is there a way to "get inside" the things she builds?\
-> 玩家与游戏的视角和互动模式是什么？是否有办法 “进入 ”她所建造的东西？
+> 玩家与游戏的视角和互动模式是什么？是否有办法“进入”她所建造的东西？
 > 
 > 9. What analysis tools are provided to help her understand the workings of the simulation?\
-> 提供了哪些分析工具来帮助她了解模拟的工作原理？
+> 提供了哪些分析工具来帮助她了解模拟的效果？
 > 
 > 10. Is the simulated population modeled as individuals or as a statistical aggregate? If they are individuals, what is their behavior model? Are there multiple types of individuals? Can the player read their minds?\
 > 模拟人口是作为个体建模还是作为统计总体建模？如果是个体，其行为模式是什么？是否有多种类型的个体？玩家能否读懂他们的思想？
