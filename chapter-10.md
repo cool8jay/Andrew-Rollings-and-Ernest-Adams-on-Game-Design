@@ -1,6 +1,6 @@
 The origin of strategy games is rooted in their close cousins, board games. If there is any format of game that is closest to the original pre-computer form (where that existed), it is the strategy game. This chapter is the most PC-centric chapter in the entire book, but for good reason: Most strategy games are released for the PC. Console efforts so far have been few and far between.
 
-策略游戏起源于它们的近亲——桌游。如果说有什么游戏形式最接近电脑前的原始形式（如果有的话），那就是策略游戏了。本章是全书中最以 PC 为中心的一章，但这是有道理的：大多数策略游戏都是针对 PC 发布的，而在游戏机上的策略游戏少之又少。
+策略游戏起源于它们的近亲——桌游。如果说有什么游戏形式最接近电脑前的原始形式（如果有的话），那就是策略游戏了。本章是全书中最以 PC 为中心的一章，但这是有充分理由的：大多数策略游戏都是针对 PC 发布的，而在游戏机上的策略游戏少之又少。
 
 The benefits that the computer has brought to the strategy game genre include the capability to impartially manage complex rule-sets that would be next to impossible for a human to manage without bogging down the game to a level at which it is no longer fun to play.
 
