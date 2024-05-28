@@ -214,7 +214,6 @@
 
 [Civilization](https://en.wikipedia.org/wiki/Civilization_(series))
 [《文明》](https://en.wikipedia.org/wiki/Civilization_(series))
-
 文明系列
 
 [Civilization III](https://en.wikipedia.org/wiki/Civilization_III)
@@ -366,6 +365,15 @@
 
 [Sinistar](https://en.wikipedia.org/wiki/Sinistar)
 
+[Theme Park World](https://en.wikipedia.org/wiki/Theme_Park_World)
+[《主题公园世界》](https://en.wikipedia.org/wiki/Theme_Park_World)
+
+[Hollywood Mogul](https://en.wikipedia.org/wiki/Hollywood_Mogul)
+[《好莱坞大亨》](https://en.wikipedia.org/wiki/Hollywood_Mogul)
+
+[Capitalism II](https://en.wikipedia.org/wiki/Capitalism_II)
+[《资本主义二》](https://en.wikipedia.org/wiki/Capitalism_II)
+
 [Monopoly Tycoon](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
 [《垄断大亨》](https://en.wikipedia.org/wiki/Monopoly_Tycoon)
 
@@ -374,6 +382,9 @@
 
 [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game))
 [《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))
+
+[Caesar](https://en.wikipedia.org/wiki/Caesar_(video_game))
+[《凯撒》](https://en.wikipedia.org/wiki/Caesar_(video_game))
 
 [Sid Meier's Alpha Centauri](https://en.wikipedia.org/wiki/Sid_Meier%27s_Alpha_Centauri)
 [《席德·梅尔的半人马座阿尔法》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Alpha_Centauri)
