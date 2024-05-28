@@ -3,7 +3,7 @@ The term adventure game is a bit misleading because a lot of games about being a
 
 冒险游戏这个词有点误导人，因为很多关于冒险的游戏并不是冒险游戏——而且很多冒险游戏也不是关于冒险的，至少不是童话故事中的去寻找财宝。之所以使用这个奇怪的术语，是有其历史原因的。它其实是 冒险类型游戏的简称，意思是与名为《冒险》的游戏类似的游戏（不过有时也叫《巨洞冒险》，这进一步混淆了事实）。
 
-# What Is an Adventure Game? 什么事冒险游戏？
+# What Is an Adventure Game? 什么是冒险游戏？
 
 An adventure game isn't a competition or a simulation. An adventure game doesn't offer a process to be managed or an opponent to be defeated through strategy and tactics. Instead, an adventure game is an interactive story about a character who is controlled by the player. [Chapter 4](chapter-4.md), "Storytelling and Narrative," discussed this idea in theoretical terms. The adventure game is the idea's practical application, although the way in which interactivity and narrative are handled varies considerably from game to game.
 
@@ -13,7 +13,7 @@ All adventure games are conceptual descendants of the original Adventure. Althou
 
 所有冒险游戏都是原始冒险游戏的概念后裔。尽管多年来这一类型的游戏发生了很大变化，但它们都有一些共同的特点：探索、收集或操作物品、解谜，以及减少对战斗和动作元素的强调。这并不意味着冒险游戏中没有冲突（尽管许多冒险游戏都没有冲突），只是说战斗不是主要活动。
 
-## The Original Adventure 原始冒险游戏
+## The Original Adventure 原始《冒险》游戏
 
 Adventure was a text-only game. Its gameplay was simple but—at the time that it was written—completely novel. The player was an explorer, wandering around in an enormous cave filled with treasures and dangers. A variety of obstacles prevented her from getting into the deeper parts of the cave, but by cleverly using the things that she had found, the player could unlock these areas and continue exploring. The object of the game was to gather all the treasures and bring them out of the cave.
 
@@ -21,21 +21,31 @@ Adventure was a text-only game. Its gameplay was simple but—at the time that i
 
 Adventure was the first computer game to give the player a real illusion of freedom, and this remains an important quality of adventure games today. Before Adventure, computer games tended to ask specific questions and expect specific, often numeric answers ("How much money do you want to spend this year?"), or to present players with a fixed list of options and ask them to choose one. The player could type anything she wanted in Adventure, and game would try to respond appropriately. Of course, the game understood only a limited number of words, but because it didn't tell the player what they were, she never knew the full scope of what it would allow her to do.
 
-《冒险》是第一款给玩家带来真正自由错觉的电脑游戏，这一点至今仍是冒险游戏的重要品质。在 “冒险 ”之前，电脑游戏往往会提出具体的问题，并要求玩家给出具体的、通常是数字式的答案（“你今年想花多少钱？”），或者向玩家提供一个固定的选项列表，要求玩家选择其中一个。玩家可以在 “冒险 ”中输入任何想要的内容，游戏也会尝试做出适当的回应。当然，游戏只能理解有限的几个单词，但因为游戏不会告诉玩家这些单词是什么，所以玩家永远不知道游戏能让她做什么。
+《冒险》是第一款给玩家带来真正自由错觉的电脑游戏，这一点至今仍是冒险游戏的重要品质。在《冒险》之前，电脑游戏往往会提出具体的问题，并要求玩家给出具体的、通常是数字式的答案（“你今年想花多少钱？”），或者向玩家提供一个固定的选项列表，要求玩家选择其中一个。玩家可以在《冒险》中输入任何想要的内容，游戏也会尝试做出适当的回应。当然，游戏只能理解有限的几个单词，但因为游戏不会告诉玩家这些单词是什么，所以玩家永远不知道游戏能让她做什么。
 
 Adventure also brought personality to computer gaming. Most of the games written at the time spoke to the player in a kind of programmerese. They gave prompts such as "Enter horsepower:" and printed error messages such as "Value too high, re-enter (5-500):". Adventure spoke to players as if it were a person rather than a machine, saying "I don't know how to do that" rather than "Invalid command." It could become sarcastic if the player tried to do something ridiculous or impossible, or even be funny occasionally, another rarity among games of its day. Comedy remains a major element of many adventure games because it discourages the player from taking the game too seriously. Breaches in suspension of disbelief don't bother the player as much in a comic setting as they do in a dramatic one because the player is less immersed in the story in the first place.
 
-## The Growth of Adventure Games
+冒险游戏还为电脑游戏带来了个性。当时的大多数游戏都是用程序语言与玩家对话。它们会给出提示，如“输入马力：”，并打印出错误信息，如“数值太高，请重新输入（5-500）：”。《冒险》与玩家对话时，就好像它是一个人而不是一台机器，它会说“我不知道该怎么做”，而不是“命令无效”。如果玩家试图做一些荒唐或不可能的事情，它还会讽刺玩家，甚至偶尔还会搞笑，这在当时的游戏中也是罕见的。喜剧仍然是许多冒险游戏的主要元素，因为它能阻止玩家过于严肃地对待游戏。在喜剧环境中，对故事信任感的破绽不会像在戏剧环境中那样让玩家感到困扰，因为玩家一开始就没有那么深入地沉浸在故事中。
+
+## The Growth of Adventure Games 冒险游戏的发展
 
 Adventure games were highly popular in the early days of personal computers. Because they contained no graphics, they were inexpensive to develop and allowed great scope for both the designer's and the player's imaginations. A group of researchers at the MIT Artificial Intelligence Lab, inspired by the original Adventure, wrote a much larger adventure game named Zork on the mainframe there. Soon afterward, they converted it to run on personal computers and founded a company, Infocom, devoted to developing text adventures. Infocom published games about all kinds of things: fantasy magic, film noir detective stories, exploration of an ancient Egyptian pyramid, and so on.
 
+冒险游戏在个人电脑发展初期非常流行。由于冒险游戏不包含图形，因此开发成本低廉，而且设计者和玩家的想象空间都很大。麻省理工学院人工智能实验室的一组研究人员受到原始《冒险》游戏的启发，在该实验室的大型机上编写了一款规模更大的冒险游戏，名为“Zork”。不久之后，他们将其转换为在个人电脑上运行，并成立了一家名为 Infocom 的公司，专门开发文字冒险游戏。Infocom 出版的游戏内容五花八门：奇幻魔法、黑白电影侦探故事、古埃及金字塔探险等等。
+
 The original Adventure didn't have any plot; it just offered a space to explore and puzzles to solve. With minor exceptions, its world did not change as time passed. But it wasn't long before games began to explore the notion of "interactive fiction," an ongoing story in which the player was an active participant. Some games were sold along with books that players were supposed to read ahead of time. Of all the branches of computer game design, interactive fiction has been the subject of the most academic research because it challenges traditional conceptions of what narrative is and does.
+
+最初的《冒险》没有任何情节，它只是提供了一个可供探索的空间和可供解决的谜题。除了少数例外情况，它的世界并没有随着时间的流逝而改变。但不久之后，游戏开始探索“互动小说”的概念，即玩家积极参与的持续故事。有些游戏与书籍一起出售，玩家可以提前阅读。在计算机游戏设计的所有分支中，互动小说一直是学术研究最多的主题，因为它挑战了传统的叙事概念。
 
 As soon as personal computers began to get graphics capability (the very earliest were text-only), developers began to add graphics to adventure games and the games really took off. LucasArts and Sierra On-Line dominated the genre, and for a while they produced the best-looking, highest-class games on the market: funny, scary, mysterious, and fascinating. Adventure games provided challenges and explored areas that other genres didn't touch. Myst, a point-and-click graphic adventure, was for many years the best-selling personal computer game of all time. (It has recently been supplanted by The Sims.)
 
-## Adventure Games Today
+当个人电脑开始具备图形功能（最早的电脑只有文字功能）时，开发人员就开始在冒险游戏中加入图形，于是冒险游戏真正开始兴起。LucasArts 和 Sierra On-Line 主导了这一类型的游戏，在一段时间内，他们制作了市场上最漂亮、最高级的游戏：有趣、恐怖、神秘、引人入胜。冒险游戏提供了挑战，探索了其他类型游戏没有涉足的领域。《神秘岛》是一款点击式图形冒险游戏，多年来一直是最畅销的个人电脑游戏。(最近被《模拟人生》取代）。
+
+## Adventure Games Today 当今的冒险游戏
 
 In the past few years, the market for adventure games has grown more slowly than the market for other genres. Adventure games depend less on display technology than fast-paced action games do; as a result, they get less attention from the gaming press, which has led to a misconception that the adventure game genre is "dead." In fact, adventure games are alive and well; they're just less highly publicized than their high-adrenaline cousins.
+
+在过去的几年里，冒险游戏市场的增长速度比其他类型的游戏要慢。与快节奏的动作游戏相比，冒险游戏对显示技术的依赖程度较低；因此，冒险游戏较少受到游戏媒体的关注，这导致了冒险游戏类型“已死”的误解。事实上，冒险类游戏依然生机勃勃，只是比起那些令人肾上腺素飙升的游戏，它们的宣传力度要小一些。
 
 The invention of 3D hardware accelerators has actually given adventure games a new lease on life. We usually think of dynamic three-dimensional worlds in the contexts in which they first appeared—vehicle simulations and first-person shooters—but 3D hardware has a lot to offer adventure games as well. The first graphical adventure games came with gorgeously painted but static backdrops for every scene. Players could see a lot of things but could touch very few of them. But when every object is rendered in three dimensions and it's possible to move freely among them, the world becomes much more immediate and alive.
 
