@@ -13,11 +13,15 @@ All adventure games are conceptual descendants of the original Adventure. Althou
 
 所有冒险游戏都是原始冒险游戏的概念后裔。尽管多年来这一类型的游戏发生了很大变化，但它们都有一些共同的特点：探索、收集或操作物品、解谜，以及减少对战斗和动作元素的强调。这并不意味着冒险游戏中没有冲突（尽管许多冒险游戏都没有冲突），只是说战斗不是主要活动。
 
-## The Original Adventure
+## The Original Adventure 原始冒险游戏
 
 Adventure was a text-only game. Its gameplay was simple but—at the time that it was written—completely novel. The player was an explorer, wandering around in an enormous cave filled with treasures and dangers. A variety of obstacles prevented her from getting into the deeper parts of the cave, but by cleverly using the things that she had found, the player could unlock these areas and continue exploring. The object of the game was to gather all the treasures and bring them out of the cave.
 
+《冒险》是一款纯文字游戏。它的玩法简单，但在它出现的时代却非常新颖。玩家是一名探险家，在一个充满宝藏和危险的巨大洞穴中四处游荡。各种障碍阻止她进入洞穴深处，但通过巧妙利用她找到的东西，玩家可以解锁这些区域并继续探索。游戏的目标是收集所有宝藏，并将它们带出山洞。
+
 Adventure was the first computer game to give the player a real illusion of freedom, and this remains an important quality of adventure games today. Before Adventure, computer games tended to ask specific questions and expect specific, often numeric answers ("How much money do you want to spend this year?"), or to present players with a fixed list of options and ask them to choose one. The player could type anything she wanted in Adventure, and game would try to respond appropriately. Of course, the game understood only a limited number of words, but because it didn't tell the player what they were, she never knew the full scope of what it would allow her to do.
+
+《冒险》是第一款给玩家带来真正自由错觉的电脑游戏，这一点至今仍是冒险游戏的重要品质。在 “冒险 ”之前，电脑游戏往往会提出具体的问题，并要求玩家给出具体的、通常是数字式的答案（“你今年想花多少钱？”），或者向玩家提供一个固定的选项列表，要求玩家选择其中一个。玩家可以在 “冒险 ”中输入任何想要的内容，游戏也会尝试做出适当的回应。当然，游戏只能理解有限的几个单词，但因为游戏不会告诉玩家这些单词是什么，所以玩家永远不知道游戏能让她做什么。
 
 Adventure also brought personality to computer gaming. Most of the games written at the time spoke to the player in a kind of programmerese. They gave prompts such as "Enter horsepower:" and printed error messages such as "Value too high, re-enter (5-500):". Adventure spoke to players as if it were a person rather than a machine, saying "I don't know how to do that" rather than "Invalid command." It could become sarcastic if the player tried to do something ridiculous or impossible, or even be funny occasionally, another rarity among games of its day. Comedy remains a major element of many adventure games because it discourages the player from taking the game too seriously. Breaches in suspension of disbelief don't bother the player as much in a comic setting as they do in a dramatic one because the player is less immersed in the story in the first place.
 
