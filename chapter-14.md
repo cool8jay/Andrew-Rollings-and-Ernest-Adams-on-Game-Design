@@ -262,7 +262,7 @@ The player is almost always omniscient in a CMS because she needs to see what is
 
 Figure 14.5. Dungeon Keeper 2, omnipresent view (top) and inside view (bottom). 图 14.5. 《地下城守护者 2》，全方位视图（上）和内部视图（下）。
 
-![](.gitbook/assets/14.5.gif)
+![](.gitbook/assets/14.5.png)
 
 ## User Interface 用户界面
 
@@ -346,7 +346,7 @@ CMS 中另一个常见的工具是顾问：一个不时出现并向玩家提供�
 
 Figure 14.6. Theme Park World. Note the advisor in the lower-right corner. 图 14.6. 《主题公园世界》。注意右下角的顾问。
 
-![](.gitbook/assets/14.6.gif)
+![](.gitbook/assets/14.6.png)
 
 In addition to warning of emergencies, an advisor can give the player information about the general state of the game. "The people need more food," he can say, or "Prices are too high." This lets the player know of global problems without having to consult the analysis tools.
 
@@ -368,7 +368,7 @@ A game like Theme Park World is a business simulation because it's about attract
 
 Figure 14.7. Mr. Bigshot. 图 14.7. 《大人物先生》
 
-![](.gitbook/assets/14.7.gif)
+![](.gitbook/assets/14.7.png)
 
 Most of the challenges of designing a pure business simulation are the same as for any other management sim: You must devise an economy and mechanisms for manipulating it. The real trick is to find some way of making the subject visually interesting. Spreadsheets and pie charts have limited appeal, so if you're going to do a management simulation without a construction element, you should try to give it some kind of a setting or to find a visual representation of the process that will make it attractive and compelling. Mr. Bigshot accomplishes this with lots of animation, voiceover narration, music, and cartoon characters representing the player's opponents; as the player, you feel rather like a contestant on a TV game show.
 
@@ -380,7 +380,7 @@ By contrast, Capitalism II (see Figure 14.8) is a huge, sprawling business sim c
 
 Figure 14.8. Capitalism II. 图 14.8. 《资本主义二》
 
-![](.gitbook/assets/14.8.gif)
+![](.gitbook/assets/14.8.png)
 
 Business simulations will never have the pulse-pounding excitement of a first-person shooter, but they can be highly enjoyable games. As the designer, you'll need to work closely with the art director to make the essentially numeric nature of their gameplay more lively.
 
