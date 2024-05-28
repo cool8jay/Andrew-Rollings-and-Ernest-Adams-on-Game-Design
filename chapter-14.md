@@ -76,7 +76,7 @@ A converter is a location or activity that turns one or more resources into anot
 
 Figure 14.1. The Settlers III. The iron smelter is in the center. The coal and iron ore mines are immediately below. 图 14.1. 《工人物语三》。中间是炼铁厂。下面是煤矿和铁矿。
 
-graphics/14fig01.gif
+![](.gitbook/assets/14.1.gif)
 
 ### Deadlocks 死锁
 
@@ -100,7 +100,7 @@ Here's an example of static equilibrium. Suppose you have a miller grinding whea
 
 Figure 14.2. An example of static equilibrium. 图 14.2. 静态平衡示例。
 
-graphics/14fig02.gif
+![](.gitbook/assets/14.2.gif)
 
 Now let's suppose that there's only one person who has to do both jobs herself. She mills for a while, then she bakes for a while, then she mills again, and so on. This is an example of dynamic equilibrium: Things are changing all the time, but they always return to the same state after a while because the process is cyclic. If we tell the woman to stop baking and only mill for a while, and then resume baking again later, again the flour builds up. When she resumes baking, the system settles into a new state of dynamic equilibrium (see Figure 14.3).
 
@@ -108,7 +108,7 @@ Now let's suppose that there's only one person who has to do both jobs herself. 
 
 Figure 14.3. A new state of dynamic equilibrium. 图 14.3. 动态平衡的新状态。
 
-graphics/14fig03.gif
+![](.gitbook/assets/14.3.gif)
 
 When a CMS settles into a static equilibrium, players can easily judge the effect of their actions on the system by making one small change and watching the results. This makes the game easy to learn and play. Dynamic equilibrium is more difficult for players to handle. With the system in constant flux, it's hard to tell whether what they're seeing is the result of a natural process or something they've done. We have a similar problem making ecological decisions about our planet. For many years, people believed that the environment should be in a state of static equilibrium: that there should always be exactly enough plants for the herbivores and exactly enough herbivores for the carnivores, and any deviation from this was caused by environmental mismanagement. More recently, we've come to realize that there are natural fluctuations in the sizes of animal populations and that big changes are not necessarily the result of human actions; they can occur in the ordinary course of events. This makes environmental management all the more difficult.
 
@@ -156,7 +156,7 @@ Random disasters are another way to force the player to act. [SimCity](https://e
 > 
 > Figure 14.4. The original Sim City, showing industrial, commercial, and residential zones. 图 14.4. 最初的《模拟城市》，显示了工业区、商业区和住宅区。
 > 
-> graphics/14fig04.jpg
+> ![](.gitbook/assets/14.4.jpg)
 
 ## Setting 设定
 
@@ -262,7 +262,7 @@ The player is almost always omniscient in a CMS because she needs to see what is
 
 Figure 14.5. Dungeon Keeper 2, omnipresent view (top) and inside view (bottom). 图 14.5. 《地下城守护者 2》，全方位视图（上）和内部视图（下）。
 
-graphics/14fig05.gif
+![](.gitbook/assets/14.5.gif)
 
 ## User Interface 用户界面
 
@@ -346,7 +346,7 @@ CMS 中另一个常见的工具是顾问：一个不时出现并向玩家提供�
 
 Figure 14.6. Theme Park World. Note the advisor in the lower-right corner. 图 14.6. 《主题公园世界》。注意右下角的顾问。
 
-graphics/14fig06.gif
+![](.gitbook/assets/14.6.gif)
 
 In addition to warning of emergencies, an advisor can give the player information about the general state of the game. "The people need more food," he can say, or "Prices are too high." This lets the player know of global problems without having to consult the analysis tools.
 
@@ -368,7 +368,7 @@ A game like Theme Park World is a business simulation because it's about attract
 
 Figure 14.7. Mr. Bigshot. 图 14.7. 《大人物先生》
 
-graphics/14fig07.gif
+![](.gitbook/assets/14.7.gif)
 
 Most of the challenges of designing a pure business simulation are the same as for any other management sim: You must devise an economy and mechanisms for manipulating it. The real trick is to find some way of making the subject visually interesting. Spreadsheets and pie charts have limited appeal, so if you're going to do a management simulation without a construction element, you should try to give it some kind of a setting or to find a visual representation of the process that will make it attractive and compelling. Mr. Bigshot accomplishes this with lots of animation, voiceover narration, music, and cartoon characters representing the player's opponents; as the player, you feel rather like a contestant on a TV game show.
 
@@ -380,7 +380,7 @@ By contrast, Capitalism II (see Figure 14.8) is a huge, sprawling business sim c
 
 Figure 14.8. Capitalism II. 图 14.8. 《资本主义二》
 
-graphics/14fig08.gif
+![](.gitbook/assets/14.8.gif)
 
 Business simulations will never have the pulse-pounding excitement of a first-person shooter, but they can be highly enjoyable games. As the designer, you'll need to work closely with the art director to make the essentially numeric nature of their gameplay more lively.
 
