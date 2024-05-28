@@ -15,8 +15,22 @@
 
 这两个游戏，中文名重名
 
+[SimAnt](https://en.wikipedia.org/wiki/SimAnt)
+[《模拟蚂蚁》](https://en.wikipedia.org/wiki/SimAnt)
+
+[SimFarm](https://en.wikipedia.org/wiki/SimFarm)
+[《模拟农场》](https://en.wikipedia.org/wiki/SimFarm)
+
+[SimTower](https://en.wikipedia.org/wiki/SimTower)
+[《模拟大楼》](https://en.wikipedia.org/wiki/SimTower)
+
+[SimCity](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
+[《模拟城市》](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
+第一个版本
+
 [SimCity](https://en.wikipedia.org/wiki/SimCity)
 [《模拟城市》](https://en.wikipedia.org/wiki/SimCity)
+系列
 
 [SimCity 4](https://en.wikipedia.org/wiki/SimCity_4)
 [《模拟城市四》](https://en.wikipedia.org/wiki/SimCity_4)
@@ -438,9 +452,11 @@
 [Gangsters II](https://en.wikipedia.org/wiki/Gangsters_2)
 [教父二](https://en.wikipedia.org/wiki/Gangsters_2)
 
-
 [Nethack](https://en.wikipedia.org/wiki/NetHack)
 [《迷宫骇客》](https://en.wikipedia.org/wiki/NetHack)
 
 [Swords and Circuitry](https://www.amazon.com/Swords-Circuitry-Designers-Role-Playing-Development/dp/0761532994)
 [《剑与电》](https://book.douban.com/subject/2690975/)
+
+[Bullfrog Productions](https://en.wikipedia.org/wiki/Bullfrog_Productions)
+[牛蛙](https://en.wikipedia.org/wiki/Bullfrog_Productions)

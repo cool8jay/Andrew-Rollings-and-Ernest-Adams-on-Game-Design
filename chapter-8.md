@@ -315,7 +315,7 @@ Figure 8.8. R-Type. 图 8.8. 《异形战机》
 ![](.gitbook/assets/8.8.png)
 
 * [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)). An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.\
-[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))一款等视距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
+[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))一款等距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
 
 Figure 8.9. Diablo. 图 8.9. 《暗黑破坏神》
 
