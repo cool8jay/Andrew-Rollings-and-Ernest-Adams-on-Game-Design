@@ -513,7 +513,7 @@ In the end, most adventure game designers gave up on trying to create the impres
 
 Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15.12. 福尔摩斯探案集》中的对话菜单。
 
-graphics/15fig12.gif
+![](.gitbook/assets/15.12.png)
 
 ### Benefits of Scripted Conversations 脚本对话的优势
 
