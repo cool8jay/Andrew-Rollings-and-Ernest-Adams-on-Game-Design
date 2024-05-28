@@ -316,7 +316,7 @@ Modeling particular individuals rather than statistical aggregates adds consider
 
 Modeling individuals relieves you of the job of creating a statistical model because the behavior of the individuals collectively provides the statistics. However, balancing it will be a much more intricate job. You will probably discover emergent behaviors, unanticipated consequences of design decisions. Some of these will be fascinating and almost seem like intelligence, but others will clearly be degenerate: people locked in a tight behavioral loop, for example, only ever doing one or two things because your needs mechanism isn't balanced properly.
 
-个人建模可以减轻创建统计模型的工作，因为个人的行为共同提供了统计数据。然而，平衡它将是一项复杂得多的工作。你很可能会发现突发行为，即设计决策的意外后果。其中有些会很吸引人，几乎看起来就像智能一样，但有些显然是退化的：例如，人们被锁定在一个紧密的行为循环中，永远只做一两件事，因为你的需求机制没有平衡好。
+个人建模可以减轻创建统计模型的工作，因为个人的行为共同提供了统计数据。然而，平衡它将是一项复杂得多的工作。你很可能会发现涌现行为，即设计决策的意外后果。其中有些会很吸引人，几乎看起来就像智能一样，但有些显然是退化的：例如，人们被锁定在一个紧密的行为循环中，永远只做一两件事，因为你的需求机制没有平衡好。
 
 Behavioral modeling is too big of a subject for us to address comprehensively here, and we suggest that you consult the bibliography at the end of this book for further reading.
 
