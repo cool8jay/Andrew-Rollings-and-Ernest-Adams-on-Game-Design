@@ -68,7 +68,7 @@ Chapter 5 addresses character design: inventing the people, or beings, that popu
 
 Chapter 6 is about user interface design: the way that the player experiences and interacts with the game world. A bad user interface can kill an otherwise brilliant game, so you must get this right.
 
-第六章是关于用户界面设计：玩家体验游戏世界并与之互动的方式。糟糕的用户界面可能会扼杀一款出色的游戏，因此你必须做好这一点。&#x20;
+第六章是关于用户界面设计：玩家体验游戏世界并与之互动的方式。糟糕的用户界面可能会扼杀一款出色的游戏，因此你必须做好这一点。
 
 Chapter 7 discusses gameplay, the heart of the player's mental experience of a game: the challenges he faces and the actions he takes to overcome them.
 
@@ -82,7 +82,7 @@ Chapter 8 looks at the internal economy or core mechanics of a game, and the flo
 
 Chapter 9 is about the earliest, and still the most popular, genre of interactive entertainment: action games.
 
-第九章讲述的是最早的，也是目前最流行的，互动娱乐类型：动作游戏。&#x20;
+第九章讲述的是最早的，也是目前最流行的，互动娱乐类型：动作游戏。
 
 Chapter 10 discusses another genre that has been part of gaming since the beginning: strategy games, both real-time and turn-based.
 
@@ -90,7 +90,7 @@ Chapter 10 discusses another genre that has been part of gaming since the beginn
 
 Chapter 11 is about role-playing games, a natural outgrowth of pencil and paper games such as Dungeons & Dragons.
 
-第十一章介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。&#x20;
+第十一章介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。
 
 Chapter 12 looks at sports games, which have a number of peculiar design challenges. The actual contest itself is designed by others; the trick is to map human athletic activities onto a screen and control devices.
 
@@ -102,7 +102,7 @@ Chapter 13 addresses vehicle simulations: cars, planes, boats, and other, more e
 
 Chapter 14 is about construction and management simulations, in which the player tries to build and maintain something—a city, a theme park, a planet—within the limitations of an economic system.
 
-第十四章是关于建筑和管理模拟，在这种游戏中，玩家要在经济系统的限制范围内建造和维护一些东西——城市、主题公园、星球。&#x20;
+第十四章是关于建筑和管理模拟，在这种游戏中，玩家要在经济系统的限制范围内建造和维护一些东西——城市、主题公园、星球。
 
 Chapter 15 explores adventure games, an old and unique genre of gaming recently given new life by the creation of a hybrid type, the action adventure.
 
@@ -114,7 +114,7 @@ Chapter 16 examines a variety of other types of games: artificial life, software
 
 Chapter 17 is devoted to online games, which is not a genre but a technology. Online games enable people to play with, or against, each other in numbers from two up to hundreds of thousands. Playing against real people that you cannot see has enormous consequences for the game's design. The second half of the chapter addresses the particular problems of persistent worlds like EverQuest.
 
-&#x20;第十七章专门讨论网络游戏，这不是一种类型，而是一种技术。网络游戏可以让人们相互之间进行游戏或对战，游戏人数从两个人到数十万人不等。与看不见的真人对战对游戏的设计产生了巨大的影响。本章的后半部分讨论了像 EverQuest 这样的持久世界的特殊问题。
+第十七章专门讨论网络游戏，这不是一种类型，而是一种技术。网络游戏可以让人们相互之间进行游戏或对战，游戏人数从两个人到数十万人不等。与看不见的真人对战对游戏的设计产生了巨大的影响。本章的后半部分讨论了像 EverQuest 这样的持久世界的特殊问题。
 
 Chapter 18 takes a look at the future of gaming and where we believe the medium will go, both in the short and long term.
 
