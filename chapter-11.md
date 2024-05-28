@@ -407,7 +407,7 @@ Figure 11.6. Elder Scrolls III: Morrowind. 图 11.7. 《上古卷轴三：晨风
 
 Figure 11.7. Neverwinter Nights. 图 11.7. 《无冬之夜》。
 
-![](.gitbook/assets/11.7.gif)
+![](.gitbook/assets/11.7.png)
 
 > **CRPG Worksheet CRPG 工作表**
 > 
