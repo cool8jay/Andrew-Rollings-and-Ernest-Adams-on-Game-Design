@@ -326,17 +326,17 @@ Behavioral modeling is too big of a subject for us to address comprehensively he
 
 If the individuals you're simulating are visible on the screen and the player can select one with the mouse, you can offer another useful analysis tool: mind reading. To let the player know what's in that individual's mind, pop up an icon or even a whole dialog box showing his internal state: current goal, degree of happiness, or whatever other data might be useful to the player. This lets the player get a quick, rough sense of how the people are feeling without having to turn to a statistical analysis screen.
 
-如果你模拟的人在屏幕上可见，而且玩家可以用鼠标选择其中一个，那么你就可以提供另一种有用的分析工具：读心术。为了让玩家了解这个人的想法，可以弹出一个图标甚至整个对话框，显示他的内心状态：当前目标、快乐程度或其他任何对玩家有用的数据。这样，玩家就可以快速、粗略地了解人们的感受，而不必转到统计分析界面。
+如果你模拟的人在屏幕上可见，而且玩家可以用鼠标选择其中一个，那么你就可以提供另一种有用的分析工具：读心术。为了让玩家了解这个人的想法，可以弹出一个图标甚至整个对话框，显示他的内心状态：当前目标、快乐程度或其他任何对玩家有用的数据。这样，玩家就可以快速、粗略地了解人们的感受，而不必查看统计分析界面。
 
 > **Case Study: Theme Park, a Disgusting Example of Positive Feedback 案例研究：主题公园，积极反馈的恶心范例**
 > 
 > In [Bullfrog Productions](https://en.wikipedia.org/wiki/Bullfrog_Productions)'s CMS called [Theme Park](https://en.wikipedia.org/wiki/Theme_Park_(video_game)), the player was supposed to build a single theme park, ride by ride, into an empire of theme parks around the world. In addition to buying the rides, which attracted visitors, the player built shops and restaurants to extract money from them and hired maintenance and cleaning staff to keep the rides working and the park clean.
 > 
-> 在[牛蛙](https://en.wikipedia.org/wiki/Bullfrog_Productions)开发的名为[《主题公园》](https://en.wikipedia.org/wiki/Theme_Park_(video_game))的 CMS 中，玩家要把一个单一的主题公园，通过一个个游乐设施，建设成一个遍布全球的主题公园帝国。除了购买游乐设施吸引游客外，玩家还要建造商店和餐馆从中牟利，并雇佣维护和清洁人员来保持游乐设施的运行和公园的清洁。
+> 在[牛蛙](https://en.wikipedia.org/wiki/Bullfrog_Productions)开发的名为[《主题公园》](https://en.wikipedia.org/wiki/Theme_Park_(video_game))的 CMS 中，玩家要把一个单一的主题公园，一步一步地，建设成一个遍布全球的主题公园帝国。除了购买游乐设施吸引游客外，玩家还要建造商店和餐馆从中牟利，并雇佣维护和清洁人员来保持游乐设施的运行和公园的清洁。
 >
 > Each visitor to the park had a number of characteristics: how much money he had, how hungry or thirsty he was, and so on. One of these characteristics was "current degree of nausea." If a visitor became nauseated enough, he would vomit, leaving a mess on the ground that had to be cleaned up. Nausea could be caused by three things. Two of these were riding a particularly violent ride and being near an unclean bathroom. The third cause of nausea was—you guessed it—being near someone else's vomit. If the park was crowded and the player hadn't hired enough cleaning staff to keep the bathrooms clean and the vomit cleaned up, the result was chain-reaction vomiting by the visitors. This did nothing for the reputation of the park and tended to hurt future sales, but it did inject a degree of juvenile humor into what was otherwise a fairly straightforward business simulation.
 > 
-> 公园里的每个游客都有一些特征：他有多少钱、他有多饿或多渴，等等。其中一个特征是 “当前的恶心程度”。如果游客恶心到一定程度，他就会呕吐，在地上留下必须清理的脏物。引起恶心的原因有三种。其中两种是乘坐特别剧烈的游乐设施和靠近不干净的卫生间。导致恶心的第三个原因是--你猜对了--靠近别人的呕吐物。如果乐园里人很多，而乐园方又没有雇佣足够的清洁人员来保持卫生间的清洁和呕吐物的清理，那么结果就是游客的连锁呕吐。这对公园的声誉毫无益处，而且往往会损害未来的销售，但它确实为原本相当简单的商业模拟注入了一定程度的稚嫩幽默。
+> 公园里的每个游客都有一些特征：他有多少钱、他有多饿或多渴，等等。其中一个特征是 “当前的恶心程度”。如果游客恶心到一定程度，他就会呕吐，在地上留下必须清理的脏物。引起恶心的原因有三种。其中两种是乘坐特别剧烈的游乐设施和靠近不干净的卫生间。导致恶心的第三个原因是——你猜对了——靠近别人的呕吐物。如果乐园里人很多，而乐园方又没有雇佣足够的清洁人员来保持卫生间的清洁和呕吐物的清理，那么结果就是游客的连锁呕吐。这对公园的声誉毫无益处，而且往往会损害未来的销售，但它确实为原本相当简单的商业模拟注入了一定程度的稚嫩幽默。
 
 ## Advisors 顾问
 
