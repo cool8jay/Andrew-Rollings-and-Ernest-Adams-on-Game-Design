@@ -4,17 +4,17 @@ Construction and management simulations are games about processes. The player's 
 
 The first really successful computerized construction and management simulation (which we refer to as a CMS from now on) was [SimCity](https://en.wikipedia.org/wiki/SimCity). We'll look at it in some detail later in the chapter. [SimCity](https://en.wikipedia.org/wiki/SimCity) proved that computer games don't need high-speed action or violence to be a success; it succeeded in part because it didn't have those things and appealed to a broad audience.
 
-第一个真正成功的计算机化建设和管理模拟游戏（我们从现在开始称之为 CMS）是[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。我们将在本章稍后部分详细介绍它。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)证明，电脑游戏不需要高速动作或暴力就能获得成功；它之所以成功，部分原因在于它没有这些东西，而且吸引了广大的受众。
+第一个真正成功的计算机化建设和管理模拟游戏（我们从现在开始简称为 CMS）是[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。我们将在本章稍后部分详细介绍它。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)证明，电脑游戏不需要高速动作或暴力就能获得成功；它之所以成功，部分原因在于它没有这些东西，而且吸引了广大的受众。
 
 At the end of this chapter, we also have a section called "Pure Business Simulations," devoted to games in which the player doesn't really "construct" anything, and another section called "Hybrid Games," about games that are a hybrid of CMS and war games, such as [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). Military strategy is addressed in [Chapter 10](chapter-10.md), "Strategy Games," but some of these hybrid games include interesting economic elements as well; we'll refer to them throughout this chapter, where appropriate.
 
 在本章末尾，我们还有一节名为“纯商业模拟”的内容，专门介绍玩家并不真正“构建”任何东西的游戏；另一节名为“混合游戏”，介绍 CMS 和战争游戏的混合体，如[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)。军事战略在[第十章](chapter-10.md) “策略游戏”中论述，但其中一些混合游戏也包含有趣的经济元素；我们将在本章适当的地方提到它们。
 
-# The Common Elements of CMSs CMS 游戏的共同要素
+# The Common Elements of CMSs CMS 的共同要素
 
 Most CMSs give the player the chance to build and manage some entity—a city, a building, an anthill, or whatever—using two general sets of tools: one for building and one for managing. Building is easy, but managing is tricky indeed; we discuss that aspect of the simulation first.
 
-大多数 CMS 游戏都让玩家有机会使用两套通用工具来建造和管理某个实体——城市、建筑、蚁穴或其他，其中一套用于建造，另一套用于管理。建造很简单，但管理确实很棘手；我们将首先讨论模拟的这一方面。
+大多数 CMS 都让玩家有机会使用两套通用工具来建造和管理某个实体——城市、建筑、蚁穴或其他，其中一套用于建造，另一套用于管理。建造很简单，但管理确实很棘手；我们将首先讨论模拟的这一方面。
 
 ## Rules 规则
 
@@ -342,15 +342,15 @@ If the individuals you're simulating are visible on the screen and the player ca
 
 Another tool commonly found in CMSs is the advisor: a simulated character who pops up and gives the player advice from time to time (see Figure 14.6). Because problems are often localized in one area of the map, the player might be looking at another area when one occurs and not see it until it has grown severe. An advisor can warn of problem conditions wherever they occur. You should also consider including a screen button or menu item that jumps the screen to the most recently reported problem.
 
-内容管理系统中另一个常见的工具是顾问：一个不时出现并向玩家提供建议的模拟角色（见图 14.6）。由于问题往往集中在地图的某个区域，当问题发生时，玩家可能正在查看另一个区域，直到问题变得严重时才发现。顾问可以在出现问题的地方发出警告。你还应该考虑加入一个屏幕按钮或菜单项，使屏幕跳转到最近报告的问题。
+CMS 中另一个常见的工具是顾问：一个不时出现并向玩家提供建议的模拟角色（见图 14.6）。由于问题往往集中在地图的某个区域，当问题发生时，玩家可能正在查看另一个区域，直到问题变得严重时才发现。顾问可以为任何地方发生的问题发出警告。你还应该考虑加入一个屏幕按钮或菜单项，使屏幕跳转到最近报告的问题。
 
-Figure 14.6. Theme Park World. Note the advisor in the lower-right corner. 图 14.6. 主题公园世界。注意右下角的顾问。
+Figure 14.6. Theme Park World. Note the advisor in the lower-right corner. 图 14.6. 《主题公园世界》。注意右下角的顾问。
 
 graphics/14fig06.gif
 
 In addition to warning of emergencies, an advisor can give the player information about the general state of the game. "The people need more food," he can say, or "Prices are too high." This lets the player know of global problems without having to consult the analysis tools.
 
-除了警告紧急情况，顾问还可以向玩家提供有关游戏总体状况的信息。他可以说 “人们需要更多的食物”，或者 “物价太高了”。这样，玩家就可以知道全局性的问题，而无需查阅分析工具。
+除了警告紧急情况，顾问还可以向玩家提供有关游戏总体状况的信息。他可以说“人们需要更多的食物”，或者“物价太高了”。这样，玩家就可以知道全局性的问题，而无需查阅分析工具。
 
 To design an advisor, define both the local and the global problems that you think are important to let the player know about; then set the threshold levels at which the advisor will pop up. If the advisor is going to interrupt the player or say something aloud, don't set these thresholds too low, or the constant interruptions will become irritating. You should also make it possible for the player to turn off the advisor or to consult it only when wanted. Playing without the advisor adds an extra challenge to the game.
 
@@ -358,27 +358,27 @@ To design an advisor, define both the local and the global problems that you thi
 
 You can also create an advisor that consists only of an indicator that remains constantly on the screen, displaying the most urgent global need at the moment.
 
-你还可以创建一个仅由指示器组成的顾问，该指示器会持续显示在屏幕上，显示当前最紧迫的全球需求。
+你还可以创建一个仅由指示器组成的顾问，该指示器会持续显示在屏幕上，显示当前最紧迫的全局需求。
 
 ## Pure Business Simulations 纯商业模拟
 
 A game like Theme Park World is a business simulation because it's about attracting customers and making profits. It's the building aspect of it that makes it a CMS. But there are also pure business simulations in which you construct only a financial fortune, not a visible world. The game Hollywood Mogul, for example, is about the business of making movies, but it consists only of a series of menu screens about hiring stars and making deals. The player never sees a set or a camera. Mr. Bigshot, shown in Figure 14.7, is a fairly simple stock market simulation.
 
-像《主题公园世界》这样的游戏之所以是商业模拟游戏，是因为它以吸引顾客和赚取利润为目的。它的建设方面使其成为一款 CMS。但也有一些纯粹的商业模拟游戏，在这些游戏中，你只需构建一个财务财富，而不是一个可见的世界。例如，《好莱坞大亨》（Hollywood Mogul）这款游戏是关于电影制作的，但其中只有一系列关于聘请明星和进行交易的菜单屏幕。玩家永远看不到布景或摄影机。Bigshot 先生》如图 14.7 所示，是一款相当简单的股票市场模拟游戏。
+像《主题公园世界》这样的游戏之所以是商业模拟游戏，是因为它以吸引顾客和赚取利润为目的。它的建设方面使其成为一款 CMS。但也有一些纯粹的商业模拟游戏，在这些游戏中，你只需构建一个财务财富，而不是一个可见的世界。例如，《好莱坞大亨》这款游戏是关于电影制作的，但其中只有一系列关于聘请明星和进行交易的菜单屏幕。玩家永远看不到布景或摄影机。《大人物先生》如图 14.7 所示，是一款相当简单的股票市场模拟游戏。
 
-Figure 14.7. Mr. Bigshot. 图 14.7. 大人物先生
+Figure 14.7. Mr. Bigshot. 图 14.7. 《大人物先生》
 
 graphics/14fig07.gif
 
 Most of the challenges of designing a pure business simulation are the same as for any other management sim: You must devise an economy and mechanisms for manipulating it. The real trick is to find some way of making the subject visually interesting. Spreadsheets and pie charts have limited appeal, so if you're going to do a management simulation without a construction element, you should try to give it some kind of a setting or to find a visual representation of the process that will make it attractive and compelling. Mr. Bigshot accomplishes this with lots of animation, voiceover narration, music, and cartoon characters representing the player's opponents; as the player, you feel rather like a contestant on a TV game show.
 
-设计纯粹的商业模拟游戏所面临的大部分挑战与其他任何管理模拟游戏都是一样的：你必须设计出一种经济和操纵经济的机制。真正的诀窍在于找到某种方法，使主题在视觉上变得有趣。电子表格和饼状图的吸引力有限，所以如果你要做一个没有建筑元素的管理模拟，你应该尝试给它某种设置，或者找到一种可视化的过程表现形式，使其具有吸引力和说服力。Bigshot 先生》通过大量动画、配音解说、音乐和代表玩家对手的卡通人物来实现这一点；作为玩家，你感觉自己就像电视游戏节目中的参赛者。
+设计纯粹的商业模拟游戏所面临的大部分挑战与其他任何管理模拟游戏都是一样的：你必须设计出一种经济和操纵经济的机制。真正的诀窍在于找到某种方法，使主题在视觉上变得有趣。电子表格和饼状图的吸引力有限，所以如果你要做一个没有建筑元素的管理模拟，你应该尝试给它某种设置，或者找到一种可视化的过程表现形式，使其具有吸引力和说服力。《大人物先生》通过大量动画、配音解说、音乐和代表玩家对手的卡通人物来实现这一点；作为玩家，你感觉自己就像电视游戏节目中的参赛者。
 
 By contrast, Capitalism II (see Figure 14.8) is a huge, sprawling business sim covering all kinds of products and industries. In addition to showing pictures of them and all the raw materials that go into them, the game allows players to construct or purchase buildings in cities, so there's an attractive Sim City-like view as well.
 
-相比之下，《资本论 II》（见图 14.8）是一款庞大的商业模拟游戏，涵盖了各种产品和行业。除了展示这些产品和行业的图片以及所有原材料外，游戏还允许玩家在城市中建造或购买建筑，因此也有一个类似模拟城市的吸引人的视角。
+相比之下，《资本主义二》（见图 14.8）是一款庞大的商业模拟游戏，涵盖了各种产品和行业。除了展示这些产品和行业的图片以及所有原材料外，游戏还允许玩家在城市中建造或购买建筑，因此也有一个类似《模拟城市》的吸引人的视角。
 
-Figure 14.8. Capitalism II. 图 14.8. 资本主义 II
+Figure 14.8. Capitalism II. 图 14.8. 《资本主义二》
 
 graphics/14fig08.gif
 
@@ -390,7 +390,7 @@ Business simulations will never have the pulse-pounding excitement of a first-pe
 
 Civilization, Age of Empires, Dungeon Keeper, and The Settlers are all good examples of hybrid games: crosses between a CMS and a war game. In addition to their economic challenges, they all feature exploration and military challenges, varying somewhat from one game to another. The military aspect of The Settlers is quite simple, as it must be, given that the economic aspect is exceedingly complex. Age of Empires emphasizes warfare and military research more and is more of a real-time strategy game than a CMS, especially because natural resources are limited. Its people can be controlled directly, too. Dungeon Keeper is initially about constructing a dungeon, but in the later stages of each mission, it's actually about recruiting and training a balanced army, and then taking that army into battle. Control is a curious hybrid of direct and indirect: Creatures have a distinct behavior model, but they will obey orders as long as they're happy. (If they're unhappy, they might disobey or even desert.) However, Dungeon Keeper retains its economic challenges throughout: It's one of the very few games in which the soldiers have to be paid, fed, and given a place to sleep.
 
-《文明》、《帝国时代》、《地下城守护者》和《工人物语》都是混合游戏的典范：CMS 和战争游戏的混合体。除了经济方面的挑战外，它们还都具有探索和军事方面的挑战，只是各款游戏之间略有不同。定居者》的军事方面非常简单，因为它的经济方面非常复杂。帝国时代》更强调战争和军事研究，更像是一款即时战略游戏，而不是 CMS，尤其是因为自然资源是有限的。游戏中的人也可以直接控制。地牢守护者》最初是关于建造一个地牢，但在每个任务的后期，它实际上是关于招募和训练一支均衡的军队，然后带着这支军队投入战斗。控制是直接和间接的奇妙混合体：生物有独特的行为模式，但只要它们高兴，就会服从命令。(然而，《地下城守护者》自始至终保留了其经济挑战性：它是为数不多的需要为士兵支付薪水、提供食物和睡觉场所的游戏之一。
+《文明》、《帝国时代》、《地下城守护者》和《工人物语》都是混合游戏的典范：CMS 和战争游戏的混合体。除了经济方面的挑战外，它们还都具有探索和军事方面的挑战，只是各款游戏之间略有不同。《工人物语》的军事方面非常简单，因为它的经济方面非常复杂。《帝国时代》更强调战争和军事研究，更像是一款即时战略游戏，而不是 CMS，尤其是因为自然资源是有限的。游戏中的人也可以直接控制。《地下城守护者》最初是关于建造一个地牢，但在每个任务的后期，它实际上是关于招募和训练一支均衡的军队，然后带着这支军队投入战斗。控制是直接和间接的奇妙混合体：生物有独特的行为模式，但只要它们高兴，就会服从命令。(如果它们不高兴，就会不服从命令，甚至开小差）。然而，《地下城守护者》自始至终保留了其经济挑战性：它是为数不多的需要为士兵支付薪水、提供食物和睡觉场所的游戏之一。
 
 If you're going to design a hybrid game, we encourage you to design the economic simulation first (unless it's really simple) and then add the other elements afterward. Because the other aspects of the game usually depend on the underlying economy, a mistake in the economic design can easily ruin the rest of the game. For example, a war game that includes an economy for weapons production might lose all its strategic challenge if the player is able to produce weapons too quickly. The player will exploit his economic strength and overwhelm the opposition with sheer numbers rather than strategic skill.
 
@@ -445,4 +445,4 @@ If you're going to design a hybrid game, we encourage you to design the economic
 
 Construction and management simulations seldom have splashy graphics, pounding music, or moments of high drama (except when disaster strikes). Instead, they call for observation, contemplation, and planning. To many gamers, that sounds terribly dull. Yet good CMSs are enormously popular and can make fortunes even without the latest 3D graphics. RollerCoaster Tycoon was a perfect example. What appeals about a CMS is not an adrenaline rush, but the fact that the player gets to make something of his own. Working carefully, tending and tweaking, he can build a tiny settlement on the banks of the Tiber into the glorious city that was Rome. Not the original Rome or the game designer's Rome, but his Rome—Rome as it would have been if he had been emperor. That's a different kind of achievement from blasting all the aliens in sight or winning a sports championship. The desire to create is at the heart of all CMS players. To design a CMS, first understand that desire.
 
-建设和管理模拟很少有华丽的画面、震撼的音乐或戏剧性的时刻（除非发生灾难）。相反，它们需要的是观察、思考和计划。对许多游戏玩家来说，这听起来非常沉闷。然而，优秀的内容管理系统却大受欢迎，即使没有最新的 3D 图形，也能赚得盆满钵满。《过山车大亨》就是一个完美的例子。内容管理系统吸引人的地方不是让人肾上腺素飙升，而是让玩家可以制作属于自己的东西。他可以小心翼翼地工作、打理和调整，将台伯河畔的一个小定居点建成辉煌的罗马城。不是最初的罗马，也不是游戏设计者的罗马，而是他的罗马——如果他当了皇帝，就会是这样的罗马。这是一种不同于射杀所有外星人或赢得体育冠军的成就。创造的欲望是所有内容管理系统参与者的核心。要设计内容管理系统，首先要了解这种欲望。
+建设和管理模拟游戏很少有华丽的画面、震撼的音乐或戏剧性的时刻（除非发生灾难）。相反，它们需要的是观察、思考和计划。对许多游戏玩家来说，这听起来非常沉闷。然而，优秀的 CMS 却大受欢迎，即使没有最新的 3D 图形，也能赚得盆满钵满。《过山车大亨》就是一个完美的例子。CMS 吸引人的地方不是让人肾上腺素飙升，而是让玩家可以制作属于自己的东西。他可以小心翼翼地工作、打理和调整，将台伯河畔的一个小定居点建成辉煌的罗马城。不是最初的罗马，也不是游戏设计者的罗马，而是他的罗马——如果他当了皇帝，就会是这样的罗马。这是一种不同于射杀所有外星人或赢得体育冠军的成就。创造的欲望是所有内容管理系统参与者的核心。要设计内容管理系统，首先要了解这种欲望。
