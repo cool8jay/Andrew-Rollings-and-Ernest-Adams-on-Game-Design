@@ -377,9 +377,9 @@ The system that has had the most success so far is the goal-oriented hFSM system
 
 迄今为止，最成功的系统是以目标为导向的 hFSM 系统。采用这种方法时，人工智能会选择一个最高级别的目标，如“攻占并守住这座山头”或“提高客户满意度”，然后将实现总体目标所需的任务分配给下属的 hFSM，而 hFSM 会进一步将任务分配到各个单位。这类似于军队或任何其他等级权力结构，如公司。老板提出高层目标，并将其下达给各部门经理。这些经理将高层目标转化为对本部门有意义的目标，然后再下达给他们的主管。主管进一步将这些子目标转化为对其员工有意义的任务，并将工作分工。在此基础上，员工可以自由解释他们的任务，并按照他们认为合适的方式（在合理的范围内）完成任务。
 
-This approach has several elegant and pleasing features, the most notable of which is a controlled use of emergence. This approach also lends itself well to design. It is conceivable to design the rough pattern of an AI opponent on paper in this fashion. Of course, unless you are extremely lucky or unbelievably talented, it will still require much tweaking after it is implemented, but it should be possible for you, the designer, to at least communicate your overall goals for the AI to the developers. For more fundamental information on balance and tuning, refer back to [Chapter 8](chapter-8.md).
+This approach has several elegant and pleasing features, the most notable of which is a controlled use of emergence. This approach also lends itself well to design. It is conceivable to design the rough pattern of an AI opponent on paper in this fashion. Of course, unless you are extremely lucky or unbelievably talented, it will still require much tweaking after it is implemented, but it should be possible for you, the designer, to at least communicate your overall goals for the AI to the developers. For more fundamental information on balance and tuning, refer back to [Chapter 8](/part-1/chapter-8.md).
 
-这种方法有几个优雅而令人愉悦的特点，其中最显著的是有节制地使用涌现。这种方法也非常适合设计。可以想象，用这种方法可以在纸上设计出人工智能对手的大致模式。当然，除非你运气极佳或天赋异禀，否则在实现后仍需要进行大量调整，但作为设计者，你至少可以将你对人工智能的总体目标传达给开发人员。有关平衡和调整的更多基本信息，请参阅[第八章](chapter-8.md)。
+这种方法有几个优雅而令人愉悦的特点，其中最显著的是有节制地使用涌现。这种方法也非常适合设计。可以想象，用这种方法可以在纸上设计出人工智能对手的大致模式。当然，除非你运气极佳或天赋异禀，否则在实现后仍需要进行大量调整，但作为设计者，你至少可以将你对人工智能的总体目标传达给开发人员。有关平衡和调整的更多基本信息，请参阅[第八章](/part-1/chapter-8.md)。
 
 > **Strategy Game Worksheet 策略游戏工作表**
 > 
