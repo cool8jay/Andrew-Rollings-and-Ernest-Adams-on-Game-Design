@@ -4,7 +4,7 @@ Using well-defined characters in games has been with us since the earliest days 
 
 Figure 5.1. Gun Fight. 图 5.1. 《枪战》。
 
-![](/.gitbook/assets/5.1.png)
+![](../.gitbook/assets/5.1.png)
 
 In this chapter, we discuss the method used to design compelling and believable characters for your game. It's important to realize that not all games require characters to be anything more than simple stereotypes (consider, for example, the Mario series of games). However, enough games out there require decent interactive characters to warrant a chapter covering the topic.
 
@@ -58,7 +58,7 @@ Compared to fully grown animals, baby animals have large heads and eyes with res
 
 Figure 5.2. Super Monkey Ball. 图 5.2. 《超级猴子球》。
 
-![](/.gitbook/assets/5.2.png)
+![](../.gitbook/assets/5.2.png)
 
 The monkey characters follow Morris's super-sense guidelines—large heads; large, round eyes; and comparatively small bodies. Coincidentally (and rather perversely, to Western eyes), this is also the approach taken by Japanese ultra-violent Anime comics, an example of which is shown in Figure 5.3.
 
@@ -66,7 +66,7 @@ The monkey characters follow Morris's super-sense guidelines—large heads; larg
 
 Figure 5.3. A Japanese-style character. 图 5.3. 日式风格的人物。
 
-![](/.gitbook/assets/5.3.png)
+![](../.gitbook/assets/5.3.png)
 
 We realize that not all Anime is violent. Nevertheless, the artistic style emphasizes childlike super-sensuality while dealing with adult-oriented topics.
 
@@ -82,13 +82,13 @@ Care must be taken with the super-sensuality approach to character design becaus
 
 Figure 5.4. Bubsy the Bobcat. 图 5.4. 《大笨猫》。
 
-![](/.gitbook/assets/5.4.png)
+![](../.gitbook/assets/5.4.png)
 
 Figure 5.5 shows a small selection of the virtually infinite variety of cute characters out there. 图 5.5 展示了几乎无穷无尽的可爱角色中的一小部分。
 
 Figure 5.5. A selection of cute characters. 图 5.5. 可爱角色选集。
 
-![](/.gitbook/assets/5.5.png)
+![](../.gitbook/assets/5.5.png)
 
 This form of design has a number of secondary contributing characteristics. The primary consideration is the limitations of the target platform. What looks great as a million-polygon rendered 3D model might not look so hot as a 64-pixel-high sprite. Hence, the appearance of an art-driven character is (obviously) influenced by the technology used to display it.
 
@@ -104,7 +104,7 @@ An interesting twist on this unwritten rule was presented in the form of [Conker
 
 Figure 5.6. Conker's Bad Fur Day. 图 5.6. 《松鼠库克倒霉的一天》。
 
-![](/.gitbook/assets/5.6.png)
+![](../.gitbook/assets/5.6.png)
 
 Another series of games that has attempted the same sort of thing (although without the humor quotient) is Nintendo's [Starfox](https://en.wikipedia.org/wiki/Star_Fox) series. Here, the hero, Fox McCloud, and supporting characters are anthropomorphized animals. This is a common approach in literature. Many stories have used this approach, with The Wind in the Willows being a well-known example.
 
@@ -126,7 +126,7 @@ Unfortunately, for cute-style characters at least, art-based design seems to hav
 
 Figure 5.7. Head and Heels from Head over Heels. 图 5.7. 《狗狗迷宫》的头仔和脚仔。
 
-![](/.gitbook/assets/5.7.png)
+![](../.gitbook/assets/5.7.png)
 
 These two characters, Head and Heels, are buddies fighting against the evil emperor. The only difference between these two and the majority of today's examples is the originality in the relationship between the two characters: Head and Heels are both symbiotic creatures. Head can jump and glide, and Heels can run fast. When they are linked together, they combine their abilities and can solve problems that would be impossible to achieve individually. The difference between Head and Heels and the rest of the cute brigade is that Head and Heels actually had unique characteristics that made an original difference to the gameplay.
 
@@ -168,7 +168,7 @@ Even games that you would not expect to have fully developed characters can gain
 
 Figure 5.8. SSX Tricky. 图 5.8. 《疾风滑雪》。
 
-![](/.gitbook/assets/5.8.png)
+![](../.gitbook/assets/5.8.png)
 
 Admittedly, it's not complex stuff—it could be taken further—but it's refreshing to see this sort of thing being attempted in the sort of games in which previously it was unheard of. Interaction between characters is one of the most interesting aspects of stories—sometimes more so than the actual plot. Although a plot details the path of a story (we cover this in the next chapter), the character interactions add a lot of flavor and subtlety that differentiate a well-crafted story from a fifth-grade English composition assignment.
 
@@ -210,11 +210,11 @@ One way to do this is to tackle serious subjects in a mature fashion, with the b
 
 Figure 5.9. Postal. 图 5.9. 《喋血街头》。
 
-![](/.gitbook/assets/5.9.png)
+![](../.gitbook/assets/5.9.png)
 
 Figure 5.10. Soldier of Fortune. 图 5.10. 《命运战士》。
 
-![](/.gitbook/assets/5.10.jpg)
+![](../.gitbook/assets/5.10.jpg)
 
 "The most notable feature in [Postal](https://en.wikipedia.org/wiki/Postal_(video_game)) is the violence, and this is definitely NOT a game for the kiddies. It even comes with the gaming version of an NC-17 rating, as well it should. You don't kill demon spawn or mutant dino-zombies. You're shooting at people, watching their blood spill onto the street, hearing them wail for mercy or to be put out of their misery. There's a button for execution; just stand over a victim moaning in pain and finish him off. And if things get too grisly, you can even end your own life via a shotgun to the head. This is really some unprecedented and uncensored violence, so parents beware."
 
@@ -261,7 +261,7 @@ One important consideration for realistic characters is based on the diagram sho
 
 Figure 5.11. Character growth cycle. 图 5.11. 角色成长周期。
 
-![](/.gitbook/assets/5.11.png)
+![](../.gitbook/assets/5.11.png)
 
 The common character growth cycle that is tied in with the Hero's Journey advises how to manage the growth of the hero character. The hero starts with a limited awareness of himself and his situation. As the story unfolds, the hero's awareness increases to a point at which he realizes that a change is necessary. At this point, the hero often exhibits a reluctance to change—the point at which he would be leaving his ordinary world and entering the special world—and has to dedicate himself to overcoming his reluctance. The point at which the hero has committed himself to change usually signals the end of the first act of the story.
 
@@ -313,7 +313,7 @@ The most important thing to do with the hero is ensure that the players can iden
 
 Figure 5.12. Abe and Munch. 图 5.12. 阿比和芒奇。
 
-![](/.gitbook/assets/5.12.png)
+![](../.gitbook/assets/5.12.png)
 
 There are a number of possible reasons for this. Note that both Abe and Munch follow the super-sensuality guidelines mentioned earlier, with large eyes and big foreheads, echoing those of babies. Despite (or perhaps because of ) their ugliness, and the fact that they are enslaved underdogs of a much uglier ruling class, they appeal to a wide range of players and have been a surprising success. It's surprising, that is, for the developers. However, close examination of the archetypes and the characteristics of Abe and Munch (as well as the quality of the games in which they were introduced) indicates that the success isn't as surprising as it might initially seem.
 
@@ -337,7 +337,7 @@ Heroes are not always on their own. In some games, the "hero" is represented by 
 
 Figure 5.13. Anachronox.  图 5.13. 《源毒》。
 
-![](/.gitbook/assets/5.13.png)
+![](../.gitbook/assets/5.13.png)
 
 In fact, [Tom Hall](https://en.wikipedia.org/wiki/Tom_Hall)'s [Anachronox](https://en.wikipedia.org/wiki/Anachronox) is one of two excellent games that came out of Ion Storm. ( [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) is the other.) Unfortunately, by the time these games were released, the well had already been poisoned by the lamentable [Daikatana](https://en.wikipedia.org/wiki/Daikatana) (starting with the infamous "John Romero's about to make you his bitch" advertising campaign).
 
@@ -431,7 +431,7 @@ The shadow is arguably the second most important character after the hero himsel
 
 Figure 5.14. Elexis Sinclaire. 图 5.14. 埃莱克西斯·辛克莱尔。
 
-![](/.gitbook/assets/5.14.png)
+![](../.gitbook/assets/5.14.png)
 
 In other games, the shadow lives up to its designation—remaining mysterious until the story climax, when it is revealed in a flourish and a flash of lightning. This can add a lot to the gameplay, especially because part of the gameplay is often to find out the identity of the shadow. This can add a lot of dramatic tension and mystery to augment the gameplay.
 

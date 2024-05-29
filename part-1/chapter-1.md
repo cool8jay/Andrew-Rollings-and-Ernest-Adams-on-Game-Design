@@ -4,7 +4,7 @@ Humans have been devising and playing games for thousands of years. There is hot
 
 Figure 1.1 Go. 图 1.1 围棋。
 
-![](.gitbook/assets/1.1.jpg)
+![](../.gitbook/assets/1.1.jpg)
 
 Game design is the process of:
 
@@ -114,7 +114,7 @@ For the purposes of this book, we have broken down game design into three specif
 
 Figure 1.2. Core mechanics, interactivity, and storytelling. 图 1.2. 核心机制、互动性和故事性。
 
-![](.gitbook/assets/1.2.png)
+![](../.gitbook/assets/1.2.png)
 
 在本书中，我们将游戏设计分为三个具体领域：核心机制、故事讲述和互动性。如图 1.2 所示，每一个领域都是游戏中独特而互补的元素，并且每一个领域都是更大整体的一部分。
 

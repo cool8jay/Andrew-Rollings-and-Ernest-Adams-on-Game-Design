@@ -12,11 +12,11 @@ In this chapter, we discuss some guidelines for constructing compelling stories 
 
 Figure 4.1. The story spectrum. 图 4.1. 故事光谱。
 
-![](.gitbook/assets/4.1.png)
+![](../.gitbook/assets/4.1.png)
 
 Figure 4.2. Luigi's Mansion. 图 4.2. 《路易吉洋楼》。
 
-![](.gitbook/assets/4.2.png)
+![](../.gitbook/assets/4.2.png)
 
 In [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), the story is an important part of the flavor of the game, but aside from acting as a mechanism to allow the player to become more immersed in the game world, it bears no relevance to the actual gameplay. (And by this we mean that the gameplay of Half-Life is virtually identical to that of any other first-person shooter; it's just the story and setting that give it the edge.)
 
@@ -205,7 +205,7 @@ Because foreshadowing is so powerful, it is very commonly used. Often in games t
 
 Figure 4.3. Star Wars: Rogue Squadron II. 图 4.3. 《星球大战：侠盗中队 II》。
 
-![](.gitbook/assets/4.3.jpeg)
+![](../.gitbook/assets/4.3.jpeg)
 
 This foreshadowing is so effective because it contrasts the special world against the ordinary world. This confuses the player, and confusion eases the process of mental suggestion. Players who are susceptible to mental suggestion are easier to immerse in the game. The willing suspension of disbelief that the designer is aiming for becomes that little bit easier to achieve.
 
@@ -225,7 +225,7 @@ We discuss non–story-based methods of creating the bond between the player and
 
 Figure 4.4. American McGee's Alice. 图 4.4. 《爱丽丝梦游魔境》。
 
-![](/.gitbook/assets/4.4.jpg)
+![](../.gitbook/assets/4.4.jpg)
 
 An example is Gordon Freeman's inexperience in his new job. Gordon is a new employee in a top-secret lab. The player can empathize with this. We're pretty sure that the vast majority of [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) players would also feel rather overwhelmed in Gordon's position. The superb introductory sequence amplifies this sense of awe and transmits it to the player. In this way, a bond is created between the player and the avatar.
 
@@ -247,7 +247,7 @@ The call to adventure can take many forms. Infogrames's [Outcast](https://en.wik
 
 Figure 4.5. Outcast. 图4.5. 《时空英豪》。
 
-![](/.gitbook/assets/4.5.jpg)
+![](../.gitbook/assets/4.5.jpg)
 
 The call to adventure is often the catalyst or trigger that initiates the story line. It can take many forms, and we detail some of those here. In a few stories, the hero receives multiple calls. It then becomes the task of the hero to decide how to prioritize these calls—which to answer first or which to reject outright. In some cases, these priorities will already have been decided—or at least hinted at—by the designer.
 
@@ -349,7 +349,7 @@ Midway的[《吃豆人世界》](https://en.wikipedia.org/wiki/Pac-Land)（如�
 
 Figure 4.6. Pac-Land. 图 4.6. 《吃豆人世界》。
 
-![](/.gitbook/assets/4.6.png)
+![](../.gitbook/assets/4.6.png)
 
 When the first threshold of adventure is crossed, there is no turning back. The next phase is entered, and the adventure into the special world truly begins.
 
@@ -433,7 +433,7 @@ Note that nothing says that the reward has to be the same one that the hero set 
 
 Figure 4.7. The ending of Unreal. 图 4.7. 虚幻的结局。
 
-![](/.gitbook/assets/4.7.jpg)
+![](../.gitbook/assets/4.7.jpg)
 
 ### The Road Back 归途
 
@@ -447,7 +447,7 @@ Interplay 的[《辐射》](https://en.wikipedia.org/wiki/Fallout_(video_game))�
 
 Figure 4.8. Fallout. 图 4.8. 《辐射》。
 
-![](/.gitbook/assets/4.8.jpg)
+![](../.gitbook/assets/4.8.jpg)
 
 ### The Resurrection 复活
 
@@ -493,7 +493,7 @@ The hero's journey is often used in a circular story form split into three acts.
 
 Figure 4.9. The circular story form. 图 4.9. 循环故事形式。
 
-![](/.gitbook/assets/4.9.png)
+![](../.gitbook/assets/4.9.png)
 
 Classically, this story form is used in literature and movies. It also applies directly to story-focused games and can be used as a guideline for games in which stories are present but are not the primary focus. Let's discuss the figure in some more detail.
 
@@ -527,7 +527,7 @@ Given a conventional three-act structure in which the long second act is usually
 
 Figure 4.10. Delayed crisis in a three-act story. 图 4.10. 三幕故事中的延迟危机。
 
-![](/.gitbook/assets/4.10.png)
+![](../.gitbook/assets/4.10.png)
 
 That's one approach to plot pacing. The other common one is the central crisis. Here, Act 3 is lengthened so that the ordeal occurs roughly in the middle of the story, giving a symmetrical appearance. This approach allows for the consequences of the ordeal and the claiming of the reward to be expounded upon in more detail. Both halves of the story have equal importance, both pre- and post-ordeal. Often this can be used to give the villain a fighting chance to reclaim the reward and kill the hero, a sort of "just when you thought it was over" approach to the story. This form (shown in Figure 4.11) has not been used much in the games industry so far. This is a shame because it seems a bit naïve to assume that everything turns up rosy after the hero has claimed the reward. As we all know, sometimes that is not the case. For example, E.E. "Doc" Smith used an interesting variant of this in writing his Lensman and Skylark novels.
 
@@ -535,7 +535,7 @@ That's one approach to plot pacing. The other common one is the central crisis. 
 
 Figure 4.11. Central crisis in a three-act story. 图 4.11. 三幕故事中的中心危机。
 
-![](/.gitbook/assets/4.11.png)
+![](../.gitbook/assets/4.11.png)
 
 ## Gameplay and Narrative 游戏性和叙事性
 
@@ -593,15 +593,15 @@ There are three main forms for episodic delivery; these are indicated in Figures
 
 Figure 4.12. An example of series structure. 图 4.12. 系列剧结构的例子。
 
-![](/.gitbook/assets/4.12.png)
+![](../.gitbook/assets/4.12.png)
 
 Figure 4.13. An example of serial structure. 图 4.13. 连续剧结构的例子。
 
-![](/.gitbook/assets/4.13.png)
+![](../.gitbook/assets/4.13.png)
 
 Figure 4.14. An example of episodic delivery structure.  图 4.14. 分集交付结构的例子。
 
-![](/.gitbook/assets/4.14.png)
+![](../.gitbook/assets/4.14.png)
 
 ### Series 系列剧
 

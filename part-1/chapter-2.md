@@ -38,7 +38,7 @@ Books, movies, television, and other entertainment media are a great source of i
 
 Figure 2.1. [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776) was a great game inspired by another medium. 图 2.1. [《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)是一款从另一种媒介中获得灵感的伟大游戏。
 
-![](.gitbook/assets/2.1.jpg)
+![](../.gitbook/assets/2.1.jpg)
 
 You can't, of course, go stealing other people's intellectual property. Even if the Pirates of the Caribbean ride at Disneyland seems like the basis for a great game, you can't go ahead and make it without Disney's approval. But you can certainly make a lighthearted game about pirates—as [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games) did with its [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series.
 
