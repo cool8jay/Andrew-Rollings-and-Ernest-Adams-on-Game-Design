@@ -23,3 +23,9 @@
 * [Chapter 16. Artificial Life, Puzzle Games, and Other Genres 第十六章：人造生命，益智游戏和其它类型](chapter-16.md)
 
 ## Part III: Appendixes 第三部分 附录
+
+* [Appendix A. Sample Design Documents](appendix-a/readme.md)
+	* [Creating and Using Design Documents](appendix-a/creaing-and-using-design-documents.md)
+	* [The High-Concept Document](appendix-a/the-high-concept-document.md)
+	* [The Game Treatment](appendix-a/the-game-treatment.md)
+	* [The Design Script](appendix-a/the-design-script.md)
