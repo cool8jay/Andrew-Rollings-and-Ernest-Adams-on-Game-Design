@@ -13,7 +13,7 @@ All adventure games are conceptual descendants of the original Adventure. Althou
 
 所有冒险游戏都是原始冒险游戏的概念后裔。尽管多年来这一类型的游戏发生了很大变化，但它们都有一些共同的特点：探索、收集或操作物品、解谜，以及减少对战斗和动作元素的强调。这并不意味着冒险游戏中没有冲突（尽管许多冒险游戏都没有冲突），只是说战斗不是主要活动。
 
-## The Original Adventure 原始《冒险》游戏
+## The Original Adventure 最早的《冒险》游戏
 
 Adventure was a text-only game. Its gameplay was simple but—at the time that it was written—completely novel. The player was an explorer, wandering around in an enormous cave filled with treasures and dangers. A variety of obstacles prevented her from getting into the deeper parts of the cave, but by cleverly using the things that she had found, the player could unlock these areas and continue exploring. The object of the game was to gather all the treasures and bring them out of the cave.
 
@@ -25,7 +25,7 @@ Adventure was the first computer game to give the player a real illusion of free
 
 Adventure also brought personality to computer gaming. Most of the games written at the time spoke to the player in a kind of programmerese. They gave prompts such as "Enter horsepower:" and printed error messages such as "Value too high, re-enter (5-500):". Adventure spoke to players as if it were a person rather than a machine, saying "I don't know how to do that" rather than "Invalid command." It could become sarcastic if the player tried to do something ridiculous or impossible, or even be funny occasionally, another rarity among games of its day. Comedy remains a major element of many adventure games because it discourages the player from taking the game too seriously. Breaches in suspension of disbelief don't bother the player as much in a comic setting as they do in a dramatic one because the player is less immersed in the story in the first place.
 
-冒险游戏还为电脑游戏带来了个性。当时的大多数游戏都是用程序语言与玩家对话。它们会给出提示，如“输入马力：”，并打印出错误信息，如“数值太高，请重新输入（5-500）：”。《冒险》与玩家对话时，就好像它是一个人而不是一台机器，它会说“我不知道该怎么做”，而不是“命令无效”。如果玩家试图做一些荒唐或不可能的事情，它还会讽刺玩家，甚至偶尔还会搞笑，这在当时的游戏中也是罕见的。喜剧仍然是许多冒险游戏的主要元素，因为它能阻止玩家过于严肃地对待游戏。在喜剧环境中，对故事信任感的破绽不会像在戏剧环境中那样让玩家感到困扰，因为玩家一开始就没有那么深入地沉浸在故事中。
+冒险游戏还为电脑游戏带来了个性。当时的大多数游戏都是用程序语言与玩家对话。它们会给出提示，如“输入马力：”，并打印出错误信息，如“数值太高，请重新输入（5-500）：”。《冒险》与玩家对话时，就好像它是一个人而不是一台机器，它会说“我不知道该怎么做”，而不是“命令无效”。如果玩家试图做一些荒唐或不可能的事情，它还会讽刺玩家，甚至偶尔还会搞笑，这在当时的游戏中也是罕见的。喜剧仍然是许多冒险游戏的主要元素，因为它能阻止玩家过于严肃地对待游戏。在喜剧环境中，信任感的破绽不会像在戏剧环境中那样让玩家感到困扰，因为玩家一开始就没有那么深入地沉浸在故事中。
 
 ## The Growth of Adventure Games 冒险游戏的发展
 
@@ -39,7 +39,7 @@ The original Adventure didn't have any plot; it just offered a space to explore 
 
 As soon as personal computers began to get graphics capability (the very earliest were text-only), developers began to add graphics to adventure games and the games really took off. LucasArts and Sierra On-Line dominated the genre, and for a while they produced the best-looking, highest-class games on the market: funny, scary, mysterious, and fascinating. Adventure games provided challenges and explored areas that other genres didn't touch. Myst, a point-and-click graphic adventure, was for many years the best-selling personal computer game of all time. (It has recently been supplanted by The Sims.)
 
-当个人电脑开始具备图形功能（最早的电脑只有文字功能）时，开发人员就开始在冒险游戏中加入图形，于是冒险游戏真正开始兴起。LucasArts 和 Sierra On-Line 主导了这一类型的游戏，在一段时间内，他们制作了市场上最漂亮、最高级的游戏：有趣、恐怖、神秘、引人入胜。冒险游戏提供了挑战，探索了其他类型游戏没有涉足的领域。《神秘岛》是一款点击式图形冒险游戏，多年来一直是最畅销的个人电脑游戏。(最近被《模拟人生》取代）。
+当个人电脑开始具备图形功能（最早的电脑只有文字功能）时，开发人员就开始在冒险游戏中加入图形，于是冒险游戏真正开始流行。LucasArts 和 Sierra On-Line 主导了这一类型的游戏，在一段时间内，他们制作了市场上最漂亮、最高级的游戏：有趣、恐怖、神秘、引人入胜。冒险游戏提供了挑战，探索了其他类型游戏没有涉足的领域。《神秘岛》是一款点击式图形冒险游戏，多年来一直是最畅销的个人电脑游戏。(最近被《模拟人生》取代）。
 
 ## Adventure Games Today 当今的冒险游戏
 
