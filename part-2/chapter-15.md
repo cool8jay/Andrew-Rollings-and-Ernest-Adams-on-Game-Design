@@ -1,7 +1,7 @@
 
-The term adventure game is a bit misleading because a lot of games about being adventurous aren't adventure games—and a lot of adventure games aren't about adventures, at least, in the fairy-tale sense of going forth to seek one's fortune. The reason for the odd term is historical. It's really short for Adventure-type game, meaning a game similar to the one named Adventure (although it was sometimes also called Colossal Cave, just to confuse things further).
+The term adventure game is a bit misleading because a lot of games about being adventurous aren't adventure games—and a lot of adventure games aren't about adventures, at least, in the fairy-tale sense of going forth to seek one's fortune. The reason for the odd term is historical. It's really short for Adventure-type game, meaning a game similar to the one named [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (although it was sometimes also called Colossal Cave, just to confuse things further).
 
-冒险游戏这个词有点误导人，因为很多关于冒险的游戏并不是冒险游戏——而且很多冒险游戏也不是关于冒险的，至少不是童话故事中的去寻找财宝。之所以使用这个奇怪的术语，是有其历史原因的。它其实是 冒险类型游戏的简称，意思是与名为《冒险》的游戏类似的游戏（不过有时也叫《巨洞冒险》，这进一步混淆了事实）。
+冒险游戏这个词有点误导人，因为很多关于冒险的游戏并不是冒险游戏——而且很多冒险游戏也不是关于冒险的，至少不是童话故事中的去寻找财宝。之所以使用这个奇怪的术语，是有其历史原因的。它其实是冒险类型游戏的简称，意思是与名为[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)的游戏类似的游戏（不过有时也叫《巨洞冒险》，这进一步混淆了事实）。
 
 # What Is an Adventure Game? 什么是冒险游戏？
 
@@ -15,27 +15,27 @@ All adventure games are conceptual descendants of the original Adventure. Althou
 
 ## The Original Adventure 最早的《冒险》游戏
 
-Adventure was a text-only game. Its gameplay was simple but—at the time that it was written—completely novel. The player was an explorer, wandering around in an enormous cave filled with treasures and dangers. A variety of obstacles prevented her from getting into the deeper parts of the cave, but by cleverly using the things that she had found, the player could unlock these areas and continue exploring. The object of the game was to gather all the treasures and bring them out of the cave.
+[Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) was a text-only game. Its gameplay was simple but—at the time that it was written—completely novel. The player was an explorer, wandering around in an enormous cave filled with treasures and dangers. A variety of obstacles prevented her from getting into the deeper parts of the cave, but by cleverly using the things that she had found, the player could unlock these areas and continue exploring. The object of the game was to gather all the treasures and bring them out of the cave.
 
-《冒险》是一款纯文字游戏。它的玩法简单，但在它出现的时代却非常新颖。玩家是一名探险家，在一个充满宝藏和危险的巨大洞穴中四处游荡。各种障碍阻止她进入洞穴深处，但通过巧妙利用她找到的东西，玩家可以解锁这些区域并继续探索。游戏的目标是收集所有宝藏，并将它们带出山洞。
+[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)是一款纯文字游戏。它的玩法简单，但在它出现的时代却非常新颖。玩家是一名探险家，在一个充满宝藏和危险的巨大洞穴中四处游荡。各种障碍阻止她进入洞穴深处，但通过巧妙利用她找到的东西，玩家可以解锁这些区域并继续探索。游戏的目标是收集所有宝藏，并将它们带出山洞。
 
-Adventure was the first computer game to give the player a real illusion of freedom, and this remains an important quality of adventure games today. Before Adventure, computer games tended to ask specific questions and expect specific, often numeric answers ("How much money do you want to spend this year?"), or to present players with a fixed list of options and ask them to choose one. The player could type anything she wanted in Adventure, and game would try to respond appropriately. Of course, the game understood only a limited number of words, but because it didn't tell the player what they were, she never knew the full scope of what it would allow her to do.
+[Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) was the first computer game to give the player a real illusion of freedom, and this remains an important quality of adventure games today. Before [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), computer games tended to ask specific questions and expect specific, often numeric answers ("How much money do you want to spend this year?"), or to present players with a fixed list of options and ask them to choose one. The player could type anything she wanted in Adventure, and game would try to respond appropriately. Of course, the game understood only a limited number of words, but because it didn't tell the player what they were, she never knew the full scope of what it would allow her to do.
 
-《冒险》是第一款给玩家带来真正自由错觉的电脑游戏，这一点至今仍是冒险游戏的重要品质。在《冒险》之前，电脑游戏往往会提出具体的问题，并要求玩家给出具体的、通常是数字式的答案（“你今年想花多少钱？”），或者向玩家提供一个固定的选项列表，要求玩家选择其中一个。玩家可以在《冒险》中输入任何想要的内容，游戏也会尝试做出适当的回应。当然，游戏只能理解有限的几个单词，但因为游戏不会告诉玩家这些单词是什么，所以玩家永远不知道游戏能让她做什么。
+[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)是第一款给玩家带来真正自由错觉的电脑游戏，这一点至今仍是冒险游戏的重要品质。在《冒险》之前，电脑游戏往往会提出具体的问题，并要求玩家给出具体的、通常是数字式的答案（“你今年想花多少钱？”），或者向玩家提供一个固定的选项列表，要求玩家选择其中一个。玩家可以在[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)中输入任何想要的内容，游戏也会尝试做出适当的回应。当然，游戏只能理解有限的几个单词，但因为游戏不会告诉玩家这些单词是什么，所以玩家永远不知道游戏能让她做什么。
 
-Adventure also brought personality to computer gaming. Most of the games written at the time spoke to the player in a kind of programmerese. They gave prompts such as "Enter horsepower:" and printed error messages such as "Value too high, re-enter (5-500):". Adventure spoke to players as if it were a person rather than a machine, saying "I don't know how to do that" rather than "Invalid command." It could become sarcastic if the player tried to do something ridiculous or impossible, or even be funny occasionally, another rarity among games of its day. Comedy remains a major element of many adventure games because it discourages the player from taking the game too seriously. Breaches in suspension of disbelief don't bother the player as much in a comic setting as they do in a dramatic one because the player is less immersed in the story in the first place.
+Adventure also brought personality to computer gaming. Most of the games written at the time spoke to the player in a kind of programmerese. They gave prompts such as "Enter horsepower:" and printed error messages such as "Value too high, re-enter (5-500):". [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) spoke to players as if it were a person rather than a machine, saying "I don't know how to do that" rather than "Invalid command." It could become sarcastic if the player tried to do something ridiculous or impossible, or even be funny occasionally, another rarity among games of its day. Comedy remains a major element of many adventure games because it discourages the player from taking the game too seriously. Breaches in suspension of disbelief don't bother the player as much in a comic setting as they do in a dramatic one because the player is less immersed in the story in the first place.
 
-冒险游戏还为电脑游戏带来了个性。当时的大多数游戏都是用程序语言与玩家对话。它们会给出提示，如“输入马力：”，并打印出错误信息，如“数值太高，请重新输入（5-500）：”。《冒险》与玩家对话时，就好像它是一个人而不是一台机器，它会说“我不知道该怎么做”，而不是“命令无效”。如果玩家试图做一些荒唐或不可能的事情，它还会讽刺玩家，甚至偶尔还会搞笑，这在当时的游戏中也是罕见的。喜剧仍然是许多冒险游戏的主要元素，因为它能阻止玩家过于严肃地对待游戏。在喜剧环境中，信任感的破绽不会像在戏剧环境中那样让玩家感到困扰，因为玩家一开始就没有那么深入地沉浸在故事中。
+冒险游戏还为电脑游戏带来了个性。当时的大多数游戏都是用程序语言与玩家对话。它们会给出提示，如“输入马力：”，并打印出错误信息，如“数值太高，请重新输入（5-500）：”。[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)与玩家对话时，就好像它是一个人而不是一台机器，它会说“我不知道该怎么做”，而不是“命令无效”。如果玩家试图做一些荒唐或不可能的事情，它还会讽刺玩家，甚至偶尔还会搞笑，这在当时的游戏中也是罕见的。喜剧仍然是许多冒险游戏的主要元素，因为它能阻止玩家过于严肃地对待游戏。在喜剧环境中，信任感的破绽不会像在戏剧环境中那样让玩家感到困扰，因为玩家一开始就没有那么深入地沉浸在故事中。
 
 ## The Growth of Adventure Games 冒险游戏的发展
 
-Adventure games were highly popular in the early days of personal computers. Because they contained no graphics, they were inexpensive to develop and allowed great scope for both the designer's and the player's imaginations. A group of researchers at the MIT Artificial Intelligence Lab, inspired by the original Adventure, wrote a much larger adventure game named Zork on the mainframe there. Soon afterward, they converted it to run on personal computers and founded a company, Infocom, devoted to developing text adventures. Infocom published games about all kinds of things: fantasy magic, film noir detective stories, exploration of an ancient Egyptian pyramid, and so on.
+Adventure games were highly popular in the early days of personal computers. Because they contained no graphics, they were inexpensive to develop and allowed great scope for both the designer's and the player's imaginations. A group of researchers at the MIT Artificial Intelligence Lab, inspired by the original [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), wrote a much larger adventure game named Zork on the mainframe there. Soon afterward, they converted it to run on personal computers and founded a company, Infocom, devoted to developing text adventures. Infocom published games about all kinds of things: fantasy magic, film noir detective stories, exploration of an ancient Egyptian pyramid, and so on.
 
-冒险游戏在个人电脑发展初期非常流行。由于冒险游戏不包含图形，因此开发成本低廉，而且设计者和玩家的想象空间都很大。麻省理工学院人工智能实验室的一组研究人员受到原始《冒险》游戏的启发，在该实验室的大型机上编写了一款规模更大的冒险游戏，名为“Zork”。不久之后，他们将其转换为在个人电脑上运行，并成立了一家名为 Infocom 的公司，专门开发文字冒险游戏。Infocom 出版的游戏内容五花八门：奇幻魔法、黑白电影侦探故事、古埃及金字塔探险等等。
+冒险游戏在个人电脑发展初期非常流行。由于冒险游戏不包含图形，因此开发成本低廉，而且设计者和玩家的想象空间都很大。麻省理工学院人工智能实验室的一组研究人员受到原始[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)游戏的启发，在该实验室的大型机上编写了一款规模更大的冒险游戏，名为“Zork”。不久之后，他们将其转换为在个人电脑上运行，并成立了一家名为 Infocom 的公司，专门开发文字冒险游戏。Infocom 出版的游戏内容五花八门：奇幻魔法、黑白电影侦探故事、古埃及金字塔探险等等。
 
-The original Adventure didn't have any plot; it just offered a space to explore and puzzles to solve. With minor exceptions, its world did not change as time passed. But it wasn't long before games began to explore the notion of "interactive fiction," an ongoing story in which the player was an active participant. Some games were sold along with books that players were supposed to read ahead of time. Of all the branches of computer game design, interactive fiction has been the subject of the most academic research because it challenges traditional conceptions of what narrative is and does.
+The original [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) didn't have any plot; it just offered a space to explore and puzzles to solve. With minor exceptions, its world did not change as time passed. But it wasn't long before games began to explore the notion of "interactive fiction," an ongoing story in which the player was an active participant. Some games were sold along with books that players were supposed to read ahead of time. Of all the branches of computer game design, interactive fiction has been the subject of the most academic research because it challenges traditional conceptions of what narrative is and does.
 
-最初的《冒险》没有任何情节，它只是提供了一个可供探索的空间和可供解决的谜题。除了少数例外情况，它的世界并没有随着时间的流逝而改变。但不久之后，游戏开始探索“互动小说”的概念，即玩家积极参与的持续故事。有些游戏与书籍一起出售，玩家可以提前阅读。在计算机游戏设计的所有分支中，互动小说一直是学术研究最多的主题，因为它挑战了传统的叙事概念。
+最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)没有任何情节，它只是提供了一个可供探索的空间和可供解决的谜题。除了少数例外情况，它的世界并没有随着时间的流逝而改变。但不久之后，游戏开始探索“互动小说”的概念，即玩家积极参与的持续故事。有些游戏与书籍一起出售，玩家可以提前阅读。在计算机游戏设计的所有分支中，互动小说一直是学术研究最多的主题，因为它挑战了传统的叙事概念。
 
 As soon as personal computers began to get graphics capability (the very earliest were text-only), developers began to add graphics to adventure games and the games really took off. LucasArts and Sierra On-Line dominated the genre, and for a while they produced the best-looking, highest-class games on the market: funny, scary, mysterious, and fascinating. Adventure games provided challenges and explored areas that other genres didn't touch. [Myst](https://en.wikipedia.org/wiki/Myst), a point-and-click graphic adventure, was for many years the best-selling personal computer game of all time. (It has recently been supplanted by The Sims.)
 
@@ -105,7 +105,7 @@ Adventure games do not have intricate strategy, high-speed action, or management
 
 All adventure games are avatar-based because the player is being represented by someone who is inside a story. However, the nature of the avatar in adventure games has changed somewhat over the years. Both Adventure and [Myst](https://en.wikipedia.org/wiki/Myst) were careful to avoid ascribing characteristics to the avatar in the game—sex, age, and so on. The avatar wasn't a character with his or her own personal history; it was the player, but because the game didn't know anything about the player, it couldn't depict her or say much about her. A number of later text adventures asked for the player's name and sex when started up, using that information later in the game. They were trying to create the impression that it really was "you" in the game world, and they didn't want to offend players by assuming that they were the wrong sex. In [Myst](https://en.wikipedia.org/wiki/Myst), the world was shown from a first-person perspective, and there were no mirrors in which the player could catch sight of herself.
 
-所有冒险游戏都以化身为基础，因为玩家由故事中的人物所代表。然而，多年来，冒险游戏中化身的性质发生了一些变化。《冒险》和[《神秘岛》](https://en.wikipedia.org/wiki/Myst)都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描画，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是“你”，他们不想因为误判玩家性别而冒犯玩家。在[《神秘岛》](https://en.wikipedia.org/wiki/Myst)中，世界以第一人称视角展现，没有镜子可以让玩家看到自己。
+所有冒险游戏都以化身为基础，因为玩家由故事中的人物所代表。然而，多年来，冒险游戏中化身的性质发生了一些变化。[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))和[《神秘岛》](https://en.wikipedia.org/wiki/Myst)都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描画，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是“你”，他们不想因为误判玩家性别而冒犯玩家。在[《神秘岛》](https://en.wikipedia.org/wiki/Myst)中，世界以第一人称视角展现，没有镜子可以让玩家看到自己。
 
 Eventually, however, game designers began to find this model too limiting. They wanted to develop games in which the avatar was a character with a personality of his own, someone who belonged in the game world rather than being a visitor there. Two good examples of this approach are Sierra On-Line's [Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) series and LucasArts's [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series. In these games, the player could see his avatar walking around interacting with the world. Both Larry and Guybrush Threepwood, the hero of the [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) games, are comic figures, and the games are played primarily for laughs.
 
@@ -119,84 +119,86 @@ There was initially some concern that male players would be unwilling to play fe
 
 The preferred camera perspective of graphic adventure games is changing. The context-sensitive approach is traditional, but third- and first-person games are becoming increasingly common. Here we examine their advantages and disadvantages.
 
-图形冒险游戏的首选摄影视角正在发生变化。上下文相关视角是传统视角，但第三人称和第一人称视角也越来越常见。下面我们就来看看它们的优缺点。
+图形冒险游戏的首选摄影视角正在发生变化。情境感应视角是传统视角，但第三人称和第一人称视角也越来越常见。下面我们就来看看它们的优缺点。
 
 ## Context Sensitive 情境感应
 
-In the context-sensitive perspective, the game depicts the avatar over a (mostly) static background. When the avatar walks through a door or off the edge of the screen, the background changes to depict his new location. In the early days of graphic adventure games, the camera angles tended to be quite dull, as in Figure 15.1, from Leisure Suit Larry in the Land of the Lounge Lizards.
+In the context-sensitive perspective, the game depicts the avatar over a (mostly) static background. When the avatar walks through a door or off the edge of the screen, the background changes to depict his new location. In the early days of graphic adventure games, the camera angles tended to be quite dull, as in Figure 15.1, from [Leisure Suit Larry in the Land of the Lounge Lizards](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards).
 
-在对上下文敏感的视角中，游戏描绘的是一个（大部分）静态背景上的头像。当头像穿过一扇门或离开屏幕边缘时，背景就会发生变化，描绘出他的新位置。在早期的图形冒险游戏中，摄像机的角度往往比较呆板，如图 15.1 所示，它来自《休闲装拉里：休闲蜥蜴之地》（Leisure Suit Larry in the Land of the Lounge Lizards）。
+在情境感应视角中，游戏描绘的是一个（大部分）静态背景上的化身。当化身穿过一扇门或离开屏幕边缘时，背景就会发生变化，描绘出他的新位置。在早期的图形冒险游戏中，摄像机的角度往往比较呆板，如图 15.1 所示，它来自[《情圣拉瑞：拉瑞在花花公子岛》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards)。
 
-Figure 15.1. A scene in the original Leisure Suit Larry. 图 15.1. 原版《Leisure Suit Larry》中的一个场景。
+Figure 15.1. A scene in the original Leisure Suit Larry. 图 15.1. 初代版《情圣拉瑞》中的一个场景。
 
 ![](../.gitbook/assets/15.1.png)
 
-As display hardware improved, game development began to require more artists and the quality of the artwork improved considerably. The game's art director chose a camera position designed to show off each location to best effect. Compare Figure 15.1 with Figure 15.2 from Grim Fandango.
+As display hardware improved, game development began to require more artists and the quality of the artwork improved considerably. The game's art director chose a camera position designed to show off each location to best effect. Compare Figure 15.1 with Figure 15.2 from [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango).
 
-随着显示硬件的改进，游戏开发开始需要更多的美术师，美术质量也大大提高。游戏的艺术总监选择了一个摄像机位置，目的是将每个地点的效果展现得淋漓尽致。将图 15.1 与《Grim Fandango》中的图 15.2 进行比较。
+随着显示硬件的改进，游戏开发开始需要更多的美术师，美术质量也大大提高。游戏的艺术总监选择了一个摄像机位置，目的是将每个地点的效果展现得淋漓尽致。将图 15.1 与[《冥界狂想曲》](https://en.wikipedia.org/wiki/Grim_Fandango)中的图 15.2 进行比较。
 
-Figure 15.2. A scene in Grim Fandango. Note the camera position. 图 15.2. 《Grim Fandango》中的一个场景。注意摄像机的位置。
+Figure 15.2. A scene in Grim Fandango. Note the camera position. 图 15.2. 《冥界狂想曲》中的一个场景。注意摄像机的位置。
 
 ![](../.gitbook/assets/15.2.png)
 
 A context-sensitive perspective lets the designer (or art director) play cinematographer, using camera angles, composition, and lighting to enhance the story. Use these techniques with discretion, however. A light touch is best. If you watch movies closely, you'll notice that the majority of shots are pretty straightforward. Movie directors don't use unexpected angles just for the fun of it; they do so to make a deliberate point.
 
-上下文相关视角让设计师（或艺术总监）扮演电影摄影师的角色，利用摄像机角度、构图和照明来烘托故事情节。不过，要谨慎使用这些技巧。最好是轻描淡写。如果你仔细观察电影，你会发现大多数镜头都非常直白。电影导演不会为了好玩而使用意想不到的角度，他们这样做是为了表达一个深思熟虑的观点。
+情境感应视角让设计师（或艺术总监）扮演电影摄影师的角色，利用摄像机角度、构图和照明来烘托故事情节。不过，要谨慎使用这些技巧。最好是轻描淡写。如果你仔细观察电影，你会发现大多数镜头都非常直白。电影导演不会为了好玩而使用意想不到的角度，他们一旦这样做一定是别有用意。
 
 ## First Person 第一人称
 
-One of the most famous graphic adventure games of all, [Myst](https://en.wikipedia.org/wiki/Myst), used a first-person perspective. The player's avatar was not seen; in fact, like the earliest text adventures, the player didn't really have an avatar in the sense of a character who belonged in the story. Instead, it was the player himself who was in the game world. Unlike first-person shooters, however, Myst did not render a three-dimensional game world in real time. The game world consisted of a large number of prerendered still frames, which it showed one at a time as the player walked around. Being prerendered, these stills were finely detailed and highly atmospheric. On the other hand, they couldn't depict continuously moving objects or changes in the sunlight as time passed, and the player couldn't look at things from any angle. The world was rich but static.
+One of the most famous graphic adventure games of all, [Myst](https://en.wikipedia.org/wiki/Myst), used a first-person perspective. The player's avatar was not seen; in fact, like the earliest text adventures, the player didn't really have an avatar in the sense of a character who belonged in the story. Instead, it was the player himself who was in the game world. Unlike first-person shooters, however, [Myst](https://en.wikipedia.org/wiki/Myst) did not render a three-dimensional game world in real time. The game world consisted of a large number of prerendered still frames, which it showed one at a time as the player walked around. Being prerendered, these stills were finely detailed and highly atmospheric. On the other hand, they couldn't depict continuously moving objects or changes in the sunlight as time passed, and the player couldn't look at things from any angle. The world was rich but static.
 
-最著名的图形冒险游戏之一[《神秘岛》](https://en.wikipedia.org/wiki/Myst)采用第一人称视角。游戏中看不到玩家的化身；事实上，与最早的文字冒险游戏一样，玩家并没有真正意义上的化身，也就是故事中的角色。相反，玩家自己才是游戏世界的主角。不过，与第一人称射击游戏不同的是，《Myst》并没有实时呈现三维游戏世界。游戏世界由大量预先渲染好的静止画面组成，当玩家在游戏中行走时，这些画面就会一帧一帧地显示出来。由于是预渲染，这些静态画面细节细腻，氛围浓厚。但另一方面，它们无法描绘持续移动的物体或随着时间流逝阳光的变化，玩家也无法从任何角度观察事物。世界是丰富的，但也是静态的。
+最著名的图形冒险游戏之一[《神秘岛》](https://en.wikipedia.org/wiki/Myst)采用第一人称视角。游戏中看不到玩家的化身；事实上，与最早的文字冒险游戏一样，玩家并没有真正意义上的化身，也就是故事中的角色。相反，玩家自己才是游戏世界的主角。不过，与第一人称射击游戏不同的是，[《神秘岛》](https://en.wikipedia.org/wiki/Myst)并没有实时呈现三维游戏世界。游戏世界由大量预渲染的静止画面组成，当玩家在游戏中行走时，这些画面就会一帧一帧地显示出来。由于是预渲染，这些静态画面细节细腻，氛围浓厚。但另一方面，它们无法描绘持续运动的物体或随着时间流逝阳光的变化，玩家也无法从任意角度观察事物。世界是丰富的，但也是静态的。
 
 A real-time 3D first-person perspective gives the player the best sense of being in the world himself, but it doesn't let the player see his avatar unless the game has a functioning reflective surface in it. It also tends to encourage a more action-oriented approach to playing the game, running around without paying much attention to the surroundings. Finally, 3D hardware is still not advanced enough to render extremely detailed scenes (a room crammed with hundreds of complex objects, for example) in real time.
 
-实时三维第一人称视角能让玩家有身临其境的最佳感觉，但除非游戏中有一个正常的反射面，否则玩家无法看到自己的化身。此外，这种视角往往会鼓励玩家在玩游戏时更注重动作，四处奔跑而不太注意周围的环境。最后，3D 硬件仍然不够先进，无法实时渲染极其精细的场景（例如，一个挤满数百个复杂物体的房间）。
+实时三维第一人称视角能让玩家有身临其境的最佳感觉，但除非游戏中有一个可以用的反射面，否则玩家无法看到自己的化身。此外，这种视角往往会鼓励玩家在玩游戏时更注重动作，四处奔跑而不太注意周围的环境。最后，3D 硬件仍然不够先进，无法实时渲染极其精细的场景（例如，一个挤满数百个复杂物体的房间）。
 
 ## Third Person 第三人称
 
-The third-person perspective keeps the player's avatar constantly in view, as in [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine) or in action games such as Mario 64. This perspective is common for action-adventures in which the player might need to react quickly (see Figure 15.3).
+The third-person perspective keeps the player's avatar constantly in view, as in [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine) or in action games such as [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). This perspective is common for action-adventures in which the player might need to react quickly (see Figure 15.3).
 
-第三人称视角让玩家的头像始终保持在视野中，如《夺宝奇兵与无间道》或《马里奥 64》等动作游戏。这种视角常见于玩家需要做出快速反应的动作冒险游戏中（见图 15.3）。
+第三人称视角让玩家的化身始终保持在视野中，如[《印第安纳·琼斯与恶魔机器》](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)或[《超级马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)等动作游戏。这种视角常见于玩家需要做出快速反应的动作冒险游戏中（见图 15.3）。
 
-Figure 15.3. Indiana Jones and the Infernal Machine. This is the typical action-adventure perspective. 图 15.3. 《夺宝奇兵与无间道》。这是典型的动作冒险视角。
+Figure 15.3. Indiana Jones and the Infernal Machine. This is the typical action-adventure perspective. 图 15.3. 《印第安纳·琼斯与恶魔机器》。这是典型的动作冒险视角。
 
 ![](../.gitbook/assets/15.3.png)
 
-If the third-person perspective always remains behind the avatar's back, however, the view gets rather dull and doesn't let the player really appreciate the environment. And unlike pure action games in which the avatar's actions and motivations are simple, adventure games sometimes need camera perspectives that allow for more subtle situations. In Figure 15.4, from Gabriel Knight 3, Gabriel is hiding and watching to see when the maid is going to leave the room.
+If the third-person perspective always remains behind the avatar's back, however, the view gets rather dull and doesn't let the player really appreciate the environment. And unlike pure action games in which the avatar's actions and motivations are simple, adventure games sometimes need camera perspectives that allow for more subtle situations. In Figure 15.4, from [Gabriel Knight 3](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)
+, Gabriel is hiding and watching to see when the maid is going to leave the room.
 
-然而，如果第三人称视角始终保持在化身的背后，视角就会变得相当沉闷，无法让玩家真正欣赏环境。在纯动作游戏中，虚拟人物的行动和动机都很简单，而冒险游戏则不同，有时需要用摄像机视角来呈现更微妙的情况。图 15.4 来自《加百利骑士 3》，加百利躲在一旁观察女仆何时离开房间。
+然而，如果第三人称视角始终保持在化身的背后，视角就会变得相当沉闷，无法让玩家真正欣赏环境。在纯动作游戏中，虚拟人物的行动和动机都很简单，而冒险游戏则不同，有时需要用摄像机视角来呈现更微妙的情况。图 15.4 来自[《狩魔猎人三》](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)，加布里埃尔躲在一旁观察女仆何时离开房间。
 
-Figure 15.4. Gabriel Knight 3 in a context-sensitive camera angle. 图 15.4. 加百利骑士 3》中的上下文相关摄像机视角。
+Figure 15.4. Gabriel Knight 3 in a context-sensitive camera angle. 图 15.4. 《狩魔猎人三》中的情境感应摄像机视角。
 
 ![](../.gitbook/assets/15.4.png)
 
-The later Gabriel Knight games also allowed the player to move the camera around somewhat—as do some of the better action games, such as Spyro the Dragon and Toy Story (see Figure 15.5). This mimics how a real person can turn his head to look in a given direction without moving his whole body.
-后来的《加布里埃尔骑士》游戏也允许玩家在一定程度上移动镜头--一些更好的动作游戏也是如此，如《龙之斯派洛》和《玩具总动员》（见图 15.5）。这模仿了真人在不移动整个身体的情况下转头看指定方向的动作。
+The later [Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) games also allowed the player to move the camera around somewhat—as do some of the better action games, such as [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon) and [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game)) (see Figure 15.5). This mimics how a real person can turn his head to look in a given direction without moving his whole body.
+
+后来的[《狩魔猎人》](https://en.wikipedia.org/wiki/Gabriel_Knight)游戏也允许玩家在一定程度上移动镜头--一些更好的动作游戏也是如此，如[《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)和[《玩具总动员》](https://en.wikipedia.org/wiki/Toy_Story_(video_game))（见图 15.5）。这模仿了真人在不移动整个身体的情况下转头看指定方向的动作。
 
 Figure 15.5. Gabriel Knight as seen from a player-adjusted camera position. The Volkswagen would not be visible if the camera were behind him.
 
-图 15.5. 从玩家调整后的摄像机位置看到的《加百利骑士》。如果摄像机在他身后，则无法看到大众汽车。
+图 15.5. 从玩家调整后的摄像机位置看到的《狩魔猎人》。如果摄像机在他身后，则无法看到大众汽车。
 
 ![](../.gitbook/assets/15.5.png)
 
-> **Case Study: The Secret of Monkey Island 案例研究： 猴岛的秘密**
+> **Case Study: The Secret of Monkey Island 案例研究：猴岛的秘密**
 > 
 > The Secret of Monkey Island is more than 10 years old now, but it's worth studying because it spawned a highly successful franchise with three more games to date. Although it was ostensibly set on a Caribbean island in the 1700s and was about a young man who wanted to be a pirate, it was full of anachronistic touches and was played for laughs. In that respect, it seemed a lot like certain Disney animated films—The Jungle Book, for example—although slightly edgier.
 > 
-> 猴岛的秘密》（The Secret of Monkey Island）距今已有 10 多年的历史，但它仍值得研究，因为它催生了一个非常成功的系列，至今又推出了三款游戏。虽然《猴岛的秘密》表面上是以 1700 年代的加勒比海岛为背景，讲述的是一个想当海盗的年轻人的故事，但其中充满了不合时宜的元素，而且还充满了笑料。在这方面，它似乎很像迪斯尼的某些动画片--比如《丛林之书》--虽然略显前卫。
+> 《猴岛的秘密》距今已有 10 多年的历史，但它仍值得研究，因为它催生了一个非常成功的系列，至今又推出了三款游戏。虽然《猴岛的秘密》表面上是以 1700 年代的加勒比海岛为背景，讲述的是一个想当海盗的年轻人的故事，但其中充满了不合时宜的元素，而且还充满了笑料。在这方面，它似乎很像迪斯尼的某些动画片--比如《丛林之书》——虽然略显前卫。
 > 
 > When Ron Gilbert, the designer of The Secret of Monkey Island, started work on the game, he had already created an adventure game engine called SCUMM. SCUMM stood for Script Creation Utility for Maniac Mansion (an earlier LucasArts adventure game). SCUMM was an important innovation for graphic adventure games: It put the verbs on the screen so players no longer had to guess what their options were, and it did away with typing. More important for the developers, it enabled them to create new adventure games easily, without programming them from scratch each time. Three of the five Monkey Island games were made with SCUMM, as well as Maniac Mansion itself and several other LucasArts games.
 > 
-> 当《猴岛的秘密》的设计师罗恩-吉尔伯特开始制作这款游戏时，他已经创建了一个名为 SCUMM 的冒险游戏引擎。SCUMM 是为 Maniac Mansion（卢卡斯公司早期的一款冒险游戏）设计的脚本创建工具。SCUMM 是图形冒险游戏的一项重要创新： 它将动词显示在屏幕上，这样玩家就不必再猜测他们的选项是什么了，而且还免去了打字的麻烦。对开发者来说，更重要的是，它使他们能够轻松创建新的冒险游戏，而不必每次都从头开始编程。五款《猴岛》游戏中有三款是用 SCUMM 制作的，《疯狂动物城》和其他几款 LucasArts 游戏也是如此。
+> 当《猴岛的秘密》的设计师罗恩·吉尔伯特开始制作这款游戏时，他已经创建了一个名为 SCUMM 的冒险游戏引擎。SCUMM 是为 Maniac Mansion（卢卡斯公司早期的一款冒险游戏）设计的脚本创建工具。SCUMM 是图形冒险游戏的一项重要创新：它将动词显示在屏幕上，这样玩家就不必再猜测他们的选项是什么了，而且还免去了打字的麻烦。对开发者来说，更重要的是，它使他们能够轻松创建新的冒险游戏，而不必每次都从头开始编程。五款《猴岛小英雄》游戏中有三款是用 SCUMM 制作的，《疯狂动物城》和其他几款 LucasArts 游戏也是如此。
 > 
 > The Secret of Monkey Island included a number of other innovations as well, most notably an insult-driven sword fight. This was a fight between the avatar, Guybrush Threepwood, and a master swordswoman. Rather than making the fight a physical challenge, which would have required a lot of additional programming and would have turned off some players, Gilbert chose to make use of (and make fun of) the way adversaries always insult one another in old swashbuckling movies. When your adversary insults you, you must choose an appropriate comeback quip. If you do, Guybrush advances in the fight; if you choose the wrong one, he is forced to retreat. If you make enough correct quips in a row, Guybrush wins the fight. The insults themselves contain cues as to which reply is correct, so you don't have to find out by trial and error.
 > 
-> 《猴岛的秘密》中还有许多其他创新，其中最引人注目的是一场由侮辱驱动的剑斗。这是一场化身 Guybrush Threepwood 与女剑士之间的战斗。吉尔伯特并没有让这场格斗成为一项体力挑战，因为这需要大量的额外编程，而且会让一些玩家反感，他选择利用（并取笑）老式剑斗电影中对手之间相互侮辱的方式。当你的对手侮辱你时，你必须选择一个适当的反击调侃。如果你选择了，Guybrush 就会在战斗中前进；如果你选择了错误的，他就会被迫后退。如果你连续说出足够多的正确调侃，Guybrush 就会赢得比赛。辱骂本身就包含了正确回答的提示，因此您不必通过反复试验来找出答案。
+> 《猴岛的秘密》中还有许多其他创新，其中最引人注目的是一场由侮辱驱动的剑斗。这是一场化身盖布拉许‧崔普伍德与女剑王之间的战斗。吉尔伯特并没有让这场格斗成为一项体力挑战，因为这需要大量的额外编程，而且会让一些玩家反感，他选择利用（并取笑）老式剑斗电影中对手之间相互侮辱的方式。当你的对手侮辱你时，你必须选择一个适当的反击调侃。如果你选择了，盖布拉许就会在战斗中前进；如果你选择了错误的，他就会被迫后退。如果你连续说出足够多的正确调侃，盖布拉许就会赢得比赛。辱骂本身就包含了正确回答的提示，因此您不必通过反复试验来找出答案。
 > 
 > It's this kind of humorous lateral thinking that separates great adventure games from merely good ones. The Monkey Island series belongs among the greats.
 > 
-> 正是这种幽默的横向思维将优秀的冒险游戏与一般的游戏区分开来。猴岛》系列就是其中的佼佼者。
+> 正是这种幽默的横向思维将优秀的冒险游戏与一般的游戏区分开来。《猴岛小英雄》系列就是其中的佼佼者。
 
 ## Player Roles 玩家角色
 
@@ -220,7 +222,7 @@ Adventure games typically have only one gameplay mode. Unlike sports games, with
 
 What adventure games do have, however, is a story structure: a relationship between different locations in the world and different parts of the story. Over the years, this has evolved. The earliest adventure games, including the original Adventure, mostly emphasized exploration rather than allowing the player to participate in a narrative of some kind. The player perceived little sense of time passing—that is, of making progress through a story toward an ending. The game simply gave her a large space and told her to wander around in it. Structurally, it looked rather like the drawing in Figure 15.6.
 
-然而，冒险游戏所具有的是一种故事结构：世界中不同地点与故事不同部分之间的关系。多年来，这种关系不断演变。最早的冒险游戏，包括最初的《冒险》，大多强调探索，而不是让玩家参与某种叙事。玩家几乎感觉不到时间的流逝，也就是感觉不到通过故事走向结局。游戏只是给了她一个大空间，让她在里面四处游荡。从结构上看，它很像图 15.6 中的图画。
+然而，冒险游戏所具有的是一种故事结构：世界中不同地点与故事不同部分之间的关系。多年来，这种关系不断演变。最早的冒险游戏，包括最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))，大多强调探索，而不是让玩家参与某种叙事。玩家几乎感觉不到时间的流逝，也就是感觉不到通过故事走向结局。游戏只是给了她一个大空间，让她在里面四处游荡。从结构上看，它很像图 15.6 中的图画。
 
 Figure 15.6. The structure of early adventure games. Each circle represents a room. S is the starting room, and E is the end. 图 15.6. 早期冒险游戏的结构。每个圆圈代表一个房间。S 代表起始房间，E 代表终点。
 
@@ -292,7 +294,7 @@ The works of Joseph Campbell and Christopher Vogler discuss the heroic quest at 
 
 For many years, game designers have debated the question of whether adventure games should allow the avatar to do something that kills him. Some adventure games have proudly noted on their boxes that you can't ever die; others have warnings in the manual that you might encounter dangerous situations. In some respects, this seems like a strange thing to worry about. After all, avatars routinely die in action games and get shot down in flight simulators, so why shouldn't they be able to die in adventure games?
 
-多年来，游戏设计师们一直在争论这样一个问题：冒险游戏是否应该允许虚拟人物做一些会杀死他的事情。一些冒险游戏在包装盒上骄傲地写着 “你永远不会死”；另一些冒险游戏则在手册中警告玩家可能会遇到危险情况。从某些方面来说，这种担心似乎很奇怪。毕竟，头像在动作游戏中经常死亡，在飞行模拟器中经常被击落，为什么在冒险游戏中就不能死亡呢？
+多年来，游戏设计师们一直在争论这样一个问题：冒险游戏是否应该允许虚拟人物做一些会杀死他的事情。一些冒险游戏在包装盒上骄傲地写着 “你永远不会死”；另一些冒险游戏则在手册中警告玩家可能会遇到危险情况。从某些方面来说，这种担心似乎很奇怪。毕竟，化身在动作游戏中经常死亡，在飞行模拟器中经常被击落，为什么在冒险游戏中就不能死亡呢？
 
 The reason has to do with the nature of the gameplay. In a first-person shooter or a military flight simulator, it's obvious that the avatar is in mortal peril all the time. In fact, in most genres of games, it's win or lose, kill or be killed, and the enemies are clearly marked. Adventure games are different because they seldom have an explicitly declared enemy and the player is encouraged to go everywhere and touch everything. If you tell the player to explore the world and then you fill it with deathtraps, he's in for a frustrating time. Nowadays, most adventure games adopt a "fair warning" approach, making it clear when something is dangerous and (usually) offering a way of neutralizing or circumventing the danger. If you put a dragon in a cave, it's a nice touch to litter the entrance with the bones of earlier adventurers. That ought to get the point across.
 
@@ -362,7 +364,7 @@ Adventure games, more than most other genres, try to hide the fact that the play
 
 The movement interface that you design depends considerably on the perspective you choose. In first-person and third-person perspectives, the player needs a way of steering her avatar around the world, as in an action game. We suggest that you look at [Chapter 9](/part-2/chapter-9.md), "Action Games," for a discussion of avatar movement in first- and third-person perspectives.
 
-你所设计的移动界面在很大程度上取决于你所选择的视角。在第一人称和第三人称视角中，玩家需要一种方法来引导她的头像在世界中移动，就像在动作游戏中一样。建议阅读[第九章](/part-2/chapter-9.md)“动作游戏”，了解第一人称和第三人称视角下的头像移动。
+你所设计的移动界面在很大程度上取决于你所选择的视角。在第一人称和第三人称视角中，玩家需要一种方法来引导她的化身在世界中移动，就像在动作游戏中一样。建议阅读[第九章](/part-2/chapter-9.md)“动作游戏”，了解第一人称和第三人称视角下的化身移动。
 
 In a context-sensitive perspective, there are two common user interfaces: point-and-click and direct control.
 
@@ -372,7 +374,7 @@ In a context-sensitive perspective, there are two common user interfaces: point-
 
 In this user interface, the player clicks somewhere on the screen. If the corresponding location in the game is accessible, the avatar walks to it. If the player clicks an active object, the avatar walks to it and picks it up or manipulates it in an appropriate way. Object management is discussed more extensively in the "Manipulating Objects" section later in this chapter. The disadvantage of point-and-click is that the player can easily point to areas that aren't accessible to the avatar (halfway up a wall, for example), and sometimes an area that looks as if it should be perfectly accessible isn't. This can be frustrating for the player. Nevertheless, the point-and-click interface is the de facto standard for adventure games.
 
-在这种用户界面中，玩家点击屏幕上的某处。如果可以到达游戏中的相应位置，头像就会走到那里。如果玩家点击了一个活动物体，化身就会走到该物体前，并以适当的方式拾取或操作该物体。本章后面的 “操作物体 ”部分将对物体管理进行更广泛的讨论。点选式操作的缺点是玩家很容易指向化身无法到达的区域（例如墙壁的一半），有时看起来似乎完全可以到达的区域却无法到达。这可能会让玩家感到沮丧。尽管如此，点击式界面仍然是冒险游戏的事实标准。
+在这种用户界面中，玩家点击屏幕上的某处。如果可以到达游戏中的相应位置，化身就会走到那里。如果玩家点击了一个活动物体，化身就会走到该物体前，并以适当的方式拾取或操作该物体。本章后面的 “操作物体 ”部分将对物体管理进行更广泛的讨论。点选式操作的缺点是玩家很容易指向化身无法到达的区域（例如墙壁的一半），有时看起来似乎完全可以到达的区域却无法到达。这可能会让玩家感到沮丧。尽管如此，点击式界面仍然是冒险游戏的事实标准。
 
 ### Direct Control Interfaces 直接控制界面
 
@@ -384,7 +386,7 @@ In a direct control user interface, the player's commands say "Walk in this dire
 
 No matter what perspective or user interface you choose, we strongly suggest that you implement both a "walk" and a "run" movement mode so the player can move slowly through unfamiliar spaces and quickly through familiar ones. If the game requires the player to move repeatedly through areas he already knows well, it gets very boring to watch the avatar walk deliberately from place to place. On the other hand, if your world is rich and detailed and your game expects the player to examine everything closely for clues, the user interface must make it possible to move around slowly and accurately.
 
-无论您选择哪种视角或用户界面，我们都强烈建议您同时采用 “走 ”和 “跑 ”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着头像从一个地方故意走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切以寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
+无论您选择哪种视角或用户界面，我们都强烈建议您同时采用 “走 ”和 “跑 ”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着化身从一个地方故意走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切以寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
 
 ## Manipulating Objects 操作物体
 
@@ -433,7 +435,7 @@ Focus-of-attention highlighting. This mechanism is typically used with hand held
 
 In a graphic adventure game played with a handheld controller, designers often assign one button of the controller to a generic "use" or "manipulate" function: The player moves the avatar near the object and presses the "use" button for obvious functions such as opening a door or throwing a switch. The player can always count on the button to do the right thing with an object, whatever that might be. Some mouse-based games use a similar mechanism: Clicking an object does something appropriate with it. This makes the game very easy to play because there's no guessing about what you should do. The disadvantage of this system is that there can be only one action per object, so it doesn't allow the designer to challenge the player's lateral thinking.
 
-在使用手持控制器的图形冒险游戏中，设计者通常会将控制器上的一个按钮指定为通用的 “使用 ”或 “操作 ”功能： 玩家将头像移动到物体附近，然后按下 “使用 ”按钮来实现开门或开关等显而易见的功能。玩家总是可以依靠这个按钮对物体做出正确的操作，不管是什么。一些基于鼠标的游戏也使用类似的机制： 点击一个物体，它就会做出相应的动作。这让游戏变得非常容易上手，因为不用猜测你应该做什么。这种系统的缺点是每个物体只能有一个动作，因此设计者无法挑战玩家的横向思维。
+在使用手持控制器的图形冒险游戏中，设计者通常会将控制器上的一个按钮指定为通用的 “使用 ”或 “操作 ”功能：玩家将化身移动到物体附近，然后按下 “使用 ”按钮来实现开门或开关等显而易见的功能。玩家总是可以依靠这个按钮对物体做出正确的操作，不管是什么。一些基于鼠标的游戏也使用类似的机制：点击一个物体，它就会做出相应的动作。这让游戏变得非常容易上手，因为不用猜测你应该做什么。这种系统的缺点是每个物体只能有一个动作，因此设计者无法挑战玩家的横向思维。
 
 ### Menu-Driven Actions 菜单驱动的操作
 
@@ -467,7 +469,7 @@ Inventory management is something the player will need to do frequently, so you 
 
 The more common solution is to give the player an inventory menu that she can open and close on demand. She should be able to do this with a single keystroke or button click. It should not obscure the whole screen—that feels like a mode change and tends to destroy suspension of disbelief. Instead, the box, bag, or whatever the inventory looks like should allow the player to drag objects in and out of it, from the game world to the inventory, and vice versa, quickly and efficiently. The Longest Journey included shortcut keys that allowed players to change the object currently being held in the avatar's hand without opening the inventory box, which was very convenient. Managing the inventory this way also means that you won't have to create animations of the avatar picking up and dropping every possible item in the game. Asheron's Call, an online RPG, includes "pick up" and "drop" animations, but they don't actually show the object in the avatar's hand.
 
-更常见的解决方案是为玩家提供一个可按需打开和关闭的库存菜单。玩家只需敲击一下键盘或点击一下按钮就能完成操作。它不应该遮住整个屏幕--那感觉就像是模式转换，容易破坏悬浮感。取而代之的是，不管是盒子、袋子还是其他什么样子的库存，都应该让玩家能够快速有效地将物品拖进拖出，从游戏世界拖到库存，反之亦然。最长的旅程》中的快捷键可以让玩家在不打开库存箱的情况下改变头像手中当前拿着的物品，非常方便。用这种方式管理库存还意味着你不必制作动画，让头像在游戏中拿起和放下每一件可能的物品。在线 RPG 游戏《Asheron's Call》中就有 “拿起 ”和 “放下 ”的动画，但这些动画实际上并不显示在化身手中的物品。
+更常见的解决方案是为玩家提供一个可按需打开和关闭的库存菜单。玩家只需敲击一下键盘或点击一下按钮就能完成操作。它不应该遮住整个屏幕--那感觉就像是模式转换，容易破坏悬浮感。取而代之的是，不管是盒子、袋子还是其他什么样子的库存，都应该让玩家能够快速有效地将物品拖进拖出，从游戏世界拖到库存，反之亦然。最长的旅程》中的快捷键可以让玩家在不打开库存箱的情况下改变化身手中当前拿着的物品，非常方便。用这种方式管理库存还意味着你不必制作动画，让化身在游戏中拿起和放下每一件可能的物品。在线 RPG 游戏《Asheron's Call》中就有 “拿起 ”和 “放下 ”的动画，但这些动画实际上并不显示在化身手中的物品。
 
 One design error to avoid in adventure games is requiring the player to pick up every thing she sees. Early adventure games listed the "live" objects in a room separately from the room's description, and there was a common tendency to give every object in a game a particular function. This meant that players had to pick up everything they could, often carrying it around for hours without having any idea what it was for. With the advent of 3D-modeled objects, everything in the whole world is (theoretically) available for the player to pick up.
 
@@ -491,7 +493,7 @@ The following special considerations apply especially to adventure games, althou
 
 From the original Adventure onward, adventure games have always faced the problem of how to create realistic NPCs in the game world. RPGs have this problem, too, but in most of them, the NPC's conversation is defined by the role to which he's assigned: blacksmith, healer, tavern keeper, and so on. The player doesn't expect to be able to discuss arms and armor with a tavern keeper (although the games might be more interesting, and certainly less formulaic, if he could). But because adventure games are interactive stories, players expect the characters in them to be more human and less mechanical.
 
-从最初的《冒险》开始，冒险游戏就一直面临着如何在游戏世界中创造真实的 NPC 的问题。RPG 游戏也有这个问题，但在大多数 RPG 游戏中，NPC 的对话是由他所扮演的角色决定的：铁匠、治疗师、酒馆老板等等。玩家并不指望能与酒馆老板讨论武器和盔甲（尽管如果能这样的话，游戏可能会更有趣，当然也不会那么公式化）。但由于冒险游戏是互动故事，玩家希望游戏中的角色更人性化，而不是机械化。
+从最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))开始，冒险游戏就一直面临着如何在游戏世界中创造真实的 NPC 的问题。RPG 游戏也有这个问题，但在大多数 RPG 游戏中，NPC 的对话是由他所扮演的角色决定的：铁匠、治疗师、酒馆老板等等。玩家并不指望能与酒馆老板讨论武器和盔甲（尽管如果能这样的话，游戏可能会更有趣，当然也不会那么公式化）。但由于冒险游戏是互动故事，玩家希望游戏中的角色更人性化，而不是机械化。
 
 A good many games have tried to sidestep the problem entirely by setting the game in a world where there are extremely few people or none at all. This certainly creates a mysterious atmosphere, but it's suitable only for a limited range of stories. Imagine how Rick's bar in Casablanca would feel if it weren't full of people drinking and gambling. A world with no people in it is artificial and sterile.
 
@@ -515,7 +517,7 @@ Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15
 
 Although the scripted conversation forces the player to say only the things in the script, it does produce natural-sounding conversations, in which the sequence of remarks and replies is plausible. It also gives you, the designer, a way to illustrate both the avatar's and the NPC's character through something other than their appearances. You can write their lines in such a way that you give them distinct personalities of their own. For example, Guybrush Threepwood, the hero of the Monkey Island games, is a wise guy type who seldom takes anything seriously. The character's vocabulary, grammar, dialect, and—if the game has recorded audio of the conversation—tone of voice and accent are all important cues.
 
-虽然脚本对话迫使玩家只能说脚本中的内容，但它确实能产生听起来自然的对话，其中的发言和回答顺序都是可信的。它还为设计者提供了一种方法，让你可以通过化身和 NPC 的外表以外的东西来说明他们的性格。你可以在编写台词时赋予他们自己鲜明的个性。例如，《猴岛》游戏的主人公 Guybrush Threepwood 是一个聪明人，他很少认真对待任何事情。角色的词汇、语法、方言以及（如果游戏录制了对话音频）语音语调和口音都是重要的线索。
+虽然脚本对话迫使玩家只能说脚本中的内容，但它确实能产生听起来自然的对话，其中的发言和回答顺序都是可信的。它还为设计者提供了一种方法，让你可以通过化身和 NPC 的外表以外的东西来说明他们的性格。你可以在编写台词时赋予他们自己鲜明的个性。例如，《猴岛小英雄》游戏的主人公盖布拉许‧崔普伍德是一个聪明人，他很少认真对待任何事情。角色的词汇、语法、方言以及（如果游戏录制了对话音频）语音语调和口音都是重要的线索。
 
 In addition to letting the player discuss a variety of topics with a given NPC, the menu system allows the player to choose a variety of different attitudes in which she says the same thing: aggressive, deferential, formal, or flippant, for example. The NPC can then respond to each of these in whatever way his character dictates. For example, a powerful character who brooks no nonsense might be offended by wisecracks and refuse to talk to the player anymore. (If you do this and the NPC's information is vital to the plot, make sure that either the NPC gets over his snit after a while or there's some other way for the player to obtain the information.)
 
@@ -559,7 +561,7 @@ As adventure games have evolved, their designers have created many different kin
 
 If you give the player a puzzle that has a fixed number of possible solutions of equal probability (in effect, a combination lock), but no hints about which one is right, then the player simply has to try them all. The Infocom text adventure Infidel included a puzzle like this: Four statues of Egyptian goddesses had to be lined up in the correct order, but there were no clues about what it might be. The player simply had to try all 24 possible combinations and keep track of the ones she had already done. There's not much fun in that.
 
-如果给玩家一个谜题，它有固定数量的概率相等的可能解法（实际上就是一把密码锁），但没有提示哪一种解法是正确的，那么玩家就必须尝试所有的解法。Infocom 文字冒险游戏《Infidel》中就有这样一道谜题： 四座埃及女神像必须按照正确的顺序排列，但没有任何提示。玩家只需尝试所有 24 种可能的组合，并记录已经完成的组合。这样做并没有什么乐趣。
+如果给玩家一个谜题，它有固定数量的概率相等的可能解法（实际上就是一把密码锁），但没有提示哪一种解法是正确的，那么玩家就必须尝试所有的解法。Infocom 文字冒险游戏《Infidel》中就有这样一道谜题：四座埃及女神像必须按照正确的顺序排列，但没有任何提示。玩家只需尝试所有 24 种可能的组合，并记录已经完成的组合。这样做并没有什么乐趣。
 
 ### Conceptual Non Sequiturs 概念性非连续谜题
 
@@ -569,7 +571,7 @@ This is a variant of the trial-and-error puzzle, a problem whose solution requir
 
 A variant of this is the opposite-reaction puzzle, one whose solution turns out to be the exact opposite of what you'd expect. You could give the player a rubber dagger and then have it turn out to be a deadly weapon after all. In the original Adventure, the player could drive away a menacing snake by releasing a little bird from its cage. Fortunately, at this point in the game, the player didn't have many options, so he usually found the solution soon. But unless you design an entire game on this principle, it's just an annoying gimmick.
 
-相反反应谜题是这种谜题的一种变体，它的谜底与你的预期完全相反。你可以给玩家一把橡胶匕首，然后让它变成致命武器。在最初的《冒险》中，玩家可以通过从笼子里放出一只小鸟来驱赶一条来势汹汹的蛇。幸运的是，在游戏的这个阶段，玩家没有太多选择，所以通常很快就能找到解决办法。但是，除非你根据这一原则设计整个游戏，否则这只是一个恼人的噱头。
+相反反应谜题是这种谜题的一种变体，它的谜底与你的预期完全相反。你可以给玩家一把橡胶匕首，然后让它变成致命武器。在最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))中，玩家可以通过从笼子里放出一只小鸟来驱赶一条来势汹汹的蛇。幸运的是，在游戏的这个阶段，玩家没有太多选择，所以通常很快就能找到解决办法。但是，除非你根据这一原则设计整个游戏，否则这只是一个恼人的噱头。
 
 ### Illogical Spaces 不合逻辑空间
 
@@ -581,11 +583,11 @@ Illogical spaces were a classic challenge in text adventures. If you went north 
 
 Many adventure games rely on some occasional oddities, especially for comic effect, but the player must have a realistic chance of figuring them out. If a game requires information from a source other than itself, it's unfair to the player. For example, Haunt had puzzles that could be solved only if the player was familiar with the 1960s-era cartoon series Beany and Cecil ("Help, Cecil, help!") and with the movie Monty Python and the Holy Grail. It didn't really matter because Haunt was distributed for free and was mostly a joke anyway, but in a commercial game, such puzzles would be unreasonable unless you explicitly made it clear that knowledge of trivia was required. If you want to make humorous references to popular TV shows, movies, and so on, do them in narrative or in an NPC's conversation rather than as solutions to puzzles. Beware, though: Cultural references age very quickly and will make the game seem dated after a few years.
 
-许多冒险游戏都会偶尔出现一些怪事，尤其是为了达到喜剧效果，但玩家必须有现实的机会去解开它们。如果一款游戏需要玩家从游戏本身以外的渠道获取信息，这对玩家是不公平的。例如，《Haunt》中有一些谜题，只有当玩家熟悉 20 世纪 60 年代的卡通系列片《Beany 和 Cecil》（“救命啊，Cecil，救命啊！”）和电影《巨蟒与圣杯》（Monty Python and the Holy Grail）时才能解开。其实这并不重要，因为《Haunt》是免费发行的，而且主要是个玩笑，但在商业游戏中，除非明确说明需要了解琐事，否则这样的谜题是不合理的。如果你想幽默地引用流行的电视节目、电影等，可以在叙述中或在 NPC 的对话中引用，而不是作为谜题的答案。不过要注意： 文化引用会很快老化，几年后就会让游戏显得过时。
+许多冒险游戏都会偶尔出现一些怪事，尤其是为了达到喜剧效果，但玩家必须有现实的机会去解开它们。如果一款游戏需要玩家从游戏本身以外的渠道获取信息，这对玩家是不公平的。例如，《Haunt》中有一些谜题，只有当玩家熟悉 20 世纪 60 年代的卡通系列片《Beany 和 Cecil》（“救命啊，Cecil，救命啊！”）和电影《巨蟒与圣杯》（Monty Python and the Holy Grail）时才能解开。其实这并不重要，因为《Haunt》是免费发行的，而且主要是个玩笑，但在商业游戏中，除非明确说明需要了解琐事，否则这样的谜题是不合理的。如果你想幽默地引用流行的电视节目、电影等，可以在叙述中或在 NPC 的对话中引用，而不是作为谜题的答案。不过要注意：文化引用会很快老化，几年后就会让游戏显得过时。
 
 You have to be even more careful when developing games for foreign markets because other countries don't always have the same idioms. For example, the action "Wear the lampshade on my head" could cause other characters in the game to assume that the player's avatar is drunk, which might be desirable in the context of the story. However, wearing a lampshade as a sign of drunkenness is an American cultural idiom that might not be understood in Japan, for example. Again, it's okay to make cultural references in your game; just be careful about requiring the user to understand them to win.
 
-在为国外市场开发游戏时，您必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“Wear the lampshade on my head”（把灯罩戴在头上）这一动作可能会让游戏中的其他角色认为玩家的头像喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
+在为国外市场开发游戏时，您必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“Wear the lampshade on my head”（把灯罩戴在头上）这一动作可能会让游戏中的其他角色认为玩家的化身喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
 
 ### Click-the-Right-Pixel Puzzles 点击正确像素谜题
 

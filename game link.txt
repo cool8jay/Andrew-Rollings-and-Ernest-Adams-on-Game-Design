@@ -319,8 +319,19 @@
 [Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry)
 [《情圣拉瑞》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry)
 
+[Leisure Suit Larry in the Land of the Lounge Lizards](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards)
+[《情圣拉瑞：拉瑞在花花公子岛》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards)
+
 [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island)
 [《猴岛小英雄》](https://en.wikipedia.org/wiki/Monkey_Island)
+
+[Adventure](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))
+[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))
+图形版
+
+[Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+[《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+文字版
 
 [The Sims](https://en.wikipedia.org/wiki/The_Sims)
 [《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)
@@ -335,6 +346,13 @@
 
 [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
 [《超级马里奥 64》](https://en.wikipedia.org/wiki/Super_Mario_64)
+
+[Gabriel Knight 3](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)
+[《狩魔猎人三》](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)
+
+[Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight)
+[《狩魔猎人》](https://en.wikipedia.org/wiki/Gabriel_Knight)
+系列
 
 [Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)
 [《超级马里奥世界》](https://en.wikipedia.org/wiki/Super_Mario_World)
@@ -354,6 +372,10 @@
 
 [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
 [《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)
+
+[Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game))
+[《玩具总动员》](https://en.wikipedia.org/wiki/Toy_Story_(video_game))
+系列
 
 [Commando](https://en.wikipedia.org/wiki/Commando_(video_game))
 

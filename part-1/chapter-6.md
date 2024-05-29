@@ -162,9 +162,9 @@ In many ways, this was unfortunate. We may lament the degradation of standards f
 
 That aside, the point-and-click interface of the graphic adventure has changed very little over the years since the first appearance of the genre. From the earliest [Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) games (shown in Figure 6.4) through the latest in the [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series (shown in Figure 6.5), the interface has remained pleasingly consistent. The interface to a graphic adventure is a fairly simple construct. Most graphic adventures are 2D or pseudo-3D (that is, they use 3D graphics in a 2D scene-oriented fashion, rather like a stage show), and consequently, only a relatively simple game interface is required.
 
-撇开这一点不谈，图形冒险的点击式界面自该类型首次出现以来，多年来几乎没有什么变化。从最早的[《休闲套装拉里》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry)（如图 6.4 所示）到最新的[《猴岛》](https://en.wikipedia.org/wiki/Monkey_Island)系列（如图 6.5 所示），其界面一直保持着令人愉悦的一致性。图形冒险游戏的界面构造相当简单。大多数图形冒险游戏都是 2D 或伪 3D（即在 2D 场景中使用 3D 图形，就像舞台表演一样），因此只需要一个相对简单的游戏界面。
+撇开这一点不谈，图形冒险的点击式界面自该类型首次出现以来，多年来几乎没有什么变化。从最早的[《情圣拉瑞》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry)（如图 6.4 所示）到最新的[《猴岛小英雄》](https://en.wikipedia.org/wiki/Monkey_Island)系列（如图 6.5 所示），其界面一直保持着令人愉悦的一致性。图形冒险游戏的界面构造相当简单。大多数图形冒险游戏都是 2D 或伪 3D（即在 2D 场景中使用 3D 图形，就像舞台表演一样），因此只需要一个相对简单的游戏界面。
 
-Figure 6.4. Leisure Suit Larry II. 图 6.4. 《休闲套装拉里二》。
+Figure 6.4. Leisure Suit Larry II. 图 6.4. 《情圣拉瑞二》。
 
 ![](../.gitbook/assets/6.4.png)
 
