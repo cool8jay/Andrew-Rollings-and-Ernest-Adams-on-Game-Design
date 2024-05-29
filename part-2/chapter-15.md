@@ -81,31 +81,31 @@ In most adventure games, the player's avatar is presented with an explorable are
 
 在大多数冒险游戏中，玩家的化身都会出现在一个可探索的区域，该区域包含各种有待解决的谜题或问题。解决这些问题可以打开新的探索区域，或以某种方式推进故事情节，为玩家提供新的信息和需要解决的新问题。探索环境和操作其中的物品是大多数冒险游戏的关键要素，尽管这并不是绝对的要求。从理论上讲，开发一款完全由与非玩家角色（NPC）对话组成的冒险游戏是可能的，但我们还没有见过这样的游戏。
 
-## Setting 设置
+## Setting 设定
 
-In some kinds of games, such as chess and Quake, the setting is almost irrelevant. Serious players ignore the idea that chess is a medieval war game or that Quake is about space marines on an alien planet. They concentrate on the bare essentials of the gameplay: strategy in the former case and blazing action in the latter. If the setting intrudes, it is only a distraction.
+In some kinds of games, such as chess and [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)), the setting is almost irrelevant. Serious players ignore the idea that chess is a medieval war game or that [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) is about space marines on an alien planet. They concentrate on the bare essentials of the gameplay: strategy in the former case and blazing action in the latter. If the setting intrudes, it is only a distraction.
 
-在某些类型的游戏中，例如国际象棋和 Quake，场景几乎无关紧要。认真的玩家会忽略国际象棋是中世纪的战争游戏，或者 Quake 是外星球上的太空海军陆战队。他们专注于游戏的基本要素：前者是策略，后者是激烈的动作。如果游戏背景出现问题，那也只是分散玩家的注意力而已。
+在某些类型的游戏中，例如国际象棋和[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))，设定几乎无关紧要。认真的玩家会忽略国际象棋是中世纪的战争游戏，或者[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))是外星球上的太空海军陆战队。他们专注于游戏的基本要素：前者是策略，后者是激烈的动作。如果游戏设定出现问题，那也只是分散玩家的注意力而已。
 
 In adventure games, this situation is reversed. The setting in an adventure game contributes more to its entertainment value than in any other genre. Whether it's grim and depressing, fantastic and outlandish, or funny and cheerful, the setting creates the world the player is going to explore and to live in, and it is for many players the reason for playing adventure games in the first place.
 
-在冒险游戏中，这种情况恰恰相反。冒险游戏中的场景对其娱乐价值的贡献比任何其他类型的游戏都要大。无论是灰暗压抑、奇幻离奇，还是滑稽欢快，游戏背景都为玩家创造了一个探索和生活的世界，对许多玩家来说，这也是他们玩冒险游戏的初衷。
+在冒险游戏中，这种情况恰恰相反。冒险游戏中的设定对其娱乐价值的贡献比任何其他类型的游戏都要大。无论是灰暗压抑、奇幻离奇，还是滑稽欢快，游戏设定都为玩家创造了一个探索和生活的世界，对许多玩家来说，这也是他们玩冒险游戏的初衷。
 
-### Emotional Tone  情感基调
+### Emotional Tone 情感基调
 
 The majority of computer games have little emotional subtlety. Games of pure strategy have no emotional content at all; action games and war games have little more. Nor do they inspire complex emotions in the player. "Yippee!" and "Damn!" are about the limit of it—exhilaration and frustration, respectively. Role-playing games (RPGs), with their deeper stories, offer greater opportunities for emotional expression, but even when their designers take advantage of it, the emotion tends to get lost in a morass of bookkeeping. The players spend so much time buying and selling equipment and trying to optimize their combat effectiveness that the emotional content of the story is obscured.
 
-大多数电脑游戏都没有什么微妙的情感。纯粹的策略游戏根本没有情感内容；动作游戏和战争游戏也几乎没有情感内容。它们也不会激发玩家的复杂情感。“Yippee！”和 “Damn！”已经是极限了--分别是兴奋和沮丧。角色扮演游戏（RPG）有更深刻的故事情节，提供了更多表达情感的机会，但即使设计者利用了这些机会，情感也往往会在繁杂的簿记中消失。玩家花费大量时间购买和出售装备，努力优化战斗力，以至于故事的情感内容被掩盖了。
+大多数电脑游戏都没有什么微妙的情感。纯粹的策略游戏根本没有情感内容；动作游戏和战争游戏也几乎没有情感内容。它们也不会激发玩家的复杂情感。“耶！”和“该死！”已经是极限了——分别是兴奋和沮丧。角色扮演游戏（RPG）有更深刻的故事情节，提供了更多表达情感的机会，但即使设计者利用了这些机会，情感也往往会在繁杂的记录中消失。玩家花费大量时间购买和出售装备，努力优化战斗力，以至于故事的情感内容被掩盖了。
 
 Adventure games do not have intricate strategy, high-speed action, or management details to entertain the player. The games move more slowly, which gives players the chance to create a world with a distinct emotional tone.
 
-冒险游戏没有复杂的战略、高速的动作或管理细节来娱乐玩家。游戏的节奏比较缓慢，这给了玩家创造一个具有鲜明情感基调的世界的机会。
+冒险游戏没有复杂的战略、高速的动作或管理细节来娱乐玩家。游戏的节奏更慢，这给了玩家机会去创造一个具有独特情感基调的世界。
 
 ## Interaction Model 互动模式
 
-All adventure games are avatar-based because the player is being represented by someone who is inside a story. However, the nature of the avatar in adventure games has changed somewhat over the years. Both Adventure and [Myst](https://en.wikipedia.org/wiki/Myst) were careful to avoid ascribing characteristics to the avatar in the game—sex, age, and so on. The avatar wasn't a character with his or her own personal history; it was the player, but because the game didn't know anything about the player, it couldn't depict her or say much about her. A number of later text adventures asked for the player's name and sex when started up, using that information later in the game. They were trying to create the impression that it really was "you" in the game world, and they didn't want to offend players by assuming that they were the wrong sex. In Myst, the world was shown from a first-person perspective, and there were no mirrors in which the player could catch sight of herself.
+All adventure games are avatar-based because the player is being represented by someone who is inside a story. However, the nature of the avatar in adventure games has changed somewhat over the years. Both Adventure and [Myst](https://en.wikipedia.org/wiki/Myst) were careful to avoid ascribing characteristics to the avatar in the game—sex, age, and so on. The avatar wasn't a character with his or her own personal history; it was the player, but because the game didn't know anything about the player, it couldn't depict her or say much about her. A number of later text adventures asked for the player's name and sex when started up, using that information later in the game. They were trying to create the impression that it really was "you" in the game world, and they didn't want to offend players by assuming that they were the wrong sex. In [Myst](https://en.wikipedia.org/wiki/Myst), the world was shown from a first-person perspective, and there were no mirrors in which the player could catch sight of herself.
 
-所有冒险游戏都是以虚拟人物为基础的，因为玩家是由故事中的人物所代表的。然而，多年来，冒险游戏中化身的性质发生了一些变化。《冒险》和[《神秘岛》](https://en.wikipedia.org/wiki/Myst)都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描绘，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是 “你”，他们不想因为假设玩家性别错误而冒犯玩家。在《神秘世界》中，世界是以第一人称视角展现的，没有镜子可以让玩家看到自己。
+所有冒险游戏都以化身为基础，因为玩家由故事中的人物所代表。然而，多年来，冒险游戏中化身的性质发生了一些变化。《冒险》和[《神秘岛》](https://en.wikipedia.org/wiki/Myst)都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描画，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是“你”，他们不想因为误判玩家性别而冒犯玩家。在[《神秘岛》](https://en.wikipedia.org/wiki/Myst)中，世界是以第一人称视角展现的，没有镜子可以让玩家看到自己。
 
 Eventually, however, game designers began to find this model too limiting. They wanted to develop games in which the avatar was a character with a personality of his own, someone who belonged in the game world rather than being a visitor there. Two good examples of this approach are Sierra On-Line's Leisure Suit Larry series and LucasArts's Monkey Island series. In these games, the player could see his avatar walking around interacting with the world. Both Larry and Guybrush Threepwood, the hero of the Monkey Island games, are comic figures, and the games are played primarily for laughs.
 
