@@ -36,7 +36,7 @@ Shooters make up the majority of action games. Shooter games (despite their desi
 
 Figure 9.1. Fighting games. 图 9.1. 格斗游戏。
 
-![](.gitbook/assets/9.1.png)
+![](../.gitbook/assets/9.1.png)
 
 Usually, this particular class of game presents a similar interface, showing both fighters onscreen at once. Even if a fighting game is portrayed in 3D, the main playing region is the vertical 2D plane defined by drawing a straight line between the two fighters. Thus, almost without exception, the "3D" fighting game is still played in a 2D sense, no matter how much eye candy is thrown your way. Of course, 3D isn't the main area of innovation in fighting games, although the added realism it can provide is certainly worthwhile. For the most part, the area of innovation in fighting games is in the realism of the characters, (including their interactions with each other and their reactions to injury), and the methods used to control the fighters—especially when considering how to handle special moves and combos. The main elements found within fighting games are variants of rock-paper-scissors (to handle the outcomes of playing certain moves against another) and the combo move.
 
@@ -48,11 +48,11 @@ Of course, the majority of games involving violence are actually "shooters." The
 
 Figure 9.2. Gauntlet and Gauntlet Legends. 图 9.2. 《圣铠传说》和《圣铠传说》
 
-![](.gitbook/assets/9.2.png)
+![](../.gitbook/assets/9.2.png)
 
 Figure 9.5. Uridium and Space Tripper. 图 9.5. 《Uridium》和《太空战将》
 
-![](.gitbook/assets/9.5.png)
+![](../.gitbook/assets/9.5.png)
 
 The reason that this particular range of 2D games has been chosen is that the gameplay has been enduring enough to have inspired modern updates. This implies that these games have some admirable qualities that we would do well to emulate. Of course, not all the updated versions have succeeded in capturing the gameplay of their parents as well as the designer might hope; in other cases, however, the gameplay matches or exceeds the original.
 
@@ -76,7 +76,7 @@ Similarly, the original [Robotron: 2084](https://en.wikipedia.org/wiki/Robotron:
 
 Figure 9.3. Robotron 2084 and Robotron X. 图 9.3. 《机器人大战：2084》和《机器人大战：X》。
 
-![](.gitbook/assets/9.3.png)
+![](../.gitbook/assets/9.3.png)
 
 The strength of the Robotron gameplay meant that for many years, updates just didn't happen. In fact, you can still get pixel-perfect versions of Robotron 2084 for the PC, Gameboy Advance, and other consoles. The first updated version (that we know of) was more of a tribute to the original Robotron than an update—Super Smash TV, based around a TV show where the contestants battled hordes of attackers in single-screen arenas.
 
@@ -100,7 +100,7 @@ The advantage of the original Robotron was that all the action could be viewed o
 
 Figure 9.4. Centipede and Centipede 3D. Figure 9.4. 《蜈蚣》和《蜈蚣3D》
 
-![](.gitbook/assets/9.4.png)
+![](../.gitbook/assets/9.4.png)
 
 Hasbro, flushed with the success of their [Frogger](https://en.wikipedia.org/wiki/Frogger) remake, which sold millions of copies, decided to try again with a new remake. The remake of Centipede added 3D graphics, and a story. Unfortunately, something was lost during the process, and the gameplay suffered as a consequence. Even the inclusion of a pseudo-3D version of the original arcade game failed to save this attempt at retro-chic. One of the keys behind the playability of the original Centipede (and, in fact, a consistent theme running through all successful action games) was that the player did not have to think in order to interpret what was on the screen. It was easy, and took place at a subconscious level: The centipede is one color, mushrooms are another color, and spiders are yet another color. Unfortunately, this use of color to provide information was lost in the update, where the emphasis was on the graphics appearing realistically textured and interesting. Unfortunately, that meant that the players' subconscious had to work that much harder to be able to determine what was happening onscreen. Combine this with the shift from a 2D fixed play-field to a fully scrolling 3D world, and it becomes fairly easy to understand why this update failed to maintain the standards set by the original.
 
@@ -128,7 +128,7 @@ Figure 9.6 shows two examples of the logical extension of the 2D shooter—the 3
 
 Figure 9.6. Battlezone and Quake III. 图 9.6. 《终极战区》 和《雷神之锤三》。
 
-![](.gitbook/assets/9.6.png)
+![](../.gitbook/assets/9.6.png)
 
 {% hint style="info" %}
 译者注：[《终极战区》游玩视频](https://www.youtube.com/watch?v=Ctr54kopo8I&ab_channel=ShaneMcComas)。
@@ -154,7 +154,7 @@ Frogger, shown in Figure 9.7, was originally a highly successful arcade game rel
 
 Figure 9.7. Frogger and Frogger 3D. 图 9.7. 《青蛙过河》和《青蛙过河 3D》
 
-![](.gitbook/assets/9.7.png)
+![](../.gitbook/assets/9.7.png)
 
 Of course, the phenomenal success of the Frogger remake caused a scramble for licenses for further remakes, which the publishers viewed as a license to print money. Consequently, there have been a number of ill-advised and hastily conceived remakes released onto the market. [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) was one of the most successful games of its generation. Obviously, it could not escape being remade. One of the (many) remakes was [Pac-Man: Adventures in Time](https://en.wikipedia.org/wiki/Pac-Man:_Adventures_in_Time). This update brought new additions to the game, including a story and a set of themed levels. Unfortunately, much in the same way as with [Centipede](https://en.wikipedia.org/wiki/Centipede_(1998_video_game)), these additions diminished rather than added to the gameplay. However, [Pac-Man World 2](https://en.wikipedia.org/wiki/Pac-Man_World_2) on the Gamecube is an excellent use of the license.
 
@@ -170,7 +170,7 @@ Figure 9.8. Q*Bert and Q*Bert 3D. 图 9.8. 《Q伯特》和《Q伯特 3D》。
 译者注：[《Q伯特》游玩视频](https://www.youtube.com/watch?v=HKIbhaQfs-A&ab_channel=OldClassicRetroGaming)。
 {% endhint %}
 
-![](.gitbook/assets/9.8.png)
+![](../.gitbook/assets/9.8.png)
 
 # Design Elements 设计元素
 
@@ -222,7 +222,7 @@ The final form of this design element is an amalgam between the first two. As th
 
 Figure 9.9. Moon Patrol. 图 9.9. 《月球巡逻队》。
 
-![](.gitbook/assets/9.9.png)
+![](../.gitbook/assets/9.9.png)
 
 ### Lives 生命
 
@@ -312,7 +312,7 @@ Defender was the first game to introduce the concept of the smart bomb (see Figu
 
 Figure 9.10. Defender.
 
-![](.gitbook/assets/9.10.png)
+![](../.gitbook/assets/9.10.png)
 
 Usually, the player is given a strictly limited number of smart bombs, and opportunities to replace them are either extremely rare or non-existent. The function of the smart bomb is to clear the area immediately surrounding the player of enemies. Usually, this means that the visible area is cleared entirely of enemies, but the range cleared does vary dependent on the game. Smart bombs should be used by the player only in dire emergencies when there are no other options available. The scarcity of availability is the primary mechanism available to enforce this.
 
@@ -330,7 +330,7 @@ The first commonly known game to make use of the hyperspace element was Asteroid
 
 Figure 9.11. Asteroids.
 
-![](.gitbook/assets/9.11.png)
+![](../.gitbook/assets/9.11.png)
 
 ### Waves 波次
 
@@ -366,7 +366,7 @@ Often, the boss character is themed after the environment (or vice versa). For e
 
 Figure 9.12. The first bosses in Parasol Stars and Rainbow Islands. 图 9.12. Parasol Stars 和 Rainbow Islands 中的第一个老板。
 
-![](.gitbook/assets/9.12.png)
+![](../.gitbook/assets/9.12.png)
 
 Another boss design element that is used fairly frequently is to use a much bigger and stronger version of an enemy that the player has already encountered. The right side of Figure 9.12 shows a classic example, taken from [Rainbow Islands](https://en.wikipedia.org/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2). The first set of levels are garden themed (with the enemies being mainly insects and birds). One of the first enemies encountered is a spider. The boss character is simply a much larger version of that spider. This enhances the gameplay by allowing the player to predict some of the boss behavior, and gives him a small advantage in knowing what to expect—an advantage that would not be there if the boss was entirely unfamiliar, and the player had to learn his behavior from scratch.
 
@@ -378,7 +378,7 @@ Of course, many games aren't suited for such an unsubtle set of themed levels, b
 
 Figure 9.13. The general progression of an action game. 图 9.13. 动作游戏的一般进程。
 
-![](.gitbook/assets/9.13.png)
+![](../.gitbook/assets/9.13.png)
 
 ### Wildcard Enemies 意外敌人
 
@@ -485,7 +485,7 @@ Action games—being among the first of the genres—benefited well from the ear
 > 
 > Figure 9.14. Golden Axe.
 > 
-> ![](.gitbook/assets/9.14.png)
+> ![](../.gitbook/assets/9.14.png)
 > 
 > As such, action games are unusual because the victory conditions are either crystal clear and known to the player in advance, or completely non-existent, being wrapped in an amorphous goal that can never be attained, such as the previously mentioned Space Invaders. Finding something between these two extremes is rare, mainly because it pushes the game away from being a pure action game into another genre entirely.\
 > 

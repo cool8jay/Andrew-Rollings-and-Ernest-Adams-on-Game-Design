@@ -484,9 +484,9 @@ The professional game designer must have good writing skills. This means being c
 
 专业游戏设计师必须具备良好的写作技巧。这意味着要清晰、简洁、准确、鲜明，最重要的是要具有可读性。除了要为每个设计撰写几份详细的文档外，你可能还需要编写故事叙述或对话——尤其是在预算不足以聘请编剧的情况下。
 
-Writing comes in several forms, and we briefly discuss some of these here. (We go into more detail in Chapter 4, "Storytelling and Narrative," and the appendixes.)
+Writing comes in several forms, and we briefly discuss some of these here. (We go into more detail in [Chapter 4](/part-1/chapter-4.md), "Storytelling and Narrative," and the appendixes.)
 
-写作有多种形式，我们在此简要讨论其中的几种。(我们将在第四章“讲故事与叙事”和附录中详细介绍）。
+写作有多种形式，我们在此简要讨论其中的几种。(我们将在[第四章](/part-1/chapter-4.md)“讲故事与叙事”和附录中详细介绍）。
 
 * Technical writing is the process of documenting the design in preparation for development. All possible questions on the game have to be answered unambiguously and precisely. For example, if a farm with one peasant produces one unit of food per week, does a farm with five peasants produce five units, or do the additional peasants consume additional food? Is the peasants' own food factored in? What is the maximum number of peasants that can work on a given farm? If all the peasants are killed in a raid, what happens to the farm? If it is not immediately destroyed, can the empty buildings be reoccupied by new peasants? How do farms get built anyway? Where do peasants come from anyway? At what rate? Does the player have to manage the farming process, or do the peasants just get on with it? Can peasants fight? And so on and so on.\
   技术写作是记录设计的过程，为开发做准备。游戏中所有可能出现的问题都必须有明确而精准的答案。例如，如果一个农场有一个农民，每周生产一个单位的食物，那么有五个农民的农场是生产五个单位的食物，还是额外的农民消耗额外的食物？农民自己消耗的食物会计算在内吗？一个农场最多能容纳多少农民？如果所有农民都在一次突袭中被杀，农场会怎样？如果农场没有立即被摧毁，空置的建筑是否可以被新的农民重新占用吗？农场到底是怎么建成的？农民从哪里来？速度如何？玩家需要管理耕种过程吗，还是农民会自行耕种？农民能战斗吗？等等等等。

@@ -38,7 +38,7 @@ An offshoot of the turn-based strategy game concept is the real-time strategy (R
 
 Figure 10.1. Battle Master. 图 10.1. 《Battle Master》。
 
-![](.gitbook/assets/10.1.png)
+![](../.gitbook/assets/10.1.png)
 
 RTS games are differentiated from pure strategy games in that time is a constant pressure. There are no "turns" during which the player can ponder his moves—everything happens at once. Consequently, reaction time and quick action are as important as strategic thinking.
 
@@ -112,7 +112,7 @@ Consider an imaginary contest between two players, each with a squad of men, as 
 
 Figure 10.2. Red versus blue: Blue is victorious! 图 10.2. 红色对蓝色：蓝方获胜！
 
-![](.gitbook/assets/10.2.gif)
+![](../.gitbook/assets/10.2.gif)
 
 The red player is obviously not impressed by the outcome of this skirmish and decides to replace his archers with peasants. The peasants line up in formation, as shown in Figure 10.3, and are soundly beaten by the horsemen, who can deal out damage far more efficiently than the peasants. The result is the same: Blue wins. From this, we can say with certainty that, given no other variation in parameters, horsemen beat peasants.
 
@@ -120,7 +120,7 @@ The red player is obviously not impressed by the outcome of this skirmish and de
 
 Figure 10.3. Red versus blue: Blue is victorious again! 图 10.3. 红色对蓝色：蓝方再次获胜！
 
-![](.gitbook/assets/10.3.gif)
+![](../.gitbook/assets/10.3.gif)
 
 However, let's assume that the red player replaces two thirds of his archers with peasants. He places his peasants in a row facing the horsemen, and his archers remain at a safe distance behind the peasants, as shown in Figure 10.4. Now, to reach the archers, the blue player's horseman must first defeat the peasants. While they are doing so, the archers are free to rain arrows on the horsemen, causing much more damage than the archers from the previous encounter. The delay caused by the peasants allows the archers to pick off the horsemen. The net result: Red victory. This is an example of compound SPS effects—in other words, the whole is greater than the sum. Archers alone get slaughtered by the heavily armed and faster horsemen, as do peasants. When used together, their combined strength and weakness overlap to create more than a match for the beleaguered horsemen.
 
@@ -128,7 +128,7 @@ However, let's assume that the red player replaces two thirds of his archers wit
 
 Figure 10.4. Red versus blue: Red is victorious! 图 10.4. 红色对蓝色：红色获胜！
 
-![](.gitbook/assets/10.4.gif)
+![](../.gitbook/assets/10.4.gif)
 
 This is an obviously simplified example, but the results scale up from the squad level to the scale of grand armies—the same rules apply. Of course, this result brings some additional complications to the SPS model. With combination effects such as this, you now have to consider placement and other factors—consider the result if the red player had switched the positions of the archers and peasants, as shown in Figure 10.5. Then the compound effect would have been wasted—instead of each type of unit covering for the others weakness, the converse would be true.
 
@@ -136,7 +136,7 @@ This is an obviously simplified example, but the results scale up from the squad
 
 Figure 10.5. Red versus blue: Red's big mistake! 图 10.5. 红色与蓝色： 红方的大错！
 
-![](.gitbook/assets/10.5.gif)
+![](../.gitbook/assets/10.5.gif)
 
 A detailed discussion of the relative merits of formations is beyond the scope of this book, but it is interesting to realize that explicit formation rules do not need to be explicitly implemented in the game design. In fact, outside of a few remote situations, you should never explicitly design such a high-level set of rules into your game. Concentrate on the lower-level individual unit parameters, and the higher-level features such as formation effectiveness will emerge from those.
 
@@ -165,7 +165,7 @@ The nature of the parameters used to define the abilities very much depends on t
 
 Figure 10.6. Taldren's Starfleet Command III. 图 10.6. 塔尔德伦的《星际舰队指令 III》。
 
-![](.gitbook/assets/10.6.png)
+![](../.gitbook/assets/10.6.png)
 
 Conflict does not necessarily have to involve physical combat. Whereas RTS games and "simpler" strategy games tend to focus on the combat aspects, the more advanced and progressive games tend to keep combat as a "last resort" option, more closely mirroring reality. For example, Civilization III uses diplomacy as another method of introducing conflict to the game. In real life, diplomacy is considered to be the "polite face" of war; in Civilization III, it is no different. The response of the enemy leaders to your diplomatic overtures depends in large part on whether you have the force to back up your tough words. Of course, diplomacy isn't all about trash-talk and "who-has-the-biggest-missile" contests—it also allows for the formation of diplomatic alliances and missions of peace. Somehow, though (and maybe it's just the way we play the game), the fine words of friendship are soon forgotten once the alliance has outlived its usefulness.
 
@@ -187,7 +187,7 @@ Like conflict, exploration isn't just a physical phenomenon. XCOM is a particula
 
 Figure 10.7. The fog of war (from Warcraft III). 图 10.7. 战争迷雾（来自《魔兽争霸三》）。
 
-![](.gitbook/assets/10.7.png)
+![](../.gitbook/assets/10.7.png)
 
 If the soldiers defeat the aliens at a site cleanly enough to be able to recover some of their advanced technology, the second form of exploration comes into effect. The XCOM squad takes the technology back to the base, and the player can assign researchers to unlock the secrets of the alien technology. When they have discovered how the alien technology functions, the XCOM experts can duplicate it, giving the player a better chance against the stronger aliens with even better technology.
 
@@ -199,7 +199,7 @@ Again, this is a common mechanism for allowing the exploration of nonphysical fr
 
 Figure 10.8. A tech-tree from Natural Selection. 图 10.8. 《自然选择》中的科技树。
 
-![](.gitbook/assets/10.8.gif)
+![](../.gitbook/assets/10.8.gif)
 
 [XCom: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) was by no means the first computer strategy game to implement a tech-tree, and it has been used in virtually every computer strategy game ever since. Usually, when a particular mechanism has been used this much, it becomes stale through overuse. Fortunately, though, in the case of the tech-tree, it is such a general concept that it rarely seems stale. Of course, it's also true that no one has come up with a better idea yet.
 
@@ -261,7 +261,7 @@ Slower-paced strategy games allow the player to focus a lot more on trade and ot
 
 Figure 10.9. Resource distribution across a territory. 图 10.9. 领土上的资源分布。
 
-![](.gitbook/assets/10.9.gif)
+![](../.gitbook/assets/10.9.gif)
 
 Town B has access to a forest—it has a road (supply line) leading directly to the forest, providing a ready source of lumber. This allows Town B to build wood-based units, such as catapults. Town A is linked to Town B via a road. This means that there is a readily available supply route between Town A and Town B. Hence, Town A has exactly the same production capabilities as Town B. Anything that is available to Town A is also available to Town B, and vice versa. Town C is a newly built town. No roads have been built to Town C, so it will not have access to the resources of Towns A and B until a linking road is built.
 
@@ -437,7 +437,7 @@ Covering all aspects of the whole genre of strategy games in a single chapter is
 
 Figure 10.10. The Settlers of Catan. Figure 10.10. 《卡坦》。
 
-![](.gitbook/assets/10.10.png)
+![](../.gitbook/assets/10.10.png)
 
 The rules of this board game are exceptionally concise and very well balanced. Trade, conflict, and exploration are all included in equal measure. Examination and understanding of these rules—how and why they work so well—will form an excellent basis for the design of your own strategy game, no matter what format or genre.
 

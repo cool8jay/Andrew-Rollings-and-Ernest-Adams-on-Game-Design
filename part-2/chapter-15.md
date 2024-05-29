@@ -111,9 +111,9 @@ Eventually, however, game designers began to find this model too limiting. They 
 
 然而，游戏设计师们最终发现这种模式局限性太大。他们希望在开发的游戏中，化身是一个有自己个性的角色，一个属于游戏世界的人，而不是游戏世界的过客。Sierra On-Line 的《Leisure Suit Larry》系列和 LucasArts 的《Monkey Island》系列就是这种方法的两个很好的例子。在这些游戏中，玩家可以看到自己的化身走来走去，与世界互动。Larry 和猴岛游戏的主人公 Guybrush Threepwood 都是漫画人物，游戏主要是为了搞笑。
 
-There was initially some concern that male players would be unwilling to play female characters, but Lara Croft has demonstrated emphatically that this is not a problem. Female players quite justifiably get tired of playing male heroes because there are so many of them. We think the decision about whether to make your game's avatar male or female shouldn't be based on marketing considerations, but upon the needs of the story. In many cases, the avatar's sex really isn't important anyway, although it might influence the way other characters in the game react. Try to design an avatar who is interesting and likeable. Because this is someone the player will be seeing all the time, the avatar must be a person the player can identify with and must possess qualities he is likely to admire: bravery, intelligence, decency, and a sense of humor, for example. Chapter 5, "Character Development," discusses these issues in more detail.
+There was initially some concern that male players would be unwilling to play female characters, but Lara Croft has demonstrated emphatically that this is not a problem. Female players quite justifiably get tired of playing male heroes because there are so many of them. We think the decision about whether to make your game's avatar male or female shouldn't be based on marketing considerations, but upon the needs of the story. In many cases, the avatar's sex really isn't important anyway, although it might influence the way other characters in the game react. Try to design an avatar who is interesting and likeable. Because this is someone the player will be seeing all the time, the avatar must be a person the player can identify with and must possess qualities he is likely to admire: bravery, intelligence, decency, and a sense of humor, for example. [Chapter 5](/part-1/chapter-5.md), "Character Development," discusses these issues in more detail.
 
-起初有人担心男性玩家不愿意玩女性角色，但劳拉已经充分证明这不是问题。女性玩家有理由厌倦扮演男性英雄，因为男性英雄实在太多了。我们认为，决定游戏中的头像是男性还是女性不应该基于市场营销的考虑，而应该基于故事的需要。在很多情况下，化身的性别其实并不重要，尽管它可能会影响游戏中其他角色的反应。尽量设计一个有趣、讨人喜欢的化身。因为玩家会经常见到这个化身，所以化身必须是玩家能够认同的人，必须具备玩家可能钦佩的品质：例如勇敢、聪明、正直和幽默感。第 5 章 “角色发展 ”将详细讨论这些问题。
+起初有人担心男性玩家不愿意玩女性角色，但劳拉已经充分证明这不是问题。女性玩家有理由厌倦扮演男性英雄，因为男性英雄实在太多了。我们认为，决定游戏中的头像是男性还是女性不应该基于市场营销的考虑，而应该基于故事的需要。在很多情况下，化身的性别其实并不重要，尽管它可能会影响游戏中其他角色的反应。尽量设计一个有趣、讨人喜欢的化身。因为玩家会经常见到这个化身，所以化身必须是玩家能够认同的人，必须具备玩家可能钦佩的品质：例如勇敢、聪明、正直和幽默感。[第五章](/part-1/chapter-5.md)“角色发展 ”将详细讨论这些问题。
 
 ## Perspective 视角
 
@@ -248,9 +248,9 @@ graphics/15fig08.gif
 
 ## Storytelling 讲故事
 
-This subject is discussed at length in Chapter 4. In this section, we just reiterate a few of the key points and talk about their significance in adventure games. Adventure games rely on storytelling more than any other genre. We can't tell you in this book how to create a good story, but you can learn from innumerable other resources. A great many theories exist, beginning with Aristotle's Poetics and continuing to postmodernist literature. If you're trying to make a game that's fun to play and, better yet, sells well, it's probably best to avoid some of the more outré literary theories and stick to what works for the vast majority of books, movies, and television. On the other hand, if you're trying to expand the boundaries of the interactive medium with a never-before-seen work of art, more power to you.
+This subject is discussed at length in [Chapter 4](/part-1/chapter-4.md). In this section, we just reiterate a few of the key points and talk about their significance in adventure games. Adventure games rely on storytelling more than any other genre. We can't tell you in this book how to create a good story, but you can learn from innumerable other resources. A great many theories exist, beginning with Aristotle's Poetics and continuing to postmodernist literature. If you're trying to make a game that's fun to play and, better yet, sells well, it's probably best to avoid some of the more outré literary theories and stick to what works for the vast majority of books, movies, and television. On the other hand, if you're trying to expand the boundaries of the interactive medium with a never-before-seen work of art, more power to you.
 
-第 4 章将详细讨论这一主题。在本节中，我们只是重申其中的几个要点，并谈谈它们在冒险游戏中的意义。冒险游戏比其他任何类型的游戏都更依赖于讲故事。我们无法在本书中告诉你如何创作一个好故事，但你可以从无数其他资源中学习。从亚里士多德的《诗学》开始，一直到后现代主义文学，存在着大量的理论。如果你想制作一款好玩的游戏，最好还能卖得好，那么最好避开一些比较离经叛道的文学理论，坚持使用对绝大多数书籍、电影和电视都有效的理论。另一方面，如果你想通过一部前所未见的艺术作品来拓展互动媒体的边界，那就更值得一试了。
+[第四章](/part-1/chapter-4.md)将详细讨论这一主题。在本节中，我们只是重申其中的几个要点，并谈谈它们在冒险游戏中的意义。冒险游戏比其他任何类型的游戏都更依赖于讲故事。我们无法在本书中告诉你如何创作一个好故事，但你可以从无数其他资源中学习。从亚里士多德的《诗学》开始，一直到后现代主义文学，存在着大量的理论。如果你想制作一款好玩的游戏，最好还能卖得好，那么最好避开一些比较离经叛道的文学理论，坚持使用对绝大多数书籍、电影和电视都有效的理论。另一方面，如果你想通过一部前所未见的艺术作品来拓展互动媒体的边界，那就更值得一试了。
 
 Here are a few pointers about storytelling as it applies to adventure games.
 
@@ -364,9 +364,9 @@ Adventure games, more than most other genres, try to hide the fact that the play
 
 ## Avatar Movement 化身移动
 
-The movement interface that you design depends considerably on the perspective you choose. In first-person and third-person perspectives, the player needs a way of steering her avatar around the world, as in an action game. We suggest that you look at Chapter 9, "Action Games," for a discussion of avatar movement in first- and third-person perspectives.
+The movement interface that you design depends considerably on the perspective you choose. In first-person and third-person perspectives, the player needs a way of steering her avatar around the world, as in an action game. We suggest that you look at [Chapter 9](/part-2/chapter-9.md), "Action Games," for a discussion of avatar movement in first- and third-person perspectives.
 
-你所设计的移动界面在很大程度上取决于你所选择的视角。在第一人称和第三人称视角中，玩家需要一种方法来引导她的头像在世界中移动，就像在动作游戏中一样。建议阅读第 9 章 “动作游戏”，了解第一人称和第三人称视角下的头像移动。
+你所设计的移动界面在很大程度上取决于你所选择的视角。在第一人称和第三人称视角中，玩家需要一种方法来引导她的头像在世界中移动，就像在动作游戏中一样。建议阅读[第九章](/part-2/chapter-9.md)“动作游戏”，了解第一人称和第三人称视角下的头像移动。
 
 In a context-sensitive perspective, there are two common user interfaces: point-and-click and direct control.
 
@@ -513,7 +513,7 @@ In the end, most adventure game designers gave up on trying to create the impres
 
 Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15.12. 福尔摩斯探案集》中的对话菜单。
 
-![](.gitbook/assets/15.12.png)
+![](../.gitbook/assets/15.12.png)
 
 ### Benefits of Scripted Conversations 脚本对话的优势
 

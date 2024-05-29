@@ -175,7 +175,7 @@ Unfortunately, only the most trivial examples can be broken down into a simple p
 
 Figure 8.1. Red Alert. 图 8.1. 《红色警戒》。
 
-![](.gitbook/assets/8.1.png)
+![](../.gitbook/assets/8.1.png)
 
 An experienced player playing as the Soviet side could devote all of her energies to producing a large force of tanks in the early part of the game, and then use those tanks to attack the nascent enemy base en masse. Against an unprepared opponent, this almost always guarantees a victory. Of course, because of the immense number of variables involved, we cannot say with certainty that this is a dominant strategy—that is, it may not be the best strategy to play regardless of what the opponent does—but it is certainly near dominant.
 
@@ -187,7 +187,7 @@ Another real-world example, again from a real-time strategy game, occurred becau
 
 Figure 8.2. Warcraft. 图 8.2. 《魔兽争霸》。
 
-![](.gitbook/assets/8.2.png)
+![](../.gitbook/assets/8.2.png)
 
 These examples are both from real-time strategy games. This type of game is often the easiest to analyze, because it so closely matches the areas of research in conventional military game theory. However, we don't want to give the impression that we are only concerned with real-time strategy games, so our last example of a dominant strategy is one that affected an old side-scrolling space shooter game on the Nintendo Super NES. In this game (which we will not name to prevent embarrassment on the part of the individuals responsible), it was possible to make your way through the entire game by upgrading your weapons to a certain level and then, going as low on the screen as possible, keeping your finger on the fire button. In this position, you were invulnerable to the enemy attacks and could finish the game on a single life. This is a clear example of a dominant strategy.
 
@@ -203,7 +203,7 @@ An interesting point to examine is where to draw the line between a valid (but u
 
 Figure 8.3. Wolfenstein 3D. 图 8.3. 《德军总部 3D》。
 
-![](.gitbook/assets/8.3.png)
+![](../.gitbook/assets/8.3.png)
 
 Occasionally, a bug in a game can be exploited to the benefit of the player. For example, in the game [Super Turbo Street Fighter 2](https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo), the secret character Akuma is completely out of balance with the rest of the characters in the game (see Figure 8.4). This character has an unbeatable attack, the air fireball, which is so superior to the rest of the characters' attacks that they don't stand a chance. Using Akuma is the dominant strategy—if the opponent chooses any other character, she is pretty much assured a loss. If the opponent chooses Akuma also, then given equal skill levels, a draw is the likely outcome. The only option to ensure a fair result is to ban the use of that character in any serious competitive game. It's not that this is the only game that has an unbalanced character, but in other games, the superior character isn't so far out of balance that it ruins the game for other players.
 
@@ -211,7 +211,7 @@ Occasionally, a bug in a game can be exploited to the benefit of the player. For
 
 Figure 8.4. Super Turbo Street Fighter 2. 图 8.4. 《超级街头霸王 2》。
 
-![](.gitbook/assets/8.4.png)
+![](../.gitbook/assets/8.4.png)
 
 Traditionally, the only way to remove dominant strategies in nontrivial examples is thorough play testing. Unfortunately, there is always some chance that flaws will slip through the net. This chapter covers some of the ways that we can try to prevent this from occurring.
 
@@ -255,7 +255,7 @@ In a nutshell, a transitive relationship defines a one-way relationship between 
 
 Figure 8.5. Transitive relationships. 图 8.5. 传递关系
 
-![](.gitbook/assets/8.5.png)
+![](../.gitbook/assets/8.5.png)
 
 Table 8.3. Net Payoff Matrix for A, B, and C 表 8.3. A，B，C的净收益矩阵
 
@@ -298,42 +298,42 @@ Any game that involves upgrading or augmenting the player's capabilities within 
 
 Figure 8.6. Super Mario Advance. 图 8.6. 《超级马里奥Advance》
 
-![](.gitbook/assets/8.6.png)
+![](../.gitbook/assets/8.6.png)
 
 * [Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda). A series of top-down arcade style role-playing games (except for the Nintendo 64 and GameCube versions, which were full 3D), as shown in Figure 8.7. Link (the hero) collects items to enhance his skills and stamina. The basis of the game is to solve the overall quest by adventuring through a series of dungeons. In general, the prize for each dungeon is a magical item that enhances Link's abilities. A nice little game design touch is that the ability upgraded is the ability that would have been most useful in traversing the dungeon in which it was secreted.\
 [《塞尔达传说》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)。这是一系列俯视视角街机风格角色扮演游戏（任天堂 64 和 GameCube 版本除外，这些是全 3D 版本），如图 8.7 所示。林克（主人公）通过收集物品来增强自己的技能和体力。游戏的基础是通过在一系列地牢中冒险来完成整个任务。一般来说，每个地下城的奖品都是能增强林克能力的魔法物品。游戏设计的一个小亮点是，所提升的能力正是在探索隐藏该物品的地下城时最有用的那种能力。
 
 Figure 8.7. Legend of Zelda. 图 8.7. 《塞尔达传说》。
 
-![](.gitbook/assets/8.7.png)
+![](../.gitbook/assets/8.7.png)
 
 * [R-Type](https://en.wikipedia.org/wiki/R-Type). A side-scrolling space-based shoot 'em-up (see Figure 8.8). As the player defeats enemies, they drop pods containing weapons upgrades for the player's ship. The cumulative upgrades are lost when your ship is destroyed.\
 [《异形战机》](https://en.wikipedia.org/wiki/R-Type)。一款卷轴太空射击游戏（见图 8.8）。当玩家击败敌人时，敌人会掉落装有玩家飞船升级武器的吊舱。当你的飞船被摧毁时，累积的升级就会丢失。
 
 Figure 8.8. R-Type. 图 8.8. 《异形战机》
 
-![](.gitbook/assets/8.8.png)
+![](../.gitbook/assets/8.8.png)
 
 * [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)). An isometric 3D action-adventure game (see Figure 8.9). As the player battles through the dungeons, the innovative skill and leveling systems allow you to spend experience points, gained while adventuring, on improving your character.\
 [《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))一款等距 3D 动作冒险游戏（见图 8.9）。当玩家在地牢中战斗时，创新的技能和等级系统可以让你把冒险时获得的经验值用于提升角色。
 
 Figure 8.9. Diablo. 图 8.9. 《暗黑破坏神》
 
-![](.gitbook/assets/8.9.png)
+![](../.gitbook/assets/8.9.png)
 
 * [《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(franchise)), [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)), [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)), and so on. First-person shooters (see Figure 8.10). As you progress through the game, successively better weapons can be found that scale the player's firepower with that of the enemy. You lose the advanced weapons when your avatar is killed.\
 [《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(franchise))，[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))，[《半条命》](https://en.wikipedia.org/wiki/Half-Life_(video_game))等。第一人称射击游戏（见图 8.10）。随着游戏进程的推进，玩家可以陆续找到更好的武器，使玩家的火力与敌人的火力相匹配。当你的化身被杀死时，你就会失去高级武器。
 
 Figure 8.10. Doom. 图 8.10. 《毁灭战士》。
 
-![](.gitbook/assets/8.10.png)
+![](../.gitbook/assets/8.10.png)
 
 * [The Sims](https://en.wikipedia.org/wiki/The_Sims). A "family simulator" that lets the player build and furnish a house and manage the family living within it (see Figure 8.11). For each household item you can purchase, there are upgrades available that function more efficiently. The more money you spend on an item, the more efficiently it does its job—it could take up less space, be prettier, or perform a double function.\
 [《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)是一款“家庭模拟器”，让玩家建造和布置房屋，并管理住在其中的家人（见图 8.11）。每购买一件家居用品，都可以升级以提高功能效率。你在一件物品上花的钱越多，它的工作效率就越高——它可以占用更少的空间，变得更漂亮，或者实现双重功能。
 
 Figure 8.11. The Sims. 图 8.11. 《模拟人生》。
 
-![](.gitbook/assets/8.11.png)
+![](../.gitbook/assets/8.11.png)
 
 ### Intransitive Relationships: Rock, Paper, Scissors 非传递关系：石头，布，剪刀
 
@@ -347,7 +347,7 @@ This gives us a balanced, three-way intransitive relationship, as shown in Figur
 
 Figure 8.12. Three-way intransitive relationship in Rock, Paper, Scissors. 图 8.12. 石头、剪子、布中的三向不等式关系。
 
-![](.gitbook/assets/8.12.png)
+![](../.gitbook/assets/8.12.png)
 
 The net payoff matrix for Rock, Paper, Scissors is shown in Table 8.4.
 
@@ -471,7 +471,7 @@ For example, a series of artificial life games, the [Creatures](https://en.wikip
 
 Figure 8.13. Creatures. 图 8.13. 生物
 
-![](.gitbook/assets/8.13.png)
+![](../.gitbook/assets/8.13.png)
 
 For example, in one of the games, there is a still that produces alcoholic beverages. The pleasure reward from drinking at the still is so immediate that all Norns who find their way to the still would simply stay there and get drunk. Unfortunately, this is not nearly as entertaining as it sounds (well, not for long anyway). They get drunk. They fall down. And that's about it. Clearly, this is an undesirable example of emergence. It does not add anything interesting to the game and, in fact, detracts from it.
 
@@ -539,7 +539,7 @@ In some ways, this is a moot point—part of balance is the player herself—and
 
 Figure 8.14. Starcraft. 图 8.14. 《星际争霸》。
 
-![](.gitbook/assets/8.14.png)
+![](../.gitbook/assets/8.14.png)
 
 The objective of balancing a game is to provide a game that is internally consistent and fair, without allowing players to exploit flaws and weaknesses to gain advantages. The other aim (of course) is to make sure that the game is fun.
 
@@ -596,7 +596,7 @@ An example of a game that uses this interaction model is [Tetris](https://en.wik
 
 Figure 8.15. Tetris. 图 8.15. 俄罗斯方块
 
-![](.gitbook/assets/8.15.png)
+![](../.gitbook/assets/8.15.png)
 
 ### Destroying a Balance 破坏平衡
 
@@ -614,7 +614,7 @@ An example of a game that uses this interaction model is [XCom: Enemy Unknown](h
 
 Figure 8.16. X-Com: Enemy Unknown. 图 8.16. 《幽浮：未知敌人》
 
-![](.gitbook/assets/8.16.png)
+![](../.gitbook/assets/8.16.png)
 
 As we've already hinted, this could also fit the description of the first interaction model. However, we prefer to use that for game systems where there is no discernible initial equilibrium point from which the player is transitioning.
 
@@ -675,7 +675,7 @@ Gremlin Graphics 公司的[《奔跑的蒙蒂》](https://en.wikipedia.org/wiki/
 
 Figure 8.17. Monty on the Run. 图 8.17. 《奔跑的蒙蒂》。
 
-![](.gitbook/assets/8.17.png)
+![](../.gitbook/assets/8.17.png)
 
 This example also breaks another of the cardinal rules of game design fairness: informing the player of everything needed to play the game and not using unknowable or unguessable information. The choice of the freedom kit items is not intuitive. The player is given no information of which is the best choice to make. In fact, the only way to be sure of making the correct choice is to cheat—either by reading it in a magazine or finding out from friends. Any game that requires reading a strategy guide or searching on the web, rather than the player's natural ability to play it successfully, is fundamentally flawed.
 
@@ -687,7 +687,7 @@ Another important consideration for ensuring fairness—particularly in multipla
 
 Figure 8.18. EverQuest and Ultima Online. 图 8.18. 《无尽的任务》 和 《网络创世纪》。
 
-![](.gitbook/assets/8.18.png)
+![](../.gitbook/assets/8.18.png)
 
 The question of balance in an online game is an ongoing one, as you have the opportunity to respond to "real play" situation in a way that a standard single-player game can't—until the expansion pack, at any rate. [Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call) does this on a regular basis—and yet it's still fundamentally unbalanced in favor of magic users. It seems to be that way because that's what the magic users want, and obviously the publishers want to hold their audience. Suddenly, game balance is more about ongoing sales and politics than it is about the game play—but it's something that you have to consider as a designer.
 
@@ -703,7 +703,7 @@ Last, but certainly by no means least, the concept of fairness extends to how th
 
 Figure 8.19. Deathtrap Dungeon. 图 8.19. 《死亡陷阱地牢》。
 
-![](.gitbook/assets/8.19.png)
+![](../.gitbook/assets/8.19.png)
 
 The worst thing about fairness is that everyone has a different concept of what fair is. The task that the game designer faces is finding a common ground that will keep as many people happy as possible. The old adage is true: You can fool some of the people all of the time, and all of the people some of the time, but not all of the people all of the time. Harsh though it may be, as a game designer, you are trying to fool as many people as possible into thinking that your crude simulation of a real world cares enough about the players to ensure that they get a fair experience.
 
@@ -739,7 +739,7 @@ A trivial decision is a no-brainer decision. Any decision that has only one logi
 
 Figure 8.20. Sid Meier's Alpha Centauri. 图 8.20. 《席德·梅尔的半人马座阿尔法》。
 
-![](.gitbook/assets/8.20.png)
+![](../.gitbook/assets/8.20.png)
 
 Worse still, there are games that force completely trivial decisions on the player. If the player wants to choose whether to wear the blue tunic or the red tunic, then fine, but don't force that decision on him as a gameplay choice, unless it has some sort of direct relevance to the gameplay. For example, if the player's avatar needs to be disguised as a guard in the enemies' Red Guards, the blue tunic wouldn't help matters.
 
@@ -769,7 +769,7 @@ Other games have taken a more original approach to the difficulty level problem:
 
 Figure 8.21. Max Payne. 图 8.21. 《马克思·佩恩》
 
-![](.gitbook/assets/8.21.png)
+![](../.gitbook/assets/8.21.png)
 
 Generally, the standard difficulty levels are implemented by making the enemies tougher, and they are usually applied as a global modifier for all enemies. Another commonly used approach (sometimes in tandem with increasing toughness) is to make the enemies more numerous. For example, on a normal level, the statistics and number for an enemy might be equivalent to the easy level plus 15 percent, the hard level might be equivalent to the easy level plus 30 percent, and the nightmare level might be equivalent to the easy level plus 50 percent. That is to say, on the normal, hard, and nightmare levels, the enemy toughness or density increases by 15, 30, and 50 percent, respectively. Bear in mind that these are just arbitrary numbers plucked out of thin air; they may not be suitable or even applicable to your game. If you are designing a quiz game, for example, the idea of making the opponents 50-percent tougher is absolutely meaningless. Your only option is to grade questions for difficulty—which is not as easy as you may think, because of subjectivity—and group them into sets based on the difficulty levels that they have been assigned.
 
@@ -809,7 +809,7 @@ Take a game such as Ensemble's [Age of Empires](https://en.wikipedia.org/wiki/Ag
 
 Figure 8.22. Age of Empires. 图 8.22. 《帝国时代》。
 
-![](.gitbook/assets/8.22.png)
+![](../.gitbook/assets/8.22.png)
 
 This is an excellent technique to facilitate the easy modification of game balance. Describing implementation techniques is beyond the scope of this book, but this separation of code and data also helps to enforce good development technique. The parameters can be stored in a database during development and then migrated into a custom format for the final release.
 

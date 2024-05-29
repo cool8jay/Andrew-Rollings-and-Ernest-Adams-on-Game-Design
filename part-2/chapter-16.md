@@ -44,7 +44,7 @@ Because an artificial pet doesn't have much of a challenge or a victory conditio
 
 Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 的 《宠物》。
 
-![](.gitbook/assets/16.1.png)
+![](../.gitbook/assets/16.1.png)
 
 ## The Sims 模拟人生
 
@@ -52,9 +52,9 @@ Figure 16.1. Petz from PF.Magic. 图 16.1. PF.Magic 的 《宠物》。
 
 [《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)几乎它类型下的唯一一款游戏。多年前在 Commodore 64 上曾出现过一款与之有点类似的游戏，即[《小小电脑人》](https://en.wikipedia.org/wiki/Little_Computer_People)，但其内容远不及[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)丰富。如果说[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)属于一个类别，那它就是一个虚拟娃娃屋：它模拟了一个家庭在郊区的住所。你可以让这些人四处走动，让他们完成某些任务，告诉他们什么时候睡觉，什么时候起床，等等。你可以让他们相互交谈，从而间接影响他们之间的关系——最大的区别在于，你不能决定他们说什么，也不能保证他们会喜欢对方。每个模拟人都有自己的个性、喜好和厌恶。
 
-One of the best things about [The Sims](https://en.wikipedia.org/wiki/The_Sims) is that there are multiple ways to play with it. It's sort of a cross between an artificial pet and a construction and management simulation. You need money to build additions to the house and to buy new furniture for it. The family has to earn that money by at least one member having a job. You can spend quite a lot of time in the buying-and-building mode, if you can afford it, which has nothing at all to do with artificial life. Some players, the particularly goal-oriented ones, really concentrate on this aspect, working hard to construct a mansion and fill it with luxuries. Others are more interested in the interactions among the people. In Figure 8.11 in Chapter 8, "The Internal Economy of Games and Game Balancing," you can see two sims dancing in their kitchen. This might have been spontaneous behavior, but it was more likely in response to an instruction given by the player.
+One of the best things about [The Sims](https://en.wikipedia.org/wiki/The_Sims) is that there are multiple ways to play with it. It's sort of a cross between an artificial pet and a construction and management simulation. You need money to build additions to the house and to buy new furniture for it. The family has to earn that money by at least one member having a job. You can spend quite a lot of time in the buying-and-building mode, if you can afford it, which has nothing at all to do with artificial life. Some players, the particularly goal-oriented ones, really concentrate on this aspect, working hard to construct a mansion and fill it with luxuries. Others are more interested in the interactions among the people. In Figure 8.11 in [Chapter 8](/part-1/chapter-8.md), "The Internal Economy of Games and Game Balancing," you can see two sims dancing in their kitchen. This might have been spontaneous behavior, but it was more likely in response to an instruction given by the player.
 
-[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)最棒的一点就是有多种玩法。它是一种介于人造宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在“购买和建造”模式中花费大量时间，这与人造生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在第 8 章“游戏的内部经济和游戏平衡”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
+[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)最棒的一点就是有多种玩法。它是一种介于人造宠物和建筑及管理模拟游戏之间的游戏。你需要钱来为房子添砖加瓦和购买新家具。家里至少要有一名成员工作才能赚到钱。如果你能负担得起，你可以在“购买和建造”模式中花费大量时间，这与人造生命完全无关。有些玩家，特别是目标明确的玩家，会把精力集中在这方面，努力建造一座豪宅，让里面充满奢侈品。而其他人则对人与人之间的互动更感兴趣。在[第八章]((/part-1/chapter-8.md))“游戏的内部经济和游戏平衡”中的图 8.11 中，你可以看到两个模拟人在厨房里跳舞。这可能是自发行为，但更有可能是对玩家指令的回应。
 
 ### Needs 需求
 
@@ -263,7 +263,7 @@ Of course, sometimes games contain bugs that allow a player to cheat in some way
 >  游戏由一系列谜题组成，每个谜题都涉及建造一个类似鲁布·戈德堡的机器来完成某项任务。每台机器都建在一个二维空间里，上面可以放置各种机械装置。(其中一些装置实际上是动物，它们可以被噪音吓到或被食物引诱）。谜题开始时，一些物体已经就位，胜利条件说明了玩家要完成的任务（例如，戳破气球）。玩家被给予有限数量的额外装置来放置在区域内。游戏的目的是放置这些装置并将它们连接起来，当机器开始运转时，目标就达到了。玩游戏的过程包括在机器上添加元素、尝试、调整、再尝试，等等。图 16.2 显示了[《不可思议的机器》](https://en.wikipedia.org/wiki/The_Incredible_Machine)中的一个场景。任务目标位于左侧。可用部件位于主工作区下方的区域。
 > Figure 16.2. The Incredible Machine. 图 16.2. 《不可思议的机器》。
 > 
-> ![](.gitbook/assets/16.2.png)
+> ![](../.gitbook/assets/16.2.png)
 > 
 > Scott Kim has identified three key design decisions that he feels have made [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) the prototypical construction puzzle game.
 > 

@@ -48,7 +48,7 @@ CRPGs are, generally, based strongly around a story. There are certain exception
 
 Figure 11.1. Nethack (Windows user interface shown). 图 11.1. 《迷宫骇客》（所示为 Windows 用户界面）。 
 
-![](.gitbook/assets/11.1.png)
+![](../.gitbook/assets/11.1.png)
 
 Although the story may be suspect, the character development and adventuring, exploration, and combat elements of the game are not. [Nethack](https://en.wikipedia.org/wiki/NetHack) offers an amazingly rich player experience, easily rivaling most of today's CRPGs. [Nethack](https://en.wikipedia.org/wiki/NetHack)'s basic game mechanic has been applied successfully to other products. For example, the original [Diablo](https://en.wikipedia.org/wiki/Diablo_(series)) from Blizzard owed more than a little of its success to the [Nethack](https://en.wikipedia.org/wiki/NetHack) design. In effect, [Diablo](https://en.wikipedia.org/wiki/Diablo_(series)) was a much simplified and extremely pretty version of [Nethack](https://en.wikipedia.org/wiki/NetHack).
 
@@ -365,7 +365,7 @@ The reason that the inventory is so important is that the player usually spends 
 
 Figure 11.2. An inventory problem. 图 11.2. 库存问题。
 
-![](.gitbook/assets/11.2.gif)
+![](../.gitbook/assets/11.2.gif)
 
 Even more fundamentally, this inventory abstraction is 2D. That's not to say that 3D would be better, but the major disadvantage with it being 2D is that the model strictly enforces placement rules as if the object storage area really was a 2D construct. It's almost as if the designers of CRPGs have entirely forgotten that storage packs really do have a volume.
 
@@ -377,7 +377,7 @@ Worse still is the hypothetical situation shown in Figure 11.3. We're not aware 
 
 Figure 11.3. Another inventory problem. 图 11.3. 另一个库存问题。
 
-![](.gitbook/assets/11.3.gif)
+![](../.gitbook/assets/11.3.gif)
 
 This section highlights various problems with the currently accepted abstraction of inventories used in most CRPGs. It's not as if there is anything fundamentally wrong that cannot be fixed; it's just that most inventories don't go far enough and force unnatural restrictions on what the player could reasonably expect to carry (for example, in [Nox](https://en.wikipedia.org/wiki/Nox_(video_game)) there is a hard limit on how many items of a certain type you can carry—even if you have space for more). The other main problem with the inventory convention is that it forces the player to do a lot of micromanagement that is otherwise unnecessary and is certainly not fun. Players want to role-play, not pack for a vacation.
 
@@ -391,11 +391,11 @@ Originally, CRPGs were essentially top-down affairs, as shown earlier in Figure 
 
 Figure 11.4. Ultima Underworld II. Figure 11.4. 《创世纪地下世界二》。
 
-![](.gitbook/assets/11.4.png)
+![](../.gitbook/assets/11.4.png)
 
 Figure 11.5. Wasteland. 图 11.5. 《荒野游侠》
 
-![](.gitbook/assets/11.5.png)
+![](../.gitbook/assets/11.5.png)
 
 Since the advent of hardware-assisted 3D technology, there have been many more instances of 3D-accelerated CRPGs. Some of these have been fully first-person 3D, such as [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) (although it does also provide a third-person view, shown in Figure 11.6). More CRPGs, however, have stuck to the classic third-person isometric approach, such as [Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance) on the PS2, or [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights) (shown in Figure 11.7).
 
@@ -403,11 +403,11 @@ Since the advent of hardware-assisted 3D technology, there have been many more i
 
 Figure 11.6. Elder Scrolls III: Morrowind. 图 11.7. 《上古卷轴三：晨风》。
 
-![](.gitbook/assets/11.6.png)
+![](../.gitbook/assets/11.6.png)
 
 Figure 11.7. Neverwinter Nights. 图 11.7. 《无冬之夜》。
 
-![](.gitbook/assets/11.7.png)
+![](../.gitbook/assets/11.7.png)
 
 > **CRPG Worksheet CRPG 工作表**
 > 

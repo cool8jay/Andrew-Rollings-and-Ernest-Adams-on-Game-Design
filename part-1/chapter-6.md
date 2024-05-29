@@ -94,7 +94,7 @@ Once the game was started, the in-game interface was usually very simple (see Fi
 
 Figure 6.1. The standard arcade game interface (Pac-Man Plus). 图 6.1. 标准的街机游戏界面（《吃豆人加强版》）
 
-![](.gitbook/assets/6.1.png)
+![](../.gitbook/assets/6.1.png)
 
 Williams's [Defender](https://en.wikipedia.org/wiki/Defender_(1981_video_game)) (shown in Figure 6.2) was arguably the first game to enhance this core interface by adding a minimap; it was one of the first games with a playing area larger than the visible screen.
 
@@ -102,7 +102,7 @@ Williams 的[《防卫者》]((https://en.wikipedia.org/wiki/Defender_(1981_vide
 
 Figure 6.2. Williams's Defender. 图 6.2. Williams 的《防卫者》。
 
-![](.gitbook/assets/6.2.png)
+![](../.gitbook/assets/6.2.png)
 
 Without waxing too lyrically about the nostalgia value of this proto-interface, it has to be said that there was a certain purity of purpose present. All the information that the player needed to be able to play the game was there at a glance. Of course, it wasn't that difficult to achieve, either; the limitations of the format pretty much dictated that the games be fairly simple. Any homogeny of interface was the result of the fact that there were only a few sensible ways of displaying the same information. The real progress occurred when the player needed to be fed too much information to be displayed on the screen at once.
 
@@ -122,7 +122,7 @@ In fact, taking a look at the rough lineage of golf games, it can be seen that t
 
 Figure 6.3. U.S. Gold's World Class Leaderboard. 图 6.3. 美国黄金协会的世界级排行榜。
 
-![](.gitbook/assets/6.3.jpg)
+![](../.gitbook/assets/6.3.jpg)
 
 This demonstrates an important point: Aside from the occasional flash of brilliance, the general progression of game interfaces has been an evolutionary, not revolutionary, one.
 
@@ -166,11 +166,11 @@ That aside, the point-and-click interface of the graphic adventure has changed v
 
 Figure 6.4. Leisure Suit Larry II. 图 6.4. 《休闲套装拉里二》。
 
-![](.gitbook/assets/6.4.png)
+![](../.gitbook/assets/6.4.png)
 
 Figure 6.5. Escape from Monkey Island. 图 6.5. 《逃离猴岛》。
 
-![](.gitbook/assets/6.5.jpg)
+![](../.gitbook/assets/6.5.jpg)
 
 There are two main paradigms for the interface that are currently in use. The first is the split-screen text- or icon-based interface, where the player selects actions in the selection area of the screen and watches the results in the results portion of the screen. An example of a game that uses this format is [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games)'s [Maniac Mansion: Day of the Tentacle](https://en.wikipedia.org/wiki/Day_of_the_Tentacle), shown in Figure 6.6.
 
@@ -178,7 +178,7 @@ There are two main paradigms for the interface that are currently in use. The fi
 
 Figure 6.6. Maniac Mansion: Day of the Tentacle. 图 6.6. 《疯狂豪宅：触手也疯狂》
 
-![](.gitbook/assets/6.6.jpg)
+![](../.gitbook/assets/6.6.jpg)
 
 The second paradigm, used by such games as [Myst](https://en.wikipedia.org/wiki/Myst) (shown in Figure 6.7), uses the whole screen as the interface. The player moves the cursor around the screen and clicks on objects or characters of interest. In this way, the story is visually progressed by player interaction. What this format loses in flexibility over the first system, it gains in atmosphere and immersion.
 
@@ -186,7 +186,7 @@ The second paradigm, used by such games as [Myst](https://en.wikipedia.org/wiki/
 
 Figure 6.7. Myst. 图 6.7. 《神秘岛》
 
-![](.gitbook/assets/6.7.jpg)
+![](../.gitbook/assets/6.7.jpg)
 
 We are not going to include games such as [Ion Storm](https://en.wikipedia.org/wiki/Ion_Storm)'s [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) in the category of adventure games. The action quotient in that game is too high to warrant inclusion, and we would prefer to class games of this type as a union of first/third-person shooters and role-playing games (even though it is a close call to make). Adventure games, on the other hand, are typically thought of as games that require pure thought and logic, and little in the way of reflexes. Thus, the game interface for the graphic adventure does not have speed as one of its main priorities, instead focusing on clarity of use.
 
@@ -208,7 +208,7 @@ Take, for example, an early role-playing game. [Out of the Shadows](https://en.w
 
 Figure 6.8. Out of the Shadows main game and character screen. 图 6.8. 《走出阴影》的主游戏和角色界面。
 
-![](.gitbook/assets/6.8.png)
+![](../.gitbook/assets/6.8.png)
 
 Now contrast this with the character generation screen from a more recent game, such as Black Isle Studio's [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), as shown in Figure 6.9.
 
@@ -216,7 +216,7 @@ Now contrast this with the character generation screen from a more recent game, 
 
 Figure 6.9. Planescape: Torment character generation screen. 图 6.9. 《异域镇魂曲》的角色生成界面。
 
-![](.gitbook/assets/6.9.png)
+![](../.gitbook/assets/6.9.png)
 
 Apart from the huge differences in the quality of the artwork and the capabilities of the target platforms, these screens are scarily similar in function. Sure, there are a few bells and whistles added to the latter example, but fundamentally, the functionality hasn't really changed in the 16 years between the two games. Note that we feel that [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) is an excellent game, and we are not trying to imply otherwise by singling it out for our example. We merely want to illustrate how the basic character generation interface has not changed in functionality over the years.
 
@@ -242,7 +242,7 @@ Like their cousin, the role-playing game, strategy and war games have their root
 
 Figure 6.10. Stonkers. 图 6.10. Stonkers
 
-![](.gitbook/assets/6.10.png)
+![](../.gitbook/assets/6.10.png)
 
 More recent RTS games (such as [Sudden Strike](https://en.wikipedia.org/wiki/Sudden_Strike), shown in Figure 6.11), classic strategy games (such as [Civilization III](https://en.wikipedia.org/wiki/Civilization_III), shown in Figures 6.12 and 6.13), and the more traditional war games (such as [Sid Meier's Gettysburg](https://en.wikipedia.org/wiki/Sid_Meier%27s_Gettysburg!), shown in Figure 6.14) have a similar user experience—at least at a superficial level. All games of this type are concerned with the same basic set of actions: controlling large groups of units to solve a goal that could not be achieved by one unit alone. Of course, once you go beyond this superficial level, there is some variance in the user interface; for example, [Civilization III](https://en.wikipedia.org/wiki/Civilization_III) has a diplomatic and city control interface that handles specific decisions at a wider level than those simply concerned with unit- and group-level decisions.
 
@@ -250,19 +250,19 @@ More recent RTS games (such as [Sudden Strike](https://en.wikipedia.org/wiki/Sud
 
 Figure 6.11. Sudden Strike. 图 6.11. 《突袭》
 
-![](.gitbook/assets/6.11.jpg)
+![](../.gitbook/assets/6.11.jpg)
 
 Figure 6.12. Civilization III in-game interface. 图 6.12. 《文明三》游戏界面。
 
-![](.gitbook/assets/6.12.jpg)
+![](../.gitbook/assets/6.12.jpg)
 
 Figure 6.13. Civilization III foreign advisory interface. 图 6.13. 《文明三》 外交顾问界面。
 
-![](.gitbook/assets/6.13.jpg)
+![](../.gitbook/assets/6.13.jpg)
 
 Figure 6.14. Sid Meier's Gettysburg. 图 6.14. 《盖茨堡战役》。
 
-![](.gitbook/assets/6.14.jpg)
+![](../.gitbook/assets/6.14.jpg)
 
 Because of its universal nature, the unit- and group-based interface has evolved to allow the player to control these groups easily. Games such as Blizzard's [Warcraft](https://en.wikipedia.org/wiki/Warcraft) and [Westwood](https://en.wikipedia.org/wiki/Westwood_Studios)'s [Command and Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) series have helped define the standard interface for RTS games that most games now follow. Left-clicking to select a unit, and then right-clicking on an object to select a context-sensitive action for the unit to perform on that object, have become familiar actions for most RTS gamers. More recently, the ability to click-drag select a group of units (a method borrowed directly from the Windows operating system) has been added to the repertoire.
 
@@ -282,11 +282,11 @@ In order to be an effective interface, it has to seamlessly handle three levels 
 
 Figure 6.15. Starcraft's unit micromanagement interface. 《星际争霸》的单位微观管理界面。
 
-![](.gitbook/assets/6.15.png)
+![](../.gitbook/assets/6.15.png)
 
 Figure 6.16. Risk. 图 6.16. 风险
 
-![](.gitbook/assets/6.16.gif)
+![](../.gitbook/assets/6.16.gif)
 
 The more serious war games, which have traditionally been rather dry in their presentation, have started to use a number of these more "gamer-friendly" techniques. Previously, these games have focused on the accuracy of the war simulation, rather than any presentational niceties, and generally, that suited the players of these games perfectly. However, in order to attract new players, designers have learned lessons from the more accessible RTS-style games, which in turn were derived from the need to make war games more accessible to the average gamer. Nowadays, the hard-core war games are, in many cases, virtually indistinguishable from the RTS games that they initially inspired.
 
@@ -300,7 +300,7 @@ So far, we've briefly covered a potted history of the user experience and how it
 
 Figure 6.17. Ms. Pac-Man: Quest for the Golden Maze. 图 6.17. 《吃豆人女士：探索黄金迷宫》。
 
-![](.gitbook/assets/6.17.jpg)
+![](../.gitbook/assets/6.17.jpg)
 
 This increase in complexity is not just limited to the software. As the presentation layer has become more complex, so has the equipment needed to control it. Take a look at Figure 6.18.
 
@@ -308,7 +308,7 @@ This increase in complexity is not just limited to the software. As the presenta
 
 Figure 6.18. Past to present: The Atari 2600 joystick versus the GameCube controller (not to scale). 图 6.18. 从过去到现在：雅达利 2600 操纵杆与 GameCube 控制器的对比（未按比例）。
 
-![](.gitbook/assets/6.18.png)
+![](../.gitbook/assets/6.18.png)
 
 The left-hand picture shows an Atari 2600 joystick. This joystick (circa 1977) was the pinnacle of home entertainment controllers in its day. What you see is what you get: one eight-directional digital stick and a single fire button. Compare it to the Nintendo GameCube controller on the right. This is arguably the most advanced (and well-designed) game controller to date. Take a look at what you get: three directional sticks (two analog and one eight-directional digital) and eight fire buttons. Clearly the sort of games that you can play with the GameCube controller will allow for a much finer degree of finesse in control than possible with the old Atari joystick. Of course, as with all evolution, there were dead-end branches—anyone actually use the Nintendo Power Glove or the Cheetah R.A.T.?
 
@@ -388,7 +388,7 @@ During our research for this chapter, we examined more than 2,000 screen capture
 
 Figure 6.19. Layouts. 图 6.19. 布局。
 
-![](.gitbook/assets/6.19.png)
+![](../.gitbook/assets/6.19.png)
 
 Note that we are certainly not claiming that these are the only layouts that have ever been used—if you find any other layouts in common use (not including those that are restricted because of technical considerations), feel free to email the authors, and we'll add them to the list.
 
@@ -468,7 +468,7 @@ Even though most games can be played using the standard controllers, some games 
 
 Figure 6.20. Specialized controllers. 图 6.20. 专用控制器。
 
-![](.gitbook/assets/6.20.png)
+![](../.gitbook/assets/6.20.png)
 
 [Steel Battalions](https://en.wikipedia.org/wiki/Steel_Battalion) by [Capcom](https://en.wikipedia.org/wiki/Capcom) costs about $200 for the game, with a huge custom dual-stick controller with more than thirty buttons and foot pedals. It is considered to be an amazing gaming experience, but the player must be at least a passing mechwarrior freak in order to appreciate it.
 
@@ -536,7 +536,7 @@ One small part of the "lives" concept that has managed to survive is the "power 
 
 Figure 6.21. An example power bar. 图 6.21. 能量条示例。
 
-![](.gitbook/assets/6.21.png)
+![](../.gitbook/assets/6.21.png)
 
 Some games—particularly accurate flight or race car simulations or games that are aiming for a particular "analog" theme—use dials (see Figure 6.22). These are a variation on the power bar and are often modeled after the real thing, particularly in the case of accurate simulations.
 
@@ -544,7 +544,7 @@ Some games—particularly accurate flight or race car simulations or games that 
 
 Figure 6.22. Dials (Microsoft Flight Simulator 2002). 图 6.22. 表盘（微软《飞行模拟器 2002》）。
 
-![](.gitbook/assets/6.22.png)
+![](../.gitbook/assets/6.22.png)
 
 As we've said, we're not going to go through an exhaustive list of the possible user interface elements. You can see that they are fairly self-evident, and that consequently describing all the possible elements would be next to impossible. Fortunately, it's also not necessary. Most of the possibilities are combinations of the few basic elements mentioned in this chapter, and the remainder are clearly visible in context elsewhere—for example, in other games, or in the standard Windows interface. The only required skill is in deciding how to use them, which is mainly a matter of common sense. When designing the interface, work out which information the player needs at hand quickly and which can be put out of immediate reach.
 
@@ -602,7 +602,7 @@ The development of the icon was precisely due to the problems with the efficienc
 
 Figure 6.23. Pharmacy icon. 图 6.23. 药房图标。
 
-![](.gitbook/assets/6.23.jpg)
+![](../.gitbook/assets/6.23.jpg)
 
 Another example is to use a picture of a duck (the fowl) to indicate that your avatar will duck (the action). That relies on a visual pun that only works if you have a good understanding of English. Again, it automatically cuts you off from foreign markets and creates unnecessary localization issues. That does not mean that you are restricted to strictly representative icons. There is nothing to say that an icon has to specifically represent its intended action. The aim of an icon is to give a visual clue that can be easily understood in the context of the situation. You don't need to stress out trying to make sure that your icon cannot be mistaken for anything else under some strange circumstance. Your players will be a little more forgiving than that. The only real concerns are that your icons cannot be mistaken for another in the same interface, and that there is at least some conceptual link between the icon and the action that it represents.
 
@@ -614,7 +614,7 @@ There are some pan-cultural images that have been developed over a period of tim
 
 Figure 6.24. Universal icons. 图 6.24. 通用图标
 
-![](.gitbook/assets/6.24.gif)
+![](../.gitbook/assets/6.24.gif)
 
 Try considering some of these icons in context. For example, if the hammer and wrench icon was displayed on the opening menu of a game, you could assume that it allowed you to access the game configuration screen. On the other hand, if it was displayed on the control panel of an in-game vehicle in a racing game, you could assume that it served as a pit-stop button or some other mechanical function. The important thing is that the context makes the difference. As long as the icon is the only one of that type, the meaning is unambiguous. For example, having a separate hammer and a separate wrench as two icons on the same screen would cause confusion and should be avoided, unless the game specifically calls for those two tools separately, and the player had already been made aware of the distinction.
 
@@ -658,7 +658,7 @@ The user interface of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Kee
 
 Figure 6.25. Dungeon Keeper. 图 6.25. 《地下城守护者》。
 
-![](.gitbook/assets/6.25.png)
+![](../.gitbook/assets/6.25.png)
 
 What could he have done to mitigate the poor design and boost those sales? There are a number of approaches he could have taken, and we will detail some of these here (but bear in mind that hindsight is always 20/20).
 
@@ -730,7 +730,7 @@ More recently, the concept of the "invisible interface" has been touted around t
 
 Figure 6.26. Black and White. 图 6.26. 《黑与白》
 
-![](.gitbook/assets/6.26.jpg)
+![](../.gitbook/assets/6.26.jpg)
 
 In this game, the player's avatar is a disembodied hand that responds directly to the movements of the mouse. There is virtually no other status information displayed on the screen. There are no icons or buttons for the player to click on; every action that can be performed in the game is done by moving the mouse. For example, in Figure 6.26, the mouse has been moved in a star configuration. The game recognizes that as the pattern required to cast a spell; hence, the glowing star in the image. Similarly, if you want to punish your creature, you move your hand up and down in a vigorous fashion when it is over your creature. This results in the creature being slapped. Moving your hand more slowly results in you tickling and caressing your creature, rewarding it. To move your hand around the landscape, you move the hand ahead of you, grab the landscape, and "pull" the view forward.
 
@@ -758,7 +758,7 @@ A major factor that will influence the effectiveness of your interface is the in
 
 Figure 6.27. Optimal presentation of information. 图 6.27. 信息的最佳呈现方式。
 
-![](.gitbook/assets/6.27.gif)
+![](../.gitbook/assets/6.27.gif)
 
 One last important consideration—specifically for the PC—is to make sure that whatever interface you provide has keyboard shortcuts where possible. As players become more advanced in their game skills, they will often prefer to access a game function directly rather than through a hierarchy of menus or options. This is one major advantage that PCs have over consoles, and it makes our task as a game designer that little bit simpler. It's important to take every advantage given to you in order to make your game shine above others. The ability to offer an alternate "fast-track" interface for experienced players is one of those small touches that makes a difference.
 
@@ -790,7 +790,7 @@ We're not complete Luddites. We happen to play and enjoy a lot of 3D games, but 
 
 Figure 6.28. Starship Troopers: Terran Ascendancy. 图 6.28. 《星河战队：人族上升》
 
-![](.gitbook/assets/6.28.png)
+![](../.gitbook/assets/6.28.png)
 
 Both games are similar in style, but the latter game, [Starship Troopers: Terran Ascendancy](https://en.wikipedia.org/wiki/Starship_Troopers:_Terran_Ascendancy), uses a polygon-based engine. It can be seen from the figure that the graphics are inferior to [Sudden Strike](https://en.wikipedia.org/wiki/Sudden_Strike): less detailed and more sparse. Of course, what you lose in detail you gain in flexibility—the player can rotate the camera view to get a different take on the action. The question is, "Why?" Does this improve the gameplay? The answer is probably not. The camera will just overcomplicate the interface, and most players will end up just playing it from the default overhead view anyway (in which case, sprites would look better).
 
