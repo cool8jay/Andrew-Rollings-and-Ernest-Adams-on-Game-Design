@@ -22,8 +22,6 @@
 * [Chapter 15. Adventure Games 第十五章：冒险游戏](chapter-15.md)
 * [Chapter 16. Artificial Life, Puzzle Games, and Other Genres 第十六章：人造生命，益智游戏和其它类型](chapter-16.md)
 
-## Part III: Appendixes 第三部分 附录
-
 * [Part III: Appendixes 第三部分 附录](/part-3/readme.md)
 	* [Appendix A. Sample Design Documents](/part-3/appendix-a/readme.md)
 		* [Creating and Using Design Documents](/part-3/appendix-a/creaing-and-using-design-documents.md)
