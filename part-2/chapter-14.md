@@ -6,9 +6,9 @@ The first really successful computerized construction and management simulation 
 
 第一个真正成功的计算机化建设和管理模拟游戏（我们从现在开始简称为 CMS）是[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)。我们将在本章稍后部分详细介绍它。[《模拟城市》](https://en.wikipedia.org/wiki/SimCity)证明，电脑游戏不需要高速动作或暴力就能获得成功；它之所以成功，部分原因在于它没有这些东西，而且吸引了广大的受众。
 
-At the end of this chapter, we also have a section called "Pure Business Simulations," devoted to games in which the player doesn't really "construct" anything, and another section called "Hybrid Games", about games that are a hybrid of CMS and war games, such as [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). Military strategy is addressed in [Chapter 10](chapter-10.md), "Strategy Games", but some of these hybrid games include interesting economic elements as well; we'll refer to them throughout this chapter, where appropriate.
+At the end of this chapter, we also have a section called "Pure Business Simulations," devoted to games in which the player doesn't really "construct" anything, and another section called "Hybrid Games", about games that are a hybrid of CMS and war games, such as [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). Military strategy is addressed in [Chapter 10](/part-2/chapter-10.md), "Strategy Games", but some of these hybrid games include interesting economic elements as well; we'll refer to them throughout this chapter, where appropriate.
 
-在本章末尾，我们还有一节名为“纯商业模拟”的内容，专门介绍玩家并不真正“构建”任何东西的游戏；另一节名为“混合游戏”，介绍 CMS 和战争游戏的混合体，如[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)。军事战略在[第十章](chapter-10.md)“策略游戏”中论述，但其中一些混合游戏也包含有趣的经济元素；我们将在本章适当的地方提到它们。
+在本章末尾，我们还有一节名为“纯商业模拟”的内容，专门介绍玩家并不真正“构建”任何东西的游戏；另一节名为“混合游戏”，介绍 CMS 和战争游戏的混合体，如[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)。军事战略在[第十章](/part-2/chapter-10.md)“策略游戏”中论述，但其中一些混合游戏也包含有趣的经济元素；我们将在本章适当的地方提到它们。
 
 # The Common Elements of CMSs CMS 的共同要素
 

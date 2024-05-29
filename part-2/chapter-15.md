@@ -5,9 +5,9 @@ The term adventure game is a bit misleading because a lot of games about being a
 
 # What Is an Adventure Game? 什么是冒险游戏？
 
-An adventure game isn't a competition or a simulation. An adventure game doesn't offer a process to be managed or an opponent to be defeated through strategy and tactics. Instead, an adventure game is an interactive story about a character who is controlled by the player. [Chapter 4](chapter-4.md), "Storytelling and Narrative," discussed this idea in theoretical terms. The adventure game is the idea's practical application, although the way in which interactivity and narrative are handled varies considerably from game to game.
+An adventure game isn't a competition or a simulation. An adventure game doesn't offer a process to be managed or an opponent to be defeated through strategy and tactics. Instead, an adventure game is an interactive story about a character who is controlled by the player. [Chapter 4](/part-1/chapter-4.md), "Storytelling and Narrative," discussed this idea in theoretical terms. The adventure game is the idea's practical application, although the way in which interactivity and narrative are handled varies considerably from game to game.
 
-冒险游戏不是竞赛或模拟。冒险游戏不提供需要管理的过程，也不提供需要通过战略战术打败的对手。相反，冒险游戏是一个互动故事，讲述的是一个由玩家控制的角色。[第四章](chapter-4.md)“讲故事和叙事”从理论上讨论了这一观点。冒险游戏是这一理念的实际应用，尽管不同游戏处理互动性和叙事性的方式大相径庭。
+冒险游戏不是竞赛或模拟。冒险游戏不提供需要管理的过程，也不提供需要通过战略战术打败的对手。相反，冒险游戏是一个互动故事，讲述的是一个由玩家控制的角色。[第四章](/part-1/chapter-4.md)“讲故事和叙事”从理论上讨论了这一观点。冒险游戏是这一理念的实际应用，尽管不同游戏处理互动性和叙事性的方式大相径庭。
 
 All adventure games are conceptual descendants of the original Adventure. Although the genre has changed considerably over the years, the games are characterized by certain qualities that they all share: exploration, collection or manipulation of objects, puzzle solving, and a reduced emphasis on combat and action elements. This doesn't mean that there is no conflict in adventure games (although many adventure games have none)—only that combat is not the primary activity.
 

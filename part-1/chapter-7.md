@@ -27,9 +27,9 @@ This chapter attempts to define gameplay without reference to itself or reliance
 
 # Defining Gameplay 定义游戏性
 
-Although we briefly discussed (and loosely defined) gameplay in [Chapter 2](chapter-2.md), "Game Concepts," we did so in terms of the player experience. To continue, we examine gameplay independent of the player experience. We examine the core concepts of gameplay, which are invariant with the player. To do this, we need to state a player-independent definition of gameplay. Sid Meier once defined gameplay as "a series of interesting choices." This is an excellent starting point and forms the basis of our definition of gameplay. We take this statement one step further with our formal definition of gameplay:
+Although we briefly discussed (and loosely defined) gameplay in [Chapter 2](/part-1/chapter-2.md), "Game Concepts," we did so in terms of the player experience. To continue, we examine gameplay independent of the player experience. We examine the core concepts of gameplay, which are invariant with the player. To do this, we need to state a player-independent definition of gameplay. Sid Meier once defined gameplay as "a series of interesting choices." This is an excellent starting point and forms the basis of our definition of gameplay. We take this statement one step further with our formal definition of gameplay:
 
-尽管我们在[第二章](chapter-2.md)“游戏概念”中简要讨论了（并且粗略定义了）游戏性，但那是从玩家体验的角度出发的。下面，我们将继续探讨独立于玩家体验的游戏性。我们将研究游戏性的核心概念，这些概念是与玩家无关的。为此，我们需要对游戏性下一个与玩家无关的定义。席德·梅尔曾将游戏性定义为“一系列有趣的选择”。这是一个很好的出发点，也是我们定义游戏性的基础。我们在此基础上更进一步，提出了游戏性的正式定义：
+尽管我们在[第二章](/part-1/chapter-2.md)“游戏概念”中简要讨论了（并且粗略定义了）游戏性，但那是从玩家体验的角度出发的。下面，我们将继续探讨独立于玩家体验的游戏性。我们将研究游戏性的核心概念，这些概念是与玩家无关的。为此，我们需要对游戏性下一个与玩家无关的定义。席德·梅尔曾将游戏性定义为“一系列有趣的选择”。这是一个很好的出发点，也是我们定义游戏性的基础。我们在此基础上更进一步，提出了游戏性的正式定义：
 
 > One or more causally linked series of challenges in a simulated environment.
 > 模拟环境中一个或多个因果联系的系列挑战。
@@ -472,9 +472,9 @@ Physical challenges are not often found in their pure form, and because of the e
 
 ## Applied Challenges 应用挑战
 
-You will recall from [Chapter 2](chapter-2.md) that gameplay consists of the challenges the player faces, plus the actions she can take to overcome them. As we said previously, designing the gameplay is one of your most important design tasks. To some extent, the nature of the challenge suggests the nature of the player's response. The best games, however, allow the player to think creatively and use unconventional actions to meet the challenges.
+You will recall from [Chapter 2](/part-1/chapter-2.md) that gameplay consists of the challenges the player faces, plus the actions she can take to overcome them. As we said previously, designing the gameplay is one of your most important design tasks. To some extent, the nature of the challenge suggests the nature of the player's response. The best games, however, allow the player to think creatively and use unconventional actions to meet the challenges.
 
-大家应该还记得，在[第二章](chapter-2.md)中，游戏玩法包括玩家所面临的挑战，以及玩家为克服这些挑战所能采取的行动。正如我们之前所说，设计游戏玩法是最重要的设计任务之一。在某种程度上，挑战的性质决定了玩家反应的性质。然而，最好的游戏能让玩家发挥创造性思维，使用非常规的操作来应对挑战。
+大家应该还记得，在[第二章](/part-1/chapter-2.md)中，游戏玩法包括玩家所面临的挑战，以及玩家为克服这些挑战所能采取的行动。正如我们之前所说，设计游戏玩法是最重要的设计任务之一。在某种程度上，挑战的性质决定了玩家反应的性质。然而，最好的游戏能让玩家发挥创造性思维，使用非常规的操作来应对挑战。
 
 At the concept stage, you don't have to define precisely what challenges the player will face, but it's good to have an idea of what kinds of challenges you want in the game. Applied challenges are the application and use of the pure challenge forms we have discussed thus far. An applied challenge is a combination of one or more pure challenge forms applied to a given gameplay situation or style.
 

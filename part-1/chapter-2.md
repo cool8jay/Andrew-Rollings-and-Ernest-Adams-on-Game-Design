@@ -1,6 +1,6 @@
-This chapter addresses the earliest stage of game design: getting and refining an idea for a game. Your goal at this point should be to write the high-concept document that we described in Chapter 1, "What Is Game Design?." To do this, you don't have to have all the details worked out yet. But you do need a clear understanding of what your game is about, and you must answer certain essential questions. When you've answered those questions to your satisfaction and have written down the answers, you have turned your idea into a game concept. At the end of this chapter, we've included a worksheet to help you out.
+This chapter addresses the earliest stage of game design: getting and refining an idea for a game. Your goal at this point should be to write the high-concept document that we described in [Chapter 1](/part-1/chapter-1.md), "What Is Game Design?." To do this, you don't have to have all the details worked out yet. But you do need a clear understanding of what your game is about, and you must answer certain essential questions. When you've answered those questions to your satisfaction and have written down the answers, you have turned your idea into a game concept. At the end of this chapter, we've included a worksheet to help you out.
 
-本章讲述游戏设计的最初阶段：获得并完善游戏创意。此时，你的目标应该是写出我们在第一章，“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的创意变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
+本章讲述游戏设计的最初阶段：获得并完善游戏创意。此时，你的目标应该是写出我们在[第一章](/part-1/chapter-1.md)“什么是游戏设计？”中描述的高概念文档。要做到这一点，你不需要把所有细节都想好。但你确实需要清楚地了解你的游戏是关于什么的，而且你必须回答一些基本问题。当你满意地回答了这些问题并把答案写下来时，你就把你的创意变成了游戏概念。在本章末尾，我们提供了一份表格来帮助你。
 
 # Getting an Idea 获取创意
 
@@ -224,9 +224,9 @@ A common error made by beginning game designers is to concern themselves with th
 
 初出茅庐的游戏设计师常犯的一个错误是在设计过程中过早地关注故事情节。设计师首先要考虑的不是“我要向玩家展示或讲述什么？”而是“玩家要做什么？”。在构思游戏时，你不必确切知道游戏中要包含哪些叙事内容。如果你现在就在做，那你就把注意力放在了错误的地方。你只需知道是否需要一个故事，如果需要，故事的总体方向是什么。你应该能够用一两句话来概括，例如：“杰克·琼斯是美国缉毒署秘密特遣部队的队长，他将对毒枭展开一系列突袭行动，最后在哥伦比亚的可卡因田里展开一场末日之战。一路上，他遇到的一些人并不像他们看起来的那样”。请记住，故事情节中的错误比游戏玩法中的错误更容易纠正，玩家也更容易原谅。首先确保你熟习你的游戏，然后在游戏中构建你的故事。
 
-We discuss storytelling and narrative at length in [Chapter 4](chapter-4.md), "Storytelling and Narrative."
+We discuss storytelling and narrative at length in [Chapter 4](/part-1/chapter-4.md), "Storytelling and Narrative."
 
-我们将在[第四章](chapter-4.md)“讲故事和叙事”中详细讨论讲故事和叙事的问题。
+我们将在[第四章](/part-1/chapter-4.md)“讲故事和叙事”中详细讨论讲故事和叙事的问题。
 
 # Understanding Your Audience 了解受众
 

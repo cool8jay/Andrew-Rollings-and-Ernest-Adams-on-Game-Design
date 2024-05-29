@@ -130,9 +130,9 @@ This is not to say that you must choose only a sci-fi or fantasy setting for you
 
 这并不是说你的 CRPG 必须只选择科幻或奇幻背景。例如，现实世界中有很多只有少数人才能体验到的活动。我们可以很容易地想象出一款以洛杉矶街头警察从菜鸟到老手的成长过程为背景的 CRPG（[雪乐山](https://en.wikipedia.org/wiki/Sierra_Entertainment) 的[《警察故事》](https://en.wikipedia.org/wiki/Police_Quest)系列不算，它们是纯粹的冒险游戏）。类似的职业还有很多，它们都可以（也应该）被有效地运用到 CRPG 中。然而，绝大多数 CRPG 都牢牢扎根于科幻或奇幻阵营。
 
-Commonly, CRPGs pride themselves on the inordinate length of time required to complete them. It's not uncommon to see advertisements for CRPGs boasting "over 120 hours of gameplay." That's all well and good, but how many people—outside of a relatively small hardcore contingent—have both the time and the disposable income to invest in such a marathon game-playing session? Of course, usually the game experience is broken down into a number of serialized episodes (see [Chapter 4](chapter-4.md), "Storytelling and Narrative") in order to make the game more manageable; but even with this concession, there are few players who are prepared to commit that much time to what is essentially a frivolous activity.
+Commonly, CRPGs pride themselves on the inordinate length of time required to complete them. It's not uncommon to see advertisements for CRPGs boasting "over 120 hours of gameplay." That's all well and good, but how many people—outside of a relatively small hardcore contingent—have both the time and the disposable income to invest in such a marathon game-playing session? Of course, usually the game experience is broken down into a number of serialized episodes (see [Chapter 4](/part-1/chapter-4.md), "Storytelling and Narrative") in order to make the game more manageable; but even with this concession, there are few players who are prepared to commit that much time to what is essentially a frivolous activity.
 
-通常，CRPG 以完成游戏所需的超长时间为傲。在 CRPG 的广告中，“游戏时间超过 120 小时”的标语屡见不鲜。这一切都很好，但除了相对较少的铁杆玩家之外，有多少人有时间和可支配收入投入到如此马拉松式的游戏中呢？当然，为了使游戏更易于管理，游戏体验通常会被分解成若干个连续的章节（见[第四章](chapter-4.md)“讲故事和叙事”）；但即使做出了这样的让步，也很少有玩家愿意投入这么多时间来进行本质上是无聊的活动。
+通常，CRPG 以完成游戏所需的超长时间为傲。在 CRPG 的广告中，“游戏时间超过 120 小时”的标语屡见不鲜。这一切都很好，但除了相对较少的铁杆玩家之外，有多少人有时间和可支配收入投入到如此马拉松式的游戏中呢？当然，为了使游戏更易于管理，游戏体验通常会被分解成若干个连续的章节（见[第四章](/part-1/chapter-4.md)“讲故事和叙事”）；但即使做出了这样的让步，也很少有玩家愿意投入这么多时间来进行本质上是无聊的活动。
 
 Notwithstanding the inherent problems with games of this length, we must also consider the difficulty of creating a story compelling enough to keep the player intrigued for this length of time. The most important part of the story is the opening. If you manage to hook the player with a good opening, then the chances are you've got her for the rest of the game. If your opening is not engaging, then it doesn't matter how compelling the rest of the story is—you will have lost a large percentage of your audience.
 
@@ -337,9 +337,9 @@ A better method would be to display a progress bar. The speed with which the tas
 
 ### Navigation and Control 导航和控制
 
-The range of actions that a player can take in a CRPG is usually much greater than any other form of game. Consequently, there is a corresponding increase in the complexity of the interface. For PC titles, this is handled by a combined mouse/iconic interface (for the most part—some titles resort to keyboard only), and similarly console titles tend to duplicate the functionality of a mouse using analog controllers. See [Chapter 6](chapter-6.md), "Creating the User Experience," for more information on user interface design. Much of the advice in that chapter is directly applicable to CRPGs.
+The range of actions that a player can take in a CRPG is usually much greater than any other form of game. Consequently, there is a corresponding increase in the complexity of the interface. For PC titles, this is handled by a combined mouse/iconic interface (for the most part—some titles resort to keyboard only), and similarly console titles tend to duplicate the functionality of a mouse using analog controllers. See [Chapter 6](/part-1/chapter-6.md), "Creating the User Experience," for more information on user interface design. Much of the advice in that chapter is directly applicable to CRPGs.
 
-在 CRPG 中，玩家可以采取的行动范围通常比其他任何形式的游戏都要大得多。因此，界面的复杂性也相应增加。在 PC 游戏中，玩家可以使用鼠标/声控组合界面（大多数情况下——有些游戏只使用键盘），同样，游戏机游戏也倾向于使用模拟控制器来复制鼠标的功能。有关用户界面设计的更多信息，请参见[第六章](chapter-6.md)“创建用户体验”。该章中的许多建议都直接适用于 CRPG。
+在 CRPG 中，玩家可以采取的行动范围通常比其他任何形式的游戏都要大得多。因此，界面的复杂性也相应增加。在 PC 游戏中，玩家可以使用鼠标/声控组合界面（大多数情况下——有些游戏只使用键盘），同样，游戏机游戏也倾向于使用模拟控制器来复制鼠标的功能。有关用户界面设计的更多信息，请参见[第六章](/part-1/chapter-6.md)“创建用户体验”。该章中的许多建议都直接适用于 CRPG。
 
 ### Inventory 库存
 
