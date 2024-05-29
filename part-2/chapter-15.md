@@ -37,9 +37,9 @@ The original Adventure didn't have any plot; it just offered a space to explore 
 
 最初的《冒险》没有任何情节，它只是提供了一个可供探索的空间和可供解决的谜题。除了少数例外情况，它的世界并没有随着时间的流逝而改变。但不久之后，游戏开始探索“互动小说”的概念，即玩家积极参与的持续故事。有些游戏与书籍一起出售，玩家可以提前阅读。在计算机游戏设计的所有分支中，互动小说一直是学术研究最多的主题，因为它挑战了传统的叙事概念。
 
-As soon as personal computers began to get graphics capability (the very earliest were text-only), developers began to add graphics to adventure games and the games really took off. LucasArts and Sierra On-Line dominated the genre, and for a while they produced the best-looking, highest-class games on the market: funny, scary, mysterious, and fascinating. Adventure games provided challenges and explored areas that other genres didn't touch. Myst, a point-and-click graphic adventure, was for many years the best-selling personal computer game of all time. (It has recently been supplanted by The Sims.)
+As soon as personal computers began to get graphics capability (the very earliest were text-only), developers began to add graphics to adventure games and the games really took off. LucasArts and Sierra On-Line dominated the genre, and for a while they produced the best-looking, highest-class games on the market: funny, scary, mysterious, and fascinating. Adventure games provided challenges and explored areas that other genres didn't touch. [Myst](https://en.wikipedia.org/wiki/Myst), a point-and-click graphic adventure, was for many years the best-selling personal computer game of all time. (It has recently been supplanted by The Sims.)
 
-当个人电脑开始具备图形功能（最早的电脑只有文字功能）时，开发人员就开始在冒险游戏中加入图形，于是冒险游戏真正开始流行。LucasArts 和 Sierra On-Line 主导了这一类型的游戏，在一段时间内，他们制作了市场上最漂亮、最高级的游戏：有趣、恐怖、神秘、引人入胜。冒险游戏提供了挑战，探索了其他类型游戏没有涉足的领域。《神秘岛》是一款点击式图形冒险游戏，多年来一直是最畅销的个人电脑游戏。(最近被《模拟人生》取代）。
+当个人电脑开始具备图形功能（最早的电脑只有文字功能）时，开发人员就开始在冒险游戏中加入图形，于是冒险游戏真正开始流行。LucasArts 和 Sierra On-Line 主导了这一类型的游戏，在一段时间内，他们制作了市场上最漂亮、最高级的游戏：有趣、恐怖、神秘、引人入胜。冒险游戏提供了挑战，探索了其他类型游戏没有涉足的领域。[《神秘岛》](https://en.wikipedia.org/wiki/Myst)是一款点击式图形冒险游戏，多年来一直是最畅销的个人电脑游戏。(最近被《模拟人生》取代）。
 
 ## Adventure Games Today 当今的冒险游戏
 
@@ -51,15 +51,15 @@ The invention of 3D hardware accelerators has actually given adventure games a n
 
 三维硬件加速器的发明实际上为冒险游戏注入了新的活力。我们通常认为，动态三维世界最早出现在车辆模拟和第一人称射击游戏中，但三维硬件也能为冒险游戏带来很多乐趣。首批图形冒险游戏的每个场景都有华丽的背景，但都是静态的。玩家可以看到很多东西，但能触摸到的却很少。但是，当每个物体都以三维空间呈现，并且可以在其中自由移动时，世界就变得更加直接和生动。
 
-The static-backdrop adventure game is still very much with us, but nowadays it is likely to use scenes created with 3D rendering software and raytracing rather than pixel painting. Myst was the first commercial game to use 3D rendered backgrounds, which contributed to its success.
+The static-backdrop adventure game is still very much with us, but nowadays it is likely to use scenes created with 3D rendering software and raytracing rather than pixel painting. [Myst](https://en.wikipedia.org/wiki/Myst) was the first commercial game to use 3D rendered backgrounds, which contributed to its success.
 
-静态背景的冒险游戏依然存在，但现在可能使用三维渲染软件和光线追踪技术制作场景，而不是像素绘画。《神秘岛》是第一款使用三维渲染背景的商业游戏，这为它的成功做出了贡献。
+静态背景的冒险游戏依然存在，但现在可能使用三维渲染软件和光线追踪技术制作场景，而不是像素绘画。[《神秘岛》](https://en.wikipedia.org/wiki/Myst)是第一款使用三维渲染背景的商业游戏，这为它的成功做出了贡献。
 
 ### Action-Adventure 动作冒险游戏
 
-The arrival of 3D hardware also gave rise to a new sort of game, a combination of action game and adventure game called, unsurprisingly, an action-adventure. The action-adventure is faster paced than a pure adventure game, and it includes physical as well as conceptual challenges. Indiana Jones and the Infernal Machine is a good example of the type. The Legend of Zelda: Ocarina of Time might be considered another, although, with its levels and bosses, it's closer to being a pure action game. Exactly when a game stops being an adventure game and becomes an action game is a matter of interpretation. By some interpretations, the Tomb Raider games are action-adventures because they do include puzzles, but the puzzles aren't all that clever, and the action is so continuous that we would classify it as an action game.
+The arrival of 3D hardware also gave rise to a new sort of game, a combination of action game and adventure game called, unsurprisingly, an action-adventure. The action-adventure is faster paced than a pure adventure game, and it includes physical as well as conceptual challenges. [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine) is a good example of the type. [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) might be considered another, although, with its levels and bosses, it's closer to being a pure action game. Exactly when a game stops being an adventure game and becomes an action game is a matter of interpretation. By some interpretations, the Tomb Raider games are action-adventures because they do include puzzles, but the puzzles aren't all that clever, and the action is so continuous that we would classify it as an action game.
 
-3D 硬件的出现也催生了一种新的游戏，一种动作游戏和冒险游戏的结合体，毫不奇怪，它被称为动作冒险游戏。与纯粹的冒险游戏相比，动作冒险游戏的节奏更快，它既包括物理挑战，也包括概念挑战。《印第安纳·琼斯与无间机器》就是一个很好的例子。塞尔达传说：时之笛》可能被认为是另一种类型的游戏，尽管它的关卡和头目更接近于纯粹的动作游戏。至于一款游戏何时不再是冒险游戏，而成为动作游戏，则是一个解释问题。根据某些解释，《古墓丽影》游戏属于动作冒险游戏，因为其中确实包含谜题，但谜题并不那么巧妙，而且动作非常连续，因此我们会将其归类为动作游戏。
+3D 硬件的出现也催生了一种新的游戏，一种动作游戏和冒险游戏的结合体，毫不奇怪，它被称为动作冒险游戏。与纯粹的冒险游戏相比，动作冒险游戏的节奏更快，它既包括物理挑战，也包括概念挑战。[《印第安纳·琼斯与恶魔机器》](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)就是一个很好的例子。[《塞尔达传说：时之笛》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)可能被认为是另一种类型的游戏，尽管它的关卡和头目更接近于纯粹的动作游戏。至于一款游戏何时不再是冒险游戏，而成为动作游戏，则是一个解释问题。根据某些解释，《古墓丽影》游戏属于动作冒险游戏，因为其中确实包含谜题，但谜题并不那么巧妙，而且动作非常连续，因此我们会将其归类为动作游戏。
 
 Adventure game purists don't care for action-adventures; generally, they dislike any sort of physical challenge or time pressure. If you plan to make your game an action-adventure, you should be aware that although your design might appeal to some action gamers who might not otherwise buy your game, you might also discourage some adventure gamers who would.
 
@@ -103,9 +103,9 @@ Adventure games do not have intricate strategy, high-speed action, or management
 
 ## Interaction Model 互动模式
 
-All adventure games are avatar-based because the player is being represented by someone who is inside a story. However, the nature of the avatar in adventure games has changed somewhat over the years. Both Adventure and Myst were careful to avoid ascribing characteristics to the avatar in the game—sex, age, and so on. The avatar wasn't a character with his or her own personal history; it was the player, but because the game didn't know anything about the player, it couldn't depict her or say much about her. A number of later text adventures asked for the player's name and sex when started up, using that information later in the game. They were trying to create the impression that it really was "you" in the game world, and they didn't want to offend players by assuming that they were the wrong sex. In Myst, the world was shown from a first-person perspective, and there were no mirrors in which the player could catch sight of herself.
+All adventure games are avatar-based because the player is being represented by someone who is inside a story. However, the nature of the avatar in adventure games has changed somewhat over the years. Both Adventure and [Myst](https://en.wikipedia.org/wiki/Myst) were careful to avoid ascribing characteristics to the avatar in the game—sex, age, and so on. The avatar wasn't a character with his or her own personal history; it was the player, but because the game didn't know anything about the player, it couldn't depict her or say much about her. A number of later text adventures asked for the player's name and sex when started up, using that information later in the game. They were trying to create the impression that it really was "you" in the game world, and they didn't want to offend players by assuming that they were the wrong sex. In Myst, the world was shown from a first-person perspective, and there were no mirrors in which the player could catch sight of herself.
 
-所有冒险游戏都是以虚拟人物为基础的，因为玩家是由故事中的人物所代表的。然而，多年来，冒险游戏中化身的性质发生了一些变化。《冒险》和《神秘岛》都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描绘，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是 “你”，他们不想因为假设玩家性别错误而冒犯玩家。在《神秘世界》中，世界是以第一人称视角展现的，没有镜子可以让玩家看到自己。
+所有冒险游戏都是以虚拟人物为基础的，因为玩家是由故事中的人物所代表的。然而，多年来，冒险游戏中化身的性质发生了一些变化。《冒险》和[《神秘岛》](https://en.wikipedia.org/wiki/Myst)都很注意避免给游戏中的化身赋予性别、年龄等特征。化身并不是一个有自己个人经历的角色；它就是玩家，但因为游戏对玩家一无所知，所以无法对其进行描绘，也无法对其进行过多描述。后来的一些文字冒险游戏在启动时会询问玩家的姓名和性别，并在游戏后期使用这些信息。他们试图给人一种印象，即在游戏世界中的真的是 “你”，他们不想因为假设玩家性别错误而冒犯玩家。在《神秘世界》中，世界是以第一人称视角展现的，没有镜子可以让玩家看到自己。
 
 Eventually, however, game designers began to find this model too limiting. They wanted to develop games in which the avatar was a character with a personality of his own, someone who belonged in the game world rather than being a visitor there. Two good examples of this approach are Sierra On-Line's Leisure Suit Larry series and LucasArts's Monkey Island series. In these games, the player could see his avatar walking around interacting with the world. Both Larry and Guybrush Threepwood, the hero of the Monkey Island games, are comic figures, and the games are played primarily for laughs.
 
@@ -129,7 +129,7 @@ In the context-sensitive perspective, the game depicts the avatar over a (mostly
 
 Figure 15.1. A scene in the original Leisure Suit Larry. 图 15.1. 原版《Leisure Suit Larry》中的一个场景。
 
-graphics/15fig01.gif
+![](../.gitbook/assets/15.1.png)
 
 As display hardware improved, game development began to require more artists and the quality of the artwork improved considerably. The game's art director chose a camera position designed to show off each location to best effect. Compare Figure 15.1 with Figure 15.2 from Grim Fandango.
 
@@ -137,7 +137,7 @@ As display hardware improved, game development began to require more artists and
 
 Figure 15.2. A scene in Grim Fandango. Note the camera position. 图 15.2. 《Grim Fandango》中的一个场景。注意摄像机的位置。
 
-graphics/15fig02.gif
+![](../.gitbook/assets/15.2.png)
 
 A context-sensitive perspective lets the designer (or art director) play cinematographer, using camera angles, composition, and lighting to enhance the story. Use these techniques with discretion, however. A light touch is best. If you watch movies closely, you'll notice that the majority of shots are pretty straightforward. Movie directors don't use unexpected angles just for the fun of it; they do so to make a deliberate point.
 
@@ -145,9 +145,9 @@ A context-sensitive perspective lets the designer (or art director) play cinemat
 
 ## First Person 第一人称
 
-One of the most famous graphic adventure games of all, Myst, used a first-person perspective. The player's avatar was not seen; in fact, like the earliest text adventures, the player didn't really have an avatar in the sense of a character who belonged in the story. Instead, it was the player himself who was in the game world. Unlike first-person shooters, however, Myst did not render a three-dimensional game world in real time. The game world consisted of a large number of prerendered still frames, which it showed one at a time as the player walked around. Being prerendered, these stills were finely detailed and highly atmospheric. On the other hand, they couldn't depict continuously moving objects or changes in the sunlight as time passed, and the player couldn't look at things from any angle. The world was rich but static.
+One of the most famous graphic adventure games of all, [Myst](https://en.wikipedia.org/wiki/Myst), used a first-person perspective. The player's avatar was not seen; in fact, like the earliest text adventures, the player didn't really have an avatar in the sense of a character who belonged in the story. Instead, it was the player himself who was in the game world. Unlike first-person shooters, however, Myst did not render a three-dimensional game world in real time. The game world consisted of a large number of prerendered still frames, which it showed one at a time as the player walked around. Being prerendered, these stills were finely detailed and highly atmospheric. On the other hand, they couldn't depict continuously moving objects or changes in the sunlight as time passed, and the player couldn't look at things from any angle. The world was rich but static.
 
-最著名的图形冒险游戏之一《神秘岛》采用第一人称视角。游戏中看不到玩家的化身；事实上，与最早的文字冒险游戏一样，玩家并没有真正意义上的化身，也就是故事中的角色。相反，玩家自己才是游戏世界的主角。不过，与第一人称射击游戏不同的是，《Myst》并没有实时呈现三维游戏世界。游戏世界由大量预先渲染好的静止画面组成，当玩家在游戏中行走时，这些画面就会一帧一帧地显示出来。由于是预渲染，这些静态画面细节细腻，氛围浓厚。但另一方面，它们无法描绘持续移动的物体或随着时间流逝阳光的变化，玩家也无法从任何角度观察事物。世界是丰富的，但也是静态的。
+最著名的图形冒险游戏之一[《神秘岛》](https://en.wikipedia.org/wiki/Myst)采用第一人称视角。游戏中看不到玩家的化身；事实上，与最早的文字冒险游戏一样，玩家并没有真正意义上的化身，也就是故事中的角色。相反，玩家自己才是游戏世界的主角。不过，与第一人称射击游戏不同的是，《Myst》并没有实时呈现三维游戏世界。游戏世界由大量预先渲染好的静止画面组成，当玩家在游戏中行走时，这些画面就会一帧一帧地显示出来。由于是预渲染，这些静态画面细节细腻，氛围浓厚。但另一方面，它们无法描绘持续移动的物体或随着时间流逝阳光的变化，玩家也无法从任何角度观察事物。世界是丰富的，但也是静态的。
 
 A real-time 3D first-person perspective gives the player the best sense of being in the world himself, but it doesn't let the player see his avatar unless the game has a functioning reflective surface in it. It also tends to encourage a more action-oriented approach to playing the game, running around without paying much attention to the surroundings. Finally, 3D hardware is still not advanced enough to render extremely detailed scenes (a room crammed with hundreds of complex objects, for example) in real time.
 
@@ -155,25 +155,21 @@ A real-time 3D first-person perspective gives the player the best sense of being
 
 ## Third Person 第三人称
 
-The third-person perspective keeps the player's avatar constantly in view, as in Indiana Jones and the Infernal Machine or in action games such as Mario 64. This perspective is common for action-adventures in which the player might need to react quickly (see Figure 15.3).
+The third-person perspective keeps the player's avatar constantly in view, as in [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine) or in action games such as Mario 64. This perspective is common for action-adventures in which the player might need to react quickly (see Figure 15.3).
 
 第三人称视角让玩家的头像始终保持在视野中，如《夺宝奇兵与无间道》或《马里奥 64》等动作游戏。这种视角常见于玩家需要做出快速反应的动作冒险游戏中（见图 15.3）。
 
-Figure 15.3. Indiana Jones and the Infernal Machine. This is the typical action-adventure perspective.
+Figure 15.3. Indiana Jones and the Infernal Machine. This is the typical action-adventure perspective. 图 15.3. 《夺宝奇兵与无间道》。这是典型的动作冒险视角。
 
-graphics/15fig03.jpg
+![](../.gitbook/assets/15.3.png)
 
 If the third-person perspective always remains behind the avatar's back, however, the view gets rather dull and doesn't let the player really appreciate the environment. And unlike pure action games in which the avatar's actions and motivations are simple, adventure games sometimes need camera perspectives that allow for more subtle situations. In Figure 15.4, from Gabriel Knight 3, Gabriel is hiding and watching to see when the maid is going to leave the room.
 
 然而，如果第三人称视角始终保持在化身的背后，视角就会变得相当沉闷，无法让玩家真正欣赏环境。在纯动作游戏中，虚拟人物的行动和动机都很简单，而冒险游戏则不同，有时需要用摄像机视角来呈现更微妙的情况。图 15.4 来自《加百利骑士 3》，加百利躲在一旁观察女仆何时离开房间。
 
-图 15.3. 《夺宝奇兵与无间道》。这是典型的动作冒险视角。
-
-graphics/15fig03.jpg
-
 Figure 15.4. Gabriel Knight 3 in a context-sensitive camera angle. 图 15.4. 加百利骑士 3》中的上下文相关摄像机视角。
 
-graphics/15fig04.gif
+![](../.gitbook/assets/15.4.png)
 
 The later Gabriel Knight games also allowed the player to move the camera around somewhat—as do some of the better action games, such as Spyro the Dragon and Toy Story (see Figure 15.5). This mimics how a real person can turn his head to look in a given direction without moving his whole body.
 后来的《加布里埃尔骑士》游戏也允许玩家在一定程度上移动镜头--一些更好的动作游戏也是如此，如《龙之斯派洛》和《玩具总动员》（见图 15.5）。这模仿了真人在不移动整个身体的情况下转头看指定方向的动作。
@@ -182,7 +178,7 @@ Figure 15.5. Gabriel Knight as seen from a player-adjusted camera position. The 
 
 图 15.5. 从玩家调整后的摄像机位置看到的《加百利骑士》。如果摄像机在他身后，则无法看到大众汽车。
 
-graphics/15fig05.gif
+![](../.gitbook/assets/15.5.png)
 
 > **Case Study: The Secret of Monkey Island 案例研究： 猴岛的秘密**
 > 
@@ -206,7 +202,7 @@ graphics/15fig05.gif
 
 In most computer games, the player's role is largely defined by the challenges she will be facing, whether it's as an athlete in a sports game, a pilot in a flight simulator, or a martial arts expert in a fighting game. But adventure games can be filled with all kinds of puzzles and problems that are unrelated to the player's stated role. Indiana Jones is supposedly an archaeologist, but we don't see him digging very much. The role arises not out of the challenges (unless you specifically want it to), but out of the story. In an adventure game, the player could still be a pilot, if that's what the story requires, but it doesn't necessarily guarantee that she'll get to fly a plane. And she might be anything else or nothing in particular—just an ordinary person living in an extraordinary situation.
 
-在大多数电脑游戏中，无论是体育游戏中的运动员、飞行模拟器中的飞行员，还是格斗游戏中的武术高手，玩家的角色主要是由她将要面对的挑战来定义的。但冒险游戏中可能会出现各种与玩家角色无关的谜题和问题。印第安纳-琼斯（Indiana Jones）据说是一位考古学家，但我们并没有看到他挖出多少东西。角色不是从挑战中产生的（除非你特别希望它产生），而是从故事中产生的。在冒险游戏中，如果故事需要，玩家仍然可以是一名飞行员，但这并不一定保证她能驾驶飞机。她可能是其他任何角色，也可能什么都不是--只是一个生活在不寻常环境中的普通人。
+在大多数电脑游戏中，无论是体育游戏中的运动员、飞行模拟器中的飞行员，还是格斗游戏中的武术高手，玩家的角色主要是由她将要面对的挑战来定义的。但冒险游戏中可能会出现各种与玩家角色无关的谜题和问题。印第安纳·琼斯据说是一位考古学家，但我们并没有看到他挖出多少东西。角色不是从挑战中产生的（除非你特别希望它产生），而是从故事中产生的。在冒险游戏中，如果故事需要，玩家仍然可以是一名飞行员，但这并不一定保证她能驾驶飞机。她可能是其他任何角色，也可能什么都不是--只是一个生活在不寻常环境中的普通人。
 
 A good many adventure games do connect the player's role with the game's activities, however. Players' roles often involve travel or investigation: explorer, detective, hunter, conquistador, and so on. The player can even be some kind of a scientist, if it's a branch of science that involves travel: geologist or zoologist, for example.
 
@@ -228,7 +224,7 @@ What adventure games do have, however, is a story structure: a relationship betw
 
 Figure 15.6. The structure of early adventure games. Each circle represents a room. S is the starting room, and E is the end. 图 15.6. 早期冒险游戏的结构。每个圆圈代表一个房间。S 代表起始房间，E 代表终点。
 
-graphics/15fig06.gif
+![](../.gitbook/assets/15.6.png)
 
 As adventure games got larger and began to include a story, designers started to break them up into chapters (see Figure 15.7). The player could wander around all he liked in the area devoted to a given chapter, but when he moved on to the next, the story advanced and there was no way back. If the player needed to take a particular object from one chapter to the next, the story would not let him progress until that object was in his inventory.
 
@@ -236,7 +232,7 @@ As adventure games got larger and began to include a story, designers started to
 
 Figure 15.7. The structure of story-driven adventure games. 图 15.7. 故事驱动型冒险游戏的结构。
 
-graphics/15fig07.gif
+![](../.gitbook/assets/15.7.png)
 
 With the arrival of 3D graphics and the action-adventure, the stories began to be even more linear. Areas occasionally had simple side branches but few complex spaces or loops. The space in an action-adventure is structured more like that of an action game or a first-person shooter (see Figure 15.8).
 
@@ -244,7 +240,7 @@ With the arrival of 3D graphics and the action-adventure, the stories began to b
 
 Figure 15.8. The structure of action-adventure games. 图 15.8. 动作冒险游戏的结构。
 
-graphics/15fig08.gif
+![](../.gitbook/assets/15.8.png)
 
 ## Storytelling 讲故事
 
@@ -447,7 +443,7 @@ A number of games use a menu to allow the player to select the action he wants t
 
 Figure 15.9. The action menu in The Secret of Monkey Island. 图 15.9. 《猴岛的秘密》中的动作菜单。
 
-graphics/15fig09.gif
+![](../.gitbook/assets/15.9.png)
 
 In another variant, the player places the mouse cursor over the desired object and right-clicks it. A pop-up menu appears, showing a series of icons that represent the actions "take," "use," "examine," and possibly others (see Figure 15.10). The player left-clicks one of the icons, and the desired action is performed. This mechanism, in effect, shows the player all the available verbs that can be used with that particular object and lets him pick one.
 
@@ -457,7 +453,7 @@ Figure 15.10. The pop-up menu in The Longest Journey (at right, under tent). Not
 
 图 15.10. 最长的旅程》中的弹出菜单（右图，帐篷下）。请注意，图标是一只眼睛、一张嘴和一只手，分别表示 “看”、“交谈 ”和 “操作”。
 
-graphics/15fig10.gif
+![](../.gitbook/assets/15.10.png)
 
 ### Managing Inventory 管理库存
 
@@ -483,7 +479,7 @@ The inventory is a typical feature of adventure games, but it is not absolutely 
 
 Figure 15.11. Loom. Note the musical distaff at the bottom of the screen, used for all actions other than movement. 图 15.11. 织布机。请注意屏幕底部的音乐锤，它用于除移动以外的所有操作。
 
-graphics/15fig11.jpg
+![](../.gitbook/assets/15.11.png)
 
 ### Special Design Considerations 特殊设计考虑因素
 
@@ -605,7 +601,7 @@ A backward puzzle is one in which you find the solution before you find the puzz
 
 ### Too Many "FedEx" Puzzles 联邦快递 "谜题太多
 
-A FedEx puzzle is one that you solve by picking up an object from one place and bringing it to a different place, as if you were a Federal Express driver. Of course, carrying objects around until you find a place to use them is a common feature of adventure games, but some games consist of little else. This gets dull after a while, especially if the solution to a puzzle consists only of fetching and carrying without any lateral thinking or other activity. Liven up the game with a variety of puzzles and tasks. It's fun to include objects that have a variety of different uses, such as Indy's bullwhip in Indiana Jones and the Infernal Machine, or objects that are left over from one puzzle but have a part to play in another.
+A FedEx puzzle is one that you solve by picking up an object from one place and bringing it to a different place, as if you were a Federal Express driver. Of course, carrying objects around until you find a place to use them is a common feature of adventure games, but some games consist of little else. This gets dull after a while, especially if the solution to a puzzle consists only of fetching and carrying without any lateral thinking or other activity. Liven up the game with a variety of puzzles and tasks. It's fun to include objects that have a variety of different uses, such as Indy's bullwhip in [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine), or objects that are left over from one puzzle but have a part to play in another.
 
 联邦快递（FedEx）谜题是指玩家通过从一个地方拾取一个物品并将其带到另一个地方来解决谜题，就好像你是一名联邦快递司机一样。当然，带着物品到处跑，直到找到可以使用它们的地方是冒险游戏的一个共同特点，但有些游戏几乎没有其他内容。这样的游戏玩久了就会变得枯燥乏味，尤其是如果谜题的解答仅仅是取物和搬运，而没有任何横向思维或其他活动的话。用各种谜题和任务来活跃游戏气氛。在游戏中加入一些有多种不同用途的物品，比如《夺宝奇兵与无间道》中印第的牛鞭，或者在一个谜题中遗留下来但在另一个谜题中发挥作用的物品，都会很有趣。
 
