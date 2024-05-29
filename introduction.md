@@ -84,13 +84,13 @@ Andrew Rollings and Ernest Adams on Game Design is divided into two parts. The f
 
 [第九章](/part-2/chapter-9.md)讲述的是最早的，也是目前最流行的，互动娱乐类型：动作游戏。
 
-[Chapter 10](/part-2/chapter-10.md)  discusses another genre that has been part of gaming since the beginning: strategy games, both real-time and turn-based.
+[Chapter 10](/part-2/chapter-10.md) discusses another genre that has been part of gaming since the beginning: strategy games, both real-time and turn-based.
 
 [第十章](/part-2/chapter-10.md)讨论了另一种从一开始就属于游戏的类型：策略游戏，包括即时战略游戏和回合制游戏。
 
-[Chapter 11](/part-2/chapter-11.md)  is about role-playing games, a natural outgrowth of pencil and paper games such as Dungeons & Dragons.
+[Chapter 11](/part-2/chapter-11.md) is about role-playing games, a natural outgrowth of pencil and paper games such as Dungeons & Dragons.
 
-第十一章介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。
+[第十一章](/part-2/chapter-11.md)介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。
 
 Chapter 12 looks at sports games, which have a number of peculiar design challenges. The actual contest itself is designed by others; the trick is to map human athletic activities onto a screen and control devices.
 
@@ -100,17 +100,17 @@ Chapter 13 addresses vehicle simulations: cars, planes, boats, and other, more e
 
 第十三章涉及交通工具模拟：汽车、飞机、轮船以及其他更奇特的交通工具，如坦克和机甲。
 
-Chapter 14 is about construction and management simulations, in which the player tries to build and maintain something—a city, a theme park, a planet—within the limitations of an economic system.
+[Chapter 14](/part-2/chapter-14.md) is about construction and management simulations, in which the player tries to build and maintain something—a city, a theme park, a planet—within the limitations of an economic system.
 
-第十四章是关于建筑和管理模拟，在这种游戏中，玩家要在经济系统的限制范围内建造和维护一些东西——城市、主题公园、星球。
+[第十四章](/part-2/chapter-14.md)是关于建筑和管理模拟，在这种游戏中，玩家要在经济系统的限制范围内建造和维护一些东西——城市、主题公园、星球。
 
-Chapter 15 explores adventure games, an old and unique genre of gaming recently given new life by the creation of a hybrid type, the action adventure.
+[Chapter 15](/part-2/chapter-15.md) explores adventure games, an old and unique genre of gaming recently given new life by the creation of a hybrid type, the action adventure.
 
-第十五章探讨冒险游戏，这是一种古老而独特的游戏类型，最近一种混合类型——动作冒险游戏的诞生赋予了它新的生命。
+[第十五章](/part-2/chapter-15.md)探讨冒险游戏，这是一种古老而独特的游戏类型，最近一种混合类型——动作冒险游戏的诞生赋予了它新的生命。
 
-Chapter 16 examines a variety of other types of games: artificial life, software toys, puzzle games, and so on.
+[Chapter 16](/part-2/chapter-16.md) examines a variety of other types of games: artificial life, software toys, puzzle games, and so on.
 
-第十六章探讨了其他各种类型的游戏：人造生命、软件玩具、益智游戏等。
+[第十六章](/part-2/chapter-16.md)探讨了其他各种类型的游戏：人造生命、软件玩具、益智游戏等。
 
 Chapter 17 is devoted to online games, which is not a genre but a technology. Online games enable people to play with, or against, each other in numbers from two up to hundreds of thousands. Playing against real people that you cannot see has enormous consequences for the game's design. The second half of the chapter addresses the particular problems of persistent worlds like EverQuest.
 
