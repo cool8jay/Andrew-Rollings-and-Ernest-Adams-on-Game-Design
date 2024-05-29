@@ -60,35 +60,35 @@ Andrew Rollings and Ernest Adams on Game Design is divided into two parts. The f
 
 [第四章](/part-1/chapter-4.md)深入探讨了讲故事和叙事的问题：如何创造引人入胜的故事情节，以及如何平衡你作为设计师的控制欲和玩家作为你世界中的演员的自由欲之间不可避免的紧张关系。
 
-Chapter 5 addresses character design: inventing the people, or beings, that populate your game world—especially the character who will represent the player there (his avatar), if there is one. Every successful entertainer from Homer onward has understood the importance of having an appealing protagonist.
+[Chapter 5](/part-1/chapter-5.md) addresses character design: inventing the people, or beings, that populate your game world—especially the character who will represent the player there (his avatar), if there is one. Every successful entertainer from Homer onward has understood the importance of having an appealing protagonist.
 
-第五章讲述角色设计：创造游戏世界中的人或生物——尤其玩家扮演的角色（他的化身），如果有的话。
+[第五章](/part-1/chapter-5.md)讲述角色设计：创造游戏世界中的人或生物——尤其玩家扮演的角色（他的化身），如果有的话。
 
 从《荷马史诗》开始，每个成功作品的创作者都明白拥有一个迷人主角的重要性。
 
-Chapter 6 is about user interface design: the way that the player experiences and interacts with the game world. A bad user interface can kill an otherwise brilliant game, so you must get this right.
+[Chapter 6](/part-1/chapter-6.md) is about user interface design: the way that the player experiences and interacts with the game world. A bad user interface can kill an otherwise brilliant game, so you must get this right.
 
-第六章是关于用户界面设计：玩家体验游戏世界并与之互动的方式。糟糕的用户界面可能会扼杀一款出色的游戏，因此你必须做好这一点。
+[第六章](/part-1/chapter-6.md)是关于用户界面设计：玩家体验游戏世界并与之互动的方式。糟糕的用户界面可能会扼杀一款出色的游戏，因此你必须做好这一点。
 
-Chapter 7 discusses gameplay, the heart of the player's mental experience of a game: the challenges he faces and the actions he takes to overcome them.
+[Chapter 7](/part-1/chapter-7.md) discusses gameplay, the heart of the player's mental experience of a game: the challenges he faces and the actions he takes to overcome them.
 
-第七章讨论游戏玩法，即玩家在游戏中的核心心理体验：玩家面临的挑战和克服挑战的行动。
+[第七章](/part-1/chapter-7.md)讨论游戏玩法，即玩家在游戏中的核心心理体验：玩家面临的挑战和克服挑战的行动。
 
-Chapter 8 looks at the internal economy or core mechanics of a game, and the flow of resources (money, points, ammunition, or whatever) throughout the game. It also addresses the key issue essential to all games: game balance.
+[Chapter 8](/part-1/chapter-8.md) looks at the internal economy or core mechanics of a game, and the flow of resources (money, points, ammunition, or whatever) throughout the game. It also addresses the key issue essential to all games: game balance.
 
-第八章探讨游戏的内部经济或核心机制，以及整个游戏中资源（金钱、点数、弹药或其他）的流动。这一章还讨论了对所有游戏都至关重要的关键问题：游戏平衡。
+[第八章](/part-1/chapter-8.md)探讨游戏的内部经济或核心机制，以及整个游戏中资源（金钱、点数、弹药或其他）的流动。这一章还讨论了对所有游戏都至关重要的关键问题：游戏平衡。
 
 ### Part Two: The Genres of Games 第二部分：游戏类型
 
-Chapter 9 is about the earliest, and still the most popular, genre of interactive entertainment: action games.
+[Chapter 9](/part-2/chapter-9.md) is about the earliest, and still the most popular, genre of interactive entertainment: action games.
 
-第九章讲述的是最早的，也是目前最流行的，互动娱乐类型：动作游戏。
+[第九章](/part-2/chapter-9.md)讲述的是最早的，也是目前最流行的，互动娱乐类型：动作游戏。
 
-Chapter 10 discusses another genre that has been part of gaming since the beginning: strategy games, both real-time and turn-based.
+[Chapter 10](/part-2/chapter-10.md)  discusses another genre that has been part of gaming since the beginning: strategy games, both real-time and turn-based.
 
-第十章讨论了另一种从一开始就属于游戏的类型：策略游戏，包括即时战略游戏和回合制游戏。
+[第十章](/part-2/chapter-10.md)讨论了另一种从一开始就属于游戏的类型：策略游戏，包括即时战略游戏和回合制游戏。
 
-Chapter 11 is about role-playing games, a natural outgrowth of pencil and paper games such as Dungeons & Dragons.
+[Chapter 11](/part-2/chapter-11.md)  is about role-playing games, a natural outgrowth of pencil and paper games such as Dungeons & Dragons.
 
 第十一章介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。
 
