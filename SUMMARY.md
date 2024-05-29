@@ -24,8 +24,9 @@
 
 ## Part III: Appendixes 第三部分 附录
 
-* [Appendix A. Sample Design Documents](appendix-a/readme.md)
-	* [Creating and Using Design Documents](appendix-a/creaing-and-using-design-documents.md)
-	* [The High-Concept Document](appendix-a/the-high-concept-document.md)
-	* [The Game Treatment](appendix-a/the-game-treatment.md)
-	* [The Design Script](appendix-a/the-design-script.md)
+* [Part III: Appendixes 第三部分 附录](/part-3/readme.md)
+	* [Appendix A. Sample Design Documents](/part-3/appendix-a/readme.md)
+		* [Creating and Using Design Documents](/part-3/appendix-a/creaing-and-using-design-documents.md)
+		* [The High-Concept Document](/part-3/appendix-a/the-high-concept-document.md)
+		* [The Game Treatment](/part-3/appendix-a/the-game-treatment.md)
+		* [The Design Script](/part-3/appendix-a/the-design-script.md)
