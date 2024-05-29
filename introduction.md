@@ -44,21 +44,21 @@ Andrew Rollings and Ernest Adams on Game Design is divided into two parts. The f
 
 ### Part One: The Elements of Game Design 第一部分：游戏设计的要素
 
-[Chapter 1](chapter-1.md) provides an introduction to game design: what the designer needs to do and why. It also discusses the key talents and skills that game designers should have.
+[Chapter 1](/part-1/chapter-1.md) provides an introduction to game design: what the designer needs to do and why. It also discusses the key talents and skills that game designers should have.
 
-[第一章](chapter-1.md)介绍了游戏设计：设计师需要做什么以及为什么要做。它还讨论了游戏设计师应具备的关键才能和技能。
+[第一章](/part-1/chapter-1.md)介绍了游戏设计：设计师需要做什么以及为什么要做。它还讨论了游戏设计师应具备的关键才能和技能。
 
-[Chapter 2](chapter-2.md) is about game concepts: where the idea for a game comes from and how to refine it. The audience and the target hardware (the machine the game will run on) both have a strong influence on the direction the game will take.
+[Chapter 2](/part-1/chapter-2.md) is about game concepts: where the idea for a game comes from and how to refine it. The audience and the target hardware (the machine the game will run on) both have a strong influence on the direction the game will take.
 
-[第二章](chapter-2.md)是关于游戏概念：游戏创意的来源以及如何完善创意。受众和目标硬件（游戏运行的机器）都会对游戏的方向产生很大影响。
+[第二章](/part-1/chapter-2.md)是关于游戏概念：游戏创意的来源以及如何完善创意。受众和目标硬件（游戏运行的机器）都会对游戏的方向产生很大影响。
 
-[Chapter 3](chapter-3.md) is about the game's setting and world: the place where the gameplay happens, and the way things work there. As the designer, you're the god of your world, and it's up to you to define its concepts of time and space, mechanics, and natural laws, as well as many other things: its logic, emotions, culture, and values.
+[Chapter 3](/part-1/chapter-3.md) is about the game's setting and world: the place where the gameplay happens, and the way things work there. As the designer, you're the god of your world, and it's up to you to define its concepts of time and space, mechanics, and natural laws, as well as many other things: its logic, emotions, culture, and values.
 
-[第三章](chapter-3.md)是关于游戏的背景和世界：游戏发生的地方，以及游戏的运行方式。作为设计者，你就是你的世界之神，你要定义这个世界的时间和空间概念、运作方式和自然法则，以及许多其他东西：它的逻辑、情感、文化和价值观。
+[第三章](/part-1/chapter-3.md)是关于游戏的背景和世界：游戏发生的地方，以及游戏的运行方式。作为设计者，你就是你的世界之神，你要定义这个世界的时间和空间概念、运作方式和自然法则，以及许多其他东西：它的逻辑、情感、文化和价值观。
 
-Chapter 4 delves into the problems of storytelling and narrative: how to create a compelling storyline, and how to balance the inevitable tension between your desire for control as a designer, and the player's desire for freedom as an actor in your world.
+[Chapter 4](/part-1/chapter-4.md) delves into the problems of storytelling and narrative: how to create a compelling storyline, and how to balance the inevitable tension between your desire for control as a designer, and the player's desire for freedom as an actor in your world.
 
-第四章深入探讨了讲故事和叙事的问题：如何创造引人入胜的故事情节，以及如何平衡你作为设计师的控制欲和玩家作为你世界中的演员的自由欲之间不可避免的紧张关系。
+[第四章](/part-1/chapter-4.md)深入探讨了讲故事和叙事的问题：如何创造引人入胜的故事情节，以及如何平衡你作为设计师的控制欲和玩家作为你世界中的演员的自由欲之间不可避免的紧张关系。
 
 Chapter 5 addresses character design: inventing the people, or beings, that populate your game world—especially the character who will represent the player there (his avatar), if there is one. Every successful entertainer from Homer onward has understood the importance of having an appealing protagonist.
 
