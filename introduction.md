@@ -2,7 +2,7 @@
 
 Every game player is a potential game designer, and that means you.
 
-每个游戏玩家都是潜在的游戏设计师，这也包括你。
+每个游戏玩家都是潜在的游戏设计师，这也意味着你。
 
 When you were a kid, you probably started many a game of whiffle ball or Monopoly with a little negotiation over the rules. "If the ball gets stuck in a tree, it's an out," "Chance and Community Chest fines go into a pool, and whoever lands on Free Parking gets the money," and so on. Kids don't hesitate to change the rules of existing games to make them more enjoyable. The participatory nature of playing a game encourages us to think about, and sometimes modify, its rules—that is, its design. And that's just as true of video games, too. We've all played games that we thought could be improved by a few adjustments.
 
