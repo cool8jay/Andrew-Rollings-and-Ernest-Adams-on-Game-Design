@@ -166,7 +166,7 @@ Figure 15.3. Indiana Jones and the Infernal Machine. This is the typical action-
 If the third-person perspective always remains behind the avatar's back, however, the view gets rather dull and doesn't let the player really appreciate the environment. And unlike pure action games in which the avatar's actions and motivations are simple, adventure games sometimes need camera perspectives that allow for more subtle situations. In Figure 15.4, from [Gabriel Knight 3](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)
 , Gabriel is hiding and watching to see when the maid is going to leave the room.
 
-然而，如果第三人称视角始终保持在化身的背后，视角就会变得相当沉闷，无法让玩家真正欣赏环境。在纯动作游戏中，虚拟人物的行动和动机都很简单，而冒险游戏则不同，有时需要用摄像机视角来呈现更微妙的情况。图 15.4 来自[《狩魔猎人三》](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)，加布里埃尔躲在一旁观察女仆何时离开房间。
+然而，如果第三人称视角始终保持在化身的背后，视角就会变得相当沉闷，无法让玩家真正欣赏环境。在纯动作游戏中，化身的行动和动机都很简单，而冒险游戏则不同，有时需要用摄像机视角来呈现更微妙的情况。图 15.4 来自[《狩魔猎人三》](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned)，加布里埃尔躲在一旁观察女仆何时离开房间。
 
 Figure 15.4. Gabriel Knight 3 in a context-sensitive camera angle. 图 15.4. 《狩魔猎人三》中的情境感应摄像机视角。
 
@@ -284,21 +284,21 @@ Occasionally exceptions to this structure arise, such as in stories in which the
 
 Of course, none of this means that there can't ever be periods of quiet; in fact, there should be. In both of J.R.R. Tolkien's most famous books, The Hobbit and The Lord of the Rings, periods of great danger are interspersed with periods of safety and rest for the heroes, during which they can regain their strength. A long story that consists of nothing but action will feel unrealistic and silly after a while.
 
-当然，这并不意味着不能有宁静期；事实上，宁静期是应该有的。在托尔金（J.R.R. Tolkien）最著名的两本书《霍比特人》（The Hobbit）和《魔戒》（The Lord of the Rings）中，巨大的危险期与英雄们的安全期和休息期穿插在一起，在此期间他们可以恢复体力。如果一个冗长的故事中只有动作，那么时间久了就会让人觉得不切实际和愚蠢。
+当然，这并不意味着不能有宁静期；事实上，宁静期是应该有的。在托尔金最著名的两本书《霍比特人》和《魔戒》中，巨大的危险期与英雄们的安全期和休息期穿插在一起，在此期间他们可以恢复体力。如果一个冗长的故事中只有动作，那么时间久了就会让人觉得不真实和愚蠢。
 
 The works of Joseph Campbell and Christopher Vogler discuss the heroic quest at length, and we encourage you to read them for inspiration (see Appendix B, "Bibliography," for details).
 
-约瑟夫-坎贝尔（Joseph Campbell）和克里斯托弗-沃格勒（Christopher Vogler）的作品详细讨论了英雄的追求，我们鼓励你阅读他们的作品，从中获得灵感（详见附录 B “参考书目”）。
+约瑟夫·坎贝尔和克里斯托弗·沃格勒的作品详细讨论了英雄任务，我们鼓励你阅读他们的作品，从中获得灵感（详见[附录 B](appendix-b/readme.md) “参考书目”）。
 
 ### The Problem of Death 死亡问题
 
 For many years, game designers have debated the question of whether adventure games should allow the avatar to do something that kills him. Some adventure games have proudly noted on their boxes that you can't ever die; others have warnings in the manual that you might encounter dangerous situations. In some respects, this seems like a strange thing to worry about. After all, avatars routinely die in action games and get shot down in flight simulators, so why shouldn't they be able to die in adventure games?
 
-多年来，游戏设计师们一直在争论这样一个问题：冒险游戏是否应该允许虚拟人物做一些会杀死他的事情。一些冒险游戏在包装盒上骄傲地写着 “你永远不会死”；另一些冒险游戏则在手册中警告玩家可能会遇到危险情况。从某些方面来说，这种担心似乎很奇怪。毕竟，化身在动作游戏中经常死亡，在飞行模拟器中经常被击落，为什么在冒险游戏中就不能死亡呢？
+多年来，游戏设计师们一直在争论这样一个问题：冒险游戏是否应该允许化身做一些会杀死他的事情。一些冒险游戏在包装盒上骄傲地写着“你永远不会死”；另一些冒险游戏则在手册中警告玩家可能会遇到危险情况。从某些方面来说，这种担心似乎很奇怪。毕竟，化身在动作游戏中经常死亡，在飞行模拟器中经常被击落，为什么在冒险游戏中就不能死亡呢？
 
 The reason has to do with the nature of the gameplay. In a first-person shooter or a military flight simulator, it's obvious that the avatar is in mortal peril all the time. In fact, in most genres of games, it's win or lose, kill or be killed, and the enemies are clearly marked. Adventure games are different because they seldom have an explicitly declared enemy and the player is encouraged to go everywhere and touch everything. If you tell the player to explore the world and then you fill it with deathtraps, he's in for a frustrating time. Nowadays, most adventure games adopt a "fair warning" approach, making it clear when something is dangerous and (usually) offering a way of neutralizing or circumventing the danger. If you put a dragon in a cave, it's a nice touch to litter the entrance with the bones of earlier adventurers. That ought to get the point across.
 
-原因与游戏的性质有关。在第一人称射击游戏或军事飞行模拟器中，化身显然一直处于致命危险之中。事实上，在大多数类型的游戏中，要么赢要么输，要么杀人要么被杀，而且敌人都有明显的标记。冒险类游戏则不同，因为它们很少有明确的敌人，而且鼓励玩家到处走走，接触一切。如果你让玩家去探索世界，却又在世界里布满了死亡陷阱，那他就会很沮丧。如今，大多数冒险游戏都采用了 “公平警告 ”的方式，明确说明某些事物的危险性，并（通常）提供一种化解或规避危险的方法。如果你在洞穴里放了一条龙，在入口处堆满以前冒险者的尸骨也是一种不错的做法。这应该能让人明白这一点。
+原因与游戏的性质有关。在第一人称射击游戏或军事飞行模拟器中，化身显然一直处于致命危险之中。事实上，在大多数类型的游戏中，要么赢要么输，要么杀人要么被杀，而且敌人都有明显的标记。冒险类游戏则不同，因为它们很少有明确的敌人，而且鼓励玩家到处走走，接触一切。如果你让玩家去探索世界，却又在世界里布满了死亡陷阱，那他就会很沮丧。如今，大多数冒险游戏都采用了“公平警告”的方式，明确说明某些事物的危险性，并（通常）提供一种化解或规避危险的方法。如果你在洞穴里放了一条龙，在入口处堆满以前冒险者的尸骨也是一种不错的做法。这应该能让人明白这一点。
 
 Most adventure games have a save-game feature, so death isn't necessarily catastrophic; on the other hand, stopping to save the game does tend to hurt suspension of disbelief. Adventure games shouldn't be so dangerous that the player has to save all the time because it ruins the storytelling. If you are going to include death in your game, we encourage you to autosave the game at intervals so that the player can restore it even if he hasn't explicitly saved it. You don't have to let the player know that you're doing it. Again, it helps to preserve the suspension of disbelief if you don't.
 
@@ -380,7 +380,7 @@ In this user interface, the player clicks somewhere on the screen. If the corres
 
 In a direct control user interface, the player's commands say "Walk in this direction" rather than "Walk to this point," as they do in a point-and-click interface. In these kinds of games, such as Grim Fandango, from LucasArts, the player "steers" the avatar around the screen. Direct control can be awkward in a context-sensitive perspective because the camera angle changes from scene to scene.
 
-在直接控制用户界面中，玩家的命令是 “朝这个方向走”，而不是像在点击界面中那样 “走到这一点”。在这类游戏（如 LucasArts 公司出品的《Grim Fandango》）中，玩家在屏幕上 “操纵 ”虚拟人物。在上下文相关的视角中，直接控制可能会很笨拙，因为摄像机的角度会随着场景的变化而变化。
+在直接控制用户界面中，玩家的命令是 “朝这个方向走”，而不是像在点击界面中那样 “走到这一点”。在这类游戏（如 LucasArts 公司出品的《Grim Fandango》）中，玩家在屏幕上“操纵”化身。在上下文相关的视角中，直接控制可能会很笨拙，因为摄像机的角度会随着场景的变化而变化。
 
 ### Movement Speed 移动速度
 
