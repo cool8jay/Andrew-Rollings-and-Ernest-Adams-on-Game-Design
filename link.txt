@@ -332,6 +332,8 @@
 [《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))
 图形版
 
+[Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+[《巨洞冒险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
 [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
 [《魔幻历险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
 文字版
@@ -522,3 +524,6 @@
 
 [The Secret of Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
 [《猴岛的秘密》](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+
+[Poetics](https://en.wikipedia.org/wiki/Poetics_(Aristotle))
+[《诗学》](https://en.wikipedia.org/wiki/Poetics_(Aristotle))

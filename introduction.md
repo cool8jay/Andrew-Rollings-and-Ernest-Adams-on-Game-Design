@@ -24,9 +24,9 @@ Andrew Rollings and Ernest Adams on Game Design contains our combined thoughts o
 
 《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》包含了我们对游戏设计相关重要问题的综合思考。我们并不宣称这是游戏设计方面的定论。没有一本书可以做到这一点。我们选择了一些我们认为重要且未得到充分关注的领域，我们并不期望每个人都同意我们的观点。这正是游戏设计的美妙和可怕之处：没有正确的答案。
 
-We offer a game design methodology intended to spur your thinking and get your creative juices flowing. In this book, you will not find step-by-step instructions on how to create the next Doom or Tetris clone. Instead, we discuss the central issues that every game designer must face, and we pose a series of questions for you to ask yourself about the game that's in your head. The answers to those questions will move you along the path from idea to design.
+We offer a game design methodology intended to spur your thinking and get your creative juices flowing. In this book, you will not find step-by-step instructions on how to create the next [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) or [Tetris](https://en.wikipedia.org/wiki/Tetris) clone. Instead, we discuss the central issues that every game designer must face, and we pose a series of questions for you to ask yourself about the game that's in your head. The answers to those questions will move you along the path from idea to design.
 
-我们提供的游戏设计方法旨在激发你的思考，让你的创意源源不断。在本书中，你不会看到如何创造下一个《毁灭战士》或《俄罗斯方块》翻版的分步指导。相反，我们讨论了每个游戏设计师必须面对的核心问题，并提出了一系列问题，让你就脑海中的游戏自问自答。这些问题的答案将推动你从创意走向设计。
+我们提供的游戏设计方法旨在激发你的思考，让你的创意源源不断。在本书中，你不会看到如何创造下一个[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))或[《俄罗斯方块》](https://en.wikipedia.org/wiki/Tetris)翻版的分步指导。相反，我们讨论了每个游戏设计师必须面对的核心问题，并提出了一系列问题，让你就脑海中的游戏自问自答。这些问题的答案将推动你从创意走向设计。
 
 One area that we have not addressed is level design. The reason for this is simple: There is no one standard way to design levels. Level design considerations are different for each genre of game, and we simply don't have the space to address them all properly. By examining the essential elements of a genre, we hope to give you the tools to design enjoyable levels, but the process itself is, as they say, left as an exercise for the reader."
 
@@ -112,23 +112,23 @@ Chapter 13 addresses vehicle simulations: cars, planes, boats, and other, more e
 
 [第十六章](/part-2/chapter-16.md)探讨了其他各种类型的游戏：人造生命、软件玩具、益智游戏等。
 
-Chapter 17 is devoted to online games, which is not a genre but a technology. Online games enable people to play with, or against, each other in numbers from two up to hundreds of thousands. Playing against real people that you cannot see has enormous consequences for the game's design. The second half of the chapter addresses the particular problems of persistent worlds like EverQuest.
+[Chapter 17](/part-2/chapter-17.md) is devoted to online games, which is not a genre but a technology. Online games enable people to play with, or against, each other in numbers from two up to hundreds of thousands. Playing against real people that you cannot see has enormous consequences for the game's design. The second half of the chapter addresses the particular problems of persistent worlds like EverQuest.
 
-第十七章专门讨论网络游戏，这不是一种类型，而是一种技术。网络游戏可以让人们相互之间进行游戏或对战，游戏人数从两个人到数十万人不等。与看不见的真人对战对游戏的设计产生了巨大的影响。本章的后半部分讨论了像 EverQuest 这样的持久世界的特殊问题。
+[第十七章](/part-2/chapter-17.md)专门讨论网络游戏，这不是一种类型，而是一种技术。网络游戏可以让人们相互之间进行游戏或对战，游戏人数从两个人到数十万人不等。与看不见的真人对战对游戏的设计产生了巨大的影响。本章的后半部分讨论了像 EverQuest 这样的持久世界的特殊问题。
 
-Chapter 18 takes a look at the future of gaming and where we believe the medium will go, both in the short and long term.
+[Chapter 18](/part-2/chapter-18.md) takes a look at the future of gaming and where we believe the medium will go, both in the short and long term.
 
-第十八章探讨了游戏的未来，以及我们认为游戏媒体的短期和长期发展方向。
+[第十八](/part-2/chapter-18.md)章探讨了游戏的未来，以及我们认为游戏媒体的短期和长期发展方向。
 
 ### Part Three: Appendixes 第三部分：附录 附录
 
-Appendix A includes sample design documents and an extensive discussion of what they're used for.
+[Appendix A](/part-3/appendix-a/readme.md) includes sample design documents and an extensive discussion of what they're used for.
 
-附录 A 包括示例设计文档，以及对其用途的广泛讨论。
+[附录 A](/part-3/appendix-a/readme.md) 包括示例设计文档，以及对其用途的广泛讨论。
 
-Appendix B is a bibliography of works that either we used in writing this book, or that we find particularly useful in creating our own designs.
+[Appendix B](/part-3/appendix-b/readme.md) is a bibliography of works that either we used in writing this book, or that we find particularly useful in creating our own designs.
 
-附录 B 是一份参考书目，收录了我们在编写本书时使用过的作品，或者我们认为对我们自己的设计特别有用的作品。
+[附录 B](/part-3/appendix-b/readme.md) 是一份参考书目，收录了我们在编写本书时使用过的作品，或者我们认为对我们自己的设计特别有用的作品。
 
 ## Non-Computer Games, Too! 非电脑游戏也是如此
 
@@ -136,9 +136,9 @@ This book is primarily about designing interactive entertainment: computer and v
 
 本书的主要内容是设计互动娱乐：各种计算机和视频游戏。不过，你会注意到，我们也经常提到非电脑化的游戏——扑克牌之类的纸牌游戏、大富翁之类的棋盘游戏，等等。我们这样做有三个原因：
 
-First, those games are likely to be familiar to the largest number of people. Not all of our readers will have played computer games such as Planescape: Torment, and some will be too young to remember Colossal Cave, but everyone has heard of chess.
+First, those games are likely to be familiar to the largest number of people. Not all of our readers will have played computer games such as [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), and some will be too young to remember [Colossal Cave](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), but everyone has heard of chess.
 
-首先，这些游戏可能为最多的人所熟悉。并不是所有的读者都玩过电脑游戏，如《异域镇魂曲》之类的电脑游戏，有些人还太小，不记得《巨洞冒险》，但每个人都听说过国际象棋。
+首先，这些游戏可能为最多的人所熟悉。并不是所有的读者都玩过电脑游戏，如[《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)之类的电脑游戏，有些人还太小，不记得[《巨洞冒险》](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)，但每个人都听说过国际象棋。
 
 Second, simpler, non-computerized games tend to be designed around a single principle, so they serve to illustrate that principle well.
 
