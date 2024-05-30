@@ -298,11 +298,11 @@ For many years, game designers have debated the question of whether adventure ga
 
 The reason has to do with the nature of the gameplay. In a first-person shooter or a military flight simulator, it's obvious that the avatar is in mortal peril all the time. In fact, in most genres of games, it's win or lose, kill or be killed, and the enemies are clearly marked. Adventure games are different because they seldom have an explicitly declared enemy and the player is encouraged to go everywhere and touch everything. If you tell the player to explore the world and then you fill it with deathtraps, he's in for a frustrating time. Nowadays, most adventure games adopt a "fair warning" approach, making it clear when something is dangerous and (usually) offering a way of neutralizing or circumventing the danger. If you put a dragon in a cave, it's a nice touch to litter the entrance with the bones of earlier adventurers. That ought to get the point across.
 
-原因与游戏的性质有关。在第一人称射击游戏或军事飞行模拟器中，化身显然一直处于致命危险之中。事实上，在大多数类型的游戏中，要么赢要么输，要么杀人要么被杀，而且敌人都有明显的标记。冒险类游戏则不同，因为它们很少有明确的敌人，而且鼓励玩家到处走走，接触一切。如果你让玩家去探索世界，却又在世界里布满了死亡陷阱，那他就会很沮丧。如今，大多数冒险游戏都采用了“公平警告”的方式，明确说明某些事物的危险性，并（通常）提供一种化解或规避危险的方法。如果你在洞穴里放了一条龙，在入口处堆满以前冒险者的尸骨也是一种不错的做法。这应该能让人明白这一点。
+原因与游戏玩法的性质有关。在第一人称射击游戏或军事飞行模拟器中，化身显然一直处于致命危险之中。事实上，在大多数类型的游戏中，要么赢要么输，要么杀人要么被杀，而且敌人都有明显的标记。冒险类游戏则不同，因为它们很少有明确的敌人，而且鼓励玩家到处走走，接触一切。如果你让玩家去探索世界，却又在世界里布满了死亡陷阱，那他就会很沮丧。如今，大多数冒险游戏都采用了“公平警告”的方式，明确说明某些事物的危险性，并（通常）提供一种化解或规避危险的方法。如果你在洞穴里放了一条龙，在入口处堆满以前冒险者的尸骨也是一种不错的做法。这应该能让人明白这一点。
 
 Most adventure games have a save-game feature, so death isn't necessarily catastrophic; on the other hand, stopping to save the game does tend to hurt suspension of disbelief. Adventure games shouldn't be so dangerous that the player has to save all the time because it ruins the storytelling. If you are going to include death in your game, we encourage you to autosave the game at intervals so that the player can restore it even if he hasn't explicitly saved it. You don't have to let the player know that you're doing it. Again, it helps to preserve the suspension of disbelief if you don't.
 
-大多数冒险游戏都有保存游戏的功能，因此死亡并不一定是灾难性的；另一方面，停止保存游戏往往会伤害玩家的不信任感。冒险游戏不应该太危险，以至于玩家不得不一直保存游戏，因为这会破坏故事性。如果你要在游戏中加入死亡元素，我们鼓励你每隔一段时间自动保存一次游戏，这样即使玩家没有明确保存，也可以恢复游戏。你不必让玩家知道你在这样做。同样，如果你不这样做，也有助于保持玩家的不信任感。
+大多数冒险游戏都有保存游戏的功能，因此死亡并不一定是灾难性的；另一方面，停下来保存游戏往往会破坏玩家的信任感。冒险游戏不应该太危险，以至于玩家不得不一直保存游戏，因为这会破坏故事性。如果你要在游戏中加入死亡元素，我们鼓励你每隔一段时间自动保存一次游戏，这样即使玩家没有明确保存，也可以恢复游戏。你不必让玩家知道你在这样做。同样，如果你不这样做，也有助于保持玩家的信任感。
 
 ## Challenges 挑战
 
