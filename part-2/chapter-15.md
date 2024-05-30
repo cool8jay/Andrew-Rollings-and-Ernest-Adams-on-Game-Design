@@ -419,19 +419,19 @@ Not every object in the game world can be manipulated or picked up; some are jus
 
 * **Hunt and click.** Active objects don't look any different from anything else; the player simply has to click everything in the scene to see if it's active. This makes the scene look realistic, but it's annoying for the player, especially if some of the objects are small or partially hidden. This mechanism has generally been abandoned in favor of the following ones.
 
-    **狩猎和点击。** 活动物体看起来与其他物体没有任何区别；玩家只需点击场景中的所有物体，查看其是否处于活动状态。这使得场景看起来很真实，但对玩家来说却很烦人，尤其是在一些物体很小或部分隐藏的情况下。这种机制已被普遍放弃，转而采用以下机制。
+    **搜寻和点击。** 活动物体看起来与其他物体没有任何区别；玩家只需点击场景中的所有物体，查看其是否处于活动状态。这使得场景看起来很真实，但对玩家来说却很烦人，尤其是在一些物体很小或部分隐藏的情况下。这种机制已被普遍放弃，转而采用以下机制。
 
 * **Permanently highlighted objects. **The active objects in a scene are permanently highlighted in some way—either they're slightly brighter than the rest of the scene or they're surrounded by a line of light or dark pixels, to make them stand out against the background. The moment the scene appears on the screen, the player can tell which objects are active. It's convenient, if artificial.
 
-    **永久高亮物体。** 场景中的活动物体会以某种方式永久突出显示——要么比场景的其他部分稍亮，要么被一条或明或暗的像素线包围，使其在背景中显得格外突出。当场景出现在屏幕上时，玩家就能知道哪些物体是活动的。虽然有些矫揉造作，但还是很方便的。
+    **永久高亮物体。** 场景中的活动物体会以某种方式永久突出显示——要么比场景的其他部分稍亮，要么被一条或明或暗的像素线包围，使其在背景中显得格外突出。当场景出现在屏幕上时，玩家就能知道哪些物体是活动的。这很方便，尽管有些不自然。
 
 * **Dynamically highlighted objects.** The active objects in a scene normally look like part of the background, but they are highlighted when the mouse cursor passes over them. Either the object lights up or the cursor changes shape. It still means that the player has to do some hunting, but it's much easier than hunting and clicking; a quick wave of the cursor tells the player if there's an active object nearby.
 
-    **动态突出显示物体。** 场景中的活动物体通常看起来像是背景的一部分，但当鼠标光标经过它们时，它们就会被突出显示。要么物体亮起，要么光标改变形状。这仍然意味着玩家需要做一些搜寻工作，但这比搜寻和点击要容易得多；光标的快速移动会告诉玩家附近是否有活动物体。
+    **动态高亮物体。** 场景中的活动物体通常看起来像是背景的一部分，但当鼠标光标经过它们时，它们就会被突出显示。要么物体亮起，要么光标改变形状。这仍然意味着玩家需要做一些搜寻工作，但这比搜寻和点击要容易得多；光标的快速移动会告诉玩家附近是否有活动物体。
 
 * **Focus-of-attention highlighting.** This mechanism is typically used with hand held controllers when the player doesn't have a mouse cursor. As the avatar moves around in a scene, his focus of attention changes depending on the direction he is looking. Whatever active object is directly in front of him is the focus of his attention and is highlighted. When he turns away, its highlighting disappears again. The disadvantage of this mechanism is that if two active objects are close together, it can be tricky to point the avatar in exactly the right direction to put the focus of attention on the desired object.
 
-    **突出显示焦点。** 当玩家没有鼠标光标时，这种机制通常用于手持控制器。当虚拟人在场景中移动时，他的注意力焦点会根据他所看的方向发生变化。在他正前方的任何活动物体都是他的注意力焦点，并会突出显示。当他转过身去时，突出显示又会消失。这种机制的缺点是，如果两个活动物体靠得很近，那么要将虚拟化身指向正确的方向，使注意力集中在所需的物体上就会很麻烦。
+    **突出显示焦点。** 当玩家没有鼠标时，这种机制通常用于手持控制器。当化身在场景中移动时，他的注意力焦点会根据他所看的方向发生变化。在他正前方的任何活动物体都是他的注意力焦点，并会突出显示。当他转过身去时，突出显示又会消失。这种机制的缺点是，如果两个活动物体靠得很近，那么要将化身指向正确的方向，使注意力集中在所需的物体上就会很麻烦。
 
 ### One-Button Actions 单键操作
 
