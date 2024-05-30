@@ -328,7 +328,7 @@ The majority of challenges in an adventure game are conceptual: puzzles that req
 
 * **Navigating mazes.** This is an area that's deliberately confusing to move around in so that it's hard to know where you are and to get where you want to go. Use mazes sparingly. They're easy to make badly but difficult to make interesting. A maze should always contain cues that an observant player can notice and use to help her learn her way around.
 
-迷宫导航。这是一个刻意制造混乱的区域，玩家很难知道自己身在何处，也很难到达自己想去的地方。少用迷宫。迷宫很容易做得糟糕，但很难做得有趣。迷宫中应始终包含一些线索，让善于观察的玩家能够注意到，并利用这些线索来帮助自己辨别方向。
+    **迷宫导航。** 这是一个刻意制造混乱的区域，玩家很难知道自己身在何处，也很难到达自己想去的地方。少用迷宫。迷宫很容易做得糟糕，但很难做得有趣。迷宫中应始终包含一些线索，让善于观察的玩家能够注意到，并利用这些线索来帮助自己辨别方向。
 
 * **Decoding cryptic messages.** Many players enjoy decoding messages, as long as there are sufficient clues to help out.
 

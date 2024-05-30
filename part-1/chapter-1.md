@@ -8,17 +8,16 @@ Figure 1.1 Go. 图 1.1 围棋。
 
 Game design is the process of:
 
-* Imagining a game.
-* Defining the way it works.
-* Describing the elements that make up the game (conceptual, functional, artistic, and others)."
-* Transmitting that information to the team that will build the game.
-
 游戏设计是以下过程的总称：
 
-* 构思一款游戏。
-* 定义游戏的运作方式。
-* 描述构成游戏的元素（概念、功能、艺术等）。
-* 将这些信息传递给游戏制作团队。
+* Imagining a game.
+构思一款游戏。
+* Defining the way it works.
+定义游戏的运作方式。
+* Describing the elements that make up the game (conceptual, functional, artistic, and others)."
+描述构成游戏的元素（概念、功能、艺术等）。
+* Transmitting that information to the team that will build the game.
+将这些信息传递给游戏制作团队。
 
 A game designer's job includes all of these. In this chapter, we discuss what's involved in game design, why we do it, and what it takes to be a game designer.
 
