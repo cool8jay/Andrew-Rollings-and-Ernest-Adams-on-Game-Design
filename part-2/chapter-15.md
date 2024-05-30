@@ -310,49 +310,49 @@ The majority of challenges in an adventure game are conceptual: puzzles that req
 
 冒险游戏中的大部分挑战都是概念性的：需要横向思维才能解决的谜题。谜题的类型有很多，我们在此列举几种，希望对你有所帮助：
 
-Finding keys to locked doors. By doors and keys, we mean any obstruction that prevents progress and any object that removes the obstruction. Many adventure game puzzles are of this type. The challenge as a designer is to give players enough variety that they don't all seem the same.
+* **Finding keys to locked doors.** By doors and keys, we mean any obstruction that prevents progress and any object that removes the obstruction. Many adventure game puzzles are of this type. The challenge as a designer is to give players enough variety that they don't all seem the same.
 
-找到锁门的钥匙。我们所说的门和钥匙指的是任何阻碍前进的障碍物和任何可以移开障碍物的物体。许多冒险游戏的谜题都属于这种类型。作为设计者，我们所面临的挑战就是要给玩家提供足够多的谜题，使它们看起来不那么千篇一律。
+    **找到锁门的钥匙。** 我们所说的门和钥匙指的是任何阻碍前进的障碍物和任何可以移开障碍物的物体。许多冒险游戏的谜题都属于这种类型。作为设计者，我们所面临的挑战就是要给玩家提供足够多的谜题，使它们看起来不那么千篇一律。
 
-Figuring out mysterious machines. This is, in effect, a combination lock instead of a lock with a key. The player has to manipulate a variety of knobs to make a variety of indicators show the correct reading. Try to make their presence reasonably plausible—too many adventure games include mysterious machines that are clearly just a puzzle, not a realistic part of their world.
+* **Figuring out mysterious machines.** This is, in effect, a combination lock instead of a lock with a key. The player has to manipulate a variety of knobs to make a variety of indicators show the correct reading. Try to make their presence reasonably plausible—too many adventure games include mysterious machines that are clearly just a puzzle, not a realistic part of their world.
 
-找出神秘的机器。实际上，这是一种密码锁，而不是带钥匙的锁。玩家需要操纵各种旋钮，让各种指示器显示正确的读数。尽量让它们的存在合理可信--太多冒险游戏中的神秘机器显然只是一个谜题，而不是游戏世界的真实组成部分。
+    **找出神秘的机器。** 实际上，这是一种密码锁，而不是带钥匙的锁。玩家需要操纵各种旋钮，让各种指示器显示正确的读数。尽量让它们的存在合理可信——太多冒险游戏中的神秘机器显然只是一个谜题，而不是游戏世界的合理组成部分。
 
-Obtaining inaccessible objects. In this kind of puzzle, there's an object—whether it's a treasure or something needed for some other purpose—that the player can see but not reach. The solution is often to find a clever way of reaching the object, perhaps by building some device that will give access to it.
+* **Obtaining inaccessible objects.** In this kind of puzzle, there's an object—whether it's a treasure or something needed for some other purpose—that the player can see but not reach. The solution is often to find a clever way of reaching the object, perhaps by building some device that will give access to it.
 
-获取无法获取的物品。在这类谜题中，玩家可以看到一个物品--无论是宝藏还是其他用途所需的物品--但却无法触及。解决的办法通常是找到一种巧妙的方法来获取该物品，或许是通过建造一些装置来获取该物品。
+    **获取无法获取的物品。** 在这类谜题中，玩家可以看到一个物品——无论是宝藏还是其他用途所需的物品——但却无法触及。解决的办法通常是找到一种巧妙的方法来获取该物品，或许是通过建造一些装置来获取该物品。
 
-Manipulating people. Sometimes an obstruction is not a physical object, but a person, and the trick is to find out what will make the person go away or let the player pass. If it's a simple question of giving him something he wants, then it's really just a lock-and-key puzzle. A more creative approach is to create a puzzle in which the person must be either defeated or distracted. The player should have to talk to him to learn what his weakness is.
+* **Manipulating people.** Sometimes an obstruction is not a physical object, but a person, and the trick is to find out what will make the person go away or let the player pass. If it's a simple question of giving him something he wants, then it's really just a lock-and-key puzzle. A more creative approach is to create a puzzle in which the person must be either defeated or distracted. The player should have to talk to him to learn what his weakness is.
 
-操纵人。有时，障碍物不是实物，而是人，而诀窍就在于找出能让人走开或让玩家通过的方法。如果只是简单地给他一些他想要的东西，那么这其实只是一个锁和钥匙的谜题。更有创意的方法是设计一个谜题，在这个谜题中，这个人要么必须被打败，要么必须分散玩家的注意力。玩家应该通过与他交谈来了解他的弱点。
+    **操纵人。** 有时，障碍物不是实物，而是人，而诀窍就在于找出能让人走开或让玩家通过的方法。如果只是简单地给他一些他想要的东西，那么这其实只是一个锁和钥匙的谜题。更有创意的方法是设计一个谜题，在这个谜题中，这个人要么必须被打败，要么必须被分散注意力。玩家应该通过与他交谈来了解他的弱点。
 
-Navigating mazes. This is an area that's deliberately confusing to move around in so that it's hard to know where you are and to get where you want to go. Use mazes sparingly. They're easy to make badly but difficult to make interesting. A maze should always contain cues that an observant player can notice and use to help her learn her way around.
+* **Navigating mazes.** This is an area that's deliberately confusing to move around in so that it's hard to know where you are and to get where you want to go. Use mazes sparingly. They're easy to make badly but difficult to make interesting. A maze should always contain cues that an observant player can notice and use to help her learn her way around.
 
 迷宫导航。这是一个刻意制造混乱的区域，玩家很难知道自己身在何处，也很难到达自己想去的地方。少用迷宫。迷宫很容易做得糟糕，但很难做得有趣。迷宫中应始终包含一些线索，让善于观察的玩家能够注意到，并利用这些线索来帮助自己辨别方向。
 
-Decoding cryptic messages. Many players enjoy decoding messages, as long as there are sufficient clues to help out.
+* **Decoding cryptic messages.** Many players enjoy decoding messages, as long as there are sufficient clues to help out.
 
-解密信息。只要有足够的线索，很多玩家都喜欢破解信息。
+    **解密信息。** 只要有足够的线索，很多玩家都喜欢破解信息。
 
-Solving memorization puzzles. These puzzles require the player to remember where something is—a variant of concentration. She can usually defeat these by taking notes, but that's reasonable enough; it's how we remember things anyway. The real challenge for you as the designer is to create a realistic reason for the puzzle to be in the game.
+* **Solving memorization puzzles.** These puzzles require the player to remember where something is—a variant of concentration. She can usually defeat these by taking notes, but that's reasonable enough; it's how we remember things anyway. The real challenge for you as the designer is to create a realistic reason for the puzzle to be in the game.
 
-解决记忆谜题。这些谜题要求玩家记住某样东西的位置--这是注意力集中的一种变体。玩家通常可以通过记笔记来破解这些谜题，不过这也很合理；反正我们也是这么记东西的。作为设计者，真正的挑战在于为游戏中的谜题创造一个现实的理由。
+    **解决记忆谜题。** 这些谜题要求玩家记住某样东西的位置——这是集中注意力的一种变体。玩家通常可以通过记笔记来破解这些谜题，不过这也很合理；反正我们也是这么记东西的。作为设计者，真正的挑战在于为游戏中的谜题创造一个加入它的合理的理由。
 
-Collecting things. This is really a compound version of other puzzles; the player's job is to find all five of the pieces of the magic whatchamacallit.
+* **Collecting things.** This is really a compound version of other puzzles; the player's job is to find all five of the pieces of the magic whatchamacallit.
 
-收集物品。这其实是其他谜题的复合版；玩家的任务是找到魔法锄头的全部五块碎片
+    **收集物品。** 这其实是其他谜题的复合版；玩家的任务是找到叫魔法那什么东东的全部五块碎片。
 
-Doing detective work. The basis for lots of police-procedure games, detective work is great fun. Instead of solving a "puzzle" per se, the player has to figure out a sequence of events from clues and interviews with witnesses. It doesn't necessarily have to be a crime; it could be any unknown event.
+* **Doing detective work.** The basis for lots of police-procedure games, detective work is great fun. Instead of solving a "puzzle" per se, the player has to figure out a sequence of events from clues and interviews with witnesses. It doesn't necessarily have to be a crime; it could be any unknown event.
 
-做侦探工作。侦探工作是许多警察程序游戏的基础，非常有趣。玩家要做的不是解决 “谜题 ”本身，而是根据线索和与目击者的访谈找出一系列事件。不一定是犯罪，也可以是任何未知事件。
+    **做侦探工作。** 侦探工作是许多警察办案游戏的基础，非常有趣。玩家不一定是解决“谜题”本身，而是根据线索和与目击者的访谈弄清楚一系列事件的顺序。这不一定是犯罪；它可以是任何未知事件。
 
-Understanding social problems. No, we don't mean inflation or unemployment. The challenges of understanding, and perhaps influencing, the relationships between people is a little-explored aspect of adventure game design. Most of the people in adventure games have very simple, mechanical states of mind. If we devote a little more effort to it, people, rather than objects, could become the primary subject of adventure games, and this would make the games much more interesting.
+* **Understanding social problems.** No, we don't mean inflation or unemployment. The challenges of understanding, and perhaps influencing, the relationships between people is a little-explored aspect of adventure game design. Most of the people in adventure games have very simple, mechanical states of mind. If we devote a little more effort to it, people, rather than objects, could become the primary subject of adventure games, and this would make the games much more interesting.
 
-了解社会问题。不，我们指的不是通货膨胀或失业问题。理解并影响人与人之间的关系是冒险游戏设计中一个鲜为人知的挑战。冒险游戏中的大多数人都有着非常简单、机械的心理状态。如果我们在这方面多花一点心思，人而不是物体就会成为冒险游戏的主要主题，而这也会让游戏变得更加有趣。
+    **了解社会问题。** 不，我们指的不是通货膨胀或失业问题。理解并影响人与人之间的关系是冒险游戏设计中一个鲜为人知的挑战。冒险游戏中的大多数人都有着非常简单、机械的心理状态。如果我们在这方面多花一点心思，人而不是物体就会成为冒险游戏的主要主题，而这也会让游戏变得更加有趣。
 
 Only playtesting can tell you whether a puzzle is too hard or too easy, and unlike other genres, you can't adjust an adventure game's difficulty by tweaking some numbers. When designing puzzles, we encourage you to try to allow for lateral thinking of the players. If there's more than one way to solve a puzzle, don't arbitrarily restrict the player to your preferred method. Obviously, you can't build in multiple solutions to every puzzle, but if the player tries something entirely logical and there's no good reason why it doesn't work, she's going to be frustrated.
 
-只有游戏测试才能告诉你一个谜题是太难还是太容易，而且与其他类型的游戏不同，你不能通过调整一些数字来调整冒险游戏的难度。在设计谜题时，我们鼓励你尝试让玩家进行横向思考。如果有不止一种解谜方法，不要武断地将玩家限制在你喜欢的方法上。显然，你不可能为每个谜题都设计多种解法，但如果玩家尝试了完全符合逻辑的解法，却没有充分的理由证明其行不通，那么她就会感到沮丧。
+只有游戏测试才能告诉你一个谜题是太难还是太容易，而且与其他类型的游戏不同，你不能通过调整一些数字来调整冒险游戏的难度。在设计谜题时，我们鼓励你尽量允许玩家进行横向思考。如果解决一个谜题有多种方法，不要武断地将玩家限制在你喜欢的方法上。显然，你不能为每个谜题都设计多种解法，但如果玩家尝试了完全符合逻辑的解法，而没有合理的解释为什么它不起作用，那么她就会感到沮丧。
 
 # User Interface Design 用户界面设计
 
