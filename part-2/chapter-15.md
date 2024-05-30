@@ -358,7 +358,7 @@ Only playtesting can tell you whether a puzzle is too hard or too easy, and unli
 
 Adventure games, more than most other genres, try to hide the fact that the player is using a computer. By comparison to vehicle simulators, sports games, or RPGs, the user interfaces of adventure games are very simple. The player needs to move through the world, talk to NPCs, and manipulate or collect objects in an intuitive way that does not interfere with his sense of immersion in the story.
 
-与大多数其他类型的游戏相比，冒险类游戏试图掩盖玩家使用电脑的事实。与汽车模拟器、体育游戏或 RPG 相比，冒险游戏的用户界面非常简单。玩家需要在世界中移动，与 NPC 对话，并以直观的方式操作或收集物品，而这种方式不会影响玩家对故事的沉浸感。
+与大多数其他类型的游戏相比，冒险类游戏试图掩盖玩家使用电脑的事实。与驾驶模拟游戏、体育游戏或 RPG 相比，冒险游戏的用户界面非常简单。玩家需要在世界中移动，与 NPC 对话，并以直观的方式操作或收集物品，而这种方式不会影响玩家对故事的沉浸感。
 
 ## Avatar Movement 化身移动
 
@@ -368,9 +368,9 @@ The movement interface that you design depends considerably on the perspective y
 
 In a context-sensitive perspective, there are two common user interfaces: point-and-click and direct control.
 
-在上下文相关视角中，有两种常见的用户界面：点击和直接控制。
+在情境感应关视角中，有两种常见的用户界面：点击和直接控制。
 
-### Point-and-Click Interfaces 点选式界面
+### Point-and-Click Interfaces 点击式式界面
 
 In this user interface, the player clicks somewhere on the screen. If the corresponding location in the game is accessible, the avatar walks to it. If the player clicks an active object, the avatar walks to it and picks it up or manipulates it in an appropriate way. Object management is discussed more extensively in the "Manipulating Objects" section later in this chapter. The disadvantage of point-and-click is that the player can easily point to areas that aren't accessible to the avatar (halfway up a wall, for example), and sometimes an area that looks as if it should be perfectly accessible isn't. This can be frustrating for the player. Nevertheless, the point-and-click interface is the de facto standard for adventure games.
 
