@@ -322,6 +322,9 @@
 [Leisure Suit Larry in the Land of the Lounge Lizards](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards)
 [《情圣拉瑞：拉瑞在花花公子岛》](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards)
 
+[Heart of China](https://en.wikipedia.org/wiki/Heart_of_China)
+[《中国之心》](https://en.wikipedia.org/wiki/Heart_of_China)
+
 [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island)
 [《猴岛小英雄》](https://en.wikipedia.org/wiki/Monkey_Island)
 
@@ -462,6 +465,9 @@
 
 [Battlefield 1942](https://en.wikipedia.org/wiki/Battlefield_1942)
 [《战地 1942》](https://en.wikipedia.org/wiki/Battlefield_1942)
+
+[Sokoban](https://en.wikipedia.org/wiki/Sokoban)
+[《推箱子》](https://en.wikipedia.org/wiki/Sokoban)
 
 [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 [《不可思议的机器》](https://en.wikipedia.org/wiki/The_Incredible_Machine)

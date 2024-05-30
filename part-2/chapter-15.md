@@ -204,15 +204,15 @@ Figure 15.5. Gabriel Knight as seen from a player-adjusted camera position. The 
 
 In most computer games, the player's role is largely defined by the challenges she will be facing, whether it's as an athlete in a sports game, a pilot in a flight simulator, or a martial arts expert in a fighting game. But adventure games can be filled with all kinds of puzzles and problems that are unrelated to the player's stated role. Indiana Jones is supposedly an archaeologist, but we don't see him digging very much. The role arises not out of the challenges (unless you specifically want it to), but out of the story. In an adventure game, the player could still be a pilot, if that's what the story requires, but it doesn't necessarily guarantee that she'll get to fly a plane. And she might be anything else or nothing in particular—just an ordinary person living in an extraordinary situation.
 
-在大多数电脑游戏中，无论是体育游戏中的运动员、飞行模拟器中的飞行员，还是格斗游戏中的武术高手，玩家的角色主要是由她将要面对的挑战来定义的。但冒险游戏中可能会出现各种与玩家角色无关的谜题和问题。印第安纳·琼斯据说是一位考古学家，但我们并没有看到他挖出多少东西。角色不是从挑战中产生的（除非你特别希望它产生），而是从故事中产生的。在冒险游戏中，如果故事需要，玩家仍然可以是一名飞行员，但这并不一定保证她能驾驶飞机。她可能是其他任何角色，也可能什么都不是--只是一个生活在不寻常环境中的普通人。
+在大多数电脑游戏中，无论是体育游戏中的运动员、飞行模拟器中的飞行员，还是格斗游戏中的武术高手，玩家的角色主要是由她将要面对的挑战来定义的。但冒险游戏中可能会出现各种与玩家角色无关的谜题和问题。印第安纳·琼斯据说是一位考古学家，但我们并没有看到他挖出多少东西。角色不是从挑战中产生的（除非你特别希望它产生），而是从故事中产生的。在冒险游戏中，如果故事需要，玩家仍然可以是一名飞行员，但这并不一定保证她会去驾驶飞机。她可能是其他任何角色，也可能什么都不是——只是一个生活在不寻常环境中的普通人。
 
 A good many adventure games do connect the player's role with the game's activities, however. Players' roles often involve travel or investigation: explorer, detective, hunter, conquistador, and so on. The player can even be some kind of a scientist, if it's a branch of science that involves travel: geologist or zoologist, for example.
 
 不过，很多冒险游戏确实将玩家的角色与游戏活动联系在一起。玩家的角色通常涉及旅行或调查：探险家、侦探、猎人、征服者等等。如果是涉及旅行的科学分支，玩家甚至可以是某种科学家：例如地质学家或动物学家。
 
-Be sure that the challenges are not too disjoint from the role, however, or it could be frustrating for the player. Heart of China, which was otherwise a straightforward adventure game, included a poorly implemented 3D tank simulator at one point. To continue the game, the player had to use the tank simulator successfully. This was a real problem; adventure game enthusiasts seldom play vehicle simulations, and many could not get past that point. It spoiled the game for them.
+Be sure that the challenges are not too disjoint from the role, however, or it could be frustrating for the player. [Heart of China](https://en.wikipedia.org/wiki/Heart_of_China), which was otherwise a straightforward adventure game, included a poorly implemented 3D tank simulator at one point. To continue the game, the player had to use the tank simulator successfully. This was a real problem; adventure game enthusiasts seldom play vehicle simulations, and many could not get past that point. It spoiled the game for them.
 
-不过，要确保挑战不要与角色过于脱节，否则会让玩家感到沮丧。中国心》本来是一款简单明了的冒险游戏，但有一次却加入了一个效果不佳的 3D 坦克模拟器。玩家必须成功使用坦克模拟器才能继续游戏。这确实是个问题；冒险游戏爱好者很少玩车辆模拟器，很多人都无法通过这一关。这让他们对游戏大失所望。
+不过，要确保挑战不要与角色过于脱节，否则会让玩家感到沮丧。[《中国之心》](https://en.wikipedia.org/wiki/Heart_of_China)本来是一款简单明了的冒险游戏，但有一次却加入了一个效果不佳的 3D 坦克模拟器。玩家必须成功使用坦克模拟器才能继续游戏。这确实是个问题；冒险游戏爱好者很少玩交通工具模拟类游戏，很多人都无法通过这一关。这让他们对游戏大失所望。
 
 ## Structure 结构
 
