@@ -192,13 +192,13 @@ Figure 15.5. Gabriel Knight as seen from a player-adjusted camera position. The 
 > 
 > 当[《猴岛的秘密》](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)的设计师罗恩·吉尔伯特开始制作这款游戏时，他已经创建了一个名为 [SCUMM](https://en.wikipedia.org/wiki/SCUMM) 的冒险游戏引擎。[SCUMM](https://en.wikipedia.org/wiki/SCUMM) 是“为[《疯狂大楼》](https://en.wikipedia.org/wiki/Maniac_Mansion)（[卢卡斯艺术](https://en.wikipedia.org/wiki/Lucasfilm_Games)公司早期的一款冒险游戏）设计的脚本创建工具”的缩写。[SCUMM](https://en.wikipedia.org/wiki/SCUMM) 是图形冒险游戏的一项重要创新：它将动词显示在屏幕上，这样玩家就不必再猜测他们的选项是什么了，而且还免去了打字的麻烦。对开发者来说，更重要的是，它使他们能够轻松创建新的冒险游戏，而不必每次都从头开始编程。五款[《猴岛小英雄》](https://en.wikipedia.org/wiki/Monkey_Island)游戏中有三款是用 [SCUMM](https://en.wikipedia.org/wiki/SCUMM) 制作的，[《疯狂大楼》](https://en.wikipedia.org/wiki/Maniac_Mansion)和其他几款[卢卡斯艺术](https://en.wikipedia.org/wiki/Lucasfilm_Games)的游戏也是如此。
 > 
-> The Secret of Monkey Island included a number of other innovations as well, most notably an insult-driven sword fight. This was a fight between the avatar, Guybrush Threepwood, and a master swordswoman. Rather than making the fight a physical challenge, which would have required a lot of additional programming and would have turned off some players, Gilbert chose to make use of (and make fun of) the way adversaries always insult one another in old swashbuckling movies. When your adversary insults you, you must choose an appropriate comeback quip. If you do, Guybrush advances in the fight; if you choose the wrong one, he is forced to retreat. If you make enough correct quips in a row, Guybrush wins the fight. The insults themselves contain cues as to which reply is correct, so you don't have to find out by trial and error.
+> [The Secret of Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island) included a number of other innovations as well, most notably an insult-driven sword fight. This was a fight between the avatar, Guybrush Threepwood, and a master swordswoman. Rather than making the fight a physical challenge, which would have required a lot of additional programming and would have turned off some players, Gilbert chose to make use of (and make fun of) the way adversaries always insult one another in old swashbuckling movies. When your adversary insults you, you must choose an appropriate comeback quip. If you do, Guybrush advances in the fight; if you choose the wrong one, he is forced to retreat. If you make enough correct quips in a row, Guybrush wins the fight. The insults themselves contain cues as to which reply is correct, so you don't have to find out by trial and error.
 > 
-> 《猴岛的秘密》中还有许多其他创新，其中最引人注目的是一场由侮辱驱动的剑斗。这是一场化身盖布拉许‧崔普伍德与女剑王之间的战斗。吉尔伯特并没有让这场格斗成为一项体力挑战，因为这需要大量的额外编程，而且会让一些玩家反感，他选择利用（并取笑）老式剑斗电影中对手之间相互侮辱的方式。当你的对手侮辱你时，你必须选择一个适当的反击调侃。如果你选择了，盖布拉许就会在战斗中前进；如果你选择了错误的，他就会被迫后退。如果你连续说出足够多的正确调侃，盖布拉许就会赢得比赛。辱骂本身就包含了正确回答的提示，因此您不必通过反复试验来找出答案。
+> [《猴岛的秘密》](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)中还有许多其他创新，其中最引人注目的是一场嘴炮斗剑。这是一场化身——盖布拉许‧崔普伍德与女剑王之间的格斗。吉尔伯特并没有让这场格斗成为一项体力挑战，因为这不仅需要大量的额外编程，而且会让一些玩家反感，他选择利用（并取笑）老式剑斗电影中对手之间相互辱骂的方式。当你的对手辱骂你的时候，你必须选择一个适当的答案骂回去。如果你选对了，盖布拉许就会在格斗中前进；如果你选错了，他就会被迫后退。如果你连续说出足够多的正确辱骂，盖布拉许就会赢得格斗。辱骂的备选项里面包含了正确回答的提示，因此你不必通过反复试验来找出答案。
 > 
-> It's this kind of humorous lateral thinking that separates great adventure games from merely good ones. The Monkey Island series belongs among the greats.
+> It's this kind of humorous lateral thinking that separates great adventure games from merely good ones. The [Monkey Island](https://en.wikipedia.org/wiki/Monkey_Island) series belongs among the greats.
 > 
-> 正是这种幽默的横向思维将优秀的冒险游戏与一般的游戏区分开来。《猴岛小英雄》系列就是其中的佼佼者。
+> 正是这种幽默的横向思维将优秀的冒险游戏与一般的游戏区分开来。[《猴岛小英雄》](https://en.wikipedia.org/wiki/Monkey_Island)系列就是其中的佼佼者。
 
 ## Player Roles 玩家角色
 
@@ -266,7 +266,7 @@ The resolution of dramatic tension occurs at a moment usually near the end of th
 
 As an adventure game designer, the puzzles create dramatic tension for you. However, they alone are not enough. They are small, individual problems. There must also be a larger problem that is the reason the player is playing the game in the first place.
 
-作为冒险游戏的设计者，谜题为您营造了戏剧张力。然而，仅有谜题是不够的。它们只是个别的小问题。还必须有一个更大的问题，这才是玩家玩游戏的初衷。
+作为冒险游戏的设计者，谜题为你营造了戏剧张力。然而，仅有谜题是不够的。它们只是个别的小问题。还必须有一个更大的问题，这才是玩家玩游戏的初衷。
 
 ### The Heroic Quest 英雄任务
 
@@ -302,13 +302,13 @@ The reason has to do with the nature of the gameplay. In a first-person shooter 
 
 Most adventure games have a save-game feature, so death isn't necessarily catastrophic; on the other hand, stopping to save the game does tend to hurt suspension of disbelief. Adventure games shouldn't be so dangerous that the player has to save all the time because it ruins the storytelling. If you are going to include death in your game, we encourage you to autosave the game at intervals so that the player can restore it even if he hasn't explicitly saved it. You don't have to let the player know that you're doing it. Again, it helps to preserve the suspension of disbelief if you don't.
 
-大多数冒险游戏都有保存游戏的功能，因此死亡并不一定是灾难性的；另一方面，停止保存游戏往往会伤害玩家的不信任感。冒险游戏不应该太危险，以至于玩家不得不一直保存游戏，因为这会破坏故事性。如果您要在游戏中加入死亡元素，我们鼓励您每隔一段时间自动保存一次游戏，这样即使玩家没有明确保存，也可以恢复游戏。您不必让玩家知道您在这样做。同样，如果您不这样做，也有助于保持玩家的不信任感。
+大多数冒险游戏都有保存游戏的功能，因此死亡并不一定是灾难性的；另一方面，停止保存游戏往往会伤害玩家的不信任感。冒险游戏不应该太危险，以至于玩家不得不一直保存游戏，因为这会破坏故事性。如果你要在游戏中加入死亡元素，我们鼓励你每隔一段时间自动保存一次游戏，这样即使玩家没有明确保存，也可以恢复游戏。你不必让玩家知道你在这样做。同样，如果你不这样做，也有助于保持玩家的不信任感。
 
 ## Challenges 挑战
 
 The majority of challenges in an adventure game are conceptual: puzzles that require lateral thinking to solve. There are many types of puzzles; we list a few here to get you started:
 
-冒险游戏中的大部分挑战都是概念性的：需要横向思维才能解决的谜题。谜题的类型有很多，我们在此列举几种，希望对您有所帮助：
+冒险游戏中的大部分挑战都是概念性的：需要横向思维才能解决的谜题。谜题的类型有很多，我们在此列举几种，希望对你有所帮助：
 
 Finding keys to locked doors. By doors and keys, we mean any obstruction that prevents progress and any object that removes the obstruction. Many adventure game puzzles are of this type. The challenge as a designer is to give players enough variety that they don't all seem the same.
 
@@ -352,7 +352,7 @@ Understanding social problems. No, we don't mean inflation or unemployment. The 
 
 Only playtesting can tell you whether a puzzle is too hard or too easy, and unlike other genres, you can't adjust an adventure game's difficulty by tweaking some numbers. When designing puzzles, we encourage you to try to allow for lateral thinking of the players. If there's more than one way to solve a puzzle, don't arbitrarily restrict the player to your preferred method. Obviously, you can't build in multiple solutions to every puzzle, but if the player tries something entirely logical and there's no good reason why it doesn't work, she's going to be frustrated.
 
-只有游戏测试才能告诉你一个谜题是太难还是太容易，而且与其他类型的游戏不同，你不能通过调整一些数字来调整冒险游戏的难度。在设计谜题时，我们鼓励您尝试让玩家进行横向思考。如果有不止一种解谜方法，不要武断地将玩家限制在你喜欢的方法上。显然，您不可能为每个谜题都设计多种解法，但如果玩家尝试了完全符合逻辑的解法，却没有充分的理由证明其行不通，那么她就会感到沮丧。
+只有游戏测试才能告诉你一个谜题是太难还是太容易，而且与其他类型的游戏不同，你不能通过调整一些数字来调整冒险游戏的难度。在设计谜题时，我们鼓励你尝试让玩家进行横向思考。如果有不止一种解谜方法，不要武断地将玩家限制在你喜欢的方法上。显然，你不可能为每个谜题都设计多种解法，但如果玩家尝试了完全符合逻辑的解法，却没有充分的理由证明其行不通，那么她就会感到沮丧。
 
 # User Interface Design 用户界面设计
 
@@ -386,7 +386,7 @@ In a direct control user interface, the player's commands say "Walk in this dire
 
 No matter what perspective or user interface you choose, we strongly suggest that you implement both a "walk" and a "run" movement mode so the player can move slowly through unfamiliar spaces and quickly through familiar ones. If the game requires the player to move repeatedly through areas he already knows well, it gets very boring to watch the avatar walk deliberately from place to place. On the other hand, if your world is rich and detailed and your game expects the player to examine everything closely for clues, the user interface must make it possible to move around slowly and accurately.
 
-无论您选择哪种视角或用户界面，我们都强烈建议您同时采用 “走 ”和 “跑 ”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着化身从一个地方故意走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切以寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
+无论你选择哪种视角或用户界面，我们都强烈建议你同时采用 “走 ”和 “跑 ”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着化身从一个地方故意走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切以寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
 
 ## Manipulating Objects 操作物体
 
@@ -539,7 +539,7 @@ With the arrival of graphic adventures, mapping became less critical because the
 
 The map that you give the player doesn't have to be complete at the beginning of the game; it can start out empty and be filled in as the player moves around, a process called automapping. The player should be able to refer to his map conveniently at any time. It's also a good idea to give the player a compass to tell him which direction he's facing.
 
-在游戏开始时，您给玩家的地图并不一定是完整的；它可以一开始是空的，然后随着玩家的移动逐渐填满，这个过程称为自动映射。玩家应该能够随时方便地参考自己的地图。最好还能给玩家一个指南针，告诉他所处的方向。
+在游戏开始时，你给玩家的地图并不一定是完整的；它可以一开始是空的，然后随着玩家的移动逐渐填满，这个过程称为自动映射。玩家应该能够随时方便地参考自己的地图。最好还能给玩家一个指南针，告诉他所处的方向。
 
 Automapping destroys the challenge imposed by mazes, but we think mazes are one of the most overused and least-enjoyed features of adventure games. Unless you have a good reason for including a maze and can construct one that's really clever and fun to be in, don't do it.
 
@@ -553,9 +553,9 @@ Another common feature of adventure games—one that is conceptually similar to 
 
 ## A Few Things to Avoid 应避免的几件事
 
-As adventure games have evolved, their designers have created many different kinds of puzzles and experiences for the player. Some of these are extremely clever, such as the insult-driven sword fight in The Secret of Monkey Island. A good many others, however, proved to be only tiresome time wasters, obstacles that added no entertainment value to the game.
+As adventure games have evolved, their designers have created many different kinds of puzzles and experiences for the player. Some of these are extremely clever, such as the insult-driven sword fight in [The Secret of Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island). A good many others, however, proved to be only tiresome time wasters, obstacles that added no entertainment value to the game.
 
-随着冒险游戏的发展，设计师们为玩家设计了许多不同类型的谜题和体验。其中有些非常巧妙，比如《猴岛的秘密》中由侮辱引起的剑斗。然而，很多其他的谜题都被证明是令人厌烦的浪费时间的障碍，没有给游戏增添任何娱乐价值。
+随着冒险游戏的发展，设计师们为玩家设计了许多不同类型的谜题和体验。其中有些非常巧妙，比如[《猴岛的秘密》](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)中的嘴炮斗剑。然而，很多其他的谜题都被证明是令人厌烦的浪费时间的障碍，没有给游戏增添任何娱乐价值。
 
 ### Puzzles Solvable Only by Trial and Error 谜题只能通过尝试和错误来解决
 
@@ -587,7 +587,7 @@ Many adventure games rely on some occasional oddities, especially for comic effe
 
 You have to be even more careful when developing games for foreign markets because other countries don't always have the same idioms. For example, the action "Wear the lampshade on my head" could cause other characters in the game to assume that the player's avatar is drunk, which might be desirable in the context of the story. However, wearing a lampshade as a sign of drunkenness is an American cultural idiom that might not be understood in Japan, for example. Again, it's okay to make cultural references in your game; just be careful about requiring the user to understand them to win.
 
-在为国外市场开发游戏时，您必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“Wear the lampshade on my head”（把灯罩戴在头上）这一动作可能会让游戏中的其他角色认为玩家的化身喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
+在为国外市场开发游戏时，你必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“Wear the lampshade on my head”（把灯罩戴在头上）这一动作可能会让游戏中的其他角色认为玩家的化身喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
 
 ### Click-the-Right-Pixel Puzzles 点击正确像素谜题
 
