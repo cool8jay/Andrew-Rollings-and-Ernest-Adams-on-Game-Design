@@ -368,32 +368,33 @@ The movement interface that you design depends considerably on the perspective y
 
 In a context-sensitive perspective, there are two common user interfaces: point-and-click and direct control.
 
-在情境感应关视角中，有两种常见的用户界面：点击和直接控制。
+在情境感应视角中，有两种常见的用户界面：点击式和直接控制。
 
-### Point-and-Click Interfaces 点击式式界面
+### Point-and-Click Interfaces 点击式界面
 
 In this user interface, the player clicks somewhere on the screen. If the corresponding location in the game is accessible, the avatar walks to it. If the player clicks an active object, the avatar walks to it and picks it up or manipulates it in an appropriate way. Object management is discussed more extensively in the "Manipulating Objects" section later in this chapter. The disadvantage of point-and-click is that the player can easily point to areas that aren't accessible to the avatar (halfway up a wall, for example), and sometimes an area that looks as if it should be perfectly accessible isn't. This can be frustrating for the player. Nevertheless, the point-and-click interface is the de facto standard for adventure games.
 
-在这种用户界面中，玩家点击屏幕上的某处。如果可以到达游戏中的相应位置，化身就会走到那里。如果玩家点击了一个活动物体，化身就会走到该物体前，并以适当的方式拾取或操作该物体。本章后面的 “操作物体 ”部分将对物体管理进行更广泛的讨论。点选式操作的缺点是玩家很容易指向化身无法到达的区域（例如墙壁的一半），有时看起来似乎完全可以到达的区域却无法到达。这可能会让玩家感到沮丧。尽管如此，点击式界面仍然是冒险游戏的事实标准。
+在这个用户界面中，玩家点击屏幕上的某处。如果游戏中对应的位置是可达的，化身就会走到那里。如果玩家点击了一个活动物体，化身就会走到它那里并捡起来或以适当的方式进行操作。物体管理在本章后面的“操作物体”部分有更广泛的讨论。点击式操作的缺点是玩家很容易指向化身无法到达的区域（例如，墙壁的半中央位置），有时看起来应该很容易到达的区域却无法到达。这可能会让玩家感到沮丧。尽管如此，点击式界面仍然是冒险游戏的事实标准。
 
 ### Direct Control Interfaces 直接控制界面
 
-In a direct control user interface, the player's commands say "Walk in this direction" rather than "Walk to this point," as they do in a point-and-click interface. In these kinds of games, such as Grim Fandango, from LucasArts, the player "steers" the avatar around the screen. Direct control can be awkward in a context-sensitive perspective because the camera angle changes from scene to scene.
+In a direct control user interface, the player's commands say "Walk in this direction" rather than "Walk to this point," as they do in a point-and-click interface. In these kinds of games, such as [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango), from LucasArts, the player "steers" the avatar around the screen. Direct control can be awkward in a context-sensitive perspective because the camera angle changes from scene to scene.
 
-在直接控制用户界面中，玩家的命令是 “朝这个方向走”，而不是像在点击界面中那样 “走到这一点”。在这类游戏（如 LucasArts 公司出品的《Grim Fandango》）中，玩家在屏幕上“操纵”化身。在上下文相关的视角中，直接控制可能会很笨拙，因为摄像机的角度会随着场景的变化而变化。
+在直接控制界面中，玩家的命令是“朝这个方向走”，而不是像在点击式界面中那样“走到这一点”。在这类游戏（如 LucasArts 公司出品的[《冥界狂想曲》](https://en.wikipedia.org/wiki/Grim_Fandango)）中，玩家在屏幕上“操纵”化身。在情境感应视角中，直接控制可能会很笨拙，因为摄像机的角度会随着场景而变化。
 
 ### Movement Speed 移动速度
 
 No matter what perspective or user interface you choose, we strongly suggest that you implement both a "walk" and a "run" movement mode so the player can move slowly through unfamiliar spaces and quickly through familiar ones. If the game requires the player to move repeatedly through areas he already knows well, it gets very boring to watch the avatar walk deliberately from place to place. On the other hand, if your world is rich and detailed and your game expects the player to examine everything closely for clues, the user interface must make it possible to move around slowly and accurately.
 
-无论你选择哪种视角或用户界面，我们都强烈建议你同时采用 “走 ”和 “跑 ”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着化身从一个地方故意走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切以寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
+无论你选择哪种视角或用户界面，我们都强烈建议你同时采用“走”和“跑”两种移动模式，这样玩家就可以在不熟悉的空间缓慢移动，也可以在熟悉的空间快速移动。如果游戏要求玩家在他已经熟悉的区域反复移动，那么看着化身从一个地方小心翼翼地走到另一个地方就会非常无聊。另一方面，如果你的世界丰富而细致，你的游戏希望玩家仔细观察一切来寻找线索，那么用户界面就必须能让玩家缓慢而准确地移动。
 
 ## Manipulating Objects 操作物体
 
 One of the great challenges in designing an adventure game is in determining how the player should manipulate objects in the world. In many games, the player must figure out what to do with particular objects to solve puzzles and advance the game. In text adventures, this amounted to guessing the correct verb. You often got interchanges that looked like this:
 
-设计冒险游戏的一大挑战是确定玩家应如何操作世界中的物体。在许多游戏中，玩家必须想出如何操作特定的物体来解决谜题和推进游戏。在文字冒险游戏中，这相当于猜测正确的动词。你经常会听到这样的对话：
+设计冒险游戏的一大挑战是确定玩家应如何操作世界中的物体。在许多游戏中，玩家必须想出如何操作特定的物体来解决谜题和推进游戏。在文字冒险游戏中，这相当于猜到正确的动词。你经常会听到这样的对话：
 
+```
 > OPEN DOOR 开门
 The door is locked, but it looks pretty flimsy. 门锁上了，但看上去不太结实。
 > BREAK DOOR 破门
@@ -404,32 +405,33 @@ I don't know how to do that. 我不知道怎么做。
 I don't know how to do that. 我不知道怎么做。
 > KICK DOOR 踢门
 The door flies open. 门飞开了。
+```
 
 Sometimes this was fun; a lot of the time it wasn't. In graphic adventure games, in which the player is using the mouse or a handheld controller, designers can solve this problem in a variety of different ways.
 
 有时这很有趣，但很多时候并不好玩。在图形冒险游戏中，玩家使用鼠标或手持控制器，设计者可以通过各种不同的方法来解决这个问题。
 
-### Identifying Active Objects 识别活动对象
+### Identifying Active Objects 识别活动物体
 
 Not every object in the game world can be manipulated or picked up; some are just part of the background scenery. The player needs a way of recognizing the active objects in a particular location. Text adventures used to print a list of them. Graphic adventures have typically used one of four mechanisms:
 
 在游戏世界中，并不是每个物体都可以操作或拾取；有些物体只是背景场景的一部分。玩家需要一种方法来识别特定地点的活动物体。文字冒险通常会打印出一个列表。图形冒险通常使用四种机制中的一种：
 
-Hunt and click. Active objects don't look any different from anything else; the player simply has to click everything in the scene to see if it's active. This makes the scene look realistic, but it's annoying for the player, especially if some of the objects are small or partially hidden. This mechanism has generally been abandoned in favor of the following ones.
+* **Hunt and click.** Active objects don't look any different from anything else; the player simply has to click everything in the scene to see if it's active. This makes the scene look realistic, but it's annoying for the player, especially if some of the objects are small or partially hidden. This mechanism has generally been abandoned in favor of the following ones.
 
-狩猎和点击。活动物体看起来与其他物体没有任何区别；玩家只需点击场景中的所有物体，查看其是否处于活动状态。这使得场景看起来很逼真，但对玩家来说却很烦人，尤其是在一些物体很小或部分隐藏的情况下。这种机制已被普遍放弃，转而采用以下机制。
+    **狩猎和点击。** 活动物体看起来与其他物体没有任何区别；玩家只需点击场景中的所有物体，查看其是否处于活动状态。这使得场景看起来很真实，但对玩家来说却很烦人，尤其是在一些物体很小或部分隐藏的情况下。这种机制已被普遍放弃，转而采用以下机制。
 
-Permanently highlighted objects. The active objects in a scene are permanently highlighted in some way—either they're slightly brighter than the rest of the scene or they're surrounded by a line of light or dark pixels, to make them stand out against the background. The moment the scene appears on the screen, the player can tell which objects are active. It's convenient, if artificial.
+* **Permanently highlighted objects. **The active objects in a scene are permanently highlighted in some way—either they're slightly brighter than the rest of the scene or they're surrounded by a line of light or dark pixels, to make them stand out against the background. The moment the scene appears on the screen, the player can tell which objects are active. It's convenient, if artificial.
 
-永久高亮物体。场景中的活动物体会以某种方式永久突出显示--要么比场景的其他部分稍亮，要么被一条或明或暗的像素线包围，使其在背景中显得格外突出。当场景出现在屏幕上时，玩家就能知道哪些物体是活动的。虽然有些矫揉造作，但还是很方便的。
+    **永久高亮物体。** 场景中的活动物体会以某种方式永久突出显示——要么比场景的其他部分稍亮，要么被一条或明或暗的像素线包围，使其在背景中显得格外突出。当场景出现在屏幕上时，玩家就能知道哪些物体是活动的。虽然有些矫揉造作，但还是很方便的。
 
-Dynamically highlighted objects. The active objects in a scene normally look like part of the background, but they are highlighted when the mouse cursor passes over them. Either the object lights up or the cursor changes shape. It still means that the player has to do some hunting, but it's much easier than hunting and clicking; a quick wave of the cursor tells the player if there's an active object nearby.
+* **Dynamically highlighted objects.** The active objects in a scene normally look like part of the background, but they are highlighted when the mouse cursor passes over them. Either the object lights up or the cursor changes shape. It still means that the player has to do some hunting, but it's much easier than hunting and clicking; a quick wave of the cursor tells the player if there's an active object nearby.
 
-动态突出显示物体。场景中的活动物体通常看起来像是背景的一部分，但当鼠标光标经过它们时，它们就会被突出显示。要么物体亮起，要么光标改变形状。这仍然意味着玩家需要做一些搜寻工作，但这比搜寻和点击要容易得多；光标的快速移动会告诉玩家附近是否有活动物体。
+    **动态突出显示物体。** 场景中的活动物体通常看起来像是背景的一部分，但当鼠标光标经过它们时，它们就会被突出显示。要么物体亮起，要么光标改变形状。这仍然意味着玩家需要做一些搜寻工作，但这比搜寻和点击要容易得多；光标的快速移动会告诉玩家附近是否有活动物体。
 
-Focus-of-attention highlighting. This mechanism is typically used with hand held controllers when the player doesn't have a mouse cursor. As the avatar moves around in a scene, his focus of attention changes depending on the direction he is looking. Whatever active object is directly in front of him is the focus of his attention and is highlighted. When he turns away, its highlighting disappears again. The disadvantage of this mechanism is that if two active objects are close together, it can be tricky to point the avatar in exactly the right direction to put the focus of attention on the desired object.
+* **Focus-of-attention highlighting.** This mechanism is typically used with hand held controllers when the player doesn't have a mouse cursor. As the avatar moves around in a scene, his focus of attention changes depending on the direction he is looking. Whatever active object is directly in front of him is the focus of his attention and is highlighted. When he turns away, its highlighting disappears again. The disadvantage of this mechanism is that if two active objects are close together, it can be tricky to point the avatar in exactly the right direction to put the focus of attention on the desired object.
 
-突出显示焦点。当玩家没有鼠标光标时，这种机制通常用于手持控制器。当虚拟人在场景中移动时，他的注意力焦点会根据他所看的方向发生变化。在他正前方的任何活动物体都是他的注意力焦点，并会突出显示。当他转过身去时，突出显示又会消失。这种机制的缺点是，如果两个活动物体靠得很近，那么要将虚拟化身指向正确的方向，使注意力集中在所需的物体上就会很麻烦。
+    **突出显示焦点。** 当玩家没有鼠标光标时，这种机制通常用于手持控制器。当虚拟人在场景中移动时，他的注意力焦点会根据他所看的方向发生变化。在他正前方的任何活动物体都是他的注意力焦点，并会突出显示。当他转过身去时，突出显示又会消失。这种机制的缺点是，如果两个活动物体靠得很近，那么要将虚拟化身指向正确的方向，使注意力集中在所需的物体上就会很麻烦。
 
 ### One-Button Actions 单键操作
 
