@@ -437,7 +437,7 @@ Not every object in the game world can be manipulated or picked up; some are jus
 
 In a graphic adventure game played with a handheld controller, designers often assign one button of the controller to a generic "use" or "manipulate" function: The player moves the avatar near the object and presses the "use" button for obvious functions such as opening a door or throwing a switch. The player can always count on the button to do the right thing with an object, whatever that might be. Some mouse-based games use a similar mechanism: Clicking an object does something appropriate with it. This makes the game very easy to play because there's no guessing about what you should do. The disadvantage of this system is that there can be only one action per object, so it doesn't allow the designer to challenge the player's lateral thinking.
 
-在使用手持控制器的图形冒险游戏中，设计者通常会将控制器上的一个按钮指定为通用的 “使用 ”或 “操作 ”功能：玩家将化身移动到物体附近，然后按下 “使用 ”按钮来实现开门或开关等显而易见的功能。玩家总是可以依靠这个按钮对物体做出正确的操作，不管是什么。一些基于鼠标的游戏也使用类似的机制：点击一个物体，它就会做出相应的动作。这让游戏变得非常容易上手，因为不用猜测你应该做什么。这种系统的缺点是每个物体只能有一个动作，因此设计者无法挑战玩家的横向思维。
+在使用手持控制器的图形冒险游戏中，设计者通常会将控制器上的一个按钮指定为通用的“使用”或“操作”功能：玩家将化身移动到物体附近，然后按下“使用”按钮来实现开门或扳动开关等显而易见的功能。玩家总是可以依靠这个按钮对物体做出正确的操作，不管是什么。一些基于鼠标的游戏也使用类似的机制：点击一个物体，它就会做出相应的动作。这让游戏变得非常容易上手，因为不用猜测你应该做什么。这种系统的缺点是每个物体只能有一个动作，因此设计者无法挑战玩家的横向思维。
 
 ### Menu-Driven Actions 菜单驱动的操作
 
