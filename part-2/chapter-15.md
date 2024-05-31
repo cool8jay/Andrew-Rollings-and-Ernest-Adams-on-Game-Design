@@ -509,9 +509,9 @@ A few early text-based games tried to implement parsers that could understand li
 
 In the end, most adventure game designers gave up on trying to create the impression that you could talk to anyone about anything and devised the scripted conversation, a mechanism that has become the de facto standard for both adventure games and RPGs. A scripted conversation is a branching-tree structure in which each node represents an opportunity for the player to select one of several fixed lines to say from a menu of choices (see Figure 15.12). Depending on which line the player chooses to say, the NPC responds appropriately, and the conversation moves on to a new node in the tree. The contents of the menu change as the conversation progresses; as the NPC says things the player hasn't heard before, the player gets opportunities to ask for elaboration, end the conversation, or switch the subject to a different topic. Another common choice is "Tell me again about…," which enables the player to return to an earlier point in the conversation and go through it again, if he didn't pay close enough attention the first time.
 
-最后，大多数冒险游戏的设计者都放弃了试图营造一种 “你可以和任何人谈论任何事情 ”的印象，而是设计了脚本对话，这种机制已经成为冒险游戏和 RPG 的事实标准。脚本对话是一种分支树结构，其中的每个节点都代表着一个机会，玩家可以从选择菜单中选择几句固定的台词之一（见图 15.12）。根据玩家选择的对话内容，NPC 会做出适当的回应，然后对话会进入树中的新节点。菜单的内容会随着对话的进行而改变；当 NPC 说出玩家以前没听过的话时，玩家就有机会要求详细说明、结束对话或将话题切换到另一个主题上。另一个常见的选择是 “再跟我说一遍......”，如果玩家第一次没有注意听，可以通过这个选项返回到对话的前一个点，再听一遍。
+最后，大多数冒险游戏的设计者都放弃了试图营造一种“你可以和任何人谈论任何事情”的印象，而是设计了脚本对话，这种机制已经成为冒险游戏和 RPG 的事实标准。脚本对话是一种分支树结构，其中的每个节点都代表着一个机会，玩家可以从选择菜单中选择几句固定的台词之一（见图 15.12）。根据玩家选择的对话内容，NPC 会做出适当的回应，然后对话会进入树中的新节点。菜单的内容会随着对话的进行而改变；当 NPC 说出玩家以前没听过的话时，玩家就有机会要求详细说明、结束对话或将话题切换到另一个主题上。另一个常见的选择是 “再跟我说一遍……”，如果玩家第一次没有注意听，可以通过这个选项返回到对话的前一个点，再听一遍。
 
-Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15.12. 福尔摩斯探案集》中的对话菜单。
+Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15.12. 《福尔摩斯：开膛手杰克》中的对话菜单。
 
 ![](../.gitbook/assets/15.12.png)
 
@@ -519,15 +519,15 @@ Figure 15.12. The conversation menu in The Lost Files of Sherlock Holmes. 图 15
 
 Although the scripted conversation forces the player to say only the things in the script, it does produce natural-sounding conversations, in which the sequence of remarks and replies is plausible. It also gives you, the designer, a way to illustrate both the avatar's and the NPC's character through something other than their appearances. You can write their lines in such a way that you give them distinct personalities of their own. For example, Guybrush Threepwood, the hero of the Monkey Island games, is a wise guy type who seldom takes anything seriously. The character's vocabulary, grammar, dialect, and—if the game has recorded audio of the conversation—tone of voice and accent are all important cues.
 
-虽然脚本对话迫使玩家只能说脚本中的内容，但它确实能产生听起来自然的对话，其中的发言和回答顺序都是可信的。它还为设计者提供了一种方法，让你可以通过化身和 NPC 的外表以外的东西来说明他们的性格。你可以在编写台词时赋予他们自己鲜明的个性。例如，《猴岛小英雄》游戏的主人公盖布拉许‧崔普伍德是一个聪明人，他很少认真对待任何事情。角色的词汇、语法、方言以及（如果游戏录制了对话音频）语音语调和口音都是重要的线索。
+虽然脚本对话迫使玩家只能说脚本中的内容，但它确实能产生听起来自然的对话，其中的发言和回答顺序都是可信的。它还为设计者提供了一种方法，让你可以通过化身和 NPC 的外表以外的东西来说明他们的性格。你可以在编写台词时赋予他们鲜明的个性。例如，《猴岛小英雄》游戏的主人公盖布拉许‧崔普伍德是一个聪明人，他很少认真对待任何事情。角色的词汇、语法、方言以及（如果游戏录制了对话音频）语音语调和口音都是重要的线索。
 
 In addition to letting the player discuss a variety of topics with a given NPC, the menu system allows the player to choose a variety of different attitudes in which she says the same thing: aggressive, deferential, formal, or flippant, for example. The NPC can then respond to each of these in whatever way his character dictates. For example, a powerful character who brooks no nonsense might be offended by wisecracks and refuse to talk to the player anymore. (If you do this and the NPC's information is vital to the plot, make sure that either the NPC gets over his snit after a while or there's some other way for the player to obtain the information.)
 
-除了让玩家与特定的 NPC 讨论各种话题外，菜单系统还允许玩家选择 NPC 说同一件事时的各种不同态度：例如，咄咄逼人、恭敬、正式或轻浮。然后，NPC 可以根据自己的性格做出相应的反应。例如，一个不喜欢废话的强大角色可能会被俏皮话冒犯，并拒绝再与玩家交谈。(如果你这样做了，而该 NPC 的信息对剧情又至关重要，那么要确保该 NPC 过一段时间就会恢复正常，或者玩家可以通过其他方式获得信息）。
+除了让玩家与特定的 NPC 讨论各种话题外，菜单系统还允许玩家选择多种不同的态度来表达同一件事情：例如，咄咄逼人、恭敬、正式或轻浮。然后，NPC 可以根据自己的性格做出相应的反应。例如，一个不喜欢废话的强大角色可能会被俏皮话冒犯，并拒绝再与玩家交谈。(如果你这样做了，而该 NPC 的信息对剧情又至关重要，那么要确保该 NPC 过一段时间就会消气，或者玩家可以通过其他方式获得信息）。
 
 The scripted conversation is not merely a mechanism for giving the player information, however. It's a real part of the gameplay, and the player's choices can have a distinct effect on the progress of the game. For example, an NPC could ask the player to entrust him with a valuable secret. The player's decision, whether to tell or not to tell, could have far-reaching consequences. The player has to choose based on her assessment of the NPC's character—to which you, the designer, must provide clues.
 
-然而，脚本对话不仅仅是向玩家提供信息的机制。它是游戏的真正组成部分，玩家的选择会对游戏进程产生明显的影响。例如，一个 NPC 可能会要求玩家将一个宝贵的秘密托付给他。玩家的决定--告诉还是不告诉--可能会产生深远的影响。玩家必须根据自己对 NPC 性格的评估来做出选择，而作为设计者，你必须提供线索。
+然而，脚本对话不仅仅是向玩家提供信息的机制。它是游戏的真正组成部分，玩家的选择会对游戏进程产生明显的影响。例如，一个 NPC 可能会要求玩家将一个宝贵的秘密托付给他。玩家的决定——告诉还是不告诉——可能会产生深远的影响。玩家必须根据自己对 NPC 性格的评估来做出选择，而作为设计者，你必须提供线索。
 
 ## Mapping 绘制地图
 
@@ -537,21 +537,21 @@ When playing text adventures, players usually needed to make a map for themselve
 
 With the arrival of graphic adventures, mapping became less critical because the graphics provided cues about where the player was and how his current location related to other areas in the world. However, we think it's a good idea to give the player a map. A few games deliberately deny the player a map to make the game more difficult, but this is usually poor design—an obstacle that slows down the player without providing any entertainment value. There's not a lot of fun in being lost. If you force the player to make his own map, he has to constantly look away from the screen to a sketch pad at his side; that's a tedious business that rapidly destroys suspension of disbelief.
 
-随着图形冒险的出现，地图变得不那么重要了，因为图形会提示玩家所在的位置，以及他当前的位置与世界中其他区域的关系。不过，我们认为给玩家提供地图是个好主意。有一些游戏故意不给玩家提供地图，以增加游戏难度，但这通常是拙劣的设计--这种障碍会拖慢玩家的速度，却不会带来任何娱乐价值。迷失方向并没有什么乐趣可言。如果你强迫玩家自己绘制地图，他就必须不断地把目光从屏幕移到身边的草稿纸上；这是一件乏味的事情，会迅速破坏玩家的不信任感。
+随着图形冒险的出现，地图变得不那么重要了，因为图形会提示玩家所在的位置，以及他当前的位置与世界中其他区域的关系。不过，我们认为给玩家提供地图是个好主意。有一些游戏故意不给玩家提供地图，以增加游戏难度，但这通常是拙劣的设计——这种障碍会拖慢玩家的速度，却不会带来任何娱乐价值。迷路一点也不好玩。如果你强迫玩家自己绘制地图，他就必须不断地把目光从屏幕移到身边的草稿纸上；这是一件乏味的事情，会迅速破坏玩家的信任感。
 
 The map that you give the player doesn't have to be complete at the beginning of the game; it can start out empty and be filled in as the player moves around, a process called automapping. The player should be able to refer to his map conveniently at any time. It's also a good idea to give the player a compass to tell him which direction he's facing.
 
-在游戏开始时，你给玩家的地图并不一定是完整的；它可以一开始是空的，然后随着玩家的移动逐渐填满，这个过程称为自动映射。玩家应该能够随时方便地参考自己的地图。最好还能给玩家一个指南针，告诉他所处的方向。
+在游戏开始时，你给玩家的地图不必是完整的；它可以从空白开始，然后随着玩家移动逐渐填充，这个过程称为自动绘图。玩家应该能够随时方便地查看他的地图。最好还能给玩家一个指南针，告诉他所处的方向。
 
 Automapping destroys the challenge imposed by mazes, but we think mazes are one of the most overused and least-enjoyed features of adventure games. Unless you have a good reason for including a maze and can construct one that's really clever and fun to be in, don't do it.
 
-自动映射破坏了迷宫所带来的挑战，但我们认为迷宫是冒险游戏中最常用、最不受欢迎的功能之一。除非你有充分的理由在游戏中加入迷宫，而且迷宫设计得非常巧妙有趣，否则就不要加入迷宫。
+自动绘图消除了迷宫带来的挑战，但我们认为迷宫是冒险游戏中最滥用且最不受欢迎的特性之一。除非你有充分的理由在游戏中加入迷宫，而且迷宫设计得非常巧妙有趣，否则就不要加入迷宫。
 
 ## Journal Keeping 记日记
 
 Another common feature of adventure games—one that is conceptually similar to automapping—is automatic journal keeping. The game fills in a journal with text as the player goes along, recording important events or information she has learned. If the plot is convoluted or there are large numbers of characters in the game, the journal is an invaluable reference tool for the player. Let her call it up and look at it at any reasonable time (though not, perhaps, while hanging over the edge of a cliff or being interrogated by a mean bad guy). As with conversations with NPCs, the journal gives you an opportunity to define the avatar's character through her use of language.
 
-冒险游戏的另一个共同特点--在概念上与自动映射类似--是自动记日记。游戏会在玩家前进的过程中用文字填写日志，记录重要事件或玩家了解到的信息。如果情节错综复杂，或者游戏中的角色数量众多，那么日志对玩家来说就是非常宝贵的参考工具。让她在任何合理的时间调出并查看日记（不过在悬崖边或被凶恶的坏人审问时可能不行）。就像与 NPC 对话一样，日记让你有机会通过化身的语言来定义她的性格。
+冒险游戏的另一个共同特点——概念上与自动绘图类似——是自动记日记。游戏会在玩家前进的过程中用文字填写日志，记录重要事件或玩家了解到的信息。如果游戏的情节错综复杂，或者游戏中的角色众多，那么日志对玩家来说就是非常宝贵的参考工具。让她在任何合理的时间调出并查看日记（不过挂在悬崖边或被凶恶的坏人审问的时候可能不行）。与 NPC 对话一样，日记让你有机会通过化身的语言来定义她的性格。
 
 ## A Few Things to Avoid 应避免的几件事
 
@@ -561,19 +561,23 @@ As adventure games have evolved, their designers have created many different kin
 
 ### Puzzles Solvable Only by Trial and Error 谜题只能通过尝试和错误来解决
 
-If you give the player a puzzle that has a fixed number of possible solutions of equal probability (in effect, a combination lock), but no hints about which one is right, then the player simply has to try them all. The Infocom text adventure Infidel included a puzzle like this: Four statues of Egyptian goddesses had to be lined up in the correct order, but there were no clues about what it might be. The player simply had to try all 24 possible combinations and keep track of the ones she had already done. There's not much fun in that.
+If you give the player a puzzle that has a fixed number of possible solutions of equal probability (in effect, a combination lock), but no hints about which one is right, then the player simply has to try them all. The Infocom text adventure [Infidel](https://en.wikipedia.org/wiki/Infidel_(video_game)) included a puzzle like this: Four statues of Egyptian goddesses had to be lined up in the correct order, but there were no clues about what it might be. The player simply had to try all 24 possible combinations and keep track of the ones she had already done. There's not much fun in that.
 
-如果给玩家一个谜题，它有固定数量的概率相等的可能解法（实际上就是一把密码锁），但没有提示哪一种解法是正确的，那么玩家就必须尝试所有的解法。Infocom 文字冒险游戏《Infidel》中就有这样一道谜题：四座埃及女神像必须按照正确的顺序排列，但没有任何提示。玩家只需尝试所有 24 种可能的组合，并记录已经完成的组合。这样做并没有什么乐趣。
+如果给玩家一个谜题，它有固定数量的概率相等的可能解法（实际上就是一把密码锁），但没有提示哪一种解法是正确的，那么玩家就必须尝试所有的解法。Infocom 文字冒险游戏[《异教徒》](https://en.wikipedia.org/wiki/Infidel_(video_game))中就有这样一道谜题：四座埃及女神像必须按照正确的顺序排列，但没有任何提示。玩家只需尝试所有 24 种可能的组合，并记录已经完成的组合。这样做并没有什么乐趣。
 
 ### Conceptual Non Sequiturs 概念性非连续谜题
 
-This is a variant of the trial-and-error puzzle, a problem whose solution requires thinking so lateral that it's completely irrational. A conceptual nonsequitur is something along the lines of "Put the lampshade on the bulldozer" or "Sharpen the headphones with the banana." A few games try to get away with this by claiming that it's surrealism, but true surrealism is informed by some kind of underlying point; it's not just random weirdness.
+This is a variant of the trial-and-error puzzle, a problem whose solution requires thinking so lateral that it's completely irrational. A conceptual non sequitur is something along the lines of "Put the lampshade on the bulldozer" or "Sharpen the headphones with the banana." A few games try to get away with this by claiming that it's surrealism, but true surrealism is informed by some kind of underlying point; it's not just random weirdness.
 
-这是 “试错谜题 ”的一种变体，是一种需要进行横向思考，以至于完全不合理的问题。概念性无序问题就是 “把灯罩放在推土机上 ”或 “用香蕉削耳机 ”之类的问题。一些游戏试图通过声称这是超现实主义来摆脱这种情况，但真正的超现实主义是有某种基本观点的；它并不只是随机的怪异现象。
+这是“试错谜题”的一种变体，是一种需要进行过分横向思考，以至于完全不合理的问题。概念性无序问题就是“把灯罩放在推土机上”或“用香蕉削耳机”之类的问题。一些游戏试图通过声称这是超现实主义来摆脱这种情况，但真正的超现实主义是有底层的信息支撑的；它并不只是随机的怪异现象。
+
+{% hint style="info" %}
+译者注：概念非连续，意思是前后没有逻辑关系，如同周星驰在无厘头电影里面，用大哥大刮胡子，用皮鞋吹头发。
+{% endhint %}
 
 A variant of this is the opposite-reaction puzzle, one whose solution turns out to be the exact opposite of what you'd expect. You could give the player a rubber dagger and then have it turn out to be a deadly weapon after all. In the original Adventure, the player could drive away a menacing snake by releasing a little bird from its cage. Fortunately, at this point in the game, the player didn't have many options, so he usually found the solution soon. But unless you design an entire game on this principle, it's just an annoying gimmick.
 
-相反反应谜题是这种谜题的一种变体，它的谜底与你的预期完全相反。你可以给玩家一把橡胶匕首，然后让它变成致命武器。在最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))中，玩家可以通过从笼子里放出一只小鸟来驱赶一条来势汹汹的蛇。幸运的是，在游戏的这个阶段，玩家没有太多选择，所以通常很快就能找到解决办法。但是，除非你根据这一原则设计整个游戏，否则这只是一个恼人的噱头。
+逆向反应谜题是这种谜题的一种变体，它的答案恰好与你的预期完全相反。你可以给玩家一把橡胶匕首，最后它真的变成致命武器。在最初的[《魔幻历险》](https://en.wikipedia.org/wiki/Adventure_(1980_video_game))中，玩家可以通过从笼子里放出一只小鸟来驱赶一条来势汹汹的蛇。幸运的是，在游戏的这个阶段，玩家没有太多选择，所以通常很快就能找到解决办法。但是，除非你根据这一原则设计整个游戏，否则这只是一个令人讨厌的噱头。
 
 ### Illogical Spaces 不合逻辑空间
 
@@ -583,31 +587,31 @@ Illogical spaces were a classic challenge in text adventures. If you went north 
 
 ### Puzzles Requiring Outside Knowledge 需要外部知识的谜题
 
-Many adventure games rely on some occasional oddities, especially for comic effect, but the player must have a realistic chance of figuring them out. If a game requires information from a source other than itself, it's unfair to the player. For example, Haunt had puzzles that could be solved only if the player was familiar with the 1960s-era cartoon series Beany and Cecil ("Help, Cecil, help!") and with the movie Monty Python and the Holy Grail. It didn't really matter because Haunt was distributed for free and was mostly a joke anyway, but in a commercial game, such puzzles would be unreasonable unless you explicitly made it clear that knowledge of trivia was required. If you want to make humorous references to popular TV shows, movies, and so on, do them in narrative or in an NPC's conversation rather than as solutions to puzzles. Beware, though: Cultural references age very quickly and will make the game seem dated after a few years.
+Many adventure games rely on some occasional oddities, especially for comic effect, but the player must have a realistic chance of figuring them out. If a game requires information from a source other than itself, it's unfair to the player. For example, Haunt had puzzles that could be solved only if the player was familiar with the 1960s-era cartoon series [Beany and Cecil](https://en.wikipedia.org/wiki/Beany_and_Cecil) ("Help, Cecil, help!") and with the movie Monty Python and the Holy Grail. It didn't really matter because Haunt was distributed for free and was mostly a joke anyway, but in a commercial game, such puzzles would be unreasonable unless you explicitly made it clear that knowledge of trivia was required. If you want to make humorous references to popular TV shows, movies, and so on, do them in narrative or in an NPC's conversation rather than as solutions to puzzles. Beware, though: Cultural references age very quickly and will make the game seem dated after a few years.
 
-许多冒险游戏都会偶尔出现一些怪事，尤其是为了达到喜剧效果，但玩家必须有现实的机会去解开它们。如果一款游戏需要玩家从游戏本身以外的渠道获取信息，这对玩家是不公平的。例如，《Haunt》中有一些谜题，只有当玩家熟悉 20 世纪 60 年代的卡通系列片《Beany 和 Cecil》（“救命啊，Cecil，救命啊！”）和电影《巨蟒与圣杯》（Monty Python and the Holy Grail）时才能解开。其实这并不重要，因为《Haunt》是免费发行的，而且主要是个玩笑，但在商业游戏中，除非明确说明需要了解琐事，否则这样的谜题是不合理的。如果你想幽默地引用流行的电视节目、电影等，可以在叙述中或在 NPC 的对话中引用，而不是作为谜题的答案。不过要注意：文化引用会很快老化，几年后就会让游戏显得过时。
+许多冒险游戏依赖于一些偶尔的怪异元素，尤其是为了产生喜剧效果，但玩家必须有现实的机会去解开它们。如果一款游戏需要玩家从游戏本身以外的渠道获取信息，这对玩家是不公平的。例如，《Haunt》中有一些谜题，只有当玩家熟悉 20 世纪 60 年代的卡通系列《Beany 和 Cecil》（“救命啊，Cecil，救命啊！”）和电影《巨蟒与圣杯》时才能解开。其实这并不重要，因为《Haunt》是免费发行的，而且主要是个玩笑，但在商业游戏中，除非明确说明需要了解冷门琐事，否则这样的谜题是不合理的。如果你想幽默地引用流行的电视节目、电影等，可以在叙述中或在 NPC 的对话中引用，而不是作为谜题的答案。不过要注意：文化引用过时很快，几年后游戏也跟着不合时宜。
 
 You have to be even more careful when developing games for foreign markets because other countries don't always have the same idioms. For example, the action "Wear the lampshade on my head" could cause other characters in the game to assume that the player's avatar is drunk, which might be desirable in the context of the story. However, wearing a lampshade as a sign of drunkenness is an American cultural idiom that might not be understood in Japan, for example. Again, it's okay to make cultural references in your game; just be careful about requiring the user to understand them to win.
 
-在为国外市场开发游戏时，你必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“Wear the lampshade on my head”（把灯罩戴在头上）这一动作可能会让游戏中的其他角色认为玩家的化身喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
+在为国外市场开发游戏时，你必须更加小心，因为其他国家的习惯用语并不总是一样的。例如，“把灯罩戴在头上”这一动作可能会让游戏中的其他角色认为玩家的化身喝醉了，这在故事情节中可能是可取的。然而，把灯罩戴在头上表示醉酒是美国的文化习惯用语，日本人可能无法理解。再次强调，在游戏中引用文化典故是可以的，但在要求用户理解这些文化典故以赢得游戏时要小心谨慎。
 
 ### Click-the-Right-Pixel Puzzles 点击正确像素谜题
 
 A few adventure games with point-and-click user interfaces require you to click on a tiny and inconspicuous area of the screen to advance the story, for no particular reason except that it's difficult to find. This is lazy design—a cheap way of creating an obstacle for the player without any entertainment value.
 
-一些采用点击式用户界面的冒险游戏要求你点击屏幕上一个不起眼的小区域来推进故事情节，除了这个区域很难找到之外，没有其他特别的原因。这是一种懒惰的设计--一种为玩家制造障碍的廉价方法，没有任何娱乐价值。
+一些采用点击式用户界面的冒险游戏要求你点击屏幕上一个不起眼的小区域来推进故事情节，除了这个区域很难找到之外，没有其他特别的原因。这是一种懒惰的设计——一种为玩家制造障碍的廉价方法，没有任何娱乐价值。
 
 ### Backward Puzzles 逆向谜题
 
 A backward puzzle is one in which you find the solution before you find the puzzle itself. For example, you find a key, but you don't know of any locked doors. However, you carry it around with you all the time, just in case. When you do eventually find a locked door, you immediately have the solution, which means it's not much of a puzzle. It's not always possible to prevent the player from finding a solution before he finds a puzzle because the solution has to be available, but it can be inconspicuous—for example, a poster on a wall full of posters, or an object in a trash can. Be aware, however, that "inconspicuous" is not the same as "obscure" or "nonsensical." If the key to a puzzle involves finding a live monkey, the monkey shouldn't turn out to be locked in a freezer.
 
-逆向谜题是指在找到谜题本身之前，先找到谜底。例如，你找到了一把钥匙，但你不知道有什么锁着的门。但是，为了以防万一，你还是一直带着它。当你最终找到一扇上锁的门时，你马上就能找到答案，这就意味着这并不是什么谜题。在玩家找到谜题之前，并不总能阻止他找到谜底，因为谜底必须是可用的，但它可以是不起眼的--例如，满墙的海报上的一张海报，或者垃圾桶里的一件物品。但是要注意，“不起眼 ”并不等于 “晦涩难懂 ”或 “毫无意义”。如果谜题的关键是要找到一只活猴子，那么这只猴子就不应该被锁在冰箱里。
+逆向谜题是指在找到谜题本身之前，先找到谜底。例如，你找到了一把钥匙，但你不知道有什么锁着的门。但是，为了以防万一，你还是一直带着它。当你最终找到一扇上锁的门时，你马上就能找到答案，这就意味着这并不是什么谜题。在玩家找到谜题之前，并不总能阻止他找到谜底，因为谜底需要被设计为可以获取的（不然玩家没法找到），但它可以是不起眼的--例如，满墙的海报上的一张海报，或者垃圾桶里的一件物品。但是要注意，“不起眼”并不等于“晦涩难懂”或“荒唐的”。如果谜题的关键是要找到一只活猴子，那么这只猴子就不应该被锁在冰箱里。
 
-### Too Many "FedEx" Puzzles 联邦快递 "谜题太多
+### Too Many "FedEx" Puzzles “联邦快递”谜题太多
 
 A FedEx puzzle is one that you solve by picking up an object from one place and bringing it to a different place, as if you were a Federal Express driver. Of course, carrying objects around until you find a place to use them is a common feature of adventure games, but some games consist of little else. This gets dull after a while, especially if the solution to a puzzle consists only of fetching and carrying without any lateral thinking or other activity. Liven up the game with a variety of puzzles and tasks. It's fun to include objects that have a variety of different uses, such as Indy's bullwhip in [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine), or objects that are left over from one puzzle but have a part to play in another.
 
-联邦快递（FedEx）谜题是指玩家通过从一个地方拾取一个物品并将其带到另一个地方来解决谜题，就好像你是一名联邦快递司机一样。当然，带着物品到处跑，直到找到可以使用它们的地方是冒险游戏的一个共同特点，但有些游戏几乎没有其他内容。这样的游戏玩久了就会变得枯燥乏味，尤其是如果谜题的解答仅仅是取物和搬运，而没有任何横向思维或其他活动的话。用各种谜题和任务来活跃游戏气氛。在游戏中加入一些有多种不同用途的物品，比如《夺宝奇兵与无间道》中印第的牛鞭，或者在一个谜题中遗留下来但在另一个谜题中发挥作用的物品，都会很有趣。
+联邦快递谜题是指玩家通过从一个地方拾取一个物品并将其带到另一个地方来解决谜题，就好像你是一名联邦快递司机一样。当然，带着物品到处跑，直到找到可以使用它们的地方是冒险游戏的一个共同特点，但有些游戏几乎没有其他内容。这样的游戏玩久了就会变得枯燥乏味，尤其是如果谜题的解答仅仅是取物和搬运，而没有任何横向思维或其他活动的话。用各种谜题和任务来活跃游戏气氛。在游戏中加入一些有多种不同用途的物品，比如[《印第安纳·琼斯与恶魔机器》](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)中印第的牛鞭，或者在一个谜题中遗留下来但在另一个谜题中发挥作用的物品，都会很有趣。
 
 > **Adventure Game Worksheet 冒险游戏工作表**
 > 
