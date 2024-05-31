@@ -620,7 +620,7 @@ A FedEx puzzle is one that you solve by picking up an object from one place and 
 > 开始设计冒险游戏时，请考虑以下问题：
 > 
 > 1. Who is the central character in the game, the player's avatar? What is the avatar's sex? (For the purposes of this worksheet, we'll assume that the player is male and the avatar is female.) What does she look and sound like? What are her personal qualities, strengths, weaknesses, interests, likes, and dislikes? What sort of vocabulary and grammar does she use? What are her ethnic, social, religious, political, and educational backgrounds? What is her personal history? What is her family like?\
-> 游戏中的中心人物，即玩家的化身是谁？化身的性别是什么？ 在本工作表中，我们假设玩家是男性，化身是女性。她的长相和声音是怎样的？她有哪些个人品质、优点、缺点、兴趣、喜好和厌恶？她使用什么样的词汇和语法？她的种族、社会、宗教、政治和教育背景是什么？她的个人经历如何？她的家庭情况如何？
+> 游戏中的中心人物，即玩家的化身是谁？化身的性别是什么？在本工作表中，我们假设玩家是男性，化身是女性。她的长相和声音是怎样的？她有哪些个人品质、优点、缺点、兴趣、喜好和厌恶？她使用什么样的词汇和语法？她的种族、社会、宗教、政治和教育背景是什么？她的个人经历如何？她的家庭情况如何？
 > 
 > 2. What is the story of the game? What is the avatar's ultimate goal? What will occur at the dramatic climax? What things must she collect, learn, or achieve for the dramatic climax to take place?\
 > 游戏的故事是什么？化身的最终目标是什么？戏剧性的高潮会发生什么？要达到戏剧性的高潮，她必须收集、学习或实现哪些东西？
