@@ -443,7 +443,7 @@ In a graphic adventure game played with a handheld controller, designers often a
 
 A number of games use a menu to allow the player to select the action he wants to take and the object that he wants to manipulate (see Figure 15.9). This gives the player a clear picture of his choices, but it does feel a little "computery."
 
-许多游戏都使用菜单让玩家选择要采取的行动和要操作的对象（见图 15.9）。这让玩家对自己的选择一目了然，但确实有点“电脑化”的感觉。
+许多游戏都使用菜单让玩家选择要采取的行动和要操作的对象（见图 15.9）。这让玩家对自己的选项一目了然，但确实有点“电脑化”的感觉。
 
 Figure 15.9. The action menu in The Secret of Monkey Island. 图 15.9. 《猴岛的秘密》中的动作菜单。
 
@@ -451,11 +451,11 @@ Figure 15.9. The action menu in The Secret of Monkey Island. 图 15.9. 《猴岛
 
 In another variant, the player places the mouse cursor over the desired object and right-clicks it. A pop-up menu appears, showing a series of icons that represent the actions "take," "use," "examine," and possibly others (see Figure 15.10). The player left-clicks one of the icons, and the desired action is performed. This mechanism, in effect, shows the player all the available verbs that can be used with that particular object and lets him pick one.
 
-在另一种变体中，玩家将鼠标光标放在所需的对象上并右击它。这时会弹出一个菜单，显示一系列图标，分别代表 “采取”、“使用”、“检查 ”等操作（见图 15.10）。玩家左键单击其中一个图标，就可以执行所需的操作。这种机制实际上是向玩家展示了所有可用于特定对象的动词，并让他从中选择一个。
+在另一种变体中，玩家将鼠标光标放在所需的对象上并右击它。这时会弹出一个菜单，显示一系列图标，分别代表“拿取”、“使用”、“检查”等操作（见图 15.10）。玩家左键单击其中一个图标，就可以执行所需的操作。这种机制实际上是向玩家展示了所有可用于特定对象的动词，并让他从中选择一个。
 
 Figure 15.10. The pop-up menu in The Longest Journey (at right, under tent). Note that the icons are an eye, a mouth, and a hand, meaning "look at," "talk to," and "manipulate."
 
-图 15.10. 最长的旅程》中的弹出菜单（右图，帐篷下）。请注意，图标是一只眼睛、一张嘴和一只手，分别表示 “看”、“交谈 ”和 “操作”。
+图 15.10. 《最长的旅程》中的弹出菜单（右图，帐篷下）。请注意，图标是一只眼睛、一张嘴和一只手，分别表示“看”、“交谈”和“操作”。
 
 ![](../.gitbook/assets/15.10.png)
 
