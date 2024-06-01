@@ -629,10 +629,10 @@ A FedEx puzzle is one that you solve by picking up an object from one place and 
 > 游戏发生在哪里？这是一个怎样的世界？玩家是否可以在整个故事中不断地在这些区域自由移动，还是单向元素会阻止他返回之前的区域？
 > 
 > 4. What other characters are in the game? What functions do they serve? How do they look and act? How do they respond to the avatar? Can she affect their moods and attitudes?\
-> 游戏中还有哪些角色？他们有什么功能？他们的外表和行为如何？他们如何回应化身？她能影响他们的情绪和态度吗？
+> 游戏中还有哪些角色？他们起到什么作用？他们的外表和行为如何？他们如何回应化身？化身能影响他们的情绪和态度吗？
 > 
 > 5. How is conversation implemented? What consequences can arise from it? Can the player choose a variety of attitudes in which to speak?\
-> 如何进行对话？对话会产生什么后果？玩家可以选择不同的对话态度吗？
+> 如何进行对话？对话会产生什么结果？玩家可以选择不同的对话态度吗？
 > 
 > 6. What kinds of puzzles are in the game? What obstacles will the player encounter, and what actions will he be able to take to overcome them? Is this a pure adventure game or an action-adventure? If it's an action-adventure, what are the action elements like?\
 > 游戏中有哪些谜题？玩家会遇到哪些障碍，可以采取哪些行动来克服这些障碍？这是一款纯粹的冒险游戏还是动作冒险游戏？如果是动作冒险游戏，动作元素是什么？
@@ -647,7 +647,7 @@ A FedEx puzzle is one that you solve by picking up an object from one place and 
 > 在游戏世界中移动化身的用户界面是什么？是点击、直接控制还是其他机制？
 > 
 > 10. How does the player recognize active objects in the world? How does he command the game to manipulate them? What verbs are available for each object?\
-> 玩家如何识别世界中的活动物体？如何命令游戏操纵它们？每个物体有哪些动词？
+> 玩家如何识别世界中的活动物体？如何命令游戏操纵它们？每个物体有哪些动作？
 > 
 > 11. Is there an inventory, and, if so, how is it displayed and used? How does the player pick things up and put them down again? Can objects be combined or used together? How is this handled?\
 > 是否有库存，如果有，如何显示和使用？玩家如何取放物品？物体可以组合或一起使用吗？如何处理？
@@ -656,13 +656,13 @@ A FedEx puzzle is one that you solve by picking up an object from one place and 
 > 玩家需要地图吗？如果需要，它是静态的还是自动维护的？
 > 
 > 13. Should the game keep a journal to help the player remember things?\
-> 游戏是否应该写日记帮助玩家记忆？
+> 游戏是否应该撰写日记帮助玩家记忆？
 
 # Putting It Together 总结
 
 Adventure games are seldom a technological challenge to build unless you're trying to include powerful artificial intelligence techniques—natural language recognition or generation, for example. They rarely demand a lot of CPU power. But what they lack in technological challenges they make up for in creative ones. As the designer of an adventure game, it's your job to bring not just a story, but a world to life—a world in which a story is taking place. Your talents at creating places, characters, plots, dialogue, and puzzles will be tested as in no other genre. Because the adventure game is not bound to flying or shooting or commanding troops in battle—indeed, not to any particular mode of interaction at all—it has the greatest potential for design creativity of any genre.
 
-冒险游戏在开发上很少构成技术挑战，除非你试图融入强大的人工智能技术——例如自然语言识别或生成。它们通常并不需要大量的 CPU 运算能力。但它们在技术挑战上的缺乏，却在创意挑战上得到了弥补。作为冒险游戏的设计者，你的任务不仅是呈现一个故事，而是要让一个世界活起来——一个故事正在发生的世界。你在创造场景、角色、情节、对话和谜题方面的才能，在这一类型游戏中将受到前所未有的考验。因为冒险游戏并不局限于飞行、射击或指挥战斗中的部队——实际上，它不受限于任何特定的交互模式——它拥有所有游戏类型中最大的设计创意潜力。
+冒险游戏在开发上很少构成技术挑战，除非你试图融入强大的人工智能技术——例如自然语言识别或生成。它们通常并不需要强大的 CPU 运算能力。但它们在技术挑战上的缺乏，却在创意挑战上得到了弥补。作为冒险游戏的设计者，你的任务不仅是呈现一个故事，而是要让一个世界活起来——一个故事正在发生的世界。你在创造场景、角色、情节、对话和谜题方面的才能，在这一类型游戏中将受到前所未有的考验。因为冒险游戏并不局限于飞行、射击或指挥战斗中的部队——实际上，它不受限于任何特定的交互模式——它拥有所有游戏类型中最大的设计创意潜力。
 
 All computer games are made to realize dreams. Adventure games realize the strangest dreams of all.
 
