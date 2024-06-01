@@ -10,7 +10,7 @@ Many aspects of game design are independent of the hardware running the game: su
 
 Specialized game hardware might include dedicated neural network processors and voice-recognition or speech-synthesis chips. We might see special chips dedicated to solving path-finding problems or to simulating thousands of cellular automations such as ants in an anthill or soldiers on a battlefield. In the farther future, there could be chips that know the grammatical rules of a language and can generate real dialogue on the fly rather than prerecorded responses. Whether such gear gets out of the laboratory and into consumer products is another story; it depends more on what it costs to build than on how useful it is to games. But hardware R&D for games is already taking place, and it will increase now that game development is starting to be recognized as a legitimate subject of academic study.
 
-专用游戏硬件可能包括专用神经网络处理器和语音识别或语音合成芯片。我们可能会看到专门用于解决寻路问题或模拟成千上万个细胞自动装置（如蚁穴中的蚂蚁或战场上的士兵）的专用芯片。在更遥远的未来，可能会出现了解语言语法规则的芯片，并能即时生成真正的对话，而不是预先录制的回答。至于这些设备能否走出实验室，进入消费类产品，那就另当别论了；它更多地取决于制造成本，而不是对游戏的实用性。不过，用于游戏的硬件研发工作已经在进行，而且由于游戏开发开始被认为是一门合法的学术研究课题，这种研发工作还会增加。
+专用游戏硬件可能包括专用神经网络处理器和语音识别或语音合成芯片。我们可能会看到专门用于解决寻路问题或模拟成千上万个细胞自动机（如蚁穴中的蚂蚁或战场上的士兵）的专用芯片。在更遥远的未来，可能会出现了解语言语法规则的芯片，并能即时生成真正的对话，而不是预先录制的回答。至于这些设备能否走出实验室，进入消费类产品，那就另当别论了；它更多地取决于制造成本，而不是对游戏的实用性。不过，用于游戏的硬件研发工作已经在进行，而且由于游戏开发开始被认为是一门合法的学术研究课题，这种研发工作还会增加。
 
 In the next few sections, we talk about some of the game hardware that's commonplace today and where we see it going.
 
@@ -20,7 +20,7 @@ In the next few sections, we talk about some of the game hardware that's commonp
 
 Location-based entertainment is a fancy term for any kind of computer gaming in which you play somewhere besides your own home. Typical kinds of location-based entertainment are video arcades, group ride simulators, and individual networked simulators.
 
-定位娱乐是一个花哨的术语，指的是除了在自己家里玩之外，还可以在其他地方玩的电脑游戏。典型的定位娱乐有视频商场、集体乘车模拟器和个人联网模拟器。
+定位娱乐是一个花哨的术语，指的是除了在自己家里玩之外，还可以在其他地方玩的电脑游戏。典型的定位娱乐有视频街机、集体乘车模拟器和个人联网模拟器。
 
 ### Video Arcades 视频街机
 
@@ -30,13 +30,13 @@ Video games were first introduced to the public as arcade machines because their
 
 The heyday of big video arcades is over, except in entertainment locations such as movie theaters and theme parks, and in places where kids are likely to be stuck for a while with nothing to do, such as airports or hotels. This doesn't mean that arcade machines are dead—only that they will never again occupy the niche that they did when video games were new. They now have to compete with home console machines. Many arcade machines create their appeal by offering something that you can't get at home, such as expensive hardware—a driving simulator with a force-feedback steering wheel, pedals, and a gearshift, for instance. Such games will certainly continue to exist, but the high cost of manufacturing them means that they will have to charge a lot to make back their initial cost.
 
-除了在电影院和主题公园等娱乐场所，以及在机场或酒店等孩子们可能暂时无事可做的地方，大型视频街机的鼎盛时期已经过去。这并不意味着街机已死，只是说它们再也不会像电子游戏机刚刚问世时那样占据有利位置。现在，它们不得不与家用游戏机竞争。许多街机通过提供一些你在家里无法获得的东西（比如昂贵的硬件）来吸引人--比如带有力反馈方向盘、踏板和换档装置的驾驶模拟器。这类游戏肯定会继续存在，但制造成本高昂意味着它们必须收取高额费用才能收回初始成本。
+除了在电影院和主题公园等娱乐场所，以及在机场或酒店等孩子们可能暂时无事可做的地方，大型视频街机的鼎盛时期已经过去。这并不意味着街机已死——只是它们再也不会像电子游戏机刚刚问世时那样占据市场细分领域。现在，它们不得不与家用游戏机竞争。许多街机通过提供一些你在家里无法获得的东西（比如昂贵的硬件）来吸引人——比如配有力反馈方向盘、踏板和换档装置的驾驶模拟器。这类游戏肯定会继续存在，但制造成本高昂意味着它们必须收取高额费用才能收回初始成本。
 
-### Group Ride Simulators 集体乘车模拟器
+### Group Ride Simulators 集体游乐模拟器
 
 A group ride simulator is a room designed to give a small audience—typically 20 or 30 people—the impression of riding in a vehicle. The floor is actually a large platform, typically fitted with theater seats mounted on pistons. The audience faces a large movie screen on which a story is shown, and the pistons cause the floor to move up and down to increase the feeling of movement. Surround-sound speakers complete the effect.
 
-集体乘车模拟器是一个专为给小观众（通常为 20 或 30 人）提供乘车体验的房间。地面实际上是一个大平台，平台上通常装有安装在活塞上的剧院座椅。观众面对一个大型电影屏幕，屏幕上播放着一个故事，活塞使地板上下移动，以增加运动感。环绕声扬声器使效果更加完美。
+集体游乐模拟器是一个专为给小型观众（通常为 20 或 30 人）提供乘车体验的房间。地面实际上是一个大平台，平台上通常装有安装在活塞上的剧院座椅。观众面对一个大型电影屏幕，屏幕上播放着一个故事，活塞使地板上下移动，以增加运动感。环绕声扬声器使效果更加完美。
 
 Ride simulators are extremely expensive, costing several million dollars to build. Most are not interactive at all, but they just consist of a short movie with an accompanying script that controls the movement of the floor. However, it wouldn't be difficult to make these simulators interactive by giving the viewers something to do that affects what they see on the screen. At the moment, the movies are mostly made on film to present a high-quality cinematic experience, but they could easily be replaced by a computerized 3D environment. The audience can be given weapons or other controls whose effects are seen on the screen. These could also have an effect on the platform. If some of the players handle a large gun, for example, the pistons could simulate the gun's recoil. We can certainly expect to see continuing advances in the realism of the experience.
 
@@ -46,15 +46,19 @@ Ride simulators won't ever become a large-scale phenomenon like video arcades we
 
 游乐模拟器不会像视频街机那样成为一种大规模的现象，因为它们太昂贵了。因为它们必须让人们短时间内成群结队地进入，所以它们需要有大量的观众，这些观众能够支付得起时间，并且愿意排一会儿队。因此，它们非常适合主题公园和度假村。这种模拟器的未来取决于经济，就像旅游业和所有形式的昂贵休闲娱乐一样。
 
-### Individual Networked Simulators 个人网络模拟器
+{% hint style="info" %}
+译者注：游乐模拟器在迪斯尼乐园和环球影城主题乐园里面非常普遍和热门，它们的形式有很多，比如过山车，摩托车，越野车，等等。游乐场景通常很大，有电影般的布景设计、电脑数字化的投影、环绕立体声、喷雾装置，风扇，等等多种方式提升用户身临其境的感觉。
+{% endhint %}
+
+### Individual Networked Simulators 个人联网模拟器
 
 Individual networked simulators are groups of small enclosed cubicles, sometimes called "pods" or "cockpits," each designed for one person or perhaps two. The pods are networked together to play a single game so that people can compete against each other alone or in teams. These simulators are not usually owned by individuals. They are installed in shopping malls and similar places, and players pay to play for a certain amount of time. They offer high-quality, multi-player gaming, usually of vehicle-based action games such as flight simulators or mechs. Because the player is usually completely enclosed, these games also offer a highly immersive experience. The BattleTech Centers (www.virtualworld.com) are a good example.
 
-个人网络模拟器是一组封闭的小隔间，有时称为 “吊舱 ”或 “驾驶舱”，每个隔间可容纳一人或两人。这些舱室通过网络连接在一起，可以进行单人游戏，这样人们就可以单独或组队相互竞争。这些模拟器通常不为个人所有。它们安装在购物中心和类似场所，玩家付费玩一定时间的游戏。它们提供高质量的多人游戏，通常是以车辆为基础的动作游戏，如飞行模拟器或机甲。由于玩家通常处于完全封闭的环境中，这些游戏还能提供身临其境的体验。BattleTech Centers（www.virtualworld.com）就是一个很好的例子。
+个人联网模拟器是一组封闭的小隔间，有时称为“吊舱”或“驾驶舱”，每个隔间可容纳一人或两人。这些舱室通过网络连接在一起，可以进行单人游戏，这样人们就可以单独或组队相互竞争。这些模拟器通常不为个人所有。它们安装在购物中心和类似场所，玩家付费玩一定时间的游戏。它们提供高质量的多人游戏，通常是以车辆为基础的动作游戏，如飞行模拟器或机甲。由于玩家通常处于完全封闭的环境中，这些游戏还能提供身临其境的体验。BattleTech Centers（www.virtualworld.com）就是一个很好的例子。
 
 The arrival of the Internet—and especially broadband connections—has reduced some of the demand for these centers. Although the quality of the experience playing on a PC is not as immersive, it's also much cheaper, and you don't have leave home to do it. We expect that networked simulators will remain a small niche market with demand proportionate to their price. They will, of course, continue to benefit from improvements in computing hardware, but as with ride simulators and the fancier arcade games, the majority of their production cost is in the mechanical rather than the electronic gear, and that's not going to change as rapidly.
 
-互联网，尤其是宽带连接的出现，减少了对这些中心的部分需求。虽然在个人电脑上进行游戏的体验质量没有那么身临其境，但价格却便宜得多，而且还可以足不出户。我们预计，网络模拟器仍将是一个小众市场，需求量与其价格成正比。当然，它们将继续受益于计算机硬件的改进，但与乘车模拟器和更高级的街机游戏一样，它们的大部分生产成本都在机械装置而非电子设备上，这一点不会迅速改变。
+互联网，尤其是宽带连接的出现，减少了对这些中心的部分需求。虽然在个人电脑上进行游戏的体验质量没有那么身临其境，但价格却便宜得多，而且还可以足不出户。我们预计，网络模拟器仍将是一个小众市场，需求量与其价格成正比。当然，它们将继续受益于计算机硬件的改进，但与游乐模拟器和更高级的街机游戏一样，它们的大部分生产成本都在机械装置而非电子设备上，这一点不会迅速改变。
 
 ## Home Video Game Consoles 家庭视频游戏主机
 
@@ -66,7 +70,7 @@ Game consoles have won the hearts of consumers, and they're here to stay. Design
 
 There's no doubt that home game consoles will continue to take advantage of the growth in computing power: faster CPUs, more memory, better audio and video technology. These will have the greatest impact on the look and feel of the games we play. More important, however, home game consoles are starting to take on some of the characteristics of their more powerful cousin, the PC: disk drives and networking capability. It won't be long before this also includes such things as video cameras and voice-recognition facilities, with all the implications for multi-player gaming that those represent. These features will enable console players to have game experiences currently available only on PCs: to download and store game upgrades or new scenarios on a disk drive, for example, and to play against other people around the world. As consoles get more PC-like hardware, we can expect to see an ongoing convergence between console and PC games.
 
-毫无疑问，家用游戏机将继续利用计算能力的增长：更快的 CPU、更大的内存、更好的音频和视频技术。这些都将对我们所玩游戏的外观和感觉产生最大的影响。然而，更重要的是，家用游戏机开始具备其更强大的表亲--个人电脑的某些特性：磁盘驱动器和联网能力。不久的将来，家用游戏机还将配备摄像机和语音识别设备，这些都将对多人游戏产生影响。这些功能将使游戏机玩家获得目前只能在个人电脑上获得的游戏体验：例如，在磁盘驱动器上下载和存储游戏升级或新场景，以及与世界各地的其他人进行对战。随着游戏机的硬件越来越像个人电脑，我们可以预见游戏机和个人电脑游戏将不断融合。
+毫无疑问，家用游戏机将继续利用计算能力的增长：更快的 CPU、更大的内存、更好的音频和视频技术。这些都将对我们所玩游戏的外观和感觉产生最大的影响。然而，更重要的是，家用游戏机开始具备其更强大的表亲——个人电脑的某些特性：磁盘驱动器和联网能力。不久的将来，家用游戏机还将配备摄像机和语音识别设备，这些都将对多人游戏产生影响。这些功能将使游戏机玩家获得目前只能在个人电脑上获得的游戏体验：例如，在磁盘驱动器上下载和存储游戏升级或新场景，以及与世界各地的其他人进行对战。随着游戏机的硬件越来越像个人电脑，我们可以预见游戏机和个人电脑游戏将不断融合。
 
 ### The Relationship of Consoles to Other Media Player 主机和其他媒体玩家的关系
 
