@@ -76,7 +76,7 @@ There's no doubt that home game consoles will continue to take advantage of the 
 
 Game consoles are now capable of playing audio CDs and video DVDs, which means that there's little need to own a separate media player for each of those devices if you already own a console. We don't expect that game consoles will entirely supplant standalone versions of those devices because some people will want media players without the gaming capability. Nevertheless, we believe that consoles will be an increasingly important part of the family's "entertainment center," the cluster of equipment located underneath the TV. One game console with a built-in DVD drive and hard disk drive could replace four separate dedicated machines: the CD player, the DVD player, the VCR, and a digital video recorder such as the TiVO service. Consoles have the potential to become complete computerized "entertainment managers," if their manufacturers want to take them in that direction.
 
-游戏机现在可以播放音频 CD 和视频 DVD，这意味着如果你已经拥有了一台游戏机，就没有必要再为每种设备单独购买一个媒体播放器了。我们预计游戏机不会完全取代这些设备的独立版本，因为有些人需要的是没有游戏功能的媒体播放器。尽管如此，我们相信游戏机在家庭 “娱乐中心”（位于电视机下方的设备群）中的地位将日益重要。一台内置 DVD 驱动器和硬盘驱动器的游戏机可以取代四台独立的专用设备：CD 播放机、DVD 播放机、录像机和数字视频录像机（如 TiVO 服务）。如果制造商愿意，游戏机有可能成为完整的电脑化 “娱乐管理器”。
+游戏机现在可以播放音频 CD 和视频 DVD，这意味着如果你已经拥有了一台游戏机，就没有必要再为每种设备单独购买一个媒体播放器了。我们预计游戏机不会完全取代这些设备的独立版本，因为有些人需要的是没有游戏功能的媒体播放器。尽管如此，我们相信游戏机在家庭“娱乐中心”（位于电视机下方的设备群）中的地位将日益重要。一台内置 DVD 驱动器和硬盘驱动器的游戏机可以取代四台独立的专用设备：CD 播放机、DVD 播放机、录像机和数字视频录像机（如 TiVO 服务）。如果制造商愿意，游戏机有可能成为完整的电脑化 “娱乐管理器”。
 
 ### Add-On Devices 附加设备
 
