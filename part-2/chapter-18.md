@@ -1,12 +1,12 @@
 For our last chapter, we're going to indulge in a little blue-sky speculation about what the future of gaming might hold. It's clear that the commercial game industry has only begun to scratch the surface of what interactive entertainment can do. We are still a long way from exploiting the full potential of this medium.
 
-在最后一章，我们将沉浸在对游戏未来的蓝天猜想中。很显然，商业游戏产业对于互动娱乐的发展还只是刚刚起步。我们距离充分挖掘这一媒体的潜力还有很长的路要走。
+在最后一章，我们将沉浸在对游戏未来的美妙猜想中。很显然，商业游戏产业对于互动娱乐的发展还只是刚刚起步。我们距离充分挖掘这一媒体的潜力还有很长的路要走。
 
 # Gaming Hardware 游戏硬件
 
 Many aspects of game design are independent of the hardware running the game: subject matter, theme, and art style, for example. Nevertheless, the future of interactive entertainment is closely tied to the future of computing hardware. At the moment, the principal emphasis in hardware design is on making games look and sound better, and, indeed, the amount of audiovisual improvement in the last 20 years has been astonishing. But game hardware does much more than that: It determines how complex and how smart the games can be. And that, in turn, affects the kinds of games that we can make. We have just started to build games that simulate the behavior of humans, for example, at a level above the trivial. For more powerful simulations, we need more powerful machines.
 
-游戏设计的许多方面与运行游戏的硬件无关，例如主题、题材和艺术风格。然而，互动娱乐的未来与计算机硬件的未来息息相关。目前，硬件设计的主要重点是使游戏的外观和音效更加出色，事实上，在过去 20 年中，视听效果的改善令人惊叹。但游戏硬件的作用远不止于此： 它决定了游戏的复杂程度和智能程度。而这反过来又会影响我们可以制作的游戏种类。例如，我们才刚刚开始制作能够模拟人类行为的游戏，而且是在微不足道的水平上。为了实现更强大的模拟，我们需要更强大的机器。
+游戏设计的许多方面与运行游戏的硬件无关，例如主题、题材和艺术风格。然而，互动娱乐的未来与计算机硬件的未来息息相关。目前，硬件设计的主要重点是使游戏的外观和音效更加出色，事实上，在过去 20 年中，视听效果的改善令人惊叹。但游戏硬件的作用远不止于此：它决定了游戏的复杂程度和智能程度。而这反过来又会影响我们可以制作的游戏种类。例如，我们才刚刚开始制作能够模拟人类行为的游戏，而且是在微不足道的水平上。为了实现更强大的模拟，我们需要更强大的机器。
 
 Specialized game hardware might include dedicated neural network processors and voice-recognition or speech-synthesis chips. We might see special chips dedicated to solving path-finding problems or to simulating thousands of cellular automations such as ants in an anthill or soldiers on a battlefield. In the farther future, there could be chips that know the grammatical rules of a language and can generate real dialogue on the fly rather than prerecorded responses. Whether such gear gets out of the laboratory and into consumer products is another story; it depends more on what it costs to build than on how useful it is to games. But hardware R&D for games is already taking place, and it will increase now that game development is starting to be recognized as a legitimate subject of academic study.
 
@@ -108,7 +108,7 @@ Over the last few years, we've seen a variety of specialist hardware for serious
 
 Even with advances in handwriting recognition, the pen will not replace the keyboard as the primary interface for the personal computer. The typewriter superseded the pen as a means of creating text because it was faster and less tiring to use, and that won't change. The combination of keyboard and mouse is perfect for most applications except actual drawing. Professional artists use digital pens (graphics tablets) with personal computers, but few other people do, and pens certainly have little use in gaming. There has been a certain amount of debate about gesture-recognition devices, but they, too, have the disadvantage that they're tiring. Nobody wants to have to wave his hands around for hours at a time. This is exactly why the mouse was invented in the first place: Early researchers recognized that the touch screen, or any system that requires you to lift your hands from the desk, was impractical for prolonged use.
 
-即使手写识别技术不断进步，笔也不会取代键盘成为个人电脑的主要界面。打字机取代钢笔作为创建文本的工具，是因为钢笔使用起来更快、更省力，这一点不会改变。键盘和鼠标的组合非常适合大多数应用，但实际绘图除外。专业艺术家会在个人电脑上使用数码笔（绘图板），但很少有人会这样做，当然，数码笔在游戏中的用途也不大。关于手势识别设备也有一定的争论，但它们也有累人的缺点。没有人愿意连续几个小时挥舞双手。这正是鼠标发明的初衷： 早期的研究人员认识到，触摸屏或任何需要将手从桌面上抬起来的系统都不适合长时间使用。
+即使手写识别技术不断进步，笔也不会取代键盘成为个人电脑的主要界面。打字机取代钢笔作为创建文本的工具，是因为钢笔使用起来更快、更省力，这一点不会改变。键盘和鼠标的组合非常适合大多数应用，但实际绘图除外。专业艺术家会在个人电脑上使用数码笔（绘图板），但很少有人会这样做，当然，数码笔在游戏中的用途也不大。关于手势识别设备也有一定的争论，但它们也有累人的缺点。没有人愿意连续几个小时挥舞双手。这正是鼠标发明的初衷：早期的研究人员认识到，触摸屏或任何需要将手从桌面上抬起来的系统都不适合长时间使用。
 
 Voice recognition, on the other hand, has tremendous potential in gaming—more even than in business applications. Although dictation is faster than using a keyboard, talking eventually becomes tiring and makes for a noisy, distracting office environment. But games are noisy anyway, and suspension of disbelief will be greatly enhanced by being able to shout "Group one, charge!" rather than pressing the 1 key and clicking a menu item labeled "Charge." And, of course, microphones are already very much in use for communication between players in multi-player gaming; this will only increase with the growth of broadband Internet connections.
 
@@ -208,7 +208,7 @@ Another way of representing a scene is by describing it as a series of mathemati
 
 Instead of storing a database of points or mathematical equations, you could "paint" a scene algorithmically by writing program code that generates an image on the fly—a chair subroutine would draw a picture of a chair, for example. This extends traditional object-oriented programming, in which programmers write code that determines how objects behave, to include the concept of code that determines how they look as well. Unlike raw image data, a drawing algorithm can be given new parameters to tell it to draw things in a variety of ways. A program called AARON has already used this technique to create 2D paintings of people and objects.
 
-与存储点或数学公式的数据库不同，你可以通过编写程序代码来 “绘制 ”场景，从而即时生成图像--例如，椅子子程序可以绘制一张椅子的图片。在传统的面向对象编程中，程序员编写的代码决定了对象的行为方式，而这一概念也扩展到了决定对象外观的代码。与原始图像数据不同，绘图算法可以被赋予新的参数，告诉它以各种方式绘制事物。一个名为 “AARON ”的程序已经利用这种技术绘制出了人物和物体的二维画。
+与存储点或数学公式的数据库不同，你可以通过编写程序代码来“绘制”场景，从而即时生成图像--例如，椅子子程序可以绘制一张椅子的图片。在传统的面向对象编程中，程序员编写的代码决定了对象的行为方式，而这一概念也扩展到了决定对象外观的代码。与原始图像数据不同，绘图算法可以被赋予新的参数，告诉它以各种方式绘制事物。一个名为“AARON”的程序已经利用这种技术绘制出了人物和物体的二维画。
 
 ### Real-Time Ray Tracing 实时光线追踪
 
@@ -218,7 +218,7 @@ Ray tracing is an extremely slow but powerful technique in which the color of ea
 
 It's impossible to predict which lines of research will prove fruitful. One thing is certain: Whatever is the hottest, most exciting state-of-the-art technique today will be yesterday's news a few years from now. This is one of the reasons a designer should avoid creating designs dependent on a specific piece of hardware—they age too quickly.
 
-现在还无法预测哪些研究方向会取得成果。但有一点是肯定的： 无论今天最热门、最令人兴奋的先进技术是什么，几年后都将成为昨日黄花。这也是设计师应避免设计依赖于特定硬件的原因之一--它们老化得太快了。
+现在还无法预测哪些研究方向会取得成果。但有一点是肯定的：无论今天最热门、最令人兴奋的先进技术是什么，几年后都将成为昨日黄花。这也是设计师应避免设计依赖于特定硬件的原因之一——它们老化得太快了。
 
 ## Animation 动画
 
@@ -250,7 +250,7 @@ Inverse kinematics are computationally expensive compared to using fixed animati
 
 At the moment, most computer animation moves a 3D model rather the way a marionette moves. A marionette wiggles its legs back and forth to look as if it's walking, but the puppet isn't really moving by pushing its feet against the ground. The same is true of computer models: The movement of the model through an environment is actually computed by a mathematical formula unrelated to the movement of its legs. Typically, the speed of the model either is fixed or varies according to a straight-line acceleration, as with a rocket. But if the movement of the legs doesn't actually match the speed of the model over the ground, it produces a visual anomaly: The character looks as if she is ice skating. This often appears in sports games because different athletes run at different speeds depending on their ability ratings, but they all use the same animation cycle for running. In most other games, all characters move at the same speed or at a few fixed speeds, each of which has its own properly tuned animation cycle. For now, only sports games have a wide and continuous range of speeds for all their athletes.
 
-目前，大多数电脑动画都是像木偶一样移动三维模型。牵线木偶来回摆动它的腿，看起来就像在走路，但木偶并不是真的通过脚踩地面来移动。计算机模型也是如此： 模型在环境中的移动实际上是通过一个与其腿部运动无关的数学公式计算出来的。通常情况下，模型的速度要么是固定的，要么是按照直线加速度变化的，就像火箭一样。但如果腿部的运动实际上与模型在地面上的速度不一致，就会产生视觉异常：角色看起来就像在滑冰。这种情况经常出现在体育游戏中，因为不同的运动员根据其能力等级以不同的速度奔跑，但他们在奔跑时都使用相同的动画周期。在大多数其他游戏中，所有角色都以相同的速度或几种固定的速度移动，每种速度都有自己适当调整的动画周期。目前，只有体育游戏中的所有运动员都有广泛而连续的速度范围。
+目前，大多数电脑动画都是像木偶一样移动三维模型。牵线木偶来回摆动它的腿，看起来就像在走路，但木偶并不是真的通过脚踩地面来移动。计算机模型也是如此：模型在环境中的移动实际上是通过一个与其腿部运动无关的数学公式计算出来的。通常情况下，模型的速度要么是固定的，要么是按照直线加速度变化的，就像火箭一样。但如果腿部的运动实际上与模型在地面上的速度不一致，就会产生视觉异常：角色看起来就像在滑冰。这种情况经常出现在体育游戏中，因为不同的运动员根据其能力等级以不同的速度奔跑，但他们在奔跑时都使用相同的动画周期。在大多数其他游戏中，所有角色都以相同的速度或几种固定的速度移动，每种速度都有自己适当调整的动画周期。目前，只有体育游戏中的所有运动员都有广泛而连续的速度范围。
 
 The solution to this problem, even more processor-intensive than inverse kinematics, is true locomotion—that is, simulating the movement of a body according to real physics acting on the body, involving its mass, strength, traction on the ground, and many other factors. If done properly, calculations should also take into account such features as the swaying of the person's body as weight shifts and the flexing and deformation of the feet under the changing load conditions of walking. True locomotion is common in pre-rendered animations such as the dinosaurs in the film Jurassic Park, but it has yet to be seen in computer games because we just don't have the processing power to do it in real time, especially for a whole field full of athletes. But it won't be long before we do. It's another thing to look out for in the coming years.
 
@@ -302,11 +302,11 @@ It's nearly impossible to predict what new genres of games might arise in the fu
 
 One thing is certain: For interactive entertainment to grow, we have to be open-minded and willing to explore. Why didn't American game designers invent the dance simulation themselves? Probably because the idea of making a game about little girls dancing was just too uncool. The notion that gamers are all adolescent boys is clearly outdated, yet many designers persist in building games as if they were the only market.
 
-有一点是肯定的： 互动娱乐要发展，我们就必须思想开放，勇于探索。为什么美国游戏设计师没有自己发明模拟舞蹈？可能是因为制作小女孩跳舞游戏的想法太不酷了。游戏玩家都是青春期男孩的观念显然已经过时了，但许多设计者仍然坚持制作游戏，好像他们是唯一的市场。
+有一点是肯定的：互动娱乐要发展，我们就必须思想开放，勇于探索。为什么美国游戏设计师没有自己发明模拟舞蹈？可能是因为制作小女孩跳舞游戏的想法太不酷了。游戏玩家都是青春期男孩的观念显然已经过时了，但许多设计者仍然坚持制作游戏，好像他们是唯一的市场。
 
 To invent a game in a genuinely new genre, you have to throw out all your preconceived notions about computer games and start from scratch with two simple questions: What activities do people think are fun? and Can that activity reasonably be turned into a computer game?
 
-要发明一款真正新类型的游戏，你必须抛弃对电脑游戏的所有成见，从两个简单的问题入手，从零开始： 人们认为什么活动有趣？ 这项活动能否合理地转化为电脑游戏？
+要发明一款真正新类型的游戏，你必须抛弃对电脑游戏的所有成见，从两个简单的问题入手，从零开始：人们认为什么活动有趣？ 这项活动能否合理地转化为电脑游戏？
 
 In the meantime, we'll discuss what we think will happen in some existing genres.
 
@@ -334,7 +334,7 @@ By far the largest unexplored area of strategy games is the human factor. Armies
 
 There have been efforts to quantify and simulate some of these qualities. As far back as The Ancient Art of War, players could choose to fight against simulated versions of Julius Caesar, Genghis Khan, or Napoleon Bonaparte, each of whom was characterized as representing certain military attributes. We've also worked on simulating the psychological condition of soldiers themselves: Microsoft's Close Combat gave each soldier a state of mind that varied from courageous and confident to cowering in terror, unable to obey any order.
 
-人们一直在努力量化和模拟其中的一些品质。早在《古代兵法》中，玩家就可以选择与模拟版的凯撒大帝、成吉思汗或拿破仑-波拿巴对战，他们每个人都被描述为代表了某些军事特质。我们还致力于模拟士兵本身的心理状态： 微软的 “近距离格斗”（Close Combat）游戏让每个士兵都有不同的心理状态，有的勇敢自信，有的畏缩不前，无法服从任何命令。
+人们一直在努力量化和模拟其中的一些品质。早在《古代兵法》中，玩家就可以选择与模拟版的凯撒大帝、成吉思汗或拿破仑-波拿巴对战，他们每个人都被描述为代表了某些军事特质。我们还致力于模拟士兵本身的心理状态：微软的 “近距离格斗”（Close Combat）游戏让每个士兵都有不同的心理状态，有的勇敢自信，有的畏缩不前，无法服从任何命令。
 
 Nevertheless, there's a great deal more to be done in this area. In most computer strategy games, there's no such thing as psychological operations, nor do they simulate the element of surprise, diversionary tactics, bluffing, feigned retreats to draw out the enemy, or lame-duck tricks to give an impression of weakness. Computer games tend to simulate soldiers as robotic killing machines, obeying whatever order they're given, even if it is suicidal, and unflinchingly standing their ground to the last man. With more processing power and richer, deeper simulations of human reactions, we will start to see war games that depict battles as they are really fought.
 
@@ -458,7 +458,7 @@ There are certain benefits to selling games at retail that electronic distributi
 
 Although you might think that this shouldn't matter, we feel that it will have a significant psychological impact at the one time of the year more important to the game industry than any other: Christmas. The interactive entertainment business is heavily dependent on Christmas gift giving, and the fact is that people like to see actual boxes under the Christmas tree—the bigger, the better. A slip of paper giving a web address where software can be downloaded isn't going to feel like much of a gift.
 
-虽然您可能认为这并不重要，但我们认为，在一年中对游戏业来说最重要的时刻，这将会产生重大的心理影响： 圣诞节。互动娱乐行业在很大程度上依赖于圣诞礼物的赠送，而事实上，人们喜欢在圣诞树下看到实实在在的盒子，越大越好。如果只是一张纸，上面写着一个可以下载软件的网址，那就不像是什么礼物了。
+虽然您可能认为这并不重要，但我们认为，在一年中对游戏业来说最重要的时刻，这将会产生重大的心理影响：圣诞节。互动娱乐行业在很大程度上依赖于圣诞礼物的赠送，而事实上，人们喜欢在圣诞树下看到实实在在的盒子，越大越好。如果只是一张纸，上面写着一个可以下载软件的网址，那就不像是什么礼物了。
 
 Retailers would also argue that buying in a store gives players the opportunity to look at games side by side and to ask questions of the staff. Although you can get more information by comparing game reviews online than you can by holding a box in either hand, many casual gamers don't bother to do that much research. Retail shopping offers the chance to browse in a way that online shopping simply doesn't. For all its convenience and efficiency, online shopping doesn't feel the same as running your eye over shelves full of games.
 
@@ -509,7 +509,7 @@ Automated programming doesn't mean, however, that game designers are doomed to e
 
 > Designer: "We're going to want three kinds of aerial units: fighters, bombers, and transports."
 > 
-> 设计师：“我们需要三种空中单位： 战斗机、轰炸机和运输机。”
+> 设计师：“我们需要三种空中单位：战斗机、轰炸机和运输机。”
 > 
 > Computer: "OK. Have you figured out their operational parameters and combat capabilities?"
 > 
@@ -646,7 +646,7 @@ Criticism is not a decision-support tool. Criticism does discuss the basic compe
 
 The movie 2001: A Space Odyssey is a perfect example of why an art form needs critics as well as reviewers. 2001 left the movie reviewers severely confused because it was almost impossible to compare to other movies. It had very little action: no car chases, no fight scenes, no romance, and almost no discernible plot. In fact, it contained very little acting either: The characters in it were intentionally dull and wooden. Movie reviewers simply didn't know what to say about it, and quite a few of them panned it because it didn't contain any of what they thought were "essential" elements of a movie. The film critics, on the other hand, had a field day. 2001 was rich with ideas, crammed with them right to the final frame. It provoked thought about everything from the origin of human intelligence (and perhaps human violence) to our ultimate destiny in the universe. Along the way, it looked at the sterile lives of astronauts and bureaucrats, poked fun at the way we eat, and raised questions about the wisdom of placing human lives under the control of artificially intelligent machines.
 
-电影《2001：太空漫游》（2001: A Space Odyssey）是一个完美的例子，说明了为什么一种艺术形式需要评论家和影评人。2001》让影评人大惑不解，因为它几乎无法与其他电影相提并论。它的动作戏很少：没有追车、没有打斗场面、没有浪漫爱情，几乎没有可辨别的情节。事实上，它也没有什么演技： 影片中的人物刻意表现得呆板木讷。影评人根本不知道该怎么评价这部电影，很多人都不看好这部电影，因为它没有包含任何他们认为的电影 "基本 "元素。而另一方面，影评人却对它赞不绝口。2001》充满了各种想法，直到最后一帧都是。从人类智慧的起源（也许还有人类的暴力）到我们在宇宙中的终极命运，它引发了人们对一切的思考。一路走来，它审视了宇航员和官僚的无菌生活，嘲笑了我们的饮食方式，并提出了将人类生命置于人工智能机器控制之下是否明智的问题。
+电影《2001：太空漫游》（2001: A Space Odyssey）是一个完美的例子，说明了为什么一种艺术形式需要评论家和影评人。2001》让影评人大惑不解，因为它几乎无法与其他电影相提并论。它的动作戏很少：没有追车、没有打斗场面、没有浪漫爱情，几乎没有可辨别的情节。事实上，它也没有什么演技：影片中的人物刻意表现得呆板木讷。影评人根本不知道该怎么评价这部电影，很多人都不看好这部电影，因为它没有包含任何他们认为的电影 "基本 "元素。而另一方面，影评人却对它赞不绝口。2001》充满了各种想法，直到最后一帧都是。从人类智慧的起源（也许还有人类的暴力）到我们在宇宙中的终极命运，它引发了人们对一切的思考。一路走来，它审视了宇航员和官僚的无菌生活，嘲笑了我们的饮食方式，并提出了将人类生命置于人工智能机器控制之下是否明智的问题。
 
 2001: A Space Odyssey is a great work of art and one of the most important movies ever made. But by conventional movie reviewers' standards, it was just a curiosity, perhaps even a failure. That is why the interactive medium needs critics as well as reviewers.
 
