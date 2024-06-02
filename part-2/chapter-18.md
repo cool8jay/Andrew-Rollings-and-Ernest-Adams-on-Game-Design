@@ -112,45 +112,43 @@ Over the last few years, we've seen a variety of specialist hardware for serious
 
 Even with advances in handwriting recognition, the pen will not replace the keyboard as the primary interface for the personal computer. The typewriter superseded the pen as a means of creating text because it was faster and less tiring to use, and that won't change. The combination of keyboard and mouse is perfect for most applications except actual drawing. Professional artists use digital pens (graphics tablets) with personal computers, but few other people do, and pens certainly have little use in gaming. There has been a certain amount of debate about gesture-recognition devices, but they, too, have the disadvantage that they're tiring. Nobody wants to have to wave his hands around for hours at a time. This is exactly why the mouse was invented in the first place: Early researchers recognized that the touch screen, or any system that requires you to lift your hands from the desk, was impractical for prolonged use.
 
-即使手写识别技术不断进步，笔也不会取代键盘成为个人电脑的主要界面。打字机取代钢笔作为创建文本的工具，是因为钢笔使用起来更快、更省力，这一点不会改变。键盘和鼠标的组合非常适合大多数应用，但实际绘图除外。专业艺术家会在个人电脑上使用数码笔（绘图板），但很少有人会这样做，当然，数码笔在游戏中的用途也不大。关于手势识别设备也有一定的争论，但它们也有累人的缺点。没有人愿意连续几个小时挥舞双手。这正是鼠标发明的初衷：早期的研究人员认识到，触摸屏或任何需要将手从桌面上抬起来的系统都不适合长时间使用。
+即使手写识别技术不断进步，笔也不会取代键盘成为个人电脑的主要接口。打字机取代钢笔作为创建文本的工具，是因为它使用起来更快、更省力，这一点不会改变。键盘和鼠标的组合非常适合大多数应用，但实际绘图除外。专业艺术家会在个人电脑上使用数码笔（绘图板），但其他人很少有人这样做，而且笔在游戏方面确实没有什么用处。关于手势识别设备也有一定的争论，但它们也有累人的缺点。没有人愿意连续几个小时挥舞双手。这正是鼠标发明的初衷：早期的研究人员认识到，触摸屏或任何需要将手从桌面上抬起来的系统都不适合长时间使用。
 
 Voice recognition, on the other hand, has tremendous potential in gaming—more even than in business applications. Although dictation is faster than using a keyboard, talking eventually becomes tiring and makes for a noisy, distracting office environment. But games are noisy anyway, and suspension of disbelief will be greatly enhanced by being able to shout "Group one, charge!" rather than pressing the 1 key and clicking a menu item labeled "Charge." And, of course, microphones are already very much in use for communication between players in multi-player gaming; this will only increase with the growth of broadband Internet connections.
 
-另一方面，语音识别在游戏中的潜力巨大，甚至超过了商业应用。虽然听写比使用键盘更快，但说话终究会让人疲惫，而且会使办公环境变得嘈杂、令人分心。但无论如何，游戏都是嘈杂的，如果能大喊一声 “第一组，充电！”，而不是按 1 键和点击标有 “充电 ”的菜单项，就能大大增强悬浮感。当然，在多人游戏中，麦克风已经广泛用于玩家之间的交流；随着宽带互联网连接的发展，这种情况只会越来越多。
+另一方面，语音识别在游戏中的潜力巨大，甚至超过了商业应用。虽然听写比使用键盘更快，但说话终究会让人疲惫，而且会使办公环境变得嘈杂、令人分心。但是，游戏本来就是嘈杂的，如果能大喊一声“第一组，冲锋！”，而不是按 1 键和点击标有“冲锋”的菜单项，就能大大增强信任感。当然，在多人游戏中，麦克风已经广泛用于玩家之间的交流；随着宽带互联网连接的发展，这种情况只会越来越多。
 
 > **Why Consoles Won't Kill Off the PC 为什么主机不能淘汰 PC**
 > 
-> Every time a new generation of consoles comes out, a number of pundits pop up on the Internet and in the gaming magazines to proclaim that the PC is dead as a gaming platform. They're thinking about the fact that the game console now closely approaches, or even surpasses, the computing performance of the PC at a much lower price. And as we said in the previous section on consoles, we can expect to see a growing convergence between console games and PC games as console hardware begins to include such features as disk drives and Internet access.每当新一代游戏机问世，互联网和游戏杂志上就会冒出许多专家，宣称 PC 作为游戏平台已经死亡。他们认为，现在游戏机的计算性能已经接近甚至超过个人电脑，而价格却低得多。正如我们在前面关于游戏机的章节中所说，随着游戏机硬件开始配备磁盘驱动器和互联网接入等功能，我们可以预见，游戏机游戏和个人电脑游戏之间的融合会越来越紧密。
+> Every time a new generation of consoles comes out, a number of pundits pop up on the Internet and in the gaming magazines to proclaim that the PC is dead as a gaming platform. They're thinking about the fact that the game console now closely approaches, or even surpasses, the computing performance of the PC at a much lower price. And as we said in the previous section on consoles, we can expect to see a growing convergence between console games and PC games as console hardware begins to include such features as disk drives and Internet access.
+> 
+> 每当新一代游戏机问世，互联网和游戏杂志上就会冒出许多专家，宣称 PC 作为游戏平台已经死亡。他们认为，现在游戏机的计算性能已经接近甚至超过个人电脑，而价格却低得多。正如我们在前面关于游戏机的章节中所说，随着游戏机硬件开始配备磁盘驱动器和互联网接入等功能，我们可以预见，游戏机游戏和个人电脑游戏之间的融合会越来越紧密。
 > 
 > Nevertheless, the PC is here to stay as a gaming device because its appeal is not based on its performance characteristics alone. The most important difference between the PC and the console is not its hardware, but simply where you sit when you use it. The PC is designed to be used at close range by a single person because that's how we need to use it when we're working on documents or surfing the Internet. Certain games—construction and management simulations, for example—are best played that way as well. The game console, on the other hand, is designed to be used by one or more people, sitting farther away so they all can see. This is great for multi-player experiences such as sports or fighting games, okay for flight simulators and action games, and terrible for any game with a complex, multi-level user interface. That's the area in which PCs excel.
 > 
-> 尽管如此，PC 仍将是一种游戏设备，因为它的吸引力不仅仅在于其性能特点。PC 与游戏机最重要的区别不在于硬件，而在于使用时的坐姿。个人电脑是为单人近距离使用而设计的，因为我们在处理文件或上网时需要这样使用它。某些游戏--例如建筑和管理模拟游戏--也适合这样玩。而游戏机则是为一人或多人使用而设计的，坐在较远的地方，这样大家都能看到。这种设计非常适合体育或格斗游戏等多人游戏体验，也适合飞行模拟器和动作游戏，但对于任何具有复杂、多层次用户界面的游戏来说，这种设计就太糟糕了。这正是个人电脑的优势所在。
+> 尽管如此，PC 仍将是一种游戏设备，因为它的吸引力不仅仅在于其性能特点。PC 与游戏机最重要的区别不在于硬件，而仅仅是在于你使用它时坐的位置。个人电脑是为单人近距离使用而设计的，因为我们在处理文件或上网时需要这样使用它。某些游戏——例如建设和管理模拟——也适合这样玩。而游戏机则是为一人或多人使用而设计的，坐在较远的地方，这样大家都能看到。这对于多人体验，如体育或格斗游戏来说很棒，对于飞行模拟器和动作游戏来说还可以，而对于任何具有复杂、多级用户界面的游戏来说则是糟糕的。这正是个人电脑擅长的领域。
 > 
-> Controversial Subject Matter
-> 
-> 有争议的主题
-> 
+> **Controversial Subject Matter 有争议的主题**
+>  
 > Another reason why consoles won't kill off the PC as a game platform is that the PC is the only platform on which you can explore controversial subjects. To publish a console game, you have to obtain the approval of a publicity-conscious hardware manufacturer. Recently, Canadian artist Robin C. Pacific produced Babes in the Woods, a game whose object, among other things, was to find pubic hair for a Barbie doll and whose culminating reward was to enter The Great Yoni. You probably won't see this particular title on the Nintendo GameCube anytime soon. The best thing about the PC is that anyone who has one can create a PC game. Neither a profit-gobbling license nor a hugely overpriced development kit is needed, which is why the PC is where the most cutting-edge work is always done.
 > 
-> 游戏机不会扼杀 PC 作为游戏平台的另一个原因是，PC 是唯一可以探索有争议话题的平台。要发行游戏机游戏，必须获得注重宣传的硬件制造商的批准。最近，加拿大艺术家罗宾-C-太平洋制作了《森林中的宝贝》（Babes in the Woods），这款游戏的目标之一是为芭比娃娃寻找阴毛，最终奖励是进入 “伟大的约尼”（The Great Yoni）。任天堂 GameCube 上可能很快就看不到这款游戏了。个人电脑的最大优势在于，任何人只要拥有一台个人电脑，就可以制作个人电脑游戏。既不需要攫取利润的许可证，也不需要价格高昂的开发工具包，这就是为什么最前沿的作品总是在 PC 上完成的原因。
+> 游戏机不会淘汰 PC 作为游戏平台的另一个原因是，PC 是唯一可以探索有争议主题的平台。要发行游戏机游戏，你必须获得一个注重公众形象的硬件制造商的批准。最近，加拿大艺术家罗宾·C·帕斯菲克洋制作了《森林中的宝贝》，这款游戏的目标之一是为芭比娃娃寻找阴毛，最终奖励是进入“伟大的外阴”。任天堂 GameCube 上可能很快就看不到这款游戏了。个人电脑的最大优势在于，任何人只要拥有一台个人电脑，就可以制作个人电脑游戏。既不需要攫取利润的许可证，也不需要价格高昂的开发工具包，这就是为什么最前沿的作品总是在 PC 上完成的原因。
 > 
-> Continuous Technological Advancement
-> 
-> 技术不断进步
+> **Continuous Technological Advancement 技术不断进步**
 > 
 > Finally, the technical quality of PC games will always eventually surpass that of the games on any given console machine. This is because a console machine is an inexpensive device that remains technically static from its launch until it is finally superseded by a new model. The PC, on the other hand, is an expensive device that continues to improve year on year. (There have been a few efforts to construct console "upgrades," such as the Sega 32X and CD drive add-ons for the Genesis, but none was really successful—people don't seem to want to upgrade their game consoles.) If you have a game design that demands the very latest technology, the PC is the only place you can put it.
 > 
-> 最后，PC 游戏的技术质量最终总会超过任何特定游戏机上的游戏。这是因为游戏机是一种价格低廉的设备，从推出到最终被新机型取代，技术上一直处于静止状态。而个人电脑则是一种价格昂贵的设备，性能逐年提高。(曾有过一些游戏机 “升级 ”的尝试，如世嘉 32X 和 Genesis 的 CD 驱动器插件，但都没有取得真正的成功--人们似乎并不想升级他们的游戏机）。如果你的游戏设计需要最先进的技术，PC 是你唯一的选择。
+> 最后，PC 游戏的技术质量最终总会超过任何特定游戏机上的游戏。这是因为游戏机是一种价格低廉的设备，从推出到最终被新机型取代，技术上一直处于静止状态。而个人电脑则是一种价格昂贵的设备，性能逐年提高。(曾有过一些游戏机“升级”的尝试，如世嘉 32X 和 Genesis 的 CD 驱动器插件，但都没有取得真正的成功——人们似乎并不想升级他们的游戏机）。如果你的游戏设计需要最先进的技术，PC 是你唯一的选择。
 
 ## Handheld Game Machines, PDAs, and Telephones 手持游戏机器，PDA 和手机
 
 From the simplest toys that play only one game on a black-and-white LCD screen, to the latest color cartridge-based machine, handhelds are a hugely popular gaming medium, especially for children. Rugged, portable, and relatively cheap, they offer increasingly sophisticated games that until recently could only be played on much more expensive machines.
 
-从最简单的只能在黑白液晶屏幕上玩一种游戏的玩具，到最新的彩色卡带机，掌上电脑是一种大受欢迎的游戏媒介，尤其是对儿童而言。它们坚固耐用、便于携带、价格相对便宜，却能提供越来越复杂的游戏，而在此之前，这些游戏只能在昂贵得多的机器上才能玩到。
+从最简单的只能在黑白液晶屏幕上玩一种游戏的玩具，到最新的彩色卡带机，掌上游戏机是一种大受欢迎的游戏媒介，尤其是对儿童而言。它们坚固耐用、便于携带、价格相对便宜，却能提供越来越复杂的游戏，而在此之前，这些游戏只能在昂贵得多的机器上才能玩到。
 
 There's a lot of talk about the convergence among handheld devices, and although it's bound to happen, that doesn't mean that all handheld devices will merge into a single, universal portable computer. There will always be mobile telephones without any real game-playing facilities for people who only want a telephone, and there will always be low-end handhelds with no wireless capability. Nobody wants their four-year-old racking up long-distance charges by accident.
 
-关于手持设备之间融合的讨论不绝于耳，虽然这是必然发生的事情，但这并不意味着所有手持设备都会合并成一台通用的便携式电脑。对于只想打电话的人来说，没有真正游戏功能的移动电话总会存在，没有无线功能的低端手持设备也总会存在。谁也不希望自己四岁的孩子一不小心就被长途电话费所累。
+关于手持设备之间融合的讨论不绝于耳，虽然这是必然发生的事情，但这并不意味着所有手持设备都会合并成一台通用的便携式电脑。对于只想打电话的人来说，没有真正游戏功能的移动电话总会存在，没有无线功能的低端手持设备也总会存在。谁也不希望自己四岁的孩子一不小心就花掉大笔长途电话费。
 
 The practical limitations of handheld devices are not in their computing power, which will continue to grow, but simply in their physical dimensions. A handheld can't get bigger than a certain size without becoming a nuisance to carry around. Although you can get a very enjoyable gaming experience from a handheld device, it will never be as immersive as sitting in front of a high-resolution monitor with big speakers and a subwoofer jarring your bones.
 
@@ -158,7 +156,7 @@ The practical limitations of handheld devices are not in their computing power, 
 
 We expect to see a slow but steady growth in gaming for handheld devices. Telephones and phone-equipped PDAs offer the most potential because players can compete against each other. Single-player PDA games and dedicated handhelds of various sorts will necessarily remain fairly lightweight. Without a CD-ROM or DVD drive, handhelds can't produce the "big" gaming experiences of a Baldur's Gate. But handhelds offer excellent growth potential for games for the casual gamer—someone who wants to play for 10 or 20 minutes as a break from the daily routine.
 
-我们预计，手持设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑游戏和各种专用掌上电脑必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电脑无法提供《博德之门》那样的 “大型 ”游戏体验。但掌上游戏机为休闲游戏玩家提供了极好的发展潜力--休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
+我们预计，手持设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑游戏和各种专用掌上电脑必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电脑无法提供《博德之门》那样的 “大型”游戏体验。但掌上游戏机为休闲游戏玩家提供了极好的发展潜力--休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
 
 ## Virtual Reality 虚拟现实
 
