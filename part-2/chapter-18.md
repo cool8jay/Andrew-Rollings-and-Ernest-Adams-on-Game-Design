@@ -118,7 +118,7 @@ Voice recognition, on the other hand, has tremendous potential in gaming—more 
 
 另一方面，语音识别在游戏中的潜力巨大，甚至超过了商业应用。虽然听写比使用键盘更快，但说话终究会让人疲惫，而且会使办公环境变得嘈杂、令人分心。但是，游戏本来就是嘈杂的，如果能大喊一声“第一组，冲锋！”，而不是按 1 键和点击标有“冲锋”的菜单项，就能大大增强信任感。当然，在多人游戏中，麦克风已经广泛用于玩家之间的交流；随着宽带互联网连接的发展，这种情况只会越来越多。
 
-> **Why Consoles Won't Kill Off the PC 为什么主机不能淘汰 PC**
+> **Why Consoles Won't Kill Off the PC 为什么主机不会淘汰 PC**
 > 
 > Every time a new generation of consoles comes out, a number of pundits pop up on the Internet and in the gaming magazines to proclaim that the PC is dead as a gaming platform. They're thinking about the fact that the game console now closely approaches, or even surpasses, the computing performance of the PC at a much lower price. And as we said in the previous section on consoles, we can expect to see a growing convergence between console games and PC games as console hardware begins to include such features as disk drives and Internet access.
 > 
@@ -154,9 +154,9 @@ The practical limitations of handheld devices are not in their computing power, 
 
 掌上设备的实际限制并不在于其计算能力（计算能力将继续增长），而仅仅在于其物理尺寸。掌上设备的尺寸不能超过一定范围，否则就会成为携带的麻烦。虽然掌上设备能给你带来非常愉悦的游戏体验，但它永远比不上坐在高分辨率显示器前，用大扬声器和低音炮震撼你的骨头那样身临其境。
 
-We expect to see a slow but steady growth in gaming for handheld devices. Telephones and phone-equipped PDAs offer the most potential because players can compete against each other. Single-player PDA games and dedicated handhelds of various sorts will necessarily remain fairly lightweight. Without a CD-ROM or DVD drive, handhelds can't produce the "big" gaming experiences of a Baldur's Gate. But handhelds offer excellent growth potential for games for the casual gamer—someone who wants to play for 10 or 20 minutes as a break from the daily routine.
+We expect to see a slow but steady growth in gaming for handheld devices. Telephones and phone-equipped PDAs offer the most potential because players can compete against each other. Single-player PDA games and dedicated handhelds of various sorts will necessarily remain fairly lightweight. Without a CD-ROM or DVD drive, handhelds can't produce the "big" gaming experiences of a [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate). But handhelds offer excellent growth potential for games for the casual gamer—someone who wants to play for 10 or 20 minutes as a break from the daily routine.
 
-我们预计，掌上设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑和各种专用掌上设备的游戏必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电设备无法提供《博德之门》那样的“大型”游戏体验。但掌上设备为休闲游戏玩家提供了极好的发展潜力——休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
+我们预计，掌上设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑和各种专用掌上设备的游戏必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电设备无法提供[《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate)那样的“大型”游戏体验。但掌上设备为休闲游戏玩家提供了极好的发展潜力——休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
 
 ## Virtual Reality 虚拟现实
 
