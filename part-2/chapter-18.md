@@ -166,7 +166,7 @@ Virtual reality is a term for a technology that tries to make the player forget 
 
 Still, there's a lot of potential for the technology. If you've ever seen a really good 3D movie—one projected with polarized light, not the old red-and-green glasses—then you know how powerful the effect of stereo vision is. On a big screen, occupying all your peripheral vision, it really does make you feel as if you're in the scene. To do this on a computer means computing two different images, one for each eye—and, of course, that requires twice as much graphics processing power. To reduce what's called "visual stress"—making the eye work harder than it normally does—VR gear must operate with high resolution at a high frame rate and with sharp focus.
 
-不过，这项技术的潜力仍然很大。如果你看过一部非常棒的 3D 电影，一部用偏振光而不是老式红绿眼镜放映的电影，你就会知道立体视觉的效果有多么强大。在大屏幕上，它占据了你所有的周边视线，确实让你感觉仿佛身临其境。要在电脑上实现这一点，就意味着要计算两幅不同的图像，每只眼睛一幅--当然，这需要两倍的图形处理能力。为了减少所谓的 “视觉压力”--让眼睛比正常情况下更努力地工作--VR 设备必须以高分辨率、高帧频和清晰的聚焦来运行。
+不过，这项技术的潜力仍然很大。如果你看过一部非常棒的 3D 电影，一部用偏振光而不是老式红绿眼镜放映的电影，你就会知道立体视觉的效果有多么强大。在大屏幕上，它占据了你所有的周边视线，确实让你感觉仿佛身临其境。要在电脑上实现这一点，就意味着要计算两幅不同的图像，每只眼睛一幅——当然，这需要两倍的图形处理能力。为了减少所谓的“视觉压力”——让眼睛比正常情况下更努力地工作——VR 设备必须以高分辨率、高帧频和高清晰度来运行。
 
 We think there's a future for virtual reality in games, but it's several years off yet. The quality of the helmets needs to get much, much better, and the cost needs to get much, much lower. In any case, VR is unlikely to become the standard way of playing. Many people like to play console games in groups, and they enjoy interacting with their friends as they play. Shutting out the rest of the room with a VR helmet will significantly degrade that experience. VR will probably be at its best in single-player or multi-player networked games.
 
