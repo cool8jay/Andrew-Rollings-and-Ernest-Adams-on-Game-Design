@@ -140,7 +140,7 @@ Voice recognition, on the other hand, has tremendous potential in gaming—more 
 > 
 > 最后，PC 游戏的技术质量最终总会超过任何特定游戏机上的游戏。这是因为游戏机是一种价格低廉的设备，从推出到最终被新机型取代，技术上一直处于静止状态。而个人电脑则是一种价格昂贵的设备，性能逐年提高。(曾有过一些游戏机“升级”的尝试，如世嘉 32X 和 Genesis 的 CD 驱动器插件，但都没有取得真正的成功——人们似乎并不想升级他们的游戏机）。如果你的游戏设计需要最先进的技术，PC 是你唯一的选择。
 
-## Handheld Game Machines, PDAs, and Telephones 手持游戏机器，PDA 和手机
+## Handheld Game Machines, PDAs, and Telephones 掌上游戏机，PDA 和手机
 
 From the simplest toys that play only one game on a black-and-white LCD screen, to the latest color cartridge-based machine, handhelds are a hugely popular gaming medium, especially for children. Rugged, portable, and relatively cheap, they offer increasingly sophisticated games that until recently could only be played on much more expensive machines.
 
@@ -148,15 +148,15 @@ From the simplest toys that play only one game on a black-and-white LCD screen, 
 
 There's a lot of talk about the convergence among handheld devices, and although it's bound to happen, that doesn't mean that all handheld devices will merge into a single, universal portable computer. There will always be mobile telephones without any real game-playing facilities for people who only want a telephone, and there will always be low-end handhelds with no wireless capability. Nobody wants their four-year-old racking up long-distance charges by accident.
 
-关于手持设备之间融合的讨论不绝于耳，虽然这是必然发生的事情，但这并不意味着所有手持设备都会合并成一台通用的便携式电脑。对于只想打电话的人来说，没有真正游戏功能的移动电话总会存在，没有无线功能的低端手持设备也总会存在。谁也不希望自己四岁的孩子一不小心就花掉大笔长途电话费。
+关于掌上设备之间融合的讨论不绝于耳，虽然这是必然发生的事情，但这并不意味着所有掌上设备都会合并成一台通用的便携式电脑。对于只想打电话的人来说，没有真正游戏功能的移动电话总会存在，没有无线功能的低端掌上设备也总会存在。谁也不希望自己四岁的孩子一不小心就花掉大笔长途电话费。
 
 The practical limitations of handheld devices are not in their computing power, which will continue to grow, but simply in their physical dimensions. A handheld can't get bigger than a certain size without becoming a nuisance to carry around. Although you can get a very enjoyable gaming experience from a handheld device, it will never be as immersive as sitting in front of a high-resolution monitor with big speakers and a subwoofer jarring your bones.
 
-手持设备的实际限制并不在于其计算能力（计算能力将继续增长），而仅仅在于其物理尺寸。手持设备的尺寸不能超过一定范围，否则就会成为携带的麻烦。虽然手持设备能给你带来非常愉悦的游戏体验，但它永远比不上坐在高分辨率显示器前，用大扬声器和低音炮震撼你的骨头那样身临其境。
+掌上设备的实际限制并不在于其计算能力（计算能力将继续增长），而仅仅在于其物理尺寸。掌上设备的尺寸不能超过一定范围，否则就会成为携带的麻烦。虽然掌上设备能给你带来非常愉悦的游戏体验，但它永远比不上坐在高分辨率显示器前，用大扬声器和低音炮震撼你的骨头那样身临其境。
 
 We expect to see a slow but steady growth in gaming for handheld devices. Telephones and phone-equipped PDAs offer the most potential because players can compete against each other. Single-player PDA games and dedicated handhelds of various sorts will necessarily remain fairly lightweight. Without a CD-ROM or DVD drive, handhelds can't produce the "big" gaming experiences of a Baldur's Gate. But handhelds offer excellent growth potential for games for the casual gamer—someone who wants to play for 10 or 20 minutes as a break from the daily routine.
 
-我们预计，手持设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑游戏和各种专用掌上电脑必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电脑无法提供《博德之门》那样的 “大型”游戏体验。但掌上游戏机为休闲游戏玩家提供了极好的发展潜力--休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
+我们预计，掌上设备游戏将出现缓慢但稳定的增长。电话和配备电话的掌上电脑最具潜力，因为玩家可以相互竞争。单人掌上电脑和各种专用掌上设备的游戏必然会保持相当轻量级的特点。由于没有 CD-ROM 或 DVD 驱动器，掌上电设备无法提供《博德之门》那样的“大型”游戏体验。但掌上设备为休闲游戏玩家提供了极好的发展潜力——休闲游戏玩家可以在日常工作之余玩上 10 或 20 分钟的游戏。
 
 ## Virtual Reality 虚拟现实
 
