@@ -88,7 +88,7 @@ We believe that the market for add-on devices such as dance mats and other speci
 
 The Achilles' heel of all home console machines is their output device, the conventional television. The television's low-resolution, 25- to 30-frames-per-second refresh rate and 4:3 aspect ratio are just adequate for displaying movies and TV shows, but they don't allow either the detail or the speed available on personal computer monitors.
 
-所有家用游戏机的致命弱点都在于其输出设备--传统电视。电视机的分辨率低，刷新率为每秒 25 至 30 帧，宽高比为 4:3，这对于显示电影和电视节目来说已经足够，但却无法显示个人电脑显示器上的细节和速度。
+所有家用游戏机的致命弱点都在于其输出设备——传统电视。电视机的分辨率低，刷新率为每秒 25 至 30 帧，宽高比为 4:3，这对于显示电影和电视节目来说已经足够，但却无法比拟个人电脑显示器上的细节和速度。
 
 We think that the growing popularity of high-definition television (HDTV) will significantly improve home console gaming. A wide screen offers a more natural viewing experience, allowing events to take place in the player's peripheral vision. The higher resolution will allow for more detailed images and more complex user interfaces. A number of Xbox games already support HDTV resolutions, and as HDTV becomes the standard, all new generations of consoles will certainly do so.
 
