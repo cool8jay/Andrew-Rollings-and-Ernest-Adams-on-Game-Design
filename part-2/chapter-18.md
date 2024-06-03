@@ -176,7 +176,7 @@ We think there's a future for virtual reality in games, but it's several years o
 
 The way we program computers, even after 50 years of doing it, is still slow, exacting, and error-prone. Almost all the efforts to devise better kinds of programming languages and better ways of programming have been ignored by the industry in general and game programmers in particular, who usually trade convenience and even reliability in exchange for execution speed without a second thought. Game programmers are notoriously conservative; it took many years to persuade them to program in high-level languages rather than "down on the bare metal," and it took many more to use object-oriented techniques and project-management tools. Even today there's still something of a cult of machismo among the more hard-core programmers, each trying to outdo the others to squeeze a few more instructions per millisecond out of the hardware.
 
-我们为计算机编程的方式，即使已经沿用了 50 年，仍然是缓慢、严谨和容易出错的。业内人士，尤其是游戏程序员，几乎对所有旨在设计更好的编程语言和编程方式的努力都视而不见，他们通常会不假思索地用便捷性甚至可靠性来换取执行速度。游戏程序员的保守是出了名的；花了很多年才说服他们使用高级语言而不是 “裸机 ”编程，而使用面向对象技术和项目管理工具则花了更多时间。即使到了今天，在更强硬的程序员中间，仍然存在着一些大男子主义的崇拜，每个人都试图超越其他人，从硬件中每毫秒多挤出几条指令。
+我们为计算机编程的方式，即使已经沿用了 50 年，仍然是缓慢、繁琐和容易出错的。业内人士，尤其是游戏程序员，几乎对所有旨在设计更好的编程语言和编程方式的努力都视而不见，他们通常会不假思索地用便捷性甚至可靠性来换取执行速度。游戏程序员的保守是出了名的；花了很多年才说服他们使用高级语言而不是直接操作硬件底层代码编程，而使用面向对象技术和项目管理工具则花了更多时间。即使到了今天，在更硬核的程序员中间，仍然存在着一些大男子主义的崇拜，每个人都试图超越其他人，从硬件中每毫秒多挤出几条指令。
 
 Most game machines contain a single general-purpose central processing unit and one or more dedicated graphics processing units. Their CPUs follow the traditional one-instruction-at-a-time model that goes all the way back to the Jacquard loom. This design was originally intended for computing ballistics tables for artillery guns, not for simulating complex scenes or looking five moves ahead in a chess game. However, it seems firmly entrenched, and we believe that until there is a completely new paradigm in computer hardware design, software will continue to be programmed in much the same way that it has been for the last 20 years. Because computers are designed to perform mathematical calculations, our models are all still mathematical rather than, say, neurological. Mathematics has the advantage that it's highly abstract and can be applied—with varying degrees of accuracy—to nearly anything.
 
@@ -204,23 +204,23 @@ At the moment, scenes are represented as data: thousands or millions of points i
 
 Another way of representing a scene is by describing it as a series of mathematical equations that describe the surfaces, whether curved or flat. Two techniques currently under investigation are nonuniform rational B-splines (NURBS) and Bézier patches. Program code uses the equation to calculate the shapes of the surfaces and project them onto the screen. It takes more computing power than drawing polygons, but it allows the artist to represent more curves in less memory.
 
-另一种表示场景的方法是将其描述为一系列描述曲面（无论是曲线还是平面）的数学公式。目前正在研究的两种技术是非均匀有理 B-样条曲线 (NURBS) 和贝塞尔补丁。程序代码使用方程计算曲面的形状，并将其投影到屏幕上。与绘制多边形相比，这种方法需要更多的计算能力，但却能让艺术家用更少的内存来表现更多的曲线。
+另一种表示场景的方法是将其描述为一系列描述表面（无论是曲面还是平面）的数学公式。目前正在研究的两种技术是非均匀有理 B 样条 (NURBS) 和贝塞尔曲面。程序代码使用方程计算曲面的形状，并将其投影到屏幕上。与绘制多边形相比，这种方法需要更多的计算能力，但却能让艺术家用更少的内存来表现更多的曲线。
 
 ### Procedural Scene Representation 程序化场景表示法
 
 Instead of storing a database of points or mathematical equations, you could "paint" a scene algorithmically by writing program code that generates an image on the fly—a chair subroutine would draw a picture of a chair, for example. This extends traditional object-oriented programming, in which programmers write code that determines how objects behave, to include the concept of code that determines how they look as well. Unlike raw image data, a drawing algorithm can be given new parameters to tell it to draw things in a variety of ways. A program called AARON has already used this technique to create 2D paintings of people and objects.
 
-与存储点或数学公式的数据库不同，你可以通过编写程序代码来“绘制”场景，从而即时生成图像--例如，椅子子程序可以绘制一张椅子的图片。在传统的面向对象编程中，程序员编写的代码决定了对象的行为方式，而这一概念也扩展到了决定对象外观的代码。与原始图像数据不同，绘图算法可以被赋予新的参数，告诉它以各种方式绘制事物。一个名为“AARON”的程序已经利用这种技术绘制出了人物和物体的二维画。
+与存储点的数据库或数学公式的不同，你可以通过编写程序代码来“绘制”场景，从而即时生成图像——例如，椅子子程序可以绘制一张椅子的图片。在传统的面向对象编程中，程序员编写的代码决定了对象的行为方式，而这一概念也扩展到了决定对象外观的代码。与原始图像数据不同，绘图算法可以被赋予新的参数，告诉它以各种方式绘制事物。一个名为“AARON”的程序已经利用这种技术绘制出了人物和物体的二维画。
 
 ### Real-Time Ray Tracing 实时光线追踪
 
 Ray tracing is an extremely slow but powerful technique in which the color of each pixel on the screen is computed, one by one, from a three-dimensional model of a scene, including its light sources. The idea is that each pixel is hypothetically "lit" by a ray of light coming from within the scene somewhere, and the process computes where it originated and what happened to it. Because it computes each ray of light individually, ray tracing can display the effects of mirrors, lenses, translucent surfaces, and anything else that affects light as it travels. The process normally takes many hours to generate a single still frame. Ray tracing is often used to create special effects in movies because for each frame of the movie, it has to be done only once. In a computer game, in which things are changing on the fly 30 times a second or more, it's much too slow—for now. But there could be a time when real-time ray tracing is made possible by hardware accelerators.
 
-光线追踪是一种速度极慢但功能强大的技术，它根据场景的三维模型（包括光源）逐个计算屏幕上每个像素的颜色。这种技术的原理是，假设每个像素都被来自场景中某处的光线 “点亮”，然后计算光线的来源和发生了什么。由于光线追踪可以单独计算每一束光线，因此可以显示镜子、透镜、半透明表面以及其他任何会影响光线传播的物体的效果。生成一个静止画面通常需要数小时的时间。光线追踪通常用于在电影中制作特效，因为电影中的每一帧画面只需进行一次光线追踪。而在电脑游戏中，事物每秒会发生 30 次或更多的变化，因此这种方法目前来说太慢了。不过，通过硬件加速器实现实时光线追踪可能会成为现实。
+光线追踪是一种速度极慢但功能强大的技术，它根据场景的三维模型（包括光源）逐个计算屏幕上每个像素的颜色。这种技术的原理是，假设每个像素都被来自场景中某处的光线“点亮”，然后计算光线的来源和发生了什么。由于光线追踪可以单独计算每一束光线，因此可以显示镜子、透镜、半透明表面以及其他任何会影响光线传播的物体的效果。生成一个静止画面通常需要数小时的时间。光线追踪通常用于在电影中制作特效，因为电影中的每一帧画面只需进行一次光线追踪。而在电脑游戏中，事物每秒会发生 30 次或更多的变化，因此这种方法目前来说太慢了。不过，通过硬件加速器实现实时光线追踪可能会成为现实。
 
 It's impossible to predict which lines of research will prove fruitful. One thing is certain: Whatever is the hottest, most exciting state-of-the-art technique today will be yesterday's news a few years from now. This is one of the reasons a designer should avoid creating designs dependent on a specific piece of hardware—they age too quickly.
 
-现在还无法预测哪些研究方向会取得成果。但有一点是肯定的：无论今天最热门、最令人兴奋的先进技术是什么，几年后都将成为昨日黄花。这也是设计师应避免设计依赖于特定硬件的原因之一——它们老化得太快了。
+现在还无法预测哪些研究方向会取得成果。但有一点是肯定的：无论今天最热门、最令人兴奋的先进技术是什么，几年后都将成为过时的东西。这也是设计师应避免设计依赖于特定硬件的原因之一——它们过时得太快了。
 
 ## Animation 动画
 
