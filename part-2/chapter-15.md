@@ -174,7 +174,7 @@ Figure 15.4. Gabriel Knight 3 in a context-sensitive camera angle. 图 15.4. 《
 
 The later [Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) games also allowed the player to move the camera around somewhat—as do some of the better action games, such as [Spyro the Dragon](https://en.wikipedia.org/wiki/Spyro_the_Dragon) and [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game)) (see Figure 15.5). This mimics how a real person can turn his head to look in a given direction without moving his whole body.
 
-后来的[《狩魔猎人》](https://en.wikipedia.org/wiki/Gabriel_Knight)游戏也允许玩家在一定程度上移动镜头--一些更好的动作游戏也是如此，如[《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)和[《玩具总动员》](https://en.wikipedia.org/wiki/Toy_Story_(video_game))（见图 15.5）。这模仿了真人在不移动整个身体的情况下转头看指定方向的动作。
+后来的[《狩魔猎人》](https://en.wikipedia.org/wiki/Gabriel_Knight)游戏也允许玩家在一定程度上移动镜头——一些更好的动作游戏也是如此，如[《小龙斯派罗》](https://en.wikipedia.org/wiki/Spyro_the_Dragon)和[《玩具总动员》](https://en.wikipedia.org/wiki/Toy_Story_(video_game))（见图 15.5）。这模仿了真人在不移动整个身体的情况下转头看指定方向的动作。
 
 Figure 15.5. Gabriel Knight as seen from a player-adjusted camera position. The Volkswagen would not be visible if the camera were behind him.
 
@@ -605,7 +605,7 @@ A few adventure games with point-and-click user interfaces require you to click 
 
 A backward puzzle is one in which you find the solution before you find the puzzle itself. For example, you find a key, but you don't know of any locked doors. However, you carry it around with you all the time, just in case. When you do eventually find a locked door, you immediately have the solution, which means it's not much of a puzzle. It's not always possible to prevent the player from finding a solution before he finds a puzzle because the solution has to be available, but it can be inconspicuous—for example, a poster on a wall full of posters, or an object in a trash can. Be aware, however, that "inconspicuous" is not the same as "obscure" or "nonsensical." If the key to a puzzle involves finding a live monkey, the monkey shouldn't turn out to be locked in a freezer.
 
-逆向谜题是指在找到谜题本身之前，先找到谜底。例如，你找到了一把钥匙，但你不知道有什么锁着的门。但是，为了以防万一，你还是一直带着它。当你最终找到一扇上锁的门时，你马上就能找到答案，这就意味着这并不是什么谜题。在玩家找到谜题之前，并不总能阻止他找到谜底，因为谜底需要被设计为可以获取的（不然玩家没法找到），但它可以是不起眼的--例如，满墙的海报上的一张海报，或者垃圾桶里的一件物品。但是要注意，“不起眼”并不等于“晦涩难懂”或“荒唐的”。如果谜题的关键是要找到一只活猴子，那么这只猴子就不应该被锁在冰箱里。
+逆向谜题是指在找到谜题本身之前，先找到谜底。例如，你找到了一把钥匙，但你不知道有什么锁着的门。但是，为了以防万一，你还是一直带着它。当你最终找到一扇上锁的门时，你马上就能找到答案，这就意味着这并不是什么谜题。在玩家找到谜题之前，并不总能阻止他找到谜底，因为谜底需要被设计为可以获取的（不然玩家没法找到），但它可以是不起眼的——例如，满墙的海报上的一张海报，或者垃圾桶里的一件物品。但是要注意，“不起眼”并不等于“晦涩难懂”或“荒唐的”。如果谜题的关键是要找到一只活猴子，那么这只猴子就不应该被锁在冰箱里。
 
 ### Too Many "FedEx" Puzzles “联邦快递”谜题太多
 

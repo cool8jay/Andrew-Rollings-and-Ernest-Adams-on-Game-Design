@@ -388,7 +388,7 @@ In order to break up the predictability of predefined waves, many games use a ra
 
 For example, the Atari game Asteroids has predictable waves because, once they have appeared, the movement of the asteroids are completely deterministic—except at the instance where they are shot and break up into smaller asteroids. However, at random points during the wave, an enemy UFO appears and follows a non-deterministic path, shooting at the player.
 
-例如，雅达利游戏“小行星”中的波次是可以预测的，因为一旦小行星出现，它们的移动就完全确定了--除非它们被击中并碎裂成更小的小行星。然而，在波次中的某个随机时刻，一个敌对的 UFO 会出现，并沿着非确定的路径向玩家射击。
+例如，雅达利游戏“小行星”中的波次是可以预测的，因为一旦小行星出现，它们的移动就完全确定了——除非它们被击中并碎裂成更小的小行星。然而，在波次中的某个随机时刻，一个敌对的 UFO 会出现，并沿着非确定的路径向玩家射击。
 
 Another example is the [Galaxian](https://en.wikipedia.org/wiki/Galaxian) dive-bombers that break away from the main body of the wave and swoop down on the player's avatar. Wildcard enemies are usually a completely different class of enemy from level bosses, in that they are normally mixed in with normal enemies, and behave in a somewhat random or unexpected way.
 
@@ -517,7 +517,7 @@ The average human has 120 degrees of vision and can detect movement in the perip
 
 Some 3D games, such as [Super Mario Sunshine](https://en.wikipedia.org/wiki/Super_Mario_Sunshine), [Max Payne](https://en.wikipedia.org/wiki/Max_Payne_(video_game)), and the [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) series, offer a third-person view. The player can see her avatar onscreen. Aside from niggling issues with camera control, this is probably the closest perspective to natural vision. Players can see clearly ahead of them, and they also are provided with limited awareness of what is behind and to the side of them. The only fly in the ointment as far as this particular scheme goes is the camera. A good camera can make or break a third-person view game. If the player is to feel as if she is part of the action rather than a disjointed observer, then the camera must be as unobtrusive as possible. An obvious camera adds an extra degree of complexity for understanding the world—another obstacle in the way of gameplay. Giving the player control of the camera is not a solution—it's merely a quick patch of a broken feature.
 
-一些 3D 游戏，如[《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)、[《马克思·佩恩》](https://en.wikipedia.org/wiki/Max_Payne_(video_game))和[《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)系列，提供第三人称视角。玩家可以在屏幕上看到自己的化身。除了摄像头控制方面的小问题外，这可能是最接近自然视角的视角。玩家可以清楚地看到前方，也能有限地了解身后和身边的情况。就这一特殊方案而言，唯一的瑕疵就是摄像机。一个好的摄像头可以决定一款第三人称视角游戏的成败。如果要让玩家感觉自己是游戏的一部分，而不是一个不连贯的旁观者，那么摄像机就必须尽可能不显眼。一个明显的摄像头会增加玩家理解世界的复杂程度--游戏过程中的另一个障碍。让玩家控制摄像机并不是一种解决方案，它只是对损坏功能的快速修补。
+一些 3D 游戏，如[《超级马里奥阳光》](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)、[《马克思·佩恩》](https://en.wikipedia.org/wiki/Max_Payne_(video_game))和[《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)系列，提供第三人称视角。玩家可以在屏幕上看到自己的化身。除了摄像头控制方面的小问题外，这可能是最接近自然视角的视角。玩家可以清楚地看到前方，也能有限地了解身后和身边的情况。就这一特殊方案而言，唯一的瑕疵就是摄像机。一个好的摄像头可以决定一款第三人称视角游戏的成败。如果要让玩家感觉自己是游戏的一部分，而不是一个不连贯的旁观者，那么摄像机就必须尽可能不显眼。一个明显的摄像头会增加玩家理解世界的复杂程度——游戏过程中的另一个障碍。让玩家控制摄像机并不是一种解决方案，它只是对损坏功能的快速修补。
 
 For an action game, sometimes it's just not enough to give the player a view that is close to reality. In order to make the game manageable, it's necessary to give the player super-human vision. That sounds like a good justification for the 2D viewpoint, but really it is just a rationalization after the fact. 2D action games were often so frenetic simply because of the super-human viewpoint that they offered the player.
 

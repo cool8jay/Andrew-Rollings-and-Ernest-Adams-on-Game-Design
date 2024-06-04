@@ -298,13 +298,13 @@ Real language use, in the sense of converting a character's mental desire to mak
 
 # Game Genres 游戏类型
 
-It's nearly impossible to predict what new genres of games might arise in the future. American designers never anticipated the dance simulations that have recently come from Japan. Rez, the abstract music/shooting game from Sega, could be the first in another. There will undoubtedly be more as the medium expands.
+It's nearly impossible to predict what new genres of games might arise in the future. American designers never anticipated the dance simulations that have recently come from Japan. [Rez](https://en.wikipedia.org/wiki/Rez_(video_game)), the abstract music/shooting game from [Sega](https://en.wikipedia.org/wiki/Sega), could be the first in another. There will undoubtedly be more as the medium expands.
 
-要预测未来会出现什么新类型的游戏几乎是不可能的。美国的设计师们从未预料到日本最近推出的模拟舞蹈游戏。世嘉（Sega）公司推出的抽象音乐/射击游戏《Rez》可能是另一种游戏中的第一款。毫无疑问，随着游戏媒介的扩展，还会有更多的游戏出现。
+要预测未来会出现什么新类型的游戏几乎是不可能的。美国的设计师们从未预料到日本最近推出的模拟舞蹈游戏。[世嘉](https://en.wikipedia.org/wiki/Sega)公司推出的抽象音乐/射击游戏[《Rez》](https://en.wikipedia.org/wiki/Rez_(video_game))可能是另一种游戏中的第一款。毫无疑问，随着游戏媒介的扩展，还会有更多的游戏出现。
 
 One thing is certain: For interactive entertainment to grow, we have to be open-minded and willing to explore. Why didn't American game designers invent the dance simulation themselves? Probably because the idea of making a game about little girls dancing was just too uncool. The notion that gamers are all adolescent boys is clearly outdated, yet many designers persist in building games as if they were the only market.
 
-有一点是肯定的：互动娱乐要发展，我们就必须思想开放，勇于探索。为什么美国游戏设计师没有自己发明模拟舞蹈？可能是因为制作小女孩跳舞游戏的想法太不酷了。游戏玩家都是青春期男孩的观念显然已经过时了，但许多设计者仍然坚持制作游戏，好像他们是唯一的市场。
+有一点是肯定的：互动娱乐要发展，我们就必须思想开放，勇于探索。为什么美国游戏设计师没有自己发明模拟舞蹈？可能是因为制作小女孩跳舞游戏的想法太不酷了。游戏玩家都是青春期男孩的观念显然已经过时，但许多设计者仍然坚持制作游戏，好像他们是唯一的市场。
 
 To invent a game in a genuinely new genre, you have to throw out all your preconceived notions about computer games and start from scratch with two simple questions: What activities do people think are fun? and Can that activity reasonably be turned into a computer game?
 
@@ -316,17 +316,17 @@ In the meantime, we'll discuss what we think will happen in some existing genres
 
 ## Action Games 动作游戏
 
-The challenges in action games arise mostly from their twitch elements: motor skills, coordination, and timing. To a lesser extent, they also include puzzle solving and exploration—figuring out where to go and what to do to survive and pass through the level. These are well-understood elements of an action game's design. Most of the advances in action gaming in recent years have been in the game's content rather than in the nature of the challenges it offers. Banjo-Kazooie, for example, was a very successful game about a bear (Banjo) carrying a bird (Kazooie) around in his backpack. This peculiar bird-bear avatar enabled the designers to create a number of unique moves that would have been incongruous if the avatar were just a bird or just a bear. Soul Reaver was a game about a maimed vampire with only a limited ability to fly. Toy Story, of course, was based on the movie and was all about toys in a suburban environment. This kind of imaginative thinking will keep action games moving forward rather than stagnating.
+The challenges in action games arise mostly from their twitch elements: motor skills, coordination, and timing. To a lesser extent, they also include puzzle solving and exploration—figuring out where to go and what to do to survive and pass through the level. These are well-understood elements of an action game's design. Most of the advances in action gaming in recent years have been in the game's content rather than in the nature of the challenges it offers. Banjo-Kazooie, for example, was a very successful game about a bear (Banjo) carrying a bird (Kazooie) around in his backpack. This peculiar bird-bear avatar enabled the designers to create a number of unique moves that would have been incongruous if the avatar were just a bird or just a bear. [Soul Reaver](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver) was a game about a maimed vampire with only a limited ability to fly. [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_(video_game)), of course, was based on the movie and was all about toys in a suburban environment. This kind of imaginative thinking will keep action games moving forward rather than stagnating.
 
-动作游戏中的挑战主要来自其抽动元素：运动技能、协调和时机。在较小程度上，它们还包括解谜和探索--找出去哪里、做什么才能生存并通过关卡。这些都是动作游戏设计中广为人知的要素。近年来，动作游戏的进步大多体现在游戏内容上，而不是游戏所提供的挑战的性质上。例如，《Banjo-Kazooie》是一款非常成功的游戏，讲述的是一只熊（Banjo）背着一只鸟（Kazooie）到处跑的故事。这种奇特的 “鸟熊化身 ”让设计者能够创造出许多独特的动作，如果化身只是一只鸟或一只熊，这些动作就会显得很不协调。Soul Reaver》是一款关于一个残缺不全、只有有限飞行能力的吸血鬼的游戏。当然，《玩具总动员》是根据电影改编的，主题是郊区环境中的玩具。这种富有想象力的思维将使动作游戏不断向前发展，而不是停滞不前。
+动作游戏中的挑战主要来自其动作元素：运动技能、协调和时机。在较小程度上，它们还包括解谜和探索——找出去哪里、做什么才能生存并通过关卡。这些都是动作游戏设计中广为人知的要素。近年来，动作游戏的进步大多体现在游戏内容上，而不是游戏所提供的挑战的性质上。例如，[《班卓熊大冒险》](https://en.wikipedia.org/wiki/Banjo-Kazooie)是一款非常成功的游戏，讲述的是一只熊（Banjo）背着一只鸟（Kazooie）到处跑的故事。这种奇特的“鸟熊化身”让设计者能够创造出许多独特的动作，如果化身只是一只鸟或一只熊，这些动作就会显得很不协调。[《勾魂使者》](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver)是一款关于一个残缺不全、只有有限飞行能力的吸血鬼的游戏。当然，[《玩具总动员》](https://en.wikipedia.org/wiki/Toy_Story_(video_game))是根据电影改编的，主题是郊区环境中的玩具。这种富有想象力的思维将使动作游戏不断向前发展，而不是停滞不前。
 
-First-person shooters represented a big leap forward when they appeared, but what was new about them was mostly the quality of the display and the richness of the environment rather than the concept itself. Multi-player first-person gaming goes back at least as far as the early 1980s, when a game called MazeWars was programmed for the short-lived Xerox Alto workstation. Since then, most of the advances have been evolutionary rather than revolutionary: nonrectilinear rooms and stairs (the biggest differences between the original Castle Wolfenstein 3D and Doom), a greater variety of weapons and enemies, and so on. We can expect to see continuing evolutionary advancements in the first-person shooter genre, providing better graphics, better sound, and especially better enemy AI.
+First-person shooters represented a big leap forward when they appeared, but what was new about them was mostly the quality of the display and the richness of the environment rather than the concept itself. Multi-player first-person gaming goes back at least as far as the early 1980s, when a game called [MazeWars](https://en.wikipedia.org/wiki/Maze_(1973_video_game)) was programmed for the short-lived Xerox Alto workstation. Since then, most of the advances have been evolutionary rather than revolutionary: nonrectilinear rooms and stairs (the biggest differences between the original [Castle Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) and [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))), a greater variety of weapons and enemies, and so on. We can expect to see continuing evolutionary advancements in the first-person shooter genre, providing better graphics, better sound, and especially better enemy AI.
 
-第一人称射击游戏的出现代表了一大飞跃，但其新颖之处主要在于显示质量和丰富的环境，而非概念本身。多人第一人称游戏至少可以追溯到 20 世纪 80 年代初，当时一款名为《迷宫战争》的游戏是为昙花一现的施乐 Alto 工作站设计的。从那时起，大多数游戏的进步都是进化性的，而不是革命性的：非直线的房间和楼梯（最初的《沃尔夫斯坦城堡 3D》和《毁灭战士》之间最大的区别）、更多种类的武器和敌人等等。我们可以期待看到第一人称射击类游戏不断进步，提供更好的画面、更好的音效，尤其是更好的敌人 AI。
+第一人称射击游戏的出现代表了一大飞跃，但其新颖之处主要在于显示质量和丰富的环境，而非概念本身。多人第一人称游戏至少可以追溯到 20 世纪 80 年代初，当时一款名为[《迷宫战争》](https://en.wikipedia.org/wiki/Maze_(1973_video_game))的游戏是为昙花一现的施乐 Alto 工作站设计的。从那时起，大多数游戏的进步都是进化性的，而不是革命性的：非直线的房间和楼梯（最初的[《狼堡 3D》](https://en.wikipedia.org/wiki/Wolfenstein_3D)和[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))之间最大的区别）、更多种类的武器和敌人等等。我们可以期待看到第一人称射击类游戏不断进步，提供更好的画面、更好的音效，尤其是更好的敌人 AI。
 
-Thief, one of the most innovative action games in recent years, turned the shooter on its head by actively discouraging shooting. It was still a first-person game in which the player was armed with a variety of weapons, but the goal was to steal things rather than to kill people, to get through as much of the game as possible without firing a shot. Stealth, not violence, ensured success, but the game still required both hand-eye coordination and puzzle solving in the best traditions of the action genre. We hope to see more action games that explore alternative kinds of actions and approaches to victory.
+[Thief](https://en.wikipedia.org/wiki/Thief_(series)), one of the most innovative action games in recent years, turned the shooter on its head by actively discouraging shooting. It was still a first-person game in which the player was armed with a variety of weapons, but the goal was to steal things rather than to kill people, to get through as much of the game as possible without firing a shot. Stealth, not violence, ensured success, but the game still required both hand-eye coordination and puzzle solving in the best traditions of the action genre. We hope to see more action games that explore alternative kinds of actions and approaches to victory.
 
-《神偷》是近年来最具创新性的动作游戏之一，它通过积极阻止射击来颠覆射击游戏。它仍然是一款第一人称游戏，玩家可以使用各种武器，但目标是偷东西而不是杀人，尽可能在不开枪的情况下完成游戏。隐秘而非暴力是成功的保证，但游戏仍然需要手眼协调和解谜，这也是动作类游戏的优良传统。我们希望看到更多的动作游戏探索其他类型的行动和获胜方法。
+[《神偷》](https://en.wikipedia.org/wiki/Thief_(series))是近年来最具创新性的动作游戏之一，它通过积极阻止射击来颠覆射击游戏。它仍然是一款第一人称游戏，玩家可以使用各种武器，但目标是偷东西而不是杀人，尽可能在不开枪的情况下完成游戏。隐秘而非暴力是成功的保证，但游戏仍然需要手眼协调和解谜，这也是动作类游戏的优良传统。我们希望看到更多的动作游戏探索其他类型的行动和获胜方法。
 
 ## Strategy Games 策略游戏
 
@@ -334,17 +334,17 @@ By far the largest unexplored area of strategy games is the human factor. Armies
 
 迄今为止，战略游戏中最大的未开发领域就是人的因素。军队由将领领导，而将领在人性方面的优缺点会对他们在战场上的表现产生深远影响。决心、想象力、胆识、横向思维、个人勇气和纯粹的分析智慧都对军事能力起着重要作用。领导力这种难以定义的品质也是如此，它决定了冒着生命危险的士兵是自信还是恐惧，有时它本身就能扭转战局。
 
-There have been efforts to quantify and simulate some of these qualities. As far back as The Ancient Art of War, players could choose to fight against simulated versions of Julius Caesar, Genghis Khan, or Napoleon Bonaparte, each of whom was characterized as representing certain military attributes. We've also worked on simulating the psychological condition of soldiers themselves: Microsoft's Close Combat gave each soldier a state of mind that varied from courageous and confident to cowering in terror, unable to obey any order.
+There have been efforts to quantify and simulate some of these qualities. As far back as [The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War), players could choose to fight against simulated versions of Julius Caesar, Genghis Khan, or Napoleon Bonaparte, each of whom was characterized as representing certain military attributes. We've also worked on simulating the psychological condition of soldiers themselves: Microsoft's [Close Combat](https://en.wikipedia.org/wiki/Close_Combat_(series)) gave each soldier a state of mind that varied from courageous and confident to cowering in terror, unable to obey any order.
 
-人们一直在努力量化和模拟其中的一些品质。早在《古代兵法》中，玩家就可以选择与模拟版的凯撒大帝、成吉思汗或拿破仑-波拿巴对战，他们每个人都被描述为代表了某些军事特质。我们还致力于模拟士兵本身的心理状态：微软的 “近距离格斗”（Close Combat）游戏让每个士兵都有不同的心理状态，有的勇敢自信，有的畏缩不前，无法服从任何命令。
+人们一直在努力量化和模拟其中的一些品质。早在[《古代兵法》](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War)中，玩家就可以选择与模拟版的凯撒大帝、成吉思汗或拿破仑·波拿巴对战，他们每个人都被描述为代表了某些军事特质。我们还致力于模拟士兵本身的心理状态：微软的[近距离作战](https://en.wikipedia.org/wiki/Close_Combat_(series))让每个士兵都有不同的心理状态，有的勇敢自信，有的畏缩不前，无法服从任何命令。
 
 Nevertheless, there's a great deal more to be done in this area. In most computer strategy games, there's no such thing as psychological operations, nor do they simulate the element of surprise, diversionary tactics, bluffing, feigned retreats to draw out the enemy, or lame-duck tricks to give an impression of weakness. Computer games tend to simulate soldiers as robotic killing machines, obeying whatever order they're given, even if it is suicidal, and unflinchingly standing their ground to the last man. With more processing power and richer, deeper simulations of human reactions, we will start to see war games that depict battles as they are really fought.
 
-尽管如此，这方面还有很多工作要做。在大多数电脑战略游戏中，都没有心理战术这种东西，也没有模拟出其不意、声东击西、虚张声势、假装撤退以引出敌人，或使人产生虚弱印象的蹩脚伎俩。电脑游戏倾向于把士兵模拟成机器人杀人机器，他们服从任何命令，哪怕是自杀性的命令，并且坚定不移地坚守阵地，直到最后一人。随着处理能力的提高和对人类反应更丰富、更深入的模拟，我们将开始看到描绘真实战斗的战争游戏。
+尽管如此，这方面还有很多工作要做。在大多数电脑战略游戏中，都没有心理战术这种东西，也没有模拟出其不意、声东击西、虚张声势、假装撤退以引出敌人，或者假装虚弱欺骗敌人的计谋。电脑游戏倾向于把士兵模拟成机器人杀人机器，他们服从任何命令，哪怕是自杀性的命令，并且坚定不移地坚守阵地，直到最后一人。随着处理能力的提高和对人类反应更丰富、更深入的模拟，我们将开始看到描绘真实战斗的战争游戏。
 
 Another weakness of real-time strategy games at the moment is an overemphasis on economic production models. Players concentrate on achieving economic efficiency rather than strategic or tactical superiority. They treat their units as cannon fodder, relying on overwhelming the enemy with sheer numbers rather than with military skill—a tactic uncomfortably reminiscent of Field Marshal Haig at the Somme. Because they're only simulated soldiers, we don't have to care how many of them die, except insofar as it gives us fewer units to fight with. This represents an inaccuracy in the simulation. Real soldiers' morale is hurt when their leaders exhibit a flagrant disregard for the value of their lives, and their performance suffers accordingly. In the future, we can expect to see these details simulated properly, and players will have to take care of their soldiers to win.
 
-目前，即时战略游戏的另一个弱点是过分强调经济生产模式。玩家专注于实现经济效益，而不是战略或战术优势。他们把自己的部队当作炮灰，依靠纯粹的数量而非军事技能压倒敌人--这种战术让人不自觉地想起索姆河战役中的海格元帅。因为他们只是模拟士兵，所以我们不必关心他们死了多少人，除非这会让我们减少可用于战斗的部队数量。这说明模拟不准确。如果领导者公然漠视士兵的生命价值，真实士兵的士气就会受到打击，他们的表现也会相应受到影响。在未来，我们可以期待看到这些细节得到适当的模拟，玩家必须照顾好自己的士兵才能取得胜利。
+目前，即时战略游戏的另一个弱点是过分强调经济生产模式。玩家专注于实现经济效益，而不是战略或战术优势。他们把自己的部队当作炮灰，依靠纯粹的数量而非军事技能压倒敌人——这种战术让人不自觉地想起索姆河战役中的海格元帅。因为他们只是模拟士兵，所以我们不必关心他们死了多少人，除非这会让我们减少可用于战斗的部队数量。这说明模拟不准确。如果领导者公然漠视士兵的生命价值，真实士兵的士气就会受到打击，他们的表现也会相应受到影响。在未来，我们可以期待看到这些细节得到适当的模拟，玩家必须照顾好自己的士兵才能取得胜利。
 
 ## Role-Playing Games 角色扮演游戏
 
@@ -354,19 +354,19 @@ Computerized role-playing games still bear the marks of their heritage as pencil
 
 Although there's a definite market for such games, we feel that the emphasis on statistics discourages a larger market, the casual player, from playing RPGs. Casual players want to have adventures and collect loot without having to study all the peculiar capabilities of their equipment or to spend a lot of time shopping for it at the local arms merchant. Other genres—action games and action adventures—offer that kind of gameplay, but for the most part, they have thin plots and little character development. We expect that the traditional numbers-oriented RPG will continue to exist but that a new type of RPG, a sort of hybrid between the action-adventure and the traditional RPG, will emerge over time to satisfy the needs of the casual player. It will have the plot and character-interaction elements of the RPG, along with the usual quest structure and character-growth components, but it won't require so much fiddling or buying and selling.
 
-虽然这类游戏有一定的市场，但我们认为，对统计数据的强调阻碍了更大的市场，即休闲玩家对 RPG 游戏的兴趣。休闲玩家希望冒险和收集战利品，而不必研究装备的所有特殊功能，也不必花大量时间在当地军火商那里购买装备。其他类型的游戏--动作游戏和动作冒险--提供了这种玩法，但它们大多情节单调，人物性格发展不足。我们预计，传统的以数字为导向的 RPG 将继续存在，但随着时间的推移，将出现一种新型的 RPG，一种介于动作冒险游戏和传统 RPG 之间的混合体，以满足休闲玩家的需求。它将具有 RPG 的情节和角色互动要素，以及通常的任务结构和角色成长要素，但不需要那么多的摆弄或买卖。
+虽然这类游戏有一定的市场，但我们认为，对统计数据的强调阻碍了更大的市场，即休闲玩家对 RPG 游戏的兴趣。休闲玩家希望冒险和收集战利品，而不必研究装备的所有特殊功能，也不必花大量时间在当地武器商那里购买装备。其他类型的游戏——动作游戏和动作冒险——提供了这种玩法，但它们大多情节单调，人物性格发展不足。我们预计，传统的以数字为导向的 RPG 将继续存在，但随着时间的推移，将出现一种新型的 RPG，一种介于动作冒险游戏和传统 RPG 之间的混合体，以满足休闲玩家的需求。它将具有 RPG 的情节和角色互动要素，以及通常的任务结构和角色成长要素，但不需要那么多的摆弄或买卖武器。
 
 ## Sports Games 体育游戏
 
 As we've said elsewhere, sports games don't have a lot of room for creative growth. The game is defined by the nature of the sport. There are new sports from time to time, but they're created by their enthusiasts, not by computer game designers.
 
-正如我们在其他地方说过的，体育游戏没有太多的创意发展空间。游戏是由运动的性质决定的。时不时会有新的运动项目出现，但它们都是由爱好者创造的，而不是由电脑游戏设计师创造的。
+正如我们在其他地方说过的，体育游戏没有太多的创意发展空间。游戏是由体育运动的性质决定的。时不时会有新的运动项目出现，但它们都是由爱好者创造的，而不是由电脑游戏设计师创造的。
 
 Sports games, of course, will continue to benefit from improvements in display technology and other kinds of hardware, and voice recognition could be a lot of fun when you're able to call plays and shout to your "teammates" on the field. But the greatest challenge in creating sports games, and the place where we can expect to see the most improvement in the future, is in artificial intelligence, especially in team games such as soccer. Two areas in sports games need AI: strategy, which we might also call play-calling or coaching, and tactics, the AI that controls the behavior of individual athletes on the field, especially in response to changing or unexpected play situations. Athlete AI is starting to improve already. We seldom see athletes doing things that seem to be patently stupid anymore—at least, not much more often than real athletes do things that seem to be patently stupid! Coaching is another matter, however. Games don't yet have the smarts to make up the tricks and clever moves that real coaches can devise, but perhaps they will in the future.
 
-当然，体育游戏将继续受益于显示技术和其他类型硬件的改进，而当你能在场上指挥比赛并向 “队友 ”喊话时，语音识别技术也会给你带来很多乐趣。但是，创建体育游戏的最大挑战，也是我们未来有望看到最大改进的地方，是人工智能，尤其是在足球等团队游戏中。体育游戏中有两个领域需要人工智能：一是战略，我们也可以称之为战术指挥或教练；二是战术，即控制场上运动员个人行为的人工智能，尤其是在应对不断变化或意想不到的比赛情况时。运动员的人工智能已经开始得到改善。我们很少再看到运动员做出明显愚蠢的事情--至少，比真实运动员做出明显愚蠢事情的频率要低得多！然而，教练则是另一回事。游戏还不具备智能，无法像真正的教练那样设计出窍门和巧妙的动作，但也许将来会有的。
+当然，体育游戏将继续受益于显示技术和其他类型硬件的改进，而当你能在场上指挥比赛并向“队友”喊话时，语音识别技术也会给你带来很多乐趣。但是，创建体育游戏的最大挑战，也是我们未来有望看到最大改进的地方，是人工智能，尤其是在足球等团队游戏中。体育游戏中有两个领域需要人工智能：一是战略，我们也可以称之为战术指挥或教练；二是战术，即控制场上运动员个人行为的人工智能，尤其是在应对不断变化或意想不到的比赛情况时。运动员的人工智能已经开始得到改善。我们很少再看到运动员做出明显愚蠢的事情——至少，比真实运动员做出明显愚蠢事情的频率要低得多！然而，教练则是另一回事。游戏还不具备智能，无法像真正的教练那样设计出窍门和巧妙的动作，但也许将来会有的。
 
-## Vehicle Simulations 交通工具模拟
+## Vehicle Simulations 交通工具模拟游戏
 
 Although complacency is risky, if any genre of computer gaming can be said to be stable, it's probably vehicle simulations. Of course, there's much more that can be done, mostly in physics simulations and display technology, but, for the most part, vehicle simulations already offer all the gameplay that their fans could want. The aerodynamic models aren't realistic, but they're enough to provide all but the most demanding players with a feeling of authenticity. We could accurately model all the switches and levers in an F-15 fighter jet rather than just some of them, but doing so would make the game harder to play without adding enjoyment to the process.
 
@@ -374,14 +374,13 @@ Although complacency is risky, if any genre of computer gaming can be said to be
 
 The quality of the driver AI in racing games is pretty good at the moment. In racing, it's mostly every car for itself, and the cars have to stay in a restricted area, so the AI is chiefly needed for strategic decisions involving refueling, changing tires when rain is threatening, and addressing similar questions. We can probably expect to see this kind of decision making improve in the future. The casual player isn't likely to notice it very much, however.
 
-
 目前，赛车游戏中的驾驶员人工智能质量相当不错。在赛车游戏中，大部分情况下都是每辆车为自己而战，而且赛车必须待在限制区域内，因此主要需要人工智能来做出战略决策，包括加油、在雨天更换轮胎以及解决类似问题。我们或许可以期待在未来看到此类决策的改进。不过，普通玩家不太可能注意到这一点。
 
 Pilot AI in flight simulators could be improved somewhat, especially in cooperative missions. It's practically a foregone conclusion that if you're given an AI-controlled wingman in a computer game, he'll get shot down. It's not clear why wingmen seem to be so vulnerable. It could be that they're mostly designed to assist you rather than to protect themselves, so they take unnecessary risks.
 
 飞行模拟器中的飞行员 AI 可以有一些改进，尤其是在合作任务中。在电脑游戏中，如果给你一个由人工智能控制的僚机，他就会被击落，这实际上是一个必然的结论。目前还不清楚为什么僚机看起来如此脆弱。可能是因为僚机的主要作用是协助你，而不是保护自己，所以它们会冒不必要的风险。
 
-## Construction and Management Simulations 建设和管理模拟
+## Construction and Management Simulations 建设和管理模拟游戏
 
 For the most part, construction and management simulations don't use 3D engines, but they demand a lot of processing power from the CPU to simulate whatever system they're modeling. As computing power increases, we can expect to see such games modeling larger systems, or the same kinds of systems but in more detail. We also expect that they will eventually switch from the isometric perspective that seems to be the current standard, to a fully 3D perspective that enables players to zoom right in on the world and observe things at close range.
 
@@ -395,11 +394,11 @@ As the demand for games grows, we might also start to see simulations for niche 
 
 Adventure games have stagnated somewhat in recent years. They don't get as much adrenaline flowing as action games or vehicle simulations, and they cost more to develop than other slow-paced games such as war games or city simulations. Nevertheless, we're confident that they won't disappear entirely. A small but distinct market wants games with strong plots and interesting characters, and as gaming matures, this market will grow.
 
-近年来，冒险游戏的发展有些停滞不前。它们不像动作游戏或车辆模拟游戏那样让人肾上腺素激增，而且开发成本也比战争游戏或城市模拟游戏等其他慢节奏游戏高。尽管如此，我们相信它们不会完全消失。随着游戏的成熟，这一市场将会扩大。
+近年来，冒险游戏的发展有些停滞不前。它们不像动作游戏或交通工具模拟游戏那样让人肾上腺素激增，而且开发成本也比战争游戏或城市模拟游戏等其他慢节奏游戏高。尽管如此，我们相信它们不会完全消失。有一小部分但独特的市场需要有强烈情节和有趣角色的游戏，随着游戏产业的成熟，这个市场将会增长。
 
 Part of the appeal of adventure games is in the beauty of their locations. Because they move more slowly, players have the time to admire the details of their worlds. As a result, many of them still use painted 2D locations rather than 3D environments. The best 3D engines still can't reproduce the lush detail of an open-air market, for example, in which every pomegranate and bolt of silk is lovingly rendered. However, this will change, and we expect that, in time, more adventure games will be moving to 3D-rendered worlds simply because they offer more freedom to the player and more camera angles to the designer. With a 2D background, every change of perspective requires a new painting; with a 3D engine, the perspective can be adjusted easily to fit the circumstances in the game.
 
-冒险游戏的魅力之一在于其优美的地点。由于冒险游戏的移动速度较慢，玩家有时间欣赏游戏世界的细节。因此，许多冒险游戏仍然使用绘制的 2D 场景，而不是 3D 环境。例如，最好的 3D 引擎仍然无法再现露天市场的繁茂细节，市场中的每个石榴和丝绸都被精心渲染。不过，这种情况将会改变，我们预计，随着时间的推移，越来越多的冒险游戏将转向 3D 渲染的世界，原因很简单，因为 3D 渲染的世界为玩家提供了更大的自由度，为设计师提供了更多的拍摄角度。在二维背景下，每一次视角的改变都需要重新绘制；而在三维引擎下，视角可以很容易地进行调整，以适应游戏中的环境。
+冒险游戏的魅力之一在于其优美的地点。由于冒险游戏的移动速度较慢，玩家有时间欣赏游戏世界的细节。因此，许多冒险游戏仍然使用绘制的 2D 场景，而不是 3D 环境。例如，最好的 3D 引擎仍然无法再现露天市场的繁茂细节，市场中的每个石榴和丝绸都被精心渲染。不过，这种情况将会改变，我们预计，随着时间的推移，越来越多的冒险游戏将转向 3D 渲染的世界，原因很简单，因为 3D 渲染的世界为玩家提供了更大的自由度，为设计师提供了更多的摄像机角度。在二维背景下，每一次视角的改变都需要重新绘制；而在三维引擎下，视角可以很容易地进行调整，以适应游戏中的环境。
 
 Adventure games will benefit more than any other genre from advances in artificial intelligence. Good stories require believable characters, and to be believable, characters must speak and act normally.
 
@@ -437,14 +436,13 @@ Electronic distribution will help to level this playing field. You need only one
 
 This doesn't mean that small publishers will drive the giants out of business, however. The majority of a computer game's cost is not in the goods or the distribution, but in the marketing and development—paying all those creative people to build the game in the first place. Bigger publishers can afford to make bigger games, and bigger games will generally sell better than small ones. Bigger publishers can buy advertising space in magazines and on TV that small publishers couldn't begin to afford, and advertising sells games. They'll always have that advantage. But by taking away their control over retail sales, electronic distribution will improve the odds for small developers a little.
 
-然而，这并不意味着小型出版商会使巨头们倒闭。电脑游戏的大部分成本并不在商品或发行上，而是在营销和开发上--首先要付钱给那些有创造力的人制作游戏。大型出版商有能力制作大型游戏，而大型游戏通常比小型游戏卖得好。大发行商可以在杂志和电视上购买小发行商根本买不起的广告空间，而广告可以销售游戏。他们永远拥有这种优势。但是，通过电子分销，他们失去了对零售的控制，小开发商的胜算就会提高一些。
+然而，这并不意味着小型出版商会使巨头们倒闭。电脑游戏的大部分成本并不在商品或发行上，而是在营销和开发上——首先要付钱给那些有创造力的人制作游戏。大型出版商有能力制作大型游戏，而大型游戏通常比小型游戏卖得好。大发行商可以在杂志和电视上购买小发行商根本买不起的广告空间，而广告可以销售游戏。他们永远拥有这种优势。但是，通过电子分销，他们失去了对零售的控制，小开发商的胜算就会提高一些。
 
 ### Piracy 盗版
 
-
 The game industry loses billions of dollars every year to piracy, and many people are concerned that electronic distribution will make piracy even easier. At the moment, sophisticated large-scale piracy requires fairly expensive machinery to counterfeit the specialized compact discs that most game machines require. Publishers will be reluctant to embrace electronic distribution if it makes work easier for the pirates. We believe that this problem is solvable, but further work must be done to do it. The game industry will have to find a way to digitally "tag" each unique copy of a game and to make sure that no two identical copies can run at once. It's likely that before long, games will require an Internet connection and will not run without one—which might not sit well with players.
 
-游戏产业每年因盗版损失数十亿美元，许多人担心电子发行会使盗版变得更加容易。目前，复杂的大规模盗版需要相当昂贵的机器来伪造大多数游戏机所需的专用光盘。如果电子发行使盗版者更容易得手，那么发行商将不愿接受电子发行。我们认为，这个问题是可以解决的，但还需要进一步的努力。游戏产业必须找到一种方法，为每份独一无二的游戏拷贝贴上数字 "标签"，并确保没有两份相同的拷贝可以同时运行。很可能在不久的将来，游戏将需要网络连接，没有网络连接将无法运行--这可能会让玩家感到不快。
+游戏产业每年因盗版损失数十亿美元，许多人担心电子发行会使盗版变得更加容易。目前，复杂的大规模盗版需要相当昂贵的机器来伪造大多数游戏机所需的专用光盘。如果电子发行使盗版者更容易得手，那么发行商将不愿接受电子发行。我们认为，这个问题是可以解决的，但还需要进一步的努力。游戏产业必须找到一种方法，为每份独一无二的游戏拷贝贴上数字“标签”，并确保没有两份相同的拷贝可以同时运行。很可能在不久的将来，游戏将需要网络连接，没有网络连接将无法运行——这可能会让玩家感到不快。
 
 ### Speed of Delivery 发行速度
 
@@ -456,11 +454,11 @@ The length of time it takes to drive to a retail store and buy a game is typical
 
 There are certain benefits to selling games at retail that electronic distribution won't provide. One is that the perceived value of a retail product is proportionate to the quality of its packaging. A beautifully printed box with a heavy manual inside gives the customer a warm feeling that she is getting her money's worth. (One of the reasons that cassette tapes didn't drive LP records out of the market was that customers liked the album art on LPs—and some mourned its passing with the arrival of the compact disc.) A CD in a jewel case alone feels cheap. A downloaded executable file on a computer doesn't feel like anything at all—although you can see the game running on your machine, there's no sense of having purchased something that you can hold in your hand.
 
-在零售店销售游戏有一些电子分销无法提供的好处。其一，零售产品的感知价值与其包装质量成正比。印刷精美的包装盒和厚厚的说明书会给顾客一种物有所值的温暖感觉。(盒式磁带没有把 LP 唱片挤出市场的原因之一就是顾客喜欢 LP 唱片上的专辑封面--有些人还为光盘的出现而惋惜）。光是一张装在珠宝盒里的 CD 就给人一种廉价的感觉。下载到电脑上的可执行文件给人的感觉是什么都没有--虽然你可以看到游戏在你的机器上运行，但却没有购买到可以拿在手上的东西的感觉。
+在零售店销售游戏有一些电子发行无法提供的好处。其一，零售产品的感知价值与其包装质量成正比。印刷精美的包装盒和厚厚的说明书会给顾客一种物有所值的温暖感觉。(盒式磁带没有把黑胶唱片挤出市场的原因之一就是顾客喜欢黑胶唱片上的专辑封面——有些人还为光盘的出现而惋惜）。光是一张装在光盘盒里的 CD 就给人一种廉价的感觉。下载到电脑上的可执行文件给人的感觉是什么都没有——虽然你可以看到游戏在你的机器上运行，但却没有购买到可以拿在手上的东西的感觉。
 
 Although you might think that this shouldn't matter, we feel that it will have a significant psychological impact at the one time of the year more important to the game industry than any other: Christmas. The interactive entertainment business is heavily dependent on Christmas gift giving, and the fact is that people like to see actual boxes under the Christmas tree—the bigger, the better. A slip of paper giving a web address where software can be downloaded isn't going to feel like much of a gift.
 
-虽然您可能认为这并不重要，但我们认为，在一年中对游戏业来说最重要的时刻，这将会产生重大的心理影响：圣诞节。互动娱乐行业在很大程度上依赖于圣诞礼物的赠送，而事实上，人们喜欢在圣诞树下看到实实在在的盒子，越大越好。如果只是一张纸，上面写着一个可以下载软件的网址，那就不像是什么礼物了。
+虽然你可能认为这并不重要，但我们认为，在一年中对游戏业来说最重要的时刻，这将会产生重大的心理影响：圣诞节。互动娱乐行业在很大程度上依赖于圣诞礼物的赠送，而事实上，人们喜欢在圣诞树下看到实实在在的盒子，越大越好。如果只是一张纸，上面写着一个可以下载软件的网址，那就不像是什么礼物了。
 
 Retailers would also argue that buying in a store gives players the opportunity to look at games side by side and to ask questions of the staff. Although you can get more information by comparing game reviews online than you can by holding a box in either hand, many casual gamers don't bother to do that much research. Retail shopping offers the chance to browse in a way that online shopping simply doesn't. For all its convenience and efficiency, online shopping doesn't feel the same as running your eye over shelves full of games.
 
@@ -474,13 +472,12 @@ Online games currently suffer a great deal from bandwidth bottlenecks. They have
 
 As with everything else they use—memory, processor speed, disk space—computer games expand to consume the bandwidth available, and this problem will not go away simply by increasing the available bandwidth a hundredfold or even a thousandfold. But more bandwidth will change the kinds of games that we can play and the ease with which we play them online. Right now, when players start playing large online games, they must either buy a CD full of the graphical data or download it all, a very time-consuming process. When the game's provider wants to make a whole new region available to the players, those players are forced to download the new graphics. Either they can do it all in one chunk, which means they have to sit around and twiddle their thumbs until it's done, or they can download it in the background as they play, which hurts gameplay performance. Having more bandwidth will certainly make this a more pleasant process.
 
-电脑游戏与它们使用的其他东西一样--内存、处理器速度、磁盘空间--都会消耗可用的带宽，而且这个问题不会因为可用带宽增加一百倍甚至一千倍而消失。
-但是，更多的带宽将改变我们可以玩的游戏种类以及在线游戏的便捷程度。现在，当玩家开始玩大型在线游戏时，他们必须购买一张装满图形数据的光盘，或者全部下载下来，这是一个非常耗时的过程。当游戏提供商想向玩家提供一个全新的区域时，这些玩家就不得不下载新的图形。他们要么可以一次性完成下载，但这意味着他们必须坐在一旁搓拇指，直到下载完成；要么他们可以在游戏过程中在后台下载，但这会损害游戏性能。有了更多的带宽，这个过程肯定会更愉快。
+电脑游戏与它们使用的其他东西一样——内存、处理器速度、磁盘空间——都会消耗可用的带宽，而且这个问题不会因为可用带宽增加一百倍甚至一千倍而消失。但是，更多的带宽将改变我们可以玩的游戏种类以及在线游戏的便捷程度。现在，当玩家开始玩大型在线游戏时，他们必须购买一张装满图形数据的光盘，或者全部下载下来，这是一个非常耗时的过程。当游戏提供商想向玩家提供一个全新的区域时，这些玩家就不得不下载新的图形。他们要么可以一次性完成下载，但这意味着他们必须坐在一旁搓拇指，直到下载完成；要么他们可以在游戏过程中在后台下载，但这会损害游戏性能。有了更多的带宽，这个过程肯定会更愉快。
 
 Ultimately, speeds will get so high that players don't even notice them. Network connections will be as ubiquitous as electric lights are now. (Microsoft's Xbox Live network is already broadband-only.) When this happens, we can expect to see not just games, but entire online environments that people pop into and out of continuously during both their work and leisure time. We have the capacity to create part of William Gibson's vision of cyberspace right now—a "consensual shared hallucination"—but only slowly and, for the most part, in two dimensions. Extremely fast communication will enable us to make it a reality, whether for gaming, working, shopping, or doing any other activity. The technology isn't in doubt; the more important question is, who will control it?
 
 最终，网络速度将变得如此之快，以至于玩家根本无法察觉。
-网络连接将像现在的电灯一样无处不在（微软的 Xbox Live 网络已经是纯宽带的）。(微软的 Xbox Live 网络已经实现了宽带化。）到那时，我们看到的将不仅仅是游戏，而是人们在工作和休闲时间不断进出的整个网络环境。我们现在就有能力创造出威廉-吉布森（William Gibson）所设想的网络空间的一部分--一种 "双方同意的共享幻觉"--但这只是一种缓慢的创造，而且在大多数情况下是二维的。无论是游戏、工作、购物还是其他任何活动，极快的通信速度将使我们能够将其变为现实。技术是毋庸置疑的，更重要的问题是，谁来控制它？
+网络连接将像现在的电灯一样无处不在（微软的 Xbox Live 网络已经是纯宽带的）。(微软的 Xbox Live 网络已经实现了宽带化。）到那时，我们看到的将不仅仅是游戏，而是人们在工作和休闲时间不断进出的整个网络环境。我们现在就有能力创造出威廉-吉布森（William Gibson）所设想的网络空间的一部分——一种 "双方同意的共享幻觉"——但这只是一种缓慢的创造，而且在大多数情况下是二维的。无论是游戏、工作、购物还是其他任何活动，极快的通信速度将使我们能够将其变为现实。技术是毋庸置疑的，更重要的问题是，谁来控制它？
 
 # The Distant Future 遥远的未来
 
@@ -542,11 +539,11 @@ Automated programming doesn't mean, however, that game designers are doomed to e
 One of the many weaknesses that computerized role-playing games suffer in comparison to tabletop RPGs is that their plots are fixed, designed in advance by the developer. As a player, you can ignore the plot if you like, but the game won't be very interesting and you won't go far. To see everything that the game has to offer, you have to meet the challenges that it presents. If you don't, nothing happens. Larger games typically offer several subplots to choose from, so you don't have to do everything in a strictly linear order; nevertheless, what you bought is what you get.
 
 与桌面角色扮演游戏相比，电脑角色扮演游戏有许多弱点，其中之一就是它们的情节是固定的，是开发商事先设计好的。
-作为玩家，你可以无视剧情，但游戏不会很有趣，你也走不远。要想看到游戏中的一切，就必须迎接游戏中的挑战。否则，什么也不会发生。大型游戏通常会提供多个支线剧情供您选择，因此您不必严格按照线性顺序完成所有任务；不过，买到的就是得到的。
+作为玩家，你可以无视剧情，但游戏不会很有趣，你也走不远。要想看到游戏中的一切，就必须迎接游戏中的挑战。否则，什么也不会发生。大型游戏通常会提供多个支线剧情供你选择，因此你不必严格按照线性顺序完成所有任务；不过，买到的就是得到的。
 
 On the other hand, live role playing with a human dungeon master frees players to ignore the dungeon master's intended plot, wander around on their own, and explore areas of particular interest to them. Although this might be frustrating for the dungeon master—particularly if he has spent a lot of time devising an adventure for the party, only to have them completely ignore it—a good DM is capable of adjusting the game to suit the circumstances. The players are much more the masters of their own fates in live role playing. The DM also has the ability to adjust the nature of the challenge to suit the nature of the party—if it is badly damaged, he can surreptitiously see to it that they don't meet anything capable of wiping them out in an instant.
 
-另一方面，与人类地牢主人一起进行现场角色扮演可以让玩家自由地忽略地牢主人预定的情节，自己四处游荡，探索他们特别感兴趣的地方。虽然这可能会让地下城主感到沮丧--尤其是如果他花了很多时间为玩家设计冒险，却发现他们完全忽视了这一点--但一个好的管理者有能力根据具体情况调整游戏。在现场角色扮演中，玩家更像是自己命运的主人。管理者也有能力调整挑战的性质，以适应队伍的性质--如果队伍受到严重破坏，他可以偷偷地确保他们不会遇到任何能够瞬间消灭他们的东西。
+另一方面，与人类地牢主人一起进行现场角色扮演可以让玩家自由地忽略地牢主人预定的情节，自己四处游荡，探索他们特别感兴趣的地方。虽然这可能会让地下城主感到沮丧——尤其是如果他花了很多时间为玩家设计冒险，却发现他们完全忽视了这一点——但一个好的管理者有能力根据具体情况调整游戏。在现场角色扮演中，玩家更像是自己命运的主人。管理者也有能力调整挑战的性质，以适应队伍的性质——如果队伍受到严重破坏，他可以偷偷地确保他们不会遇到任何能够瞬间消灭他们的东西。
 
 This ability to devise new adventures on the fly and to adjust the difficulty of the game to match the abilities of the players is bound to appear in games in the future. At the moment, we have randomly generated adventures in games such as Diablo, but this really applies only to the layout of the rooms and the number of creatures in them. It doesn't change the personalities or dialogue of the nonplaying characters.
 
@@ -556,7 +553,7 @@ This ability to devise new adventures on the fly and to adjust the difficulty of
 
 In 1950, the English mathematician Alan Turing proposed a famous test for determining whether computers are really thinking. Let a computer and a human each chat with another person, the Interrogator, in another room via teletype (today we would use instant messages). The Interrogator must ask them both questions and, on the basis of their responses, try to decide which is the human and which the computer. However, both are trying to persuade the Interrogator that they are human. If in a series of five-minute conversations the Interrogator correctly identifies the real human less than 70% of the time, the computer can be said to be thinking. (Turing's definition was slightly more complicated than this, but this is the generally accepted formulation.) Although it was largely abandoned as a serious goal of AI research, the Turing Test remains a popular informal standard for artificial intelligence.
 
-1950 年，英国数学家艾伦-图灵（Alan Turing）提出了一个著名的测试方法，用来判断计算机是否真的会思考。让一台计算机和一个人在另一个房间里通过电传（今天我们使用即时信息）与另一个人--审问者--聊天。审讯者必须同时向他们提出问题，并根据他们的回答来判断哪个是人类，哪个是计算机。然而，这两个人都在试图说服审讯者他们是人类。如果在一系列五分钟的对话中，审问者能正确辨认出真正人类的时间少于 70%，那么电脑就可以说是在思考。(图灵的定义比这个稍微复杂一些，但这是公认的表述）。虽然图灵测试作为人工智能研究的一个严肃目标已基本被放弃，但它仍然是人工智能的一个流行的非正式标准。
+1950 年，英国数学家艾伦-图灵（Alan Turing）提出了一个著名的测试方法，用来判断计算机是否真的会思考。让一台计算机和一个人在另一个房间里通过电传（今天我们使用即时信息）与另一个人——审问者——聊天。审讯者必须同时向他们提出问题，并根据他们的回答来判断哪个是人类，哪个是计算机。然而，这两个人都在试图说服审讯者他们是人类。如果在一系列五分钟的对话中，审问者能正确辨认出真正人类的时间少于 70%，那么电脑就可以说是在思考。(图灵的定义比这个稍微复杂一些，但这是公认的表述）。虽然图灵测试作为人工智能研究的一个严肃目标已基本被放弃，但它仍然是人工智能的一个流行的非正式标准。
 
 In game development, we have a similar challenge, but the bar is far higher. Turing's test required only that the computer converse in typed text. We hope someday to be able to simulate credible artificial humans, computer-generated characters who look, act, and speak just like real people. Doing this successfully requires vast improvements in many different areas: graphics, animation, physics, simulation, and, of course, many kinds of artificial intelligence. A computer-generated person should be able not only to converse in natural language, but also take part in a political debate or interpret another person's mood just as well as an ordinary human would.
 
@@ -564,7 +561,7 @@ In game development, we have a similar challenge, but the bar is far higher. Tur
 
 Computer games don't need to have artificial people, of course, any more than the telephone company has to have artificial operators. We can let human players play against one another, just as the phone company can hire real people to answer the phone. But artificial people are a key part of the "holodeck" fantasy and are probably its biggest challenge—perhaps even bigger than creating the mechanics of the holodeck itself. It's still a worthwhile goal for game development, even if the solution is centuries off.
 
-当然，电脑游戏不需要人造人，就像电话公司不需要人造接线员一样。我们可以让人类玩家互相对战，就像电话公司可以雇佣真人接听电话一样。但人造人是 "全息甲板 "幻想的关键部分，也可能是其最大的挑战--甚至可能比创造全息甲板本身的机制更大。即使解决方法要经过几个世纪，这仍然是游戏开发的一个值得追求的目标。
+当然，电脑游戏不需要人造人，就像电话公司不需要人造接线员一样。我们可以让人类玩家互相对战，就像电话公司可以雇佣真人接听电话一样。但人造人是 "全息甲板 "幻想的关键部分，也可能是其最大的挑战——甚至可能比创造全息甲板本身的机制更大。即使解决方法要经过几个世纪，这仍然是游戏开发的一个值得追求的目标。
 
 # Interactive Entertainment as an Art Form 作为一种艺术形式的互动娱乐
 
@@ -630,7 +627,7 @@ In the film industry, the Academy Awards are actually presented at two different
 
 We, on the other hand, have muddled this important distinction. You often see awards for "best graphics," but they don't state whether they're being given for technology or aesthetics. Some people think that "best graphics" means graphics that are displayed at the highest frame rate, or that use the most polygons, or that use sophisticated lighting and shading effects. That isn't good graphics, it's good graphic technology—good craft, but not good art. It's the same with sound; one award for "best sound" is supposed to encompass both music composition (an art) and 3D spatialization of ricocheting gunfire (a craft). As for those elements that Hollywood makes the most of—acting and storytelling—we typically give no awards at all. Small wonder, then, that these remain the weakest and most underappreciated parts of games.
 
-而我们却混淆了这一重要区别。你经常会看到 "最佳图形 "奖，但这些奖项并没有说明是因技术还是美学而颁发的。有些人认为，"最佳图形 "是指以最高帧频显示的图形，或使用最多多边形的图形，或使用复杂的光影效果的图形。这不是好的图形，而是好的图形技术--好的工艺，但不是好的艺术。音效也是如此；"最佳音效 "奖应该包括音乐创作（一种艺术）和三维空间化跳弹射击（一种工艺）。至于好莱坞最擅长的表演和讲故事，我们通常不颁发任何奖项。难怪这些仍然是游戏中最薄弱、最不受重视的部分。
+而我们却混淆了这一重要区别。你经常会看到 "最佳图形 "奖，但这些奖项并没有说明是因技术还是美学而颁发的。有些人认为，"最佳图形 "是指以最高帧频显示的图形，或使用最多多边形的图形，或使用复杂的光影效果的图形。这不是好的图形，而是好的图形技术——好的工艺，但不是好的艺术。音效也是如此；"最佳音效 "奖应该包括音乐创作（一种艺术）和三维空间化跳弹射击（一种工艺）。至于好莱坞最擅长的表演和讲故事，我们通常不颁发任何奖项。难怪这些仍然是游戏中最薄弱、最不受重视的部分。
 
 To be recognized as an art form, our awards must change to value the artistic merit of computer games, not merely their technological prowess or craft.
 
@@ -640,7 +637,7 @@ To be recognized as an art form, our awards must change to value the artistic me
 
 Like awards, the game industry is full of game reviews. In fact, that's where most of the awards come from: reviewers. But there's an important difference between reviewing and criticism. A review is a short essay whose purpose is to tell you about the game, to compare it with other similar games, and to give you an idea of whether you might like it and whether it's good value for the money. As they would say in the world of management consulting, it's a decision-support tool—it helps you decide whether to buy the game.
 
-与奖项一样，游戏行业也充满了游戏评论。事实上，大多数奖项都来自于评论者。但评论和批评之间有一个重要的区别。评论是一篇短文，其目的是向你介绍这款游戏，将它与其他同类游戏进行比较，让你知道自己是否会喜欢这款游戏，以及这款游戏是否物有所值。正如管理咨询界所说，这是一个决策支持工具--它能帮助你决定是否购买这款游戏。
+与奖项一样，游戏行业也充满了游戏评论。事实上，大多数奖项都来自于评论者。但评论和批评之间有一个重要的区别。评论是一篇短文，其目的是向你介绍这款游戏，将它与其他同类游戏进行比较，让你知道自己是否会喜欢这款游戏，以及这款游戏是否物有所值。正如管理咨询界所说，这是一个决策支持工具——它能帮助你决定是否购买这款游戏。
 
 Criticism is not a decision-support tool. Criticism does discuss the basic competence of an art work, but it seldom goes into the question of whether it's good value for the money. The purpose of criticism is to increase understanding, to interpret a work of art in light not only of other, similar works, but also of the larger cultural and historical context in which it appears. It's not enough for critics to know all about other games. Critics must bring to their work a wide reading and an understanding of aesthetics, culture, and the human condition.
 
@@ -674,13 +671,13 @@ The Impressionist movement in painting is another useful example of what breakin
 
 Interactive entertainment needs an Impressionism of its own, a daring, risk-taking movement to break through the tired old tropes—not a new way of seeing, but a new way of playing. We hope that you, our reader, might be our new Monet or Cassatt.
 
-互动娱乐需要一种属于自己的 "印象派"，一种敢于冒险、突破陈规的运动--不是一种新的观看方式，而是一种新的游戏方式。我们希望您--我们的读者--能成为我们新的莫奈或卡萨特。
+互动娱乐需要一种属于自己的 "印象派"，一种敢于冒险、突破陈规的运动——不是一种新的观看方式，而是一种新的游戏方式。我们希望你——我们的读者——能成为我们新的莫奈或卡萨特。
 
 # A Few Final Words 最后几句话
 
 This book doesn't include everything there is to know about game design—that would be a work of many volumes. Instead, we've tried to cover the key tasks in designing computer games, and to identify the recurring elements in the most common commercial game genres. We hope that our book has given you the foundations on which to build the design for the great game that you have in your head.
 
-本书并不包括游戏设计的所有知识--那将是一部多卷本的著作。相反，我们试图涵盖设计电脑游戏的关键任务，并找出最常见的商业游戏类型中重复出现的元素。我们希望本书能为你提供一个基础，让你能设计出你脑海中的伟大游戏。
+本书并不包括游戏设计的所有知识——那将是一部多卷本的著作。相反，我们试图涵盖设计电脑游戏的关键任务，并找出最常见的商业游戏类型中重复出现的元素。我们希望本书能为你提供一个基础，让你能设计出你脑海中的伟大游戏。
 
 Computer games are the most important new entertainment medium since the invention of motion pictures. Uniquely among all forms of entertainment, they combine the interactivity of traditional gaming with the visual impact and narrative power of the movies. Put simply, computer games enable players to live out fantasies that they could never experience in real life, and this is the source of their enduring appeal. It is your task as a designer to turn those fantasies into immersive and rewarding games. Go to it, and good luck!
 
