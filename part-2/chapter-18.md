@@ -262,11 +262,11 @@ The solution to this problem, even more processor-intensive than inverse kinemat
 
 Not long after computers were invented, early artificial intelligence researchers confidently predicted that they would have programs speaking and understanding English within 10 years. Fifty years later, we're not significantly closer to that goal. Computers do use language to communicate with their users, but it's almost entirely by means of prescripted sentences. Few programs have been devised that can express meaning by generating sentences from individual words, and those few usually do so over a very limited domain.
 
-计算机发明后不久，早期的人工智能研究人员就自信地预测，他们将在 10 年内开发出能说英语和听懂英语的程序。50 年后的今天，我们离这一目标还差得很远。计算机确实使用语言与用户交流，但几乎完全是通过预设的句子。很少有程序能通过从单个单词生成句子来表达意思，而且这些程序通常只能在非常有限的领域内使用。
+计算机发明后不久，早期的人工智能研究人员自信地预测，他们将在 10 年内开发出能说英语和听懂英语的程序。五十年后的今天，我们离这一目标依然相去甚远。计算机确实使用语言与用户交流，但几乎完全是通过预设的句子。很少有程序能通过从单个单词生成句子来表达意思，而且这些程序通常只能在非常有限的领域内使用。
 
 It turns out that generating and understanding natural language is an exceedingly hard problem. Large areas of the human brain are devoted to it. Language comprehension involves much more than understanding the dictionary definitions of the words and the rules of grammar; it also takes into account the relationships between the speakers, their physical circumstances, the sorts of routine conversational scripts that we follow, and many other variables. To give an extremely simple example, a person who is drowning might shout "Help!" to those on shore, and a person on shore who can't offer help himself for some reason might also shout "Help!". The first person obviously means "help me" while the second means "help him." It's up to the listener to observe the situation and draw the correct conclusion about who needs help. Most of us could do this in a fraction of a second, but at the moment, no computer program can do so at all. A great deal of natural language comprehension is tied into something called "common sense," but common sense is so enormous and illogical that we don't even know how to start to teach it to computers.
 
-事实证明，生成和理解自然语言是一个极其困难的问题。人类大脑的大部分区域都用于此。语言理解所涉及的远不止是理解字典中的词义和语法规则，它还需要考虑说话者之间的关系、他们所处的物理环境、我们所遵循的各种常规对话脚本以及许多其他变量。举个极其简单的例子，一个人溺水了，他可能会向岸上的人喊 “救命！”，而岸上的人由于某种原因无法提供帮助，也可能会喊 “救命！”。第一个人的意思显然是 “救救我”，而第二个人的意思是 “救救他”。这就需要听者观察情况，得出谁需要帮助的正确结论。我们大多数人都能在几分之一秒内做到这一点，但目前还没有计算机程序能做到这一点。很多自然语言理解都与一种叫做 “常识 ”的东西息息相关，但常识是如此庞大和不合逻辑，以至于我们甚至不知道如何开始把它教给计算机。
+事实证明，生成和理解自然语言是一个极其困难的问题。人类大脑的大部分区域都用于此。语言理解所涉及的远不止是理解字典中的词义和语法规则，它还需要考虑说话者之间的关系、他们所处的物理环境、我们所遵循的各种常规对话脚本以及许多其他变量。举个极其简单的例子，一个人溺水了，他可能会向岸上的人喊“救命！”，而岸上的人由于某种原因无法提供帮助，也可能会喊“救命！”。第一个人的意思显然是“救救我”，而第二个人的意思是“救救他”。这就需要听者观察情况，得出谁需要帮助的正确结论。我们大多数人都能在几分之一秒内做到这一点，但目前还没有计算机程序能做到这一点。很多自然语言理解都与一种叫做“常识”的东西息息相关，但常识是如此庞大和不合逻辑，以至于我们甚至不知道如何开始把它教给计算机。
 
 Nevertheless, natural language processing will be extremely significant in the games of the future. There are two problems to solve: language recognition and language generation.
 
@@ -280,17 +280,17 @@ Language recognition isn't the same as voice recognition, which we've already de
 
 Giving orders in English will be a lot of fun, as long as it doesn't prove to be less efficient than doing it by other means. Most games provide a fairly restricted domain, so orders such as "Attack," "Hold your ground," and even "Start a diversion on the west side of the enemy base" won't be too difficult to interpret. But the real challenge for language recognition will be in games with simulated characters, with whom the player wants to have conversations. Early text-based adventure games did a certain amount of this, but most of that work was abandoned with the arrival of graphical adventure games and scripted conversations. For the moment, most programs that try to do language recognition sort of fake it, guessing what the player means from keywords in the input and responding more or less appropriately depending on how good the guess was. It will probably require several more decades of AI research before we can do language recognition well.
 
-用英语发号施令会非常有趣，只要不比用其他方式效率低就行。大多数游戏都提供了相当有限的领域，因此诸如 “进攻”、“坚守阵地”，甚至 “在敌人基地西侧开始转移 ”之类的命令并不难解释。但是，语言识别的真正挑战在于游戏中的模拟角色，玩家希望与这些角色进行对话。早期的文字冒险游戏在这方面做了一些工作，但随着图形冒险游戏和脚本对话的出现，大部分工作都被放弃了。目前，大多数试图进行语言识别的程序都是伪造的，它们从输入的关键字中猜测玩家的意思，并根据猜测的准确程度做出或多或少的反应。要做好语言识别，可能还需要几十年的人工智能研究。
+用英语发号施令会非常有趣，只要不比用其他方式效率低就行。大多数游戏都提供了相当有限的领域，因此诸如“进攻”、“坚守阵地”，甚至“在敌人基地西侧开始转移”之类的命令并不难解释。但是，语言识别的真正挑战在于游戏中的模拟角色，玩家希望与这些角色进行对话。早期的文字冒险游戏在这方面做了一些工作，但随着图形冒险游戏和脚本对话的出现，大部分工作都被放弃了。目前，大多数试图进行语言识别的程序都是伪造的，它们从输入的关键字中猜测玩家的意思，并根据猜测的准确程度做出或多或少的反应。要做好语言识别，可能还需要几十年的人工智能研究。
 
 ### Language Generation 语言生成
 
 Simple language generation—assembling prerecorded phrases into sentences—is less difficult than language recognition. Unlike parsing user input, which could be anything, as designers we can limit the scope of what a game character says and guarantee that it's grammatically correct. We're already starting to get good doing this and play it back smoothly, and this will continue to improve.
 
-简单的语言生成--将预先录制的短语组合成句子--没有语言识别那么困难。与解析用户输入不同，用户输入可以是任何内容，而作为设计者，我们可以限制游戏角色所说内容的范围，并保证其语法正确。我们已经开始熟练地做到这一点，并能流畅地回放，而且还会不断改进。
+简单的语言生成——将预先录制的短语组合成句子——没有语言识别那么困难。与解析用户输入不同，用户输入可以是任何内容，而作为设计者，我们可以限制游戏角色所说内容的范围，并保证其语法正确。我们已经开始熟练地做到这一点，并能流畅地回放，而且还会不断改进。
 
 In the near future, we can't expect to have wide-ranging conversations with artificial characters, but we ought to be able to simulate reasonable interactions in stereotypical sorts of situations: bartenders, gas-station attendants, invading aliens, and so on. For now, these will probably remain scripted conversations, but we might be able to replace the current mechanism, in which the game just delivers a canned piece of dialogue, with a sentence assembled from semantic fragments that vary somewhat depending on the character's state of mind. To give a trivial example, take the sentence "I don't know" as a response to a question to which the character doesn't have the answer. If the character feels sympathetic to the player, the software could add "I'm sorry, but" before the sentence; if the character feels unsympathetic, it could add, "and I don't care" at the end.
 
-在不久的将来，我们不能指望与人工角色进行广泛的对话，但我们应该能够模拟在刻板印象中的各种情况下的合理互动：酒保、加油站服务员、入侵的外星人等等。目前，这些对话可能仍将是脚本对话，但我们或许可以用语义片段组成的句子取代当前的机制，即游戏只是提供一段预制对话，而语义片段会根据角色的心理状态而有所变化。举个微不足道的例子，以 “我不知道 ”这句话来回答一个角色没有答案的问题。如果角色同情玩家，软件可以在句子前加上 “对不起，但是”；如果角色不同情玩家，软件可以在句尾加上 “我不在乎”。
+在不久的将来，我们不能指望与人工角色进行广泛的对话，但我们应该能够模拟在刻板印象中的各种情况下的合理互动：酒保、加油站服务员、入侵的外星人等等。目前，这些对话可能仍将是脚本对话，但我们或许可以用语义片段组成的句子取代当前的机制，即游戏只是提供一段预制对话，而语义片段会根据角色的心理状态而有所变化。举个微不足道的例子，以“我不知道”这句话来回答一个角色没有答案的问题。如果角色同情玩家，软件可以在句子前加上“对不起，但是”；如果角色不同情玩家，软件可以在句尾加上 “我不在乎”。
 
 Real language use, in the sense of converting a character's mental desire to make a "speech act," along with the semantic content of that act, into an actual utterance, is a far harder problem. Games will undoubtedly be able to do it someday, but, as with language recognition, this is primarily a subject for AI research at the moment.
 
