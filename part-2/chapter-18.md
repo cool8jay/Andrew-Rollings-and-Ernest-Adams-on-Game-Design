@@ -550,21 +550,21 @@ This ability to devise new adventures on the fly and to adjust the difficulty of
 
 In 1950, the English mathematician Alan Turing proposed a famous test for determining whether computers are really thinking. Let a computer and a human each chat with another person, the Interrogator, in another room via teletype (today we would use instant messages). The Interrogator must ask them both questions and, on the basis of their responses, try to decide which is the human and which the computer. However, both are trying to persuade the Interrogator that they are human. If in a series of five-minute conversations the Interrogator correctly identifies the real human less than 70% of the time, the computer can be said to be thinking. (Turing's definition was slightly more complicated than this, but this is the generally accepted formulation.) Although it was largely abandoned as a serious goal of AI research, the Turing Test remains a popular informal standard for artificial intelligence.
 
-1950 年，英国数学家艾伦-图灵（Alan Turing）提出了一个著名的测试方法，用来判断计算机是否真的会思考。让一台计算机和一个人在另一个房间里通过电传（今天我们使用即时信息）与另一个人——审问者——聊天。审讯者必须同时向他们提出问题，并根据他们的回答来判断哪个是人类，哪个是计算机。然而，这两个人都在试图说服审讯者他们是人类。如果在一系列五分钟的对话中，审问者能正确辨认出真正人类的时间少于 70%，那么电脑就可以说是在思考。(图灵的定义比这个稍微复杂一些，但这是公认的表述）。虽然图灵测试作为人工智能研究的一个严肃目标已基本被放弃，但它仍然是人工智能的一个流行的非正式标准。
+1950 年，英国数学家艾伦·图灵提出了一个著名的测试方法，用来判断计算机是否真的会思考。让一台计算机和一个人在另一个房间里通过电传打字机（今天我们使用即时信息）与另一个人——审问者——聊天。审讯者必须同时向他们提出问题，并根据他们的回答来判断哪个是人类，哪个是计算机。然而，这两个人都在试图说服审讯者他们是人类。如果在一系列五分钟的对话中，审问者能正确辨认出真正人类的比例低于 70%，那么计算机就可以说是在思考。(图灵的定义比这个稍微复杂一些，但这是公认的表述）。虽然图灵测试作为人工智能研究的一个严肃目标已基本被放弃，但它仍然是人工智能的一个流行的非正式标准。
 
 In game development, we have a similar challenge, but the bar is far higher. Turing's test required only that the computer converse in typed text. We hope someday to be able to simulate credible artificial humans, computer-generated characters who look, act, and speak just like real people. Doing this successfully requires vast improvements in many different areas: graphics, animation, physics, simulation, and, of course, many kinds of artificial intelligence. A computer-generated person should be able not only to converse in natural language, but also take part in a political debate or interpret another person's mood just as well as an ordinary human would.
 
-在游戏开发中，我们面临着类似的挑战，但标准要高得多。图灵测试只要求计算机以打字文本进行对话。我们希望有一天能够模拟出可信的人造人，即计算机生成的角色，其外观、行为和语言都与真人无异。要成功做到这一点，需要在许多不同领域取得巨大进步：图形、动画、物理、模拟，当然还有多种人工智能。计算机生成的人不仅应该能用自然语言交谈，而且还应该能与其他人交流。
+在游戏开发中，我们面临着类似的挑战，但标准要高得多。图灵测试只要求计算机以打字文本进行对话。我们希望有一天能够模拟出可信的人造人，即计算机生成的角色，其外观、行为和语言都与真人无异。要成功做到这一点，需要在许多不同领域取得巨大进步：图形、动画、物理、模拟，当然还有多种人工智能。计算机生成的人不仅能用自然语言交谈，还能像普通人一样参与政治辩论或解读他人的情绪。
 
 Computer games don't need to have artificial people, of course, any more than the telephone company has to have artificial operators. We can let human players play against one another, just as the phone company can hire real people to answer the phone. But artificial people are a key part of the "holodeck" fantasy and are probably its biggest challenge—perhaps even bigger than creating the mechanics of the holodeck itself. It's still a worthwhile goal for game development, even if the solution is centuries off.
 
-当然，电脑游戏不需要人造人，就像电话公司不需要人造接线员一样。我们可以让人类玩家互相对战，就像电话公司可以雇佣真人接听电话一样。但人造人是 "全息甲板 "幻想的关键部分，也可能是其最大的挑战——甚至可能比创造全息甲板本身的机制更大。即使解决方法要经过几个世纪，这仍然是游戏开发的一个值得追求的目标。
+当然，电脑游戏不需要人造人，就像电话公司不需要人造接线员一样。我们可以让人类玩家互相对战，就像电话公司可以雇佣真人接听电话一样。但人造人是“全息甲板”幻想的关键部分，也可能是其最大的挑战——甚至可能比创造全息甲板本身的机制更大。即使解决方法要经过几个世纪，这仍然是游戏开发的一个值得追求的目标。
 
 # Interactive Entertainment as an Art Form 作为一种艺术形式的互动娱乐
 
 In thinking about the future of interactive entertainment, it would be a mistake to consider only the advances that are likely to take place in the world of commercial, mass-market gaming. That would be like assuming that the potential of cinema was limited to what you see in Hollywood blockbusters, or that the written word was capable of no more than Danielle Steel novels. Interactive entertainment is an art form, just as filmmaking and writing are. Unlike filmmaking and writing, however, it has not yet been recognized as an art form by the public at large.
 
-在思考互动娱乐的未来时，如果只考虑商业化、大众化游戏世界可能取得的进步，那就大错特错了。这就好比假设电影的潜力仅限于你在好莱坞大片中看到的东西，或者书面文字只能写丹尼尔-斯蒂尔（Danielle Steel）的小说一样。互动娱乐是一种艺术形式，就像电影制作和写作一样。然而，与电影制作和写作不同的是，它还没有被大众认可为一种艺术形式。
+在思考互动娱乐的未来时，如果只考虑商业化、大众化游戏世界可能取得的进步，那就大错特错了。这就好比假设电影的潜力仅限于你在好莱坞大片中看到的东西，或者书面文字的潜力仅限于丹尼尔·斯蒂尔的小说。互动娱乐是一种艺术形式，就像电影制作和写作一样。然而，与电影制作和写作不同的是，它是还没有被大众认可为一种艺术形式。
 
 Film has the advantage that it is an outgrowth of drama, and, of course, drama was recognized as an art form by no less a figure than Aristotle. It took film a little while to achieve this status, but it is now unshakable. Computer games' roots are not in drama, however, but in gameplay. Their nearest noncomputerized parallels are board games and fairground shooting galleries, neither of which are or ever will be recognized as art forms. As a result, we face an uphill battle for recognition.
 
@@ -582,11 +582,11 @@ Most works of art require only passive observation, especially in traditional me
 
 There's no reason why works of art can't be interactive, however, and some are. In San Francisco, a science museum called the Exploratorium considers its exhibits to be works of art, and it actively seeks out artists to design them. Most of the exhibits are interactive, offering a learning experience as well as an aesthetic experience; they illustrate principles of nature, but also principles of design.
 
-然而，艺术作品没有理由不具有互动性，有些艺术作品就具有互动性。在旧金山，一家名为 "探索馆"（Exploratorium）的科学博物馆将其展品视为艺术品，并积极寻找艺术家来设计展品。大多数展品都是互动式的，既能提供学习体验，又能带来审美体验；既能说明自然原理，又能说明设计原理。
+然而，艺术作品没有理由不具有互动性，有些艺术作品就具有互动性。在旧金山，一家名为“探索馆”的科学博物馆将其展品视为艺术品，并积极寻找艺术家来设计展品。大多数展品都是互动式的，既能提供学习体验，又能带来审美体验；既能说明自然原理，又能说明设计原理。
 
 Not all interactive entertainment is art, but then, neither are all movies or all novels. Most movies—and most novels, too, for that matter—are merely light entertainment, popular culture. But just because James Bond novels and James Bond movies aren't generally considered to be art doesn't mean that film or the novel isn't an art form. Interactive entertainment is a collaborative art form in the same way that movies are, and it can be judged according to a variety of aesthetics the way movies are.
 
-并非所有的互动娱乐都是艺术，但也并非所有的电影或小说都是艺术。大多数电影和大多数小说都只是轻松的娱乐和大众文化。但是，詹姆斯-邦德小说和詹姆斯-邦德电影一般不被视为艺术，这并不意味着电影或小说不是一种艺术形式。互动娱乐与电影一样，也是一种合作的艺术形式，可以像电影一样根据各种美学标准来评判。
+并非所有的互动娱乐都是艺术，但也并非所有的电影或小说都是艺术。大多数电影和大多数小说都只是轻松的娱乐和大众文化。但是，詹姆斯·邦德小说和詹姆斯·邦德电影一般不被视为艺术，这并不意味着电影或小说不是一种艺术形式。互动娱乐与电影一样，也是一种合作的艺术形式，可以像电影一样根据各种美学标准来评判。
 
 ## Requirements for Recognition 获得认可的要求
 
@@ -598,7 +598,7 @@ For interactive entertainment to be recognized as an art form, it must do some o
 
 More than 20 years ago, Chris Crawford mentioned in his book The Art of Computer Game Design that the interactive entertainment medium needs principles of aesthetics. It remains true today. We're not much farther along than when he wrote that, though, for two reasons.
 
-20 多年前，克里斯-克劳福德（Chris Crawford）在其著作《电脑游戏设计艺术》（The Art of Computer Game Design）中提到，互动娱乐媒体需要美学原则。时至今日，这句话依然适用。不过，与他写这本书时相比，我们并没有走得更远，原因有二。
+20 多年前，克里斯·克劳福德在其著作《电脑游戏设计艺术》中提到，互动娱乐媒体需要美学原则。时至今日，这句话依然适用。不过，与他写这本书时相比，我们并没有走得更远，原因有二。
 
 First, the serious study of computer games has only just begun. The commercial world is too busy churning out games as fast as it can to think deeply about them, and until recently, the academic world has ignored them as childish toys rather than important elements of popular culture. This is starting to change, and as we begin to see real analysis of computer games, principles of aesthetics will arise.
 
@@ -606,11 +606,11 @@ First, the serious study of computer games has only just begun. The commercial w
 
 Second, computer games have been a rapidly moving target. Games have changed, at least in appearance and depth, far more in the last 20 years than movies or television did in any 20-year period of their history, partly because of the rapid development of new hardware. The principles of interactive entertainment aesthetics should perhaps be independent of hardware developments, but this is easier said than done. It took 20 millennia to go from cave paintings to color photography; computer games have made a similar journey in two decades.
 
-其次，电脑游戏是一个迅速发展的目标。在过去的 20 年里，游戏至少在外观和深度上的变化远远超过电影或电视在其历史上任何 20 年的变化，部分原因是新硬件的快速发展。互动娱乐美学的原则或许应该独立于硬件的发展，但说起来容易做起来难。从洞穴壁画到彩色摄影用了 20 千年的时间，而电脑游戏在 20 年内也走过了类似的历程。
+其次，电脑游戏是一个迅速发展的目标。在过去的 20 年里，游戏至少在外观和深度上的变化远远超过电影或电视在其历史上任何 20 年的变化，部分原因是新硬件的快速发展。互动娱乐美学的原则或许应该独立于硬件的发展，但说起来容易做起来难。从洞穴壁画到彩色摄影用了两万年的时间，而电脑游戏在 20 年内也走过了类似的历程。
 
 However, we're already on the right track. We've all seen games that were clunky and awkward to use and others that were smooth and seamless. We've all noticed games with tacky, slapped-together graphics and others with elegant and atmospheric graphics. These are good first approximations for game aesthetics. At the moment, they are purely surface impressions, the equivalent of showing basic competence at oil painting or music composition. To be a great painter or a great composer, you must go beyond basic competence; you must reach out and touch your audience's soul. Interactive entertainment is capable of doing this, but it seldom does, and we have yet to devise an aesthetic for it.
 
-不过，我们已经走在了正确的道路上。我们都见过笨拙难用的游戏，也见过流畅无缝的游戏。我们都注意到，有的游戏画面俗气、千篇一律，而有的游戏画面优雅、大气。这些都是对游戏美学的初步概括。目前，它们只是纯粹的表面印象，相当于展示了油画或音乐创作的基本能力。要成为一名伟大的画家或作曲家，你必须超越基本能力；你必须触及并触动观众的灵魂。互动娱乐能够做到这一点，但它很少做到，我们还没有为它设计出一种美学。
+不过，我们已经走在了正确的道路上。我们都见过笨拙难用的游戏，也见过流畅无缝的游戏。我们都注意到，有的游戏画面俗气、七拼八凑，而有的游戏画面优雅大气。这些都是对游戏美学的初步概括。目前，它们只是纯粹的表面印象，相当于展示了油画或音乐创作的基本能力。要成为一名伟大的画家或作曲家，你必须超越基本能力；你必须触及并触动观众的灵魂。互动娱乐有能力做到这一点，但它很少这样做，我们还没有为它制定出一种美学。
 
 ### Our Awards Must Change 我们的奖项必须改变
 
@@ -620,11 +620,11 @@ The game industry is ridiculously full of awards, mostly given by magazines or w
 
 In the film industry, the Academy Awards are actually presented at two different ceremonies. One is the glittering spectacle that everyone knows, broadcast live on TV and attended by movie stars and Hollywood bigwigs. The other is for the technical awards. It's a much smaller affair, usually held in a hotel ballroom, and attended only by technical people, the film industry's craftsmen. The "big" Oscars that everyone hears about are all about art: acting, storytelling, art direction, music composition, and so on. The technical Oscars are all about craft: new equipment and techniques that have advanced the craft of moviemaking.
 
-在电影界，奥斯卡奖实际上是在两个不同的仪式上颁发的。一个是人人皆知、电视直播、影星和好莱坞大腕云集的盛大典礼。另一个是技术奖项。规模要小得多，通常在酒店宴会厅举行，只有技术人员、电影业的工匠参加。每个人都听说过的奥斯卡 "大 "奖都是关于艺术的：表演、讲故事、艺术指导、音乐创作等等。而奥斯卡技术奖的主题则是工艺：推动电影制作工艺发展的新设备和新技术。
+在电影界，奥斯卡奖实际上是在两个不同的仪式上颁发的。一个是人人皆知、电视直播、影星和好莱坞大腕云集的盛大典礼。另一个是技术奖项。规模要小得多，通常在酒店宴会厅举行，只有技术人员、电影业的工匠参加。每个人都听说过的奥斯卡“大”奖都是关于艺术的：表演、剧情、艺术指导、作曲等等。而奥斯卡技术奖的主题则是工艺：推动电影制作工艺发展的新设备和新技术。
 
 We, on the other hand, have muddled this important distinction. You often see awards for "best graphics," but they don't state whether they're being given for technology or aesthetics. Some people think that "best graphics" means graphics that are displayed at the highest frame rate, or that use the most polygons, or that use sophisticated lighting and shading effects. That isn't good graphics, it's good graphic technology—good craft, but not good art. It's the same with sound; one award for "best sound" is supposed to encompass both music composition (an art) and 3D spatialization of ricocheting gunfire (a craft). As for those elements that Hollywood makes the most of—acting and storytelling—we typically give no awards at all. Small wonder, then, that these remain the weakest and most underappreciated parts of games.
 
-而我们却混淆了这一重要区别。你经常会看到 "最佳图形 "奖，但这些奖项并没有说明是因技术还是美学而颁发的。有些人认为，"最佳图形 "是指以最高帧频显示的图形，或使用最多多边形的图形，或使用复杂的光影效果的图形。这不是好的图形，而是好的图形技术——好的工艺，但不是好的艺术。音效也是如此；"最佳音效 "奖应该包括音乐创作（一种艺术）和三维空间化跳弹射击（一种工艺）。至于好莱坞最擅长的表演和讲故事，我们通常不颁发任何奖项。难怪这些仍然是游戏中最薄弱、最不受重视的部分。
+而我们却混淆了这一重要区别。你经常会看到“最佳图形”奖，但这些奖项并没有说明是因技术还是美学而颁发的。有些人认为，“最佳图形”是指以最高帧频显示的图形，或使用最多多边形的图形，或使用复杂的光影效果的图形。这不是好的图形，而是好的图形技术——好的工艺，但不是好的艺术。音效也是如此；“最佳音效”奖应该包括音乐创作（一种艺术）和三维空间化跳弹射击（一种工艺）。至于好莱坞最擅长的表演和讲故事，我们通常不颁发任何奖项。难怪这些仍然是游戏中最薄弱、最不受重视的部分。
 
 To be recognized as an art form, our awards must change to value the artistic merit of computer games, not merely their technological prowess or craft.
 
