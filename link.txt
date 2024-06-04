@@ -564,3 +564,6 @@
 
 [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park)
 [《侏罗纪公园》](https://en.wikipedia.org/wiki/Jurassic_Park)
+
+[2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
+[《2001：太空漫游》](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)

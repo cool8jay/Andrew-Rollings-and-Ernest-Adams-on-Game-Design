@@ -630,7 +630,7 @@ To be recognized as an art form, our awards must change to value the artistic me
 
 要想获得艺术形式的认可，我们的奖项就必须改变，重视电脑游戏的艺术价值，而不仅仅是其技术实力或工艺。
 
-### We Need Critics, Not Just Reviewers 我们需要批评家，而不仅仅是评论家
+### We Need Critics, Not Just Reviewers 我们需要批评者，而不仅仅是评论者
 
 Like awards, the game industry is full of game reviews. In fact, that's where most of the awards come from: reviewers. But there's an important difference between reviewing and criticism. A review is a short essay whose purpose is to tell you about the game, to compare it with other similar games, and to give you an idea of whether you might like it and whether it's good value for the money. As they would say in the world of management consulting, it's a decision-support tool—it helps you decide whether to buy the game.
 
@@ -638,15 +638,15 @@ Like awards, the game industry is full of game reviews. In fact, that's where mo
 
 Criticism is not a decision-support tool. Criticism does discuss the basic competence of an art work, but it seldom goes into the question of whether it's good value for the money. The purpose of criticism is to increase understanding, to interpret a work of art in light not only of other, similar works, but also of the larger cultural and historical context in which it appears. It's not enough for critics to know all about other games. Critics must bring to their work a wide reading and an understanding of aesthetics, culture, and the human condition.
 
-批评不是决策支持工具。批评的确会讨论艺术作品的基本能力，但很少会涉及是否物有所值的问题。批评的目的是增进理解，不仅要根据其他类似作品，还要根据作品所处的更大的文化和历史背景来解读艺术作品。评论家仅仅了解其他游戏是不够的。评论家必须对美学、文化和人类状况有广泛的阅读和理解。
+批评不是决策支持工具。批评的确会讨论艺术作品的基本能力，但很少会涉及是否物有所值的问题。批评的目的是增进理解，不仅要根据其他类似作品，还要根据作品所处的更大的文化和历史背景来解读艺术作品。批评者仅仅了解其他游戏是不够的。批评者必须广泛涉猎美学、文化以及人类状况，并把这些理解带入他们的批评文章中。
 
-The movie 2001: A Space Odyssey is a perfect example of why an art form needs critics as well as reviewers. 2001 left the movie reviewers severely confused because it was almost impossible to compare to other movies. It had very little action: no car chases, no fight scenes, no romance, and almost no discernible plot. In fact, it contained very little acting either: The characters in it were intentionally dull and wooden. Movie reviewers simply didn't know what to say about it, and quite a few of them panned it because it didn't contain any of what they thought were "essential" elements of a movie. The film critics, on the other hand, had a field day. 2001 was rich with ideas, crammed with them right to the final frame. It provoked thought about everything from the origin of human intelligence (and perhaps human violence) to our ultimate destiny in the universe. Along the way, it looked at the sterile lives of astronauts and bureaucrats, poked fun at the way we eat, and raised questions about the wisdom of placing human lives under the control of artificially intelligent machines.
+The movie [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) is a perfect example of why an art form needs critics as well as reviewers. [2001](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) left the movie reviewers severely confused because it was almost impossible to compare to other movies. It had very little action: no car chases, no fight scenes, no romance, and almost no discernible plot. In fact, it contained very little acting either: The characters in it were intentionally dull and wooden. Movie reviewers simply didn't know what to say about it, and quite a few of them panned it because it didn't contain any of what they thought were "essential" elements of a movie. The film critics, on the other hand, had a field day. [2001](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) was rich with ideas, crammed with them right to the final frame. It provoked thought about everything from the origin of human intelligence (and perhaps human violence) to our ultimate destiny in the universe. Along the way, it looked at the sterile lives of astronauts and bureaucrats, poked fun at the way we eat, and raised questions about the wisdom of placing human lives under the control of artificially intelligent machines.
 
-电影《2001：太空漫游》（2001: A Space Odyssey）是一个完美的例子，说明了为什么一种艺术形式需要评论家和影评人。2001》让影评人大惑不解，因为它几乎无法与其他电影相提并论。它的动作戏很少：没有追车、没有打斗场面、没有浪漫爱情，几乎没有可辨别的情节。事实上，它也没有什么演技：影片中的人物刻意表现得呆板木讷。影评人根本不知道该怎么评价这部电影，很多人都不看好这部电影，因为它没有包含任何他们认为的电影 "基本 "元素。而另一方面，影评人却对它赞不绝口。2001》充满了各种想法，直到最后一帧都是。从人类智慧的起源（也许还有人类的暴力）到我们在宇宙中的终极命运，它引发了人们对一切的思考。一路走来，它审视了宇航员和官僚的无菌生活，嘲笑了我们的饮食方式，并提出了将人类生命置于人工智能机器控制之下是否明智的问题。
+[《2001：太空漫游》](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)是一个完美的例子，说明了为什么一种艺术形式需要批评者和评论者。[《2001》](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)让影评人大惑不解，因为它几乎无法与其他电影相提并论。它的动作戏很少：没有追车、没有打斗场面、没有浪漫爱情，几乎没有可辨别的情节。事实上，它也没有什么演技：影片中的人物刻意表现得呆板木讷。影评人根本不知道该怎么评价这部电影，很多人批评这部电影，因为它没有包含任何他们认为的电影“基本”元素。而另一方面，批评者却对它赞不绝口。[《2001》](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)充满了各种想法，直到最后一帧都是。从人类智慧的起源（也许还有人类的暴力）到我们在宇宙中的终极命运，它引发了人们对一切的思考。一路走来，它审视了宇航员和官僚的无菌生活，嘲笑了我们的饮食方式，并提出了将人类生命置于人工智能机器控制之下是否明智的问题。
 
-2001: A Space Odyssey is a great work of art and one of the most important movies ever made. But by conventional movie reviewers' standards, it was just a curiosity, perhaps even a failure. That is why the interactive medium needs critics as well as reviewers.
+[2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) is a great work of art and one of the most important movies ever made. But by conventional movie reviewers' standards, it was just a curiosity, perhaps even a failure. That is why the interactive medium needs critics as well as reviewers.
 
-2001：太空漫游》是一部伟大的艺术作品，也是有史以来最重要的电影之一。但按照传统电影评论家的标准，它只是一部好奇之作，甚至可能是一部失败之作。这就是互动媒体需要评论家和影评人的原因。
+[《2001：太空漫游》](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)是一部伟大的艺术作品，也是有史以来最重要的电影之一。但按照传统影评人的标准，它只是一部好奇之作，甚至可能是一部失败之作。这就是互动媒体需要批评者和评论者的原因。
 
 ## Breaking New Ground 开辟新天地
 
@@ -656,7 +656,7 @@ Ultimately, the greatest works of art are those that break new ground. They chan
 
 Some works of art deserve high praise because they are masterpieces of technique, taking a medium right to its physical limits while still demonstrating superb aesthetic feeling. Michelangelo's colossal statue of David is a good example. But although it's occasionally useful to take a medium to its limits as a technical exercise, it doesn't necessarily produce great art, especially if aesthetics are sacrificed or ignored for the sake of technical achievement. And the problem with doing this in computer games is that the limits are always changing. The challenge that Michelangelo faced, working in marble, is still the same for any sculptor working in the same medium. But in computer games, the medium changes almost week by week. Today's technical marvel is tomorrow's irrelevancy.
 
-有些艺术作品值得高度赞扬，因为它们是技艺的杰作，在将某种媒介发挥到物理极限的同时，仍然展现出高超的审美感受。米开朗基罗的巨型雕像《大卫》就是一个很好的例子。不过，虽然偶尔将一种媒介发挥到极限作为一种技术练习是有用的，但并不一定能产生伟大的艺术，尤其是如果为了技术成就而牺牲或忽视了美学的话。在电脑游戏中这样做的问题在于，极限总是在不断变化。米开朗基罗在大理石上创作时所面临的挑战，对于任何在相同媒介上创作的雕塑家来说都是一样的。但在电脑游戏中，媒介几乎每周都在变化。今天的技术奇迹明天就会变得毫无意义。
+有些艺术作品值得高度赞扬，因为它们是技艺的杰作，在将某种媒介发挥到物理极限的同时，仍然展现出高超的审美感受。米开朗基罗的巨型雕像《大卫》就是一个很好的例子。不过，虽然偶尔将一种媒介发挥到极限作为一种技术练习是有用的，但并不一定能产生伟大的艺术，尤其是如果为了技术成就而牺牲或忽视了美学的话。在电脑游戏中这样做的问题在于，极限总是在不断变化。米开朗基罗在大理石上创作时所面临的挑战，对于任何在相同媒介上创作的雕塑家来说都是一样的。但在电脑游戏中，媒介几乎每周都在变化。今天的技术奇迹明天就会变得平平无奇。
 
 Michelangelo's most important achievement in sculpting David was not technical, but artistic. The traditional way of portraying David was as victorious, armed and holding Goliath's severed head. Michelangelo chose instead to depict David before the battle, vulnerable but filled with a fierce courage. This had never been done before, and it set the work dramatically apart from its predecessors.
 
@@ -668,7 +668,7 @@ The Impressionist movement in painting is another useful example of what breakin
 
 Interactive entertainment needs an Impressionism of its own, a daring, risk-taking movement to break through the tired old tropes—not a new way of seeing, but a new way of playing. We hope that you, our reader, might be our new Monet or Cassatt.
 
-互动娱乐需要一种属于自己的 "印象派"，一种敢于冒险、突破陈规的运动——不是一种新的观看方式，而是一种新的游戏方式。我们希望你——我们的读者——能成为我们新的莫奈或卡萨特。
+互动娱乐需要一种属于自己的“印象派”，一种敢于冒险、突破陈规的运动——不是一种新的观看方式，而是一种新的游戏方式。我们希望你——我们的读者——能成为我们新的莫奈或卡萨特。
 
 # A Few Final Words 最后几句话
 
