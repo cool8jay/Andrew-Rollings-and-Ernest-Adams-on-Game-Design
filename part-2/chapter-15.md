@@ -77,7 +77,7 @@ In practice, however, this turns out not to be much of a problem. Research has s
 
 # The Common Elements of Adventure Games 冒险游戏的共同要素
 
-In most adventure games, the player's avatar is presented with an explorable area containing a variety of puzzles or problems to be solved. Solving these problems opens up new areas for exploration or advances the story line in some way, giving the player new information and new problems to solve. Exploring the environment and manipulating items in it is a key element of most adventure games, although this is not an absolute requirement. It's theoretically possible to develop an adventure game that consists entirely of conversations with nonplayer characters (NPCs), but we haven't yet seen one.
+In most adventure games, the player's avatar is presented with an explorable area containing a variety of puzzles or problems to be solved. Solving these problems opens up new areas for exploration or advances the story line in some way, giving the player new information and new problems to solve. Exploring the environment and manipulating items in it is a key element of most adventure games, although this is not an absolute requirement. It's theoretically possible to develop an adventure game that consists entirely of conversations with non-player characters (NPCs), but we haven't yet seen one.
 
 在大多数冒险游戏中，玩家的化身都会出现在一个可探索的区域，该区域包含各种有待解决的谜题或问题。解决这些问题可以打开新的探索区域，或以某种方式推进故事情节，为玩家提供新的信息和需要解决的新问题。探索环境和操作其中的物品是大多数冒险游戏的关键要素，尽管这并不是绝对的要求。从理论上讲，开发一款完全由与非玩家角色（NPC）对话组成的冒险游戏是可能的，但我们还没有见过这样的游戏。
 

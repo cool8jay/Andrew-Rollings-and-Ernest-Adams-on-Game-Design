@@ -542,9 +542,9 @@ On the other hand, live role playing with a human dungeon master frees players t
 
 另一方面，与人类地牢主人一起进行现场角色扮演可以让玩家自由地忽略地牢主人预定的情节，自己四处游荡，探索他们特别感兴趣的地方。虽然这可能会让地下城主感到沮丧——尤其是如果他花了很多时间为玩家设计冒险，却发现他们完全忽视了这一点——但一个好的管理者有能力根据具体情况调整游戏。在现场角色扮演中，玩家更像是自己命运的主人。管理者也有能力调整挑战的性质，以适应队伍的性质——如果队伍受到严重破坏，他可以偷偷地确保他们不会遇到任何能够瞬间消灭他们的东西。
 
-This ability to devise new adventures on the fly and to adjust the difficulty of the game to match the abilities of the players is bound to appear in games in the future. At the moment, we have randomly generated adventures in games such as Diablo, but this really applies only to the layout of the rooms and the number of creatures in them. It doesn't change the personalities or dialogue of the nonplaying characters.
+This ability to devise new adventures on the fly and to adjust the difficulty of the game to match the abilities of the players is bound to appear in games in the future. At the moment, we have randomly generated adventures in games such as [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)), but this really applies only to the layout of the rooms and the number of creatures in them. It doesn't change the personalities or dialogue of the non-player characters.
 
-这种随时设计新冒险、根据玩家的能力调整游戏难度的能力必将出现在未来的游戏中。目前，我们在《暗黑破坏神》等游戏中看到了随机生成的冒险，但这实际上只适用于房间的布局和其中生物的数量。它不会改变非游戏角色的性格或对话。
+这种随时设计新冒险、根据玩家的能力调整游戏难度的能力必将出现在未来的游戏中。目前，我们在[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))等游戏中看到了随机生成的冒险，但这实际上只适用于房间的布局和其中生物的数量。它不会改变 NPC 的性格或对话。
 
 ## Artificial People 人造人
 
