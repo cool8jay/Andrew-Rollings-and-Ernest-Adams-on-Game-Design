@@ -491,19 +491,18 @@ In this section, we'll talk about some of the things that might make Picard's ex
 ## Automated Programming 自动编程
 
 Most game machines are single-CPU computers with dedicated graphics and sound-processing units. Their CPUs follow the traditional one-instruction-at-a-time model that, as we said earlier, was originally intended for computing ballistics tables for artillery guns. In the more distant future, it is bound to be replaced, although with what isn't at all clear. Neural networks hold a certain amount of promise for pattern recognition; so does massively parallel computing. Molecular transistors are a certainty; quantum computing is probably not far behind. We might begin to see programming by evolution, using the principles of natural selection to create programs without human intervention. This has already been done to create simple electronic circuits, with successful but startlingly peculiar results.
-大多数游戏机都是单 CPU 计算机，配有专用图形和声音处理单元。
-它们的 CPU 采用传统的一次执行一条指令的模式，正如我们前面所说，这种模式最初是用于计算火炮的弹道表。在更遥远的未来，这种模式必将被取代，但取代的是什么还不清楚。神经网络在模式识别方面具有一定的前景；大规模并行计算也是如此。分子晶体管已是板上钉钉的事，量子计算可能也不远了。我们可能会开始看到进化编程，利用自然选择的原理来创建程序，而无需人工干预。在创建简单的电子电路时，我们已经采用了这种方法，并取得了成功，但结果却非常奇特。
+
+大多数游戏机都是单 CPU 计算机，配有专用图形和声音处理单元。它们的 CPU 采用传统的一次执行一条指令的模式，正如我们前面所说，这种模式最初是用于计算火炮的弹道表。在更遥远的未来，这种模式必将被取代，但取代者是什么还不清楚。神经网络在模式识别方面具有一定的前景；大规模并行计算也是如此。分子晶体管已是板上钉钉的事，量子计算可能也不远了。我们可能会开始看到进化编程，利用自然选择的原理来创建程序，而无需人工干预。在创建简单的电子电路时，我们已经采用了这种方法，并取得了成功，但结果却非常奇特。
 
 It seems certain that eventually computers will learn to program themselves, although by that time they might bear no more resemblance to the machines we know today than the aircraft carrier does to the trireme—and probably less. For that to happen, computers will need a fundamental understanding of the nature of information and the way that it can be stored and manipulated. In particular, they'll have to be able to make the abstractions that human programmers do all the time. Teaching a computer to program itself to calculate mathematical formulas probably won't be that hard because most mathematical formulas are calculated using fairly simple algorithms anyway. The bigger challenge is to teach a computer to model imaginary situations mathematically, to solve the "story problems" that we remember from algebra class. The hardest part of a "story problem" was not solving the algebraic equations, but determining how the situation described could be modeled mathematically in the first place.
 
-似乎可以肯定的是，计算机最终将学会自我编程，尽管到那时，它们与我们今天所熟知的机器的相似程度可能不会超过航空母舰与三桅帆船的相似程度，甚至可能更低。要做到这一点，计算机需要从根本上了解信息的本质以及信息的存储和处理方式。尤其是，计算机必须能够进行人类程序员经常进行的抽象运算。教计算机自己编程计算数学公式可能并不难，因为大多数数学公式都是用相当简单的算法计算出来的。更大的挑战在于教会计算机用数学模型模拟想象中的情况，解决我们在代数课上记忆犹新的 "故事问题"。故事问题 "中最难的部分不是求解代数方程，而是首先确定所描述的情况如何用数学建模。
-
+似乎可以肯定的是，计算机最终将学会自我编程，尽管到那时，它们与我们今天所熟知的机器的相似程度可能不会超过航空母舰与三桅帆船的相似程度，甚至可能更低。要做到这一点，计算机需要从根本上了解信息的本质以及信息的存储和处理方式。尤其是，计算机必须能够进行人类程序员经常进行的抽象运算。教计算机自己编程计算数学公式可能并不难，因为大多数数学公式都是用相当简单的算法计算出来的。更大的挑战在于教会计算机用数学模型模拟想象中的情况，解决我们在代数课上记忆犹新的“应用题”。“应用题”中最难的部分不是求解代数方程，而是首先确定所描述的情况如何用数学建模。
 
 ## Intelligent Design Tools 智能设计工具
 
 Automated programming doesn't mean, however, that game designers are doomed to extinction. Captain Picard's Dixon Hill stories are written by real people; they're just executed by a computer. People will always want to design games, and that's not going to change. What will change is the way we do the work. Rather than collaborating with a large team of programmers, artists, writers, and audio engineers, the game designer of the far future could be collaborating with a game-design tool, a program specifically constructed to assist in creating games. We can easily imagine a conversation that goes like this:
 
-不过，自动化编程并不意味着游戏设计师注定要灭绝。皮卡德船长的迪克森希尔故事是由真人编写的，只是由电脑执行而已。人们总是希望设计游戏，这一点不会改变。改变的是我们的工作方式。在遥远的未来，游戏设计师将不再与一个由程序员、艺术家、作家和音频工程师组成的庞大团队合作，而是与一个游戏设计工具合作，这个工具是专门为协助创作游戏而设计的。我们可以很容易地想象这样一段对话：
+不过，自动化编程并不意味着游戏设计师注定要灭绝。皮卡德船长的迪克森·希尔故事是由真人编写的，只是由电脑执行而已。人们总是希望设计游戏，这一点不会改变。改变的是我们的工作方式。在遥远的未来，游戏设计师将不再与一个由程序员、艺术家、作家和音频工程师组成的庞大团队合作，而是与一个游戏设计工具合作，这个工具是专门为协助创作游戏而设计的。我们可以很容易地想象这样一段对话：
 
 > Designer: "We're going to want three kinds of aerial units: fighters, bombers, and transports."
 > 
@@ -511,11 +510,11 @@ Automated programming doesn't mean, however, that game designers are doomed to e
 > 
 > Computer: "OK. Have you figured out their operational parameters and combat capabilities?"
 > 
-> 电脑：“好的，你想好它们的作战参数和作战能力了吗？”
+> 电脑：“好的，你想好它们的运行参数和作战能力了吗？”
 > 
 > Designer: "Not yet. But fighters are designed to attack anything in the air; they won't be able to attack ground targets. Bombers can attack both air and ground units. Transports have no weapons."
 > 
-> 设计者：“还没有。但战斗机是用来攻击空中任何目标的，它们无法攻击地面目标。轰炸机可以攻击空中和地面单位。运输机没有武器。”
+> 设计者：“还没有。但战斗机可以攻击任意空中目标；它们无法攻击地面目标。轰炸机可以攻击空中和地面单位。运输机没有武器。”
 > 
 > Computer: "Why would you ever want fighters if bombers have more functionality?"
 > 
@@ -527,7 +526,7 @@ Automated programming doesn't mean, however, that game designers are doomed to e
 > 
 > Computer: [reads history for a nanosecond] "Okay, I understand the principle. Do you want me to use those numbers as a baseline?"
 > 
-> 计算机：[花了一纳秒阅读历史]“我明白原理了。你想让我用这些数字作为基准吗？”
+> 计算机：[花了一纳秒阅读历史资料]“好的，我明白原理了。你想让我用这些数字作为基准吗？”
 > 
 > Designer: "Sure, what the heck? It'll do for now."
 > 
@@ -537,8 +536,7 @@ Automated programming doesn't mean, however, that game designers are doomed to e
 
 One of the many weaknesses that computerized role-playing games suffer in comparison to tabletop RPGs is that their plots are fixed, designed in advance by the developer. As a player, you can ignore the plot if you like, but the game won't be very interesting and you won't go far. To see everything that the game has to offer, you have to meet the challenges that it presents. If you don't, nothing happens. Larger games typically offer several subplots to choose from, so you don't have to do everything in a strictly linear order; nevertheless, what you bought is what you get.
 
-与桌面角色扮演游戏相比，电脑角色扮演游戏有许多弱点，其中之一就是它们的情节是固定的，是开发商事先设计好的。
-作为玩家，你可以无视剧情，但游戏不会很有趣，你也走不远。要想看到游戏中的一切，就必须迎接游戏中的挑战。否则，什么也不会发生。大型游戏通常会提供多个支线剧情供你选择，因此你不必严格按照线性顺序完成所有任务；不过，买到的就是得到的。
+与桌面角色扮演游戏相比，电脑角色扮演游戏有许多弱点，其中之一就是它们的情节是固定的，是开发商事先设计好的。作为玩家，你可以无视剧情，但游戏不会很有趣，你也走不远。要想看到游戏中的一切，就必须迎接游戏中的挑战。否则，什么也不会发生。大型游戏通常会提供多个支线剧情供你选择，因此你不必严格按照线性顺序完成所有任务；不过，买到的就是得到的。
 
 On the other hand, live role playing with a human dungeon master frees players to ignore the dungeon master's intended plot, wander around on their own, and explore areas of particular interest to them. Although this might be frustrating for the dungeon master—particularly if he has spent a lot of time devising an adventure for the party, only to have them completely ignore it—a good DM is capable of adjusting the game to suit the circumstances. The players are much more the masters of their own fates in live role playing. The DM also has the ability to adjust the nature of the challenge to suit the nature of the party—if it is badly damaged, he can surreptitiously see to it that they don't meet anything capable of wiping them out in an instant.
 
