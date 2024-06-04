@@ -213,7 +213,7 @@ Consider an analogous situation: Which of these two examples would be the better
 
 1. You enter the inn after a tiring day's travel. Immediately, an old man runs up to you. "You have to help us! It's nearly sunset and the vampire in the castle will kill my granddaughter tonight."
 
-    经过一天疲惫的旅途，你走进了客栈。随即，一位老人向您跑来。“你得帮帮我们！已经快日落了，城堡里的吸血鬼今晚会杀了我的孙女。”
+    经过一天疲惫的旅途，你走进了客栈。随即，一位老人向你跑来。“你得帮帮我们！已经快日落了，城堡里的吸血鬼今晚会杀了我的孙女。”
 
 2. You enter the inn after a tiring day's travel. The room silences as you enter, and all eyes turn toward you. You approach the bar, and the inn's customers return to nursing their drinks, resuming their muted conversation. In a dark corner, you notice an old man clawing and tugging and the robes of an affluent-looking merchant. You can overhear the merchant saying, "You sold it fair and square. If you don't have the money, you can't have it back. Get him away from me, Silas!" The merchant's companion shoves the old man away and stands over him menacingly.
 
