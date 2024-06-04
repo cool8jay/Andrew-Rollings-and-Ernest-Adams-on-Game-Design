@@ -62,21 +62,21 @@ In the last section, you can include additional material that you think the read
 在最后一部分，你可以加入一些你认为读者会喜欢的关于游戏的补充材料。 你可以加入有关角色、艺术品、音乐、情节或其他任何可能引起读者兴趣的内容。但不要添加太多，以免文档太长。
 
 > **A Sample High-Concept Document 高概念文件样本**
-> 
+> <br>
 > The following is an old high-concept document for a simple console or arcade game. It was written before the currently popular "extreme" sports games existed, so although this game was never made, some of its ideas did find their way into other games.
-> 
+> <br>
 > 以下是一份关于简单的游戏机或街机游戏的高概念旧文档。它写于目前流行的 “极限 ”运动游戏出现之前，因此尽管这款游戏从未被制作出来，但其中的一些想法确实被应用到了其他游戏中。
-> 
+> <br>
 > **Street Football—2 on 2! 街头足球——2对2！**
-> 
+> <br>
 > —Ernest W. Adams
-> 
+> <br>
 > **High Concept 高概念**
-> 
+> <br>
 > The game at its grittiest. No pads, no helmets, no refs, no field. It's just you and the guys, a ball, and a lot of asphalt. Choose up sides and go for it, two on two.
-> 
+> <br>
 > 最残酷的比赛 没有护具，没有头盔，没有裁判，没有场地。只有你和你的队员，一个球，还有许多沥青。选好阵型，二对二，一决胜负。
-> 
+> <br>
 > **Features 特点**
 > 
 > * The point of view is derived from fighting games, with large, detailed players.
