@@ -16,50 +16,50 @@ In the sections that follow, we describe the key elements of a high-concept docu
 
 After the title and your name, the document should begin with no more than two lines that state the idea of the game. In a commercial environment, it is imperative that the idea be instantly comprehensible because everyone's most precious commodity is time. If the producer doesn't get the idea in a sentence or two, he's going to worry that the publisher's sales staff, the wholesale buyers, and, most important, the retail customers won't get it either.
 
-在标题和您的姓名之后，文件的开头应该用不超过两行的文字说明游戏的创意。在商业环境中，创意必须一目了然，因为每个人最宝贵的就是时间。如果制作人不能在一两句话中理解游戏的创意，他就会担心出版商的销售人员、批发商以及最重要的零售客户也不会理解。
+在标题和你的姓名之后，文件的开头应该用不超过两行的文字说明游戏的创意。在商业环境中，创意必须一目了然，因为每个人最宝贵的就是时间。如果制作人不能在一两句话中理解游戏的创意，他就会担心发行商的销售人员、批发商以及最重要的零售客户也不会理解。
 
 Of course, there are exceptions to this, and those exceptions are often some of the greatest and most innovative games. In Pac-Man, for example, the player is a circle that eats dots and fruit and is chased by ghosts in a maze—not exactly an obvious idea. However, Pac-Man is an arcade game, which means that people can actually watch it playing by itself before they commit their money. If you're going to propose something really strange for a retail game, you need to be very good at explaining it!
 
-当然，也有例外，而这些例外往往是一些最伟大、最具创新性的游戏。例如，在[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)中，玩家是一个吃点和水果的圆圈，在迷宫中被幽灵追赶--这并不是一个显而易见的想法。然而，[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)是一款街机游戏，这意味着人们在掏钱之前，实际上可以看到它自己在玩。如果你要为零售游戏提出一个非常奇怪的想法，你就必须善于解释！
+当然，也有例外，而这些例外往往是一些最伟大、最具创新性的游戏。例如，在[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)中，玩家是一个吃点和水果的圆圈，在迷宫中被幽灵追逐——这并不是一个显而易见的想法。然而，[《吃豆人》](https://en.wikipedia.org/wiki/Pac-Man)是一款街机游戏，这意味着人们在掏钱之前，实际上可以看到游戏的演示或者其他人玩的样子。如果你要为零售游戏提出一个非常奇怪的想法，你就必须善于解释！
 
 ## Features 特点
 
 The rest of the first page should be devoted to a bulleted list of the key features of the game. Each item should consist of two or three sentences, no more. Remember that unless you have included a concept drawing, your reader doesn't have a mental picture of the game, so this section needs to build one for him. It's much more important at this point to convey the game's look and feel than to give the details about how it works. You're not selling the game's internal economy or its AI; you're selling the player's experience.
 
-第一页的其余部分应以列表形式列出游戏的主要特点。每项内容只需两三句话，不宜过多。请记住，除非您附上概念图，否则读者在脑海中并没有游戏的印象，因此这一部分需要为他建立一个印象。在这一点上，传达游戏的外观和感觉要比介绍游戏如何运行的细节重要得多。你不是在推销游戏的内部经济或人工智能，而是在推销玩家的体验。
+第一页的其余部分应以列表形式列出游戏的主要特点。每项内容只需两三句话，不宜过多。请记住，除非你附上概念图，否则读者在脑海中并没有游戏的印象，因此这一部分需要为他建立一个印象。在这一点上，传达游戏的外观和感觉要比介绍游戏如何运行的细节重要得多。你不是在推销游戏的内部经济或人工智能，而是在推销玩家的体验。
 
 Avoid letting the feature list run on to the next page, if you can. More than about 10 bullet points in a row starts to look like a mass of text to read and discourages the eye. You might want to put the items that you think are the most fun, the most innovative, or the most important in bold type, just as you would in a résumé.
 
-如果可以的话，避免让功能列表排到下一页。连续超过 10 个要点会让人觉得阅读起来像一大堆文字，让人望而却步。您可能想把您认为最有趣、最新颖或最重要的项目用粗体字标出，就像在简历中一样。
+如果可以的话，避免让功能列表排到下一页。连续超过 10 个要点会让人觉得阅读起来像一大堆文字，让人望而却步。你可能想把你认为最有趣、最新颖或最重要的项目用粗体字标出，就像在简历中一样。
 
 ## Overview 概述
 
 In this section, beginning on the second page, you summarize the key commercial considerations about the game: what machine it's for, who would buy it and why, and what you're hoping that the game will achieve. Consider including any or all the following items:
 
-在这一部分，从第二页开始，你将总结有关游戏的主要商业考虑因素：它适用于什么机 器，谁会购买它，为什么，以及你希望游戏达到什么目的。考虑包括以下任何或所有项目：
+在这一部分，从第二页开始，你将总结有关游戏的主要商业考虑因素：它适用于什么机器，谁会购买它，为什么，以及你希望游戏达到什么目标。考虑包括以下任何或所有项目：
 
 * Player motivation. This is a short statement that indicates what the player is trying to accomplish in the game—its victory condition. This helps indicate what sort of person the player is. He can be driven by a desire to compete, to solve puzzles, to explore, or whatever.\
-玩家动机。这是一个简短的陈述，说明玩家在游戏中想要实现的目标--即胜利条件。这有助于说明玩家是什么样的人。他的动机可以是竞争、解谜、探索或其他。
+玩家动机。这是一个简短的陈述，说明玩家在游戏中想要实现的目标——即胜利条件。这有助于说明玩家是什么样的人。他的动机可以是竞争、解谜、探索或其他。
 * Genre. Indicate the genre of the game, or if it is a mix of genres, indicate that.\
 类型。说明游戏的类型，如果是混合类型，则说明混合类型。
 * License. If you intend for the game to exploit a licensed property, say so here. Also include any facts and figures about the property's popularity, recognition value, and appeal to particular markets—but no more than a sentence or two.\
-许可证。如果你打算让游戏利用已获授权的财产，请在此处注明。此外，还请提供有关该特许权的受欢迎程度、认可价值以及对特定市场的吸引力的事实和数据--但不要超过一两句话。
+许可证。如果你打算让游戏利用已获授权的财产，请在此处注明。此外，还请提供有关该特许权的受欢迎程度、认可价值以及对特定市场的吸引力的事实和数据——但不要超过一两句话。
 * Target customer. What kind of person will buy this game? If age or sex is relevant, indicate that; more important, tell what other kinds of games they like to play.\
 目标客户。什么样的人会购买这款游戏？如果与年龄或性别有关，请注明；更重要的是，要说明他们还喜欢玩什么类型的游戏。
 * Competition. Are there already games on the market like this one? If so, list their names and indicate how this one is different or better than they are. This section isn't absolutely necessary, but it can reassure your reader that your game isn't just a copy of something else.\
-竞争。市场上是否已经有类似的游戏？如果有，请列出它们的名称，并说明这款游戏与它们有何不同或更好。这一部分并非绝对必要，但可以让读者放心，你的游戏并非只是其他游戏的翻版。
+竞争。市场上是否已经有类似的游戏？如果有，请列出它们的名称，并说明这款游戏与它们如何不同或更好。这一部分并非绝对必要，但可以让读者放心，你的游戏并非只是其他游戏的翻版。
 * Unique selling points. What's new in this game? How will it stand out from what has gone before?\
-独特卖点。 这款游戏有何新意？它将如何从以往的游戏中脱颖而出？
+独特卖点。 这款游戏有何新意？它将如何从已有的游戏中脱颖而出？
 * Target hardware. Tell what machine the game is intended for. Also indicate whether the game requires or can make optional use of any special hardware or accessories.\
-目标硬件。说明游戏适用的机器。还要说明游戏是否需要或可以选择使用任何特殊硬件或配件。
+目标硬件。说明游戏适用的机器。还要说明游戏是否必须依赖或可以选择使用任何特殊硬件或配件。
 * Design goals. In this section, list your aims for the game as an experience. Don't just say "fun"—that's too broad. Be more specific. Are you trying to provide pulse-pounding excitement? Tension and suspense? Strategic challenge? Humor? A heartwarming story? The ability to construct or create something of the player's own? For each item, indicate in a sentence or two how the game will achieve the goal.\
-设计目标。在这一部分，列出你对游戏体验的目标。不要只说 “好玩”--那太笼统了。要更加具体。你是否想提供令人心跳加速的刺激感？紧张和悬念？战略挑战？幽默？感人肺腑的故事？构建或创造属于玩家自己的东西的能力？对于每一项，请用一两句话说明游戏将如何实现目标。
+设计目标。在这一部分，列出你对游戏体验的目标。不要只说“好玩”——那太笼统了。要更加具体。你是否想提供令人心跳加速的刺激感？紧张和悬念？战略挑战？幽默？感人肺腑的故事？建设或者创造属于玩家自己的东西的能力？对于每一项，请用一两句话说明游戏将如何实现目标。
 
 ## Further Details 更多详情
 
 In the last section, you can include additional material that you think the reader will enjoy learning about the game. You might include notes about the characters, the artwork, the music, the plot, or anything else that might pique his interest. Don't add so much that it makes the document too long, however.
 
-在最后一部分，你可以加入一些你认为读者会喜欢的关于游戏的补充材料。 你可以加入有关角色、艺术品、音乐、情节或其他任何可能引起读者兴趣的内容。但不要添加太多，以免文档太长。
+在最后一部分，你可以加入一些你认为读者会喜欢的关于游戏的补充材料。你可以加入有关角色、艺术品、音乐、情节或其他任何可能引起读者兴趣的内容。但不要添加太多，以免文档太长。
 
 > **A Sample High-Concept Document 高概念文件样本**
 > 
