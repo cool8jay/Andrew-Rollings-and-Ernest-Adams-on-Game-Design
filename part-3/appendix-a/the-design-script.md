@@ -1,1 +1,27 @@
 # The Design Script
+
+This is the real McCoy—the document that officially, formally records your game's design. Whereas the high-concept document and the treatment are primarily sales tools, the script is primarily a development tool (although publishers often want to see a completed script before funding the next phase of a project). As we said in Chapter 1, it is a record of decisions made (and not yet made), a way of transmitting the design to the rest of the team, and a reference work for bringing new people up to speed as they join the team late in the development process.
+
+If you already have a design script, even a partial one, bring it along to the pitch meeting to show how far along you are. Although it's not intended as a sales tool, a producer will appreciate getting a look at a well-organized design script. The producer might also bring along a programmer as a technical advisor to the meeting, who will ask you questions about your development plans.
+
+## How Big Should It Be?
+
+In the earliest days of computer gaming, there were no design scripts. A programmer had an idea for a game and started coding it immediately. In a few weeks or months, it was done and that was that. The program code was all of the design document that there would ever be, but because games were very small and usually were built by one person, it didn't matter much.
+
+As games and their development teams grew in size, people started to realize that they needed careful planning. Publishers began to insist that a game have an entirely comprehensive script before any programming or other work began. The script became the deliverable at the first milestone in the project. Design documents grew enormously, especially if the publisher was relying on an outside developer that it couldn't keep a close eye on. Scripts went from 50 to 100 to 200 pages in the early 1990s.
+
+Since then, scripts have shrunk somewhat and also have become fragmented. Instead of one single monster document, many development groups create smaller documents to cover particular areas of the game: character design, for example, or core mechanics. There are a couple of reasons for this. Now that many games are using licensed game engines, there's no need to document the functional characteristics of a 3D environment in excruciating detail—this material is provided for you in the engine. Second, the last 10 years has seen tremendous growth in the use of level-editing tools to create the game's missions or scenarios. It used to be that the progression of a game was hardwired into the code, so it was also documented extensively in the design script. Games have now become data-driven; that is, the software implements the AI, user interface, and core mechanics of the game, but the actual experience of playing each level—its appearance, challenges, and victory condition—are stored in data files created by the level editor. As a result, there's no need to define these things in advance in a design document. The script can focus on the elements that make up the game, and the level designers create the concrete challenge of playing it.
+
+In short, there's no longer a clear rule about how many pages long a script should be. If a script is a part of a milestone deliverable, though, the fatter it is, the more likely it is that the publisher will think you've done your homework. A game that claims to offer 50 or 60 hours of gameplay and a vast number of characters, locations, weapons, and player options had better have more than 20 pages of documentation. Obviously, you shouldn't pad it out with fluff, but thoroughness is always appreciated by people who are expecting to invest a million dollars or more in a product.
+
+## The Design Web Site
+
+Unless you have a particular need for paper copies, you might consider writing not a document, but a design web site. The web site has many advantages. For one thing, multiple people can work on different parts of it at the same time. It's very easy and convenient to add material to in a nonlinear fashion. It's also easy to add pictures. Hyperlinks enables you to cross-reference one page with another.
+
+The disadvantage of a design web site is that it's difficult to take home and mark up with a pencil, and if your material is sensitive, you had better be darn sure that the site is secure. A Microsoft Word or Adobe Acrobat file can be protected and encrypted easily; a web site is vulnerable to being hacked if it's stored on a server available to the Internet.
+
+## Chris Taylor's Template
+
+A great many game design templates are available on the Internet, in varying degrees of detail. Rather than write yet another one of our own, we've chosen to refer you to a template from a famous game designer with a string of hits to his name. Chris Taylor was the man behind Total Annihilation, Fallout Tactics, and Dungeon Siege. We think that his template is the most comprehensive (and also the funniest) currently available. It's primarily intended for a large game in a big world, with many characters, weapons, monsters, and so on, so obviously much of it will be unnecessary if you're designing a 10-minute Java-based trivia game. However, you can ignore anything that you don't need.
+
+Chris Taylor's template is too long to include here, and you wouldn't want to type it all in anyway. You can download a copy in Microsoft Word format at www.designersnotebook.com/ctaylordesign.zip.
