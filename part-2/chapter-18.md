@@ -540,7 +540,7 @@ One of the many weaknesses that computerized role-playing games suffer in compar
 
 On the other hand, live role playing with a human dungeon master frees players to ignore the dungeon master's intended plot, wander around on their own, and explore areas of particular interest to them. Although this might be frustrating for the dungeon master—particularly if he has spent a lot of time devising an adventure for the party, only to have them completely ignore it—a good DM is capable of adjusting the game to suit the circumstances. The players are much more the masters of their own fates in live role playing. The DM also has the ability to adjust the nature of the challenge to suit the nature of the party—if it is badly damaged, he can surreptitiously see to it that they don't meet anything capable of wiping them out in an instant.
 
-另一方面，与人类地牢主人一起进行现场角色扮演可以让玩家自由地忽略地牢主人预定的情节，自己四处游荡，探索他们特别感兴趣的地方。虽然这可能会让地下城主感到沮丧——尤其是如果他花了很多时间为玩家设计冒险，却发现他们完全忽视了这一点——但一个好的管理者有能力根据具体情况调整游戏。在现场角色扮演中，玩家更像是自己命运的主人。管理者也有能力调整挑战的性质，以适应队伍的性质——如果队伍受到严重破坏，他可以偷偷地确保他们不会遇到任何能够瞬间消灭他们的东西。
+另一方面，与人类地牢主人一起进行现场角色扮演可以让玩家自由地忽略地牢主人预定的情节，自己四处游荡，探索他们特别感兴趣的地方。虽然这可能会让地下城主感到沮丧——尤其是如果他花了很多时间为玩家设计冒险，却发现他们完全忽视了这一点——但一个好的管理者有能力根据具体情况调整游戏。在现场角色扮演中，玩家更像是自己命运的主人。管理者也有能力调整挑战的性质，以适应队伍的性质——如果队伍受到严重破坏，他可以偷偷地确保他们不会遇到任何能够秒杀他们的东西。
 
 This ability to devise new adventures on the fly and to adjust the difficulty of the game to match the abilities of the players is bound to appear in games in the future. At the moment, we have randomly generated adventures in games such as [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)), but this really applies only to the layout of the rooms and the number of creatures in them. It doesn't change the personalities or dialogue of the non-player characters.
 
@@ -596,9 +596,9 @@ For interactive entertainment to be recognized as an art form, it must do some o
 
 ### We Must Devise Principles of Aesthetics 我们必须制定美学原则
 
-More than 20 years ago, Chris Crawford mentioned in his book The Art of Computer Game Design that the interactive entertainment medium needs principles of aesthetics. It remains true today. We're not much farther along than when he wrote that, though, for two reasons.
+More than 20 years ago, [Chris Crawford](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)) mentioned in his book [The Art of Computer Game Design](https://en.wikipedia.org/wiki/The_Art_of_Computer_Game_Design) that the interactive entertainment medium needs principles of aesthetics. It remains true today. We're not much farther along than when he wrote that, though, for two reasons.
 
-20 多年前，克里斯·克劳福德在其著作《电脑游戏设计艺术》中提到，互动娱乐媒体需要美学原则。时至今日，这句话依然适用。不过，与他写这本书时相比，我们并没有走得更远，原因有二。
+20 多年前，[克里斯·克劳福德](https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer))在其著作[《电脑游戏设计艺术》](https://en.wikipedia.org/wiki/The_Art_of_Computer_Game_Design)中提到，互动娱乐媒体需要美学原则。时至今日，这句话依然适用。不过，与他写这本书时相比，我们并没有走得更远，原因有二。
 
 First, the serious study of computer games has only just begun. The commercial world is too busy churning out games as fast as it can to think deeply about them, and until recently, the academic world has ignored them as childish toys rather than important elements of popular culture. This is starting to change, and as we begin to see real analysis of computer games, principles of aesthetics will arise.
 
