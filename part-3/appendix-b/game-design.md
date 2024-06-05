@@ -1,23 +1,20 @@
-# Game Design
+# Game Design 游戏设计
 
 There aren't a great many other books on game design (that's part of why we wrote this one), but we think some of the following offer useful perspectives:
 
-Art of Computer Game Design, The. Crawford, Chris. Probably the first book in the field, and a classic. This book is no longer in print, but may be read online at http://www.vancouver.wsu.edu/fac/peabody/game-book/Coverpage.html. Crawford will also soon be publishing a new work, Chris Crawford on Game Design (©2004, New Riders Publishing), to which we look forward with interest.
+关于游戏设计的其他书籍并不多（这也是我们写这本书的部分原因），但我们认为以下一些书籍提供了有用的视角：
 
-Creating Emotion in Games: The Art and Craft of Emotioneering. Freeman, David; New Riders Publishing; ISBN: 1592730078 (due out Fall 2003).
-
-Community Building on the Web: Secret Strategies for Successful Online Communities. Kim, Amy Jo; Peachpit Press. Although this isn't technically a game design book, it is a highly regarded work on online communities and should be considered required reading for anyone who wants to build an online game or persistent world.
-
-Elements of User Experience, The. Garrett, Jesse James; New Riders Publishing; ISBN: 0735712026.
-
-Emergence: The Connected Lives of Ants, Brains, Cities, and Software. Johnson, Steve; Scribner; ISBN: 068486875X.
-
-Game Architecture and Design. Rollings, Andrew and Dave Morris. Originally published by The Coriolis Group and soon to be reissued by New Riders. A giant tome on designing and building computer and video games from start to finish. It is the companion volume to this one.
-
-Game Design Perspectives. Laramee, Francois Dominic (editor); Charles River Media; ISBN: 1584500905. This is an extensive collection of essays by a variety of people on different topics, not all of them game design.
-
-Game Design Secrets of the Sages. Saltzman, Marc (editor); Brady Games. A collection of interviews with some of the top people in the business. In this form, it's more useful as background reading than how-to material, but it's a good way to see inside the heads of some of the industry's best designers.
-
-Game Design: The Art & Business of Creating Games. Bates, Bob; Premier Press; ISBN: 0761531653. More of an introduction to the entire game business than a game design book. It's easy to read and nicely illustrated, and Bob Bates' credentials are impeccable.
-
-Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games. Hallford, Neal and Jana Hallford; Premier Press; ISBN: 0761532994.
+Book 书名 | Author 作者 | Publisher 出版社 | ISBN | Comment 评论
+--- | --- | --- | --- | --- 
+A Pattern Language<br>模式语言	 | Christopher Alexander, et al. | Oxford University Press | [0195019199](https://www.amazon.com/dp/0195019199) | This work created something of a revolution in architectural theory when it appeared, adopting a practical/psychological approach to the way people use buildings. Some of its ideas formed the basis for [The Sims](https://en.wikipedia.org/wiki/The_Sims).<br><br>这部作品一经问世就在建筑理论界掀起了一场革命，它采用了一种实用的/心理学的方法来研究人们使用建筑物的方式。其中一些观点构成了[《模拟人生》](https://en.wikipedia.org/wiki/The_Sims)的基础。
+The Art of Computer Game Design<br>电脑游戏设计艺术 | Chris Crawford |  | [B0052QA5WU](https://www.amazon.com/dp/B0052QA5WU) | Probably the first book in the field, and a classic. This book is no longer in print, but may be read online at http://www.vancouver.wsu.edu/fac/peabody/game-book/Coverpage.html. Crawford will also soon be publishing a new work, Chris Crawford on Game Design (©2004, New Riders Publishing), to which we look forward with interest.
+Chris Crawford on Game Design<br>克里斯·克劳福德谈游戏设计 | Chris Crawford | New Riders Publishing | [0131460994](https://www.amazon.com/dp/0131460994) | 
+Creating Emotion in Games: The Art and Craft of Emotioneering<br>在游戏中创造情感：情感设计的艺术与工艺 | David Freeman | New Riders Publishing | [1592730078](https://www.amazon.com/dp/1592730078) |
+Community Building on the Web: Secret Strategies for Successful Online Communities<br>网络社区建设：成功网络社区的秘密策略 | Amy Jo Kim | Peachpit Press | |Although this isn't technically a game design book, it is a highly regarded work on online communities and should be considered required reading for anyone who wants to build an online game or persistent world.<br><br>虽然从严格意义上讲，这不是一本游戏设计书籍，但它是一本备受推崇的网络社区著作，应该被视为任何想要构建网络游戏或持久世界的人的必读书。
+The Elements of User Experience<br>用户体验的要素	 | Jesse James Garrett | New Riders Publishing | [0735712026](https://www.amazon.com/dp/0735712026) |
+Emergence: The Connected Lives of Ants, Brains, Cities, and Software<br>涌现：蚂蚁、大脑、城市和软件的互联生活 | Steve Johnson | Scribner | [068486875X](https://www.amazon.com/dp/068486875X) |
+Game Architecture and Design<br>游戏架构与设计 | Andrew Rollings/Dave Morris | New Riders | [0735713634](https://www.amazon.com/dp/0735713634) | Originally published by The Coriolis Group and soon to be reissued by New Riders. A giant tome on designing and building computer and video games from start to finish. It is the companion volume to this one.<br><br>最初由科里奥利集团出版，不久将由 New Riders 再版。这是一本从头到尾介绍如何设计和制作电脑游戏和视频游戏的巨著。它是这本书的配套书籍。
+Game Design Perspectives<br>游戏设计视角 | Francois Dominic Laramee | Cengage Learning | [1584500905](https://www.amazon.com/dp/1584500905) | This is an extensive collection of essays by a variety of people on different topics, not all of them game design.
+Game Design Secrets of the Sages<br>圣人的游戏设计秘诀 | Marc Saltzman (editor) | Brady Games || A collection of interviews with some of the top people in the business. In this form, it's more useful as background reading than how-to material, but it's a good way to see inside the heads of some of the industry's best designers.<br><br>一些业内顶尖人物的访谈集。在这种形式下，它更适合作为背景读物，而不是如何操作的材料，但它是了解业内最优秀设计师内心世界的好方法。
+Game Design: The Art & Business of Creating Games<br>游戏设计：创作的艺术与商业 | Bob Bates | Premier Press | [0761531653](https://www.amazon.com/dp/0761531653) | More of an introduction to the entire game business than a game design book. It's easy to read and nicely illustrated, and Bob Bates' credentials are impeccable.<br><br>与其说它是一本游戏设计书，不如说它是对整个游戏行业的介绍。这本书通俗易懂，图文并茂，鲍勃·贝茨的资历也无可挑剔。
+Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games<br>剑与电：电脑角色扮演游戏的设计师指南 | Hallford, Neal and Jana Hallford | Premier Press | [0761532994](https://www.amazon.com/dp/0761532994) | 
