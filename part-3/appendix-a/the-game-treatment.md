@@ -2,67 +2,107 @@
 
 So you've shown your high-concept document to a number of producers or potential investors, and now one of them wants a meeting to hear more about it. (It can take quite a while before you find a producer who's interested enough to give you the time. Be persistent!) For that meeting, you'll normally bring along the key members of your development team and do a PowerPoint presentation showing the main features and concept art for the game. It would also be good to have some prototype code running that you can show; producers want proof that you can deliver. But after the meeting is over, people's memory of what you said will start to fade and get mixed up with impressions of other developers' pitches for their products. To keep your game fresh in the producer's mind, you need to leave something behind to remind them of it.
 
+你已经向一些制作人或潜在投资人展示了你的高概念文件，现在他们中的一位希望与你会面，进一步了解你的文件。(在你找到一个有兴趣给你时间的制作人之前，可能需要相当长的一段时间。要坚持不懈！）。在会议上，你通常会带上开发团队的主要成员，做一个 PowerPoint 演示，展示游戏的主要功能和概念图。你最好还能展示一些正在运行的原型代码；制作人希望证明你能完成任务。但会议结束后，人们对你所讲内容的记忆会开始模糊，并与其他开发者的产品推介会印象混在一起。为了让制作人对你的游戏记忆犹新，你需要留下一些东西来提醒他们。
+
 This is where the game treatment comes in. A treatment is a longer document, typically 10 to 20 pages long. Again, it's a selling tool whose function is to show off your idea in the best possible light. The text and images should echo the images you used in the PowerPoint presentation. It should be attractively produced: printed on good-quality paper and bound in a report cover with a clear transparent front so people can see the picture on the title page. You want the treatment to say "Pick me up!" to anyone who sees it lying around, and it should be substantial enough to discourage throwing it away.
+
+这就是游戏综述的作用所在。游戏综述是一份较长的文件，通常有 10 到 20 页。同样，它也是一种销售工具，其作用是以最好的方式展示你的创意。文字和图片应与 PowerPoint 演示文稿中使用的图片相呼应。它的制作应具有吸引力：用优质纸张印刷，装订在报告封面上，封面透明，以便人们可以看到扉页上的图片。你希望这种处理方式能让看到它的人觉得“把我拿起来！”，而且它应该足够厚实，让人不忍心把它扔掉。
 
 Take copies of the game treatment to the meeting, but don't hand them out at the beginning—people will flip through them instead of paying attention to you. Hand them out to everyone after the meeting is over so that they'll have something to take away with them. And be sure you bring enough copies for everyone—the more that are floating around the publisher's offices, the better.
 
+带着游戏综述的副本去参加会议，但不要一开始就分发，因为大家会翻阅副本而不会注意你。会议结束后再发给大家，这样他们就有东西可以带走了。而且一定要给每个人带足够的副本——在发行商的办公室里分发的副本越多越好。
+
 What follows is a template for a game treatment. We don't have room to include an entire sample game treatment document here, but where it's helpful, we've included an excerpt from a hypothetical game treatment called Psychic Warriors to give you an idea of how it might read. Bear in mind that these excerpts are only partial, just to give you the flavor.
 
-## Title Page
+以下是游戏综述的模板。我们没有足够的空间在此收录整个游戏综述文件的样本，但在有帮助的地方，我们收录了一个名为《超能战士》的假想游戏综述文件的节选，让你了解它阅读起来的感受。请注意，这些摘录只是部分内容，供你参考。
+
+## Title Page 扉页
 
 The title page includes the game's title and a short tagline to indicate what it's about. As usual, it should also give the author's name, the date, and any necessary copyright or confidentiality information. Don't overemphasize this material, however; you want it to look attractive and fun, not like a legal document. If at all possible, include a big color picture.
 
-> Psychic Warriors Supernatural Combat Against the Forces of Evil
+扉页包括游戏的标题和简短的标语，以说明游戏的内容。按照惯例，扉页还应注明作者姓名、日期以及任何必要的版权或保密信息。不过，不要过分强调这些信息；你希望它看起来吸引人、有趣，而不是像一份法律文件。如果可能的话，请附上大幅彩色图片。
+
+> **Psychic Warriors Supernatural Combat Against the Forces of Evil 超能战士与邪恶势力的超自然战斗**
 > 
 > —Jeff Haas and Ernest W. Adams August 16, 2005
+> 
+> 杰夫·哈斯和欧内斯特·W·亚当斯 2005 年 8 月 16 日
 
-## Executive Summary
+## Executive Summary 执行摘要
 
 Like the features list in the high-concept document, this is a one-page bulleted list of the most important things to know about the game. In effect, it copies all the best points from later in the document onto the first page. It doesn't matter that the text duplicates that found elsewhere; that's why it's called a summary.
 
-> Psychic Warriors is an exciting new 3D action game from Foo Bar Productions. With an original and compelling storyline, Psychic Warriors combines paranormal and real-world combat against humans and huge morphing monsters. The psychic + military combat theme is not found in any product currently on the market.
+与高概念文档中的功能列表一样，这是一份单页的项目列表，列出了游戏中最重要的内容。实际上，它是将文档后面的所有要点复制到第一页。即使文字与其他地方的内容重复也没关系，这就是它被称为摘要的原因。
 
-## Game Overview
+> Psychic Warriors is an exciting new 3D action game from Foo Bar Productions. With an original and compelling storyline, Psychic Warriors combines paranormal and real-world combat against humans and huge morphing monsters. The psychic + military combat theme is not found in any product currently on the market.
+> 
+> 《超能勇士》是 Foo Bar Productions 公司推出的一款激动人心的全新 3D 动作游戏。《超能勇士》的故事情节新颖而引人入胜，它将超自然现象与现实世界中与人类和巨大变形怪兽的战斗结合在一起。通灵+军事战斗的主题是目前市场上任何产品都没有的。
+
+## Game Overview游戏 概述
 
 This is the first major section of the document, and it discusses what the game itself will be like. It is broken up into several subsections.
 
-### High Concept
+这是文档的第一个主要部分，讨论的是游戏本身的内容。它分为几个小节。
+
+### High Concept 高概念
 
 The high-concept statement is identical to that in the high-concept document. You can include a little more introductory material here, however.
 
-> Diablo meets The X-Files in 3D.
+高概念说明与高概念文档中的说明相同。不过，你可以在这里加入更多的介绍性材料。
+
+> [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) meets The X-Files in 3D.
+> 
+> [《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))与 3D 版《X 档案》的结合。
 > 
 > A new threat has appeared on the streets of America: a mysterious drug code-named Indoctrinol. No one sent to investigate it has ever come back, and it's clear that something sinister is going on. To neutralize this menace, you're given command of a super-secret team of four psychic warriors—psychically talented and superbly trained individuals drawn from the Special Forces of the U.S. Armed Services.
+>
+> 美国街头出现了一种新的威胁：一种代号为 Indoctrinol 的神秘药物。被派去调查它的人都没有回来，很显然，这其中一定有什么蹊跷。为了消除这一威胁，你被委派指挥一支由四名超能战士组成的超级秘密小队——他们都是来自美国陆军特种部队，拥有超强的心理天赋，训练有素。
 
-### Genre
+### Genre 类型
 
 This is similar to the genre statement in the high-concept document. Because this document is a little longer, you can afford to go into more detail—a short paragraph, if necessary—perhaps referring to other games that this game is similar to.
 
-* Mission-based small-squad action/tactical game combining psychic and real-world combat with a variety of weapons against humans and huge morphing monsters.
+这与高概念文档中的类型说明类似。由于本文档篇幅稍长，你可以写得更详细——如果有必要，可以写一小段——或许可以提及本游戏与其他游戏的相似之处。
 
-### Hooks
+* Mission-based small-squad action/tactical game combining psychic and real-world combat with a variety of weapons against humans and huge morphing monsters.\
+以任务为基础的小队行动/战术游戏，结合精神和现实世界的战斗，使用各种武器对付人类和巨大的变形怪物。
+
+### Hooks 钩子
 
 A hook is any element—graphical, auditory, gameplay, storyline, theme—that will attract the player to the game and, you hope, keep her there. In effect, this section is the answer to the question "Why would anyone buy this game?" Don't throw in the kitchen sink; choose your five or six best features to emphasize here.
 
+钩子是指任何元素——图形、听觉、游戏玩法、故事情节、主题——都能吸引玩家进入游戏，并希望能让她留在游戏中。实际上，这一部分就是对 “为什么有人会买这款游戏？”这个问题的回答。不要把所有的东西都扔进厨房水槽；选择五六个最好的特点在这里加以强调。
+
 Psychically skilled characters go beyond usual military weapons. Many opportunities for exciting special effects here. There are no current competitors in this arena.
+
+有特异功能的角色超越了一般的军事武器。这里有许多令人兴奋的特效机会。在这一领域目前还没有竞争对手。
 
 Third-person, squad-oriented perspective permits simultaneous control over the team. This allows for interesting tactical behaviors such as covering fire and performing leapfrog maneuvers, which are more difficult to control in first-person games.
 
+第三人称小队视角，允许同时控制整个团队。这样就可以进行有趣的战术行为，如火力掩护和蛙跳动作，而这些在第一人称游戏中较难控制。
+
 Morphing enemies add visual variety and an element of suspense—is that a human or a monster in disguise?
 
-### License
+变形敌人增加了视觉多样性和悬念元素——那是人类还是怪物的伪装？
+
+### License 许可证
 
 If this game will use licensed property, indicate which one and how the game will exploit the features and public recognition value of the license. What you choose to include here depends a lot on the nature of the license. For example, in a driving game featuring sports cars, you'll want to emphasize the performance characteristics of the actual car brands you've licensed. In a game based on a movie, you should talk about the characters and locations that appeared in the movie.
 
-### Gameplay Highlights
+如果游戏将使用许可财产，请说明是哪一种，以及游戏将如何利用该许可的功能和公众认可价值。此处应包含哪些内容在很大程度上取决于许可证的性质。例如，在一款以跑车为主题的驾驶游戏中，你需要强调你获得授权的实际汽车品牌的性能特点。在根据电影改编的游戏中，你应该介绍电影中出现的人物和地点。
+
+### Gameplay Highlights 游戏亮点
 
 This section is a further list of elements that describe the experience of playing the game. Include anywhere from 10 to 20 different items. You don't have to present detailed lists of characters, places, or objects at this point; just say what sorts of things and features you want to include in the full design.
 
-* Very large variety of animations, to allow for a vast number of specialized activities.
+本部分进一步列出了描述游戏体验的要素。包括 10 到 20 个不同的项目。此时您不必详细列出角色、地点或物品；只需说明您希望在完整设计中包含哪些事物和功能即可。
 
-* Many different richly detailed environments from around the world.
-
-* Intelligent situation-based movement by AI-controlled characters, implementing proper tactics and muzzle discipline.
+* Very large variety of animations, to allow for a vast number of specialized activities.\
+动画种类繁多，可进行大量专门活动。
+* Many different richly detailed environments from around the world.\
+来自世界各地的多种不同的、细节丰富的环境。
+* Intelligent situation-based movement by AI-controlled characters, implementing proper tactics and muzzle discipline.\
+由人工智能控制的角色可根据情况进行智能移动，执行适当的战术和枪口纪律。
 
 ### Online Highlights
 
