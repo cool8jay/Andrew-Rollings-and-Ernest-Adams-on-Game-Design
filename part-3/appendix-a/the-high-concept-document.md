@@ -163,11 +163,11 @@ In the last section, you can include additional material that you think the read
 > 
 > *Butch:* The bruiser on the block. Big and strong, hard to tackle, but slow. Great pass distance, but poor accuracy. A fair receiver. Excellent stamina. A loner, he usually stands by himself—he's not especially good with any other player.
 > 
-> *巴奇：* 挡拆中的悍将。高大强壮，难以擒抱，但速度较慢。传球距离远，但准确性差。一个不错的接球手。耐力出色。他是个独行侠，通常一个人独来独往，不善于与其他球员合作。 
+> *巴奇：* 街区里的硬汉。高大强壮，难以拦截，但速度慢。传球距离远，但准确性差。接球能力一般。耐力极好。他是个独行侠，通常一个人独来独往，不善于与其他球员合作。 
 > 
 > *Dana:* She's lithe and agile, a good scrambler, and the fastest runner of the bunch. A good receiver and a fairly accurate passer, but her range is short. Fair stamina. Dana is Joey's girlfriend and stands with her arm around him, so they make a good team.
 > 
-> *达娜：* 她体态轻盈、动作敏捷，是一名优秀的抢断手，也是跑得最快的球员。她是一名优秀的接球手，传球相当准确，但射程较短。耐力尚可。丹娜是乔伊的女朋友，搂着他站在一起，所以他们是很好的搭档。
+> *达娜：* 她体态轻盈、动作敏捷，是一名优秀的四分卫，也是跑得最快的球员。她是一名优秀的接球手，传球相当准确，但射程较短。耐力尚可。丹娜是乔伊的女朋友，搂着他站在一起，所以他们是很好的搭档。
 > 
 > …etc.…
 > 
