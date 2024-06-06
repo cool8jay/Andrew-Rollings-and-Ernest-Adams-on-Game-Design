@@ -82,19 +82,19 @@ In the last section, you can include additional material that you think the read
 > * The point of view is derived from fighting games, with large, detailed players.
 > 该视角源自格斗游戏，玩家人数众多，细节丰富。
 > * You choose teams just like in real sandlot football, taking turns picking players from the neighborhood crowd. Each person has a different look, attributes, and set of skills. Not all the kids are available all the time.
-> 你可以像真正的沙地足球一样选择球队，轮流从附近的人群中挑选球员。每个人都有不同的外表、属性和技能。并不是所有的孩子都能一直踢球。
+> 你可以像真正的街头足球一样选择球队，轮流从附近的人群中挑选球员。每个人都有不同的外表、属性和技能。并不是所有的孩子都能一直踢球。
 > * The "field" is an urban alley about 50 yards long. Sidewalks are out of bounds. Garbage cans, potholes, and junked cars create additional obstacles. Tin cans mark the yard lines.
-> 球场 "是一条长约 50 码的城市小巷。人行道是禁区。垃圾桶、坑坑洼洼的路面和破旧的汽车都是额外的障碍。铁罐标出了码线。
+> “球场”是一条长约 50 码的城市小巷。人行道是禁区。垃圾桶、坑坑洼洼的路面和破旧的汽车都是额外的障碍。铁罐标出了码线。
 > * As in a fighting game, it's the personal interactions that count. Dodging, ducking, faking, jumping, diving, and tackling are all essential parts of the game. Certain players have special moves or abilities.
 > 和格斗游戏一样，人与人之间的互动才是最重要的。躲闪、闪避、假动作、跳跃、俯冲和擒抱都是游戏的重要组成部分。某些玩家拥有特殊的动作或能力。
 > * Five pass plays, five running plays, and the field goal make up the whole playbook. Field goals and extra points are kicked through two guys holding their arms out and up like goalposts.
-> 五种传球战术、五种跑动战术和射门得分构成了整个战术手册。射门得分和加分是通过两个人像门柱一样伸出手臂踢出的。
+> 五种传球战术、五种跑动战术和射门得分构成了整个战术手册。射门得分和加分通过把球踢过两个人得分，这两人伸出高举手臂充当门柱。
 > * Health meters show the players' level of injury and fatigue. If you lose a player, you can pick another one, but you forfeit two touchdowns.
 > 健康指数显示球员的受伤和疲劳程度。如果你失去了一名球员，你可以再选一名，但你要放弃两次达阵。
-> * Rules are adapted for street football: You have four downs to get into your opponent's territory, and four more downs to score. Otherwise, you turn over the ball—no punting. No penalties except offsides, but expect a fistfight if it gets too rough.
-> 规则是根据街头足球改编的： 你有四次进攻机会进入对手的领地，再有四次进攻机会得分。否则，你就翻球，不能罚球。除越位外没有罚球，但如果太粗暴就会发生拳击。
+> * Rules are adapted for [street football](https://en.wikipedia.org/wiki/Street_football_(American)): You have four downs to get into your opponent's territory, and four more downs to score. Otherwise, you turn over the ball—no punting. No penalties except offsides, but expect a fistfight if it gets too rough.
+> 规则是根据[街头足球](https://en.wikipedia.org/wiki/Street_football_(American))改编的：你有四次进攻机会进入对手的领地，再有四次进攻机会得分。否则，你就翻球，不能罚球。除越位外没有罚球，但如果太粗暴就会发生拳击。
 > * Lots of comedy touches: ball breaks a window—player flies into garbage can—player slips and skids on oil slick—van drives down alley and flattens football—little kid rides tricycle across the field—rival gangs appear and tag buildings, and then disappear—nerdy bystander gets called home to supper.
-> 很多喜剧元素：球打破窗户--球员飞进垃圾桶--球员滑倒在浮油上--货车开进小巷，压扁了足球--小孩子骑着三轮车穿过球场--敌对帮派出现，标记建筑物，然后消失--可爱的旁观者被叫回家吃晚饭。
+> 很多喜剧元素：球打破窗户——球员飞进垃圾桶——球员滑倒在浮油上——货车开进小巷，压扁了足球——小孩子骑着三轮车穿过球场——敌对帮派出现，标记建筑物，然后消失——可爱的旁观者被叫回家吃晚饭。
 > 
 > **Player Motivation 玩家动机**
 > 
@@ -141,11 +141,11 @@ In the last section, you can include additional material that you think the read
 > 
 > Simple: Very simple play-calling combined with fighting-game controls makes this an easy game to learn and play.
 > 
-> 简单： 非常简单的游戏指令结合格斗游戏的控制方式，使这款游戏易于学习和玩耍。
+> 简单：非常简单的游戏指令结合格斗游戏的控制方式，使这款游戏易于学习和玩耍。
 > 
 > Hot: Fast, arcade-style action. No timeouts, no players running on and off the field, no stats or halftime summaries: just raw football.
 > 
-> 热门：快速、街机风格的比赛。没有暂停，没有球员跑上跑下，没有统计数据或中场总结：只有原始的橄榄球。
+> 热门：快速、街机风格的比赛。没有暂停，没有球员跑上跑下，没有统计数据或中场总结：只有原始的足球。
 > 
 > Deep: Because teams are made up of pairs of different individuals, lots of possible teams are available. It takes a while to find the best pairings, not to mention playing your way to the top of the championship tree.
 > 
