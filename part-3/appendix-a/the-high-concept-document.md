@@ -65,7 +65,7 @@ In the last section, you can include additional material that you think the read
 > 
 > The following is an old high-concept document for a simple console or arcade game. It was written before the currently popular "extreme" sports games existed, so although this game was never made, some of its ideas did find their way into other games.
 > 
-> 以下是一份关于简单的游戏机或街机游戏的高概念旧文档。它写于目前流行的 “极限 ”运动游戏出现之前，因此尽管这款游戏从未被制作出来，但其中的一些想法确实被应用到了其他游戏中。
+> 以下是一份关于简单的游戏机或街机游戏的高概念旧文档。它写于目前流行的“极限”运动游戏出现之前，因此尽管这款游戏从未被制作出来，但其中的一些想法确实被应用到了其他游戏中。
 > 
 > **Street Football—2 on 2! 街头足球——2对2！**
 > 
