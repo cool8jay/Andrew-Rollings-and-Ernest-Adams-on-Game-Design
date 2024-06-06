@@ -75,7 +75,7 @@ In the last section, you can include additional material that you think the read
 > 
 > The game at its grittiest. No pads, no helmets, no refs, no field. It's just you and the guys, a ball, and a lot of asphalt. Choose up sides and go for it, two on two.
 > 
-> 最残酷的比赛 没有护具，没有头盔，没有裁判，没有场地。只有你和你的队员，一个球，还有许多沥青。选好阵型，二对二，一决胜负。
+> 最残酷的比赛。没有护具，没有头盔，没有裁判，没有场地。只有你和你的队员，一个球，还有许多沥青。选好阵型，二对二，一决胜负。
 > 
 > **Features 特点**
 > 
