@@ -258,18 +258,13 @@ Lay out the game's narrative arc as far as you know it. Document the twists and 
 根据你的了解，列出游戏的叙事弧线。记录故事可能出现的曲折，并说明玩家的成功或失败将如何影响其游戏进程。例如，如果故事是线性的，玩家必须完成每个情节才能继续，那就这么说；如果故事是分支式的，那就这么说，并解释玩家如何沿着一个分支或另一个分支前进。不要写小说——这不是设计脚本，而是提供一个小说大纲，列出情节中的关键事件。
 
 > In the single-player game, missions will progress from easy to hard as the team follows the drug back to its source. Initially dealing only with human drug dealers on a local scale, they will eventually take on smugglers, distributors, and manufacturers of the drug.
-> <br/>
 > 
 > 在单人游戏中，随着小组追踪毒品的源头，任务将由易到难。起初，他们只在当地范围内与人类毒贩打交道，最终将与毒品走私商、分销商和制造商交手。
-> <br/>
 > 
 > In later missions, it will become clear that there are demonic creatures among the humans, for reasons that are not initially clear. They will remain in human form for as long as possible, but when attacked hard enough, they will morph into their original demonic forms, huge and terrifying.
-> <br/>
 > 
 > 在后面的任务中，我们会发现人类中存在恶魔生物，原因最初并不清楚。它们会尽可能长时间地保持人形，但一旦受到足够猛烈的攻击，就会变形为原来的恶魔形态，巨大而可怕。
-> <br/>
 > 
 > To combat these creatures, additional psychic training and nontraditional weapons will be provided to the team as the game goes on...
-> <br/>
 > 
 > 为了对付这些生物，随着游戏的进行，还将为团队提供额外的通灵训练和非传统武器……
