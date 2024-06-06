@@ -95,7 +95,7 @@ If this game will use licensed property, indicate which one and how the game wil
 
 This section is a further list of elements that describe the experience of playing the game. Include anywhere from 10 to 20 different items. You don't have to present detailed lists of characters, places, or objects at this point; just say what sorts of things and features you want to include in the full design.
 
-本部分进一步列出了描述游戏体验的要素。包括 10 到 20 个不同的项目。此时您不必详细列出角色、地点或物品；只需说明您希望在完整设计中包含哪些事物和功能即可。
+本部分进一步列出了描述游戏体验的要素。包括 10 到 20 个不同的项目。此时你不必详细列出角色、地点或物品；只需说明你希望在完整设计中包含哪些事物和功能即可。
 
 * Very large variety of animations, to allow for a vast number of specialized activities.\
 动画种类繁多，可进行大量专门活动。
@@ -113,7 +113,7 @@ If the game will include an online or multi-player element, it will be useful to
 * Cooperative multi-player play via Internet, LAN, or modem.\
 通过互联网、局域网或调制解调器进行多人合作游戏。
 * Web server offering matchmaking/team-assembly service (à la BattleNet), tournaments, chat areas, and bulletin boards.\
-网络服务器提供匹配/组队服务（类似于 BattleNet）、锦标赛、聊天室和公告板。
+网络服务器提供匹配/组队服务（类似于 BattleNet）、锦标赛、聊天室和论坛。
 * Unique missions available online that are not provided in the retail product. A scoring system will allow for competitive team play.\
 在线提供零售产品中没有的独特任务。计分系统将使团队竞技游戏成为可能。
 
@@ -121,7 +121,7 @@ If the game will include an online or multi-player element, it will be useful to
 
 This is where you talk about the great technology that your game will include, particularly anything innovative. If you're planning to license a game engine from a third party, name it here and indicate what it brings to the project. Don't go into programming details unless you're sure you audience will understand them; instead, discuss how the software will enhance the game. Technology doesn't necessarily mean only programming, either. Include anything that uses or requires advanced technology.
 
-在这里您可以介绍游戏中包含的先进技术，尤其是创新技术。如果您计划从第三方获得游戏引擎的授权，请在此点名并说明它能为项目带来什么。除非你确信观众能够理解，否则不要谈论编程细节；相反，要讨论软件将如何增强游戏的功能。技术也不一定仅指编程。只要是使用或需要先进技术的内容都可以包括在内。
+在这里你可以介绍游戏中包含的先进技术，尤其是创新技术。如果你计划从第三方获得游戏引擎的授权，请在此点名并说明它能为项目带来什么。除非你确信观众能够理解，否则不要谈论编程细节；相反，要讨论软件将如何增强游戏的功能。技术也不一定仅指编程。只要是使用或需要先进技术的内容都可以包括在内。
 
 * Morphing polygonal enemies. Humans transform into hideous zombies and other monsters as they run at you.\
 变形多边形敌人。人类在冲向你时会变成狰狞的僵尸和其他怪物。
@@ -132,7 +132,7 @@ This is where you talk about the great technology that your game will include, p
 
 If there are any special details about the art or audio that you want to include, do so here. Many games now feature soundtracks by pop or rap groups, or dance tracks by famous DJs. These are obviously big selling points for the product, so be sure to mention them prominently. Likewise, if your art or animation includes anything special or unusual, point it out.
 
-如果您有任何关于美术或音频的特别细节，请在此处填写。现在很多游戏都有流行音乐或说唱组合的原声带，或者著名 DJ 的舞曲。这些显然是产品的一大卖点，因此一定要在显著位置提及。同样，如果你的美术或动画包含任何特殊或不寻常的东西，也要指出来。
+如果你有任何关于美术或音频的特别细节，请在此处填写。现在很多游戏都有流行音乐或说唱组合的原声带，或者著名 DJ 的舞曲。这些显然是产品的一大卖点，因此一定要在显著位置提及。同样，如果你的美术或动画包含任何特殊或不寻常的东西，也要指出来。
 
 * Motion-captured animations drawn from ex–Delta Force personnel (for characters), actors, dancers, and gymnasts (for enemy humans and monsters).\
 动作捕捉动画来自前三角洲部队人员（角色）、演员、舞者和体操运动员（敌方人类和怪物）。
@@ -147,7 +147,7 @@ As in the high-concept document, state your target platform. If it is a personal
 
 If you're writing a treatment as part of a pitch to a publisher, it's essential to say not only what the game will be like, but who will develop it and when, and what it will cost to develop. Good game ideas might be common, but good development teams are rare; the publisher will want to see evidence that you have the resources and experience to get the job done.
 
-如果您正在撰写作为向发行商推介的一部分的处理程序，那么不仅要说明游戏会是什么样子，还要说明由谁来开发、何时开发以及开发成本是多少。好的游戏创意可能很常见，但好的开发团队却很少见；出版商希望看到你有资源和经验完成工作的证据。
+如果你正在撰写作为向发行商推介的一部分的综述，那么不仅要说明游戏会是什么样子，还要说明由谁来开发、何时开发以及开发成本是多少。好的游戏创意可能很常见，但好的开发团队却很少见；发行商希望看到你有资源和经验完成工作的证据。
 
 ### Current Status 现状
 
@@ -157,7 +157,7 @@ Start by letting the publisher know where you are now. If you have actually begu
 
 Completed prototype demonstrating military (but not psychic) game features. Includes:
 
-展示军事（但非通灵）游戏功能的已完成原型。包括
+展示军事（但非通灵）游戏功能的已完成原型。包括：
 
 * 3D landscape with moving water and foliage, bridges, buildings, vehicles.\
 三维景观，有移动的水和树叶、桥梁、建筑和车辆。
@@ -165,64 +165,106 @@ Completed prototype demonstrating military (but not psychic) game features. Incl
 * Player characters with visible differences, motion-captured animations, variety of movement modes.\
 具有明显差异的玩家角色、动作捕捉动画、各种运动模式。
 
-### Development Team
+### Development Team 开发团队
 
 List the names and qualifications of your key people. Indicate what role each will play in the project. Don't include their entire résumés; nobody will read all that. Instead, give a one-paragraph synopsis of each person's history, including who they've worked for, in what position, and what games they already have credited to them. Include their education only if it's relevant and recent; producers are much more interested in knowing that someone has shipped a successful product than in where he went to school.
 
+列出主要人员的姓名和资历。说明每个人在项目中将扮演的角色。不要把他们的简历都写进去，因为没有人会看完所有的简历。相反，只需用一个段落简要介绍每个人的履历，包括他们曾为谁工作过、担任过什么职位、有哪些游戏是他们的功劳。制作人更想知道的是某个人曾经成功地推出过一款产品，而不是他在哪里上的学。
+
 Don't include more than about six people here. If you have a big team, list only your managers and star performers.
 
-### Budget
+这里不要包括超过 6 个人。如果你有一个庞大的团队，请只列出经理和明星员工。
 
-Budgeting game development is a black art indeed and is far beyond the scope of this book. At this point in the process, without a signed contract, it's not worth trying to figure out a detailed budget—you can't know what everything will cost until you and the publisher have agreed on what all the game will include. However, you can give a rough estimate of how much you expect to spend overall. This lets the publisher know approximately how big your ambitions are. If you say $500,000 here, they'll know you're talking about a small project; if you say $5 million, they'll know you want to build a blockbuster.
+### Budget 预算
+
+Budgeting game development is a black art indeed and is far beyond the scope of this book. At this point in the process, without a signed contract, it's not worth trying to figure out a detailed budget—you can't know what everything will cost until you and the publisher have agreed on what all the game will include. However, you can give a rough estimate of how much you expect to spend overall. This lets the publisher know approximately how big your ambitions are. If you say \$500,000 here, they'll know you're talking about a small project; if you say $5 million, they'll know you want to build a blockbuster.
+
+游戏开发预算的确是一门黑色艺术，远远超出了本书的范围。在这个过程中，在没有签订合同的情况下，不值得去计算详细的预算——在你和发行商就游戏的所有内容达成一致之前，你无法知道所有的花费。不过，你可以大致估算一下你预计的总体花费。这可以让发行商知道你的野心大概有多大。如果你在这里说 50 万美元，他们就会知道你说的是一个小项目；如果你说 500 万美元，他们就会知道你想制作一部大作。
 
 At this point, nobody will hold you to whatever number you put down; it's only a guideline. The number that really matters will be the one in the contract.
 
-### Schedule
+在这一点上，无论你写下多少数字，都不会有人阻止你，这只是一个指导原则。真正重要的数字是合同中的数字。
+
+### Schedule 时间表
 
 As with budgeting, there's no point in scheduling tasks in detail until you know what they're going to be. However, you can offer a proposed ship date for the product and some key milestones here, if you want to. Again, this information just serves as a guide to the publisher to indicate how ambitious the project is. The real schedule will be the one built into the development contract.
 
-## Competition
+与预算一样，在知道任务内容之前，详细安排任务是没有意义的。不过，如果你愿意，可以在这里提供产品的建议发货日期和一些关键里程碑。同样，这些信息只是为出版商提供指导，说明项目的雄心有多大。真正的时间表将是开发合同中规定的时间表。
+
+## Competition 竞争
 
 The section on competition was optional in the high-concept document, but at this point it's essential. A publisher will want to know what other games this product will be going up against in the marketplace, and how to position yours to beat them. Bear in mind that you're talking about a time 12 to 24 months in the future, depending on how long it will take to build your game. Games that are already on the market are unlikely to be its competition unless you expect their publishers to issue sequels or updates to them. The competition you need to list are the games that are under development at the same time as yours. Because they won't be advertised yet, you'll have to read the trade press and industry web sites to find out what features they're expected to include.
 
+在高概念文件中，关于竞争的部分是可有可无的，但此时这却是必不可少的。发行商会想知道这款产品在市场上会遇到哪些其他游戏，以及如何定位你的产品才能打败它们。请记住，你所讨论的是未来 12 到 24 个月的时间，这取决于制作游戏所需的时间。已经上市的游戏不太可能成为竞争对手，除非你希望它们的发行商发行续集或更新。你需要列出的竞争对手是与你的游戏同时在开发中的游戏。因为这些游戏还没有做广告，所以你必须通过阅读行业媒体和行业网站来了解它们预计会包含哪些功能。
+
 For each competing product, list its name, who makes it, what machine it's for, and when it's expected to ship, along with a summary of its key features. Then indicate clearly what will make your game different from it and, above all, better.
 
-## Game World
+对于每种竞争产品，列出其名称、生产商、适用机器、预计发布时间以及主要功能摘要。然后明确指出你的游戏与它的不同之处，尤其是更好的地方。
+
+## Game World 游戏世界
 
 In the last major section in the document, you can include anything else that's likely to get your reader fired up about the product. You've already discussed the gameplay, technology, and general features of the game, so this is the time to include background material that draws the reader deeper into your world.
 
-### Backstory
+在文件的最后一个主要部分，你可以加入任何其他可能让读者对产品产生兴趣的内容。你已经讨论过游戏的玩法、技术和一般特点，因此现在可以加入背景材料，让读者更深入地了解你的游戏世界。
+
+### Backstory 背景故事
 
 If your game has a story and characters, then presumably something has happened that created the game's primary challenge. Tell your reader briefly what happened in the days (or geologic ages, depending!) leading up to the beginning of the game.
 
-> The appearance of Indoctrinol has thrown America's national security apparatus into a panic. Everyone sent to investigate it has disappeared, including the elite Delta Force and Seal teams. It's clear that something special is called for. Searching the entire U.S. military, the government has found four—only four—superb soldiers who also have latent psychic abilities. After a few days of training, they're sent on their way: strangers to one another on a mission to the unknown.
+如果你的游戏有故事和人物，那么就可能发生了一些事情，从而产生了游戏的主要挑战。请简要地告诉你的读者，在游戏开始之前的几天（或地质年代，视情况而定！）里发生了什么。
 
-### Objective
+> The appearance of Indoctrinol has thrown America's national security apparatus into a panic. Everyone sent to investigate it has disappeared, including the elite Delta Force and Seal teams. It's clear that something special is called for. Searching the entire U.S. military, the government has found four—only four—superb soldiers who also have latent psychic abilities. After a few days of training, they're sent on their way: strangers to one another on a mission to the unknown.
+> 
+> Indoctrinol 的出现让美国的国家安全机构陷入了恐慌。所有被派去调查它的人都失踪了，包括精英三角洲部队和海豹突击队。很显然，需要采取特别行动。在搜索整个美国军队后，政府发现了四名——只有四名——超级士兵，他们还拥有潜在的通灵能力。经过几天的训练后，他们被送上了路：彼此陌生，前往未知的地方执行任务。
+
+### Objective 目标
 
 What is the player's overall objective, the thing she is trying to achieve to complete the game? This doesn't have to be the "true" objective, however—the player can find evidence of a deeper and more serious problem as he plays.
 
-> Follow the trail of Indoctrinol back to its source, and wipe it out. This will take you to locations around the world, operating undercover to perform missions against Third-World dictators, drug lords, terrorists, organized crime, and anyone else who has anything to do with Indoctrinol.
+玩家的总体目标是什么？这不一定是“真正的”目标——玩家可以在游戏过程中发现更深层次、更严重的问题。
 
-### Characters
+> Follow the trail of Indoctrinol back to its source, and wipe it out. This will take you to locations around the world, operating undercover to perform missions against Third-World dictators, drug lords, terrorists, organized crime, and anyone else who has anything to do with Indoctrinol.
+> 
+> 追踪 Indoctrinol 的踪迹，找到它的源头，并将其消灭。这将把你带到世界各地，秘密执行任务，打击第三世界的独裁者、毒枭、恐怖分子、有组织犯罪团伙以及任何与 Indoctrinol 有关的人。
+
+### Characters 角色
 
 If you've already defined the game's characters and they are important enough to help sell the game, include their names, pictures, backgrounds, and special abilities here.
 
-> **Paul "Mayhem" Jackson**
+如果你已经确定了游戏中的角色，而且这些角色的重要性足以帮助推销游戏，那么请在此处列出他们的姓名、照片、背景和特殊能力。
+
+> **Paul "Mayhem" Jackson 保罗·“混乱”·杰克逊**
 > 
 > Psychic ability: Shield. Can project a protective shield around teammates.
 > 
+> 精神能力：护盾。可以在队友周围投射一个保护罩。
+> 
 > Weapons: Chain gun, grenade launcher. Mayhem is a heavy-weapons expert.
+> 
+> 武器：连环枪、榴弹发射器。“混乱”是重型武器专家。
 > 
 > Armor: Very heavy, which makes him relatively slow-moving.
 > 
+> 装甲：非常重，移动速度相对较慢。
+> 
 > Personality: Angry and ruthless over some event in his past.
+> 
+> 性格：因过去的某些事件而愤怒且冷酷无情。
 
-### Mission or Story Progression
+### Mission or Story Progression 任务或故事进展
 
 Lay out the game's narrative arc as far as you know it. Document the twists and turns that the story might take, and indicate the way in which the player's success or failure will affect her progress through the game. For example, if the story is linear and the player must accomplish each scenario in order to proceed, say so; if it is branching, say that and explain how the player goes down one branch or another. Don't write a novel—this isn't the design script—but rather provide an outline for a novel, listing the key events in the plot.
 
+根据你的了解，列出游戏的叙事弧线。记录故事可能出现的曲折，并说明玩家的成功或失败将如何影响其游戏进程。例如，如果故事是线性的，玩家必须完成每个情节才能继续，那就这么说；如果故事是分支式的，那就这么说，并解释玩家如何沿着一个分支或另一个分支前进。不要写小说——这不是设计脚本，而是提供一个小说大纲，列出情节中的关键事件。
+
 > In the single-player game, missions will progress from easy to hard as the team follows the drug back to its source. Initially dealing only with human drug dealers on a local scale, they will eventually take on smugglers, distributors, and manufacturers of the drug.
+> 
+> 在单人游戏中，随着小组追踪毒品的源头，任务将由易到难。起初，他们只在当地范围内与人类毒贩打交道，最终将与毒品走私商、分销商和制造商交手。
 > 
 > In later missions, it will become clear that there are demonic creatures among the humans, for reasons that are not initially clear. They will remain in human form for as long as possible, but when attacked hard enough, they will morph into their original demonic forms, huge and terrifying.
 > 
-> To combat these creatures, additional psychic training and nontraditional weapons will be provided to the team as the game goes on….
+> 在后面的任务中，我们会发现人类中存在恶魔生物，原因最初并不清楚。它们会尽可能长时间地保持人形，但一旦受到足够猛烈的攻击，就会变形为原来的恶魔形态，巨大而可怕。
+> 
+> To combat these creatures, additional psychic training and nontraditional weapons will be provided to the team as the game goes on...
+> 
+> 为了对付这些生物，随着游戏的进行，还将为团队提供额外的通灵训练和非传统武器……
