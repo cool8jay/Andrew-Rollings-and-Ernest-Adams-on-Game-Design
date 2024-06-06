@@ -104,47 +104,66 @@ This section is a further list of elements that describe the experience of playi
 * Intelligent situation-based movement by AI-controlled characters, implementing proper tactics and muzzle discipline.\
 由人工智能控制的角色可根据情况进行智能移动，执行适当的战术和枪口纪律。
 
-### Online Highlights
+### Online Highlights 在线亮点
 
 If the game will include an online or multi-player element, it will be useful to break it out into a separate section. Online play adds a whole new dimension to the game (unless it's online only, of course!) and brings its own challenges and rewards to both the publisher and the players.
 
-* Cooperative multi-player play via Internet, LAN, or modem.
+如果游戏包含在线或多人游戏元素，最好将其单独列出。在线游戏为游戏增添了一个全新的维度（当然，除非只有在线游戏！），并为发行商和玩家带来了自己的挑战和回报。
 
-* Web server offering matchmaking/team-assembly service (à la BattleNet), tournaments, chat areas, and bulletin boards.
+* Cooperative multi-player play via Internet, LAN, or modem.\
+通过互联网、局域网或调制解调器进行多人合作游戏。
+* Web server offering matchmaking/team-assembly service (à la BattleNet), tournaments, chat areas, and bulletin boards.\
+网络服务器提供匹配/组队服务（类似于 BattleNet）、锦标赛、聊天室和公告板。
+* Unique missions available online that are not provided in the retail product. A scoring system will allow for competitive team play.\
+在线提供零售产品中没有的独特任务。计分系统将使团队竞技游戏成为可能。
 
-* Unique missions available online that are not provided in the retail product. A scoring system will allow for competitive team play.
-
-### Technology Highlights
+### Technology Highlights 技术亮点
 
 This is where you talk about the great technology that your game will include, particularly anything innovative. If you're planning to license a game engine from a third party, name it here and indicate what it brings to the project. Don't go into programming details unless you're sure you audience will understand them; instead, discuss how the software will enhance the game. Technology doesn't necessarily mean only programming, either. Include anything that uses or requires advanced technology.
 
-* Morphing polygonal enemies. Humans transform into hideous zombies and other monsters as they run at you.
+在这里您可以介绍游戏中包含的先进技术，尤其是创新技术。如果您计划从第三方获得游戏引擎的授权，请在此点名并说明它能为项目带来什么。除非你确信观众能够理解，否则不要谈论编程细节；相反，要讨论软件将如何增强游戏的功能。技术也不一定仅指编程。只要是使用或需要先进技术的内容都可以包括在内。
 
-* Voice-recognition of commands in single-player mode. In multi-player mode, players can talk to other team members live using speakers and a microphone.
+* Morphing polygonal enemies. Humans transform into hideous zombies and other monsters as they run at you.\
+变形多边形敌人。人类在冲向你时会变成狰狞的僵尸和其他怪物。
+* Voice-recognition of commands in single-player mode. In multi-player mode, players can talk to other team members live using speakers and a microphone.\
+单人模式下的语音识别指令。在多人模式中，玩家可以使用扬声器和麦克风与其他团队成员进行实时对话。
 
-### Art and Audio Highlights
+### Art and Audio Highlights 艺术和音频亮点
 
 If there are any special details about the art or audio that you want to include, do so here. Many games now feature soundtracks by pop or rap groups, or dance tracks by famous DJs. These are obviously big selling points for the product, so be sure to mention them prominently. Likewise, if your art or animation includes anything special or unusual, point it out.
 
-* Motion-captured animations drawn from ex–Delta Force personnel (for characters), actors, dancers, and gymnasts (for enemy humans and monsters).
+如果您有任何关于美术或音频的特别细节，请在此处填写。现在很多游戏都有流行音乐或说唱组合的原声带，或者著名 DJ 的舞曲。这些显然是产品的一大卖点，因此一定要在显著位置提及。同样，如果你的美术或动画包含任何特殊或不寻常的东西，也要指出来。
 
-### Hardware
+* Motion-captured animations drawn from ex–Delta Force personnel (for characters), actors, dancers, and gymnasts (for enemy humans and monsters).\
+动作捕捉动画来自前三角洲部队人员（角色）、演员、舞者和体操运动员（敌方人类和怪物）。
+
+### Hardware 硬件
 
 As in the high-concept document, state your target platform. If it is a personal computer rather than a console, also state the minimum configuration required to play the game.
 
-## Production Details
+与高概念文件一样，请说明目标平台。如果是个人电脑而非游戏机，请说明玩游戏所需的最低配置。
+
+## Production Details 制作细节
 
 If you're writing a treatment as part of a pitch to a publisher, it's essential to say not only what the game will be like, but who will develop it and when, and what it will cost to develop. Good game ideas might be common, but good development teams are rare; the publisher will want to see evidence that you have the resources and experience to get the job done.
 
-### Current Status
+如果您正在撰写作为向发行商推介的一部分的处理程序，那么不仅要说明游戏会是什么样子，还要说明由谁来开发、何时开发以及开发成本是多少。好的游戏创意可能很常见，但好的开发团队却很少见；出版商希望看到你有资源和经验完成工作的证据。
+
+### Current Status 现状
 
 Start by letting the publisher know where you are now. If you have actually begun some prototype work or proof-of-concept work, say so and indicate what features it contains. If the game is still no more than a gleam in your eye, leave this section out.
 
+首先要让发行商知道你现在的状况。如果你确实已经开始了一些原型工作或概念验证工作，请说出来，并说明它包含哪些功能。如果游戏还只是你眼中的一个闪光点，就不要写这一部分。
+
 Completed prototype demonstrating military (but not psychic) game features. Includes:
 
-* 3D landscape with moving water and foliage, bridges, buildings, vehicles.
+展示军事（但非通灵）游戏功能的已完成原型。包括
 
-* Player characters with visible differences, motion-captured animations, variety of movement modes.
+* 3D landscape with moving water and foliage, bridges, buildings, vehicles.\
+三维景观，有移动的水和树叶、桥梁、建筑和车辆。
+
+* Player characters with visible differences, motion-captured animations, variety of movement modes.\
+具有明显差异的玩家角色、动作捕捉动画、各种运动模式。
 
 ### Development Team
 
