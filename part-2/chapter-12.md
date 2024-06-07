@@ -548,3 +548,7 @@ Considerable debate has raged over the years about whether to build a home-field
 > 25. What will the audio commentary be like? What events will it cover?
 > 26. 
 > 27. How does instant replay work?
+
+# Putting It Together
+
+A good sports game design requires compromises. We do not yet have the computing power to simulate a real sport in all of its complexity and detail on a home computer or video game console—and even if we did, we still don't have input and output devices that allow a player to feel as if he's really down on the field. Someday, when virtual reality is perfected and home computers are as powerful as today's supercomputers, we might be able to do this. In the meantime, it's the job of the sports game designer to fit the sport to the machine. Sports game design doesn't require nearly as much raw creativity as designing an adventure game or a role-playing game. It's a more subtle process that entails endless tuning and tweaking to find the right balance between realism and playability. When you get it right, you have a product that can sell for years and years.
