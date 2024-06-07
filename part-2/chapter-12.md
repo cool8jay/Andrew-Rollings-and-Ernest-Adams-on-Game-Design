@@ -521,34 +521,38 @@ Considerable debate has raged over the years about whether to build a home-field
 > 
 > In designing a sports game, consider the following questions as a starting point:
 > 
-> 1. What sport am I simulating? Is it a real sport or a made-up one? If it's real, do I want to get a license from a governing body?
-> 2. 
-> 3. What are the rules of my sport? If it's a real sport, can I really implement them all, or will it have to be a subset?
-> 4. 
-> 5. What competition modes am I going to offer—single-player, competitive, cooperative, teams? Which ones make sense for my sport, and which don't?
-> 6. 
-> 7. In addition to playing a single match, what other game modes will I offer? Season, tournament, franchise, career?
-> 8. 
-> 9. What is the best perspective for playing my sport? Directly overhead, from the sidelines, from some other angle? What intelligence needs to be built into the camera to make the game easy to play? How will I handle displaying actions at widely separated points?
-> 10. 
-> 11. How do I map the actions of an athlete, or an entire team of athletes, to the controls available to the player? Will the functions of the buttons need to change during the course of play? When and why? What additional markings should I draw on the field of play to compensate for the player's lack of depth perception? What pop-up windows over the play will the player need, and how do I prevent those from obscuring the action? When play is not in progress, how does the rest of the user interface look and work?
-> 12. 
-> 13. What roles will the player play in the sport? Athlete, coach, general manager? When does the player switch from one to another and why?
-> 14. 
-> 15. What's the general structure of the game? What screens do I need, and how do they lead from one to another? Can the player trade athletes among teams in the middle of the season, for example?
-> 16. 
-> 17. What changes will I need to make to the physics of the sport to make it playable by ordinary mortals?
-> 18. 
-> 19. What characteristics describe an athlete's abilities? How will they affect the way her behavior looks on the screen? Will some athletes have ratings peculiar to the positions they play?
-> 20. 
-> 21. What states can the game be in, even in times between active play? How does an athlete behave in each state? What are her goals in each state, and in team play, what is the collective goal of the team in each state? How does the individual athlete's behavior contribute to meeting the team's goal?
-> 22. 
-> 23. Am I going to offer automatic simulation of matches? How will that be done?
-> 24. 
-> 25. What will the audio commentary be like? What events will it cover?
-> 26. 
-> 27. How does instant replay work?
+> 在设计体育游戏时，可以从以下问题入手：
+> 1. What sport am I simulating? Is it a real sport or a made-up one? If it's real, do I want to get a license from a governing body?\
+> 我在模拟什么运动？是真实的运动还是虚构的运动？如果是真实的，我是否需要获得管理机构的许可？
+> 2. What are the rules of my sport? If it's a real sport, can I really implement them all, or will it have to be a subset?\
+> 我的运动有哪些规则？如果是一项真正的运动，我真的可以执行所有规则吗？
+> 3. What competition modes am I going to offer—single-player, competitive, cooperative, teams? Which ones make sense for my sport, and which don't?\
+> 我要提供哪些竞赛模式--单人模式、竞技模式、合作模式、团队模式？哪些对我的运动有意义，哪些没有？
+> 4. In addition to playing a single match, what other game modes will I offer? Season, tournament, franchise, career?\
+> 除了单场比赛，我还将提供哪些其他游戏模式？赛季、锦标赛、特许经营、职业生涯？
+> 5. What is the best perspective for playing my sport? Directly overhead, from the sidelines, from some other angle? What intelligence needs to be built into the camera to make the game easy to play? How will I handle displaying actions at widely separated points?\
+> 我运动的最佳视角是什么？从头顶、从场边还是从其他角度？需要在摄像机中加入哪些智能功能才能使游戏更容易进行？如何处理在相距甚远的点上显示动作？
+> 6. How do I map the actions of an athlete, or an entire team of athletes, to the controls available to the player? Will the functions of the buttons need to change during the course of play? When and why? What additional markings should I draw on the field of play to compensate for the player's lack of depth perception? What pop-up windows over the play will the player need, and how do I prevent those from obscuring the action? When play is not in progress, how does the rest of the user interface look and work?\
+> 如何将一名运动员或整个运动员团队的动作映射到玩家可用的控制按钮上？在比赛过程中，按钮的功能是否需要改变？何时改变？我应该在赛场上画哪些额外的标记来弥补球员深度知觉的不足？玩家需要在游戏过程中弹出哪些窗口，如何防止这些窗口遮挡游戏过程？不进行比赛时，用户界面的其他部分如何显示和运行？
+> 7. What roles will the player play in the sport? Athlete, coach, general manager? When does the player switch from one to another and why?\
+> 球员将在运动中扮演什么角色？运动员、教练、总经理？球员何时转换角色，为什么？
+> 8. What's the general structure of the game? What screens do I need, and how do they lead from one to another? Can the player trade athletes among teams in the middle of the season, for example?\
+> 比赛的总体结构是什么？我需要哪些屏幕，它们如何从一个屏幕引导到另一个屏幕？例如，球员可以在赛季中期在不同球队之间交换运动员吗？
+> 9. What changes will I need to make to the physics of the sport to make it playable by ordinary mortals?\
+> 为了让普通人也能玩，我需要对这项运动的物理原理做哪些改动？
+> 10. What characteristics describe an athlete's abilities? How will they affect the way her behavior looks on the screen? Will some athletes have ratings peculiar to the positions they play?\
+> 运动员的能力有哪些特征？这些特征将如何影响她在屏幕上的表现？有些运动员会有他们所从事的位置特有的评分吗？
+> 11. What states can the game be in, even in times between active play? How does an athlete behave in each state? What are her goals in each state, and in team play, what is the collective goal of the team in each state? How does the individual athlete's behavior contribute to meeting the team's goal?\
+> 即使在比赛间歇期，比赛也会处于什么状态？运动员在每种状态下的表现如何？她在每种状态下的目标是什么？在团队比赛中，团队在每种状态下的集体目标是什么？运动员的个人行为如何有助于实现团队目标？
+> 12. Am I going to offer automatic simulation of matches? How will that be done?\
+> 我是否要提供自动模拟比赛？如何实现？
+> 13. What will the audio commentary be like? What events will it cover?\
+> 语音解说会是什么样的？涵盖哪些事件？
+> 14. How does instant replay work?\
+> 即时回放如何进行？
 
-# Putting It Together
+# Putting It Together 总结
 
 A good sports game design requires compromises. We do not yet have the computing power to simulate a real sport in all of its complexity and detail on a home computer or video game console—and even if we did, we still don't have input and output devices that allow a player to feel as if he's really down on the field. Someday, when virtual reality is perfected and home computers are as powerful as today's supercomputers, we might be able to do this. In the meantime, it's the job of the sports game designer to fit the sport to the machine. Sports game design doesn't require nearly as much raw creativity as designing an adventure game or a role-playing game. It's a more subtle process that entails endless tuning and tweaking to find the right balance between realism and playability. When you get it right, you have a product that can sell for years and years.
+
+好的体育游戏设计需要妥协。我们还没有足够的计算能力在家用电脑或视频游戏机上模拟真实体育运动的所有复杂性和细节，即使有，我们也没有输入和输出设备让玩家感觉自己真的在赛场上。有朝一日，当虚拟现实技术日臻完善，家用电脑也能像今天的超级计算机一样强大时，我们或许就能做到这一点了。在此期间，体育游戏设计师的工作就是让体育运动与机器相匹配。体育游戏设计并不需要像设计冒险游戏或角色扮演游戏那样的原始创造力。这是一个更加微妙的过程，需要进行无休止的调整和修改，以便在逼真度和可玩性之间找到适当的平衡。当你做到这一点时，你就拥有了一款可以畅销多年的产品。
