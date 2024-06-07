@@ -22,7 +22,7 @@ We wrote this book to answer that question, specifically for people who want to 
 
 Andrew Rollings and Ernest Adams on Game Design contains our combined thoughts on the important issues that relate to designing games. We don't claim that it's the final word on game design. No book could be. We have chosen to address areas that we believe are important and under-served, and we don't expect everyone to agree with us on every point. That's the beauty and the terror of game design: There are no right answers.
 
-《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》包含了我们对游戏设计相关重要问题的综合思考。我们并不宣称这是游戏设计方面的定论。没有一本书可以做到这一点。我们选择了一些我们认为重要且未得到充分关注的领域，我们并不期望每个人都同意我们的观点。这正是游戏设计的美妙和可怕之处：没有正确的答案。
+《安德鲁·罗林斯和欧内斯特·亚当斯论游戏设计》这本书包含了我们对游戏设计相关重要问题的综合思考。我们并不宣称这是游戏设计方面的定论。没有一本书可以做到这一点。我们选择了一些我们认为重要且未得到充分关注的领域，我们并不期望每个人都同意我们的观点。这正是游戏设计的美妙和可怕之处：没有正确的答案。
 
 We offer a game design methodology intended to spur your thinking and get your creative juices flowing. In this book, you will not find step-by-step instructions on how to create the next [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) or [Tetris](https://en.wikipedia.org/wiki/Tetris) clone. Instead, we discuss the central issues that every game designer must face, and we pose a series of questions for you to ask yourself about the game that's in your head. The answers to those questions will move you along the path from idea to design.
 
@@ -92,13 +92,13 @@ Andrew Rollings and Ernest Adams on Game Design is divided into two parts. The f
 
 [第十一章](/part-2/chapter-11.md)介绍角色扮演游戏，它是纸笔游戏（如龙与地下城）的自然产物。
 
-Chapter 12 looks at sports games, which have a number of peculiar design challenges. The actual contest itself is designed by others; the trick is to map human athletic activities onto a screen and control devices.
+[Chapter 12](/part-2/chapter-12.md) looks at sports games, which have a number of peculiar design challenges. The actual contest itself is designed by others; the trick is to map human athletic activities onto a screen and control devices.
 
-第十二章介绍体育游戏，体育游戏在设计上面临许多特殊的挑战。真实比赛本身是由他人设计的；诀窍在于将人类的运动活动映射到屏幕和控制设备上。
+[第十二章](/part-2/chapter-12.md)介绍体育游戏，体育游戏在设计上面临许多特殊的挑战。真实比赛本身是由他人设计的；诀窍在于将人类的运动活动映射到屏幕和控制设备上。
 
-Chapter 13 addresses vehicle simulations: cars, planes, boats, and other, more exotic modes of transportation such as tanks and mechs.
+[Chapter 13](/part-2/chapter-13.md) addresses vehicle simulations: cars, planes, boats, and other, more exotic modes of transportation such as tanks and mechs.
 
-第十三章涉及交通工具模拟：汽车、飞机、轮船以及其他更奇特的交通工具，如坦克和机甲。
+[第十三章](/part-2/chapter-13.md)涉及交通工具模拟：汽车、飞机、轮船以及其他更奇特的交通工具，如坦克和机甲。
 
 [Chapter 14](/part-2/chapter-14.md) is about construction and management simulations, in which the player tries to build and maintain something—a city, a theme park, a planet—within the limitations of an economic system.
 

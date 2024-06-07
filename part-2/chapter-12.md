@@ -1,0 +1,11 @@
+Sports games set an unusual challenge for the game designer. Unlike most other games, which take place in a world the player knows little about, sports games emulate a world the player knows a lot about: sporting events as they are in real life. No one has ever really led an army of elves into combat, and only a small number of people know how it feels to fly an F-16 fighter jet, but a great many people know what professional football looks like and how the game is played. Sports games belong to a small number of genres that permit a direct comparison with the real world.
+
+Not all sports games are ultrarealistic, of course. Some, such as Electronic Arts' old Genesis game Mutant League Football, are fantasy games, even if they are based on real sports. Others, such as Midway's arcade game NFL Blitz, simplify a sport and deliberately make it more extreme for dramatic purposes. Most of these kinds of games are designed to appeal to kids, who might not know much about the real sport. But for aficionados, the game must be a reasonably accurate depiction of the real thing, and they will see any deviation as a flaw.
+
+This chapter discusses athletic sports, as opposed to sports such as motor racing. Although racing games are often sold in the sports category, from a design standpoint, they really belong in Chapter 13, "Vehicle Simulations."
+
+> **A Note on Terminology**
+> 
+> Because sports games simulate other games, as opposed to a war, a race, or an economic competition of some kind, the words player and game are ambiguous. Does player refer to the person playing the computer game or one of the athletes playing the game on the field? In this chapter, we use the following convention: Player refers to the person playing the computer game, as it does throughout the rest of the book. We call the people in the game athletes. Game refers to the computer game. When we refer to one particular contest, we call it a match. The type of match that the athletes are playing (basketball or soccer, for example) is called the sport.
+> 
+> A great many sports involve a playing area with a goal at either end and athletes trying to manipulate some object into the goal. Basketball, ice hockey, water polo, and soccer are all examples. We refer to these collectively as soccerlike games.
