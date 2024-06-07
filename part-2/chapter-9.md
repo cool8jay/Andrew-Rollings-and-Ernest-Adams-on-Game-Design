@@ -22,7 +22,7 @@ Dividing the genre into shooters and non-shooters is useful, but it's still not 
 
 Almost all action games use a number of common elements that are covered in this chapter, such as lives, reaction tests, and hand-eye coordination tests. Many of them also use the levels, waves, and power-up design elements. Less common nowadays, but originally very common (possibly due to hardware limitations), is the single-screen element.
 
-几乎所有的动作游戏都使用了本章所涉及的一些共同元素，如生命、反应测试和手眼协调测试。许多游戏还使用了关卡、波次和强化道具等设计元素。单屏元素如今已不常见，但最初却非常普遍（可能是由于硬件限制）。
+几乎所有的动作游戏都使用了本章所涉及的一些共同要素，如生命、反应测试和手眼协调测试。许多游戏还使用了关卡、波次和强化道具等设计元素。单屏元素如今已不常见，但最初却非常普遍（可能是由于硬件限制）。
 
 We will be discussing all of these elements later in the chapter. Before we do that, we will examine each of our initial genre divisions in turn, starting with the shooters.
 

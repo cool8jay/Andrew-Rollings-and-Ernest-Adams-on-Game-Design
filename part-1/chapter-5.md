@@ -114,7 +114,7 @@ Another series of games that has attempted the same sort of thing (although with
 
 Art-driven character design gives probably the most prominent common element in game design: the cute hero with an optional sidekick.
 
-美术驱动的角色设计可能提供了游戏设计中最突出的共同元素：可爱的主角，以及可能伴随的助手。
+美术驱动的角色设计可能提供了游戏设计中最突出的共同要素：可爱的主角，以及可能伴随的助手。
 
 This doesn't always jell as well as it should. For example, Sonic and Tails didn't work well together as a team because Sonic was much faster than Tails and kept running away from him. In other cases, alternative approaches give more success. Even though Banjo and Kazooie are separate entities, they were really only one player avatar; they just worked together inseparably. Link's fairy in the [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) games served as a sort of tutorial and hint system. Morte in [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) told the player a lot of background information in a funny, wise-guy style, but he was a character in his own right as well.
 
