@@ -24,7 +24,7 @@ As we said, online games have many positive qualities. Some of them are advantag
 
 The single greatest benefit of online play, as far as the players are concerned, is that it offers opportunities for social interaction. Of course, they can't talk as well as if they were in the same room together, and they can't give each other the high five, but these are minor considerations. The social aspect doesn't affect the internal economy of the game much, but it has a distinct effect on the players' enjoyment of the experience. One of the reasons that girls and women have traditionally been less interested in interactive entertainment, especially games for personal computers, is that it is often a solitary activity. But women represent a much greater proportion of the online game market than they do the single-player game market, chiefly for this reason: They enjoy interacting with others.
 
-就玩家而言，在线游戏最大的好处就是提供了社交互动的机会。当然，他们不能像在同一个房间里那样畅所欲言，也不能互相击掌，但这些都是次要的考虑因素。社交方面对游戏的内部经济影响不大，但对玩家的游戏体验却有明显的影响。传统上，女孩和妇女对互动娱乐，尤其是个人电脑游戏不太感兴趣，原因之一是互动娱乐往往是一种孤独的活动。但在网络游戏市场上，女性所占的比例远远高于单机游戏市场，主要原因就在于此：她们喜欢与他人互动。
+就玩家而言，在线游戏最大的好处就是提供了社交互动的机会。当然，他们不能像在同一个房间里那样畅所欲言，也不能互相击掌，但这些都是次要的考虑因素。社交方面对游戏的内部经济影响不大，但对玩家享受体验却有明显的影响。传统上，女孩和妇女对互动娱乐，尤其是个人电脑游戏不太感兴趣，原因之一是互动娱乐往往是一种孤独的活动。但在网络游戏市场上，女性所占的比例远远高于单机游戏市场，主要原因就在于此：她们喜欢与他人互动。
 
 At the moment, this capability is usually limited to typing text ("chatting"), which is awkward while trying to play a fast-paced game, but a few games are beginning to include voice communication. When enough people get broadband access, they will probably include video as well. A time might come when we see players dressing appropriately to their roles in the game so that they'll look cool on camera.
 
