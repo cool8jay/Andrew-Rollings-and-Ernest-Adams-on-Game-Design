@@ -84,7 +84,7 @@ The game's setting is the normal venue for the sport, usually a stadium or an ar
 
 Outdoor fields are also subject to changes in the weather, which can significantly affect the game. Rain hampers traction on a grass field, and snow makes it worse still. Players have to run more slowly and carefully. Wind affects the flight of balls and the accuracy with which they can be thrown. These factors all add enjoyable variety to a game.
 
-室外场地也会受到天气变化的影响，从而对比赛产生重大影响。下雨会影响草地的牵引力，而下雪则会使情况更糟。球员必须跑得更慢、更小心。风会影响球的飞行和投掷的准确性。这些因素都为比赛增添了乐趣。
+室外场地也会受到天气变化的影响，从而对比赛产生重大影响。下雨会影响草地的附着力，而下雪则会使情况更糟。球员必须跑得更慢、更小心。风会影响球的飞行和投掷的准确性。这些因素都为比赛增添了乐趣。
 
 The crowd also contributes significantly to the setting. Although you won't want to devote a lot of graphical resources to spectators, the sounds they make add greatly to the atmosphere. The volume should go up at tense moments. If there are any commonly used chants at different times, the players should hear them; there should be cheering after a score by the home team and a sudden silence after a score by the visitors. Horns, whistles, and vendors calling out "Ice-cold beer here!" are all part of the experience.
 
@@ -169,7 +169,7 @@ Sports games face a number of design issues that are either rare or irrelevant i
 
 During play, your game will be running a physics engine that determines the behavior of moving bodies in the match. The physical behavior of an inanimate object such as a baseball is comparatively easy to implement. The physical behavior of humans, however, is much more complicated. Early sports games tended to treat a running athlete rather like a rocket: She had a velocity vector that gave the speed and direction of her movement, and an acceleration vector that gave the force and direction with which she was pushing. Modern sports games have much richer simulations with a great many variables, taking into account such things as the friction coefficient of the playing surface—for example, rain and snow make fields slippery and reduce traction.
 
-在比赛过程中，您的游戏将运行一个物理引擎，它将决定比赛中运动物体的行为。无生命物体（如棒球）的物理行为比较容易实现。但人类的物理行为则要复杂得多。早期的体育游戏往往把奔跑中的运动员当作火箭： 她有一个速度矢量，表示她运动的速度和方向，还有一个加速度矢量，表示她推动的力量和方向。现代体育游戏的模拟要丰富得多，变量也非常多，会考虑到比赛场地的摩擦系数等因素，例如，雨雪天气会使场地变得湿滑，降低牵引力。
+在比赛过程中，你的游戏将运行一个物理引擎，它将决定比赛中运动物体的行为。无生命物体（如棒球）的物理行为比较容易实现。但人类的物理行为则要复杂得多。早期的体育游戏往往把奔跑中的运动员当作火箭：她有一个速度矢量，表示她运动的速度和方向，还有一个加速度矢量，表示她推动的力量和方向。现代体育游戏的模拟要丰富得多，变量也非常多，会考虑到比赛场地的摩擦系数等因素，例如，雨雪天气会使场地变得湿滑，降低附着力。
 
 Designing the physics simulation for a sports game is a highly technical problem and is beyond the scope of this book. However, we offer one caveat: Because a sports game is a simulation of the real world, it is a common error to think that the physics in a sports game should be as realistic as possible. They shouldn't be, for two reasons:
 
@@ -181,11 +181,11 @@ First, the player is not actually running around on the playing field herself; s
 
 Second, the player is not a professional athlete. There is a good reason why only a small number of people are capable of hitting a baseball pitched at 95 miles per hour. The length of time that the ball is within reach of the bat is about 0.04 seconds. It's simply not realistic to expect that an ordinary person, looking at a video screen without the benefit of depth perception, could react that fast.
 
-第二，玩家不是职业运动员。只有少数人才能击出时速 95 英里的棒球，这是有道理的。球在球棒触及范围内的时间大约为 0.04 秒。指望一个普通人在没有深度知觉的情况下看着视频屏幕做出那么快的反应是不现实的。
+第二，玩家不是职业运动员。只有少数人才能打中时速 95 英里的棒球，这是有道理的。球在球棒触及范围内的时间大约为 0.04 秒。指望一个普通人在没有深度知觉的情况下看着视频屏幕做出那么快的反应是不现实的。
 
 For both of these reasons, it's necessary to fudge the physics to make the game playable. We slow the pitch so that the batter has a reasonable chance of hitting it, and we artificially adjust the position of the bat so that it intersects the path of the ball. It doesn't matter whether the physics perfectly copy the real world as much as whether they seem to be producing a reasonable simulation of the sport as it is played by professionals. Even in a highly realistic game, your objective is to provide an enjoyable experience, not a mathematical simulation of nature.
 
-基于这两个原因，我们有必要在物理上做一些手脚，以使游戏具有可玩性。我们放慢投球速度，让击球手有合理的机会击中球；我们人为地调整球棒的位置，让它与球的轨迹相交。物理原理是否完美地复制了真实世界并不重要，重要的是它们是否合理地模拟了专业人士所从事的这项运动。即使在高度逼真的游戏中，你的目标也是提供令人愉悦的体验，而不是对自然的数学模拟。
+基于这两个原因，我们有必要在物理上做一些手脚，让游戏具有可玩性。我们放慢投球速度，让击球手有合理的机会击中球；我们人为地调整球棒的位置，让它与球的轨迹相交。物理原理是否完美地复制了真实世界并不重要，重要的是它们是否合理地模拟了专业人士所从事的这项运动。即使在高度逼真的游戏中，你的目标也是提供令人愉悦的体验，而不是对自然的数学模拟。
 
 ## Rating the Athletes 给运动员评分
 
@@ -309,7 +309,7 @@ Arcade mode versus simulation mode is a realism switch that lets the player adju
 
 To implement arcade mode, you'll have to decide what sort of changes to the real game would make it more exciting. If you want your game to have both arcade and simulation modes, we recommend that you start with the serious simulation first and then design the "fudges" that make it arcadelike. Serious simulations are much more difficult to tune, and it's important to get them right first. If you start with an arcadelike design and then try to make it serious, you might never get it right.
 
-要实现街机模式，您必须决定对真实游戏进行什么样的改动才能使其更加精彩。如果你希望自己的游戏既有街机模式又有模拟模式，我们建议你先从严肃的模拟模式开始，然后再设计使其成为街机模式的 “窜改”。严肃模拟的调整难度要大得多，因此首先做好严肃模拟非常重要。如果你一开始设计的是弧形模拟，然后再试图将其变为严肃模拟，那么你可能永远都无法将其变为正确的模拟。
+要实现街机模式，你必须决定对真实游戏进行什么样的改动才能使其更加精彩。如果你希望自己的游戏既有街机模式又有模拟模式，我们建议你先从严肃的模拟模式开始，然后再设计使其成为街机模式的 “窜改”。严肃模拟的调整难度要大得多，因此首先做好严肃模拟非常重要。如果你一开始设计的是弧形模拟，然后再试图将其变为严肃模拟，那么你可能永远都无法将其变为正确的模拟。
 
 ## Simulating Matches Automatically 自动模拟比赛
 
@@ -333,7 +333,7 @@ One solution is to simulate the whole match exactly as in computer versus comput
 
 The alternative many games adopt is to fake it—in effect, to roll dice to generate game scores. The dice are loaded somewhat so that good teams get high scores and bad teams get low ones, and whichever team rolls the highest score wins the match. You will need to devise a suitable algorithm for generating point values: In games such as American football and rugby, in which different numbers of points are awarded for different kinds of scores (touchdown, field goal, and so on), certain score values are much more common than others. It's extremely rare, for example, for a team to end an American football game with a score of 2. You'll also need to make sure that your algorithm creates a reasonable random distribution; no professional soccer game should ever end with a score over about 15.
 
-许多游戏采用的另一种方法是 “伪造”，即通过掷骰子产生游戏分数。骰子的装载方式是好队得高分，坏队得低分，哪支队伍掷出的分数最高，哪支队伍就赢得了比赛。你需要设计一种合适的算法来生成点值： 在美式橄榄球和橄榄球等游戏中，不同的得分（达阵、射门得分等）会获得不同的分数，因此某些分数值比其他分数值更常见。您还需要确保您的算法能产生合理的随机分布；任何职业足球比赛都不应该以超过 15 分的比分结束。
+许多游戏采用的另一种方法是 “伪造”，即通过掷骰子产生游戏分数。骰子的装载方式是好队得高分，坏队得低分，哪支队伍掷出的分数最高，哪支队伍就赢得了比赛。你需要设计一种合适的算法来生成点值： 在美式橄榄球和橄榄球等游戏中，不同的得分（达阵、射门得分等）会获得不同的分数，因此某些分数值比其他分数值更常见。你还需要确保你的算法能产生合理的随机分布；任何职业足球比赛都不应该以超过 15 分的比分结束。
 
 One disadvantage of this dice-rolling technique is that it doesn't generate any other statistics besides the scores themselves. In a particularly statistics-rich sport such as baseball, if you don't generate performance data for each individual player, some fans will consider your game to be a lightweight, not a serious, simulation. It's up to you to decide just how important that market is to you and how much effort you're prepared to exert to meet their expectations.
 
@@ -397,7 +397,7 @@ When you have established the events that need audio commentary, you can start t
 
 As you write the script, you will discover places where a name or number will need to be included, usually the names of athletes or teams or the current score. If the sport is one with a large number of athletes, you cannot afford to record the sentence with every possible athlete's name in it. Instead, you will need to record the sentence as a whole using a sample name and edit the resulting audio file into clips, one part before the name and one part after. Your programmers must devise a method of streaming the sound clips, inserting the correct name in the right place in such a way that they sound seamless. When you record the sentence, use a sample name that begins and ends with a T or a K sound so that it doesn't slur into the rest of the sentence and so that it can be cut cleanly. For example, "Merrick steps up to the free throw line" enables the engineer to cut between Merrick and steps, whereas "Rogers steps up to the free throw line" would produce a slur from Rogers into steps.
 
-在编写脚本的过程中，你会发现一些地方需要加入名字或数字，通常是运动员或球队的名字或当前比分。如果是运动员人数众多的运动项目，你就不能在记录句子时把每个可能的运动员名字都写进去。相反，你需要用一个样本名称来录制整个句子，并将生成的音频文件编辑成片段，一部分在名称之前，一部分在名称之后。您的程序员必须设计出一种流式处理声音片段的方法，在正确的位置插入正确的名字，使它们听起来天衣无缝。在录制句子时，使用以 T 或 K 音开头和结尾的样本名称，这样就不会与句子的其他部分混淆，也能剪切得干净利落。例如，“Merrick steps up to the free throw line（梅里克走上罚球线）”可以让工程师在 Merrick 和 steps 之间进行切分，而 “Rogers steps up to the free throw line（罗杰斯走上罚球线）”则会产生从 Rogers 到 steps 的不连贯。
+在编写脚本的过程中，你会发现一些地方需要加入名字或数字，通常是运动员或球队的名字或当前比分。如果是运动员人数众多的运动项目，你就不能在记录句子时把每个可能的运动员名字都写进去。相反，你需要用一个样本名称来录制整个句子，并将生成的音频文件编辑成片段，一部分在名称之前，一部分在名称之后。你的程序员必须设计出一种流式处理声音片段的方法，在正确的位置插入正确的名字，使它们听起来天衣无缝。在录制句子时，使用以 T 或 K 音开头和结尾的样本名称，这样就不会与句子的其他部分混淆，也能剪切得干净利落。例如，“Merrick steps up to the free throw line（梅里克走上罚球线）”可以让工程师在 Merrick 和 steps 之间进行切分，而 “Rogers steps up to the free throw line（罗杰斯走上罚球线）”则会产生从 Rogers 到 steps 的不连贯。
 
 Whenever possible, you should try to write the script in such a way that names are at either the beginning or the end of a sentence. You can then have your voice talent record the names of all the athletes who appear in the game. Each name will need to be recorded twice, once using the voice inflection for the beginning of a sentence, and once at the end. Don't try to record the names by themselves; record a complete sentence and then throw away all but the name, for example, "Thomas takes it" and "I'll pick Thomas." Again, using the T and K sounds adjacent to the name allows a clean cut in the audio.
 
@@ -473,7 +473,7 @@ As we said earlier, one of the trickiest aspects of sports game design is mappin
 
 Instant replay is now an essential part of watching sports on television, so naturally video game players want it as well. It's not difficult to design, although it might be difficult to implement. Your game will need to keep track of the exact position and animation step of every player and other key objects on the field in each game frame. When the player requests an instant replay (usually through a pause menu), the game can play them back. Of course there is a limit to how much of this information you can keep around, and some natural boundary is likely to suggest itself—in baseball, the time since the most recent pitch; in American football, the time since the ball was snapped. In continuously flowing games such as basketball, you might have to establish an artificial time limit.
 
-即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。您的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限--在棒球比赛中，自最近一次投球以来的时间；在美式橄榄球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
+即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。你的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限--在棒球比赛中，自最近一次投球以来的时间；在美式橄榄球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
 
 The best instant-replay mechanisms allow all the following features for maximum flexibility:
 
