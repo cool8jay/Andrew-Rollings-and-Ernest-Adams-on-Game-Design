@@ -54,7 +54,7 @@ The victory and loss conditions for a match are the same as in the real sport. H
 
 * **Season mode.** The player selects a single team (or athlete, for individual sports such as skiing) from all those available and plays a series of matches throughout a season, trying to make it into the championships. The schedule of play for the season and the rules for moving into and up the championship bracket are adopted from the real sport. Some season modes allow a player to play not just one team's matches, but every single match played throughout an entire season.\
 
-     **赛季模式。** 玩家从所有可用的运动项目中选择一支队伍（或一名运动员，如滑雪等单项运动），在整个赛季中进行一系列比赛，力争进入锦标赛。赛季的比赛日程和晋级规则均采用真实运动的规则。有些赛季模式不仅允许玩家参加一支球队的比赛，还允许玩家参加整个赛季的所有比赛。
+    **赛季模式。** 玩家从所有可用的运动项目中选择一支队伍（或一名运动员，如滑雪等单项运动），在整个赛季中进行一系列比赛，力争进入锦标赛。赛季的比赛日程和晋级规则均采用真实运动的规则。有些赛季模式不仅允许玩家参加一支球队的比赛，还允许玩家参加整个赛季的所有比赛。
 
 * **Exhibition mode.** In this mode, the players play one single match, but it has no long-term consequences, just like exhibition matches played by real teams. Whoever wins the match, wins the game.\
     
@@ -66,7 +66,7 @@ The victory and loss conditions for a match are the same as in the real sport. H
 
 * **Round robin.** Players in a group each take a team and play each other's team a fixed number of times, sometimes just once. Whoever has won the most matches at the end is the winner.\
 
-    **循环赛。** 一个小组中的球员各带一支队伍，与对方的队伍进行固定次数的比赛，有时只进行一次。最后谁赢得的比赛最多，谁就是赢家。
+    **循环赛。** 一个小组中的玩家各带一支队伍，与对方的队伍进行固定次数的比赛，有时只进行一次。最后谁赢得的比赛最多，谁就是赢家。
 
 * **Tournament mode.** In this single-elimination tournament, any player who loses any match is dropped, and the winner goes on to play the winner of another match. This requires that the number of players be a power of two.\
 
@@ -88,7 +88,7 @@ Outdoor fields are also subject to changes in the weather, which can significant
 
 The crowd also contributes significantly to the setting. Although you won't want to devote a lot of graphical resources to spectators, the sounds they make add greatly to the atmosphere. The volume should go up at tense moments. If there are any commonly used chants at different times, the players should hear them; there should be cheering after a score by the home team and a sudden silence after a score by the visitors. Horns, whistles, and vendors calling out "Ice-cold beer here!" are all part of the experience.
 
-人群也对比赛环境有很大的影响。虽然你不想在观众身上投入大量的图形资源，但他们发出的声音会大大增加游戏的气氛。在紧张时刻，音量应该提高。如果在不同时刻有任何常用的喊声，球员们应该能听到；主队得分后应该有欢呼声，而客队得分后应该突然安静下来。喇叭声、口哨声和小贩叫卖声 “冰镇啤酒在这里！”都是体验的一部分。
+人群也对比赛环境有很大的影响。虽然你不想在观众身上投入大量的图形资源，但他们发出的声音会大大增加游戏的气氛。在紧张时刻，音量应该提高。如果在不同时刻有任何常用的喊声，球员们应该能听到；主队得分后应该有欢呼声，而客队得分后应该突然安静下来。喇叭声、口哨声和小贩叫卖声“冰镇啤酒在这里！”都是体验的一部分。
 
 ## Interaction Model 互动模式
 
@@ -100,11 +100,11 @@ The interaction model in sports games varies considerably depending on the sport
 
 In one-on-one sports games, the perspective is seldom difficult to manage. Choose a spot where you have a clear view of the athletes and where their movements and activities will map neatly onto the machine's input devices. As a general rule, you shouldn't do sports games in the first person. A lot of the fun of watching a sport is in seeing the athletes exercise their skills, and in first person, you can't see your avatar doing that. For example, you could make a tennis game in the first person, but you wouldn't get to see your athlete playing tennis, and you might not even get to see your racket hit the ball. An overhead perspective, with your tennis player at the bottom of the screen and your opponent at the top, presents a much more natural view and lets you see both athletes running, jumping, serving, and so on.
 
-在一对一的体育游戏中，视角很少难以控制。选择一个你能清楚看到运动员的位置，他们的动作和活动也能清晰地映射到机器的输入设备上。一般来说，你不应该以第一人称进行体育游戏。观看体育比赛的很多乐趣在于看到运动员锻炼自己的技能，而在第一人称视角下，你无法看到你的化身在做这些。例如，你可以用第一人称来制作网球游戏，但你看不到你的运动员在打网球，甚至可能看不到你的球拍击球。采用俯视视角，你的网球运动员在屏幕下方，你的对手在屏幕上方，这样呈现的视角要自然得多，你可以看到双方运动员的奔跑、跳跃、发球等动作。
+在一对一的体育游戏中，视角很少难以控制。选择一个你能清楚看到运动员的位置，他们的动作和活动也能清晰地映射到机器的输入设备上。一般来说，你不应该以第一人称进行体育游戏。观看体育比赛的很多乐趣在于看到运动员锻炼自己的技能，而在第一人称视角下，你无法看到你的化身在做这些。例如，你可以用第一人称来制作网球游戏，但你看不到你的运动员在打网球，甚至可能看不到你的球拍击球。采用空中俯视视角，你的网球运动员在屏幕下方，你的对手在屏幕上方，这样呈现的视角要自然得多，你可以看到双方运动员的奔跑、跳跃、发球等动作。
 
 Team games are more tricky, particularly when the focus of attention moves from place to place. With most soccerlike games, an end view or a side view, from a somewhat elevated position, works best. American football, however, is almost unplayable from a side view because too many athletes are behind other athletes and you can't see gaps in the line.
 
-团队游戏则比较棘手，尤其是当注意力从一个地方转移到另一个地方时。对于大多数类似足球的比赛，从稍高的位置看端线或侧线效果最好。而美式橄榄球从侧面看几乎无法进行比赛，因为太多运动员在其他运动员后面，你看不到队伍中的空隙。
+团队游戏则比较棘手，尤其是当注意力的焦点在不同地方移动时。对于大多数类似足球的运动，从稍微高一点的位置看端视图或侧视图效果最好。然而，美式足球几乎无法从侧视图进行，因为太多的运动员被其他运动员挡住了，你看不到阵线上的空隙。
 
 ## User Interface Design 用户界面设计
 
@@ -114,11 +114,11 @@ In most other genres, the user interface changes infrequently and only in respon
 
 The hardest thing about sports game user interface design is that you have to map athletic activities—complex motions of the whole human body—onto a game machine's input device, typically a handheld controller with binary buttons. Think about what kinds of things the player will want to do at each stage of the game and how best to make them available. Whenever possible, make sure that similar actions in different modes are assigned to similar buttons; for example, if you have a "jump" action in both offensive and defensive modes, assign it to the same button in both cases.
 
-体育游戏用户界面设计的难点在于，你必须将体育活动--整个人体的复杂动作--映射到游戏机的输入设备上，通常是一个带有二进制按钮的手持控制器。想想玩家在游戏的每个阶段会想做哪些事情，以及如何最好地实现这些事情。在可能的情况下，确保将不同模式下的类似动作分配到相似的按钮上；例如，如果你在进攻和防守模式下都有 “跳跃 ”动作，那么在两种情况下都将其分配到相同的按钮上。
+体育游戏用户界面设计的最难点在于，你必须将体育活动——整个人体的复杂动作——映射到游戏机的输入设备上，通常是一个带有二进制按钮的手持控制器。想想玩家在游戏的每个阶段会想做哪些事情，以及如何最好地实现这些事情。在可能的情况下，确保将不同模式下的类似动作分配到相似的按钮上；例如，如果你在进攻和防守模式下都有“跳跃”动作，那么在两种情况下都将其分配到相同的按钮上。
 
 In team games, the player will normally be controlling one athlete at a time. This is usually indicated by displaying a circle or star under the athlete's feet. A good many games also draw symbols on the field to help the player overcome the lack of depth perception—the spot where a flying ball is due to land, for example.
 
-在团队游戏中，球员通常一次控制一名运动员。这通常会在运动员脚下显示一个圆圈或星星。很多游戏还会在球场上画出一些符号，帮助玩家克服深度知觉不足的问题--例如，飞来的球将落在哪里。
+在团队游戏中，玩家通常一次控制一名运动员。这通常会在运动员脚下显示一个圆圈或星星。很多游戏还会在球场上画出一些符号，帮助玩家克服深度知觉不足的问题——例如，飞来的球将落在哪里。
 
 When the player is on defense, include a button to automatically change control to the most appropriate defending athlete (in soccerlike games, this is usually the one nearest to the ball). Another useful pair of buttons allows the player to cycle control forward and backward through all the athletes on the team.
 
@@ -132,23 +132,21 @@ Unless you're simulating archery or bowling, don't forget that a sports game is 
 
 除非是模拟射箭或保龄球，否则不要忘记体育游戏本质上就是动作游戏。无论这项运动有多复杂，用户界面都必须尽可能地流畅和直观。
 
-## Player Roles
-
-玩家角色
+## Player Roles 玩家角色
 
 The player's role is most commonly that of an athlete, but not one particular athlete. In a team sport, the player's focus of control usually follows the action rather than being tied to a single individual. Thus, the player's role shifts rapidly, especially if some athletes play specialized positions such as catcher or goalie.
 
-球员的角色最常见的是运动员，但不是某个运动员。在团队运动中，球员的控制重心通常是跟着动作走，而不是绑在某个人身上。因此，运动员的角色转换很快，尤其是当一些运动员担任专门的位置（如捕手或守门员）时。
+球员的角色最常见的是运动员，但不是某个运动员。在团队运动中，球员的控制重心通常是跟着动作走，而不是绑在某个人身上。因此，玩家的角色转换很快，尤其是当一些运动员担任专门的位置（如捕手或守门员）时。
 
 Another common role is that of coach, again seen chiefly in team sports. The coach selects the starting players for the team, sets offensive and defensive strategies, and makes player substitutions during the match. The player usually switches to the coach role during timeouts or other pauses in the action.
 
-另一个常见的角色是教练，同样主要出现在团队运动中。教练为球队挑选首发球员，制定进攻和防守策略，并在比赛中替换球员。球员通常在暂停或其他比赛暂停时转换为教练角色。
+另一个常见的角色是教练，同样主要出现在团队运动中。教练为球队挑选首发球员，制定进攻和防守策略，并在比赛中替换球员。玩家通常在暂停或其他比赛暂停时转换为教练角色。
 
-Finally, there's the role of general manager of the team. The general manager is respon sible for hiring and firing decisions and trying to recruit the best players within the limitations of the budget. See Figure 12.1 for an example. A few sports games are about only this aspect of the sport and don't include live simulations of the sport itself. These are occasionally called manager games and are particularly popular in Europe.
+Finally, there's the role of general manager of the team. The general manager is responsible for hiring and firing decisions and trying to recruit the best players within the limitations of the budget. See Figure 12.1 for an example. A few sports games are about only this aspect of the sport and don't include live simulations of the sport itself. These are occasionally called manager games and are particularly popular in Europe.
 
-最后是球队总经理的角色。总经理负责做出聘用和解雇的决定，并努力在预算范围内招募最好的球员。示例见图 12.1。少数体育游戏只涉及体育运动的这一方面，而不包括体育运动本身的现场模拟。这些游戏有时被称为经理人游戏，在欧洲特别流
+最后是球队总经理的角色。总经理负责做出聘用和解雇的决定，并努力在预算范围内招募最好的球员。示例见图 12.1。少数体育游戏只涉及体育运动的这一方面，而不包括体育运动本身的现场模拟。这些游戏有时被称为经理人游戏，在欧洲特别流行。
 
-Figure 12.1. EA's Madden NFL 2002 athlete-trading screen, a management function. 图 12.1. EA 的《疯狂橄榄球 2002》（Madden NFL 2002）运动员交易屏幕，这是一种管理功能。
+Figure 12.1. EA's Madden NFL 2002 athlete-trading screen, a management function. 图 12.1. EA 的《疯狂橄榄球 2002》运动员交易屏幕，这是一种管理功能。
 graphics/12fig01.gif
 
 ## Structure 结构
@@ -165,7 +163,7 @@ Outside of match play, most of the game's modes relate to other aspects of the s
 
 Sports games face a number of design issues that are either rare or irrelevant in other kinds of games.
 
-体育游戏面临着许多设计问题，这些问题在其他类型的游戏中很少见或与之无关。
+体育游戏面临着许多设计问题，这些问题在其他类型的游戏中很少见或无关紧要。
 
 ## Physics for Sports Games 体育游戏的物理学
 
@@ -183,7 +181,7 @@ First, the player is not actually running around on the playing field herself; s
 
 Second, the player is not a professional athlete. There is a good reason why only a small number of people are capable of hitting a baseball pitched at 95 miles per hour. The length of time that the ball is within reach of the bat is about 0.04 seconds. It's simply not realistic to expect that an ordinary person, looking at a video screen without the benefit of depth perception, could react that fast.
 
-第二，球员不是职业运动员。只有少数人才能击出时速 95 英里的棒球，这是有道理的。球在球棒触及范围内的时间大约为 0.04 秒。指望一个普通人在没有深度知觉的情况下看着视频屏幕做出那么快的反应是不现实的。
+第二，玩家不是职业运动员。只有少数人才能击出时速 95 英里的棒球，这是有道理的。球在球棒触及范围内的时间大约为 0.04 秒。指望一个普通人在没有深度知觉的情况下看着视频屏幕做出那么快的反应是不现实的。
 
 For both of these reasons, it's necessary to fudge the physics to make the game playable. We slow the pitch so that the batter has a reasonable chance of hitting it, and we artificially adjust the position of the bat so that it intersects the path of the ball. It doesn't matter whether the physics perfectly copy the real world as much as whether they seem to be producing a reasonable simulation of the sport as it is played by professionals. Even in a highly realistic game, your objective is to provide an enjoyable experience, not a mathematical simulation of nature.
 
@@ -288,7 +286,7 @@ An athlete with nothing to do shouldn't just stand still. Most sports games incl
 
 Injuries are a sad but common side effect of sports, and serious simulations take them into account. Because they occur somewhat randomly, they're outside the player's control and can be frustrating. Most sports games allow the players to turn off injuries if they don't like the effect that they have on the game.
 
-受伤是体育运动中令人痛心但又常见的副作用，严肃的模拟比赛会考虑到这一点。由于受伤是随机发生的，球员无法控制，因此会令人沮丧。如果玩家不喜欢受伤对比赛造成的影响，大多数体育游戏都允许玩家关闭受伤功能。
+受伤是体育运动中令人痛心但又常见的副作用，严肃的模拟比赛会考虑到这一点。由于受伤是随机发生的，玩家无法控制，因此会令人沮丧。如果玩家不喜欢受伤对比赛造成的影响，大多数体育游戏都允许玩家关闭受伤功能。
 
 Although it's possible for an athlete to injure herself simply by running or jumping, this doesn't provide the player with any visible explanation for why the injury occurred. A lot of sports games therefore limit injuries to cases in which there has been a collision of some kind, usually between two athletes. To determine whether an injury has occurred, you should include such factors as the relative speed of the two athletes, their weights, their respective susceptibilities to injury, and a random factor. The heavier an athlete is, the more force she imparts in a collision, and it is the force that does the damage to the other athlete.
 
