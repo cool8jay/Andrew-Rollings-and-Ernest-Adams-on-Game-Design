@@ -187,7 +187,7 @@ For both of these reasons, it's necessary to fudge the physics to make the game 
 
 基于这两个原因，我们有必要在物理上做一些手脚，让游戏具有可玩性。我们放慢投球速度，让击球手有合理的机会击中球；我们人为地调整球棒的位置，让它与球的轨迹相交。物理原理是否完美地复制了真实世界并不重要，重要的是它们是否合理地模拟了专业人士所从事的这项运动。即使在高度逼真的游戏中，你的目标也是提供令人愉悦的体验，而不是对自然的数学模拟。
 
-## Rating the Athletes 给运动员评分
+## Rating the Athletes 给运动员评级
 
 One of the biggest tasks you have in designing a sports game is developing a rating system for the skills and athletic abilities of all the athletes in the game. The rating system provides the raw data that the physics engine needs to simulate the behavior of the athletes accurately. As your programming team develops the physics engine and game AI, you should work with them to determine what ratings are needed. Researching the athletes' performance and setting the ratings for them is a task that can take many months, and you will probably want to delegate it to junior designers or assistant producers.
 
