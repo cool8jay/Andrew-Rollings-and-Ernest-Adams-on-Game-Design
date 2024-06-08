@@ -207,7 +207,7 @@ These are examples of the kinds of ratings that might be common to all the athle
 **速度。** 运动员在理想条件下的最大移动（跑步、滑冰或游泳）速度。
 
 * **Agility.** A measure of the athlete's ability to change directions while moving.\
-**敏捷性。** 衡量运动员在移动过程中改变方向的能力。
+**敏捷。** 衡量运动员在移动过程中改变方向的能力。
 
 * **Weight.** Simply the athlete's weight, which affects the force he transmits in a collision and the inertia he has when struck by someone else.\
 **体重。** 简单地说就是运动员的体重，它会影响他在碰撞中传递的力以及被他人撞击时的惯性。
