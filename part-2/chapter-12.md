@@ -104,13 +104,13 @@ In one-on-one sports games, the perspective is seldom difficult to manage. Choos
 
 Team games are more tricky, particularly when the focus of attention moves from place to place. With most soccerlike games, an end view or a side view, from a somewhat elevated position, works best. American football, however, is almost unplayable from a side view because too many athletes are behind other athletes and you can't see gaps in the line.
 
-团队游戏则比较棘手，尤其是当注意力的焦点在不同地方移动时。对于大多数类似足球的运动，从稍微高一点的位置看端视图或侧视图效果最好。然而，美式足球几乎无法从侧视图进行，因为太多的运动员被其他运动员挡住了，你看不到阵线上的空隙。
+团队游戏则比较棘手，尤其是当注意力的焦点在不同地方移动时。对于大多数类似足球的运动，从稍微高一点的位置看端视图或侧视图效果最好。然而，美式橄榄球几乎无法从侧视图进行，因为太多的运动员被其他运动员挡住了，你看不到阵线上的空隙。
 
 ## User Interface Design 用户界面设计
 
 In most other genres, the user interface changes infrequently and only in response to explicit actions by the player. Sports games are unusual in this regard; the user interface changes on a second-by-second basis, depending on conditions in the match itself. American football is a particularly complex example. On each play, the player on offense selects the formation and play to be run, then calls signals and makes adjustments at the line of scrimmage, and then takes the snap and either hands off the ball, passes it, or runs with it himself. If he passes it, control switches to the athlete for whom the pass is intended, and a whole series of new options for running, jumping, diving, and dodging defenders comes into play. Each of these different states requires that certain moves or choices be assigned to buttons on the controller, and these assignments change rapidly as play progresses.
 
-在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式足球就是一个特别复杂的例子。在每场比赛中，进攻方球员要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
+在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式橄榄球就是一个特别复杂的例子。在每场比赛中，进攻方球员要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
 
 The hardest thing about sports game user interface design is that you have to map athletic activities—complex motions of the whole human body—onto a game machine's input device, typically a handheld controller with binary buttons. Think about what kinds of things the player will want to do at each stage of the game and how best to make them available. Whenever possible, make sure that similar actions in different modes are assigned to similar buttons; for example, if you have a "jump" action in both offensive and defensive modes, assign it to the same button in both cases.
 
@@ -250,7 +250,7 @@ The AI in most computer games is rather crude. In action games and first-person 
 
 These kinds of actions aren't acceptable in a sports game. People don't mind if a monster in a first-person shooter wanders randomly around, but the athletes in a sports game must behave like humans, and that means deliberate, intelligent action. Particularly in team games, each athlete is working with the others on the team to accomplish particular goals. The position the athlete plays dictates behavior to some extent, but within those boundaries, the athlete still has to respond intelligently to a number of possible events. In a relatively simple sport such as tennis, there might not be many of these events, but in a highly complex sport such as American football, with 22 players on the field at a time, there can be hundreds.
 
-这种行为在体育游戏中是不能接受的。人们不会介意第一人称射击游戏中的怪物随意走动，但体育游戏中的运动员必须表现得像人一样，这就意味着要有深思熟虑的智慧行动。特别是在团队游戏中，每个运动员都要与团队中的其他人合作完成特定的目标。运动员所处的位置在一定程度上决定了运动员的行为，但在这些范围内，运动员仍然必须对许多可能发生的事件做出明智的反应。在网球等相对简单的运动中，这类事件可能并不多，但在美式橄榄球等高度复杂的运动中，场上同时有 22 名球员，可能会有数百种。
+这种行为在体育游戏中是不能接受的。人们不会介意第一人称射击游戏中的怪物随意走动，但体育游戏中的运动员必须表现得像人一样，这就意味着要有深思熟虑的智慧行动。特别是在团队游戏中，每个运动员都要与团队中的其他人合作完成特定的目标。运动员所处的位置在一定程度上决定了运动员的行为，但在这些范围内，运动员仍然必须对许多可能发生的事件做出明智的反应。在网球等相对简单的运动中，这类事件可能并不多，但在美式橄榄球等高度复杂的运动中，场上同时有 22 名球员，可能就有数百个这样的事件。
 
 ### Defining the State Space 定义状态空间
 
