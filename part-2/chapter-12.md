@@ -34,7 +34,7 @@ The rules of a sports game are, for the most part, the rules of the sport that i
 
 You'll also have to address an important question about errors that are not the player's fault. In American football, a certain number of penalties are called each match for "holding," grabbing hold of another athlete instead of merely pushing him. This is an aspect of the sport that a computerized version could avoid entirely: It could simply make it impossible to hold someone. Of course, a match in which no holding penalties ever occurred would feel unrealistic. On the other hand, a match in which holding penalties occurred at random might be frustrating for the player. This is another issue that can be controlled by the refereeing variable described earlier.
 
-你还必须解决一个重要问题，即关于非球员过失的错误。在美式橄榄球比赛中，每场比赛都会有一定数量的“抱人”判罚，即抓住另一名运动员，而不仅仅是推他一把。电脑版美式橄榄球可以完全避免这种情况：电脑版可以完全避免这一点：它可以简单地让“抱人”成为不可能。当然，如果一场比赛中从未出现过“抱人”判罚，就会让人感觉不切实际。另一方面，如果比赛中随意出现抱人判罚，则可能会让球员感到沮丧。这也是另一个可以通过前面描述的裁判变量控制的问题。
+你还必须解决一个重要问题，即关于非球员过失的错误。在美式足球比赛中，每场比赛都会有一定数量的“抱人”判罚，即抓住另一名运动员，而不仅仅是推他一把。电脑版美式足球可以完全避免这种情况：电脑版可以完全避免这一点：它可以简单地让“抱人”成为不可能。当然，如果一场比赛中从未出现过“抱人”判罚，就会让人感觉不切实际。另一方面，如果比赛中随意出现抱人判罚，则可能会让球员感到沮丧。这也是另一个可以通过前面描述的裁判变量控制的问题。
 
 ## Competition Modes 比赛模式
 
@@ -80,7 +80,7 @@ The victory and loss conditions for a match are the same as in the real sport. H
 
 The game's setting is the normal venue for the sport, usually a stadium or an arena. It adds a great deal of verisimilitude to present these accurately. Players enjoy being able to recognize the architectural details of their favorite stadiums. The shape of the actual playing areas in American football and basketball is fixed, but different baseball fields are famous for having different effects on gameplay. Some sports, such as skiing and bobsledding, have venues that vary enormously and require a great deal of practice to learn.
 
-比赛场地是运动的正常场所，通常是体育场或竞技场。准确地呈现这些场馆能增加游戏的真实性。玩家喜欢能够辨认出他们喜爱的体育场馆的建筑细节。美式橄榄球和篮球的实际比赛场地的形状是固定的，但不同的棒球场地会对游戏产生不同的影响。有些运动，如滑雪和雪橇，其场地变化很大，需要大量练习才能掌握。
+比赛场地是运动的正常场所，通常是体育场或竞技场。准确地呈现这些场馆能增加游戏的真实性。玩家喜欢能够辨认出他们喜爱的体育场馆的建筑细节。美式足球和篮球的实际比赛场地的形状是固定的，但不同的棒球场地会对游戏产生不同的影响。有些运动，如滑雪和雪橇，其场地变化很大，需要大量练习才能掌握。
 
 Outdoor fields are also subject to changes in the weather, which can significantly affect the game. Rain hampers traction on a grass field, and snow makes it worse still. Players have to run more slowly and carefully. Wind affects the flight of balls and the accuracy with which they can be thrown. These factors all add enjoyable variety to a game.
 
@@ -104,13 +104,13 @@ In one-on-one sports games, the perspective is seldom difficult to manage. Choos
 
 Team games are more tricky, particularly when the focus of attention moves from place to place. With most soccerlike games, an end view or a side view, from a somewhat elevated position, works best. American football, however, is almost unplayable from a side view because too many athletes are behind other athletes and you can't see gaps in the line.
 
-团队游戏则比较棘手，尤其是当注意力的焦点在不同地方移动时。对于大多数类似足球的运动，从稍微高一点的位置看端视图或侧视图效果最好。然而，美式橄榄球几乎无法从侧视图进行，因为太多的运动员被其他运动员挡住了，你看不到阵线上的空隙。
+团队游戏则比较棘手，尤其是当注意力的焦点在不同地方移动时。对于大多数类似足球的运动，从稍微高一点的位置看端视图或侧视图效果最好。然而，美式足球几乎无法从侧视图进行，因为太多的运动员被其他运动员挡住了，你看不到阵线上的空隙。
 
 ## User Interface Design 用户界面设计
 
 In most other genres, the user interface changes infrequently and only in response to explicit actions by the player. Sports games are unusual in this regard; the user interface changes on a second-by-second basis, depending on conditions in the match itself. American football is a particularly complex example. On each play, the player on offense selects the formation and play to be run, then calls signals and makes adjustments at the line of scrimmage, and then takes the snap and either hands off the ball, passes it, or runs with it himself. If he passes it, control switches to the athlete for whom the pass is intended, and a whole series of new options for running, jumping, diving, and dodging defenders comes into play. Each of these different states requires that certain moves or choices be assigned to buttons on the controller, and these assignments change rapidly as play progresses.
 
-在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式橄榄球就是一个特别复杂的例子。在每场比赛中，进攻方球员要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
+在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式足球就是一个特别复杂的例子。在每场比赛中，进攻方球员要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
 
 The hardest thing about sports game user interface design is that you have to map athletic activities—complex motions of the whole human body—onto a game machine's input device, typically a handheld controller with binary buttons. Think about what kinds of things the player will want to do at each stage of the game and how best to make them available. Whenever possible, make sure that similar actions in different modes are assigned to similar buttons; for example, if you have a "jump" action in both offensive and defensive modes, assign it to the same button in both cases.
 
@@ -228,7 +228,7 @@ These are examples of the kinds of ratings that might be common to all the athle
 
 These ratings apply to a specific position—in this case, the quarterback in American football:
 
-这些评级适用于特定位置——这里举例用的是美式橄榄球中的四分卫：
+这些评级适用于特定位置——这里举例用的是美式足球中的四分卫：
 
 * **Passing strength.** The distance that the quarterback can throw the ball.
 **传球力量。** 四分卫投球的距离。
@@ -250,7 +250,7 @@ The AI in most computer games is rather crude. In action games and first-person 
 
 These kinds of actions aren't acceptable in a sports game. People don't mind if a monster in a first-person shooter wanders randomly around, but the athletes in a sports game must behave like humans, and that means deliberate, intelligent action. Particularly in team games, each athlete is working with the others on the team to accomplish particular goals. The position the athlete plays dictates behavior to some extent, but within those boundaries, the athlete still has to respond intelligently to a number of possible events. In a relatively simple sport such as tennis, there might not be many of these events, but in a highly complex sport such as American football, with 22 players on the field at a time, there can be hundreds.
 
-这种行为在体育游戏中是不能接受的。人们不会介意第一人称射击游戏中的怪物随意走动，但体育游戏中的运动员必须表现得像人一样，这就意味着要有深思熟虑的智慧行动。特别是在团队游戏中，每个运动员都要与团队中的其他人合作完成特定的目标。运动员所处的位置在一定程度上决定了运动员的行为，但在这些范围内，运动员仍然必须对许多可能发生的事件做出明智的反应。在网球等相对简单的运动中，这类事件可能并不多，但在美式橄榄球等高度复杂的运动中，场上同时有 22 名球员，可能就有数百个这样的事件。
+这种行为在体育游戏中是不能接受的。人们不会介意第一人称射击游戏中的怪物随意走动，但体育游戏中的运动员必须表现得像人一样，这就意味着要有深思熟虑的智慧行动。特别是在团队游戏中，每个运动员都要与团队中的其他人合作完成特定的目标。运动员所处的位置在一定程度上决定了运动员的行为，但在这些范围内，运动员仍然必须对许多可能发生的事件做出明智的反应。在网球等相对简单的运动中，这类事件可能并不多，但在美式足球等高度复杂的运动中，场上同时有 22 名球员，可能就有数百个这样的事件。
 
 ### Defining the State Space 定义状态空间
 
@@ -302,7 +302,7 @@ You can also decide which part of the body sustained the injury and the length o
 
 Arcade mode versus simulation mode is a realism switch that lets the player adjust the behavior of the game to suit his tastes. Arcade mode makes the game more exciting at the expense of realism; simulation mode makes it a more accurate simulation of the real sport at some expense in fun. For example, in baseball, an athlete is doing well if he has a .333 batting average—that is, gets a hit only one time in three. Some players might find that a little dull. Switching the game to arcade mode could let the player get a hit 50 percent of the time or even more. It skews the play toward lots of action and relatively few strikeouts or walks. In American football, you could artificially increase the number of completed passes by improving the quarterback's throwing accuracy and the receiver's catching skills.
 
-街机模式与模拟模式是一个逼真度开关，可让玩家根据自己的喜好调整游戏行为。街机模式使游戏更刺激，但牺牲了真实感；模拟模式使游戏更准确地模拟真实运动，但牺牲了一定的趣味性。例如，在棒球比赛中，如果一名运动员的击球率是 0.333，即三次击球中只有一次击中，那么他的表现就很好。有些玩家可能会觉得这有点无聊。将游戏切换到街机模式，可以让玩家在 50% 甚至更高的几率击中。这将使游戏偏向于大量动作，而相对较少的三振出局或保送。在美式橄榄球中，你可以通过提高四分卫的投球准确性和接球手的接球技巧，人为地增加完成传球的次数。
+街机模式与模拟模式是一个逼真度开关，可让玩家根据自己的喜好调整游戏行为。街机模式使游戏更刺激，但牺牲了真实感；模拟模式使游戏更准确地模拟真实运动，但牺牲了一定的趣味性。例如，在棒球比赛中，如果一名运动员的击球率是 0.333，即三次击球中只有一次击中，那么他的表现就很好。有些玩家可能会觉得这有点无聊。将游戏切换到街机模式，可以让玩家在 50% 甚至更高的几率击中。这将使游戏偏向于大量动作，而相对较少的三振出局或保送。在美式足球中，你可以通过提高四分卫的投球准确性和接球手的接球技巧，人为地增加完成传球的次数。
 
 To implement arcade mode, you'll have to decide what sort of changes to the real game would make it more exciting. If you want your game to have both arcade and simulation modes, we recommend that you start with the serious simulation first and then design the "fudges" that make it arcadelike. Serious simulations are much more difficult to tune, and it's important to get them right first. If you start with an arcadelike design and then try to make it serious, you might never get it right.
 
@@ -330,7 +330,7 @@ One solution is to simulate the whole match exactly as in computer versus comput
 
 The alternative many games adopt is to fake it—in effect, to roll dice to generate game scores. The dice are loaded somewhat so that good teams get high scores and bad teams get low ones, and whichever team rolls the highest score wins the match. You will need to devise a suitable algorithm for generating point values: In games such as American football and rugby, in which different numbers of points are awarded for different kinds of scores (touchdown, field goal, and so on), certain score values are much more common than others. It's extremely rare, for example, for a team to end an American football game with a score of 2. You'll also need to make sure that your algorithm creates a reasonable random distribution; no professional soccer game should ever end with a score over about 15.
 
-许多游戏采用的另一种方法是 “伪造”，即通过掷骰子产生游戏分数。骰子的装载方式是好队得高分，坏队得低分，哪支队伍掷出的分数最高，哪支队伍就赢得了比赛。你需要设计一种合适的算法来生成点值： 在美式橄榄球和橄榄球等游戏中，不同的得分（达阵、射门得分等）会获得不同的分数，因此某些分数值比其他分数值更常见。你还需要确保你的算法能产生合理的随机分布；任何职业足球比赛都不应该以超过 15 分的比分结束。
+许多游戏采用的另一种方法是“伪造”，即通过掷骰子产生游戏分数。骰子的装载方式是好队得高分，坏队得低分，哪支队伍掷出的分数最高，哪支队伍就赢得了比赛。你需要设计一种合适的算法来生成分数值：在美式足球和橄榄球等游戏中，不同的得分（达阵、射门得分等）会获得不同的分数，因此某些分数值比其他分数值更常见。例如，一支队伍在美式足球以2分结束比赛是极其罕见的。你还需要确保你的算法能产生合理的随机分布；任何职业足球比赛得分都不应该以超过 15 分。
 
 One disadvantage of this dice-rolling technique is that it doesn't generate any other statistics besides the scores themselves. In a particularly statistics-rich sport such as baseball, if you don't generate performance data for each individual player, some fans will consider your game to be a lightweight, not a serious, simulation. It's up to you to decide just how important that market is to you and how much effort you're prepared to exert to meet their expectations.
 
@@ -340,7 +340,7 @@ One disadvantage of this dice-rolling technique is that it doesn't generate any 
 
 Many years ago, small developers could make and sell computer games using names such as "NFL" and get away with it, because the National Football League never knew it was happening. You can't do this now. Interactive entertainment is big business, and you have to be scrupulously careful to avoid violating trademarks or personal publicity rights.
 
-许多年前，小型开发商可以使用 “NFL ”等名称制作和销售电脑游戏，而且可以逍遥法外，因为全国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
+许多年前，小型开发商可以使用“NFL”等名称制作和销售电脑游戏，而且可以逍遥法外，因为全国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
 
 ### Team and League Trademarks 球队和联盟商标
 
@@ -470,7 +470,7 @@ As we said earlier, one of the trickiest aspects of sports game design is mappin
 
 Instant replay is now an essential part of watching sports on television, so naturally video game players want it as well. It's not difficult to design, although it might be difficult to implement. Your game will need to keep track of the exact position and animation step of every player and other key objects on the field in each game frame. When the player requests an instant replay (usually through a pause menu), the game can play them back. Of course there is a limit to how much of this information you can keep around, and some natural boundary is likely to suggest itself—in baseball, the time since the most recent pitch; in American football, the time since the ball was snapped. In continuously flowing games such as basketball, you might have to establish an artificial time limit.
 
-即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。你的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限--在棒球比赛中，自最近一次投球以来的时间；在美式橄榄球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
+即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。你的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限--在棒球比赛中，自最近一次投球以来的时间；在美式足球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
 
 The best instant-replay mechanisms allow all the following features for maximum flexibility:
 
