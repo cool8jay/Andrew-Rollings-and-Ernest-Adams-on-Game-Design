@@ -210,7 +210,7 @@ These are examples of the kinds of ratings that might be common to all the athle
 **敏捷。** 衡量运动员在移动过程中改变方向的能力。
 
 * **Weight.** Simply the athlete's weight, which affects the force he transmits in a collision and the inertia he has when struck by someone else.\
-**体重。** 简单地说就是运动员的体重，它会影响他在碰撞中传递的力以及被他人撞击时的惯性。
+**体重。** 简单地说就是运动员的体重，它会影响他在碰撞中传递的力量以及被他人撞击时的惯性。
 
 * **Acceleration.** The rate at which the athlete can reach top speed.\
 **加速度。** 运动员达到最高速度的速率。
@@ -228,7 +228,7 @@ These are examples of the kinds of ratings that might be common to all the athle
 
 These ratings apply to a specific position—in this case, the quarterback in American football:
 
-这些评级适用于特定位置——这里指的是美式橄榄球中的四分卫：
+这些评级适用于特定位置——这里举例用的是美式橄榄球中的四分卫：
 
 * **Passing strength.** The distance that the quarterback can throw the ball.
 **传球力量。** 四分卫投球的距离。
