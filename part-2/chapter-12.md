@@ -258,25 +258,23 @@ The best way to design sports-game AI is to map out a game's states as a giant f
 
 设计体育游戏人工智能的最佳方法是将游戏状态绘制成一个巨大的流程图。状态可能远比你一开始意识到的要多。足球比赛中的角球并非只有一种状态，而是有多种状态。有球被踢出之前的状态，有球被踢出但尚未触及其他运动员之后的状态，有球被其他运动员触及之后的状态，等等。部分示例见图 12.2。
 
-Figure 12.2. A flowchart detailing part of the "corner kick" situation in soccer. 
-
-图 12.2. 详细说明足球比赛中 “角球 ”情况的流程图。
+Figure 12.2. A flowchart detailing part of the "corner kick" situation in soccer. 图 12.2. 详细说明足球比赛中“角球”情况的流程图。
 
 graphics/12fig02.gif
 
 Consult the official rules of the sport as you construct the flowchart: They will often describe states in detail, with special rules applying to each. However, the rules alone are not enough; they describe game states for the purposes of listing legal and illegal actions, but not for tactics or strategy. Whenever something changes that requires the athletes to adopt a different tactic, the game has moved into a different state.
 
-在绘制流程图时，请参考体育运动的官方规则： 这些规则通常会详细描述各种状态，每种状态都有适用的特殊规则。然而，仅有规则是不够的；规则描述比赛状态的目的是列出合法和非法行为，而不是战术或战略。每当有什么变化要求运动员采取不同的战术时，比赛就进入了不同的状态。
+在绘制流程图时，请参考体育运动的官方规则：这些规则通常会详细描述各种状态，每种状态都有适用的特殊规则。然而，仅有规则是不够的；规则描述比赛状态的目的是列出合法和非法行为，而不是战术或战略。每当有什么变化要求运动员采取不同的战术时，比赛就进入了不同的状态。
 
 ### Setting Collective and Individual Goals 设定集体和个人目标
 
 After you define the game states, you can start thinking about what the team should do in that state—where each athlete should be trying to go and what he should be trying to do to support the team's collective goal at that moment. In some cases, these activities are defined with reference to a specific individual on the opposing team, trying to prevent him from doing his job. The software must have a way of matching up athletes with their opponents, just as the real athletes do.
 
-在确定了比赛状态后，你就可以开始考虑球队在该状态下应该做些什么--每个运动员应该努力去哪里，他应该努力做些什么来支持球队在那一刻的集体目标。在某些情况下，这些活动的定义是针对对方团队中的特定个人，试图阻止他完成自己的工作。软件必须有办法将运动员与对手匹配起来，就像真正的运动员那样。
+在定义了比赛状态后，你就可以开始考虑球队在该状态下应该做些什么——每个运动员应该努力去哪里，他应该努力做些什么来支持球队在那一刻的集体目标。在某些情况下，这些活动的定义是针对对方团队中的特定个人，试图阻止他完成自己的工作。软件必须有办法将运动员与对手匹配起来，就像真正的运动员那样。
 
 When you have defined what the team should be trying to accomplish in a particular state and have assigned each athlete a role, you then must define exactly how the athlete is to perform that role: what direction he moves, what other movements he makes, which animations should be displayed, and so on. If the role is a defensive or supportive one, such as covering an opposing athlete, the individual AI for it might still be fairly complex. For example, a soccer player dribbling the ball might make a feint, trying to fool his opponent into thinking he's passing the ball. The software knows perfectly well that this is a feint, but sometimes the defender should be fooled and sometimes he shouldn't, depending on his awareness rating and, in either case, how he responds.
 
-当你定义了球队在特定状态下应努力完成的任务，并给每个运动员分配了一个角色后，你就必须准确定义运动员应如何完成该角色：他朝哪个方向移动、做出哪些其他动作、应显示哪些动画等。如果角色是防守或辅助性的，例如掩护对方运动员，那么其单独的人工智能可能仍然相当复杂。例如，一名足球运动员在运球时可能会做出佯动，试图让对手误以为他在传球。软件很清楚这是一个佯攻，但有时防守者会被骗，有时则不会，这取决于他的意识等级，以及在这两种情况下他的反应。
+当你定义了球队在特定状态下应努力完成的任务，并给每个运动员分配了一个角色后，你就必须准确定义运动员应如何完成该角色：他朝哪个方向移动、做出哪些其他动作、应显示哪些动画等。如果角色是防守或辅助性的，例如掩护对方运动员，那么其单独的人工智能可能仍然相当复杂。例如，一名足球运动员在运球时可能会做出假动作，试图让对手误以为他在传球。软件很清楚这是一个假动作，但有时防守者会被骗，有时则不会，这取决于他的意识等级，以及在这两种情况下他的反应。
 
 An athlete with nothing to do shouldn't just stand still. Most sports games include fidgets, short animations in which the athlete shifts his weight, stretches his arms, or makes some other neutral action every few seconds. Even if play is underway but the athlete is not closely involved—the third baseman on a fly ball to right field, for example—he at least should turn and watch the action.
 
@@ -298,24 +296,23 @@ Some positions, such as the pitcher in baseball, are simply so stressful that th
 
 You can also decide which part of the body sustained the injury and the length of time for which it will disable the athlete. Study reports of injuries and recovery times for the sport you are simulating. If your game tracks athletes over a period of time, you will have to consider the cumulative effect of injury and recovery time on their careers.
 
-
 你还可以决定受伤的部位和运动员伤残的时间。研究你所模拟的运动项目的受伤报告和恢复时间。如果你的游戏对运动员进行了一段时间的跟踪，你就必须考虑受伤和恢复时间对运动员职业生涯的累积影响。
 
 ## Arcade Mode Versus Simulation Mode 街机模式与模拟模式
 
 Arcade mode versus simulation mode is a realism switch that lets the player adjust the behavior of the game to suit his tastes. Arcade mode makes the game more exciting at the expense of realism; simulation mode makes it a more accurate simulation of the real sport at some expense in fun. For example, in baseball, an athlete is doing well if he has a .333 batting average—that is, gets a hit only one time in three. Some players might find that a little dull. Switching the game to arcade mode could let the player get a hit 50 percent of the time or even more. It skews the play toward lots of action and relatively few strikeouts or walks. In American football, you could artificially increase the number of completed passes by improving the quarterback's throwing accuracy and the receiver's catching skills.
 
-街机模式与模拟模式是一个逼真度开关，可让玩家根据自己的喜好调整游戏行为。街机模式使游戏更刺激，但牺牲了真实感；模拟模式使游戏更准确地模拟真实运动，但牺牲了一定的趣味性。例如，在棒球比赛中，如果一名运动员的平均打击率为 0.333，即三次击球中只有一次被击中，那么他的表现就很好。有些玩家可能会觉得这有点无聊。将游戏切换到街机模式，可以让玩家在 50% 甚至更多的时间里获得安打。这将使游戏偏向于大量动作，而相对较少的三振出局或保送。在美式橄榄球中，你可以通过提高四分卫的投球准确性和接球手的接球技巧，人为地增加完成传球的次数。
+街机模式与模拟模式是一个逼真度开关，可让玩家根据自己的喜好调整游戏行为。街机模式使游戏更刺激，但牺牲了真实感；模拟模式使游戏更准确地模拟真实运动，但牺牲了一定的趣味性。例如，在棒球比赛中，如果一名运动员的击球率是 0.333，即三次击球中只有一次击中，那么他的表现就很好。有些玩家可能会觉得这有点无聊。将游戏切换到街机模式，可以让玩家在 50% 甚至更高的几率击中。这将使游戏偏向于大量动作，而相对较少的三振出局或保送。在美式橄榄球中，你可以通过提高四分卫的投球准确性和接球手的接球技巧，人为地增加完成传球的次数。
 
 To implement arcade mode, you'll have to decide what sort of changes to the real game would make it more exciting. If you want your game to have both arcade and simulation modes, we recommend that you start with the serious simulation first and then design the "fudges" that make it arcadelike. Serious simulations are much more difficult to tune, and it's important to get them right first. If you start with an arcadelike design and then try to make it serious, you might never get it right.
 
-要实现街机模式，你必须决定对真实游戏进行什么样的改动才能使其更加精彩。如果你希望自己的游戏既有街机模式又有模拟模式，我们建议你先从严肃的模拟模式开始，然后再设计使其成为街机模式的 “窜改”。严肃模拟的调整难度要大得多，因此首先做好严肃模拟非常重要。如果你一开始设计的是弧形模拟，然后再试图将其变为严肃模拟，那么你可能永远都无法将其变为正确的模拟。
+要实现街机模式，你必须决定对真实游戏进行什么样的改动才能使其更加精彩。如果你希望你的游戏同时有街机和模拟模式，我们建议你先从严肃的模拟开始，然后再设计使其成为街机模式的“修改”。严肃模拟的调整难度要大得多，因此首先做好严肃模拟非常重要。如果你一开始设计的是街机模拟，然后再试图将其变为严肃模拟，那么你可能永远也做不到。
 
 ## Simulating Matches Automatically 自动模拟比赛
 
 Sports games that can play an entire season for a whole league of teams often provide a means of simulating matches automatically, without the player having to play them. For example, each team in professional baseball plays 162 matches in a season. With 30 teams and 2 teams in each match, this is a total of 2,430 matches—only the most rabid fan would want to play them all personally. To generate results for matches that the player doesn't play, you need a way of simulating a match. Of course, you'll want the resulting scores to accurately reflect the relative strengths of the teams: A bad team should be able to beat a good team occasionally, but not often.
 
-体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛--只有最狂热的球迷才愿意亲自上阵。要为球员没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力： 差的队伍应该偶尔能击败好的队伍，但不能经常这样。
+体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛——只有最狂热的球迷才愿意亲自上阵。要为球员没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力： 差的队伍应该偶尔能击败好的队伍，但不能经常这样。
 
 ### Computer Versus Computer 计算机对计算机
 
