@@ -340,13 +340,13 @@ One disadvantage of this dice-rolling technique is that it doesn't generate any 
 
 Many years ago, small developers could make and sell computer games using names such as "NFL" and get away with it, because the National Football League never knew it was happening. You can't do this now. Interactive entertainment is big business, and you have to be scrupulously careful to avoid violating trademarks or personal publicity rights.
 
-许多年前，小型开发商可以使用“NFL”等名称制作和销售电脑游戏，而且不被追究，因为全国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
+许多年前，小型开发商可以使用“NFL”等名称制作和销售电脑游戏，而且不被追究，因为美国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
 
 ### Team and League Trademarks 球队和联盟商标
 
-The exact details vary from league to league and country to country, but generally in America, the name, logo, uniform design, and other indicia of all the teams in a league, plus the name and logo of the league itself, are licensed for use by the league. You, or your publisher, will have to negotiate an agreement with the league to use these symbols in your game. Before Electronic Arts signed an agreement with the NFL, early versions of John Madden Football referred to teams only by their town names (such as San Francisco or Chicago) rather than by their team names (the 49ers and the Bears) and did not show any logos. The colors of the uniforms were similar but not exactly the same. You can pull this trick, too, if you dare, but you're risking a lawsuit if you get too close.
+The exact details vary from league to league and country to country, but generally in America, the name, logo, uniform design, and other indicia of all the teams in a league, plus the name and logo of the league itself, are licensed for use by the league. You, or your publisher, will have to negotiate an agreement with the league to use these symbols in your game. Before Electronic Arts signed an agreement with the NFL, early versions of [John Madden Football](https://en.wikipedia.org/wiki/Madden_NFL) referred to teams only by their town names (such as San Francisco or Chicago) rather than by their team names (the 49ers and the Bears) and did not show any logos. The colors of the uniforms were similar but not exactly the same. You can pull this trick, too, if you dare, but you're risking a lawsuit if you get too close.
 
-具体细节因联赛和国家而异，但一般来说，在美国，联赛中所有球队的名称、标志、制服设计和其他标志，以及联赛本身的名称和标志，均由联赛授权使用。你或你的发行商要在游戏中使用这些标志，必须与联盟协商达成协议。在 Electronic Arts 与 NFL 签订协议之前，早期版本的《约翰·麦登橄榄球》仅以城市名称（如旧金山或芝加哥）而非球队名称（49 人队和熊队）来称呼球队，并且不显示任何徽标。队服的颜色相似，但并不完全相同。如果你有胆量，也可以使出这一招，但如果太过接近，就有可能惹上官司。
+具体细节因联赛和国家而异，但一般来说，在美国，联赛中所有球队的名称、标志、制服设计和其他标志，以及联赛本身的名称和标志，均由联赛授权使用。你或你的发行商要在游戏中使用这些标志，必须与联盟协商达成协议。在 Electronic Arts 与 NFL 签订协议之前，早期版本的[《约翰·麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)仅以城市名称（如旧金山或芝加哥）而非球队名称（49 人队和熊队）来称呼球队，并且不显示任何徽标。队服的颜色相似，但并不完全相同。如果你有胆量，也可以使出这一招，但如果太过接近，就有可能惹上官司。
 
 Individual sports, such as gymnastics or figure skating, are often governed by a variety of bodies in different countries around the world. The names and indicia of particular events, such as the Kentucky Derby, are owned by the organizations that produce them—in this case, the Churchill Downs racetrack. In recent years, these groups have begun to exploit their intellectual property rights in a variety of ways, so they tend to come down hard on anything that seems to be an infringement. Don't assume that just because an event has been around for decades, you can freely use its name.
 
@@ -356,11 +356,11 @@ Individual sports, such as gymnastics or figure skating, are often governed by a
 
 You cannot use the name or photograph of a real athlete without permission. An athlete's name and likeness are part of his personal publicity rights, and, of course, famous athletes sell the rights to use their names for millions of dollars when they endorse a particular product as an individual. You might need to negotiate with an organization that licenses the rights to use all the players' names collectively. This might be the league, in some cases; in others, however, including the NFL and Major League Baseball, you have to contact the athletes' unions. And unless you have the endorsement of a specific athlete, you must make sure that your game displays all athletes in approximately the same way, or endorsement could be implied. You can't make it look as if an athlete has endorsed your game when that's not the case.
 
-未经许可，你不能使用真正运动员的姓名或照片。运动员的姓名和肖像是其个人宣传权的一部分，当然，著名运动员在以个人身份代言某种产品时，会以数百万美元的价格出售其姓名使用权。你可能需要与授权使用所有球员姓名的组织进行谈判。在某些情况下，这可能是联盟；但在其他情况下，包括国家橄榄球联盟和美国职业棒球大联盟，你必须与运动员工会联系。除非你得到了特定运动员的认可，否则你必须确保你的游戏以大致相同的方式展示所有运动员，否则可能会被暗示认可。你不能让人觉得某个运动员认可了你的游戏，而事实并非如此。
+未经许可，你不能使用真正运动员的姓名或照片。运动员的姓名和肖像是其个人宣传权的一部分，当然，著名运动员在以个人身份代言某种产品时，会以数百万美元的价格出售其姓名使用权。你可能需要与授权使用所有球员姓名的组织进行谈判。在某些情况下，这可能是联盟；但在其他情况下，包括美国橄榄球联盟和美国职业棒球大联盟，你必须与运动员工会联系。除非你得到了特定运动员的代言，否则你必须确保你的游戏以大致相同的方式展示所有运动员，否则可能会暗示代言。你不能让它看起来好像运动员代言了你的游戏，而实际上并非如此。
 
 Photographs present further difficulties. You must obtain a license from the person in the photograph and also from the person who took the photograph: the photograph's copyright holder. Again, some governing bodies have special clearinghouses for these kinds of things: NFL Photos is a special department of the NFL that licenses still photos for all the photographers who are accredited to take pictures at NFL matches. The license, however, does not grant you the personal publicity rights of the athlete in the picture; you have to obtain those separately. You can also license photos from the trading card companies, as well as from journalistic bodies such as the Associated Press, and from private photo libraries.
 
-照片会带来更多困难。你必须从照片中的人物以及照片的拍摄者（即照片的版权持有者）那里获得许可。同样，一些管理机构有专门的信息交换中心来处理此类事宜： NFL Photos 是 NFL 的一个特殊部门，负责为所有获准在 NFL 比赛中拍照的摄影师颁发静态照片许可证。不过，许可证并不授予你照片中运动员的个人宣传权，你必须另外获得这些权利。你也可以从交易卡公司、美联社等新闻机构以及私人图片库获得照片授权。
+照片会带来更多困难。你必须从照片中的人物以及照片的拍摄者（即照片的版权持有者）那里获得许可。同样，一些管理机构有专门的信息交换中心来处理此类事宜：NFL Photos 是 NFL 的一个特殊部门，负责为所有获准在 NFL 比赛中拍照的摄影师颁发静态照片许可证。不过，许可证并不授予你照片中运动员的个人宣传权，你必须另外获得这些权利。你也可以从交易卡公司、美联社等新闻机构以及私人图片库获得照片授权。
 
 In short, the whole issue of rights in sports games is a legal minefield. Nowadays, even the stadiums might claim special rights, and many stadium owners auction the name of the stadium to the highest bidder, as with 3Com Park in San Francisco. As a designer, you probably won't have to deal with obtaining all these licenses yourself, but you should know that it's not safe to specify simply that a game will use all the team and player names and photos. Obtaining them and the right to use them is a very costly and time-consuming business. It's best to design the game in such a way that it doesn't depend on having these things, unless you're certain that they will be available.
 
@@ -370,21 +370,21 @@ In short, the whole issue of rights in sports games is a legal minefield. Nowada
 
 Most sports games try to reproduce the experience of watching the sport on television. An important part of that experience is hearing the announcers' commentary, or play-by-play. Most TV and radio sports broadcasts include at least two people, the play-by-play man and the color commentator. The play-by-play man describes the play on a moment-by-moment basis. The color commentator, usually a retired coach or player, offers insights about strategy and tactics, as well as background material on the teams or individual players. A third voice that you occasionally hear is that of the stadium announcer over the public address system. His remarks tend to be quite formulaic, although they do occasionally include requests to move misparked cars, retrieve found children, and so on.
 
-大多数体育游戏都试图再现在电视上观看体育比赛的体验。这种体验的一个重要部分就是听到播音员的解说或旁述。大多数电视和广播体育转播至少包括两个人，即解说员和彩色解说员。解说员逐一描述比赛过程。彩色解说员通常是退役教练或球员，提供有关战略和战术的见解，以及有关球队或球员个人的背景材料。你偶尔会听到的第三个声音是球场广播系统中的播音员。他的讲话往往比较程式化，不过偶尔也会要求移走停错的汽车、找回捡到的孩子等等。
+大多数体育游戏都试图再现在电视上观看体育比赛的体验。这种体验的一个重要部分就是听到播音员的解说或实况解说。大多数电视和广播体育转播至少包括两个人，即解说员和评论员。解说员逐刻描述比赛过程。评论员通常是退役教练或球员，提供有关战略和战术的见解，以及有关球队或球员个人的背景材料。你偶尔会听到的第三个声音是球场广播系统中的播音员。他的讲话往往比较固定，不过偶尔也会要求移走停错的汽车、找回走失的小孩等等。
 
 ### Defining the Events to Describe 定义要描述的事件
 
 A good way to size up the job of duplicating the audio experience is to record a TV broadcast of a real match and then transcribe everything that is said and by whom. Do this for two or three matches, and you will begin to notice patterns in the play-by-play: The announcers tend to announce the score at particular times, they use certain repetitive language, and so on. As you watch the match on videotape, take note of the different kinds of events that occur and the different remarks they elicit from the commentators. The color commentator's events aren't the same as the play-by-play man's. The color commentator speaks at more dramatic moments, or when an athlete has done something particularly spectacular (or particularly bad). For example, in tennis, you might have a color comment like, "She's having a terrible time with those double faults" when an athlete commits four double faults in a single game. Be sure you play it only once, however—not on every subsequent double fault.
 
-复制音频体验的一个好方法是录制一场真实比赛的电视直播，然后抄录下每一句话、每一个人说的话。这样做两三场比赛，你就会开始注意到旁白的模式： 解说员往往在特定的时间宣布比分，他们使用某些重复的语言，等等。当你观看比赛录像时，注意发生的不同类型的事件以及它们引起解说员的不同言论。彩色解说员解说的事件与解说员解说的事件不同。彩色解说员会在更戏剧性的时刻或运动员做出特别精彩（或特别糟糕）的表现时发言。例如，在网球比赛中，当运动员在一场比赛中出现四个双误时，你可能会有这样的彩色解说：“她的双误太糟糕了”。但要确保只使用一次，而不是在随后的每次双误中使用。
+评估复制音频体验工作的一个好方法是录制一场真实比赛的电视直播，然后抄录下每一个人说的每一句话。这样做两三场比赛，你就会开始注意到旁白的模式：解说员往往在特定的时间宣布比分，他们使用某些重复的语言，等等。当你观看比赛录像时，注意发生的不同类型的事件以及它们引起解说员的不同言论。评论员解说的事件与解说员解说的事件不同。评论员会在更戏剧性的时刻或运动员做出特别精彩（或特别糟糕）的表现时发言。例如，在网球比赛中，当运动员在一场比赛中出现四个双误时，你可能会有这样的彩色解说：“她的双误太糟糕了”。但要确保只使用一次，而不是在随后的每次双误中使用。
 
-When you have a set of match events that you want to create commentary for, sit down with the programmers and discuss them to make sure they are detectable. Some, such as a strikeout in baseball, will be uncomplicated, but a lot of them will be judgment calls. For example, a dropped pass in football that the player really should have caught is not so easily detectable; you can detect the dropped pass, but what determines whether he should have caught it? It must be calculated from such things as the receiver's dexterity rating and the accuracy with which the pass was thrown in the first place—provided that it wasn't tipped away by a defender. It's always best to err on the side of caution in these cases: Don't design judgment calls that the player is likely to disagree with, or he'll think your game is stupid. As the saying goes, "It's better to remain silent and be thought a fool than open one's mouth and remove all doubt."
+When you have a set of match events that you want to create commentary for, sit down with the programmers and discuss them to make sure they are detectable. Some, such as a strikeout in baseball, will be uncomplicated, but a lot of them will be judgment calls. For example, a dropped pass in football that the player really should have caught is not so easily detectable; you can detect the dropped pass, but what determines whether he should have caught it? It must be calculated from such things as the receiver's dexterity rating and the accuracy with which the pass was thrown in the first place—provided that it wasn't tipped away by a defender. It's always best to err on the side of caution in these cases: Don't design judgment calls that the player is likely to disagree with, or he'll think your game is stupid. As the saying goes, "保持沉默被认为愚蠢，比开口说话消除所有怀疑要好."
 
-当你有一组想要制作解说的比赛事件时，请与程序员坐下来讨论，确保它们是可以被检测到的。有些事件，如棒球比赛中的三振出局，并不复杂，但很多都是判断性的。例如，足球比赛中球员确实应该接住的传球失误就不那么容易检测到；你可以检测到传球失误，但如何判断他是否应该接住呢？这必须根据接球者的灵巧程度和传球的准确性来计算--前提是传球没有被防守者甩掉。在这种情况下，最好谨慎行事： 不要设计玩家可能不同意的判断，否则他会认为你的游戏很愚蠢。俗话说：“与其张口结舌，消除一切疑虑，不如保持沉默，被人认为是傻瓜”。
+当你有一组想要制作解说的比赛事件时，请与程序员坐下来讨论，确保它们是可以被检测到的。有些事件，如棒球比赛中的三振出局，并不复杂，但很多都是判断性的。例如，足球比赛中球员确实应该接住的传球失误就不那么容易检测到；你可以检测到传球失误，但如何判断他是否应该接住呢？这必须根据接球者的灵巧程度和传球的准确性来计算——前提是传球没有被防守者甩掉。在这种情况下，最好谨慎行事：不要设计玩家可能不同意的判罚，否则他会认为你的游戏很愚蠢。俗话说：“与其张口结舌，消除一切疑虑，不如保持沉默，被人认为是傻瓜”。
 
 Don't forget the introductory and wrap-up material at the beginning and end of the match—for example, "Welcome to Mile High Stadium for today's game between the New England Patriots and the Denver Broncos. It's a cold and windy day."
 
-不要忘记比赛开始和结束时的开场白和总结材料——例如，“欢迎来到一英里高球场，观看今天新英格兰爱国者队和丹佛野马队之间的比赛。今天天气寒冷，风很大。”
+不要忘记比赛开始和结束时的开场白和总结材料——例如，“欢迎来到迈尔高地球场，观看今天新英格兰爱国者队和丹佛野马队之间的比赛。今天天气寒冷，风很大。”
 
 ### Writing the Script 编写脚本
 
@@ -394,21 +394,21 @@ When you have established the events that need audio commentary, you can start t
 
 As you write the script, you will discover places where a name or number will need to be included, usually the names of athletes or teams or the current score. If the sport is one with a large number of athletes, you cannot afford to record the sentence with every possible athlete's name in it. Instead, you will need to record the sentence as a whole using a sample name and edit the resulting audio file into clips, one part before the name and one part after. Your programmers must devise a method of streaming the sound clips, inserting the correct name in the right place in such a way that they sound seamless. When you record the sentence, use a sample name that begins and ends with a T or a K sound so that it doesn't slur into the rest of the sentence and so that it can be cut cleanly. For example, "Merrick steps up to the free throw line" enables the engineer to cut between Merrick and steps, whereas "Rogers steps up to the free throw line" would produce a slur from Rogers into steps.
 
-在编写脚本的过程中，你会发现一些地方需要加入名字或数字，通常是运动员或球队的名字或当前比分。如果是运动员人数众多的运动项目，你就不能在记录句子时把每个可能的运动员名字都写进去。相反，你需要用一个样本名称来录制整个句子，并将生成的音频文件编辑成片段，一部分在名称之前，一部分在名称之后。你的程序员必须设计出一种流式处理声音片段的方法，在正确的位置插入正确的名字，使它们听起来天衣无缝。在录制句子时，使用以 T 或 K 音开头和结尾的样本名称，这样就不会与句子的其他部分混淆，也能剪切得干净利落。例如，“Merrick steps up to the free throw line（梅里克走上罚球线）”可以让工程师在 Merrick 和 steps 之间进行切分，而 “Rogers steps up to the free throw line（罗杰斯走上罚球线）”则会产生从 Rogers 到 steps 的不连贯。
+在编写脚本的过程中，你会发现一些地方需要加入名字或数字，通常是运动员或球队的名字或当前比分。如果是运动员人数众多的运动项目，你就不能在记录句子时把每个可能的运动员名字都写进去。相反，你需要用一个样本名称来录制整个句子，并将生成的音频文件编辑成片段，一部分在名称之前，一部分在名称之后。你的程序员必须设计出一种流式处理声音片段的方法，在正确的位置插入正确的名字，使它们听起来天衣无缝。在录制句子时，使用以 T 或 K 音开头和结尾的样本名称，这样就不会与句子的其他部分混淆，也能剪切得干净利落。例如，“Merrick steps up to the free throw line（梅里克走上罚球线）”可以让工程师在 Merrick 和 steps 之间进行切分，而 “Rogers steps up to the free throw line（罗杰斯走上罚球线）”则会产生从 Rogers 到 steps 的连音。
 
 Whenever possible, you should try to write the script in such a way that names are at either the beginning or the end of a sentence. You can then have your voice talent record the names of all the athletes who appear in the game. Each name will need to be recorded twice, once using the voice inflection for the beginning of a sentence, and once at the end. Don't try to record the names by themselves; record a complete sentence and then throw away all but the name, for example, "Thomas takes it" and "I'll pick Thomas." Again, using the T and K sounds adjacent to the name allows a clean cut in the audio.
 
-只要有可能，你就应该尽量把名字写在句子的开头或结尾。然后，你可以让配音员录制游戏中出现的所有运动员的名字。每个名字都需要录制两次，一次是在句首，一次是在句末。不要试图单独录下名字；先录下一个完整的句子，然后把除了名字以外的所有内容都扔掉，例如，“托马斯拿下 ”和 “我选托马斯”。同样，使用与名字相邻的 T 和 K 音可以使音频切得干净利落。
+只要有可能，你就应该尽量把名字写在句子的开头或结尾。然后，你可以让配音员录制游戏中出现的所有运动员的名字。每个名字都需要录制两次，一次是在句首，一次是在句末。不要试图单独录下名字；先录下一个完整的句子，然后把除了名字以外的所有内容都扔掉，例如，“托马斯拿下”和“我选托马斯”。同样，使用与名字相邻的 T 和 K 音可以使音频切得干净利落。
 
 Case Study: Madden NFL Football 案例研究：麦登橄榄球
 
-Madden NFL Football is one of the longest-established and best-selling game franchises in the history of our industry. From its earliest beginnings on the Apple II, it has grown into a financial powerhouse that produces a new edition on several different platforms every year and makes millions of dollars for its publisher, Electronic Arts. Versions of Madden have appeared for personal computers and every major console machine ever produced.
+[Madden NFL Football](https://en.wikipedia.org/wiki/Madden_NFL) is one of the longest-established and best-selling game franchises in the history of our industry. From its earliest beginnings on the Apple II, it has grown into a financial powerhouse that produces a new edition on several different platforms every year and makes millions of dollars for its publisher, Electronic Arts. Versions of [Madden](https://en.wikipedia.org/wiki/Madden_NFL) have appeared for personal computers and every major console machine ever produced.
 
-《麦登橄榄球》是本行业历史最悠久、最畅销的游戏系列之一。从最初的 Apple II 开始，它已经成长为一个金融巨头，每年都会在多个不同平台上推出新版本，并为其发行商电子艺界（Electronic Arts）赚取数百万美元。个人电脑和所有主要游戏机上都出现过《疯狂游戏》的版本。
+[《麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)是本行业历史最悠久、最畅销的游戏系列之一。从最初的 Apple II 开始，它已经成长为一个金融巨头，每年都会在多个不同平台上推出新版本，并为其发行商电子艺界（Electronic Arts）赚取数百万美元。个人电脑和所有主要游戏机上都出现过[《麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)的版本。
 
-Madden is not redesigned every year, nor is its code rewritten. Its artwork and video sequences are updated, and it gets new features each year, but it undergoes a complete overhaul only every four or five years—often when a new generation of game console appears. The majority of the design work each year consists of tuning and improving the gameplay and adding more features. These features expand the "football experience" to include aspects of the sport that go beyond playing a single match against another team. Among them are the following:
+[Madden](https://en.wikipedia.org/wiki/Madden_NFL) is not redesigned every year, nor is its code rewritten. Its artwork and video sequences are updated, and it gets new features each year, but it undergoes a complete overhaul only every four or five years—often when a new generation of game console appears. The majority of the design work each year consists of tuning and improving the gameplay and adding more features. These features expand the "football experience" to include aspects of the sport that go beyond playing a single match against another team. Among them are the following:
 
-麦登并非每年都重新设计，其代码也不会重写。它的插图和视频片段每年都会更新，每年都会有新的功能，但每隔四五年才会进行一次彻底的改革--通常是在新一代游戏机出现的时候。每年的大部分设计工作包括调整和改进游戏玩法，并增加更多功能。这些功能扩大了 “足球体验 ”的范围，将这项运动的方方面面都包括在内，而不仅仅是与其他球队进行单场比赛。其中包括
+[《麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)并非每年都重新设计，其代码也不会重写。它的插图和视频片段每年都会更新，每年都会有新的功能，但每隔四五年才会进行一次彻底的修改——通常是在新一代游戏机出现的时候。每年的大部分设计工作包括调整和改进游戏玩法，并增加更多功能。这些功能扩大了“橄榄球体验”的范围，将这项运动的方方面面都包括在内，而不仅仅是与其他球队进行单场比赛。其中包括：
 
 Ability to hire and trade players among teams, subject to the limitations of the salary cap established by the NFL.
 
@@ -430,7 +430,7 @@ Ability to hire and trade players among teams, subject to the limitations of the
 战术编辑器，允许玩家自定义战术。
 
 * Madden University, which includes detailed tutorials about offensive and defensive strategies, commentaries on the strengths and weaknesses of each team, and historical background.
-麦登大学》（Madden University），其中包括有关进攻和防守策略的详细教程、对每支球队优缺点的评论以及历史背景。
+《麦登大学》，其中包括有关进攻和防守策略的详细教程、对每支球队优缺点的评论以及历史背景。
 
 * Adjustable AI, enabling players to set the coaching stances of computer-controlled teams to aggressive, neutral, or conservative.
 可调整的 AI，让玩家能够将电脑控制的球队的教练立场设置为激进、中立或保守。
@@ -440,15 +440,15 @@ Ability to hire and trade players among teams, subject to the limitations of the
 
 As you can see, even though the sport itself changes little from year to year, new features and details can always be added to a sports game.
 
-正如你所看到的，尽管体育运动本身每年的变化不大，但体育游戏总能增加新的功能和细节
+正如你所看到的，尽管体育运动本身每年的变化不大，但体育游戏总能增加新的功能和细节。
 
 By far, the largest single task in developing Madden every year is research: rating the skills of the real players who appear in the game, keeping track of which team they're playing for, finding photographs of them, and so on. In addition to researching the players, the production team must research the coaches—trying to find out what kinds of plays they like to run, whether they're aggressive or conservative, and so on. The team's playbooks must be updated every year to reflect changes in coaching practice, and the new plays must be tested to make sure that they're effective but not unstoppable.
 
-到目前为止，每年开发《麦登橄榄球》最大的一项任务就是研究：对游戏中出现的真实球员的技能进行评级，跟踪他们所在的球队，寻找他们的照片，等等。除了研究球员，制作团队还必须研究教练--试图找出他们喜欢用什么战术，是激进还是保守等等。球队的战术手册必须每年更新，以反映教练做法的变化，而且新战术必须经过测试，以确保有效但并非不可阻挡。
+到目前为止，每年开发[《麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)最大的一项任务就是研究：对游戏中出现的真实球员的技能进行评级，跟踪他们所在的球队，寻找他们的照片，等等。除了研究球员，制作团队还必须研究教练——试图找出他们喜欢用什么战术，是激进还是保守等等。球队的战术手册必须每年更新，以反映教练实践的变化，而且新战术必须经过测试，以确保有效但并非不可阻挡。
 
 In short, Madden is a highly successful sports game that offers its players a wide range of playing styles, from the quick and easy arcade game to the detailed minutiae of designing plays and adjusting rosters. As a game that tries to "do it all," it's well worth studying.
 
-总之，《麦登橄榄球》是一款非常成功的体育游戏，它为玩家提供了多种玩法，从简单快捷的街机游戏，到设计战术和调整名单的细节琐事，应有尽有。作为一款 “无所不能 ”的游戏，它非常值得研究。
+总之，[《麦登橄榄球》](https://en.wikipedia.org/wiki/Madden_NFL)是一款非常成功的体育游戏，它为玩家提供了多种玩法，从简单快捷的街机游戏，到设计战术和调整整容的细节琐事，应有尽有。作为一款“面面俱到”的游戏，它非常值得研究。
 
 ## Other Peculiarities 其他特殊性
 
