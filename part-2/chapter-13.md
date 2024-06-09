@@ -125,7 +125,7 @@ In military flight simulators, the player must not only fly the aircraft, but al
 
 Figure 13.1. A pilot's view in Crimson Skies. Note the very simple instrument panel. 图 13.1. 《深红天空》中飞行员的视角。请注意非常简单的仪表盘。
 
-graphics/13fig01.gif
+![](../.gitbook/assets/13.1.png)
 
 The gameplay in military flight simulators is defined by the role of the aircraft being simulated. Fighter planes are designed primarily to attack enemy aircraft and to protect friendly aircraft and ground units from air attacks. Attack planes are designed to attack moving ground targets; bombers are designed to attack stationary ones. Most military flight simulators offer a series of missions, often with primary and secondary objectives; achieving them constitutes victory. The objectives are usually to shoot down enemy fighters or to destroy ground targets, all without being shot down yourself, of course. Being killed or having your plane shot down constitutes a loss. You can also rate the success of a mission according to the number of objectives achieved, the length of time it took, and the amount of damage sustained by the aircraft, assigning extra points for a swift and safe return.
 
@@ -139,7 +139,7 @@ Civilian flight simulators such as the venerable but excellent Microsoft Flight 
 
 Figure 13.2. An instrument panel in Microsoft Flight Simulator 2002. This is a game for serious pilots. 图 13.2. Microsoft 飞行模拟器 2002 中的仪表盘。这是一款适合严肃飞行员的游戏。
 
-graphics/13fig02.gif
+![](../.gitbook/assets/13.3.jpg)
 
 ### Racing Sims 赛车模拟
 
@@ -284,7 +284,7 @@ Figure 13.4. Power Boat Racing, in a third-person perspective. Note the semitran
 
 图 13.4. 第三人称视角下的动力艇竞赛。请注意半透明的地图叠加和仪表板。
 
-graphics/13fig04.jpg
+![](../.gitbook/assets/13.7.png)
 
 There have been a few simulators of warships over the years, often fairly small craft with high speed and maneuverability, such as the PT boat of World War II fame. Larger vessels such as battleships and aircraft carriers move more slowly and deliberately, and, therefore, tend to be simulated not as individual vehicles, but as part of naval warfare simulations involving whole fleets, such as Harpoon.
 
@@ -314,7 +314,7 @@ From a gameplay standpoint, the most interesting characteristic of a tank is its
 
 Figure 13.6. A tank in Panzer Elite. The turret is facing in a different direction from the tracks. 图 13.6. 装甲精英》中的坦克。炮塔朝向与履带不同的方向。
 
-graphics/13fig06.jpg
+![](../.gitbook/assets/13.6.png)
 
 A more popular alternative is the mech, a science-fiction cousin to the tank that is usually depicted as a large armed and armored walking machine (see Figure 13.7). Because mechs aren't restricted by reality, they can carry all sorts of imaginary weapons and hardware, and they can be optimized for single-player play.
 
