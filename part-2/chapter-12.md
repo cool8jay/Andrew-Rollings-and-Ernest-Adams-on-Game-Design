@@ -312,7 +312,7 @@ To implement arcade mode, you'll have to decide what sort of changes to the real
 
 Sports games that can play an entire season for a whole league of teams often provide a means of simulating matches automatically, without the player having to play them. For example, each team in professional baseball plays 162 matches in a season. With 30 teams and 2 teams in each match, this is a total of 2,430 matches—only the most rabid fan would want to play them all personally. To generate results for matches that the player doesn't play, you need a way of simulating a match. Of course, you'll want the resulting scores to accurately reflect the relative strengths of the teams: A bad team should be able to beat a good team occasionally, but not often.
 
-体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛——只有最狂热的球迷才愿意亲自上阵。要为球员没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力： 差的队伍应该偶尔能击败好的队伍，但不能经常这样。
+体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛——只有最狂热的球迷才愿意亲自上阵。要为球员没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力：差的队伍应该偶尔能击败好的队伍，但不能经常这样。
 
 ### Computer Versus Computer 计算机对计算机
 
@@ -458,9 +458,9 @@ The following sections detail a few other issues peculiar to sports games.
 
 ### Invented Sports 发明的体育运动
 
-From time to time, someone tries to create a sports video game of a completely invented sport, as opposed to a take-off of an existing one. Empire Interactive's Speedball 2100 was one such game. Experience shows, however, that this is a risky enterprise. Hardcore sports gamers are seldom interested in completely new sports; they'd rather play a game that simulates a sport that they're already familiar with. Other types of gamers aren't that interested in sports games anyway and aren't very likely to want to play a one-off sports game unless it appeals to them for some other reason. If you're thinking of inventing a new sport specifically for a video game, we advise you to design it as a video game, without concerning yourself with what it might be like in the real world. This is how Speedball was designed; although it was theoretically a sport, it included powerups and other arcade-game elements to make it more interesting.
+From time to time, someone tries to create a sports video game of a completely invented sport, as opposed to a take-off of an existing one. Empire Interactive's [Speedball 2100](https://en.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe#Remakes) was one such game. Experience shows, however, that this is a risky enterprise. Hardcore sports gamers are seldom interested in completely new sports; they'd rather play a game that simulates a sport that they're already familiar with. Other types of gamers aren't that interested in sports games anyway and aren't very likely to want to play a one-off sports game unless it appeals to them for some other reason. If you're thinking of inventing a new sport specifically for a video game, we advise you to design it as a video game, without concerning yourself with what it might be like in the real world. This is how [Speedball](https://en.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe#Remakes) was designed; although it was theoretically a sport, it included power-ups and other arcade-game elements to make it more interesting.
 
-时不时地，有人会尝试制作一款完全由发明而来的体育电子游戏，而不是对现有体育运动的模仿。Empire Interactive 的《Speedball 2100》就是这样一款游戏。然而，经验表明，这是一项冒险的事业。铁杆体育玩家很少对全新的运动项目感兴趣，他们更愿意玩模拟他们已经熟悉的运动项目的游戏。其他类型的玩家反正对体育游戏也没多大兴趣，除非有其他原因吸引他们，否则他们不太可能想玩一次性的体育游戏。如果你想专门为电子游戏发明一种新的运动项目，我们建议你将其作为电子游戏来设计，而不要考虑它在现实世界中会是什么样子。速球》就是这样设计的；虽然理论上它是一项体育运动，但它加入了加力和其他街机游戏元素，使其更加有趣。
+时不时地，有人会尝试制作一款完全新发明出来的体育的电子游戏，而不是对现有体育运动的模仿。Empire Interactive 的[《Speedball 2100》](https://en.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe#Remakes)就是这样一款游戏。然而，经验表明，这是一项冒险的事业。铁杆体育玩家很少对全新的运动项目感兴趣，他们更愿意玩模拟他们已经熟悉的运动项目的游戏。其他类型的玩家反正对体育游戏也没多大兴趣，除非有其他原因吸引他们，否则他们不太可能想玩一次性的体育游戏。如果你想专门为电子游戏发明一种新的运动项目，我们建议你将其作为电子游戏来设计，而不要考虑它在现实世界中会是什么样子。[《Speedball 2100》](https://en.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe#Remakes)就是这样设计的；虽然理论上它是一项体育运动，但它加入了强化道具和其他街机游戏元素，使其更加有趣。
 
 As we said earlier, one of the trickiest aspects of sports game design is mapping real-world activities to a limited input device. Players are willing to tolerate some awkwardness in the user interface when it's a real sport because they understand the problems. With an invented sport, they're unlikely to be so generous. When designing a completely new sport, you might consider working backward from the controller to the sport itself, designing around the limitations of your hardware.
 
@@ -470,11 +470,11 @@ As we said earlier, one of the trickiest aspects of sports game design is mappin
 
 Instant replay is now an essential part of watching sports on television, so naturally video game players want it as well. It's not difficult to design, although it might be difficult to implement. Your game will need to keep track of the exact position and animation step of every player and other key objects on the field in each game frame. When the player requests an instant replay (usually through a pause menu), the game can play them back. Of course there is a limit to how much of this information you can keep around, and some natural boundary is likely to suggest itself—in baseball, the time since the most recent pitch; in American football, the time since the ball was snapped. In continuously flowing games such as basketball, you might have to establish an artificial time limit.
 
-即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。你的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限--在棒球比赛中，自最近一次投球以来的时间；在美式足球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
+即时回放现在已经成为电视体育节目中不可或缺的一部分，因此视频游戏玩家自然也希望有这样的功能。这并不难设计，但可能很难实现。你的游戏需要在每个游戏帧中记录每个球员和场上其他关键物体的准确位置和动画步骤。当玩家要求即时回放时（通常是通过暂停菜单），游戏就可以回放。当然，你所能保留的这些信息是有限的，而且很可能会出现一些自然的界限——在棒球比赛中，自最近一次投球以来的时间；在美式足球比赛中，自开球以来的时间。在篮球等连续进行的比赛中，你可能需要人为地设定一个时间限制。
 
 The best instant-replay mechanisms allow all the following features for maximum flexibility:
 
-最好的即时重放机制具有以下所有功能，以实现最大的灵活性：
+最好的即时回放机制具有以下所有功能，以实现最大的灵活性：
 
 * Play, stop, fast-forward, rewind, and single-frame advance and reverse operations, to allow the player to see exactly what happened at every instant.
 播放、停止、快进、后退以及单帧前进和后退操作，让玩家准确地看到每一瞬间发生的事情。
@@ -490,17 +490,17 @@ The best instant-replay mechanisms allow all the following features for maximum 
 
 Instant replay lets the players see the action from perspectives that they can't use when actually playing the game. For the game's publisher and developer, it's an invaluable tool for grabbing dramatic screen shots or gameplay footage for sales and demonstrations. You should consider it an essential feature of any sports game that you design.
 
-即时重放可以让玩家从实际玩游戏时无法使用的视角观看游戏过程。对于游戏发行商和开发商来说，这是一个非常有价值的工具，可以捕捉到精彩的屏幕截图或游戏画面，用于销售和演示。你应该把它视为你设计的任何体育游戏的基本功能。
+即时回放可以让玩家从实际玩游戏时无法使用的视角观看游戏过程。对于游戏发行商和开发商来说，这是一个非常有价值的工具，可以捕捉到精彩的屏幕截图或游戏画面，用于销售和演示。你应该把它视为你设计的任何体育游戏的必备功能。
 
 ### Camera Difficulties in Games with Widely Separated Action 动作距离较远的游戏中的摄像困难
 
 In most sports, the focus of the action is in one location. In a race, it's on the leaders. In any soccerlike sport (soccer, hockey, basketball, water polo, and so on), it's on the object that's supposed to go into the goal; similarly, in any tennislike sport, it's on the ball. Baseball and cricket are unusual in that the action takes place in two places at once: where the ball is and also where the runners are. In baseball, this can be as much as 400 feet away. You can't show both the runners and the ball without zooming out to a blimp view so high up that nobody can see anything clearly.
 
-在大多数体育运动中，比赛的焦点都集中在一个地方。在比赛中，焦点集中在领先者身上。在任何类似足球的运动（足球、曲棍球、篮球、水球等）中，动作的焦点都在应该射入球门的物体上；同样，在任何类似网球的运动中，动作的焦点都在球上。棒球和板球的不同之处在于，比赛同时在两个地方进行：球在哪里，选手就在哪里。在棒球比赛中，这两个地方的距离可能长达 400 英尺。如果不把画面放大到飞艇的视角，就无法同时显示跑垒员和球的位置，以至于没有人能看清楚任何东西。
+在大多数体育运动中，比赛的焦点都集中在一个地方。在比赛中，焦点集中在领先者身上。在任何类似足球的运动（足球、曲棍球、篮球、水球等）中，动作的焦点都在应该射入球门的物体上；同样，在任何类似网球的运动中，动作的焦点都在球上。棒球和板球的不同之处在于，比赛同时在两个地方进行：球在哪里，选手就在哪里。在棒球比赛中，这两个地方的距离可能长达 400 英尺。如果不把画面放大到高空视角，就无法同时显示跑垒员和球的位置，以至于没有人能看清楚任何东西。
 
 To solve this, most baseball video games implement a picture-in-picture solution: The camera follows the ball, but a small diagram of the baseball diamond in one corner of the screen shows the positions of the runners, often as no more than colored dots (see Figure 12.3). When a runner reaches a base, his dot changes color to indicate that he is safe. The player controlling the fielders watches the main screen, and the one controlling the runners watches the diagram (keeping one eye on the main screen to see if the ball is coming). Because cricket has only two stumps instead of four bases, this arrangement is even easier.
 
-为了解决这个问题，大多数棒球视频游戏都采用了画中画解决方案： 摄像机跟着球走，但在屏幕的一角会有一个小的棒球场示意图，显示跑垒员的位置，通常只是一些彩色的小点（见图 12.3）。当跑垒员到达一垒时，他的点会变色，表示他安全了。控制外野手的玩家看主屏幕，控制跑垒手的玩家看示意图（一只眼睛盯着主屏幕，看球是否到来）。由于板球只有两个球墩而不是四个垒，因此这种安排更加简单。
+为了解决这个问题，大多数棒球视频游戏都采用了画中画解决方案：摄像机跟着球走，但在屏幕的一角会有一个小的棒球场示意图，显示跑垒员的位置，通常只是一些彩色的小点（见图 12.3）。当跑垒员到达一垒时，他的点会变色，表示他安全了。控制外野手的玩家看主屏幕，控制跑垒手的玩家看示意图（一只眼睛盯着主屏幕，看球是否到来）。由于板球只有两个球墩而不是四个垒，因此这种安排更加简单。
 
 Figure 12.3. 3DO's High Heat Baseball. Note the inset showing player positions. The round dots adjacent to the bases are runners taking their leads. 图 12.3. 3DO 的高热棒球。请注意显示球员位置的插图。与垒相邻的圆点是跑垒员的领先位置。
 
@@ -510,7 +510,7 @@ graphics/12fig03.gif
 
 Considerable debate has raged over the years about whether to build a home-field advantage into sports games. Although the home-field advantage is statistically significant in a number of sports, we recommend against it. Players like to feel that they are playing a fair game, and if they know that the odds are artificially stacked against them whenever they play an "away" game, they will resent it. It's also unclear exactly how the home-field advantage should be implemented. The phenomenon is normally observed from win-loss statistics, but, of course, the computer can't simply turn a loss into a win. It could shave off a percentage of goal-scoring attempts, but even this is likely to have odd side effects. If a scoring attempt that clearly should have succeeded fails for no visible reason, the players are bound to notice it.
 
-多年来，关于是否在体育比赛中加入主场优势的争论不绝于耳。尽管在一些体育比赛中，主场优势在统计学上具有重要意义，但我们建议不要这样做。球员喜欢感觉自己在进行一场公平的比赛，如果他们知道每当他们进行一场 “客场 ”比赛时，赔率都会人为地对他们不利，他们就会反感。主场优势究竟应该如何实施，这一点也不清楚。这种现象通常可以从输赢统计中观察到，但计算机当然不能简单地将输球变为赢球。它可以减去一定比例的进球尝试，但即使这样也可能产生奇怪的副作用。如果一次明显应该成功的进球尝试无缘无故地失败了，球员们肯定会注意到这一点。
+多年来，关于是否在体育比赛中加入主场优势的争论不绝于耳。尽管在一些体育比赛中，主场优势在统计学上具有重要意义，但我们建议不要这样做。球员喜欢感觉自己在进行一场公平的比赛，如果他们知道每当他们进行一场“客场”比赛时，情况都会人为地对他们不利，他们就会反感。主场优势究竟应该如何实施，这一点也不清楚。这种现象通常可以从输赢统计中观察到，但计算机当然不能简单地将输球变为赢球。它可以减去一定比例的进球尝试，但即使这样也可能产生奇怪的副作用。如果一次明显应该成功的进球尝试无缘无故地失败了，球员们肯定会注意到这一点。
 
 > **Sports Game Worksheet 体育游戏工作表**
 > 
