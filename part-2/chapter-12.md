@@ -34,7 +34,7 @@ The rules of a sports game are, for the most part, the rules of the sport that i
 
 You'll also have to address an important question about errors that are not the player's fault. In American football, a certain number of penalties are called each match for "holding," grabbing hold of another athlete instead of merely pushing him. This is an aspect of the sport that a computerized version could avoid entirely: It could simply make it impossible to hold someone. Of course, a match in which no holding penalties ever occurred would feel unrealistic. On the other hand, a match in which holding penalties occurred at random might be frustrating for the player. This is another issue that can be controlled by the refereeing variable described earlier.
 
-你还必须解决一个重要问题，即关于非球员过失的错误。在美式足球比赛中，每场比赛都会有一定数量的“抱人”判罚，即抓住另一名运动员，而不仅仅是推他一把。电脑版美式足球可以完全避免这种情况：电脑版可以完全避免这一点：它可以简单地让“抱人”成为不可能。当然，如果一场比赛中从未出现过“抱人”判罚，就会让人感觉不切实际。另一方面，如果比赛中随意出现抱人判罚，则可能会让球员感到沮丧。这也是另一个可以通过前面描述的裁判变量控制的问题。
+你还必须解决一个重要问题，即关于非玩家过失的错误。在美式足球比赛中，每场比赛都会有一定数量的“抱人”判罚，即抓住另一名运动员，而不仅仅是推他一把。电脑版美式足球可以完全避免这种情况：电脑版可以完全避免这一点：它可以简单地让“抱人”成为不可能。当然，如果一场比赛中从未出现过“抱人”判罚，就会让人感觉不切实际。另一方面，如果比赛中随意出现抱人判罚，则可能会让玩家感到沮丧。这也是另一个可以通过前面描述的裁判变量控制的问题。
 
 ## Competition Modes 比赛模式
 
@@ -62,7 +62,7 @@ The victory and loss conditions for a match are the same as in the real sport. H
 
 * **Sudden death.** As a variant of exhibition mode, players play a match only until the first score is made. Whoever makes the first score wins the match. This is handy for very quick games, although it means that luck plays a much greater role in determining the outcome.\
 
-    **突然死亡。** 作为表演赛模式的一种变体，球员只进行一场比赛，直到取得第一分为止。谁先得分，谁就赢得比赛。这对于速度很快的比赛非常方便，但这意味着运气在决定比赛结果时起着更大的作用。
+    **突然死亡。** 作为表演赛模式的一种变体，玩家只进行一场比赛，直到取得第一分为止。谁先得分，谁就赢得比赛。这对于速度很快的比赛非常方便，但这意味着运气在决定比赛结果时起着更大的作用。
 
 * **Round robin.** Players in a group each take a team and play each other's team a fixed number of times, sometimes just once. Whoever has won the most matches at the end is the winner.\
 
@@ -84,11 +84,11 @@ The game's setting is the normal venue for the sport, usually a stadium or an ar
 
 Outdoor fields are also subject to changes in the weather, which can significantly affect the game. Rain hampers traction on a grass field, and snow makes it worse still. Players have to run more slowly and carefully. Wind affects the flight of balls and the accuracy with which they can be thrown. These factors all add enjoyable variety to a game.
 
-室外场地也会受到天气变化的影响，从而对比赛产生重大影响。下雨会影响草地的附着力，而下雪则会使情况更糟。球员必须跑得更慢、更小心。风会影响球的飞行和投掷的准确性。这些因素都为比赛增添了乐趣。
+室外场地也会受到天气变化的影响，从而对比赛产生重大影响。下雨会影响草地的附着力，而下雪则会使情况更糟。玩家必须跑得更慢、更小心。风会影响球的飞行和投掷的准确性。这些因素都为比赛增添了乐趣。
 
 The crowd also contributes significantly to the setting. Although you won't want to devote a lot of graphical resources to spectators, the sounds they make add greatly to the atmosphere. The volume should go up at tense moments. If there are any commonly used chants at different times, the players should hear them; there should be cheering after a score by the home team and a sudden silence after a score by the visitors. Horns, whistles, and vendors calling out "Ice-cold beer here!" are all part of the experience.
 
-人群也对比赛环境有很大的影响。虽然你不想在观众身上投入大量的图形资源，但他们发出的声音会大大增加游戏的气氛。在紧张时刻，音量应该提高。如果在不同时刻有任何常用的喊声，球员们应该能听到；主队得分后应该有欢呼声，而客队得分后应该突然安静下来。喇叭声、口哨声和小贩叫卖声“冰镇啤酒在这里！”都是体验的一部分。
+人群也对比赛环境有很大的影响。虽然你不想在观众身上投入大量的图形资源，但他们发出的声音会大大增加游戏的气氛。在紧张时刻，音量应该提高。如果在不同时刻有任何常用的喊声，玩家们应该能听到；主队得分后应该有欢呼声，而客队得分后应该突然安静下来。喇叭声、口哨声和小贩叫卖声“冰镇啤酒在这里！”都是体验的一部分。
 
 ## Interaction Model 互动模式
 
@@ -110,7 +110,7 @@ Team games are more tricky, particularly when the focus of attention moves from 
 
 In most other genres, the user interface changes infrequently and only in response to explicit actions by the player. Sports games are unusual in this regard; the user interface changes on a second-by-second basis, depending on conditions in the match itself. American football is a particularly complex example. On each play, the player on offense selects the formation and play to be run, then calls signals and makes adjustments at the line of scrimmage, and then takes the snap and either hands off the ball, passes it, or runs with it himself. If he passes it, control switches to the athlete for whom the pass is intended, and a whole series of new options for running, jumping, diving, and dodging defenders comes into play. Each of these different states requires that certain moves or choices be assigned to buttons on the controller, and these assignments change rapidly as play progresses.
 
-在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式足球就是一个特别复杂的例子。在每场比赛中，进攻方球员要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
+在大多数其他类型的游戏中，用户界面的变化并不频繁，而且只有在玩家做出明确操作后才会发生变化。体育游戏在这方面则不同寻常；用户界面每秒都在变化，这取决于比赛本身的情况。美式足球就是一个特别复杂的例子。在每场比赛中，进攻方玩家要选择阵型和战术，然后呼叫信号并在争球线上做出调整，然后开球，要么交出球，要么传球，要么自己带球跑。如果他传球，控制权就会转到传球对象的运动员手中，一系列新的跑动、跳跃、俯冲和躲避防守的选择就会出现。每种不同的状态都要求将某些动作或选择分配给控制器上的按钮，而这些分配会随着游戏的进行而迅速变化。
 
 The hardest thing about sports game user interface design is that you have to map athletic activities—complex motions of the whole human body—onto a game machine's input device, typically a handheld controller with binary buttons. Think about what kinds of things the player will want to do at each stage of the game and how best to make them available. Whenever possible, make sure that similar actions in different modes are assigned to similar buttons; for example, if you have a "jump" action in both offensive and defensive modes, assign it to the same button in both cases.
 
@@ -136,7 +136,7 @@ Unless you're simulating archery or bowling, don't forget that a sports game is 
 
 The player's role is most commonly that of an athlete, but not one particular athlete. In a team sport, the player's focus of control usually follows the action rather than being tied to a single individual. Thus, the player's role shifts rapidly, especially if some athletes play specialized positions such as catcher or goalie.
 
-球员的角色最常见的是运动员，但不是某个运动员。在团队运动中，球员的控制重心通常是跟着动作走，而不是绑在某个人身上。因此，玩家的角色转换很快，尤其是当一些运动员担任专门的位置（如捕手或守门员）时。
+玩家的角色最常见的是运动员，但不是某个运动员。在团队运动中，玩家的控制重心通常是跟着动作走，而不是绑在某个人身上。因此，玩家的角色转换很快，尤其是当一些运动员担任专门的位置（如捕手或守门员）时。
 
 Another common role is that of coach, again seen chiefly in team sports. The coach selects the starting players for the team, sets offensive and defensive strategies, and makes player substitutions during the match. The player usually switches to the coach role during timeouts or other pauses in the action.
 
@@ -312,7 +312,7 @@ To implement arcade mode, you'll have to decide what sort of changes to the real
 
 Sports games that can play an entire season for a whole league of teams often provide a means of simulating matches automatically, without the player having to play them. For example, each team in professional baseball plays 162 matches in a season. With 30 teams and 2 teams in each match, this is a total of 2,430 matches—only the most rabid fan would want to play them all personally. To generate results for matches that the player doesn't play, you need a way of simulating a match. Of course, you'll want the resulting scores to accurately reflect the relative strengths of the teams: A bad team should be able to beat a good team occasionally, but not often.
 
-体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛——只有最狂热的球迷才愿意亲自上阵。要为球员没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力：差的队伍应该偶尔能击败好的队伍，但不能经常这样。
+体育游戏可以为整个联盟的球队进行整个赛季的比赛，通常提供了一种自动模拟比赛的方法，玩家无需进行比赛。例如，每个职业棒球队在一个赛季中要进行 162 场比赛。以 30 支球队、每场比赛 2 支球队计算，总共要进行 2430 场比赛——只有最狂热的球迷才愿意亲自上阵。要为玩家没有参加的比赛生成结果，你需要一种模拟比赛的方法。当然，你会希望生成的分数能准确反映球队的相对实力：差的队伍应该偶尔能击败好的队伍，但不能经常这样。
 
 ### Computer Versus Computer 计算机对计算机
 
@@ -510,35 +510,36 @@ graphics/12fig03.gif
 
 Considerable debate has raged over the years about whether to build a home-field advantage into sports games. Although the home-field advantage is statistically significant in a number of sports, we recommend against it. Players like to feel that they are playing a fair game, and if they know that the odds are artificially stacked against them whenever they play an "away" game, they will resent it. It's also unclear exactly how the home-field advantage should be implemented. The phenomenon is normally observed from win-loss statistics, but, of course, the computer can't simply turn a loss into a win. It could shave off a percentage of goal-scoring attempts, but even this is likely to have odd side effects. If a scoring attempt that clearly should have succeeded fails for no visible reason, the players are bound to notice it.
 
-多年来，关于是否在体育比赛中加入主场优势的争论不绝于耳。尽管在一些体育比赛中，主场优势在统计学上具有重要意义，但我们建议不要这样做。球员喜欢感觉自己在进行一场公平的比赛，如果他们知道每当他们进行一场“客场”比赛时，情况都会人为地对他们不利，他们就会反感。主场优势究竟应该如何实施，这一点也不清楚。这种现象通常可以从输赢统计中观察到，但计算机当然不能简单地将输球变为赢球。它可以减去一定比例的进球尝试，但即使这样也可能产生奇怪的副作用。如果一次明显应该成功的进球尝试无缘无故地失败了，球员们肯定会注意到这一点。
+多年来，关于是否在体育比赛中加入主场优势的争论不绝于耳。尽管在一些体育比赛中，主场优势在统计学上具有重要意义，但我们建议不要这样做。玩家们喜欢感觉自己在进行一场公平的比赛，如果他们知道每当他们进行一场“客场”比赛时，情况都会人为地对他们不利，他们就会反感。主场优势究竟应该如何执行，这一点也不清楚。这种现象通常可以从输赢统计中观察到，但计算机当然不能简单地将输球变为赢球。它可以减去一定比例的进球尝试，但即使这样也可能产生奇怪的副作用。如果一次明显应该成功的进球尝试无缘无故地失败了，玩家们肯定会注意到这一点。
 
 > **Sports Game Worksheet 体育游戏工作表**
 > 
 > In designing a sports game, consider the following questions as a starting point:
 > 
 > 在设计体育游戏时，可以从以下问题入手：
+> 
 > 1. What sport am I simulating? Is it a real sport or a made-up one? If it's real, do I want to get a license from a governing body?\
 > 我在模拟什么运动？是真实的运动还是虚构的运动？如果是真实的，我是否需要获得管理机构的许可？
 > 2. What are the rules of my sport? If it's a real sport, can I really implement them all, or will it have to be a subset?\
-> 我的运动有哪些规则？如果是一项真正的运动，我真的可以执行所有规则吗？
+> 我的运动有哪些规则？如果是一项真正的运动，我真的能全部实现它们吗？还是只能够实现其中的一部分？
 > 3. What competition modes am I going to offer—single-player, competitive, cooperative, teams? Which ones make sense for my sport, and which don't?\
-> 我要提供哪些竞赛模式--单人模式、竞技模式、合作模式、团队模式？哪些对我的运动有意义，哪些没有？
+> 我要提供哪些竞赛模式——单人模式、竞技模式、合作模式、团队模式？哪些对我的运动有意义，哪些没有？
 > 4. In addition to playing a single match, what other game modes will I offer? Season, tournament, franchise, career?\
-> 除了单场比赛，我还将提供哪些其他游戏模式？赛季、锦标赛、特许经营、职业生涯？
+> 除了单场比赛，我还将提供哪些其他游戏模式？赛季、锦标赛、特许经营、职业生涯赛？
 > 5. What is the best perspective for playing my sport? Directly overhead, from the sidelines, from some other angle? What intelligence needs to be built into the camera to make the game easy to play? How will I handle displaying actions at widely separated points?\
-> 我运动的最佳视角是什么？从头顶、从场边还是从其他角度？需要在摄像机中加入哪些智能功能才能使游戏更容易进行？如何处理在相距甚远的点上显示动作？
+> 我的运动的最佳视角是什么？从头顶、从场边还是从其他角度？需要在摄像机中加入哪些智能功能才能使游戏更容易进行？如何处理在相距甚远的点上显示动作？
 > 6. How do I map the actions of an athlete, or an entire team of athletes, to the controls available to the player? Will the functions of the buttons need to change during the course of play? When and why? What additional markings should I draw on the field of play to compensate for the player's lack of depth perception? What pop-up windows over the play will the player need, and how do I prevent those from obscuring the action? When play is not in progress, how does the rest of the user interface look and work?\
-> 如何将一名运动员或整个运动员团队的动作映射到玩家可用的控制按钮上？在比赛过程中，按钮的功能是否需要改变？何时改变？我应该在赛场上画哪些额外的标记来弥补球员深度知觉的不足？玩家需要在游戏过程中弹出哪些窗口，如何防止这些窗口遮挡游戏过程？不进行比赛时，用户界面的其他部分如何显示和运行？
+> 如何将一名运动员或整个运动员团队的动作映射到玩家可用的控制按钮上？在比赛过程中，按钮的功能是否需要改变？何时改变？我应该在赛场上画哪些额外的标记来弥补玩家深度知觉的不足？玩家需要在游戏过程中弹出哪些窗口，如何防止这些窗口遮挡游戏过程？不进行比赛时，用户界面的其他部分如何显示和运行？
 > 7. What roles will the player play in the sport? Athlete, coach, general manager? When does the player switch from one to another and why?\
-> 球员将在运动中扮演什么角色？运动员、教练、总经理？球员何时转换角色，为什么？
+> 玩家将在运动中扮演什么角色？运动员、教练、总经理？玩家何时转换角色，为什么？
 > 8. What's the general structure of the game? What screens do I need, and how do they lead from one to another? Can the player trade athletes among teams in the middle of the season, for example?\
-> 比赛的总体结构是什么？我需要哪些屏幕，它们如何从一个屏幕引导到另一个屏幕？例如，球员可以在赛季中期在不同球队之间交换运动员吗？
+> 比赛的总体结构是什么？我需要哪些屏幕，它们如何从一个屏幕引导到另一个屏幕？例如，玩家可以在赛季中期在不同球队之间交换运动员吗？
 > 9. What changes will I need to make to the physics of the sport to make it playable by ordinary mortals?\
 > 为了让普通人也能玩，我需要对这项运动的物理原理做哪些改动？
 > 10. What characteristics describe an athlete's abilities? How will they affect the way her behavior looks on the screen? Will some athletes have ratings peculiar to the positions they play?\
 > 运动员的能力有哪些特征？这些特征将如何影响她在屏幕上的表现？有些运动员会有他们所从事的位置特有的评分吗？
 > 11. What states can the game be in, even in times between active play? How does an athlete behave in each state? What are her goals in each state, and in team play, what is the collective goal of the team in each state? How does the individual athlete's behavior contribute to meeting the team's goal?\
-> 即使在比赛间歇期，比赛也会处于什么状态？运动员在每种状态下的表现如何？她在每种状态下的目标是什么？在团队比赛中，团队在每种状态下的集体目标是什么？运动员的个人行为如何有助于实现团队目标？
+> 游戏可能处于哪些状态，即使在积极比赛之间的时候？运动员在每种状态下的表现如何？她在每种状态下的目标是什么？在团队比赛中，团队在每种状态下的集体目标是什么？运动员的个人行为如何有助于实现团队目标？
 > 12. Am I going to offer automatic simulation of matches? How will that be done?\
 > 我是否要提供自动模拟比赛？如何实现？
 > 13. What will the audio commentary be like? What events will it cover?\
