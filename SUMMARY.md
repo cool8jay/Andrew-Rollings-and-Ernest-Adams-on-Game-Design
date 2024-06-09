@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Cover 封面](cover.md)
 * [Introduction 序言](introduction.md)
 * [Part I: The Elements of Game Design 第一部分 游戏设计的元素](/part-1/readme.md)
     * [Chapter 1. What Is Game Design? 第一章：什么是游戏设计？](/part-1/chapter-1.md)
