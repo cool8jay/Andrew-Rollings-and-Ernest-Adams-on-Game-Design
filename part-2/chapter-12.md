@@ -340,17 +340,17 @@ One disadvantage of this dice-rolling technique is that it doesn't generate any 
 
 Many years ago, small developers could make and sell computer games using names such as "NFL" and get away with it, because the National Football League never knew it was happening. You can't do this now. Interactive entertainment is big business, and you have to be scrupulously careful to avoid violating trademarks or personal publicity rights.
 
-许多年前，小型开发商可以使用“NFL”等名称制作和销售电脑游戏，而且可以逍遥法外，因为全国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
+许多年前，小型开发商可以使用“NFL”等名称制作和销售电脑游戏，而且不被追究，因为全国橄榄球联盟从不知道有这种事发生。现在你不能这样做了。互动娱乐是一门大生意，你必须慎之又慎，避免侵犯商标权或个人宣传权。
 
 ### Team and League Trademarks 球队和联盟商标
 
 The exact details vary from league to league and country to country, but generally in America, the name, logo, uniform design, and other indicia of all the teams in a league, plus the name and logo of the league itself, are licensed for use by the league. You, or your publisher, will have to negotiate an agreement with the league to use these symbols in your game. Before Electronic Arts signed an agreement with the NFL, early versions of John Madden Football referred to teams only by their town names (such as San Francisco or Chicago) rather than by their team names (the 49ers and the Bears) and did not show any logos. The colors of the uniforms were similar but not exactly the same. You can pull this trick, too, if you dare, but you're risking a lawsuit if you get too close.
 
-具体细节因联赛和国家而异，但一般来说，在美国，联赛中所有球队的名称、标志、制服设计和其他标志，以及联赛本身的名称和标志，均由联赛授权使用。你或你的发行商要在游戏中使用这些标志，必须与联盟协商达成协议。在 Electronic Arts 与 NFL 签订协议之前，早期版本的《约翰-麦登橄榄球》仅以城市名称（如旧金山或芝加哥）而非球队名称（49 人队和熊队）来称呼球队，并且不显示任何徽标。队服的颜色相似，但并不完全相同。如果你有胆量，也可以使出这一招，但如果太过接近，就有可能惹上官司。
+具体细节因联赛和国家而异，但一般来说，在美国，联赛中所有球队的名称、标志、制服设计和其他标志，以及联赛本身的名称和标志，均由联赛授权使用。你或你的发行商要在游戏中使用这些标志，必须与联盟协商达成协议。在 Electronic Arts 与 NFL 签订协议之前，早期版本的《约翰·麦登橄榄球》仅以城市名称（如旧金山或芝加哥）而非球队名称（49 人队和熊队）来称呼球队，并且不显示任何徽标。队服的颜色相似，但并不完全相同。如果你有胆量，也可以使出这一招，但如果太过接近，就有可能惹上官司。
 
 Individual sports, such as gymnastics or figure skating, are often governed by a variety of bodies in different countries around the world. The names and indicia of particular events, such as the Kentucky Derby, are owned by the organizations that produce them—in this case, the Churchill Downs racetrack. In recent years, these groups have begun to exploit their intellectual property rights in a variety of ways, so they tend to come down hard on anything that seems to be an infringement. Don't assume that just because an event has been around for decades, you can freely use its name.
 
-体操或花样滑冰等单项运动通常由世界不同国家的各种机构管理。肯塔基德比等特定赛事的名称和标志归赛事组织方所有--这里指的是丘吉尔唐斯赛马场。近年来，这些组织开始以各种方式利用其知识产权，因此他们往往会严厉打击任何看似侵权的行为。不要以为某个活动已经存在了几十年，你就可以随意使用它的名称。
+体操或花样滑冰等单项运动通常由世界不同国家的各种机构管理。肯塔基德比等特定赛事的名称和标志归赛事组织方所有——这里指的是丘吉尔唐斯赛马场。近年来，这些组织开始以各种方式利用其知识产权，因此他们往往会严厉打击任何看似侵权的行为。不要以为某个赛事已经存在了几十年，你就可以随意使用它的名称。
 
 ### Personal Publicity Rights 个人宣传权
 
@@ -400,11 +400,11 @@ Whenever possible, you should try to write the script in such a way that names a
 
 只要有可能，你就应该尽量把名字写在句子的开头或结尾。然后，你可以让配音员录制游戏中出现的所有运动员的名字。每个名字都需要录制两次，一次是在句首，一次是在句末。不要试图单独录下名字；先录下一个完整的句子，然后把除了名字以外的所有内容都扔掉，例如，“托马斯拿下 ”和 “我选托马斯”。同样，使用与名字相邻的 T 和 K 音可以使音频切得干净利落。
 
-Case Study: Madden NFL Football 案例研究： 疯狂橄榄球
+Case Study: Madden NFL Football 案例研究：麦登橄榄球
 
 Madden NFL Football is one of the longest-established and best-selling game franchises in the history of our industry. From its earliest beginnings on the Apple II, it has grown into a financial powerhouse that produces a new edition on several different platforms every year and makes millions of dollars for its publisher, Electronic Arts. Versions of Madden have appeared for personal computers and every major console machine ever produced.
 
-Madden NFL Football 是本行业历史最悠久、最畅销的游戏系列之一。从最初的 Apple II 开始，它已经成长为一个金融巨头，每年都会在多个不同平台上推出新版本，并为其发行商电子艺界（Electronic Arts）赚取数百万美元。个人电脑和所有主要游戏机上都出现过《疯狂游戏》的版本。
+《麦登橄榄球》是本行业历史最悠久、最畅销的游戏系列之一。从最初的 Apple II 开始，它已经成长为一个金融巨头，每年都会在多个不同平台上推出新版本，并为其发行商电子艺界（Electronic Arts）赚取数百万美元。个人电脑和所有主要游戏机上都出现过《疯狂游戏》的版本。
 
 Madden is not redesigned every year, nor is its code rewritten. Its artwork and video sequences are updated, and it gets new features each year, but it undergoes a complete overhaul only every four or five years—often when a new generation of game console appears. The majority of the design work each year consists of tuning and improving the gameplay and adding more features. These features expand the "football experience" to include aspects of the sport that go beyond playing a single match against another team. Among them are the following:
 
@@ -444,11 +444,11 @@ As you can see, even though the sport itself changes little from year to year, n
 
 By far, the largest single task in developing Madden every year is research: rating the skills of the real players who appear in the game, keeping track of which team they're playing for, finding photographs of them, and so on. In addition to researching the players, the production team must research the coaches—trying to find out what kinds of plays they like to run, whether they're aggressive or conservative, and so on. The team's playbooks must be updated every year to reflect changes in coaching practice, and the new plays must be tested to make sure that they're effective but not unstoppable.
 
-到目前为止，每年开发《疯狂球星》最大的一项任务就是研究：对游戏中出现的真实球员的技能进行评级，跟踪他们所在的球队，寻找他们的照片，等等。除了研究球员，制作团队还必须研究教练--试图找出他们喜欢用什么战术，是激进还是保守等等。球队的战术手册必须每年更新，以反映教练做法的变化，而且新战术必须经过测试，以确保有效但并非不可阻挡。
+到目前为止，每年开发《麦登橄榄球》最大的一项任务就是研究：对游戏中出现的真实球员的技能进行评级，跟踪他们所在的球队，寻找他们的照片，等等。除了研究球员，制作团队还必须研究教练--试图找出他们喜欢用什么战术，是激进还是保守等等。球队的战术手册必须每年更新，以反映教练做法的变化，而且新战术必须经过测试，以确保有效但并非不可阻挡。
 
 In short, Madden is a highly successful sports game that offers its players a wide range of playing styles, from the quick and easy arcade game to the detailed minutiae of designing plays and adjusting rosters. As a game that tries to "do it all," it's well worth studying.
 
-总之，《疯狂球星》是一款非常成功的体育游戏，它为玩家提供了多种玩法，从简单快捷的街机游戏，到设计战术和调整名单的细节琐事，应有尽有。作为一款 “无所不能 ”的游戏，它非常值得研究。
+总之，《麦登橄榄球》是一款非常成功的体育游戏，它为玩家提供了多种玩法，从简单快捷的街机游戏，到设计战术和调整名单的细节琐事，应有尽有。作为一款 “无所不能 ”的游戏，它非常值得研究。
 
 ## Other Peculiarities 其他特殊性
 
