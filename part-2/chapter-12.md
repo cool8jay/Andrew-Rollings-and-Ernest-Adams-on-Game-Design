@@ -147,7 +147,8 @@ Finally, there's the role of general manager of the team. The general manager is
 最后是球队总经理的角色。总经理负责做出聘用和解雇的决定，并努力在预算范围内招募最好的球员。示例见图 12.1。少数体育游戏只涉及体育运动的这一方面，而不包括体育运动本身的现场模拟。这些游戏有时被称为经理人游戏，在欧洲特别流行。
 
 Figure 12.1. EA's Madden NFL 2002 athlete-trading screen, a management function. 图 12.1. EA 的《疯狂橄榄球 2002》运动员交易屏幕，这是一种管理功能。
-graphics/12fig01.gif
+
+![](../.gitbook/assets/12.1.jpg)
 
 ## Structure 结构
 
@@ -260,7 +261,8 @@ The best way to design sports-game AI is to map out a game's states as a giant f
 
 Figure 12.2. A flowchart detailing part of the "corner kick" situation in soccer. 图 12.2. 详细说明足球比赛中“角球”情况的流程图。
 
-graphics/12fig02.gif
+![](../.gitbook/assets/12.2.png)
+![](media/12.3.png)
 
 Consult the official rules of the sport as you construct the flowchart: They will often describe states in detail, with special rules applying to each. However, the rules alone are not enough; they describe game states for the purposes of listing legal and illegal actions, but not for tactics or strategy. Whenever something changes that requires the athletes to adopt a different tactic, the game has moved into a different state.
 
@@ -504,7 +506,7 @@ To solve this, most baseball video games implement a picture-in-picture solution
 
 Figure 12.3. 3DO's High Heat Baseball. Note the inset showing player positions. The round dots adjacent to the bases are runners taking their leads. 图 12.3. 3DO 的高热棒球。请注意显示球员位置的插图。与垒相邻的圆点是跑垒员的领先位置。
 
-graphics/12fig03.gif
+![](../.gitbook/assets/12.3.png)
 
 ### Home-Field Advantage 主场优势
 
