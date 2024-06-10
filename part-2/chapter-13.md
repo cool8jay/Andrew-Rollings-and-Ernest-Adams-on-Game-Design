@@ -1,14 +1,15 @@
 Vehicle simulations try to create the feeling of driving or flying a vehicle, real or imaginary. In simulations of real vehicles, one of the chief goals is verisimilitude, an (apparently!) close relationship to reality. You can expect your players to know a lot about these machines and to want an experience that is at least visually similar to that of really controlling one. The machine's gross performance characteristics (speed and maneuverability) should also be similar to reality, although its finer details probably can't be, for reasons we'll discuss in this chapter.
 
-驾驶模拟游戏试图创造一种驾驶交通工具的感觉，无论是真实的还是想象的。在模拟真实车辆时，主要目标之一是逼真度，即（显然！）与现实的密切关系。你可以预料，你的玩家会对这些机器有很多了解，并希望获得至少在视觉上与真正控制这些机器相似的体验。机器的总体性能特征（速度和可操作性）也应与现实相似，但由于本章将讨论的原因，机器的更多细节可能无法与现实相似。
+驾驶模拟游戏试图创造一种驾驶交通工具的感觉，无论是真实的还是想象的。在模拟真实交通工具时，主要目标之一是逼真度，即（显然！）与现实的密切关系。你可以预料，你的玩家会对这些机器有很多了解，并希望获得至少在视觉上与真正控制这些机器相似的体验。机器的总体性能特征（速度和可操作性）也应与现实相似，但由于本章将讨论的原因，机器的更多细节可能无法与现实相似。
 
 If you're designing an imaginary vehicle, you're free to create any kind of driving experience that you like without being restricted by such things as gravity, G-forces, fuel capacity, and so on. Your game really needs to just create the feeling of movement; what limitations you place on that movement are up to you. In this chapter, we concentrate, for the most part, on simulating real vehicles because that's the bigger challenge. Also, because the vast majority of vehicle simulators are flight simulators and driving (usually car-racing) simulators, we devote most of our attention to those. A short section devoted to ships, tanks, and spacecraft is included at the end.
 
-如果你设计的是一辆想象中的汽车，那么你就可以自由地创造任何你喜欢的驾驶体验，而不必受到重力、G 力、燃料容量等因素的限制。你的游戏其实只需要创造出运动的感觉；至于对运动施加什么限制，则由你自己决定。在本章中，我们将主要集中在模拟真实车辆上，因为这是更大的挑战。此外，由于绝大多数车辆模拟器都是飞行模拟器和驾驶（通常是赛车）模拟器，因此我们将大部分精力放在这两类模拟器上。最后还有一小部分专门讨论船舶、坦克和航天器。
+如果你设计的是一辆想象中的交通工具，那么你就可以自由地创造任何你喜欢的驾驶体验，而不必受到重力、G 力、燃料容量等因素的限制。你的游戏其实只需要创造出运动的感觉；至于对运动施加什么限制，则由你自己决定。在本章中，我们将主要集中在模拟真实交通工具上，因为这是更大的挑战。此外，由于绝大多数交通工具模拟器都是飞行模拟器和驾驶（通常是赛车）模拟器，因此我们将大部分精力放在这两类模拟器上。最后还有一小部分专门讨论船舶、坦克和航天器。
 
 # The Common Elements of Vehicle Simulations 驾驶模拟的共同要素
 
 People play with flight simulators for one of two reasons. Either they want to experience the joy of flight in a variety of different aircraft, to see how the planes or helicopters look and perform, or they want to fight in aerial combat. In effect, they want to fly aircraft in either civilian or military roles, and that's how we refer to these roles here.
+
 人们玩飞行模拟器有两个原因。要么是想体验各种不同飞机的飞行乐趣，看看飞机或直升机的外观和性能，要么是想进行空中格斗。实际上，他们想驾驶民用或军用飞机，这就是我们这里所说的这些角色。
 
 Just as flight simulators tend to fall into military or civilian categories, driving simulators tend to fall into organized racing and imaginary racing categories. Organized racing simulators try to reproduce the experience of driving a racing car or motorcycle in an existing racing class: Indycar, NASCAR, Formula 1, and so on. Like sports games, they require a license to use the official name and indicia of the racing organization. Imaginary racing games are just that: games about racing in imaginary situations, driving madly through cities or the countryside or even fantasy environments.
@@ -17,7 +18,7 @@ Just as flight simulators tend to fall into military or civilian categories, dri
 
 The vehicle-simulation market is sharply divided between the purists and the casual players. The purists demand highly accurate simulations of real vehicles with all their quirks and limitations. If a purist forgets to retract the flaps after takeoff, he wants those flaps to be damaged by excessive airspeed and to be stuck in the down position, with appropriate consequences for the plane's handling characteristics. The casual players don't care about the details as long as they can fly or drive around fast and (depending on the game) shoot at things.
 
-车辆仿真市场主要分为纯粹玩家和休闲玩家。纯粹主义者要求高度精确地模拟真实飞行器的所有怪癖和限制。如果一个纯粹主义者在飞机起飞后忘记收起襟翼，他希望襟翼能因过高的空速而受损，并被卡在向下的位置，从而对飞机的操控特性造成适当的影响。而休闲玩家则不会在意这些细节，只要他们能快速飞行或驾驶，并（根据游戏的不同）向物体射击就可以了。
+车辆仿真市场主要分为纯粹玩家和休闲玩家。纯粹主义者要求高度精确地模拟真实交通工具的所有怪癖和限制。如果一个纯粹主义者在飞机起飞后忘记收起襟翼，他希望襟翼能因过高的空速而受损，并被卡在向下的位置，从而对飞机的操控特性造成适当的影响。而休闲玩家则不会在意这些细节，只要他们能快速飞行或驾驶，并（根据游戏的不同）向物体射击就可以了。
 
 > **An Extreme Case 一个极端案例**
 > 
@@ -361,7 +362,7 @@ Use sounds. The sound of the engine is the most obvious auditory cue, but there'
 
 利用声音。发动机的声音是最明显的听觉线索，但还有路噪（轮胎在路面上发出的声音）、风噪以及轮胎在转弯时发出的吱吱声。另一个极好的线索是汽车经过或被经过某些产生噪音的物体时的多普勒频移。
 
-## G-Forces 重力
+## G-Forces G 力
 
 The driver of any vehicle feels a variety of forces affecting her body: acceleration, deceleration, and centrifugal force. She can feel these forces as pressure driving her body in one direction or another, usually into the seat or against the belts holding her in. The forces give a lot of valuable feedback about the behavior of the vehicle. Unfortunately, in a simulator, we can't provide any of those feelings to the player, so we have to substitute other indicators. With driving simulators, it doesn't matter that much because automobiles seldom generate significant G-forces, and the player has plenty of other visual cues, as described in the previous section.
 
