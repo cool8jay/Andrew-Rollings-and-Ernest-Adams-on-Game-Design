@@ -49,7 +49,7 @@ In the past few years, the market for adventure games has grown more slowly than
 
 The invention of 3D hardware accelerators has actually given adventure games a new lease on life. We usually think of dynamic three-dimensional worlds in the contexts in which they first appeared—vehicle simulations and first-person shooters—but 3D hardware has a lot to offer adventure games as well. The first graphical adventure games came with gorgeously painted but static backdrops for every scene. Players could see a lot of things but could touch very few of them. But when every object is rendered in three dimensions and it's possible to move freely among them, the world becomes much more immediate and alive.
 
-三维硬件加速器的发明实际上为冒险游戏注入了新的活力。我们通常认为，动态三维世界最早出现在车辆模拟和第一人称射击游戏中，但三维硬件也能为冒险游戏带来很多乐趣。首批图形冒险游戏的每个场景都有华丽的背景，但都是静态的。玩家可以看到很多东西，但能触摸到的却很少。但是，当每个物体都以三维空间呈现，并且可以在其中自由移动时，世界就变得更加直接和生动。
+三维硬件加速器的发明实际上为冒险游戏注入了新的活力。我们通常认为，动态三维世界最早出现在驾驶模拟和第一人称射击游戏中，但三维硬件也能为冒险游戏带来很多乐趣。首批图形冒险游戏的每个场景都有华丽的背景，但都是静态的。玩家可以看到很多东西，但能触摸到的却很少。但是，当每个物体都以三维空间呈现，并且可以在其中自由移动时，世界就变得更加直接和生动。
 
 The static-backdrop adventure game is still very much with us, but nowadays it is likely to use scenes created with 3D rendering software and raytracing rather than pixel painting. [Myst](https://en.wikipedia.org/wiki/Myst) was the first commercial game to use 3D rendered backgrounds, which contributed to its success.
 
@@ -212,7 +212,7 @@ A good many adventure games do connect the player's role with the game's activit
 
 Be sure that the challenges are not too disjoint from the role, however, or it could be frustrating for the player. [Heart of China](https://en.wikipedia.org/wiki/Heart_of_China), which was otherwise a straightforward adventure game, included a poorly implemented 3D tank simulator at one point. To continue the game, the player had to use the tank simulator successfully. This was a real problem; adventure game enthusiasts seldom play vehicle simulations, and many could not get past that point. It spoiled the game for them.
 
-不过，要确保挑战不要与角色过于脱节，否则会让玩家感到沮丧。[《中国之心》](https://en.wikipedia.org/wiki/Heart_of_China)本来是一款简单明了的冒险游戏，但有一次却加入了一个效果不佳的 3D 坦克模拟器。玩家必须成功使用坦克模拟器才能继续游戏。这确实是个问题；冒险游戏爱好者很少玩交通工具模拟类游戏，很多人都无法通过这一关。这让他们对游戏大失所望。
+不过，要确保挑战不要与角色过于脱节，否则会让玩家感到沮丧。[《中国之心》](https://en.wikipedia.org/wiki/Heart_of_China)本来是一款简单明了的冒险游戏，但有一次却加入了一个效果不佳的 3D 坦克模拟器。玩家必须成功使用坦克模拟器才能继续游戏。这确实是个问题；冒险游戏爱好者很少玩驾驶模拟类游戏，很多人都无法通过这一关。这让他们对游戏大失所望。
 
 ## Structure 结构
 

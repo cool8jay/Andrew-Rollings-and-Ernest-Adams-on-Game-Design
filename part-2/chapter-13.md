@@ -1,16 +1,15 @@
 Vehicle simulations try to create the feeling of driving or flying a vehicle, real or imaginary. In simulations of real vehicles, one of the chief goals is verisimilitude, an (apparently!) close relationship to reality. You can expect your players to know a lot about these machines and to want an experience that is at least visually similar to that of really controlling one. The machine's gross performance characteristics (speed and maneuverability) should also be similar to reality, although its finer details probably can't be, for reasons we'll discuss in this chapter.
 
-车辆模拟试图创造一种驾驶或飞行车辆的感觉，无论是真实的还是想象的。在模拟真实车辆时，主要目标之一是逼真度，即（显然！）与现实的密切关系。你可以预料，你的玩家会对这些机器有很多了解，并希望获得至少在视觉上与真正控制这些机器相似的体验。机器的总体性能特征（速度和可操作性）也应与现实相似，但由于本章将讨论的原因，机器的更多细节可能无法与现实相似。
+驾驶模拟游戏试图创造一种驾驶交通工具的感觉，无论是真实的还是想象的。在模拟真实车辆时，主要目标之一是逼真度，即（显然！）与现实的密切关系。你可以预料，你的玩家会对这些机器有很多了解，并希望获得至少在视觉上与真正控制这些机器相似的体验。机器的总体性能特征（速度和可操作性）也应与现实相似，但由于本章将讨论的原因，机器的更多细节可能无法与现实相似。
 
 If you're designing an imaginary vehicle, you're free to create any kind of driving experience that you like without being restricted by such things as gravity, G-forces, fuel capacity, and so on. Your game really needs to just create the feeling of movement; what limitations you place on that movement are up to you. In this chapter, we concentrate, for the most part, on simulating real vehicles because that's the bigger challenge. Also, because the vast majority of vehicle simulators are flight simulators and driving (usually car-racing) simulators, we devote most of our attention to those. A short section devoted to ships, tanks, and spacecraft is included at the end.
 
 如果你设计的是一辆想象中的汽车，那么你就可以自由地创造任何你喜欢的驾驶体验，而不必受到重力、G 力、燃料容量等因素的限制。你的游戏其实只需要创造出运动的感觉；至于对运动施加什么限制，则由你自己决定。在本章中，我们将主要集中在模拟真实车辆上，因为这是更大的挑战。此外，由于绝大多数车辆模拟器都是飞行模拟器和驾驶（通常是赛车）模拟器，因此我们将大部分精力放在这两类模拟器上。最后还有一小部分专门讨论船舶、坦克和航天器。
 
-# The Common Elements of Vehicle Simulations 交通工具模拟的共同要素
+# The Common Elements of Vehicle Simulations 驾驶模拟的共同要素
 
 People play with flight simulators for one of two reasons. Either they want to experience the joy of flight in a variety of different aircraft, to see how the planes or helicopters look and perform, or they want to fight in aerial combat. In effect, they want to fly aircraft in either civilian or military roles, and that's how we refer to these roles here.
 人们玩飞行模拟器有两个原因。要么是想体验各种不同飞机的飞行乐趣，看看飞机或直升机的外观和性能，要么是想进行空中格斗。实际上，他们想驾驶民用或军用飞机，这就是我们这里所说的这些角色。
-
 
 Just as flight simulators tend to fall into military or civilian categories, driving simulators tend to fall into organized racing and imaginary racing categories. Organized racing simulators try to reproduce the experience of driving a racing car or motorcycle in an existing racing class: Indycar, NASCAR, Formula 1, and so on. Like sports games, they require a license to use the official name and indicia of the racing organization. Imaginary racing games are just that: games about racing in imaginary situations, driving madly through cities or the countryside or even fantasy environments.
 
@@ -83,7 +82,7 @@ This sequence involved moving back and forth from the pilot's seat to the co-pil
 
 Some vehicle simulations aren't games at all, in the sense of being a contest or a competition. Their only goal is to let the player experience controlling the vehicle, so they don't have any rules other than the laws of physics. Most vehicle simulations, however, are set in a competitive context, either a race or a battle of some kind.
 
-从竞赛或比赛的意义上讲，有些车辆模拟根本就不是游戏。它们的唯一目的是让玩家体验控制车辆的过程，因此除了物理定律之外没有其他规则。然而，大多数车辆模拟都是在竞争背景下进行的，要么是比赛，要么是某种战斗。
+从竞赛或比赛的意义上讲，有些驾驶模拟根本就不是游戏。它们的唯一目的是让玩家体验控制车辆的过程，因此除了物理定律之外没有其他规则。然而，大多数车辆模拟都是在竞争背景下进行的，要么是比赛，要么是某种战斗。
 
 One factor to consider is how you want to handle damage. Lightweight racing sims don't simulate any damage at all; if the car hits something, it simply bounces off, which tends to slow it down. This allows the driver to be much more careless. She can afford to hit a few things and still win the race—at least in the earlier, easier stages of the game. Other games model damage as a single variable, such as hit points in a role-playing game. When damage reaches a certain level, the vehicle simply stops running (which, in the case of an airplane, means that it crashes or explodes).
 
@@ -330,11 +329,11 @@ There are almost no simulations of real spacecraft except for quasi-educational 
 
 除了有关航天飞机的准教育类模拟游戏外，几乎没有真实航天器的模拟游戏，因为真实航天器的行为太缓慢、太刻意，不足以构成有趣的游戏。因此，大多数航天器模拟游戏都是科幻小说，通常包括太空战斗机（如 Wing Commander 系列）或资本飞船模拟游戏（如许多《星际迷航》游戏）。战斗机类型是简单的动作游戏，只需管理几个变量： 燃料、弹药、伤害和护盾就是这些。资本船模拟更具战略性，玩家可以控制各种武器和其他设备。
 
-# Special Design Considerations for Vehicle Simulations 车辆模拟的特殊设计考虑因素
+# Special Design Considerations for Vehicle Simulations 驾驶模拟的特殊设计考虑因素
 
 Some design issues are particular to vehicle simulations and are described in the following sections.
 
-有些设计问题是车辆模拟所特有的，将在以下章节中加以说明。
+有些设计问题是驾驶模拟所特有的，将在以下章节中加以说明。
 
 ## Creating the Sense of Speed 创造速度感
 
@@ -376,7 +375,7 @@ Military aircraft can generate powerful G-forces, but because the player spends 
 
 The easiest way to design a variety of opponents in a vehicle simulation is simply to vary the performance characteristics of their vehicles. One plane climbs slightly faster than another; one can turn more sharply. The player will experience different challenges in dealing with each one based on their design parameters. However, this kind of variety is static and, after the player has figured it out, is easily beaten. As soon as he discovers that a Supermarine Spitfire can consistently outrun a Messerschmitt BF 109 in level flight, it offers an obvious strategy for Spitfire pilots: "boom and zoom" (hitting and running away).
 
-在车辆模拟中设计各种对手的最简单方法就是改变其车辆的性能特点。一种飞机的爬升速度比另一种稍快；一种飞机的转弯速度更快。玩家将根据不同的设计参数来应对不同的挑战。不过，这种变化是一成不变的，在玩家摸索出来之后，很容易被打败。当玩家发现 “超音速喷火 ”战斗机在平飞时可以持续超越 “梅塞施密特 BF 109 ”战斗机时，它就为 “喷火 ”飞行员提供了一个显而易见的策略： 即 “boom and zoom”（击中后逃跑）。
+在驾驶模拟中设计各种对手的最简单方法就是改变其车辆的性能特点。一种飞机的爬升速度比另一种稍快；一种飞机的转弯速度更快。玩家将根据不同的设计参数来应对不同的挑战。不过，这种变化是一成不变的，在玩家摸索出来之后，很容易被打败。当玩家发现 “超音速喷火 ”战斗机在平飞时可以持续超越 “梅塞施密特 BF 109 ”战斗机时，它就为 “喷火 ”飞行员提供了一个显而易见的策略： 即 “boom and zoom”（击中后逃跑）。
 
 To create further variety in the behavior of individual opponents, the AI for those opponents should be designed around getting perfect performance from the vehicle and then creating variations from perfection. For example, it's possible to create a "perfect" AI driver in a racing simulation. He always follows the most efficient line around the track, he always shifts gears at precisely the correct moment, and he knows the ideal speed at which to take each corner without spinning out. If such a driver has a better car than the player's, he will be unbeatable. The trick, then, is to modify the AI driver's judgment so that it isn't perfect—so that he doesn't always shift at exactly the right time or follow the most efficient line. It is the combination of factors, both vehicle characteristics and variable driver skill, that provides the variety among opponents in vehicle simulators.
 
@@ -390,13 +389,13 @@ As you study the business of flying or driving, you will discover other tricks t
 
 As a general rule, you can model and simulate military equipment without obtaining permission from their manufacturers. Because such machines are not sold to the general public, nor are generally exploited in any other way, their appearance is in the public domain. Automobiles are another story, however. If you are going to simulate an existing car and use its real name and logo, you must have a license from the manufacturer. The manufacturer might not be willing to let you show the car crumpled and burning by the side of the road, either. This accounts for the large number of vehicle simulations in which the cars can flip over in an accident but never get damaged—they flip back upright a second or two later, as in Beetle Adventure Racing. Or, you can do as Interstate '76 did and model cars that look rather like existing vehicles and have similar names, but don't actually use the manufacturer's indicia.
 
-一般来说，你可以对军事装备进行建模和仿真，而无需获得其制造商的许可。因为这类机器不会向公众出售，也不会以任何其他方式被利用，所以它们的外观属于公共领域。然而，汽车则是另一回事。如果你要模拟一辆现有的汽车，并使用它的真实名称和标识，你必须获得制造商的许可。制造商可能也不愿意让你展示汽车在路边皱巴巴地燃烧的样子。这也是大量车辆模拟游戏的原因，在这些模拟游戏中，汽车会在事故中翻倒，但绝不会损坏，一两秒后就会重新直立起来，就像《甲壳虫冒险赛车》中那样。或者，你也可以像《76 州际公路》那样，模拟一些看起来很像现有车辆、名字也很相似，但实际上并不使用制造商标志的汽车。
+一般来说，你可以对军事装备进行建模和仿真，而无需获得其制造商的许可。因为这类机器不会向公众出售，也不会以任何其他方式被利用，所以它们的外观属于公共领域。然而，汽车则是另一回事。如果你要模拟一辆现有的汽车，并使用它的真实名称和标识，你必须获得制造商的许可。制造商可能也不愿意让你展示汽车在路边皱巴巴地燃烧的样子。这也是大量驾驶模拟游戏的原因，在这些模拟游戏中，汽车会在事故中翻倒，但绝不会损坏，一两秒后就会重新直立起来，就像《甲壳虫冒险赛车》中那样。或者，你也可以像《76 州际公路》那样，模拟一些看起来很像现有车辆、名字也很相似，但实际上并不使用制造商标志的汽车。
 
-> **Vehicle Simulation Worksheet 交通工具模拟工作表**
+> **Vehicle Simulation Worksheet 驾驶模拟工作表**
 > 
 > When beginning the design of a vehicle simulation, consider the following questions:
 > 
-> 在开始设计车辆模拟时，请考虑以下问题：
+> 在开始设计驾驶模拟游戏时，请考虑以下问题：
 > 
 > 1. What vehicle are we going to simulate? Is it an existing car, plane, boat, tank, and so on, or is it a fantasy-vehicle?
 > 我们要模拟什么车辆？是现有的汽车、飞机、船、坦克等，还是幻想中的车辆？
@@ -435,7 +434,7 @@ As a general rule, you can model and simulate military equipment without obtaini
 
 Designing a vehicle simulation is primarily a question of research and compromise. Unless your game is a lightweight simulation such as [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart), vehicle simulation is the most technologically oriented of games. Much of the entertainment value comes from the feeling of controlling a real machine instead of meeting strategic challenges or taking part in a story. To provide that value, you will need to research your vehicles thoroughly. If you're designing a military vehicle, you can probably find much of what you need from the Jane's Information Group, publishers of such volumes as Jane's All the World's Aircraft, and, of course, from the vehicle's manufacturer. For automobiles, the various enthusiast magazines offer all the data you could want.
 
-设计车辆模拟游戏主要是一个研究和妥协的问题。除非你的游戏是轻量级的模拟游戏，如[《超级马里奥卡丁车》](https://en.wikipedia.org/wiki/Super_Mario_Kart)，否则车辆模拟游戏是最以技术为导向的游戏。游戏的娱乐价值很大程度上来自于控制真实机器的感觉，而不是应对战略挑战或参与故事情节。为了提供这种价值，你需要对车辆进行深入研究。如果你设计的是军用车辆，你可能可以从《简氏信息集团》（Jane's Information Group）、《简氏世界飞机大全》（Jane's All the World's Aircraft）等书籍的出版商那里找到很多你需要的资料，当然也可以从车辆制造商那里找到。对于汽车，各种汽车爱好者杂志可以提供你想要的所有数据。
+设计驾驶模拟游戏主要是一个研究和妥协的问题。除非你的游戏是轻量级的模拟游戏，如[《超级马里奥卡丁车》](https://en.wikipedia.org/wiki/Super_Mario_Kart)，否则车辆模拟游戏是最以技术为导向的游戏。游戏的娱乐价值很大程度上来自于控制真实机器的感觉，而不是应对战略挑战或参与故事情节。为了提供这种价值，你需要对车辆进行深入研究。如果你设计的是军用车辆，你可能可以从《简氏信息集团》（Jane's Information Group）、《简氏世界飞机大全》（Jane's All the World's Aircraft）等书籍的出版商那里找到很多你需要的资料，当然也可以从车辆制造商那里找到。对于汽车，各种汽车爱好者杂志可以提供你想要的所有数据。
 
 The compromises occur when you start trying to control a simulated vehicle with a computer or console machine's I/O devices, especially a large, complicated vehicle such as a B-52 bomber. The kinds of compromises you make, and the places they take you, will depend mostly on whether your target audience is the purist or the casual player.
 

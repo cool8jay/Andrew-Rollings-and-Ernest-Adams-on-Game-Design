@@ -280,7 +280,7 @@ As we said in the introduction, each genre of interactive entertainment displays
 
 * Real-world simulations include sports games and vehicle simulations, including military vehicles. They involve mostly physical and tactical challenges, but not exploration, economic, or conceptual ones.
 
-    真实世界模拟包括体育游戏和赛车模拟，包括军用车辆。它们主要涉及体力和战术挑战，但不包括探索、经济或概念挑战。
+    真实世界模拟包括体育游戏和驾驶模拟，包括军用车辆。它们主要涉及体力和战术挑战，但不包括探索、经济或概念挑战。
 
 * Construction and management games such as [Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) are primarily about economic and conceptual challenges. Only rarely do they involve conflict or exploration, and they almost never include physical challenges.
 
