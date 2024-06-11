@@ -286,7 +286,7 @@ Figure 6.15. Starcraft's unit micromanagement interface. 《星际争霸》的�
 
 Figure 6.16. Risk. 图 6.16. 风险
 
-![](../.gitbook/assets/6.16.gif)
+![](../.gitbook/assets/6.16.png)
 
 The more serious war games, which have traditionally been rather dry in their presentation, have started to use a number of these more "gamer-friendly" techniques. Previously, these games have focused on the accuracy of the war simulation, rather than any presentational niceties, and generally, that suited the players of these games perfectly. However, in order to attract new players, designers have learned lessons from the more accessible RTS-style games, which in turn were derived from the need to make war games more accessible to the average gamer. Nowadays, the hard-core war games are, in many cases, virtually indistinguishable from the RTS games that they initially inspired.
 
