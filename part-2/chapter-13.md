@@ -6,7 +6,7 @@ If you're designing an imaginary vehicle, you're free to create any kind of driv
 
 如果你设计的是一辆想象中的交通工具，那么你就可以自由地创造任何你喜欢的驾驶体验，而不必受到重力、G 力、燃料容量等因素的限制。你的游戏其实只需要创造出运动的感觉；至于对运动施加什么限制，则由你自己决定。在本章中，我们将主要集中在模拟真实交通工具上，因为这是更大的挑战。此外，由于绝大多数交通工具模拟器都是飞行模拟器和驾驶（通常是赛车）模拟器，因此我们将大部分精力放在这两类模拟器上。最后还有一小部分专门讨论船舶、坦克和航天器。
 
-# The Common Elements of Vehicle Simulations 驾驶模拟的共同要素
+# The Common Elements of Vehicle Simulations 驾驶模拟游戏的共同要素
 
 People play with flight simulators for one of two reasons. Either they want to experience the joy of flight in a variety of different aircraft, to see how the planes or helicopters look and perform, or they want to fight in aerial combat. In effect, they want to fly aircraft in either civilian or military roles, and that's how we refer to these roles here.
 
@@ -14,17 +14,17 @@ People play with flight simulators for one of two reasons. Either they want to e
 
 Just as flight simulators tend to fall into military or civilian categories, driving simulators tend to fall into organized racing and imaginary racing categories. Organized racing simulators try to reproduce the experience of driving a racing car or motorcycle in an existing racing class: Indycar, NASCAR, Formula 1, and so on. Like sports games, they require a license to use the official name and indicia of the racing organization. Imaginary racing games are just that: games about racing in imaginary situations, driving madly through cities or the countryside or even fantasy environments.
 
-正如飞行模拟器往往分为军用或民用两类一样，驾驶模拟器也往往分为有组织的赛车和想象中的赛车两类。有组织的赛车模拟器试图再现在现有赛车类别中驾驶赛车或摩托车的体验： 如 Indycar、NASCAR、F1 等。与体育游戏一样，这些游戏需要获得许可才能使用赛车组织的官方名称和标志。想象中的赛车游戏就是：在想象的场景中进行赛车比赛，在城市或乡村甚至幻想的环境中疯狂驾驶。
+正如飞行模拟器往往分为军用或民用两类一样，驾驶模拟器也往往分为有组织的赛车和想象中的赛车两类。有组织的赛车模拟器试图再现现有赛车类别中驾驶赛车或摩托车的体验：如 Indycar、NASCAR、F1 等。与体育游戏一样，这些游戏需要获得许可才能使用赛车组织的官方名称和标志。想象中的赛车游戏就是：在想象的场景中进行赛车比赛，在城市或乡村甚至幻想的环境中疯狂驾驶。
 
 The vehicle-simulation market is sharply divided between the purists and the casual players. The purists demand highly accurate simulations of real vehicles with all their quirks and limitations. If a purist forgets to retract the flaps after takeoff, he wants those flaps to be damaged by excessive airspeed and to be stuck in the down position, with appropriate consequences for the plane's handling characteristics. The casual players don't care about the details as long as they can fly or drive around fast and (depending on the game) shoot at things.
 
-车辆仿真市场主要分为纯粹玩家和休闲玩家。纯粹主义者要求高度精确地模拟真实交通工具的所有怪癖和限制。如果一个纯粹主义者在飞机起飞后忘记收起襟翼，他希望襟翼能因过高的空速而受损，并被卡在向下的位置，从而对飞机的操控特性造成适当的影响。而休闲玩家则不会在意这些细节，只要他们能快速飞行或驾驶，并（根据游戏的不同）向物体射击就可以了。
+驾驶模拟游戏的市场主要分为纯粹玩家和休闲玩家。纯粹主义者要求高度精确地模拟真实交通工具的所有怪癖和限制。如果一个纯粹主义者在飞机起飞后忘记收起襟翼，他希望襟翼能因过高的空速而受损，并被卡在向下的位置，从而对飞机的操控特性造成适当的影响。而休闲玩家则不会在意这些细节，只要他们能快速飞行或驾驶，并（根据游戏的不同）向物体射击就可以了。
 
 > **An Extreme Case 一个极端案例**
 > 
 > The takeoff sequence in the game [Megafortress](https://en.wikipedia.org/wiki/Megafortress) had to be the longest for any consumer-level flight simulator ever made. The game simulated a hypothetical stealth-modified B-52 bomber. This is what you had to do to get the plane off the ground (fortunately, it was already lined up on the runway):
 > 
-> 游戏[《巨大要塞》](https://en.wikipedia.org/wiki/Megafortress)中的起飞序列是有史以来消费级飞行模拟器中最长的。游戏模拟了一架假想的隐形改装 B-52 轰炸机。你必须这样做才能让飞机起飞（幸运的是，飞机已经在跑道上排成一排）：
+> 游戏[《巨大要塞》](https://en.wikipedia.org/wiki/Megafortress)中的起飞序列是有史以来消费级飞行模拟器中最长的。游戏模拟了一架假想的隐形改装 B-52 轰炸机。你必须这样做才能让飞机起飞（幸运的是，飞机已经在跑道上排列好）：
 > 
 > 1. Switch on battery power.
 > 打开电池电源。
@@ -60,7 +60,7 @@ The vehicle-simulation market is sharply divided between the purists and the cas
 > 松开刹车。
 > 
 > 12. Throttle up all eight engines (fortunately, this could be done simultaneously).
-> 启动所有八个发动机（幸运的是，这可以同时进行）。
+> 调节油门，加速所有八个发动机（幸运的是，这可以同时进行）。
 > 
 > 13. Pull back on stick. (Plane takes off.)
 > 拉回操纵杆。(飞机起飞）。
@@ -83,35 +83,35 @@ This sequence involved moving back and forth from the pilot's seat to the co-pil
 
 Some vehicle simulations aren't games at all, in the sense of being a contest or a competition. Their only goal is to let the player experience controlling the vehicle, so they don't have any rules other than the laws of physics. Most vehicle simulations, however, are set in a competitive context, either a race or a battle of some kind.
 
-从竞赛或比赛的意义上讲，有些驾驶模拟根本就不是游戏。它们的唯一目的是让玩家体验控制车辆的过程，因此除了物理定律之外没有其他规则。然而，大多数车辆模拟都是在竞争背景下进行的，要么是比赛，要么是某种战斗。
+从竞赛或比赛的意义上讲，有些驾驶模拟游戏根本就不是游戏。它们的唯一目的是让玩家体验控制交通工具的过程，因此除了物理定律之外没有其他规则。然而，大多数驾驶模拟游戏都是在竞争背景下进行的，要么是比赛，要么是某种战斗。
 
 One factor to consider is how you want to handle damage. Lightweight racing sims don't simulate any damage at all; if the car hits something, it simply bounces off, which tends to slow it down. This allows the driver to be much more careless. She can afford to hit a few things and still win the race—at least in the earlier, easier stages of the game. Other games model damage as a single variable, such as hit points in a role-playing game. When damage reaches a certain level, the vehicle simply stops running (which, in the case of an airplane, means that it crashes or explodes).
 
-需要考虑的一个因素是你想如何处理损坏。轻量级赛车模拟根本不会模拟任何损坏；如果汽车撞上了什么东西，它只会弹开，这往往会减慢车速。这使得驾驶员可以更加粗心大意。她可以承受撞到一些东西，但仍能赢得比赛--至少在游戏的较早和较容易的阶段是这样。其他游戏将伤害作为单一变量建模，例如角色扮演游戏中的命中率。当伤害达到一定程度时，车辆就会停止运行（对于飞机来说，这意味着飞机会坠毁或爆炸）。
+需要考虑的一个因素是你想如何处理损坏。轻量级赛车模拟根本不会模拟任何损坏；如果汽车撞上了什么东西，它只会弹开，这往往会减慢车速。这使得驾驶员可以更加粗心大意。她可以承受撞到一些东西，但仍能赢得比赛——至少在游戏的较早和较容易的阶段是这样。其他游戏将伤害作为单一变量建模，例如角色扮演游戏中的生命值。当伤害达到一定程度时，交通工具就会停止运行（对于飞机来说，这意味着飞机会坠毁或爆炸）。
 
 Accurate modeling of damage requires dividing the vehicle into areas, determining which area has been damaged by a collision (or, in a military simulator, by enemy fire), and deciding how that damage affects the performance of the vehicle. For instance, a race car with minor damage to the airfoils or body can continue, although with a performance penalty, but a blown tire will force it to halt. With airplanes, the consequences can be dramatically different depending on what has been hit. A plane is still flyable if its tail has been destroyed, but it will be unstable and extremely difficult to handle.
 
-要对损坏进行精确建模，需要将车辆划分为若干区域，确定哪个区域因碰撞（或在军事模拟器中因敌方炮火）而损坏，并决定损坏对车辆性能的影响。例如，如果赛车的翼面或车身受到轻微损坏，虽然会影响性能，但仍可继续行驶，但如果轮胎爆裂，则会被迫停驶。对于飞机来说，不同的撞击造成的后果可能大相径庭。如果飞机尾翼被毁，飞机仍然可以飞行，但会变得不稳定，而且极难操控。
+要对损坏进行精确建模，需要将交通工具划分为若干区域，确定哪个区域因碰撞（或在军事模拟器中因敌方炮火）而损坏，并决定损坏对交通工具性能的影响。例如，如果赛车的空气动力学部件或车身受到轻微损坏，虽然会影响性能，但仍可继续行驶，但如果轮胎爆裂，则会被迫停驶。对于飞机来说，不同的撞击造成的后果可能大相径庭。如果飞机尾翼被毁，飞机仍然可以飞行，但会变得不稳定，而且极难操控。
 
 ## Competition Modes 竞赛模式
 
 In military flight simulators, the competition modes are similar to those of first-person shooters: solitaire against artificial opponents, multi-player death matches (every player for himself), and team-based play. Civilian flight simulators usually have only a solitaire mode, although they can also allow races and follow-my-lead competitions. Driving simulators are generally solitaire games or multi-player races, and are seldom team-based.
 
-在军用飞行模拟器中，竞赛模式与第一人称射击游戏类似：与人工对手的单人纸牌游戏、多人死亡竞赛（每个玩家为自己而战）以及团队游戏。民用飞行模拟器通常只有单人纸牌模式，但也可以进行比赛和 “跟我学 ”竞赛。驾驶模拟器一般是单人游戏或多人比赛，很少有团队游戏。
+在军用飞行模拟器中，竞赛模式与第一人称射击游戏类似：单人对抗人工智能对手、多人死亡竞赛（每个玩家为自己而战）以及团队游戏。民用飞行模拟器通常只有单人模式，但也可以进行比赛和“跟我学”竞赛。赛车模拟器一般是单人游戏或多人比赛，很少有团队游戏。
 
 Both military flight simulators and organized race-driving simulators often include a career mode, in which you create a pilot or driver and follow his career (trying not to get him killed, of course), racking up victories and collecting performance statistics. They also include campaign modes, in which a race driver tries to win in a real racing circuit, collecting points according to the official rules of the circuit.
 
-军事飞行模拟器和有组织的赛车驾驶模拟器通常都包含职业生涯模式，你可以创建一名飞行员或驾驶员，并跟随他的职业生涯（当然要尽量避免让他送命），不断取得胜利并收集性能统计数据。它们还包括运动模式，在这种模式下，赛车手要努力在真实的赛车场上获胜，按照赛车场的官方规则收集积分。
+军事飞行模拟器和有组织的赛车驾驶模拟器通常都包含职业生涯模式，你可以创建一名飞行员或赛车手，并跟随他的职业生涯（当然要尽量避免让他送命），不断取得胜利并收集性能统计数据。它们还包括运动模式，在这种模式下，赛车手要努力在真实的赛车场上获胜，按照赛车场的官方规则收集积分。
 
 In military flight simulators, the campaign mode can work in various ways. In one approach, the game offers a series of missions one at a time in which the player must achieve a specified victory condition before going on to the next mission; completing all the missions constitutes winning the campaign. In another approach, the player can play all the missions in order, whether she meets the mission objectives or not. However, if she plays through all of them without achieving enough mission objectives, she loses the campaign. This more closely approximates what happens in a real war. The better you fight on any given occasion, the more chance you have of winning the war in the long run, but you can still afford to lose the occasional battle. But as the designer, you have to provide clear feedback to the player about how she's doing as she goes along.
 
-在军事飞行模拟器中，战役模式有多种运作方式。一种方法是，游戏一次提供一系列任务，玩家必须在完成指定的胜利条件后才能进入下一个任务；完成所有任务即为赢得战役。在另一种方法中，玩家可以按顺序完成所有任务，无论是否达到任务目标。但是，如果玩家完成了所有任务却没有达到足够的任务目标，那么她就会输掉这场战役。这更接近真实战争中的情况。在任何特定场合，你打得越好，从长远来看，你赢得战争的机会就越大，但偶尔输掉一场战斗，你还是可以承受的。但作为设计者，你必须向玩家提供清晰的反馈，让她知道自己的表现如何。
+在军事飞行模拟器中，战役模式有多种运作方式。一种方式是，游戏一次提供一系列任务，玩家必须在完成指定的胜利条件后才能进入下一个任务；完成所有任务即为赢得战役。在另一种方式中，玩家可以按顺序完成所有任务，无论是否达到任务目标。但是，如果玩家完成了所有任务却没有达到足够的任务目标，那么她就会输掉这场战役。这更接近真实战争中的情况。在任何特定场合，你打得越好，从长远来看，你赢得战争的机会就越大，但偶尔输掉一场战斗，你还是可以承受的。但作为设计者，你必须向玩家提供清晰的反馈，让她知道自己的表现如何。
 
 ## Gameplay and Victory Conditions 玩法和胜利条件
 
 The primary challenge in any vehicle simulator is in controlling the vehicle: learning to speed it up, slow it down, and steer it to where you want it to go without crashing it into something. In the case of flight simulators, you can make this challenge simple, requiring the player to know almost nothing about aerodynamics, or extremely difficult, modeling the behavior of an airplane accurately. Unlike a car, airplanes respond rather slowly to their controls, often beginning to execute a maneuver several seconds after the player has first moved the yoke or joystick. Because players are more used to driving a car, they will tend to overcontrol the plane: Finding that it doesn't respond immediately, they'll push the stick farther and then wildly overcompensate in the opposite direction when the plane finally does much more than they intended in the first place. If you want to present a realistic challenge, you can model this problem accurately.
 
-任何车辆模拟器的主要挑战都在于对车辆的控制：学会加速、减速、将车辆开到你想去的地方而不会撞上什么东西。就飞行模拟器而言，你可以将这一挑战变得简单，要求玩家对空气动力学几乎一无所知，也可以将其变得极其困难，精确模拟飞机的行为。与汽车不同，飞机对控制的反应相当缓慢，往往在玩家首次移动操纵杆或方向盘数秒后才开始执行动作。由于玩家更习惯于驾驶汽车，他们往往会过度控制飞机： 当发现飞机没有立即做出反应时，他们就会把操纵杆推得更远，然后疯狂地向相反方向过度补偿，而飞机最终做出的动作远远超出了他们的预期。如果你想提出一个逼真的挑战，就可以准确地模拟这个问题。
+任何交通工具模拟器的主要挑战都在于对交通工具的控制：学会加速、减速、将交通工具开到你想去的地方而不会撞上什么东西。就飞行模拟器而言，你可以将这一挑战变得简单，要求玩家对空气动力学几乎一无所知，也可以将其变得极其困难，精确模拟飞机的行为。与汽车不同，飞机对控制的反应相当缓慢，往往在玩家首次移动操纵杆或方向盘数秒后才开始执行动作。由于玩家更习惯于驾驶汽车，他们往往会过度控制飞机：当发现飞机没有立即做出反应时，他们就会把操纵杆推得更远，然后疯狂地向相反方向过度补偿，而飞机最终做出的动作远远超出了他们的预期。如果你想提出一个逼真的挑战，就可以准确地模拟这个问题。
 
 In driving simulators, the chief challenge is staying on the road without crashing. Without being able to feel the G-forces on his body, the player has to depend on other cues to determine how fast he is going and how hard he is braking.
 
@@ -119,11 +119,11 @@ In driving simulators, the chief challenge is staying on the road without crashi
 
 ### Military Flight Sims 军事飞行模拟
 
-In military flight simulators, the player must not only fly the aircraft, but also achieve the mission's objectives, usually attacking enemy aircraft and ground installations. Modern air-to-air combat, conducted with long-range guided missiles and often directed by Airborne Warning and Control System (AWACS) planes, is something of a chess game—a rather cerebral exercise. Hence the continuing popularity of World War I and II flight simulators and fictional ones such as Crimson Skies (see Figure 13.1). These let the players dogfight: twisting and turning through the sky, hiding behind clouds, diving out of the sun, and blasting away with bullets at short range. It's a much more action-packed experience.
+In military flight simulators, the player must not only fly the aircraft, but also achieve the mission's objectives, usually attacking enemy aircraft and ground installations. Modern air-to-air combat, conducted with long-range guided missiles and often directed by Airborne Warning and Control System (AWACS) planes, is something of a chess game—a rather cerebral exercise. Hence the continuing popularity of World War I and II flight simulators and fictional ones such as [Crimson Skies](https://en.wikipedia.org/wiki/Crimson_Skies) (see Figure 13.1). These let the players dogfight: twisting and turning through the sky, hiding behind clouds, diving out of the sun, and blasting away with bullets at short range. It's a much more action-packed experience.
 
-在军事飞行模拟器中，玩家不仅要驾驶飞机，还要实现任务目标，通常是攻击敌机和地面设施。现代空对空作战使用远程制导导弹，通常由机载预警和控制系统（AWACS）飞机指挥，是一种棋类游戏--相当耗费脑力的练习。因此，一战和二战飞行模拟器以及《深红的天空》（Crimson Skies，见图 13.1）等虚构的模拟器一直很受欢迎。这些游戏让玩家进行狗斗：在天空中扭来扭去，躲在云层后面，从阳光下俯冲而下，在近距离用子弹扫射。这是一种更加刺激的体验。
+在军事飞行模拟器中，玩家不仅要驾驶飞机，还要实现任务目标，通常是攻击敌机和地面设施。现代空对空作战使用远程制导导弹，通常由机载预警和控制系统（AWACS）飞机指挥，是一种棋类游戏——相当耗费脑力的练习。因此，一战和二战飞行模拟器以及[《血色苍穹》](https://en.wikipedia.org/wiki/Crimson_Skies)（见图 13.1）等虚构的模拟器一直很受欢迎。这些游戏让玩家进行狗斗：在天空中扭来扭去，躲在云层后面，从阳光下俯冲而下，在近距离用子弹扫射。这是一种更加刺激的体验。
 
-Figure 13.1. A pilot's view in Crimson Skies. Note the very simple instrument panel. 图 13.1. 《深红天空》中飞行员的视角。请注意非常简单的仪表盘。
+Figure 13.1. A pilot's view in Crimson Skies. Note the very simple instrument panel. 图 13.1. 《血色苍穹》中飞行员的视角。请注意非常简单的仪表盘。
 
 ![](../.gitbook/assets/13.1.png)
 
