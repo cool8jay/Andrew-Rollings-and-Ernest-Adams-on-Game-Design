@@ -262,7 +262,6 @@ The best way to design sports-game AI is to map out a game's states as a giant f
 Figure 12.2. A flowchart detailing part of the "corner kick" situation in soccer. 图 12.2. 详细说明足球比赛中“角球”情况的流程图。
 
 ![](../.gitbook/assets/12.2.png)
-![](media/12.3.png)
 
 Consult the official rules of the sport as you construct the flowchart: They will often describe states in detail, with special rules applying to each. However, the rules alone are not enough; they describe game states for the purposes of listing legal and illegal actions, but not for tactics or strategy. Whenever something changes that requires the athletes to adopt a different tactic, the game has moved into a different state.
 

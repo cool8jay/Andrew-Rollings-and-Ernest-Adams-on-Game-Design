@@ -139,6 +139,7 @@ Civilian flight simulators such as the venerable but excellent [Microsoft Flight
 
 Figure 13.2. An instrument panel in Microsoft Flight Simulator 2002. This is a game for serious pilots. 图 13.2. 《微软飞行模拟器 2002》 中的仪表盘。这是一款适合严肃飞行员的游戏。
 
+![](../.gitbook/assets/13.2.gif)
 
 ### Racing Sims 赛车模拟
 
@@ -284,7 +285,7 @@ Most boat simulations are of powerboats or jet skis, offering the same kinds of 
 
 Figure 13.4. Power Boat Racing, in a third-person perspective. Note the semitransparent map overlay and instrument panel. 图 13.4. 第三人称视角下的汽艇竞赛。请注意半透明的地图叠加和仪表板。
 
-![](../.gitbook/assets/13.4.png)
+![](../.gitbook/assets/13.4.jpg)
 
 There have been a few simulators of warships over the years, often fairly small craft with high speed and maneuverability, such as the PT boat of World War II fame. Larger vessels such as battleships and aircraft carriers move more slowly and deliberately, and, therefore, tend to be simulated not as individual vehicles, but as part of naval warfare simulations involving whole fleets, such as [Harpoon](https://en.wikipedia.org/wiki/Harpoon_(video_game)).
 
@@ -300,7 +301,7 @@ Sailing ship simulations are another rarity. Although sailing a ship is a comple
 
 Figure 13.5. Sea Dogs II. 图 13.5. 海狗二
 
-graphics/13fig05.gif
+![](../.gitbook/assets/13.5.gif)
 
 ## Tanks and Mechs 坦克和机甲
 
