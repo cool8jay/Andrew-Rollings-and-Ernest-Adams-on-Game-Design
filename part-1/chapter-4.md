@@ -649,20 +649,28 @@ Bearing in mind that we already have series-based games, we believe that episodi
 > 
 > 1. Does the game require a story, or is it entirely abstract? If it is abstract, would a story add to or detract from its appeal?\
 > 游戏需要故事，还是完全抽象？如果是抽象的，故事会增加还是减少它的吸引力？
+> 
 > 2. Can the story begin at the beginning of the game, or would the game benefit from a backstory as well?\
 > 故事能否从游戏开始时就展开，还是游戏也会从背景故事中获益？
+> 
 > 3. Will the story make use of the monomyth? Which elements? If not, what form will it have?\
 > 故事是否会使用“单一神话”？用了哪些元素？如果不使用，它将采用什么形式？
+> 
 > 4. Will the story have a three-act structure or something else, and if so, what? Will it be open-ended, leaving some plot threads unresolved?\
 > 故事是采用三幕结构还是其他结构？会不会是开放式的，留下一些未解决的情节线索？
+> 
 > 5. How will the plot be paced? Graph out the major points of crisis, climax, rest, and resolution.\
 > 情节节奏如何？绘制出危机、高潮、休止和解决的主要节点。
+> 
 > 6. Will the game include narrative (that is, non-interactive) material? What role will it play—an introduction, mission briefing, transitional material, a conclusion, character definition? Is the narrative essential for the player to understand and play the game?\
 > 游戏是否会包含叙事（即非互动）材料？它将扮演什么角色——引言、任务简报、过渡材料、结尾、角色定义？叙事对于玩家理解和玩游戏是否必不可少？
+> 
 > 7. Will the narrative material be integrated seamlessly into the gameplay, or will it be a separate screen or interface element? Will the player be able to interrupt or ignore it?\
 > 叙事材料是与游戏无缝整合，还是作为单独的屏幕或界面元素？玩家能否打断或忽略它？
+> 
 > 8. What form will the narrative material take? Pages in the manual? Introductory text in the program? Movies? Cut-scenes?\
 > 叙事材料将采取什么形式？手册中的页面？程序中的介绍性文字？电影？过场动画？
+> 
 > 9. Will the story be multi-part? How will the plotlines be handled: as a series, a serial, or episodically?\
 > 故事是否由多个部分组成？如何处理情节线：系列、连续还是分集？
 

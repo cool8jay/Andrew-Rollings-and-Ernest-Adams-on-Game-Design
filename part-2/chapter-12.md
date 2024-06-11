@@ -522,30 +522,43 @@ Considerable debate has raged over the years about whether to build a home-field
 > 
 > 1. What sport am I simulating? Is it a real sport or a made-up one? If it's real, do I want to get a license from a governing body?\
 > 我在模拟什么运动？是真实的运动还是虚构的运动？如果是真实的，我是否需要获得管理机构的许可？
+> 
 > 2. What are the rules of my sport? If it's a real sport, can I really implement them all, or will it have to be a subset?\
 > 我的运动有哪些规则？如果是一项真正的运动，我真的能全部实现它们吗？还是只能够实现其中的一部分？
+> 
 > 3. What competition modes am I going to offer—single-player, competitive, cooperative, teams? Which ones make sense for my sport, and which don't?\
 > 我要提供哪些竞赛模式——单人模式、竞技模式、合作模式、团队模式？哪些对我的运动有意义，哪些没有？
+> 
 > 4. In addition to playing a single match, what other game modes will I offer? Season, tournament, franchise, career?\
 > 除了单场比赛，我还将提供哪些其他游戏模式？赛季、锦标赛、特许经营、职业生涯赛？
+> 
 > 5. What is the best perspective for playing my sport? Directly overhead, from the sidelines, from some other angle? What intelligence needs to be built into the camera to make the game easy to play? How will I handle displaying actions at widely separated points?\
 > 我的运动的最佳视角是什么？从头顶、从场边还是从其他角度？需要在摄像机中加入哪些智能功能才能使游戏更容易进行？如何处理在相距甚远的点上显示动作？
+> 
 > 6. How do I map the actions of an athlete, or an entire team of athletes, to the controls available to the player? Will the functions of the buttons need to change during the course of play? When and why? What additional markings should I draw on the field of play to compensate for the player's lack of depth perception? What pop-up windows over the play will the player need, and how do I prevent those from obscuring the action? When play is not in progress, how does the rest of the user interface look and work?\
 > 如何将一名运动员或整个运动员团队的动作映射到玩家可用的控制按钮上？在比赛过程中，按钮的功能是否需要改变？何时改变？我应该在赛场上画哪些额外的标记来弥补玩家深度知觉的不足？玩家需要在游戏过程中弹出哪些窗口，如何防止这些窗口遮挡游戏过程？不进行比赛时，用户界面的其他部分如何显示和运行？
+> 
 > 7. What roles will the player play in the sport? Athlete, coach, general manager? When does the player switch from one to another and why?\
 > 玩家将在运动中扮演什么角色？运动员、教练、总经理？玩家何时转换角色，为什么？
+> 
 > 8. What's the general structure of the game? What screens do I need, and how do they lead from one to another? Can the player trade athletes among teams in the middle of the season, for example?\
 > 比赛的总体结构是什么？我需要哪些屏幕，它们如何从一个屏幕引导到另一个屏幕？例如，玩家可以在赛季中期在不同球队之间交换运动员吗？
+> 
 > 9. What changes will I need to make to the physics of the sport to make it playable by ordinary mortals?\
 > 为了让普通人也能玩，我需要对这项运动的物理原理做哪些改动？
+> 
 > 10. What characteristics describe an athlete's abilities? How will they affect the way her behavior looks on the screen? Will some athletes have ratings peculiar to the positions they play?\
 > 运动员的能力有哪些特征？这些特征将如何影响她在屏幕上的表现？有些运动员会有他们所从事的位置特有的评分吗？
+> 
 > 11. What states can the game be in, even in times between active play? How does an athlete behave in each state? What are her goals in each state, and in team play, what is the collective goal of the team in each state? How does the individual athlete's behavior contribute to meeting the team's goal?\
 > 游戏可能处于哪些状态，即使在积极比赛之间的时候？运动员在每种状态下的表现如何？她在每种状态下的目标是什么？在团队比赛中，团队在每种状态下的集体目标是什么？运动员的个人行为如何有助于实现团队目标？
+> 
 > 12. Am I going to offer automatic simulation of matches? How will that be done?\
 > 我是否要提供自动模拟比赛？如何实现？
+> 
 > 13. What will the audio commentary be like? What events will it cover?\
 > 语音解说会是什么样的？涵盖哪些事件？
+> 
 > 14. How does instant replay work?\
 > 即时回放如何进行？
 

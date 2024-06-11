@@ -26,49 +26,49 @@ The vehicle-simulation market is sharply divided between the purists and the cas
 > 
 > 游戏[《巨大要塞》](https://en.wikipedia.org/wiki/Megafortress)中的起飞序列是有史以来消费级飞行模拟器中最长的。游戏模拟了一架假想的隐形改装 B-52 轰炸机。你必须这样做才能让飞机起飞（幸运的是，飞机已经在跑道上排列好）：
 > 
-> 1. Switch on battery power.
+> 1. Switch on battery power.\
 > 打开电池电源。
 > 
-> 2. Switch on interior lights.
+> 2. Switch on interior lights.\
 > 打开内部照明。
 > 
-> 3. Switch on power to all eight engines.
+> 3. Switch on power to all eight engines.\
 > 打开所有八个发动机的电源。
 > 
-> 4. Fire starter cartridges for all eight engines.
+> 4. Fire starter cartridges for all eight engines.\
 > 启动所有八个发动机的启动器。
 > 
-> 5. Switch off battery power after the engines are running.
+> 5. Switch off battery power after the engines are running.\
 > 发动机运转后关闭电池电源。
 > 
-> 6. Switch on navigation lights.
+> 6. Switch on navigation lights.\
 > 打开导航灯。
 > 
-> 7. Switch on landing lights.
+> 7. Switch on landing lights.\
 > 打开着陆灯。
 > 
-> 8. Pressurize the plane to noncombat levels.
+> 8. Pressurize the plane to noncombat levels.\
 > 将飞机加压至非战斗水平。
 > 
-> 9. Tune radio to correct frequency (this also served as the game's copy protection).
+> 9. Tune radio to correct frequency (this also served as the game's copy protection).\
 > 将无线电调到正确的频率（这也是游戏的复制保护功能）。
 > 
-> 10. Lower flaps.
+> 10. Lower flaps.\
 > 放下襟翼。
 > 
-> 11. Release brakes.
+> 11. Release brakes.\
 > 松开刹车。
 > 
-> 12. Throttle up all eight engines (fortunately, this could be done simultaneously).
+> 12. Throttle up all eight engines (fortunately, this could be done simultaneously).\
 > 调节油门，加速所有八个发动机（幸运的是，这可以同时进行）。
 > 
-> 13. Pull back on stick. (Plane takes off.)
+> 13. Pull back on stick. (Plane takes off.)\
 > 拉回操纵杆。(飞机起飞）。
 > 
-> 14. Raise landing gear.
+> 14. Raise landing gear.\
 > 升起起落架。
 > 
-> 15. Raise flaps.
+> 15. Raise flaps.\
 > 升起襟翼。
 
 This sequence involved moving back and forth from the pilot's seat to the co-pilot's seat a couple of times, too. Soon after you got into the air, you had to switch all the lights back off to avoid detection by enemy aircraft. If you forgot to pressurize the plane, the crew would complain of being cold. When you entered into combat, you were supposed to lower the air pressure to avoid a violent decompression if the plane was hit.
@@ -398,37 +398,37 @@ As a general rule, you can model and simulate military equipment without obtaini
 > 
 > 在开始设计驾驶模拟游戏时，请考虑以下问题：
 > 
-> 1. What vehicle are we going to simulate? Is it an existing car, plane, boat, tank, and so on, or is it a fantasy-vehicle?
+> 1. What vehicle are we going to simulate? Is it an existing car, plane, boat, tank, and so on, or is it a fantasy-vehicle?\
 > 我们要模拟什么交通工具？是现有的汽车、飞机、船、坦克等，还是幻想中的机器？
 > 
-> 2. If it is an existing vehicle, are we aiming for the purist player who knows all its technical specifications, or for the casual player who simply wants to enjoy using it? How detailed is the physics model going to be?
+> 2. If it is an existing vehicle, are we aiming for the purist player who knows all its technical specifications, or for the casual player who simply wants to enjoy using it? How detailed is the physics model going to be?\
 > 如果是现有交通工具，我们的目标是了解其所有技术规格的纯粹玩家，还是只想享受使用乐趣的休闲玩家？物理模型的详细程度如何？
 > 
-> 3. How will the game handle damage to the vehicle? Can it be visually shown to be damaged? (Licenses for real vehicles sometimes forbid this.) Will damage be treated globally, like hit-points, or locally for individual parts of the machine?
+> 3. How will the game handle damage to the vehicle? Can it be visually shown to be damaged? (Licenses for real vehicles sometimes forbid this.) Will damage be treated globally, like hit-points, or locally for individual parts of the machine?\
 > 游戏将如何处理交通工具的损坏？能否直观地显示交通工具受损？(真实交通工具的许可证有时会禁止这样做。）损坏是像生命值一样全局处理，还是针对机器的个别部分进行局部处理？
 > 
-> 4. What are the competition modes and victory conditions in the game? If this is a military vehicle, what sort of missions are available for it? If it is a civilian one, what kinds of things can it do besides simply racing (if anything)?
+> 4. What are the competition modes and victory conditions in the game? If this is a military vehicle, what sort of missions are available for it? If it is a civilian one, what kinds of things can it do besides simply racing (if anything)?\
 > 游戏中有哪些竞赛模式和胜利条件？如果是军用交通工具，有哪些任务？如果是民用交通工具，除了竞速之外还能做些什么（如果有的话）？
 > 
-> 5. What settings are available for the vehicle to travel through? Even a flight simulator needs ground to look at below.
+> 5. What settings are available for the vehicle to travel through? Even a flight simulator needs ground to look at below.\
 > 交通工具可以通过哪些背景行驶？即使是飞行模拟器，也需要看看下面的地面。
 > 
-> 6. What camera views are appropriate for this vehicle? If it is a military vehicle, are there special camera views that assist in fighting? Can the player record and even edit instant replays so as to re-live and show off his triumphs?
+> 6. What camera views are appropriate for this vehicle? If it is a military vehicle, are there special camera views that assist in fighting? Can the player record and even edit instant replays so as to re-live and show off his triumphs?\
 > 什么样的摄像机视角适合这个交通工具？如果是军用交通工具，是否有协助战斗的特殊视角？玩家能否录制甚至编辑即时回放，以便重温和炫耀自己的胜利？
 > 
-> 7. How will we map the many controls of a plane or even a car onto the input devices available to the player? What aspects of the vehicle's controls will need to be simplified? Which can afford to have simple on-off buttons and which require analog controls?
+> 7. How will we map the many controls of a plane or even a car onto the input devices available to the player? What aspects of the vehicle's controls will need to be simplified? Which can afford to have simple on-off buttons and which require analog controls?\
 > 我们将如何把飞机甚至汽车的众多控制功能映射到玩家可用的输入设备上？机器控制的哪些方面需要简化？哪些可以使用简单的开关按钮，哪些需要线性控制？
 > 
-> 8. If a vehicle is capable of steering in a different direction from that in which it shoots, how can the player control both at once conveniently?
+> 8. If a vehicle is capable of steering in a different direction from that in which it shoots, how can the player control both at once conveniently?\
 > 如果交通工具的转向方向与射击方向不同，玩家如何才能同时方便地控制这两个方向？
 > 
-> 9. What navigational facilities is the player going to need to know where he is (radar screen, overlay map, separate map mode that pauses the game, and so on)?
+> 9. What navigational facilities is the player going to need to know where he is (radar screen, overlay map, separate map mode that pauses the game, and so on)?\
 > 玩家需要哪些导航设施（雷达屏幕、叠加地图、暂停游戏的独立地图模式等）来了解自己所处的位置？
 > 
-> 10. What artificial intelligence is needed to create decent opponents in the game's competitive modes? What sorts of things will the artificial opponents need to manage? Will they be smart enough to take advantage of superior speed, acceleration, cornering ability, braking ability?
+> 10. What artificial intelligence is needed to create decent opponents in the game's competitive modes? What sorts of things will the artificial opponents need to manage? Will they be smart enough to take advantage of superior speed, acceleration, cornering ability, braking ability?\
 > 在游戏的竞技模式中，需要什么样的人工智能来创造合适的对手？人工对手需要管理哪些事情？他们是否足够聪明，能利用出色的速度、加速度、转弯能力和制动能力？
 > 
-> 11. Do we want to create a sense of speed for the player? If so, how will we create it? (Remember, you can use both visual and audible cues.)
+> 11. Do we want to create a sense of speed for the player? If so, how will we create it? (Remember, you can use both visual and audible cues.)\
 > 我们是否希望为玩家创造速度感？如果是，我们将如何营造？(记住，你可以同时使用视觉和听觉暗示）。
 
 # Putting It Together 总结

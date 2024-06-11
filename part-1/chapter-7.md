@@ -649,18 +649,25 @@ Another sort of conceptual challenge occurs in mystery or detective games, in wh
 > 
 > 1. What types of challenges do you want to include in your game? Do you want to challenge the player's physical abilities, his mental abilities, or both?\
 > 你想在游戏中加入哪些类型的挑战？你想挑战玩家的体力、脑力，还是两者兼而有之？
+> 
 > 2. Game genres are defined in part by the nature of the challenges they offer. Have you selected a genre in advance, and if so, what does that imply for the gameplay? Do you intend to include any cross-genre elements, challenges that are not normally found in your chosen genre?\
 > 游戏类型在一定程度上是由其所提供的挑战的性质所决定的。你是否事先选定了游戏类型，如果是，这对游戏玩法意味着什么？你是否打算加入你所选类型中通常没有的跨类型元素和挑战？
+> 
 > 3. Does the game include implicit challenges (those that emerge from the design), as well as explicit challenges (those that you specify)?\
 > 游戏是否包括隐性挑战（设计中出现的挑战）和显性挑战（你指定的挑战）？
+> 
 > 4. If the game has a story, how does the story influence the gameplay, and vice versa? Do they operate in tandem, or are they effectively separate pieces?\
 > 如果游戏有故事，故事是如何影响游戏性的，反之亦然？它们是同步进行，还是各自独立？
+> 
 > 5. If the player has an avatar, how does the gameplay influence the avatar's appearance and capabilities?\
 > 如果玩家有一个化身，游戏玩法如何影响化身的外观和能力？
+> 
 > 6. Is the game's collection of challenges a related group, or is it a compilation of unrelated elements? If the latter, does that have any effect on the player's suspension of disbelief?\
 > 游戏中挑战的集合是一组相关联的，还是一系列不相关的元素的汇总？如果是后者，这是否会影响玩家的信任感？
+> 
 > 7. Given that not all players enjoy the same kinds of challenges, how does the game's target audience influence the challenges it includes? What challenges will you deliberately exclude?\
 > 鉴于并非所有玩家都喜欢同类挑战，游戏的目标受众如何影响它所包含的挑战？你会故意排除哪些挑战？
+> 
 > 8. Will the player be required to face more than one challenge at a time? Which ones?\
 > 玩家需要同时面对多个挑战吗？哪些挑战？
 

@@ -463,24 +463,34 @@ The function of a herald is to provide a motivation to the hero to progress in t
 > 
 > 1. Are the game's characters primarily art-based or story-based?\
 > 游戏中的角色主要是基于艺术的还是故事？
+> 
 > 2. What style is your art-based character drawn in: cartoon, comic-book superhero, realistic, gothic, and so on? Will your character be exaggerated in some way: cute, super-sensual, or otherwise?\
 > 你的基于艺术的角色是什么风格：卡通、漫画超级英雄、写实、哥特等等？你的角色是否会有某种夸张：可爱、超感性或其他？
+> 
 > 3. Do your art-based characters depend upon visual stereotypes for instant identification, or are they more subtle than that? If they are more subtle, how does their appearance support their role in the game?\
 > 你的基于艺术的角色是依靠视觉上的刻板印象让人一眼就能识别出来，还是比这更微妙？如果更微妙，他们的外表如何支持他们在游戏中的角色？
+> 
 > 4. Can the player tell by looking at a character how that character is likely to act? Are there reasons in the story or gameplay for wanting a character's behavior to be predictable from his appearance, or is there a reason to make the character ambiguous?\
 > 玩家能否通过观察角色就能判断出该角色可能采取的行动？在故事或游戏中，是否有理由让玩家从角色的外表就能预测到他的行为，还是有理由让角色的行为模棱两可？
+> 
 > 5. If the game has an avatar, does the avatar have a sidekick? What does the sidekick offer the player—information, advice, physical assistance? How will the sidekick complement the avatar? How will the player be able to visually distinguish between the two of them at a glance?\
 > 如果游戏中有一个化身，那么这个化身是否有一个跟班？他能为玩家提供什么信息、建议、实际帮助？小跟班如何与化身互补？玩家如何一眼就能分辨出他们两人？
+> 
 > 6. With a story-based character, how will you convey the character's personality and attitudes to the player? Through narration, dialog, gameplay, backstory , or other means?\
 > 对于基于故事的角色，你将如何向玩家传达角色的个性和态度？是通过叙述、对话、游戏、背景故事还是其他方式？
+> 
 > 7. How does the character's grammar, vocabulary, tone of voice, and speech patterns contribute to the player's understanding of her?\
 > 角色的语法、词汇、语气和说话方式如何帮助玩家理解她？
+> 
 > 8. Specifically in the case of avatar characters, what about the avatar will intrigue and interest the player?\
 > 具体到化身角色，化身的哪些方面会引起玩家的好奇和兴趣？
+> 
 > 9. What about the avatar will encourage the player to like him?\
 > 化身的哪些方面会促使玩家喜欢他？
+> 
 > 10. How will the avatar change and grow throughout the game?\
 > 在整个游戏过程中，化身将如何变化和成长？
+> 
 > 11. Does the character (any character, not just the avatar) correspond to one of Campbell's mythic archetypes: the hero, mentor, ally, threshold guardian, and so on? Or does he have a less archetypal, more complex role to play, and if so, what is it?\
 > 角色（任何角色，不仅仅是化身）是否符合坎贝尔的神话原型之一：英雄、导师、盟友、门槛守卫等？还是他扮演一个不那么典型、更复杂的角色，如果是这样，那是什么？
 

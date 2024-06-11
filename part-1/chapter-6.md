@@ -878,8 +878,10 @@ So, is adaptive music the holy grail or merely fool's gold? After all, sound eff
 > 
 > 1. Roughly sketch out the major elements of the game's shell interface; then move on to the in-game experience. For the in-game experience, define each of the gameplay modes the game will require to be playable (including the pause menu, if there is one). Don't forget non-interactive modes such as movies or mission briefings.\
 > 大致勾勒出游戏外壳界面的主要元素，然后开始游戏内体验。关于游戏内体验，请定义游戏所需的每种可玩模式（包括暂停菜单，如果有的话）。不要忘记非交互模式，如电影或任务简报。 
+> 
 > 2. Create a flowchart showing how the gameplay modes change from one to another, and what events (player actions or in-game events) cause each change.\
 > 创建一个流程图，显示游戏模式之间如何变化，以及每次变化是由哪些事件（玩家操作或游戏内事件）引起的。
+> 
 > 3. For each gameplay mode in the game:\
 >   游戏中的每种游戏模式：
 > 
@@ -894,30 +896,43 @@ So, is adaptive music the holy grail or merely fool's gold? After all, sound eff
 > 
 >       d. Define what will happen when each button on the controller or keyboard is pressed and—if the game includes a pointing device—what will happen when an object in the game world is pointed to and selected.\
 >   确定按下控制器或键盘上的每个按钮时会发生什么，如果游戏中包含指向设备，则确定指向并选择游戏世界中的物体时会发生什么。
+> 
 > 4. If the interface includes multi-step actions (such as selecting units, and then giving them an order), create a flowchart indicating what happens in each step, and whether (and how) the sequence can be interrupted or cancelled.\
 > 如果界面包含多步骤操作（如选择单位，然后给它们下达命令），请创建一个流程图，说明每一步会发生什么，以及是否（以及如何）中断或取消该序列。
+> 
 > 5. Does the gameplay require a pointing or steering device? Should these be analog, or will a D-pad suffice? What do they actually do in the context of the game?\
 > 游戏是否需要指向或转向设备？这些设备应该是模拟的，还是十字方向键就足够了？它们在游戏中到底有什么作用？
+> 
 > 6. Does the function of one or more buttons on the controller change within a single gameplay mode? If so, are there visual cues to let the player know this is taking place?\
 > 控制器上一个或多个按钮的功能是否会在单一游戏模式下发生变化？如果是，是否有视觉提示让玩家知道发生了变化？
+> 
 > 7. If the player has an avatar (whether a person, creature, or vehicle), how do the movements and other behaviors of the avatar map to the machine's input devices?\
 > 如果玩家有一个化身（无论是人、生物还是车辆），化身的动作和其他行为如何映射到机器的输入设备上？
+> 
 > 8. Does the game's genre, if it has one, help to determine the user interface? What standards already exist that the player may be expecting the game to follow? Do you intend to break these expectations, and if so, how will you inform the player of that?\
 > 游戏的类型（如果有的话）是否有助于确定用户界面？玩家可能希望游戏遵循哪些已有的标准？你是否打算打破这些期望，如果是，你将如何告知玩家？
+> 
 > 9. Does the game include menus? What is the menu structure? Is it broad and shallow (quick to use, but hard to learn), or narrow and deep (easy to learn, but slow to use)?\
 > 游戏包括菜单吗？菜单结构是怎样的？是宽而浅（用着快，但难学），还是窄而深（易学，但用着慢）？
+> 
 > 10. Does the game include text on the screen? If so, does it need provisions for localization?\
 > 游戏是否在屏幕上显示文字？如果有，是否需要本地化？
+> 
 > 11. What icons are used in the game? Are they visually distinct from one another and quickly identifiable? Are they culturally universal?\
 > 游戏中使用了哪些图标？这些图标在视觉上是否相互区别并能快速识别？它们是否具有文化通用性？
+> 
 > 12. Does the player need to know numeric values (score, speed, health)? Can these be presented through non-numeric means (power bars, dials, brightness regions), or should they be shown as digits? If they are shown as digits, how can they be presented in such a way that they don't harm suspension of disbelief?\
 > 玩家是否需要知道数值（分数、速度、健康状况）？这些数值可以通过非数字方式（能量条、刻度盘、亮度区域）呈现，还是应该以数字形式显示？如果以数字形式显示，如何才能不影响玩家的信任感？
+> 
 > 13. Will it be possible for the player to control the game's perspective (camera position)? Will it be necessary for the player to do so in order to play the game? What controls will be available? Will they be available at all times, or from a separate menu or other mechanism?\
 > 玩家能否控制游戏的视角（摄像机位置）？玩家是否有必要这样做才能玩游戏？将提供哪些控制？是随时都可以使用，还是通过单独的菜单或其他机制？
+> 
 > 14. What is the aesthetic style of the game? How do the interface elements blend in and support that style?\
 > 游戏的美学风格是什么？界面元素如何融入并支持这种风格？
+> 
 > 15. How will audio be used to support the player's interaction with the game? What audio cues will accompany player actions? Will the game include audio advice or dialog?\
 > 如何使用音频来支持玩家与游戏的互动？伴随玩家操作的音频提示是什么？游戏是否会包含语音提示或对话？
+> 
 > 16. How does music support the user interface and the game generally? Does it create an emotional tone or set a pace? Can it adapt to changing circumstances?\
 > 音乐如何支持用户界面和整个游戏？它是否能营造情感基调或设定节奏？能否适应不断变化的环境？
 
