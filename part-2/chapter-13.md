@@ -133,25 +133,24 @@ The gameplay in military flight simulators is defined by the role of the aircraf
 
 ### Civilian Flight Sims 民用飞行模拟
 
-Civilian flight simulators such as the venerable but excellent Microsoft Flight Simulator (see Figure 13.2) seldom have any victory conditions, unless they implement racing or specific challenges, such as tests of speed and accuracy. Many of them are not really games in the competitive sense at all; their goal is to let the player fly and try different things with the aircraft rather than to present him with a specific mission to accomplish. However, civilian flight sims can present a wide variety of challenges: flying at night; flying in rain, fog, or strong winds; and using visual flight rules or instrument flight rules. Landing smoothly and safely, particularly in adverse weather conditions, is always the most dangerous moment in a flight and usually represents the toughest challenge that a civilian flight simulator has to offer. Most of them provide an autoland function that simply returns the plane to the ground without the player having to land it
+Civilian flight simulators such as the venerable but excellent [Microsoft Flight Simulator](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator) (see Figure 13.2) seldom have any victory conditions, unless they implement racing or specific challenges, such as tests of speed and accuracy. Many of them are not really games in the competitive sense at all; their goal is to let the player fly and try different things with the aircraft rather than to present him with a specific mission to accomplish. However, civilian flight sims can present a wide variety of challenges: flying at night; flying in rain, fog, or strong winds; and using visual flight rules or instrument flight rules. Landing smoothly and safely, particularly in adverse weather conditions, is always the most dangerous moment in a flight and usually represents the toughest challenge that a civilian flight simulator has to offer. Most of them provide an autoland function that simply returns the plane to the ground without the player having to land it.
 
-民用飞行模拟器，如古老而优秀的微软飞行模拟器（见图 13.2），很少有任何胜利条件，除非它们实施了竞赛或特定的挑战，如速度和准确性测试。它们中的许多根本算不上真正意义上的竞技游戏；它们的目标是让玩家驾驶飞机，尝试不同的飞行方式，而不是让玩家完成特定的任务。然而，民用模拟飞行会带来各种各样的挑战：在夜间飞行；在雨雾或强风中飞行；使用目视飞行规则或仪表飞行规则。平稳安全地着陆，尤其是在恶劣天气条件下着陆，总是飞行中最危险的时刻，通常也是民用模拟飞行器所能提供的最严峻的挑战。大多数模拟器都提供自动着陆功能，只需让飞机返回地面，无需玩家着陆。
+民用飞行模拟器，如古老而优秀的[微软飞行模拟器](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator)（见图 13.2），很少有任何胜利条件，除非它们实施了竞赛或特定的挑战，如速度和准确性测试。它们中的许多根本算不上真正意义上的竞技游戏；它们的目标是让玩家驾驶飞机，尝试不同的飞行方式，而不是让玩家完成特定的任务。然而，民用模拟飞行会带来各种各样的挑战：在夜间飞行；在雨雾或强风中飞行；使用目视飞行规则或仪表飞行规则。平稳安全地着陆，尤其是在恶劣天气条件下着陆，总是飞行中最危险的时刻，通常也是民用模拟飞行器所能提供的最严峻的挑战。大多数模拟器都提供了自动着陆功能，该功能可以在玩家无需亲自操作的情况下让飞机返回地面。
 
-Figure 13.2. An instrument panel in Microsoft Flight Simulator 2002. This is a game for serious pilots. 图 13.2. Microsoft 飞行模拟器 2002 中的仪表盘。这是一款适合严肃飞行员的游戏。
+Figure 13.2. An instrument panel in Microsoft Flight Simulator 2002. This is a game for serious pilots. 图 13.2. 《微软飞行模拟器 2002》 中的仪表盘。这是一款适合严肃飞行员的游戏。
 
-![](../.gitbook/assets/13.3.jpg)
 
 ### Racing Sims 赛车模拟
 
 Organized racing simulations, like sports games, take their gameplay from the real thing. The challenge is primarily to win races without crashing. Some games also include an economic element: The player wins prize money for doing well in a race, and the prize money enables her to buy better equipment. This produces positive feedback that must be counteracted to balance the game; as the player improves, her artificial opponents must also improve to offer her a worthy challenge.
 
-有组织的赛车模拟游戏与体育游戏一样，都是从真实赛车中提取游戏玩法。挑战主要是在不撞车的情况下赢得比赛。有些游戏还包含经济元素： 玩家在比赛中表现出色就能赢得奖金，而奖金又能让她购买更好的装备。这就产生了正反馈，为了平衡游戏，必须对正反馈加以抵消；随着玩家的进步，她的人工对手也必须进步，为她提供有价值的挑战。
+有组织的赛车模拟游戏与体育游戏一样，都是从真实赛车中提取游戏玩法。挑战主要是在不撞车的情况下赢得比赛。有些游戏还包含经济元素：玩家在比赛中表现出色就能赢得奖金，而奖金又能让她购买更好的装备。这就产生了正反馈，为了平衡游戏，必须对正反馈加以抵消；随着玩家的进步，她的人工对手也必须进步，为她提供有价值的挑战。
 
 ## Setting 设置
 
-The settings of flight simulators consist of the plane itself and the ground that it flies above. With a few exceptions, such as Microsoft Combat Flight Simulator, most flight sims don't offer interesting terrain. If your flight simulator has a historical setting, you can do a lot on the ancillary screens to set the mood. Electronic Arts' World War II flight simulator, Jane's World War II Fighters, shows a hanger full of period aircraft and other gear, and it even plays Glenn Miller tunes in the background. Unfortunately, in the pursuit of historical accuracy, Electronic Arts set all its combat missions above the Ardennes mountains in the wintertime: a bleak, snowy landscape covered with leafless trees. The technical quality of the graphics was superb; it's too bad they weren't depicting something more interesting. Its competitor, Microsoft Combat Flight Simulator, was less historically accurate but more fun to fly around because you could buzz the Eiffel Tower or London's Houses of Parliament.
+The settings of flight simulators consist of the plane itself and the ground that it flies above. With a few exceptions, such as Microsoft Combat Flight Simulator, most flight sims don't offer interesting terrain. If your flight simulator has a historical setting, you can do a lot on the ancillary screens to set the mood. Electronic Arts' World War II flight simulator, [Jane's World War II Fighters](https://en.wikipedia.org/wiki/Jane%27s_WWII_Fighters), shows a hanger full of period aircraft and other gear, and it even plays Glenn Miller tunes in the background. Unfortunately, in the pursuit of historical accuracy, Electronic Arts set all its combat missions above the Ardennes mountains in the wintertime: a bleak, snowy landscape covered with leafless trees. The technical quality of the graphics was superb; it's too bad they weren't depicting something more interesting. Its competitor, Microsoft Combat Flight Simulator, was less historically accurate but more fun to fly around because you could buzz the Eiffel Tower or London's Houses of Parliament.
 
-飞行模拟器的设置包括飞机本身和飞机上方的地面。除了《微软战斗飞行模拟器》（Microsoft Combat Flight Simulator）等少数例外，大多数飞行模拟器都不提供有趣的地形。如果你的飞行模拟器有历史背景，你可以在辅助屏幕上做很多事情来营造气氛。电子艺界的二战飞行模拟器《简氏二战战斗机》（Jane's World War II Fighters）展示了一个满是当时飞机和其他装备的机库，甚至还播放格伦-米勒（Glenn Miller）的背景音乐。遗憾的是，为了追求历史的准确性，Electronic Arts 将所有作战任务都设置在冬季的阿登山区：一片荒凉的雪景，覆盖着落叶的树木。画面的技术质量非常高，可惜没有描绘出更有趣的东西。它的竞争对手《微软战斗飞行模拟器》（Microsoft Combat Flight Simulator）的历史准确性较差，但飞行乐趣更多，因为你可以在埃菲尔铁塔或伦敦国会大厦上嗡嗡作响。
+飞行模拟器的设置包括飞机本身和它飞过的地面。除了《微软战斗飞行模拟器》等少数例外，大多数飞行模拟器都不提供有趣的地形。如果你的飞行模拟器有历史背景，你可以在辅助屏幕上做很多事情来营造气氛。电子艺界的二战飞行模拟器[《简氏二战战斗机》](https://en.wikipedia.org/wiki/Jane%27s_WWII_Fighters)展示了一个满是当时飞机和其他装备的机库，甚至还播放格伦·米勒的背景音乐。遗憾的是，为了追求历史的准确性，Electronic Arts 将所有作战任务都设置在冬季的阿登山区：一片荒凉的雪景，覆盖着落叶的树木。画面的技术质量非常高，可惜没有描绘出更有趣的东西。它的竞争对手《微软战斗飞行模拟器》的历史准确性较差，但飞行乐趣更多，因为你可以低空掠过埃菲尔铁塔或伦敦国会大厦。
 
 Driving simulators are set on either racetracks or roads, except for a few off-road simulators. Off-road driving offers the fun of bouncing all over interesting terrain without having to steer carefully. Narrow, twisting mountain roads are a popular choice for road-based games because they offer both an interesting challenge and pretty scenery.
 
@@ -169,7 +168,7 @@ Because flight and driving simulators rarely show other people, their worlds can
 
 The interaction model in a flight simulator is quite straightforward: The player's plane is his avatar. The plane's controls are mapped onto the computer's input devices, and the player's view is normally that of the pilot, forward through the cockpit windows.
 
-飞行模拟器中的交互模型非常简单： 玩家的飞机就是他的化身。飞机的控制装置映射到计算机的输入设备上，玩家的视角通常是飞行员透过驾驶舱窗户向前看的视角。
+飞行模拟器中的交互模型非常简单直接：玩家的飞机就是他的化身。飞机的控制装置映射到计算机的输入设备上，玩家的视角通常是飞行员透过驾驶舱窗户向前看的视角。
 
 ## Perspective 视角
 
@@ -183,39 +182,39 @@ Both driving and flight simulators implement certain standard views:
 
 驾驶和飞行模拟器都采用某些标准视角：
 
-Pilot's/driver's view. This is the "normal" view that most simulators offer by default. The player sees what the pilot or driver would see from that position in the cockpit or driver's seat. The vehicle's instruments take up the lower half of the screen, and the view out of the windshield is shown in the upper half, often partially obscured by parts of the canopy or the nose of the car or plane. Most sims offer separate "look left," "look right," and "look backward" views, as well as a mode in which the player can swivel the view smoothly through 360° as well as up, to see what's overhead, and down, to see instruments located below the pilot's normal line of sight.
+* **Pilot's/driver's view.** This is the "normal" view that most simulators offer by default. The player sees what the pilot or driver would see from that position in the cockpit or driver's seat. The vehicle's instruments take up the lower half of the screen, and the view out of the windshield is shown in the upper half, often partially obscured by parts of the canopy or the nose of the car or plane. Most sims offer separate "look left," "look right," and "look backward" views, as well as a mode in which the player can swivel the view smoothly through 360° as well as up, to see what's overhead, and down, to see instruments located below the pilot's normal line of sight.
 
-飞行员/驾驶员视图。这是大多数模拟器默认提供的 “正常 ”视图。玩家看到的是驾驶员在驾驶舱或驾驶座上看到的景象。车辆的仪表占据了屏幕的下半部分，挡风玻璃外的景象则显示在上半部分，通常会被部分顶篷或汽车或飞机的机头遮挡住。大多数模拟器都提供单独的 “向左看”、“向右看 ”和 “向后看 ”视图，还有一种模式是玩家可以在 360° 范围内平滑旋转视图，还可以向上和向下旋转视图，向上可以看到头顶上的东西，向下可以看到位于飞行员正常视线下方的仪器。
+    **飞行员/司机视图。** 这是大多数模拟器默认提供的“正常”视图。玩家看到的是飞行员或司机在驾驶舱或驾驶座上看到的景象。交通工具的仪表占据了屏幕的下半部分，挡风玻璃外的景象则显示在上半部分，通常会被飞机的做舱盖或汽车或飞机的机头遮挡住。大多数模拟器都提供单独的“向左看”、“向右看”和“向后看”视图，还有一种模式是玩家可以在 360° 范围内平滑旋转视图，还可以向上和向下旋转视图，向上可以看到头顶上的东西，向下可以看到位于飞行员正常视线下方的仪器。
 
-Cockpit-removed view. This is an unrealistic but dramatic perspective in which the pilot or driver's view out of the front of the vehicle is shown full-screen rather than being partially obscured by the cockpit. Critical instruments are shown as semitransparent overlays in the corners of the screen, so as not to interfere with the view too much. Even these can be removed, providing an unobscured view of the world outside, with no visible indication that the player is in a vehicle at all.
+* **Cockpit-removed view.** This is an unrealistic but dramatic perspective in which the pilot or driver's view out of the front of the vehicle is shown full-screen rather than being partially obscured by the cockpit. Critical instruments are shown as semitransparent overlays in the corners of the screen, so as not to interfere with the view too much. Even these can be removed, providing an unobscured view of the world outside, with no visible indication that the player is in a vehicle at all.
 
-脱离驾驶舱的视角。这是一种不现实但却很有戏剧性的视角，飞行员或驾驶员从车辆前方看出去的视角是全屏显示的，而不是被驾驶舱部分遮挡。关键仪器以半透明的叠加形式显示在屏幕的角落，以免过多干扰视线。即使这些仪器可以移除，也能让玩家一目了然地看到外面的世界，完全看不出玩家身处车辆之中。
+    **去除驾驶舱的视角。** 这是一种不现实但却很有戏剧性的视角，飞行员或司机从车辆前方看出去的视角是全屏显示的，而不是被驾驶舱部分遮挡。关键仪器以半透明的叠加形式显示在屏幕的角落，以免过多干扰视线。即使这些仪器可以移除，也能让玩家一目了然地看到外面的世界，完全看不出玩家身处车辆之中。
 
-Chase view. This is an exterior view of the player's vehicle, as if from another one following closely behind and mimicking its movements. In flight simulators, the plane always seems to be level and the world turns around it. For example, if the player banks her plane, the horizon tilts while the player's plane appears to be level in the middle of the screen. In driving simulators, the chase view is usually somewhat elevated so the car does not obscure the player's view of the road in front.
+* **Chase view.** This is an exterior view of the player's vehicle, as if from another one following closely behind and mimicking its movements. In flight simulators, the plane always seems to be level and the world turns around it. For example, if the player banks her plane, the horizon tilts while the player's plane appears to be level in the middle of the screen. In driving simulators, the chase view is usually somewhat elevated so the car does not obscure the player's view of the road in front.
 
-追逐视图。这是玩家车辆的外部视图，就像从紧跟其后并模仿其动作的另一辆车上看到的一样。在飞行模拟器中，飞机似乎总是处于水平状态，而世界则围绕着飞机转动。例如，如果玩家将飞机向左倾斜，地平线就会倾斜，而玩家的飞机则会在屏幕中间保持水平。在驾驶模拟器中，追逐视角通常会被抬高一些，这样汽车就不会遮挡玩家对前方道路的视线。
+    **追逐视图。** 这是玩家车辆的外部视图，就像从紧跟其后并模仿其动作的另一辆车上看到的一样。在飞行模拟器中，飞机似乎总是处于水平状态，而世界则围绕着飞机转动。例如，如果玩家将飞机向左倾斜，地平线就会倾斜，而玩家的飞机则会在屏幕中间保持水平。在驾驶模拟器中，追逐视角通常会被抬高一些，这样汽车就不会遮挡玩家对前方道路的视线。
 
-Rear, side, and front views. These are exterior views of the player's vehicle from all four sides. If the player's plane banks, the view does not bank; the ground remains below.
+* **Rear, side, and front views.** These are exterior views of the player's vehicle from all four sides. If the player's plane banks, the view does not bank; the ground remains below.
 
-后视图、侧视图和前视图。这些都是从四面观察玩家飞行器的外部视图。如果玩家的飞机倾斜，视角不会倾斜；地面仍在下方。
+    **后视图、侧视图和前视图。** 这些都是从四面观察玩家飞行器的外部视图。如果玩家的飞机倾斜，视角不会倾斜；地面仍在下方。
 
-Free-roaming camera. Used only in an instant-replay mode, this enables the camera to be moved anywhere in the world and tilted or rotated to look in any direction. This view is useful for players trying to analyze exactly what happened in a particular encounter.
+* **Free-roaming camera.** Used only in an instant-replay mode, this enables the camera to be moved anywhere in the world and tilted or rotated to look in any direction. This view is useful for players trying to analyze exactly what happened in a particular encounter.
 
-自由漫游摄像机。仅在即时重玩模式下使用，它能让摄像机在世界任何地方移动，并倾斜或旋转以观察任何方向。这种视图对试图分析特定遭遇中发生的确切事件的玩家非常有用。
+    **自由漫游摄像机。** 仅在即时重玩模式下使用，它能让摄像机在世界任何地方移动，并倾斜或旋转以观察任何方向。这种视图对试图分析特定遭遇中发生的确切事件的玩家非常有用。
 
 ### Views Unique to Flight Simulators 飞行模拟器特有的视图
 
 The following views are found only in flight simulators—and military ones, at that:
 
-以下视图只有在飞行模拟器--而且是军用模拟器--中才能找到：
+以下视图只有在飞行模拟器——而且是军用模拟器——中才能找到：
 
-Ground target view. This is a view of a target on the ground that is currently selected for attack. The camera is positioned at a nearby ground location, facing the target, and does not move. This view lets the player watch incoming missiles or bombs arrive and see if they hit the target accurately.
+* **Ground target view.** This is a view of a target on the ground that is currently selected for attack. The camera is positioned at a nearby ground location, facing the target, and does not move. This view lets the player watch incoming missiles or bombs arrive and see if they hit the target accurately.
 
-地面目标视图。这是当前选定要攻击的地面目标的视图。摄像机位于附近的地面位置，面向目标，不会移动。通过该视图，玩家可以观察来袭导弹或炸弹是否准确击中目标。
+    **地面目标视图。** 这是当前选定要攻击的地面目标的视图。摄像机位于附近的地面位置，面向目标，不会移动。通过该视图，玩家可以观察来袭导弹或炸弹是否准确击中目标。
 
-Bomb or missile view. This is the point of view from a recently released bomb or missile, as if it had a camera in its nose (many modern weapons do). This allows a particularly dramatic perspective as the weapon approaches its target. This view usually disappears after the weapon detonates, and the perspective returns to the default view.
+* **Bomb or missile view.** This is the point of view from a recently released bomb or missile, as if it had a camera in its nose (many modern weapons do). This allows a particularly dramatic perspective as the weapon approaches its target. This view usually disappears after the weapon detonates, and the perspective returns to the default view.
 
-炸弹或导弹视角。这是最近释放的炸弹或导弹的视角，就像它的机头装有摄像头一样（许多现代武器都装有摄像头）。这样，当武器接近目标时，视角就会特别戏剧化。这种视角通常会在武器引爆后消失，视角会恢复到默认视
+    **炸弹或导弹视图。** 这是最近释放的炸弹或导弹的视图，就像它的机头装有摄像头一样（许多现代武器都装有摄像头）。这样，当武器接近目标时，视角就会特别戏剧化。这种视图通常会在武器引爆后消失，视角会恢复到默认视图。
 
 ### Views Unique to Driving Simulators 驾驶模拟器特有的视图
 
@@ -223,40 +222,43 @@ The following views occur only in driving simulators. Obviously, the cars are no
 
 以下视图仅出现在驾驶模拟器中。显然，从这些视角是无法驾驶汽车的，但它们非常适合即时回放。
 
-Trackside view. Many racetracks have cameras located at fixed points around the track. The camera can be either locked to a specific viewpoint or made to track the player's car as it moves past. It's also common to have a routine that switches from one trackside camera to another to follow the leaders as they go around. This gives a good simulation of watching television coverage of a race (see Figure 13.3).
+* **Trackside view.** Many racetracks have cameras located at fixed points around the track. The camera can be either locked to a specific viewpoint or made to track the player's car as it moves past. It's also common to have a routine that switches from one trackside camera to another to follow the leaders as they go around. This gives a good simulation of watching television coverage of a race (see Figure 13.3).
 
+    **赛道视图。** 许多赛道都在赛道周围的固定点安装了摄像头。摄像头可以锁定在一个特定的视角，也可以在玩家的赛车经过时进行跟踪。还有一种常见的做法是，在赛道边的摄像机切换到另一个摄像机，以跟随领跑者前进。这可以很好地模拟观看电视转播的比赛（见图 13.3）。
 
-赛道视角。许多赛道都在赛道周围的固定点安装了摄像头。摄像头可以锁定在一个特定的视角，也可以在玩家的赛车经过时进行跟踪。还有一种常见的做法是，在赛道边的摄像机切换到另一个摄像机，以跟随领跑者前进。这可以很好地模拟观看电视转播的比赛（见图 13.3）。
-
-Figure 13.3. A typical trackside view in NASCAR Racing 4. 图 13.3. 纳斯卡赛车 4》中的典型赛道视图。
+Figure 13.3. A typical trackside view in NASCAR Racing 4. 图 13.3. 《NASCAR 赛车四》中的典型赛道视图。
 
 graphics/13fig03.gif
 
-Grandstand view. This is the traditional spectator's view of the finish line. 看台视角。这是终点线的传统观众视角。
+* **Grandstand view.** This is the traditional spectator's view of the finish line.
 
-Blimp view. This is a high aerial view looking straight down onto the racetrack or course, letting you see all the cars at once. 飞艇视角。这是一种高空俯瞰视图，可直接俯瞰赛道或赛道，让你同时看到所有赛车。
+    **看台视角。** 这是终点线的传统观众视角。
+
+* **Blimp view.** This is a high aerial view looking straight down onto the racetrack or course, letting you see all the cars at once.
+
+    **飞艇视角。** 这是一种高空俯瞰视图，可直接俯瞰赛道或赛道，让你同时看到所有赛车。
 
 ## User Interface Design 用户界面设计
 
 The biggest challenge in designing the user interface of a vehicle simulator is in mapping the vehicle's real controls to those available on the target machine. For serious simulations, analog controls are essential; the binary D-pads of older handheld controllers don't allow the kind of precision needed for accurate steering. It used to be that serious simulations simply weren't possible on console machines, but now that most console machines offer analog joysticks, mapping the controls of a race car to those of a home console machine isn't quite as much of a problem.
 
-设计车辆模拟器用户界面的最大挑战在于将车辆的实际控制与目标机器上的控制进行映射。对于严肃的模拟来说，模拟控制是必不可少的；老式手持控制器的二进制 D-pads 无法实现精确转向所需的精度。过去，在控制台上根本无法进行严肃的模拟游戏，但现在大多数控制台都提供模拟操纵杆，将赛车的控制映射到家用控制台上已不再是难题。
+设计驾驶模拟器用户界面的最大挑战在于将车辆的实际控制与目标机器上的控制进行映射。对于严肃的模拟来说，模拟控制是必不可少的；老式手持控制器的二进制 D-pads 无法实现精确转向所需的精度。过去，在游戏机上根本无法进行严肃的模拟游戏，但现在大多数游戏机都提供模拟操纵杆，将赛车的控制映射到家用游戏机上已不再是难题。
 
 Force-feedback joysticks, throttles, control yokes, steering wheels, and pedals (rudder for planes, and gas and brake for cars) all help immensely, and serious players will have them. You can greatly improve the quality of the simulation experience for such players by supporting them. However, don't design—and, more important, don't tune—your game with a presumption that your players will have this kind of hardware. It should be an enjoyable experience even with only a standard console controller or a mouse and keyboard. If it's not, you've severely limited your audience and your game is bound to be slammed in reviews.
 
-力反馈操纵杆、油门、控制轭、方向盘和踏板（飞机的方向舵，汽车的油门和刹车）都有很大帮助，认真的玩家都会拥有它们。你可以通过支持它们来大大提高这类玩家的模拟体验质量。但是，在设计游戏时，不要假定玩家会拥有这样的硬件，更重要的是，不要对游戏进行调整。即使只有一个标准的控制台手柄或鼠标和键盘，也应该能带来愉快的体验。如果不是这样，你就严重限制了你的受众群体，你的游戏必然会在评论中大受打击。
+力反馈操纵杆、油门、控制轭、方向盘和踏板（飞机的方向舵，汽车的油门和刹车）都有很大帮助，严肃的玩家都会拥有它们。你可以通过支持它们来大大提高这类玩家的模拟体验质量。但是，在设计游戏时，不要假定玩家会拥有这样的硬件，更重要的是，不要对游戏进行调整。即使只有一个标准的游戏机手柄或鼠标和键盘，也应该能带来愉快的体验。如果不是这样，你就严重限制了你的受众群体，你的游戏必然会在评论中大受打击。
 
 Military flight simulators always require some simplification from the real thing; you will have to decide how much. Real military aircraft are flown only by special people who have had months or years of training, much of it spent sitting in classrooms. Because we want our players to be able to fly the planes within a few minutes of installing the software, we have to make considerable compromises in the realism of the game. You will almost certainly want to reduce the number of instruments in the cockpit and the number of functions that some of them perform.
 
-军事飞行模拟器总是需要对实物进行一定程度的简化；你必须决定简化的程度。真正的军用飞机只能由受过数月或数年训练的特殊人员驾驶，其中大部分时间是坐在教室里度过的。因为我们希望玩家在安装软件后几分钟内就能驾驶飞机，所以我们必须在游戏的逼真度上做出相当大的妥协。你几乎肯定会希望减少驾驶舱内的仪表数量以及其中某些仪表所执行的功能数量。几乎所有飞行模拟器都会进行的一个常见简化就是自动协调飞行。通常，飞机驾驶员在转弯时必须协调副翼和方向舵的动作，以防止飞机在空中侧滑，就像汽车在湿滑的路面上转弯过快会侧滑一样。由于飞机没有轮胎抓紧路面来控制方向，这种情况很容易发生。然而，大多数玩家只有一个控制装置，即操纵杆。为了简化飞行，操纵杆的左右运动可同时控制方向舵和副翼，从而实现自动协调飞行。
+军事飞行模拟器总是需要对实物进行一定程度的简化；你必须决定简化的程度。真正的军用飞机只能由受过数月或数年训练的特殊人员驾驶，其中大部分时间是坐在教室里度过的。因为我们希望玩家在安装软件后几分钟内就能驾驶飞机，所以我们必须在游戏的逼真度上做出相当大的妥协。你几乎肯定会希望减少驾驶舱内的仪表数量以及其中某些仪表所执行的功能数量。
 
 One common simplification that almost all flight simulators make is to produce automatically coordinated flight. Ordinarily, the pilot of an airplane must coordinate the movements of the ailerons and rudder when turning, to prevent the plane from skidding sideways in the air, in the same way that a car skids sideways on wet pavement if it takes a turn too fast. Because the plane has no tires gripping pavement to control the direction it is facing, this can happen easily. However, most players have only one control mechanism, the joystick. To simplify flight, the left-right motion of the joystick controls both the rudder and the ailerons simultaneously, producing automatically coordinated flight.
 
 几乎所有飞行模拟器都有一个共同的简化方法，那就是自动协调飞行。通常情况下，飞机驾驶员在转弯时必须协调副翼和方向舵的动作，以防止飞机在空中侧滑，就像汽车在湿滑的路面上转弯太快会侧滑一样。由于飞机没有轮胎抓紧路面来控制方向，这种情况很容易发生。然而，大多数玩家只有一个控制装置，即操纵杆。为了简化飞行，操纵杆的左右运动可同时控制方向舵和副翼，从而实现自动协调飞行。
 
-Another common simplification for flight simulators is made in the navigation. Modern planes have global positioning systems, but World War I and II pilots still needed to know proper navigation, plotting their courses by the stars at night and by landmarks or dead reckoning during the daytime. Because this isn't the most exciting thing about flying, just give the player a map.
+Another common simplification for flight simulators is made in the navigation. Modern planes have global positioning systems, but World War I and II pilots still needed to know proper navigation, plotting their courses by the stars at night and by landmarks or [dead reckoning](https://en.wikipedia.org/wiki/Dead_reckoning) during the daytime. Because this isn't the most exciting thing about flying, just give the player a map.
 
-飞行模拟器的另一个常见简化是在导航方面。现代飞机拥有全球定位系统，但一战和二战时期的飞行员仍然需要掌握正确的导航方法，在夜间根据星象绘制航线，在白天根据地标或死算绘制航线。因为这并不是飞行中最令人兴奋的事情，所以只需给玩家一张地图即可。
+飞行模拟器的另一个常见简化是在导航方面。现代飞机拥有全球定位系统，但一战和二战时期的飞行员仍然需要掌握正确的导航方法，在夜间根据星象绘制航线，在白天根据地标或[航位推算](https://en.wikipedia.org/wiki/Dead_reckoning)航线。因为这并不是飞行中最令人兴奋的事情，所以只需给玩家一张地图即可。
 
 ## The Player's Role 玩家的角色
 
