@@ -228,7 +228,7 @@ The following views occur only in driving simulators. Obviously, the cars are no
 
 Figure 13.3. A typical trackside view in NASCAR Racing 4. 图 13.3. 《NASCAR 赛车四》中的典型赛道视图。
 
-graphics/13fig03.gif
+![](../.gitbook/assets/13.3.jpg)
 
 * **Grandstand view.** This is the traditional spectator's view of the finish line.
 
@@ -262,43 +262,41 @@ Another common simplification for flight simulators is made in the navigation. M
 
 ## The Player's Role 玩家的角色
 
-The player's role in a flight simulator seems as if it should be quite straightforward: It's that of a pilot. In single-seat aircraft, that's all that is required. However, if you're going to simulate larger aircraft, such as bombers or two-seat fighters, you'll have to decide how you want to handle the varying roles available. In LucasArts' excellent World War II simulator Their Finest Hour, the player could play any of the waist and tail gun positions of the Junkers JU-88 bomber while leaving the plane on autopilot, or he could set the guns to fire automatically at any target that came into view. To drop the bombs, however, he had to take over the bombardier's position personally. Three-Sixty Pacific's game Megafortress required the player to manage no fewer than five different stations: pilot, co-pilot, navigator, electronic warfare specialist, and offensive weapons officer. Each had its own instrument panel and responsibilities, and the player had to move constantly from one to another to check on conditions and respond to emergencies. At times when the player was away from the pilot's seat, the plane flew on autopilot toward the next waypoint.
+The player's role in a flight simulator seems as if it should be quite straightforward: It's that of a pilot. In single-seat aircraft, that's all that is required. However, if you're going to simulate larger aircraft, such as bombers or two-seat fighters, you'll have to decide how you want to handle the varying roles available. In [LucasArts](https://en.wikipedia.org/wiki/Lucasfilm_Games)' excellent World War II simulator [Their Finest Hour](https://en.wikipedia.org/wiki/Their_Finest_Hour_(video_game)), the player could play any of the waist and tail gun positions of the Junkers JU-88 bomber while leaving the plane on autopilot, or he could set the guns to fire automatically at any target that came into view. To drop the bombs, however, he had to take over the bombardier's position personally. [Three-Sixty Pacific](https://en.wikipedia.org/wiki/Three-Sixty_Pacific)'s game [Megafortress](https://en.wikipedia.org/wiki/Megafortress) required the player to manage no fewer than five different stations: pilot, co-pilot, navigator, electronic warfare specialist, and offensive weapons officer. Each had its own instrument panel and responsibilities, and the player had to move constantly from one to another to check on conditions and respond to emergencies. At times when the player was away from the pilot's seat, the plane flew on autopilot toward the next waypoint.
 
-玩家在飞行模拟器中的角色似乎非常简单： 那就是飞行员。在单座飞机中，这就是全部要求。但是，如果你要模拟更大的飞机，如轰炸机或双座战斗机，你就必须决定如何处理不同的角色。在 LucasArts 优秀的二战模拟器《最辉煌的时刻》中，玩家可以扮演容克斯 JU-88 轰炸机的任何一个腰炮和尾炮位置，同时让飞机处于自动驾驶状态，也可以设置机炮自动向任何出现在视野中的目标开火。不过，要投掷炸弹，他必须亲自接替投弹手的位置。Three-Sixty Pacific 公司的游戏 “Megafortress ”要求玩家管理不少于五个不同的岗位：飞行员、副驾驶员、导航员、电子战专家和攻击武器官。每个站台都有自己的仪表盘和职责，玩家必须不停地从一个站台转到另一个站台，查看情况并应对紧急情况。当玩家离开飞行员座位时，飞机会自动驾驶飞往下一个航点。
+玩家在飞行模拟器中的角色似乎非常简单：那就是飞行员。在单座飞机中，这就是全部要求。但是，如果你要模拟更大的飞机，如轰炸机或双座战斗机，你就必须决定如何处理不同的角色。在[卢卡斯艺术](https://en.wikipedia.org/wiki/Lucasfilm_Games)优秀的二战模拟器[《荣光时刻》](https://en.wikipedia.org/wiki/Their_Finest_Hour_(video_game))中，玩家可以扮演容克斯 JU-88 轰炸机的任何一个腰炮和尾炮位置，同时让飞机处于自动驾驶状态，也可以设置机炮自动向任何出现在视野中的目标开火。不过，要投掷炸弹，他必须亲自接替投弹手的位置。[三六十太平洋公司](https://en.wikipedia.org/wiki/Three-Sixty_Pacific)的游戏[《巨大要塞》](https://en.wikipedia.org/wiki/Megafortress)要求玩家管理不少于五个不同的岗位：飞行员、副驾驶员、导航员、电子战专家和攻击武器官。每个站台都有自己的仪表盘和职责，玩家必须不停地从一个站台转到另一个站台，查看情况并应对紧急情况。当玩家离开飞行员座位时，飞机会自动驾驶飞往下一个航点。
 
 In racing-oriented driving games, the player's role is that of a racing driver most of the time, but the more serious simulations, such as Indycar Racing, also allow the player to be a mechanic, modifying the angle of the airfoils, changing tires to compensate for weather conditions, and so on.
 
-在以赛车为导向的驾驶游戏中，玩家大部分时间扮演的是赛车手的角色，但更严肃的模拟游戏，如《Indycar Racing》，还允许玩家扮演机械师，修改翼面角度、更换轮胎以补偿天气条件等等。
+在以赛车为导向的驾驶游戏中，玩家大部分时间扮演的是赛车手的角色，但更严肃的模拟游戏，如《Indycar Racing》，还允许玩家扮演机械师，调整空气动力学部件的角度、更换轮胎以适应天气条件等等。
 
 # Other Vehicles 其他交通工具
 
 Flight and driving simulators are by far the most popular kinds, but there are other sorts of vehicle simulators as well, usually in niche categories.
 
-飞行和驾驶模拟器是目前最流行的模拟器类型，但也有其他类型的车辆模拟器，通常属于小众类别
+飞行和驾驶模拟器是目前最流行的模拟器类型，但也有其他类型的交通工具模拟器，通常属于小众类别。
 
 ## Boats and Ships 船只
 
 Most boat simulations are of powerboats or jet skis, offering the same kinds of speed thrills that driving simulators do (see Figure 13.4). The handling characteristics of powerboats are different from cars; because they're in a fluid medium, they don't "hold the road" the way a car's tires do, so they can't turn as sharply as a car can. Powerboat simulations are usually races over a twisting course marked off by buoys. Jet ski or fantasy water vehicle simulations often have outrageous jumps and other challenges as well.
 
-大多数船只模拟器都是动力艇或水上摩托艇，提供与驾驶模拟器相同的速度快感（见图 13.4）。动力艇的操控特性与汽车不同；由于它们处于流体介质中，不像汽车轮胎那样 “紧紧抓住路面”，因此不能像汽车那样急转弯。动力艇模拟通常是在以浮标为标志的曲折赛道上进行比赛。水上摩托艇或梦幻水上飞行器模拟赛通常也会有惊人的跳跃和其他挑战。
+大多数船只模拟器都是动力艇或水上摩托艇，提供与驾驶模拟器相同的速度快感（见图 13.4）。汽艇的操控特性与汽车不同；由于它们处于流体介质中，不像汽车轮胎那样“紧紧抓住路面”，因此不能像汽车那样急转弯。汽艇模拟通常是在以浮标为标志的曲折赛道上进行比赛。水上摩托艇或幻想水上交通工具模拟通常也会有惊人的跳跃和其他挑战。
 
-Figure 13.4. Power Boat Racing, in a third-person perspective. Note the semitransparent map overlay and instrument panel.
+Figure 13.4. Power Boat Racing, in a third-person perspective. Note the semitransparent map overlay and instrument panel. 图 13.4. 第三人称视角下的汽艇竞赛。请注意半透明的地图叠加和仪表板。
 
-图 13.4. 第三人称视角下的动力艇竞赛。请注意半透明的地图叠加和仪表板。
+![](../.gitbook/assets/13.4.png)
 
-![](../.gitbook/assets/13.7.png)
+There have been a few simulators of warships over the years, often fairly small craft with high speed and maneuverability, such as the PT boat of World War II fame. Larger vessels such as battleships and aircraft carriers move more slowly and deliberately, and, therefore, tend to be simulated not as individual vehicles, but as part of naval warfare simulations involving whole fleets, such as [Harpoon](https://en.wikipedia.org/wiki/Harpoon_(video_game)).
 
-There have been a few simulators of warships over the years, often fairly small craft with high speed and maneuverability, such as the PT boat of World War II fame. Larger vessels such as battleships and aircraft carriers move more slowly and deliberately, and, therefore, tend to be simulated not as individual vehicles, but as part of naval warfare simulations involving whole fleets, such as Harpoon.
+多年来，已有一些军舰模拟器，通常是具有高速度和高机动性的小型船只，如第二次世界大战中著名的 PT 艇。战列舰和航空母舰等大型舰艇的移动得更慢且小心翼翼，因此往往不是作为单个飞行器进行模拟，而是作为涉及整个舰队的海战模拟的一部分，如[《鱼叉》](https://en.wikipedia.org/wiki/Harpoon_(video_game))。
 
-多年来，已有一些军舰模拟器，通常是具有高速度和高机动性的小型船只，如第二次世界大战中著名的 PT 艇。战列舰和航空母舰等大型舰艇的移动速度较慢，而且比较刻意，因此往往不是作为单个飞行器进行模拟，而是作为涉及整个舰队的海战模拟的一部分，如 Harpoon。
+Submarine simulations such as [688 Attack Sub](https://en.wikipedia.org/wiki/688_Attack_Sub) are fairly popular because of the specialized nature of their situation and because they can move in three dimensions. They normally concentrate on rather old-fashioned submarine activities, such as looking through the periscope and firing torpedoes at surface ships. These are the sorts of things we associate with submarines from watching old war movies, and, of course, they're the most visually dramatic. Few games simulate the modern role of submarines, hunting and hiding from one another in total darkness, because it's too cerebral of an activity.
 
-Submarine simulations such as 688 Attack Sub are fairly popular because of the specialized nature of their situation and because they can move in three dimensions. They normally concentrate on rather old-fashioned submarine activities, such as looking through the periscope and firing torpedoes at surface ships. These are the sorts of things we associate with submarines from watching old war movies, and, of course, they're the most visually dramatic. Few games simulate the modern role of submarines, hunting and hiding from one another in total darkness, because it's too cerebral of an activity.
+[《688 攻击潜艇》](https://en.wikipedia.org/wiki/688_Attack_Sub)等潜艇模拟由于其情况的特殊性和可以在三维空间中移动而相当受欢迎。它们通常集中于相当老式的潜艇活动，如通过潜望镜观察和向水面舰艇发射鱼雷。这些都是我们在观看老式战争电影时会联想到的潜艇活动，当然，这些活动也最具有视觉冲击力。很少有游戏能模拟潜艇的现代角色，即在完全黑暗的环境中狩猎和相互躲避，因为这太耗费脑力了。
 
-688 攻击潜艇 "等潜艇模拟由于其情况的特殊性和可以在三维空间中移动而相当受欢迎。它们通常集中于相当老式的潜艇活动，如通过潜望镜观察和向水面舰艇发射鱼雷。这些都是我们在观看老式战争电影时会联想到的潜艇活动，当然，这些活动也最具有视觉冲击力。很少有游戏能模拟潜艇的现代角色，即在完全黑暗的环境中狩猎和相互躲避，因为这太耗费脑力了。
+Sailing ship simulations are another rarity. Although sailing a ship is a complex and interesting challenge, such games appeal only to a specialized market. Most people prefer simulations in which you can point the vehicle in the direction you want to go and push the gas pedal to get you there. Few ship simulations model the ocean in all its complexity, with shoals and currents, tides and storms. Rather, they tend to treat it the way driving simulations treat the ground: simply as an area over which ships move. Pirate games such as [Sea Dogs II](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(video_game)) (see Figure 13.5) and [Pirates: Legend of Black Kat are usually arcade or role-playing games rather than sailing simulations.
 
-Sailing ship simulations are another rarity. Although sailing a ship is a complex and interesting challenge, such games appeal only to a specialized market. Most people prefer simulations in which you can point the vehicle in the direction you want to go and push the gas pedal to get you there. Few ship simulations model the ocean in all its complexity, with shoals and currents, tides and storms. Rather, they tend to treat it the way driving simulations treat the ground: simply as an area over which ships move. Pirate games such as Sea Dogs II (see Figure 13.5) and Pirates: Legend of Black Kat are usually arcade or role-playing games rather than sailing simulations.
-
-模拟帆船是另一种罕见的情况。虽然驾驶船只是一项复杂而有趣的挑战，但这类游戏只对专业市场有吸引力。大多数人更喜欢这样的模拟游戏：你可以将车辆指向你想去的方向，然后踩下油门就能到达目的地。很少有船舶模拟游戏能模拟海洋的复杂性，包括浅滩、洋流、潮汐和风暴。相反，它们往往像驾驶模拟游戏对待地面一样对待海洋：仅仅将其作为船只行驶的区域。海狗 II》（见图 13.5）和《海盗：黑吉传说》等海盗游戏通常是街机游戏： 黑吉传说》通常是街机或角色扮演游戏，而不是航海模拟游戏。
+模拟帆船是另一种罕见的情况。虽然驾驶船只是一项复杂而有趣的挑战，但这类游戏只对专业市场有吸引力。大多数人更喜欢这样的模拟游戏：你可以将车辆指向你想去的方向，然后踩下油门就能到达目的地。很少有船舶模拟游戏能模拟海洋的复杂性，包括浅滩、洋流、潮汐和风暴。相反，它们倾向于像驾驶模拟器处理地面的方式一样处理海洋：仅仅将其视为船只移动的区域。[《海狗二》](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(video_game))（见图 13.5）和[《海盗：黑卡特琳娜传说》](https://en.wikipedia.org/wiki/Pirates:_The_Legend_of_Black_Kat)等海盗游戏通常是街机或角色扮演游戏，而不是航海模拟游戏。
 
 Figure 13.5. Sea Dogs II. 图 13.5. 海狗二
 
@@ -312,31 +310,31 @@ Tank simulations seldom implement the complexity of tank battles as they really 
 
 From a gameplay standpoint, the most interesting characteristic of a tank is its rotating turret, which enables it to shoot in directions other than the one in which it is facing. (Notice the example in Figure 13.6.) It can be difficult to design a good user interface for this. You will need to provide a mechanism for rotating the turret that is separate from the mechanism that steers the tank, and a separate view window for aiming and firing the gun. Real tanks have a commander and a gun crew as well as a driver, but as with bombers and other multi-seat aircraft, you will have to find a way to let a single player control everything.
 
-从游戏的角度来看，坦克最有趣的特点是它的旋转炮塔，这使它可以向它所面对的方向以外的其他方向射击。(注意图 13.6 中的例子）为此设计一个好的用户界面可能会很困难。你需要提供一个与操纵坦克的机构分开的炮塔旋转机构，以及一个用于瞄准和发射火炮的单独视窗。真实的坦克除了驾驶员外，还有车长和炮组，但就像轰炸机和其他多座飞机一样，你必须想办法让单个玩家控制一切。
+从游戏的角度来看，坦克最有趣的特点是它的旋转炮塔，这使它可以向它所面对的方向以外的其他方向射击。(注意图 13.6 中的例子）为此设计一个好的用户界面可能会很困难。你需要提供一个与操纵坦克的机构分开的炮塔旋转机构，以及一个用于瞄准和发射火炮的单独视窗。真实的坦克除了驾驶员外，还有车长和炮组人员，但就像轰炸机和其他多座飞机一样，你必须想办法让单个玩家控制一切。
 
-Figure 13.6. A tank in Panzer Elite. The turret is facing in a different direction from the tracks. 图 13.6. 装甲精英》中的坦克。炮塔朝向与履带不同的方向。
+Figure 13.6. A tank in Panzer Elite. The turret is facing in a different direction from the tracks. 图 13.6. 《装甲精英》中的坦克。炮塔朝向与履带不同的方向。
 
 ![](../.gitbook/assets/13.6.png)
 
 A more popular alternative is the mech, a science-fiction cousin to the tank that is usually depicted as a large armed and armored walking machine (see Figure 13.7). Because mechs aren't restricted by reality, they can carry all sorts of imaginary weapons and hardware, and they can be optimized for single-player play.
 
-机甲是科幻小说中坦克的表亲，通常被描绘成大型武装装甲行走机器（见图 13.7）。由于机械人不受现实限制，它们可以携带各种想象中的武器和硬件，而且可以针对单人游戏进行优化。
+机甲是科幻小说中坦克的表亲，通常被描绘成大型武装装甲行走机器（见图 13.7）。由于机甲不受现实限制，它们可以携带各种想象中的武器和硬件，而且可以针对单人游戏进行优化。
 
 Figure 13.7. MechWarrior 4: Mercenaries. 图 13.7. 《机甲战士四：雇佣兵》。
 
-graphics/13fig07.jpg
+![](../.gitbook/assets/13.7.png)
 
 ## Spacecraft 航天器
 
-There are almost no simulations of real spacecraft except for quasi-educational ones about the space shuttles because real spacecraft behave far too slowly and deliberately to make for an interesting game. The majority of spacecraft simulations, therefore, are science fiction, and they typically consist of either fighter planes in space, such as the Wing Commander series, or capital ship simulations, such as the many Star Trek games. The fighter types are simple action games with only a few variables to manage: Fuel, ammunition, damage, and shields are about it. Capital ship simulations are more strategic, giving the player control of a wide range of weapons and other equipment.
+There are almost no simulations of real spacecraft except for quasi-educational ones about the space shuttles because real spacecraft behave far too slowly and deliberately to make for an interesting game. The majority of spacecraft simulations, therefore, are science fiction, and they typically consist of either fighter planes in space, such as the [Wing Commander](https://en.wikipedia.org/wiki/Wing_Commander_(franchise)) series, or capital ship simulations, such as the many Star Trek games. The fighter types are simple action games with only a few variables to manage: Fuel, ammunition, damage, and shields are about it. Capital ship simulations are more strategic, giving the player control of a wide range of weapons and other equipment.
 
-除了有关航天飞机的准教育类模拟游戏外，几乎没有真实航天器的模拟游戏，因为真实航天器的行为太缓慢、太刻意，不足以构成有趣的游戏。因此，大多数航天器模拟游戏都是科幻小说，通常包括太空战斗机（如 Wing Commander 系列）或资本飞船模拟游戏（如许多《星际迷航》游戏）。战斗机类型是简单的动作游戏，只需管理几个变量： 燃料、弹药、伤害和护盾就是这些。资本船模拟更具战略性，玩家可以控制各种武器和其他设备。
+除了有关航天飞机的准教育类模拟游戏外，几乎没有真实航天器的模拟游戏，因为真实航天器的行动太缓慢、太小心，不足以构成有趣的游戏。因此，大多数航天器模拟游戏都是科幻题材的，通常包括太空战斗机（如[ 银河飞将》](https://en.wikipedia.org/wiki/Wing_Commander_(franchise))系列）或主力舰模拟游戏（如许多《星际迷航》游戏）。战斗机类型是简单的动作游戏，只需管理几个变量：燃料、弹药、伤害和护盾，就是这些。主力舰模拟更具战略性，玩家可以控制各种武器和其他设备。
 
-# Special Design Considerations for Vehicle Simulations 驾驶模拟的特殊设计考虑因素
+# Special Design Considerations for Vehicle Simulations 驾驶模拟游戏的特殊设计考虑因素
 
 Some design issues are particular to vehicle simulations and are described in the following sections.
 
-有些设计问题是驾驶模拟所特有的，将在以下章节中加以说明。
+有些设计问题是驾驶模拟游戏特有的，将在以下章节中加以说明。
 
 ## Creating the Sense of Speed 创造速度感
 
@@ -346,7 +344,7 @@ In a flight simulation, there's little need for a sense of speed because simply 
 
 In driving simulations, however, the sense of speed is all-important. Here are some ways to create it:
 
-然而，在模拟驾驶中，速度感却是至关重要的。以下是一些营造速度感的方法：
+然而，在驾驶模拟中，速度感却是至关重要的。以下是一些营造速度感的方法：
 
 Give the player a speedometer. This is the most obvious way to inform a player of his speed, but it creates a purely logical awareness, not a visceral one. It might also help to give him a tachometer so he can see that the engine is near its maximum potential.
 
@@ -362,39 +360,39 @@ Include roadside objects. A continuous fence, guardrail, or strip of grass doesn
 
 Use sounds. The sound of the engine is the most obvious auditory cue, but there's also road noise (the sound the tires make on the pavement), wind noise, and tires squealing as they round corners. Another excellent cue is a Doppler shift as the car passes, or is passed by, some noise-making object.
 
-利用声音。发动机的声音是最明显的听觉线索，但还有路噪（轮胎在路面上发出的声音）、风噪以及轮胎在转弯时发出的吱吱声。另一个极好的线索是汽车经过或被经过某些产生噪音的物体时的多普勒频移。
+利用声音。发动机的声音是最明显的听觉线索，但还有路噪（轮胎在路面上发出的声音）、风噪以及轮胎在转弯时发出的吱吱声。另一个极好的暗示是汽车经过或被经过某些产生噪音的物体时的多普勒频移。
 
 ## G-Forces G 力
 
 The driver of any vehicle feels a variety of forces affecting her body: acceleration, deceleration, and centrifugal force. She can feel these forces as pressure driving her body in one direction or another, usually into the seat or against the belts holding her in. The forces give a lot of valuable feedback about the behavior of the vehicle. Unfortunately, in a simulator, we can't provide any of those feelings to the player, so we have to substitute other indicators. With driving simulators, it doesn't matter that much because automobiles seldom generate significant G-forces, and the player has plenty of other visual cues, as described in the previous section.
 
-任何车辆的驾驶员都会感受到影响其身体的各种力：加速度、减速度和离心力。驾驶员可以感觉到这些力作为压力将其身体推向一个方向或另一个方向，通常是推向座椅或撞向固定其身体的安全带。这些力对车辆的行为提供了很多有价值的反馈。遗憾的是，在模拟器中，我们无法为玩家提供这些感受，因此只能用其他指标来替代。在驾驶模拟器中，这一点并不重要，因为汽车很少会产生巨大的重力，而且如上一节所述，玩家还有很多其他的视觉提示。
+任何车辆的驾驶员都会感受到影响其身体的各种力：加速度、减速度和离心力。驾驶员可以感觉到这些力作为压力将其身体推向一个方向或另一个方向，通常是推向座椅或撞向固定其身体的安全带。这些力对车辆的行为提供了很多有价值的反馈。遗憾的是，在模拟器中，我们无法为玩家提供这些感受，因此只能用其他指标来替代。在驾驶模拟器中，这一点并不重要，因为汽车很少会产生巨大的重力，而且如上一节所述，玩家还有很多其他的视觉暗示。
 
 Military aircraft can generate powerful G-forces, but because the player spends most of her time looking at the sky, there's nothing to indicate them. The engines of modern fighter planes are powerful enough to tear the plane apart if it is mishandled, and if you're doing a realistic simulation, you might want to include this deadly little detail. If so, you should include a G-force meter showing the amount of stress being applied to the plane (and pilot). Most aircraft are designed to sustain strong downward G-forces, but not upward ones. In addition, pilots undergoing strong downward G-forces can black out momentarily as all the blood drains out of their heads. They can also suffer an experience called redout if they encounter a strong upward G-force, as too much blood flows into their heads. Many games simulate these conditions by fading the screen to black or to red, which, in addition to preventing the player from seeing anything, gives a clear indication that something is wrong.
 
-军用飞机会产生强大的重力，但由于玩家大部分时间都在仰望天空，因此没有任何迹象表明这一点。如果操作不当，现代战斗机的引擎足以将飞机撕成碎片，如果你要进行逼真的模拟，可能会想加入这个致命的小细节。如果是这样，你应该加入一个 G 力计，显示飞机（和飞行员）所受的压力大小。大多数飞机的设计都能承受强大的向下 G 力，但不能承受向上的 G 力。此外，飞行员在承受强大的向下重力时，会因头部血液全部流干而瞬间昏厥。如果遇到强大的向上重力，他们也会因为过多的血液流入头部而出现一种叫做 “晕眩”（redout）的体验。许多游戏通过将屏幕变黑或变红来模拟这些情况，这样除了可以防止玩家看到任何东西外，还能清楚地显示出出了什么问题。
+军用飞机会产生强大的重力，但由于玩家大部分时间都在仰望天空，没有东西可以表明它们。如果操作不当，现代战斗机的引擎足以将飞机撕成碎片，如果你要进行逼真的模拟，可能会想加入这个致命的小细节。如果是这样，你应该加入一个 G 力计，显示飞机（和飞行员）所受的压力大小。大多数飞机的设计都能承受强大的向下 G 力，但不能承受向上的 G 力。此外，飞行员在承受强大的向下重力时，会因头部血液全部流干而瞬间昏厥。如果遇到强大的向上重力，他们也会因为过多的血液流入头部而出现一种叫做“红视”的体验。许多游戏通过将屏幕变黑或变红来模拟这些情况，这样除了可以防止玩家看到任何东西外，还能清楚地显示出出了什么问题。
 
 ## Designing Opponents 设计对手
 
 The easiest way to design a variety of opponents in a vehicle simulation is simply to vary the performance characteristics of their vehicles. One plane climbs slightly faster than another; one can turn more sharply. The player will experience different challenges in dealing with each one based on their design parameters. However, this kind of variety is static and, after the player has figured it out, is easily beaten. As soon as he discovers that a Supermarine Spitfire can consistently outrun a Messerschmitt BF 109 in level flight, it offers an obvious strategy for Spitfire pilots: "boom and zoom" (hitting and running away).
 
-在驾驶模拟中设计各种对手的最简单方法就是改变其车辆的性能特点。一种飞机的爬升速度比另一种稍快；一种飞机的转弯速度更快。玩家将根据不同的设计参数来应对不同的挑战。不过，这种变化是一成不变的，在玩家摸索出来之后，很容易被打败。当玩家发现 “超音速喷火 ”战斗机在平飞时可以持续超越 “梅塞施密特 BF 109 ”战斗机时，它就为 “喷火 ”飞行员提供了一个显而易见的策略： 即 “boom and zoom”（击中后逃跑）。
+在驾驶模拟中设计各种对手的最简单方法就是改变其车辆的性能特点。一种飞机的爬升速度比另一种稍快；一种飞机可以更锐利地转弯。玩家将根据不同对手的设计参数来应对不同的挑战。不过，这种变化是一成不变的，在玩家摸索出来之后，很容易被打败。当玩家发现“超级海军喷火”战斗机在平飞时可以持续超越“梅塞施密特 BF 109”战斗机时，它就为“喷火”飞行员提供了一个显而易见的策略：即击中后逃跑。
 
 To create further variety in the behavior of individual opponents, the AI for those opponents should be designed around getting perfect performance from the vehicle and then creating variations from perfection. For example, it's possible to create a "perfect" AI driver in a racing simulation. He always follows the most efficient line around the track, he always shifts gears at precisely the correct moment, and he knows the ideal speed at which to take each corner without spinning out. If such a driver has a better car than the player's, he will be unbeatable. The trick, then, is to modify the AI driver's judgment so that it isn't perfect—so that he doesn't always shift at exactly the right time or follow the most efficient line. It is the combination of factors, both vehicle characteristics and variable driver skill, that provides the variety among opponents in vehicle simulators.
 
-为了使单个对手的行为更加多样化，这些对手的人工智能应该围绕车辆的完美性能进行设计，然后在完美的基础上进行变化。例如，可以在赛车模拟中创建一个 “完美 ”的人工智能驾驶员。他总是按照最有效的路线在赛道上行驶，总是在最正确的时刻换挡，并且知道以最理想的速度通过每个弯道而不会打滑。如果这样的车手拥有比玩家更好的赛车，那么他将无敌于天下。因此，诀窍就在于改变人工智能车手的判断力，使其并非完美无缺--即他并不总是在准确的时间换挡或遵循最有效的路线。正是车辆特性和可变驾驶员技能这两种因素的结合，才使得车辆模拟器中的对手千变万化。
+为了使单个对手的行为更加多样化，这些对手的人工智能应该围绕车辆的完美性能进行设计，然后在完美的基础上进行变化。例如，可以在赛车模拟中创建一个“完美”的人工智能驾驶员。他总是按照最有效的路线在赛道上行驶，总是在最正确的时刻换挡，并且知道以最理想的速度通过每个弯道而不会打滑。如果这样的车手拥有比玩家更好的赛车，那么他将无敌于天下。因此，诀窍就在于改变人工智能车手的判断力，使其并非完美无缺——即他并不总是在准确的时间换挡或遵循最有效的路线。正是车辆特性和可变驾驶员技能这两种因素的结合，才使得车辆模拟器中的对手千变万化。
 
 As you study the business of flying or driving, you will discover other tricks to incorporate into the AI: drafting behind other cars, for example, and diving out of the sun to surprise the enemy in a dogfight.
 
-在你研究飞行或驾驶的过程中，你会发现可以将其他技巧融入到人工智能中：例如，在其他车辆后面牵引，以及在狗斗中从阳光下俯冲而下以出其不意地打击敌人。
+在你研究飞行或驾驶的过程中，你会发现可以将其他技巧融入到人工智能中：例如，在其他车辆后面利用尾流，以及从太阳方向俯冲出来，在狗斗中给敌人一个惊喜。
 
 ## Intellectual Property Rights 知识产权
 
-As a general rule, you can model and simulate military equipment without obtaining permission from their manufacturers. Because such machines are not sold to the general public, nor are generally exploited in any other way, their appearance is in the public domain. Automobiles are another story, however. If you are going to simulate an existing car and use its real name and logo, you must have a license from the manufacturer. The manufacturer might not be willing to let you show the car crumpled and burning by the side of the road, either. This accounts for the large number of vehicle simulations in which the cars can flip over in an accident but never get damaged—they flip back upright a second or two later, as in Beetle Adventure Racing. Or, you can do as Interstate '76 did and model cars that look rather like existing vehicles and have similar names, but don't actually use the manufacturer's indicia.
+As a general rule, you can model and simulate military equipment without obtaining permission from their manufacturers. Because such machines are not sold to the general public, nor are generally exploited in any other way, their appearance is in the public domain. Automobiles are another story, however. If you are going to simulate an existing car and use its real name and logo, you must have a license from the manufacturer. The manufacturer might not be willing to let you show the car crumpled and burning by the side of the road, either. This accounts for the large number of vehicle simulations in which the cars can flip over in an accident but never get damaged—they flip back upright a second or two later, as in [Beetle Adventure Racing](https://en.wikipedia.org/wiki/Beetle_Adventure_Racing). Or, you can do as [Interstate '76](https://en.wikipedia.org/wiki/Interstate_%2776) did and model cars that look rather like existing vehicles and have similar names, but don't actually use the manufacturer's indicia.
 
-一般来说，你可以对军事装备进行建模和仿真，而无需获得其制造商的许可。因为这类机器不会向公众出售，也不会以任何其他方式被利用，所以它们的外观属于公共领域。然而，汽车则是另一回事。如果你要模拟一辆现有的汽车，并使用它的真实名称和标识，你必须获得制造商的许可。制造商可能也不愿意让你展示汽车在路边皱巴巴地燃烧的样子。这也是大量驾驶模拟游戏的原因，在这些模拟游戏中，汽车会在事故中翻倒，但绝不会损坏，一两秒后就会重新直立起来，就像《甲壳虫冒险赛车》中那样。或者，你也可以像《76 州际公路》那样，模拟一些看起来很像现有车辆、名字也很相似，但实际上并不使用制造商标志的汽车。
+一般来说，你可以在没有获得制造商许可的情况下模拟军事装备。因为这类机器不会向公众出售，也不会以任何其他方式被利用，所以它们的外观属于公共领域。然而，汽车则是另一回事。如果你要模拟一辆现有的汽车，并使用它的真实名称和标识，你必须获得制造商的许可。制造商可能也不愿意让你展示汽车在路边被撞毁然后燃烧的样子。这就解释了为什么有那么多车辆模拟游戏中的汽车可以在事故中翻车，但永远不会损坏——它们在一两秒后又会翻正，就像[《甲壳虫冒险赛车》](https://en.wikipedia.org/wiki/Beetle_Adventure_Racing)中那样。或者，你也可以像[《76 号州际公路》](https://en.wikipedia.org/wiki/Interstate_%2776)那样，模拟一些看起来很像现有车辆、名字也很类似，但实际上并不使用制造商标志的汽车。
 
-> **Vehicle Simulation Worksheet 驾驶模拟工作表**
+> **Vehicle Simulation Worksheet 驾驶模拟游戏工作表**
 > 
 > When beginning the design of a vehicle simulation, consider the following questions:
 > 
