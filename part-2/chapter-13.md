@@ -399,44 +399,44 @@ As a general rule, you can model and simulate military equipment without obtaini
 > 在开始设计驾驶模拟游戏时，请考虑以下问题：
 > 
 > 1. What vehicle are we going to simulate? Is it an existing car, plane, boat, tank, and so on, or is it a fantasy-vehicle?
-> 我们要模拟什么车辆？是现有的汽车、飞机、船、坦克等，还是幻想中的车辆？
+> 我们要模拟什么交通工具？是现有的汽车、飞机、船、坦克等，还是幻想中的机器？
 > 
 > 2. If it is an existing vehicle, are we aiming for the purist player who knows all its technical specifications, or for the casual player who simply wants to enjoy using it? How detailed is the physics model going to be?
-> 如果是现有车辆，我们的目标是了解其所有技术规格的纯粹玩家，还是只想享受使用乐趣的休闲玩家？物理模型的详细程度如何？
+> 如果是现有交通工具，我们的目标是了解其所有技术规格的纯粹玩家，还是只想享受使用乐趣的休闲玩家？物理模型的详细程度如何？
 > 
 > 3. How will the game handle damage to the vehicle? Can it be visually shown to be damaged? (Licenses for real vehicles sometimes forbid this.) Will damage be treated globally, like hit-points, or locally for individual parts of the machine?
-> 游戏将如何处理车辆的损坏？能否直观地显示车辆受损？(真实车辆的许可证有时会禁止这样做。）损坏是像命中点一样全局处理，还是针对机器的个别部分进行局部处理？
+> 游戏将如何处理交通工具的损坏？能否直观地显示交通工具受损？(真实交通工具的许可证有时会禁止这样做。）损坏是像生命值一样全局处理，还是针对机器的个别部分进行局部处理？
 > 
 > 4. What are the competition modes and victory conditions in the game? If this is a military vehicle, what sort of missions are available for it? If it is a civilian one, what kinds of things can it do besides simply racing (if anything)?
-> 游戏中有哪些竞赛模式和胜利条件？如果是军用车辆，有哪些任务？如果是民用车辆，除了赛车之外还能做些什么（如果有的话）？
+> 游戏中有哪些竞赛模式和胜利条件？如果是军用交通工具，有哪些任务？如果是民用交通工具，除了竞速之外还能做些什么（如果有的话）？
 > 
 > 5. What settings are available for the vehicle to travel through? Even a flight simulator needs ground to look at below.
-> 车辆可以通过哪些设置行驶？即使是飞行模拟器，也需要看看下面的地面。
+> 交通工具可以通过哪些背景行驶？即使是飞行模拟器，也需要看看下面的地面。
 > 
 > 6. What camera views are appropriate for this vehicle? If it is a military vehicle, are there special camera views that assist in fighting? Can the player record and even edit instant replays so as to re-live and show off his triumphs?
-> 什么样的摄像机视角适合这辆车？如果是军用车辆，是否有协助战斗的特殊视角？玩家能否录制甚至编辑即时回放，以便重温和炫耀自己的胜利？
+> 什么样的摄像机视角适合这个交通工具？如果是军用交通工具，是否有协助战斗的特殊视角？玩家能否录制甚至编辑即时回放，以便重温和炫耀自己的胜利？
 > 
 > 7. How will we map the many controls of a plane or even a car onto the input devices available to the player? What aspects of the vehicle's controls will need to be simplified? Which can afford to have simple on-off buttons and which require analog controls?
-> 我们将如何把飞机甚至汽车的众多控制功能映射到玩家可用的输入设备上？车辆控制的哪些方面需要简化？哪些可以使用简单的开关按钮，哪些需要模拟控制？
+> 我们将如何把飞机甚至汽车的众多控制功能映射到玩家可用的输入设备上？机器控制的哪些方面需要简化？哪些可以使用简单的开关按钮，哪些需要线性控制？
 > 
 > 8. If a vehicle is capable of steering in a different direction from that in which it shoots, how can the player control both at once conveniently?
-> 如果车辆的转向方向与射击方向不同，玩家如何才能同时方便地控制这两个方向？
+> 如果交通工具的转向方向与射击方向不同，玩家如何才能同时方便地控制这两个方向？
 > 
 > 9. What navigational facilities is the player going to need to know where he is (radar screen, overlay map, separate map mode that pauses the game, and so on)?
 > 玩家需要哪些导航设施（雷达屏幕、叠加地图、暂停游戏的独立地图模式等）来了解自己所处的位置？
 > 
 > 10. What artificial intelligence is needed to create decent opponents in the game's competitive modes? What sorts of things will the artificial opponents need to manage? Will they be smart enough to take advantage of superior speed, acceleration, cornering ability, braking ability?
-> 在游戏的竞技模式中，需要什么样的人工智能来创造像样的对手？人工对手需要管理哪些事情？他们是否足够聪明，能利用出色的速度、加速度、转弯能力和制动能力？
+> 在游戏的竞技模式中，需要什么样的人工智能来创造合适的对手？人工对手需要管理哪些事情？他们是否足够聪明，能利用出色的速度、加速度、转弯能力和制动能力？
 > 
 > 11. Do we want to create a sense of speed for the player? If so, how will we create it? (Remember, you can use both visual and audible cues.)
-> 我们是否希望为玩家创造速度感？如果是，我们将如何营造？(记住，你可以同时使用视觉和听觉提示）。
+> 我们是否希望为玩家创造速度感？如果是，我们将如何营造？(记住，你可以同时使用视觉和听觉暗示）。
 
 # Putting It Together 总结
 
 Designing a vehicle simulation is primarily a question of research and compromise. Unless your game is a lightweight simulation such as [Super Mario Kart](https://en.wikipedia.org/wiki/Super_Mario_Kart), vehicle simulation is the most technologically oriented of games. Much of the entertainment value comes from the feeling of controlling a real machine instead of meeting strategic challenges or taking part in a story. To provide that value, you will need to research your vehicles thoroughly. If you're designing a military vehicle, you can probably find much of what you need from the Jane's Information Group, publishers of such volumes as Jane's All the World's Aircraft, and, of course, from the vehicle's manufacturer. For automobiles, the various enthusiast magazines offer all the data you could want.
 
-设计驾驶模拟游戏主要是一个研究和妥协的问题。除非你的游戏是轻量级的模拟游戏，如[《超级马里奥卡丁车》](https://en.wikipedia.org/wiki/Super_Mario_Kart)，否则车辆模拟游戏是最以技术为导向的游戏。游戏的娱乐价值很大程度上来自于控制真实机器的感觉，而不是应对战略挑战或参与故事情节。为了提供这种价值，你需要对车辆进行深入研究。如果你设计的是军用车辆，你可能可以从《简氏信息集团》（Jane's Information Group）、《简氏世界飞机大全》（Jane's All the World's Aircraft）等书籍的出版商那里找到很多你需要的资料，当然也可以从车辆制造商那里找到。对于汽车，各种汽车爱好者杂志可以提供你想要的所有数据。
+设计驾驶模拟游戏主要是一个研究和妥协的问题。除非你的游戏是轻量级的模拟游戏，如[《超级马里奥卡丁车》](https://en.wikipedia.org/wiki/Super_Mario_Kart)，否则车辆模拟游戏是最以技术为导向的游戏。游戏的娱乐价值很大程度上来自于控制真实机器的感觉，而不是应对战略挑战或参与故事情节。为了提供这种价值，你需要对车辆进行深入研究。如果你正在设计一个军用装备，你很可能可以从简氏信息集团找到所需的大部分信息，简氏集团出版了诸如《简氏世界飞机大全》等书籍，当然，还可以从装备的制造商获取信息。对于汽车，各种爱好者杂志提供了你可能想要的所有数据。
 
 The compromises occur when you start trying to control a simulated vehicle with a computer or console machine's I/O devices, especially a large, complicated vehicle such as a B-52 bomber. The kinds of compromises you make, and the places they take you, will depend mostly on whether your target audience is the purist or the casual player.
 
-当你开始尝试用计算机或控制台的输入/输出设备控制模拟飞行器时，尤其是像 B-52 轰炸机这样的大型复杂飞行器时，就会出现妥协。你会做出什么样的妥协，以及妥协会将你带向何方，这主要取决于你的目标受众是纯粹的玩家还是休闲玩家。
+当你开始尝试用计算机或游戏机的输入/输出设备控制一个模拟的交通工具时，尤其是像 B-52 轰炸机这样的大型复杂飞行器，就会出现妥协。你会做出什么样的妥协，以及妥协会将你带向何方，这主要取决于你的目标受众是纯粹的玩家还是休闲玩家。
