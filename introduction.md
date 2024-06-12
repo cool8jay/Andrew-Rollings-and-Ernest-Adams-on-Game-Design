@@ -4,9 +4,9 @@ Every game player is a potential game designer, and that means you.
 
 每个游戏玩家都是潜在的游戏设计师，这也意味着你。
 
-When you were a kid, you probably started many a game of whiffle ball or Monopoly with a little negotiation over the rules. "If the ball gets stuck in a tree, it's an out," "Chance and Community Chest fines go into a pool, and whoever lands on Free Parking gets the money," and so on. Kids don't hesitate to change the rules of existing games to make them more enjoyable. The participatory nature of playing a game encourages us to think about, and sometimes modify, its rules—that is, its design. And that's just as true of video games, too. We've all played games that we thought could be improved by a few adjustments.
+When you were a kid, you probably started many a game of whiffle ball or [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)) with a little negotiation over the rules. "If the ball gets stuck in a tree, it's an out," "Chance and Community Chest fines go into a pool, and whoever lands on Free Parking gets the money," and so on. Kids don't hesitate to change the rules of existing games to make them more enjoyable. The participatory nature of playing a game encourages us to think about, and sometimes modify, its rules—that is, its design. And that's just as true of video games, too. We've all played games that we thought could be improved by a few adjustments.
 
-当你还是个孩子的时候，你可能会在玩威浮球或大富翁游戏时，就游戏规则进行一番协商。“如果球卡在树上，那就是出局”，“机会和公益金的罚金都会进入一个池子，谁在免费停车上拿到了钱”，等等。孩子们会毫不犹豫地改变现有游戏的规则，使其更加有趣。玩游戏的参与性促使我们思考，有时甚至修改游戏规则，也就是游戏的设计。电子游戏也是如此。我们都玩过一些游戏，我们认为只要稍作调整就能改进游戏。
+当你还是个孩子的时候，你可能会在玩威浮球或[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))时，就游戏规则进行一番协商。“如果球卡在树上，那就是出局”，“机会和公益金的罚金都会进入一个池子，谁在免费停车上拿到了钱”，等等。孩子们会毫不犹豫地改变现有游戏的规则，使其更加有趣。玩游戏的参与性促使我们思考，有时甚至修改游戏规则，也就是游戏的设计。电子游戏也是如此。我们都玩过一些游戏，我们认为只要稍作调整就能改进游戏。
 
 But some people want to do more than alter the rules; they want to create entirely new games and even new kinds of games. Their heads are full of worlds to play in, characters to encounter, challenges to meet. Because you're reading this, you're almost certainly one of those people. Chances are that right this minute, you've got a great idea for a game your head—maybe half a dozen of them. But how do you turn a game idea into a game design?
 
@@ -132,9 +132,9 @@ Andrew Rollings and Ernest Adams on Game Design is divided into two parts. The f
 
 ## Non-Computer Games, Too! 非电脑游戏也是如此
 
-This book is primarily about designing interactive entertainment: computer and video games of various kinds. You will notice, however, that we frequently refer to non-computerized games as well—card games like poker, board games like Monopoly, and so on. We do this for three reasons:
+This book is primarily about designing interactive entertainment: computer and video games of various kinds. You will notice, however, that we frequently refer to non-computerized games as well—card games like poker, board games like [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)), and so on. We do this for three reasons:
 
-本书的主要内容是设计互动娱乐：各种计算机和视频游戏。不过，你会注意到，我们也经常提到非电脑化的游戏——扑克牌之类的纸牌游戏、大富翁之类的棋盘游戏，等等。我们这样做有三个原因：
+本书的主要内容是设计互动娱乐：各种计算机和视频游戏。不过，你会注意到，我们也经常提到非电脑化的游戏——扑克牌之类的纸牌游戏、[《大富翁》](https://en.wikipedia.org/wiki/Monopoly_(game))之类的棋盘游戏，等等。我们这样做有三个原因：
 
 First, those games are likely to be familiar to the largest number of people. Not all of our readers will have played computer games such as [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment), and some will be too young to remember [Colossal Cave](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), but everyone has heard of chess.
 
