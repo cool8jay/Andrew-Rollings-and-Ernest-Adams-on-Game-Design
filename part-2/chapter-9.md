@@ -388,7 +388,7 @@ In order to break up the predictability of predefined waves, many games use a ra
 
 For example, the Atari game Asteroids has predictable waves because, once they have appeared, the movement of the asteroids are completely deterministic—except at the instance where they are shot and break up into smaller asteroids. However, at random points during the wave, an enemy UFO appears and follows a non-deterministic path, shooting at the player.
 
-例如，雅达利游戏“小行星”中的波次是可以预测的，因为一旦小行星出现，它们的移动就完全确定了——除非它们被击中并碎裂成更小的小行星。然而，在波次中的某个随机时刻，一个敌对的 UFO 会出现，并沿着非确定的路径向玩家射击。
+例如，雅达利游戏《小行星》中的波次是可以预测的，因为一旦小行星出现，它们的移动就完全确定了——除非它们被击中并碎裂成更小的小行星。然而，在波次中的某个随机时刻，一个敌对的 UFO 会出现，并沿着非确定的路径向玩家射击。
 
 Another example is the [Galaxian](https://en.wikipedia.org/wiki/Galaxian) dive-bombers that break away from the main body of the wave and swoop down on the player's avatar. Wildcard enemies are usually a completely different class of enemy from level bosses, in that they are normally mixed in with normal enemies, and behave in a somewhat random or unexpected way.
 
