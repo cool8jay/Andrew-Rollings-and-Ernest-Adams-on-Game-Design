@@ -52,7 +52,7 @@ Interactive entertainment is an art form, but like film, television, and theater
 
 Game design cannot be reduced to a set of discrete instructions and processes. There is no formula that you can follow and produce a perfect game design, ready for your programming team to code into existence. However, you can take advantage of a set of common principles that apply to all successful games, and doing so can save you a fair amount of grunt work. Designing a successful game is not just random chance—although so many other factors besides design influence a game's success that it sometimes seems that way.
 
-游戏设计不能简化为一套离散的指令和流程。没有什么公式可以让你按部就班地设计出一个完美的游戏，再让你的编程团队随时可以编写代码。但是，你可以利用适用于所有成功游戏的一系列共同原则，这样做可以为你节省大量的繁琐工作。设计一款成功的游戏并非偶然——尽管除开设计之外，还有很多其他因素影响着游戏的成功，有时看起来就是这样。
+游戏设计不能被简化为一套离散的指令和流程。没有什么公式可以让你按部就班地设计出一个完美的游戏，再让你的编程团队编写代码实现。但是，你可以借助适用于所有成功游戏的共同原则，这样做可以为你节省大量繁琐的工作。设计一款成功的游戏并非偶然——尽管除开设计之外，还有很多其他因素影响着游戏的成功，以至于有时候，它看起来确实如此。
 
 ### The Importance of Game Design 游戏设计的重要性
 
