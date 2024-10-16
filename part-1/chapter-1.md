@@ -396,11 +396,11 @@ Infogrames 公司的[《时空英豪》](https://en.wikipedia.org/wiki/Outcast_(
 
 Deduction isn't ordinarily thought of as imagination, but it can lead to new and unexpected ideas. Deduction is the process of reasoning from a creative decision you've made to its possible consequences. For example, if you design a preindustrial farming community with no beasts of burden, the size of the fields and the productivity of the agriculture must necessarily be limited. Horses and oxen can pull plows and carry loads much farther than humans can. The limited food supply, in turn, affects the population growth rate and so on. These details are arrived at by deduction.
 
-演绎通常不被认为是想象力，但它能带来意想不到的新想法。演绎是从你做出的创意决定到其可能后果的推理过程。例如，如果你设计了一个没有牲畜的前工业化农业社区，那么田地的面积和农业生产率必然受到限制。马和牛可以比人类拉犁和运载更远的货物。有限的粮食供应反过来又会影响人口增长率，如此等等。这些细节都是通过推理得出的。
+演绎通常不被认为是想象，但它能带来意想不到的新想法。演绎是从你做出的创意决定到其可能后果的推理过程。例如，如果你设计一个没有驮兽的前工业化农业社区，那么田地的面积和农业生产率必然受到限制。马和牛能拉犁，运载货物也比人类远得多。有限的粮食供应反过来又会影响人口增长率，等等。这些细节都是通过演绎得出的。
 
 Nor does imagination consist only of the ability to think of things that are completely new. It's also valuable to be able to look at an old idea and apply a new spin to it, to breathe new life into it with a fresh approach. Too many people in the game industry see something old and familiar and dismiss it. Instead they should think, "How can this be made better? How might this be more interesting?" J.K. Rowling does this brilliantly in her Harry Potter novels. They're full of imaginative twists on old ideas about witches and wizards. She still has witches flying on broomsticks, but she invented the sport of Quidditch, which is played while flying on them.
 
-想象力也不仅仅指创造全新事物的能力。审视一个旧有观念，赋予其新的诠释，用新颖的方式为其注入活力，这同样弥足珍贵。在游戏行业中，有太多的人看到熟悉的旧事物就不屑一顾。相反，他们应该思考：“如何把它做得更好？如何让它更有趣？”J.K.罗琳在她的《哈利·波特》小说中就巧妙地做到了这一点。她的小说充满了对女巫和巫师这个古老题材的奇思妙想。她保留了让女巫骑着扫帚飞行的设定，但却发明了魁地奇这项骑着扫帚进行的运动。
+想象力也不仅仅指创造全新事物的能力。审视一个旧有观念，赋予其新的诠释，用新颖的方式为其注入活力，这同样弥足珍贵。在游戏行业中，有太多的人看到熟悉的旧事物就不屑一顾。相反，他们应该思考：“如何把它做得更好？如何让它更有趣？”J.K.罗琳在她的《哈利·波特》小说中就巧妙地做到了这一点。她的小说充满了对女巫和男师这个古老题材的奇思妙想。她保留了让女巫骑着扫帚飞行的设定，但却发明了魁地奇这项骑着扫帚进行的运动。
 
 ### Technical Awareness 技术意识
 
