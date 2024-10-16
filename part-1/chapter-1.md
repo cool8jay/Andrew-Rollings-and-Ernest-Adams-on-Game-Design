@@ -364,13 +364,13 @@ A game exists in an artificial universe, a make-believe place governed by make-b
 
 游戏存在于一个人造宇宙中，一个由虚构规则支配的虚构世界。想象力对于创造这个地方至关重要。幸运的是，这对大多数人来说都不是问题。即使你觉得想象力不是你的强项，也有可能发展和提高想象力。当然，这并不是一个新概念。从下面的摘录中就可以看出，它已经存在了几百年：
 
-"Thou shouldst regard various walls which are covered with all manner of spots, or stone of different composition. If thou hast any capacity for discovery, thou mayest behold there things which resemble various landscapes decked with mountains, rivers, cliffs, trees, large plains, hills and valley of many sort. Thou canst also behold all manner of battles, life-like positions of strange, unfamiliar figures, expressions of face, costumes, and numberless things which thou mayest put into good and perfect form…
+"Thou shouldst regard various walls which are covered with all manner of spots, or stone of different composition. If thou hast any capacity for discovery, thou mayest behold there things which resemble various landscapes decked with mountains, rivers, cliffs, trees, large plains, hills and valley of many sort. Thou canst also behold all manner of battles, life-like positions of strange, unfamiliar figures, expressions of face, costumes, and numberless things which thou mayest put into good and perfect form...
 
-“你应该看看各种污渍斑斑的墙壁或者五光十色的石头。如果你有发现的能力，你可以看到其中似乎真有各种风景，高山、河流、悬崖、树木、大片平原、丘陵和峡谷。你还能见到各种战争、陌生人物栩栩如生的姿势、表情、服饰以及无数可能组成完整形象的事物……
+“你应该看看各种污渍斑斑的墙壁或者五光十色的石头。如果你有发现的能力，你可以看到其中似乎真有各种风景，山峦、河流、悬崖、树木、大片平原、丘陵和峡谷。你还能见到各种战争、陌生人物栩栩如生的姿势、表情、服饰以及无数可能组成完整形象的事物……
 
 Do not despise this opinion of mine when I counsel thee sometimes not to let it appear burdensome to thee to pause and look at the spots on walls, or the ashes in the fire, or the clouds, or mud, or other such places; thou wilt make very wonderful discoveries in them, if thou observest them rightly... For through confused and undefined things the mind is awakened to new discoveries. But take heed, first, that thou understandest how to shape well all the members of the things that thou wishest to represent, for instance, the limbs of living beings, as also the parts of a landscape, namely the stones, trees, and the like."
 
-切莫轻视我的意见，我得提醒你们，时时驻足凝视污墙、火焰余烬、云彩、污泥以及诸如此类的事物，于你并不困难，只要思索得当，你确能收获奇妙的发现……通过混乱和朦胧的事物的刺激，心灵会被唤醒，从而有新的发现。但你首先必须知晓如何将你希望表现的物体的各部分，比如动物的肢体，或风景画的各要素诸如岩石、树木等等画好才成。”
+切莫轻视我的意见，我得提醒你们，时时驻足凝视污墙、火焰余烬、云彩、污泥以及诸如此类的事物，于你并不麻烦，只要观察得当，你确能收获奇妙的发现……通过混乱和朦胧的事物的刺激，心灵会被唤醒，从而有新的发现。但你首先必须知晓如何将你希望表现的物体的各部分，比如生物的肢体，或风景画的各要素诸如石头、树木等等画好才成。”
 
 —Leonardo da Vinci, [Treatise on Painting](https://en.wikipedia.org/wiki/A_Treatise_on_Painting)
 
